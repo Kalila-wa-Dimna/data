@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="186"/>
+
+      <p n="Wife Says Lovers Serve Only Pleasure">
+        كغيره من الناس
+      </p>
+
+      <p n="Wife Says Husband Is All To Her">
+        وإنّما الزوج بمنزلة الأب والأمّ
+      </p>
+
+      <p n="Wife Curses Fathless Women">
+        فقبّح الله امرأة
+        <lb/>
+
+        لا تكون حياة زوجها أحبّ إليها من حياء نفسها
+      </p>
+
+      <p n="Wifes Speech Charms Carpenter">
+        فلمّا سمع النجّار هذه
+        <lb/>
+
+        المقالة رقّ لها ووثق منها بالمودّة
+      </p>
+
+      <p n="Carpenter Waits Till Wife Awakens">
+        فلم يبرح من مكانه حتّى أصبح
+        <lb/>
+
+        وعلم أنّ الخليل قد ذهب ثمّ خرج فوجد امرأته متناومة فقعد
+        <lb/>
+
+        عندها وجعل يذبّ عن وجهها
+      </p>
+
+      <p n="Carpenter Forgives Wife">
+        حتّى تحرّكت المرأة كأنّها انتبهت
+        <lb/>
+
+        من نوم فقال لها بنفسي أنت نامي فإنّك بتّ البارحة ساهرة ولولا
+        <lb/>
+
+        إنّي كرهت مساءتك لقتلت ذلك الفاجر وصارمتك على ما كان منك
+      </p>
+
+      <p n="Carpenters Story Motivation">
+        وإنّما ضربت لكنّ هذا المثل لئلّا تكونون كذلك النجّار المكذّب
+        <lb/>
+
+        عينه المصدّق ما سمع
+      </p>
+
+      <p n="Suspect A Fawning Foe">
+        فلا تصدّقن هذا الغراب في مقالته واذكرن
+        <lb/>
+
+        أنّ كثيرًا من العدوّ لا يستطيع ضرّ عدوّه بالمباعدة حتّى يلتمسه بالمقاربة
+      </p>
+
+      <p n="Objector Became Fearful Of Crows">
+        وإنّي لم أتخوّف الغربان قطّ كتخوّفي منهنّ منذ رأيت هذا الغراب
+        <lb/>
+
+        وسمعت مقالتكنّ فيه
+      </p>
+
+      <p n="King O Ignores Objector">
+        فلم يلتفت مَلك البوم ولا سائر وزرائه إلى قوله
+      </p>
+
+      <p n="Spy Well Accommodated">
+        وأمر به البوم أن يُحمل إلى مكانهنّ وأن يُستوصى به خيرًا ويُكرم
+      </p>
+
+      <p n="Advice Mistrust Spy">
+        قال
+        <lb/>
+
+        الوزير الذي أشار بقتله إن لم يُقتل هذا الغراب فلتكن منزلته
+        <lb/>
+
+        منكنّ منزلة العدوّ المحترس المخوف منه فإنّ الغراب ذو شرّ وخديعة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

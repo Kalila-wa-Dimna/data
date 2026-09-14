@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="28"/>
+
+      <p n="Husband Explains Execution">
+        حتّى إذا استيقنوا في أنفسهم أنّهما قد ناما قام رئيسهم إلى مدخل
+        <lb/>
+
+        لينزل إلى البيت بعد أن قال الرقية فوقع منكّسًا على أمّ رأسه
+      </p>
+
+      <p n="Deceived Burglar Is Caught">
+        فوثب الرجل بهراوة أثخنه ضربًا وقال له من أنت
+      </p>
+
+      <p n="Comment On Burglar's Credulity">
+        قال أنا المصدّق
+        <lb/>
+
+        المخدوع الموافق لما سمعت قبل التجربة وأيقنت وأنا لكلّ ما صنعت
+        <lb/>
+
+        أهلًا إذ صدّقت مقالتك وخدعتني بباطلك وهذه ثمرة التصديق
+        <lb/>
+
+        بلا بيّنة ولا برهان
+      </p>
+
+      <p n="Burzoy Researches Religions Further">
+        فلمّا تحرّزت من التصديق لما لا آمن أن يوقعني في
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

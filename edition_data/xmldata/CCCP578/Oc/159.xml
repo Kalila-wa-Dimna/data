@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="159"/>
+
+      <p n="The Crow King Asks the First Crow">
+        تشير به *فإنّه قد كان ما رأيت ولسنا نأمن من رجعتهنّ ثانية
+      </p>
+
+      <p n="Escape Should Be the Recourse">
+        فقال الحيلة في
+        <lb/>
+
+        هذا الأمر ما قد سبقت إليه العقلاء والحكماء نذكر منه فإنّهم كانوا يقولون
+        <lb/>
+
+        إذا أتاك العدوّ الحَنِق الذي لا تقوى لقتاله ولا تطيق دواءه فإنّ أمثل الرأي
+        <lb/>
+
+        لك في الأمر الذي أتى به الهرب منه والنجاة إلى الموئل والحزن الذي يقعد به عنه
+      </p>
+
+      <p n="The Crow Kings Asks the Second Crow">
+        ثمّ سأل الثاني عن ما يرى في قول المتكلّم به صاحبه
+      </p>
+
+      <p n="Escape Is No Recourse">
+        فقال لم يقل شيئًا
+      </p>
+
+      <p n="The Downsides of Escape Are Explained">
+        فإنّه
+        <lb/>
+
+        لا ينبغي لنا أن نفرّ من بلادنا ونترك أثقالنا ومعايشنا ونهرب عن أوطاننا
+        <lb/>
+
+        ونتخلّى عنها ونذلّ لعدوّنا
+      </p>
+
+      <p n="Recourse Should be Made to Planning and Preparing">
+        ونكون على حذر واستعداد وتأهّب ونبعث
+        <lb/>
+
+        العيون والطوالع فيما بيننا وبينهم لا يخفى علينا خبر البوم ونحترس من الغرّة
+        <lb/>
+
+        والعودة فإن هنّ أقبلن
+      </p>
+
+      <p n="The Crows Should Fight Back the Owls">
+        نتحيّن عن سنّهنّ وقصدنا جماعتهنّ وقطعنا من أمرهنّ
+        <lb/>
+
+        ما استطعنا
+      </p>
+
+      <p n="There Is Hope for Victory">
+        ولعلّنا نصيب ظفرًا ونهزة فنجترئ منهنّ ممّا صنع بنا وايه
+        <lb/>
+
+        إلينا
+      </p>
+
+      <p n="Escape Should Not Be the First Choice">
+        ولا نبدأ أمرنا بالهروب وإضاعة الأموال والأثقال فيكون ما أصابوا
+        <lb/>
+
+        من ذلك عونًا علينا
+      </p>
+
+      <p n="The Crow King Asks the Third Crow">
+        ثمّ قال للثالث ما رأيك فيما قال صاحبك
+      </p>
+
+      <p n="The Crow Rejects Prior Input">
+        فقال لم يقل
+        <lb/>
+
+        شيئًا لعمري ما مدافعة الأيّام والرأي تستقيم فيما بيننا وبين البوم
+      </p>
+
+      <p n="Recourse Should be Made to Reconnaissance">
+        وما
+        <lb/>
+
+        الرأي إلّا أن تبعث منّا من له الفضل والرفق والعلم فيكون فيما بيننا وبين عدوّنا
+        <lb/>
+
+        ونتجسّس الأخبار ونعلم ما في أنفسهم
+      </p>
+
+      <p n="The Information Shall Determine a Truce or Tribute">
+        وهل يرضين منّا بأداء الخراج إليهنّ
+      </p>
+
+      <p n="Truce for a Tribute Should Be Sought">
+        فإن فعلن فنحن أحقّ بالتقدّم في ذلك والإقرار به والإسلام له ونقيم بمكاننا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

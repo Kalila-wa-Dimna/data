@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="10"/>
+
+      <p n="Burzoy Inquires About Court">
+        حتّى قدم الهند فأطال بباب ملك الهند المقام وتخلّل محال السوقة وسأل عن أقرباء
+        <lb/>
+
+        الملك والأشراف من أهل الهند وعلمائهم وفلاسفتهم فجعل يغشاهم في منازلهم
+      </p>
+
+      <p n="Burzoy Tells Of Kisras Mission">
+        واستصحبني لاستخراج هذا الكتاب من بلاد الهند ومن أيدي علمائهم وأنا خارج
+        <lb/>
+
+        من فوري هذا في طلبه إن شاء الله تعالى
+      </p>
+
+      <p n="Burzoys Speech Well Received">
+        فلمّا سمع أهل مملكته الملك بذلك
+        <lb/>
+
+        فرحوا فرحًا شديدًا ودعوا للملك بطول البقاء ولبرزويه بالمعونة على ما
+        <lb/>
+
+        خرج في طلبه
+      </p>
+
+      <p n="Astrologers Set Date">
+        فلمّا انقضى مجلسهم أمر الملك المنجّمين فوضعوا لبرزويه زيجة تخيّروا
+        <lb/>
+
+        له فيها يومًا يسير فيه وساعة صالحة
+      </p>
+
+      <p n="Burzoys Stipend">
+        ثمّ إنّ برزويه ودّع الملك وخرج من عنده
+        <lb/>
+
+        وحمل معه ما يحتاج إليه
+      </p>
+
+      <p n="Burzoy Travels To India">
+        وخرج يطوي الأرض طيًّا لا يعرّج على شيء ولا يلتوي عليه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

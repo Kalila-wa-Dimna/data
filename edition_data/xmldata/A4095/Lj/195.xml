@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="195"/>
+
+      <p n="Lion Deserves Harangue for Bad Judgment">
+        كلامك وأغلظه قال ابن آوى أيّها الملك لا يغلظنّ عليك
+        <lb/>
+
+        ولا يَخْشُن الحقّ والصدق إن خفّ عليك الكذب والباطل ممّا
+        <lb/>
+
+        حملت به عليّ ولا تحملنّ جوابي لك على الغلظة في محاورتي إيّاك وعلى سفه
+        <lb/>
+
+        رأي وقلّة بصر بما أقول
+      </p>
+
+      <p n="Jackal Justifies Harangue">
+        ولكن قد قلت ذلك لخصلتين منهما
+        <lb/>
+
+        أنّ في القصاص تسلية الضغائن وإطلاقًا لمنعقد الحقد وأحببت
+        <lb/>
+
+        أن أخرج ما في نفسي ممّا وترتني به ليسلم لك صدري من الضغن
+        <lb/>
+
+        ولتخلص لك منه سلامة العتب ومنهما أنّي أحببت أن تكون
+        <lb/>
+
+        أنت الحاكم على نفسك وألّا أكون أنا الحاكم عليك مع أنّي لم أجترئ على
+        <lb/>
+
+        هذه المقالة حتّى استعهدتك من نفسك
+      </p>
+
+      <p n="Jackal Credits King's Mother">
+        قال الأسد أولم
+        <lb/>
+
+        أحسن التثبّت في أمرك قال ابن آوى إنّما كان التثبّت من أمّ الملك
+        <lb/>
+
+        وكان التعجيل بقتلي من قِبَلك أيّها الملك
+      </p>
+
+      <p n="Lion Expects Credit for Admitting Error">
+        قال الأسد ألم تزعم
+        <lb/>
+
+        أن التجاوز عن إساءة العمد أفضل ما يكون من الإحسان فكيف لا يكون
+        <lb/>
+
+        ذلك لأهل الخروج عن الخطأ على الكَرْه إلى الإحسان على علم
+      </p>
+
+      <p n="Jackal Fears a Vulnerable Relationship with Lion">
+        قال ابن آوى
+        <lb/>
+
+        إن لم أقل ما قلت لأوقف الملك على إساءة في أمري ولا على الخطأ في
+        <lb/>
+
+        أمره وحكمه في شأني ولكنّي أيضًا قد تخوّفت موضعًا حدث لأهل
+        <lb/>
+
+        المكر يجدون به فيما بيني وبينك مدخلًا
+      </p>
+
+      <p n="Jackal Fears Accusation of Holding Grudge">
+        قال الأسد وما
+        <lb/>
+
+        ذاك الموضع قال يُقال لك أيّها الملك قد دخلتْ قلب ابن آوى
+        <lb/>
+
+        عليك ضغينة فيما أدخلت عليه من التهمة والوحشة وما أشربت به
+        <lb/>
+
+        قلبه من الإشراف على الهلكة فقال كذا وكذا
+      </p>
+
+      <p n="Kings Expect Grudges from the Mistreated">
+        وهذا
+        <lb/>
+
+        سبب مظنون بالملوك بمن أصابته منهم عقوبة أو جفوة أو
+        <lb/>
+
+        تغيّر منزلة أو عزل عن سلطان أو أُوثر لغيره عليه ممّن هو دونه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

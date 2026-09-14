@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="134"/>
+
+      <p n="Leopard &amp; Judge Bring Lion the Court Records Who Has Them Copied">
+        والقاضي قد أتياه بالكتب ووضعاها بين يديه ينظر فيها وأمر
+        <lb/>
+
+        بكتّابه أن ينسخوها للنمر
+      </p>
+
+      <p n="Judge Orders Leopard and Judge to Return Dimna Before Court">
+        وقال له وللقاضي انطلقا بدمنة قأوقِفاه
+        <lb/>
+
+        إلى الجند وارفعا إليّ ما يكون من قولهم وعدوّه في ذلك
+      </p>
+
+      <p n="Lion Reads Court Records to Mother">
+        فلمّا خرجا
+        <lb/>
+
+        خرج دمنة من عند الأسد أتته أمّ الأسد فقرأ عليها تلك الكتب
+        <lb/>
+
+        والأخبار
+      </p>
+
+      <p n="Mother Alerts Lion of His Own Benefit and Motivates Her Harsh Words">
+        فقالت أمّ الأسد لا تحزن عليّ إن أنا اغلظت لك في القول
+        <lb/>
+
+        فأنّي لا أراك تعرف ما يضرّك ممّا ينفعك لغرور هذا الفاجر المحتال
+        <lb/>
+
+        فاسترحْ منه فإنّك أن استبقيته يفسد عليك جندك وانصرفت
+        <lb/>
+
+        وهي غضبانة عليه
+      </p>
+
+      <p n="Ruzbeh Reports Mother's Words to Dimna">
+        ثمّ أن روزبة أتى دمنة في السجن فأخبرته بما قالت
+        <lb/>
+
+        أمّ الأسد عند قراءة الكتب
+      </p>
+
+      <p n="Men Take Dimna Before Court">
+        فبينا هو في حديثه أتته رسل القاضي
+        <lb/>
+
+        فانطلقوا به فأقاموه للنّاس واجتمع الجند والرعيّة ودمنة واقف
+      </p>
+
+      <p n="Head of Court Deems Extant Facts Sufficient">
+        قال
+        <lb/>
+
+        عظيم الجند قد عرفت أمرك يا دمنة وتيّقنته وأتاني من هو عندي
+        <lb/>
+
+        أمين وليس ينبغي لي أن أسأل عن شئ منه ولا أنظر فيه مع ما قد فحصنا
+        <lb/>
+
+        عنه
+      </p>
+
+      <p n="King's Mercy Permitted Investigation Despite Convincing Testimony">
+        ولولا ما أمرنا به الملك لرأفته بالرعيّة وعطفه ورحمته لقد كان
+        <lb/>
+
+        القضاء بيّنًا عليك
+      </p>
+
+      <p n="Dimna Accuses Head of Court of Ignoring Facts">
+        فقال دمنة إنّ منطقك ليس بذي رأفةٍ ولا رحمةٍ
+        <lb/>
+
+        ولا نظرٍ في أمر مظلومٍ ولا طلب للحقّ والعدل
+      </p>
+
+      <p n="After Three Days Dimna's Guilt Is Unproven">
+        ولكنّي أراك راكبًا هواك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

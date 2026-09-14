@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="86"/>
+
+      <p n="Dimna Now Repays Courtier's Hostility">
+        باديتني بالعداوة ونطقت بالبهتان عليّ من غير علمٍ
+      </p>
+
+      <p n="Dimna Says Courtier Deserves Not Even the Lowest Profession">
+        فإنّه لا
+        <lb/>
+
+        ينبغي أن يكون صاحب السلطان دبّاغًا ولا حجّامًا دع ما أن يكون بالمنزلة التي
+        <lb/>
+
+        أنت بها منه
+      </p>
+
+      <p n="Courtier Is Outraged">
+        فقال رأس الخنازير ألي تقول ما أسمع
+      </p>
+
+      <p n="Dimna Calls Courtier Filthy and Leprous and">
+        فقال نعم
+        <lb/>
+
+        حقًّا لك أقول فإنّك قد جمعت أنك آدرٌ مبسورٌ تحكّ ذلك النهار
+        <lb/>
+
+        كلّه أفدع متسائل الخلق خبيثه
+      </p>
+
+      <p n="Courtier Is Reduced to Tears">
+        فلمّا سمع ذلك رأس الخنازير
+        <lb/>
+
+        وما رماه به خنقته العبرة فبكى لجرأته عليه وإغلاظه له
+      </p>
+
+      <p n="Dimna Calls Courtier Unfit for Court">
+        قال له
+        <lb/>
+
+        دمنة إنّه لينبغي أن تبكي وتُكثِر دموعك فإنّ الملك لو قد اطّلع
+        <lb/>
+
+        على أمرك وعلم الذي أنت عليه أقصاك وأبعدك
+      </p>
+
+      <p n="Lion Is Informed by Court Secretary and Ousts Courtier">
+        فلمّا سمع ذلك
+        <lb/>
+
+        أمين الأسد الذي أمره بحفظ ما يقولون وكان اسمه سبهرج رفعه
+        <lb/>
+
+        إليه فعزل رأس الخنازير عن عمله وأمر بإخراجه وإقصائه عنه
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded, He Is Returned to Prison; End of First Day of Trial">
+        وكتب النمر والقاضي ما قال دمنة وما قيل له وختما عليه وبعثا
+        <lb/>
+
+        به إلى السجن
+      </p>
+
+      <p n="Ruzbeh Is Kalīla's Friend">
+        ثمّ إنّ صديقًا لكليلة يُقال له فَيروز
+      </p>
+
+      <p n="Ruzbeh/Fayruz Tells Dimna of Kalila's Death">
+        انطلق إلى دمنة
+        <lb/>
+
+        فأخبره بموت كليلة
+      </p>
+
+      <p n="Dimna Grieves for Kalila">
+        فبكى بكاءً شديدًا وقال ما أصنع اليوم بالحياة
+        <lb/>
+
+        وقد هلك أخي وصفيّ
+      </p>
+
+      <p n="Misfortunes Never Come Singly">
+        لقد صدق القائل إنّ الإنسان إذا ابُتليَ أتاه
+        <lb/>
+
+        الشرّ من كلّ جانبٍ واكتنفه من الهمّ والحزن مثل الذي بي
+      </p>
+
+      <p n="Dimna Asks Ruzbeh to Be His Friend">
+        وقد رأيت
+        <lb/>
+
+        مع ما دخل عليّ بمؤدّبي ومتعهّدي بما فيه رشدي وقد أبقى الله لي
+        <lb/>
+
+        منك أخًا ليس بدونه بل أرجو أن تكون أفضل منه عطفًا عليّ
+        <lb/>
+
+        ونظرًا لي وأن تهتمّ في أمري بما بعثني به أخو الحفاظ
+      </p>
+
+      <p n="Dimna Has Ruzbeh Fetch Their Belongings">
+        فإن رأيت
+        <lb/>
+
+        أن تنطلق إلى منزل كليلة فتأتيني بما كان لي وله فيه فأفعل فلمّا
+        <lb/>
+
+        جاء به أعطاه نصيب كليلة كلّه وقال أنت أحقّ به من غيرك
+      </p>
+
+      <p n="Dimna Gives Ruzbeh Half, Asks Him to Put in Good Word with Lion and Mother and Report Their Words to Him">
+        وطلب إليه
+        <lb/>
+
+        أن يحضره عند الأسد بخيرٍ وأن يُعلّمه ما تذكر أمّ الأسد منه عنده
+      </p>
+
+      <p n="Ruzbeh Accepts Gift">
+        فوعده
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

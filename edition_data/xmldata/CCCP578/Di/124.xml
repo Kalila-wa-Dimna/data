@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="124"/>
+
+      <p n="Leopard Calls for Testimony">
+        إلى الملك
+      </p>
+
+      <p n="Due Process Will Be Followed">
+        فإنّه لا يقتل أحدًا إلّا بعد الفحص والتثبّت واليقين
+      </p>
+
+      <p n="Judge Calls for Testimony on Three Accounts">
+        فقال القاضي
+        <lb/>
+
+        انظروا ما تكلّم به الأمير فاتّبعوه ولا يكتمن أحد شيئًا من علمه
+      </p>
+
+      <p n="Importance of Due Process">
+        فإنّه لا ينبغي لكم أن
+        <lb/>
+
+        تكرهوا وقوع القضاء على ما وافقكم وخالفكم
+      </p>
+
+      <p n="Consequences of Taking Evil Deeds Lightly">
+        ولا تضيعوا شيئًا فإنّ صغير الحقّ
+        <lb/>
+
+        عظيم وأقطع منه عند الله أن يقتل نفس بغير ذنب لنميمة كاذب فاجر
+      </p>
+
+      <p n="Eliminating Criminals Benefits Society">
+        والثانية
+        <lb/>
+
+        أنّه إذا قُتل ذا الفجور والنميمة كان في ذلك راحة للملك وجنده فلأنّ كينونته
+        <lb/>
+
+        بينهم بلاء عليهم وشرّ لازم
+      </p>
+
+      <p n="Judge Reiterates the Call for Testimony">
+        فلينظرْ كلّ امرئ منكم بعلمه ولا يكتم حقًا ولا يثبّت باطلًا
+      </p>
+
+      <p n="Dimna Challenges All Only to Say What They Know">
+        فقال دمنة ما لكم سكوتًا ليتكلّم أنّه قد رأى حالكم **
+      </p>
+
+      <p n="Dimna's Second Subtale of Ignorant Physician">
+        ** يرَ وعلم <> ما لم يعلم خليق أن يصيبه
+        <lb/>
+
+        ما أصاب الطبيب الجاهل
+      </p>
+
+      <p n="Judge Request Tale">
+        فقال القاضي وكيف كان ذلك
+      </p>
+
+      <p n="Famous Physician Dies or Goes Blind">
+        قال دمنة من زعموا أنّه
+        <lb/>
+
+        كان في مدينة من مدائن السند طبيب عالم رفيق **
+      </p>
+
+      <p n="Quack Appears in Town">
+        ** ولم يك كذلك
+      </p>
+
+      <p n="Pregnant Princess Falls Sick">
+        وكان لملكهم
+        <lb/>
+
+        ابنة كريمة عليه وكانت حاملًا فأصابها وجع
+      </p>
+
+      <p n="King Sends in Search of Physician">
+        فبعث في طلب الأطبّاء
+      </p>
+
+      <p n="Blind Physician Prescribes Drug">
+        فأتت رحلة
+        <lb/>
+
+        رجلًا منهم كان له علم على رأس فراسخ فوجدوه قد عمي فوصفوا له وجعها فوصف لهم
+        <lb/>
+
+        دواء يسقونها يسمّى دامهران فرجعوا إلى الملك فأخبروه بذلك
+      </p>
+
+      <p n="Quack Ordered to Mix Drug">
+        فطلب الملك طبيبًا
+        <lb/>
+
+        يهيّئ ذلك الدواء فأتاه ذلك الرجل فأخبره أنّه عارف بالأدوية وإخلاطها فأمر
+        <lb/>
+
+        بأسقاط ذلك الطبيب الميّت فجيء بها
+      </p>
+
+      <p n="Quack Confuses Drug with Poison">
+        فوضعت بين يديه وأخذ من أحدها صرّة
+        <lb/>
+
+        فيها سمّ قاتل فجعل منها ومن غيرها
+      </p>
+
+      <p n="Quack Identifies Drug to King">
+        ثمّ قال يا مولاي هذا دامهران
+      </p>
+
+      <p n="King Rewards Quack">
+        فلمّا رأي الملك
+        <lb/>
+
+        سرعة فراغه من ذلك ظنّ أنّه عالم فأمر له بكسوة
+      </p>
+
+      <p n="Quack Poisons Princess">
+        ثمّ سقى الجارية من ذلك فلم تلبثْ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="54"/>
+
+      <p n="Proverb About Not Fearing All Sounds">
+        وفي بعض الأمثال تبيان ذلك
+      </p>
+
+      <p n="Lion's Question About Fearless Sounds">
+        قال الأسد وكيف ذلك
+      </p>
+
+      <p n="Dimna's Explanation of Not Fearing All Sounds">
+        قال دمنة ليس
+        <lb/>
+
+        من كلّ الأصوات ينبغي أن تُهاب
+      </p>
+
+      <p n="Third Subtale of Fox and Drum">
+        ومثل ذلك أن ثعلبًا مرّ بأجمة وهو جائع
+        <lb/>
+
+        وفيها طبل ملقى في أصل شجرة فهبّت الريح فجعلت قضبان الشجرة تقرعه
+        <lb/>
+
+        فيشدّ صوته
+      </p>
+
+      <p n="Fox's Approach to the Loud Sound">
+        وسمع الثعلب ذلك الصوت فتوجّه نحوه حتّى أتاه
+      </p>
+
+      <p n="Fox Splits Drum Expecting Food">
+        فلمّا رآه
+        <lb/>
+
+        ضخمًا ظنّ في نفسه أنّ ذلك لكثرة شحمه ولحمه فعاجل شقّه
+      </p>
+
+      <p n="Fox Finds Drum Empty">
+        فلمّا رآه أجوف
+        <lb/>
+
+        قال لا أدري أضعف الأشياء أعظمها جثّة وأبعدها صوتًا فانصرف عنه وقال هذه المقالة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

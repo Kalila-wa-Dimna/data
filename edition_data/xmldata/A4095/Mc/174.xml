@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="174"/>
+
+      <p n="The King Asks about Escaping Enemies">
+        فسلم ممّا يتخوّف ووفى لمن صالح منهم فأخبرني عن موضع الصلح
+        <lb/>
+
+        وكيف يُلتمس ذلك
+      </p>
+
+      <p n="The Philosopher Responds that Emotions Change">
+        قال الفيلسوف إنّ العداوة والمودّة
+        <lb/>
+
+        والبغضاء ليس كلّها تثبت وتدوم وكثير من المودّة يتحوّل بغضًا
+        <lb/>
+
+        وكثير من البغض يتحوّل محبّة ومودّة عن حوادث العلل والأمور
+      </p>
+
+      <p n="The Intelligent Adapts to Situations">
+        وذوى الرأي والعقل يهيّئ لكلّ ما حدث من ذلك رأيًا من الطبع
+        <lb/>
+
+        فيما يحدث من ذلك قبل العدوّ ولا بأس فيما عند الصديق
+      </p>
+
+      <p n="Enmity Must Not Stop One from Requesting Help">
+        ولا يمنعنّ
+        <lb/>
+
+        ذا العقل عداوة كانت لعدوّه من مقاربته والتماس ما
+        <lb/>
+
+        عنده إذا طمع منه في دفع مخوف ويُعمِل الرأي في إحداث المواصلة
+        <lb/>
+
+        والموادعة
+      </p>
+
+      <p n="The Resolute Attains His Need">
+        ومن أبصر الرأي في ذلك فأخذ فيه بالظفر بحاجته
+      </p>
+
+      <p n="The Parable of the Cat and Rat Is Invoked">
+        ومن
+        <lb/>
+
+        أمثال ذلك مثل الجرذ والسنّور الذين اصطلحا حين كان ذلك الرأي
+        <lb/>
+
+        لهما صوابًا وكان في صلحهما صلاحهما جميعًا ونجاتهما من الورطة
+        <lb/>
+
+        الشديدة
+      </p>
+
+      <p n="The King Requests the Full Parable">
+        قال الملك وكيف كان ذلك قال الفيلسوف
+      </p>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        زعموا
+        <lb/>
+
+        أنّه كان بأرض سرنديب شجرة من الدوح وكان في أصلها
+        <lb/>
+
+        حجر لجرذ يُقال له فريدون وجحر لسنّور يُسمّى روميّ
+      </p>
+
+      <p n="The Cat Is Caught">
+        وكان الصيّادون
+        <lb/>
+
+        ربّما اجتازوا بذلك المكان يلتمسون صيد الوحش وأنّ صيّاد
+        <lb/>
+
+        أمرّ ونصب حباله ذات يوم فوقع فيها روميّ
+      </p>
+
+      <p n="The Rat Seeks Food">
+        وخرج الجرذ
+        <lb/>
+
+        يبتغي ما يأكل وهو مع ذلك حذر يتلفّت وينظر فلمّا رأى
+        <lb/>
+
+        السنّور مقتنصًا في الحبال فرح
+      </p>
+
+      <p n="Foes Surround the Rat">
+        ثمّ التفت خلفه فأبصر ابن عرس
+        <lb/>
+
+        قد تبعه فنظر فوقه فإذا بومة على شجرة ترصده فخاف إن انصرف
+        <lb/>
+
+        راجعًا أن يثب عليه ابن عرس وإن ذهب يمينًا أو شمالًا أخذته
+        <lb/>
+
+        البومة وإن تقدّم فالسنّور أمامه
+      </p>
+
+      <p n="The Rat Weighs His Predicament">
+        فقال الجرذ هذا بلاء قد اكتنفني
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="260"/>
+
+      <p n="Investigation Would Clear Jackal">
+        إنّما هو مكر من أعدائه الذين ائتمروا بهذا الأمر
+      </p>
+
+      <p n="Jackal's Foes Perhaps Hid Meat">
+        وذهبوا به إلى منزله فخبّؤوه
+        <lb/>
+
+        فيه
+      </p>
+
+      <p n="Kite's Booty Attracts Competitors">
+        فإنّ الحدأة إذا كان في رجلها البضعة من اللحم أقبلت عليها الطير
+        <lb/>
+
+        والكلاب
+      </p>
+
+      <p n="Schemers Pursue Only Own Benefit">
+        وإنّ خصماء ابن آوى لم ينظروا في ما يضرّك ولن يستبْقَوه لعاجل
+        <lb/>
+
+        منفعته أنفسهم
+      </p>
+
+      <p n="King Must Protect Himself">
+        فانظر أنت فيما ينفعك ولا تمالئهم فيما يضرّك
+      </p>
+
+      <p n="Lack of Good Advisors Is Damaging">
+        فإنّ خلّتين
+        <lb/>
+
+        ينبغي لكلّ أحد ألّا يعدوهما ولا سيّما الملوك خاصّة فإنّها من أعظم المصائب
+        <lb/>
+
+        وأنفَسها لأعمالهم ومروءاتهم معارفة أهل العلم والرفق بالعمل ومقاربة
+        <lb/>
+
+        أشرارهم الجهّال بالعلم ذوي الخرق فيه
+      </p>
+
+      <p n="Lion Benefited from Jackal">
+        وكان قرب ابن آوى منك إلى
+        <lb/>
+
+        اليوم نافعًا
+      </p>
+
+      <p n="Jackal Toiled for Lion">
+        وكان محتملًا لكلّ ضرّ وصل إليه في جنب منفعة تصل
+        <lb/>
+
+        إليك
+      </p>
+
+      <p n="Jackal Hid no Secrets from Lion">
+        ولم يكن يطوى دونك سرًّا ولم يكن يرى ما شقّ عليه من قول
+        <lb/>
+
+        أو فعل أو عطاء إذا فعله في مرضاتك ضرًّا ولا مكرًا
+      </p>
+
+      <p n="Such Advisors Are Like Family">
+        ومن كان كذلك
+        <lb/>
+
+        من الأخلّاء فهو بمنزلة الأب والأمّ
+      </p>
+
+      <p n="Courtier Exonerates Jackal">
+        فبينا أمّ الأسد تقصّ هذه المقالة على
+        <lb/>
+
+        الأسد إذ دخل بك من مكر بابن آوى فأخبر ببراءته
+      </p>
+
+      <p n="Mother Reaffirms Intrigue">
+        قالت للأسد أمّا
+        <lb/>
+
+        إذا استبانت لك براءة ابن آوى بعد تظاهر من جندك عليه بعداوتهم
+        <lb/>
+
+        ومكرهم
+      </p>
+
+      <p n="Lion Must not Tolerate Misdeeds">
+        فأنت حقيق أن تقطع ما تظاهروا عليه لتنجو من الإثم وما
+        <lb/>
+
+        أدخلوا عليك من مضرّة
+      </p>
+
+      <p n="Lion Must Punish Plotters">
+        لئلّا يتظاهروا بعدها على أحد من قرابتك ولئلّا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

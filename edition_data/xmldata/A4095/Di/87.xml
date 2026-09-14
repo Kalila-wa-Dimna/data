@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="87"/>
+
+      <p n="Ruzbeh Accepts Gift">
+        فوعده ذلك وقبل ما أعطاه
+      </p>
+
+      <p n="Leopard &amp; Judge Bring Lion the Court Records Who Has Them Copied">
+        ثمّ إنّ فيروز غدا إلى الأسد
+        <lb/>
+
+        فوافق النمر عنده والقاضي قد أتياه بالكتب فوضعاها بين يديه
+        <lb/>
+
+        فنظر فيها وأمر كاتبه بنسخها ودفعها إلى النمر
+      </p>
+
+      <p n="Judge Orders Leopard and Judge to Return Dimna Before Court">
+        وقال له
+        <lb/>
+
+        وللقاضي انطلقا بدمنة فقِفاه للجند ثمّ ارفعا إليّ ما يكون منه وعذره
+        <lb/>
+
+        في ذلك
+      </p>
+
+      <p n="Lion Reads Court Records to Mother">
+        فلمّا أُخرجوا من عند الأسد أتته أمّه فقرأ عليها تلك الكتب
+      </p>
+
+      <p n="Mother Alerts Lion of His Own Benefit and Motivates Her Harsh Words">
+        فقالت أمّ الأسد لا تَجِدَنّ عليّ إن أنا أغلظت لك في القول فإنّي لا أراك تعرف
+        <lb/>
+
+        ما يضرّك ممّا ينفعك وليس هذا ممّا كنت أنهاك عنه من استماع قول هذا
+        <lb/>
+
+        الفاجر المحتال فإنّك إن استبقيته أفسد عليك جندك وفرّق ملأهم وانصرفت
+        <lb/>
+
+        من عنده وهي غضْبى عليه
+      </p>
+
+      <p n="Ruzbeh Reports Mother's Words to Dimna">
+        ثمّ إنّ روزبه أتى دمنة فأخبره بذلك
+      </p>
+
+      <p n="Men Take Dimna Before Court">
+        فبينما
+        <lb/>
+
+        هو في حديثه إذ أتاه رسول القاضي فانطلق به إليه
+      </p>
+
+      <p n="Head of Court Deems Extant Facts Sufficient">
+        فقال عظيم
+        <lb/>
+
+        الجند قد علمت أمرك وتيقّنته وأتاني به من هو عندي أمينٌ وليس ينبغي
+        <lb/>
+
+        لي أن أسأل عن شيئًا منه ولا أنظر فيه سوى ما قد فحصت
+      </p>
+
+      <p n="God Placed Signs of Truth in the World and Prophets to Explain Them">
+        فإنّ العلماء
+        <lb/>
+
+        قالت إنّ الله جعل لكل شيءٍ من أمر الآخرة علمًا ومصداقًا فإمّا في
+        <lb/>
+
+        الدنيا فقد دلّت عليه أنبياؤه ورسله
+      </p>
+
+      <p n="King's Mercy Permitted Investigation Despite Convincing Testimony">
+        ولولا ما أمرنا به الملك لرأفته
+        <lb/>
+
+        ورحمته بالرعيّة لكان القضاء بيّنًا عليك
+      </p>
+
+      <p n="Dimna Accuses Head of Court of Ignoring Facts">
+        فقال دمنة إنّ منطقك
+        <lb/>
+
+        ليس بذي وجهٍ ولا رأفةٍ ولا نظرٍ في أمر مظلومٍ ولا طلبٍ للحقّ والعدل
+      </p>
+
+      <p n="After Three Days Dimna's Guilt Is Unproven">
+        ولكنّي أراك راكبًا لهواك تريد قتلي ولم تستضئ لك شيءٌ من أمري وما
+        <lb/>
+
+        قُذفتُ به ولم أبلغ ثلثة أيّامٍ بعد
+      </p>
+
+      <p n="Vile People Dislike Good People">
+        ولست بملومٍ بذلك عندي لأنّ
+        <lb/>
+
+        الفاجر لا يحبّ الصلاح وأهله ولا من يعمل أعمال التقى
+      </p>
+
+      <p n="A Judge Has the Authority to Punish and Reward">
+        فقال القاضي
+        <lb/>
+
+        إنّ حقًّا على الوالي أن يُجازِيَ المرء بصلاحه ويعرفه له لأنّه أهلٌ لكلّ
+        <lb/>
+
+        خيرٍ أُتي إليه وأن يُنكّل المجرم عن إساءته ويعذّبه عليها ويُعاقبه
+        <lb/>
+
+        عليها ليزداد أهل الخير في الصلاح رغبةً وأهل الجرائم عن الإساءة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="227"/>
+
+      <p n="Brahmins Dramatize Dreams">
+        رؤياه فقالوا أيّها المَلك ما أشدّ هذه الرؤيا وأعظم ما تتخوّفه منها
+      </p>
+
+      <p n="Brahmins Request Delay">
+        فإن
+        <lb/>
+
+        شئت أيّها المَلك أذنت لنا في الخروج عنك ومناظرة بعضنا بعضًا
+        <lb/>
+
+        فيها وقراءة كتبنا وما نجد من التأويل فيها ثمّ نعود إلى المَلك بعد
+        <lb/>
+
+        أيّام لنخبره بتأويلها ووجه الخلاص فيها من مكرهها وغمّها
+      </p>
+
+      <p n="King Grants Delay">
+        فرضي المَلك قولهم وأذن لهم في الخروج
+      </p>
+
+      <p n="Brahmins See Chance">
+        فخرجوا من عنده واجتمعوا
+        <lb/>
+
+        فقال بعضهم لبعض إنّ هذا المَلك قد قتل منكم اثني عشر ألف محارب
+        <lb/>
+
+        وأباد أهل ملّتنا وخرّب المدائن وقد اطّلعنا على سرّه ووجدنا بذلك
+        <lb/>
+
+        عليه سبيلًا لدرك الثأر منه
+      </p>
+
+      <p n="Brahmins Plan Revenge">
+        فليجتمع رأيكم على أن نغلّظ له في القول ونجيبه
+        <lb/>
+
+        على ما رأى في منامه على تحمله الفرق على أن يصنع ما نقول له
+      </p>
+
+      <p n="Brahmins Will Order Killings">
+        ونقول له
+        <lb/>
+
+        إنّ في هذه الرؤيا قتلك وذهاب مُلكك عنك إلى أعدائك
+      </p>
+
+      <p n="Brahmins List Of Victims">
+        ولن يدفع
+        <lb/>
+
+        ذلك عنك إلّا بقتل هليث أم جويبر أكرم نسائك عليك وجويبر ابنها
+        <lb/>
+
+        أحبّ بنيك وابن أخيك الكريم عليك وبلاذ وزيرك ودخيلك وكاتبك
+        <lb/>
+
+        وصاحب سرّك وكسر سيفك الأعظم أعظم سيوفك قدرًا وأغلاهم ثمنًا
+        <lb/>
+
+        وقتل فيلك الأعظم الأبيض الذي هو مركبك والفيلين الآخرين والبختيّ
+        <lb/>
+
+        السريع وكينارون الحكيم
+      </p>
+
+      <p n="King Shall Bath In Blood">
+        ثمّ تجعل دماءهم في إناء ثمّ تغمس فيه نفسك
+      </p>
+
+      <p n="unassigned">
+        ونقعد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

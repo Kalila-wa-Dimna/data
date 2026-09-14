@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="169"/>
+
+      <p n="Chance Is Lost Without Advice">
+        ولا نصيحة من الوزراء والعقلاء وقيل منهم لم يلبث وإن ساق القدر
+        <lb/>
+
+        إليه حظًّا أن يضيع
+      </p>
+
+      <p n="Chances Favor Intelligent">
+        فإنّ الفضل المقسوم لم يُقسم للجمال ولا للحسب ولكن
+        <lb/>
+
+        يُقسم للعاقل المستمع من ذوي العقول
+      </p>
+
+      <p n="Spy Praises King C">
+        فأنت أيّها المَلك لما أتاك الله من
+        <lb/>
+
+        الفضل ومنحك به من الكرم من أفضل الملوك رأيًا وأحسنهم بأمر
+        <lb/>
+
+        الرعيّة قيامًا
+      </p>
+
+      <p n="Spys Advice Partially Secret">
+        وقد استشرتنا في شيء لا بدّ من إجابتك فيه فأنا مجيبك
+        <lb/>
+
+        بشيء أنا أحبّ إسراره
+      </p>
+
+      <p n="Spys Open Advice">
+        فأمّا ما لا أكره إعلانه فإنّي كما لا أرى القتال فكذلك
+        <lb/>
+
+        لا أرى الهرب ولا الخضوع والرضى بذلّ النفس
+      </p>
+
+      <p n="Dignity Over Life">
+        فإنّ العاقل يختار الموت
+        <lb/>
+
+        كريمًا محافظًا على الحياة راغمًا ذليلًا وأرى ألّا تؤخّر النظر في أمرنا
+        <lb/>
+
+        ولا من شأننا التثبّط والتهاون
+      </p>
+
+      <p n="Indecision Is Impotence">
+        فإنّ التثبّط رأس العجز
+      </p>
+
+      <p n="Spy Moves To Secret Advice">
+        وأمّا ما أريد
+        <lb/>
+
+        إسراره فليكن عندك سرًّا
+      </p>
+
+      <p n="Who May Discover Secret">
+        وإنّما يُطّلع على الرأي من قبل خمسة من
+        <lb/>
+
+        قبل صاحب الرأي ومن قبل مشاورته ومن قبل البُرد والرسل ومن قبل
+        <lb/>
+
+        المستمعين للكلام والناظرين في أثر الرأي ومواقع العقل بالتظنّي والتشبيه
+      </p>
+
+      <p n="Two Benefits Of Guarding Secret">
+        ومن حصّن سرّه فله من تحصينه أحد أمرين إمّا الظفر بما يريده وإمّا
+        <lb/>
+
+        السلامة من عدوّه
+      </p>
+
+      <p n="Kind Needs Confidant">
+        ولا بدّ لصاحب السرّ من مستشار رأيًا
+      </p>
+
+      <p n="Advice To King Like Fuel To Fire">
+        فإنّه يزداد
+        <lb/>
+
+        برأيه رأيًا كما تزداد النار بالدهن ضياء ونورًا
+      </p>
+
+      <p n="How To Give Advice">
+        وعلى المستشير موافقة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

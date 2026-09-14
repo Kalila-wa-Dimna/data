@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="179"/>
+
+      <p n="The Intelligent Distrusts Forced Friendship">
+        بمثل ذلك من أحد
+      </p>
+
+      <p n="The Best Thing Is Distance From the Enemy">
+        ولا يؤثر على البعد من عدوّه ما استطاع شيئًا
+      </p>
+
+      <p n="Staying Away from the Enemy is the Best Judgment">
+        والبعد
+        <lb/>
+
+        لك من الصيّاد والبعد لي منك من أحزم الرأي
+      </p>
+
+      <p n="The Rat Will Love the Cat from Afar">
+        وأنا أودّك من
+        <lb/>
+
+        بعيد
+      </p>
+
+      <p n="The Rat Does Not Need a Reward">
+        ولا عليك أن تجزيني بمثل ذلك إن رأيت
+      </p>
+
+      <p n="The Last Verdict Is No Reunion">
+        وإلّا فلا سبيل إلى
+        <lb/>
+
+        اجتماعنا أبدًا والسلم
+      </p>
+
+      <p n="unassigned">
+        باب المَلك والطير قبّرة
+        <lb/>
+
+        قال المَلك للفيلسوف قد سمعت مثل الرجل يحيط به عدوّه
+        <lb/>
+
+        فيستظهر ببعضهم على بعض ومصالحة حتّى يتخلّص بذلك ممّا يخاف وقد
+        <lb/>
+
+        وفى وسلم فاضرب لي إن رأيت مثل أصحاب الترات والذي ينبغي
+        <lb/>
+
+        لبعضهم من التّقاء لبعض قال الفيلسوف زعموا أنّه كان
+        <lb/>
+
+        ملك من الملوك يقال له برهمود وكان له طائر يقال له قبّرة وكان
+        <lb/>
+
+        ناطقًا كيّسًا ومعه فرخ له فأمر الملك بقبّرة بفرخه فجعلا في
+        <lb/>
+
+        مكان عند امرأة هي سيدة نسائه وأمرها بالاستيصاء به وأنّ امرأة
+        <lb/>
+
+        الملك ولدت غلامًا فلمّا شبّ قليلًا ألف الفرخ الغلام فكانا
+        <lb/>
+
+        يلعبان جميعًا ويأكلان معًا وكان قبّرة يذهب إلى الجبل كل يوم فيجيء
+        <lb/>
+
+        يثمرتين من فاكهة لا تعرف فيطعم إحداهما فرخه والأخرى ابن الملك
+        <lb/>
+
+        فأسرع ذلك في نباتهما وقوتهما حتّى استبان ذلك للملك فزاد قبّرة
+        <lb/>
+
+        عنده كرامة حتّى إذا كان ذات يوم وقبّرة غائب في ابتغاء الثمرتين إذ
+        <lb/>
+
+        وثب فرخ قبّرة في حجر الغلام فغضب الغلام من ذلك وضرب بالفرخ
+        <lb/>
+
+        الأرض فقتله فلمّا جاء قبّرة ورأى فرخه مقتولًا فحزن وصاح وقال
+        <lb/>
+
+        قبحًا للملوك الذين لا عهد لهم ولا وفاء وويل لمن ابتلي بصحبتهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+    <chapter>Kb</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="150"/>
+
+      <p n="Vizier Rejects Gift">
+        فليأخذ ما أعطيتموه
+      </p>
+
+      <p n="King Instists Giving Gift">
+        فقال المَلك قد شاع لنا في البلاد من هذا
+        <lb/>
+
+        ثناء حسن وخير كثير فلا تحتشم يا إيلاذ وخذ نصيبك وقرّ به عينًا
+      </p>
+
+      <p n="Vizier Accepts Gift">
+        فقال إيلاذ ليكن من ذلك ما أحبّ المَلك وليبدأ بأخذ ما يريد
+      </p>
+
+      <p n="Men Receive Their Gifts">
+        فأخذ المَلك الفيل الأبيض وأعطى جوبر أحد الفرسين وأعطى إيلاذ
+        <lb/>
+
+        السيف الخالص الحديد وأعطى الكاتب الفرس الآخر وبعث إلى كنانابزون
+        <lb/>
+
+        الثياب الكتّان التي تلبس الملوك
+      </p>
+
+      <p n="Queen Shall Choose Gift">
+        أمّا الإكليل وسائر
+        <lb/>
+
+        اللباس ممّا كان يصلح للنساء فقال يا إيلاذ خذ الإكليل وسائر اللباس
+        <lb/>
+
+        فاحمله معي واتبعني إلى مجلس النساء فلمّا انطلق إليه دعا بإيراخت ومساميتها
+        <lb/>
+
+        فجلستا بين يديه وقال يا إيلاذ ضع الكسوة بين يدي إيراخت فلتأخذ
+        <lb/>
+
+        أيّها شاءت
+      </p>
+
+      <p n="Hesitating Queen Looks At Vizier">
+        فلمّا نظرت إيراخت إلى الإكليل والثياب وأعجبها
+        <lb/>
+
+        منظرها ولم تدر أيّهما تأخذ فنظرت إلى إيلاذ بمؤخّر عينها ليريها
+        <lb/>
+
+        أيّهما أفضل
+      </p>
+
+      <p n="Vizier Shows Dress King Notices">
+        فأراها إيلاذ الثياب وأشار عليها بأخذها فأخذتها
+        <lb/>
+
+        وكانت شارته إليها أن غمزها بعينه وحانت من المَلك التفاتة
+        <lb/>
+
+        فرأى إيلاذ وقد غمز إيراخت فلمّا رأت إيراخت أنّ المَلك قد أبصر إيلاذ
+        <lb/>
+
+        وإيماءه إليها
+      </p>
+
+      <p n="Queen Chooses Crown">
+        تركت الثياب وأخذت الإكليل مخافة أن يظنّ المَلك
+        <lb/>
+
+        بهما سوءًا وعاش
+      </p>
+
+      <p n="Vizier Pretends To Be Cross Eyed">
+        إيلاذ بعد ذلك أربعين سنة كلّما دخل على المَلك
+        <lb/>
+
+        كسر عينيه خوفًا أن لا يظنّ المَلك أنّه أراها بعينه شيئًا
+        <lb/>
+
+        وخوفًا أن لا يتّهمه بأمر
+      </p>
+
+      <p n="Intelligence Saves Queen Vizier">
+        فلولا عقل المرأة ومعرفة الوزير لم ينج
+        <lb/>
+
+        واحد منهما من الموت
+      </p>
+
+      <p n="King Alternates Nights With Women">
+        وكان المَلك يكون ليلة عند
+        <lb/>
+
+        إيراخت وليلة عند مساميتها
+      </p>
+
+      <p n="Queen Serves Rice On Her Night">
+        فأتى إيراخت في ليلتها وقد صنعت
+        <lb/>
+
+        أرزّ فدخلت على المَلك وفي يدها صحفة من ذهب والإكليل على
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

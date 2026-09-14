@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="40"/>
+
+      <p n="unassigned">
+        إذا ابتُلي الرجلان المتحابّان بأن يجري بينهما الكذوب الخؤون تدابرا
+        <lb/>
+
+        وتقاطعا وفسد ما بينهما من المودّة
+      </p>
+
+      <p n="Transition to the Lion and Bull Story">
+        ومثل ذلك كمثل الأسد والثور
+      </p>
+
+      <p n="King's Inquiry About the Story">
+        قال
+        <lb/>
+
+        الملك وكيف كان ذلك
+      </p>
+
+      <p n="Setting: Wealthy Merchant and His Sons">
+        قال الفيلسوف زعموا أنّه كان بأرض ديسابد
+        <lb/>
+
+        تاجر مكثر وله ثلاث بنون
+      </p>
+
+      <p n="Sons' Mismanagement of Wealth">
+        فلمّا أدركوا أخذوا في مال أبيهم ليبذّروه
+        <lb/>
+
+        ولم يحترفوا حرفة يكسبون منها مالًا فلامهم أبوهم ووعظهم
+      </p>
+
+      <p n="Father's Advice: Three Pursuits and Four Necessities">
+        وقال
+        <lb/>
+
+        لهم فيما قال يا بنيّ إنّ صاحب الدنيا يطلب ثلاثة أمور لن يدركها
+        <lb/>
+
+        إلّا بأربعة أشياء
+      </p>
+
+      <p n="Three Worldly Pursuits">
+        أمّا الثلاثة التي يلتمسون فالسعة في المعيشة والمنزلة
+        <lb/>
+
+        في الناس والزاد إلى الآخرة
+      </p>
+
+      <p n="Four Necessities for Achieving Pursuits">
+        وأمّا الأربعة التي يُحتاج إليها في درك هذه
+        <lb/>
+
+        الأربعة فاكتساب المال من معروف وجوهه ثمّ حسن القيام عليه ثمّ
+        <lb/>
+
+        التمييز له وإنفاقه فيما يصلح المعيشة ويرضي الإخوان والأهل ويعود
+        <lb/>
+
+        عليه في الآخرة نفعه
+      </p>
+
+      <p n="Failure to Achieve Goals Without Proper Management">
+        فمن أضاع شيئًا من هذا لم يدرك ما أراد وا وإن
+        <lb/>
+
+        هو لم يكتسب لم يكن له مال ولم يعش معه أحد
+      </p>
+
+      <p n="Consequences of Poor Financial Management">
+        وإن كان ذا مال
+        <lb/>
+
+        واكتساب ثمّ لم يحكم تدبيره ولم يحسن القيام عليه أوشك أن يفنى
+        <lb/>
+
+        ويبقى ليس له مال
+      </p>
+
+      <p n="Rapid Depletion of Poorly Managed Wealth">
+        وإن هو مسكه ولم يثمره لم يمنعه قلّة الإنفاق
+        <lb/>
+
+        من سرعة الذهاب
+      </p>
+
+      <p n="Analogy of Rapidly Depleting Kohl">
+        كالكحل الذي لا يؤخذ منه إلّا مثل الغبار وهو مع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

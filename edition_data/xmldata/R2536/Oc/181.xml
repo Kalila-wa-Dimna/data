@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="181"/>
+
+      <p n="unassigned">
+        أرى قتله فإنّ العدوّ الذليل الذي لا شوكة له أهل أن يُرحم ويُستبقى
+        <lb/>
+
+        ويُصفح عنه والمستجير الخائف أهل أن يأمن ويُجار فإنّه ربّما صيّرت
+        <lb/>
+
+        المقادير الاستغاثة إلى العدوّ والفزع إليه
+      </p>
+
+      <p n="Mention Old Man Wife And Thief">
+        كما فزعت امرأة الشيخ
+        <lb/>
+
+        إلى زوجها بعد ما كانت تبغضه وتقليه
+      </p>
+
+      <p n="King O Requests Old Man Story">
+        قال المَلك وكيف
+        <lb/>
+
+        كان ذلك
+      </p>
+
+      <p n="Old Man Has Young Wife">
+        قال الوزير زعموا أنّه كان تاجرًا مُكثرًا وكان
+        <lb/>
+
+        كبير السنّ وكانت امرأته ذات حسن وجمال وكان لها عاشقًا
+      </p>
+
+      <p n="Wife Hates Husband">
+        وكانت
+        <lb/>
+
+        له قالية ولا تمكّنه من التزامها ولا من نفسها
+      </p>
+
+      <p n="Old Man Undiscouraged">
+        فكان التاجر يعلم ما في
+        <lb/>
+
+        نفسها ولا يزيده ذلك إلّا حبًّا لها وإكبابًا عليها
+      </p>
+
+      <p n="Thief Breaks In">
+        ثمّ أنّ سارقًا طرق
+        <lb/>
+
+        بيت التاجر ليلة فلمّا دخل البيت ووافق التاجر نائمًا والمرأة يقظانة
+        <lb/>
+
+        فذعرت المرأة من السارق
+      </p>
+
+      <p n="Wife Hugs Old Man">
+        فوثبت على التاجر فالتزمته فانتبه التاجر
+        <lb/>
+
+        لالتزامها إيّاه فقال من أين كانت هذه النعمة عليّ
+      </p>
+
+      <p n="Old Man Notices Thief">
+        فلمّا
+        <lb/>
+
+        بصر بالسارق
+      </p>
+
+      <p n="Old Man Rewards Thief">
+        ناداه أيّها السارق أنت في حلّ ممّا أخذت من بيتي
+        <lb/>
+
+        ومالي ومتاعي ولك الفضل بما عطّفت هذه عليّ من معانقتي
+      </p>
+
+      <p n="King O Asks Third Owl">
+        ثمّ إنّ المَلك سأل الثالث من وزرائه عن الغراب
+      </p>
+
+      <p n="Spy To Be Kept For Counsel">
+        فقال
+        <lb/>
+
+        الثالث أرى أن نحسن إليه ونستبقيه فإنّه خليق أن ينصحنا ويكون
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

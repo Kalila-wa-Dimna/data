@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="112"/>
+
+      <p n="The Leopard Overhears Kalila Chastising Dimna">
+        ذنب أتاه إليه
+      </p>
+
+      <p n="Kalila Predicts Dimna's Doom">
+        ويعلمه أنّه غير ناجٍ من الأسد
+      </p>
+
+      <p n="Kalila's Accusation of Dimna">
+        وأنّه لا بدّ أن يطّلع
+        <lb/>
+
+        على ما كان منه فلا يبقى له عاذل ولا ناصر وأنّه معاقبه ومهلكه
+      </p>
+
+      <p n="Dimna Admits His Guilt">
+        فقال دمنة لكليلة قد وقع من الأمر ما وقع فدعْ تضييق الأمور
+        <lb/>
+
+        عليّ وعلى نفسك واعمل في التغيير عن موقع الأثم في نفس الأسد
+        <lb/>
+
+        وأمّا أنا فقد كرهت ما كان منّي ولكن الحسد والخوض والشره
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

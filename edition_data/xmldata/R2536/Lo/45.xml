@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="45"/>
+
+      <p n="Dimna's Response and Ambition">
+        قال دمنة قد فهمت ما ذكرت وسمعت المثل الذي ضربت وليس كلّ من
+        <lb/>
+
+        يدنو من الملوك إنّما يفعل ذلك لبطنه فإنّ البطون تُحشى بكلّ مكان
+      </p>
+
+      <p n="Superior People Approaching Kings">
+        ولكن يلتمس أن يسرّ الصديق وينكي العدوّ فأدنياء الناس هم الذين
+        <lb/>
+
+        يرضون بالقليل ويفرحون به
+      </p>
+
+      <p n="Analogy of Dog and Bone">
+        كالكلب الذي يصيب العظم اليابس
+        <lb/>
+
+        فيفرح به
+      </p>
+
+      <p n="Contrast Between Ambitious and Content">
+        وأمّا أهل الفضل والمروءة فلا يقنعون بذلك دون أن
+        <lb/>
+
+        يسأموا همّتهم إلى ما هم مستحقّون له
+      </p>
+
+      <p n="Lion's Hunting Behavior Analogy">
+        كالأسد الذي يفترس الأرنب فإذا
+        <lb/>
+
+        وجد العنز تركها
+      </p>
+
+      <p n="Contrast Between Dog and Elephant Behavior">
+        أفلا ترى أنّ الكلب يبصبص فيحرّك ذنبه حتّى
+        <lb/>
+
+        تُلقي له الكسرة أولا ترى الفيل المتعلم يعرف فضل نفسه وقوّته
+        <lb/>
+
+        وإذا قُدّم إليه علفه كرهًا لم يردده ولم يأكله حتّى يمسح ويتملّق
+      </p>
+
+      <p n="Life Perspectives on Success and Failure">
+        فمن
+        <lb/>
+
+        عاش وهو خامل المنزلة ذا فضل على نفسه وعلى أصحابه فهو وإن قصر
+        <lb/>
+
+        عمره طويل العمر ومن كان عيشه في وحدة وضيق ليس له فضل على
+        <lb/>
+
+        نفسه ولا على أصحابه فهو وإن طال عمره قصير العمر
+      </p>
+
+      <p n="Definition of True Misery">
+        وقد قيل إنّ
+        <lb/>
+
+        البائس من طال عمره في ضرّ
+      </p>
+
+      <p n="Comparison to Animals">
+        وليُعدّ من البقر والغنم من لم يكن
+        <lb/>
+
+        له همّة إلّا بطنه
+      </p>
+
+      <p n="Kalila's Advice on Contentment">
+        قال كليلة قد فهمت ما ذكرت فراجع عقلك واعلم
+        <lb/>
+
+        أنّ لكلّ إنسان منزلة وقدرًا فإذا كان فيها متماسكًا كان حقيقًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

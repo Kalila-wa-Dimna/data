@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="37"/>
+
+      <p n="unassigned">
+        ملء فراغ
+        <lb/>
+
+        ملء فراغ
+        <lb/>
+
+        ملء فراغ
+        <lb/>
+
+        ملء فراغ
+        <lb/>
+
+        ملء فراغ
+        <lb/>
+
+        ملء فراغ
+        <lb/>
+
+        ملء فراغ
+        <lb/>
+
+        ملء فراغ
+        <lb/>
+
+        ملء فراغ
+        <lb/>
+
+        ملء فراغ
+        <lb/>
+
+        ملء فراغ
+        <lb/>
+
+        ملء فراغ
+        <lb/>
+
+        باب برزويه المتطبّب
+      </p>
+
+      <p n="Burzurgmihr's Introduction">
+        قال برزويه رأس أطبّاء
+        <lb/>
+
+        فارس وهو الذي تولّى انتساخ هذا الكتاب وترجمه من كُتُب الهند
+      </p>
+
+      <p n="Burzoy's Parents">
+        إنّ أبي
+        <lb/>
+
+        كان من المقاتلة وكانت أمّي من بنات عظماء الزمازمة
+      </p>
+
+      <p n="Burzoy Studies Medicine">
+        وكان ممّا ابتدأني
+        <lb/>
+
+        به ربّي من نعمته أن كنت من أكرم ولد أبويّ عليهما وأنّهما أسلماني في تعليم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

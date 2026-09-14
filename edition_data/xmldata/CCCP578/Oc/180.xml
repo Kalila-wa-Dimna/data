@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="180"/>
+
+      <p n="Wife Says She Values Husband">
+        والله إنّ أصبعًا من يد زوجي أو رجله أحبّ إليّ من ملء الأرض ناسًا
+      </p>
+
+      <p n="Wifes Speech Charms Carpenter">
+        فأعجب الرقيع كلامها وقال إنّ امرأتي شديدة المحبّة لي
+      </p>
+
+      <p n="Carpenter Waits Till Wife Awakens">
+        فلمّا أصبح أخرجت صديقها
+        <lb/>
+
+        ونامت على السرير فخرج زوّجها الشقيّ من تحت السرير وجعل يذبّ عنها
+      </p>
+
+      <p n="Carpenter Forgives Wife">
+        ويقول تبيّنت لي منك يا حبيبتي المحبّة الصادقة فاستيقظت فقال
+        <lb/>
+
+        لها نامي فإنّك لم تزالي الليلة متعوبة ولولا خفت على قلبك لتعديّت على
+        <lb/>
+
+        صديقك بالشرّ
+      </p>
+
+      <p n="Carpenters Story Comment">
+        فمن جهله وقلّة عقله كذّب بما رأت عيناه وصدّق امرأته
+        <lb/>
+
+        بقولها
+      </p>
+
+      <p n="Carpenters Story Motivation">
+        وإنّما ضربت لك هذا المثل إرادة لا تكون كالنجّار الذي كذّب عمله وبصره
+      </p>
+
+      <p n="Suspect A Fawning Foe">
+        فلا تصدّقوا هذا الغراب لأن العدوّ لا يقدر على ضرّ عدوّه إذا نازعه وهو
+      </p>
+
+      <p n="Wife Says Lovers Serve Only Pleasure">
+        نلتفت إلى أحسابهم ولا إلى شيء من أمورهم
+      </p>
+
+      <p n="Carpenter Hears Wifes Speech">
+        فاستيقظ زوجها بكلامها فلمّا
+        <lb/>
+
+        سمع الجاهل هذه المقالة منها وثق منها وصدّق مقالتها وتحقّق مودّتها
+      </p>
+
+      <p n="Wife Says She Values Husband">
+        ثمّ قالت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

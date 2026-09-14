@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="7"/>
+
+      <p n="Riding an Elephant's Tusk">
+        was riding the tusk of an elephant and fell asleep.
+      </p>
+
+      <p n="An Enemy Is Befriended in Times of Need">
+        Now the friend is called a friend precisely for the benefits one hopes to gain from him,
+        <lb/>
+
+        and the enemy an enemy for the damage one fears from him: when the sensible man hopes to benefit from the enemy, he displays friendship;
+        <lb/>
+
+        and when he fears evil from a friend, he displays enmity.
+      </p>
+
+      <p n="Young Cattle Only Nurse for a While">
+        Don’t you see that the offspring of animals follow them
+        <lb/>
+
+        hoping for their milk, but when it stops flowing they part from them
+      </p>
+
+      <p n="Clouds and Rain Come and Go">
+        Just as cloud form at a certain hour then disperse, appear once
+        <lb/>
+
+        and disappear the other,
+      </p>
+
+      <p n="The Intelligent Adapts">
+        so the state of the sensible man changes, as matters alter according to the diverse
+        <lb/>
+
+        characters of his companions: he can be open at times and reserved at others; trusting at times and again reserved
+        <lb/>
+
+        at others; pleased at times and cross at others.
+      </p>
+
+      <p n="Enmity Turns into Friendship in Times of Need">
+        And a person might break off some of what
+        <lb/>
+
+        had allied him to his friend without fearing any harm from him, because the basis of the affair had not been enmity; a person might also strike up a friendship
+        <lb/>
+
+        from enmity, out of a need that causes him to do so, and when the matter that brought this about goes away, that friendship turns
+        <lb/>
+
+        into enmity-
+      </p>
+
+      <p n="Heated Water Cools Down">
+        his case is like water heated with fire: when it is extinguished, the water becomes cold.
+      </p>
+
+      <p n="The Cat Is the Rat's Worst Enemy">
+        And no enmity is more harmful to me
+        <lb/>
+
+        than yours.
+      </p>
+
+      <p n="The Rat's Need for Friendship Has Gone">
+        You and Iwere compelled by a situation to create an agreement; but the matter
+        <lb/>
+
+        which made you need me, and which obliged me to you is over, and I fear that in its passing is
+        <lb/>
+
+        the revival of the enmity between me and you.
+      </p>
+
+      <p n="The Weak Must Avoid the Strong">
+        There is no good in the weak being close to the powerful enemy and no good
+        <lb/>
+
+        in the humble being near the grand.
+      </p>
+
+      <p n="The Cat Desires the Rat for Food">
+        And I’m not aware that you need me in any way except your wanting to eat me,
+      </p>
+
+      <p n="The Prudent Rat">
+        so I don’t see that I should trust you;
+      </p>
+
+      <p n="The Cautious Weak Is Better Than Deluded Strong">
+        for I have learned that the weak person is closer to being safe from the strong,
+        <lb/>
+
+        when he is wary of him and not misled by him, than the powerful who feels safe while he is misled by the weak and trusts him.
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

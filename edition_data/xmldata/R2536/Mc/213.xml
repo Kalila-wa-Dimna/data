@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="213"/>
+
+      <p n="unassigned">
+        التمسوا صيد الوحوش والطير قرب تلك الشجرة وأنّ صيّادًا نصب حبائله
+        <lb/>
+
+        ذات ليلة فوقع فيها السنّور
+      </p>
+
+      <p n="The Rat Seeks Food">
+        فخرج الجرذ فدبّ يلتمس ما يأكل وهو مع
+        <lb/>
+
+        ذلك حذر يلتفت يمينًا وشمالًا فلمّا رأى السنّور في الحبال فرح
+      </p>
+
+      <p n="Foes Surround the Rat">
+        ثمّ التفت
+        <lb/>
+
+        فأبصر ابن عرس قد اتّبعه وكمن له ونظر فوقه فإذا بومة على الشجرة ترصده
+        <lb/>
+
+        فخاف إن انصرف راجعًا أن يثب عليه ابن عرس وإن ذهب يمينًا أو شمالًا
+        <lb/>
+
+        أن تختطفه البومة وإن تقدّم فالسنّور أمامه
+      </p>
+
+      <p n="The Rat Weighs His Predicament">
+        فقال الجرذ ينبغي
+        <lb/>
+
+        إليّ أن أستعين بالحلم والمودّة والاحتيال لهذا الأمر حتّى أتخلّص منه
+      </p>
+
+      <p n="Intelligence Is Like the Sea">
+        فإنّ قلوب العلماء بحر عميق لا يُدرَك غوره
+      </p>
+
+      <p n="Situations Do Not Blind the Intelligent">
+        ولا يبلغ البلاء من ذوي
+        <lb/>
+
+        العقول مجهود عقولهم ولا الرجل ينبغي له أن يبلغ مبلغًا يشكّه
+        <lb/>
+
+        فيه ويعمى عليه
+      </p>
+
+      <p n="The Rat Decides on a Pact with the Cat">
+        أمره ثمّ قال لا أرى حيلة أبلغ من التماس
+        <lb/>
+
+        صلح السنّور فإنّه قد أصابه من الشرّ ما لا يستطيع أحد أن يخلّصه
+        <lb/>
+
+        منه غيري فلعلّه يصالحني لنفع نفسه فأتخلّص به أيضًا من هذا الشرف
+        <lb/>
+
+        الذي أنا مشرف عليه
+      </p>
+
+      <p n="The Rat Comes Up to the Cat">
+        ثمّ دنا من السنّور فقال له كيف
+        <lb/>
+
+        حالك
+      </p>
+
+      <p n="The Cat Acknowledges Being Trapped">
+        فقال كالذي تهواه من الضنك والضيق فما مساءلتك
+        <lb/>
+
+        إيّاي
+      </p>
+
+      <p n="The Rat Points Out Their Common Problem">
+        قال الجرذ لا أكذب فإنّ الكذب مكروه عند العلماء
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

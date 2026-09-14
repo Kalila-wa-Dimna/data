@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="71"/>
+
+      <p n="The Thief Deceives the Ascetic">
+        منك وآخذ عنك
+      </p>
+
+      <p n="The Thief Gains the Ascetic's Trust">
+        فصحبه متشبّهًا بالنسّاك
+      </p>
+
+      <p n="The Thief Steals the Garment">
+        حتّى إذا ظفر من الناسك بغفلة
+        <lb/>
+
+        احتمل تلك الثياب فذهب بها
+      </p>
+
+      <p n="The Ascetic Pursues the Thief">
+        وفقد الناسك الثياب والرجل عرف
+        <lb/>
+
+        أنّه صاحبها فطلبه مكانه
+      </p>
+
+      <p n="The Fighting Rams">
+        فمرّ حين طلبه على وعلين يتناطحان فطال انتطاحهما
+        <lb/>
+
+        حتّى سالت الدماء بينهما
+      </p>
+
+      <p n="The Fox and the Rams">
+        وجاء ثعلب فجعل يلغ في ذلك الدم فبينما هو ينكبّ
+        <lb/>
+
+        التقيا عليه الوغلان في انتطاحهما فقتلاه
+      </p>
+
+      <p n="The Ascetic Lodges with a Procuress">
+        ومضى الناسك حتّى أتى المدينة
+        <lb/>
+
+        ممسيًا فلم يجدْ بها مأوى إلّا بيت امرأة بغايا فنزل عليها وللمرأة جارية تؤاجرها
+      </p>
+
+      <p n="The Procuress's Problematic Slave Girl">
+        وكانت الجارية قد عشقت رجلًا وهي لا تريد غيره فأضرّ ذلك في المرأة في
+        <lb/>
+
+        أجرة جاريتها فاضطغنت ذلك على الرجل الذي عشقته جاريتها
+      </p>
+
+      <p n="The Procuress's Plot">
+        واحتالت
+        <lb/>
+
+        بقتله في الليلة التي صادفها الناسك
+      </p>
+
+      <p n="The Lover is Drugged">
+        فسقت الرجل من الخمر حتّى غلب عليه
+        <lb/>
+
+        السكر فنام ونامت الجارية إلى جانبه
+      </p>
+
+      <p n="The Poisonous Reed Pipe">
+        فعمدت مولاتها إلى سمّ قد كانت
+        <lb/>
+
+        هيّأته في قصبة لتنفخه في دبر الرجل وفاها على رأس القصبة
+      </p>
+
+      <p n="The Plot Backfires">
+        فبدرتها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

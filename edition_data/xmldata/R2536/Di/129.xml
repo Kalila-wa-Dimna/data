@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="129"/>
+
+      <p n="Blind Physician Prescribes Drug">
+        أن يركّبوا لها دواءً يُسمّى زادَمهران فرجعوا إلى الملك فأخبروه
+        <lb/>
+
+        بذلك
+      </p>
+
+      <p n="Quack Ordered to Mix Drug">
+        فطلب طبيبًا ليهيّئ له ذلك الدواء فأتاه ذلك الرجل الذي
+        <lb/>
+
+        زعم أنّه طبيب فأخبره أنّه طبيب عالم بالأدوية وأخلاطها فأمر
+        <lb/>
+
+        بالأسفاط التي كانت فيها أدوية الطبيب ليأخذ منها ما يحتاج إليه من
+        <lb/>
+
+        الأدوية
+      </p>
+
+      <p n="Quack Confuses Drug with Poison">
+        فلمّا دخل الخزانة وعُرضت عليه الأدوية بلا معرفة بها أخذ
+        <lb/>
+
+        فيما أخذ صرّة فيها سمّ قاتل فأخلطه مع الأدوية
+      </p>
+
+      <p n="Quack Poisons Princess">
+        ثمّ سقى الجارية منها
+        <lb/>
+
+        شربةً واحدةً فلم تلبثْ غير ساعة حتّى ماتت بنت الملك بتلك السقية
+      </p>
+
+      <p n="King Has Quack Drink the Poison Too">
+        فاسقاه من ذلك الدواء فمات لوقته
+      </p>
+
+      <p n="Acting upon Suspicion is Wrong">
+        وإنّما ذكرت لكم ذلك الحديث
+        <lb/>
+
+        لتعلمون ما يدخل على القاتل بالشبهة من الزلّة والحرج وها أنا ذا البريء
+        <lb/>
+
+        قائم بين أيديكم كما ترون
+      </p>
+
+      <p n="Prominent Courtier/Head of Court Suggests Physiognomy">
+        فتكلّم سيّد الخنازير لإدلاله ومنزلته من
+        <lb/>
+
+        الأسد وأمّه فقال اسمعوا أيّها العلماء والأشراف مقالتي وفكّروا
+        <lb/>
+
+        فيها بأخلاقكم
+      </p>
+
+      <p n="Bodily Marks Are Proof of Character">
+        لأنّ العلماء قد قالوا في سمات الصالحين أنّهم يعرفون بها
+        <lb/>
+
+        وأنتم معاشر الأخيار بصنع الله إليكم وتمام نعمته عليكم تعرفون الصالحين
+        <lb/>
+
+        من الطالحين بسيماهم وصورهم وتعرفون بالشئ اليسير الشئ الكثير
+        <lb/>
+
+        وأشياء كثيرة سوى ذلك
+      </p>
+
+      <p n="Dimna’s Character is Visible in His Body">
+        وقد ترون من علامات هذا الشقيّ دمنة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

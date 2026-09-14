@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="226"/>
+
+      <p n="Dreams">
+        خُضّب بالدم وأنه غسل جميع بدنه بالماء ورأى أنّه قائم على جبلٍ أبيض
+        <lb/>
+
+        ورأى أنّ على رأسه شبيهًا بالنار ورأى طائرًا أبيض ينقر رأسه
+      </p>
+
+      <p n="King Summons Brahmins">
+        فلمّا
+        <lb/>
+
+        انتبه دعا قومًا من أهل ملّة
+      </p>
+
+      <p n="King Had Killed Brahmins">
+        قد كان أفناهم وتتبّعهم حتّى أفناهم وأبادهم
+        <lb/>
+
+        عن بلاده وقتلهم يُقال لهم البرهمين فأتوه بعد طلب منه لهم شديد
+      </p>
+
+      <p n="King Has Brahmins Interpret Dreams">
+        وكان قد اغتمّ وكثرت فكرته ممّا رأى في منامه فسألهم أن يفسّروا له
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

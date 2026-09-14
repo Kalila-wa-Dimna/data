@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="14"/>
+
+      <p n="Kisra Commissions Burzoy">
+        فتستنقذه برفق ومودّة وتلطّف
+      </p>
+
+      <p n="Burzoy Given Ample Funds">
+        وتحمل معك من المال ما أردت
+        <lb/>
+
+        ومن طرف بلاد فارس وهداياها ما تعلم أنّه يعينك على استخلاصه
+        <lb/>
+
+        مع ما تقدر عليه من الكتب التي يحتاج إليها الملوك وليكن ذلك في
+        <lb/>
+
+        سرّ مكتوم
+      </p>
+
+      <p n="Burzoy To Write When Done">
+        فإذا أكملت ما تريده وأنت في بلد الهند كتبت إلينا
+        <lb/>
+
+        بذلك وأسرعت الوفود إلى حضرتنا
+      </p>
+
+      <p n="Kisra Promises Reward">
+        فإنّا مجزلو عطيّتك ورافعو
+        <lb/>
+
+        درجتك ومبلّغوك فوق ما أملته من دولتنا
+      </p>
+
+      <p n="Kisra Advises Caution">
+        فبادر لما أُمرت
+        <lb/>
+
+        واحفظ ما وُصّيت به وليكن من شأنك التثبّت والتأنّي في
+        <lb/>
+
+        جميع أمورك
+      </p>
+
+      <p n="Burzoy Accepts">
+        فخرّ بروزيه ساجدًا وقال سمعًا وطاعة سيجدني
+        <lb/>
+
+        المَلك كما أحبّ إن شاء الله
+      </p>
+
+      <p n="Astrologers Set Date">
+        ثمّ نهض إلى منزله فتخيّر من الأيّام
+        <lb/>
+
+        أثبتها ومن الساعات أبركها وسار في اليوم المختار
+      </p>
+
+      <p n="Burzoy Travels To India">
+        فلم يزل
+        <lb/>
+
+        تخفضه أرض وترفعه أخرى
+      </p>
+
+      <p n="Burzoy Inquires About Court">
+        حتّى قدم إلى بلاد الهند فأراح من
+        <lb/>
+
+        وعثاء الطريق ثمّ أنّه طاف بباب المَلك وتخلّل مجالس السوقة
+        <lb/>
+
+        وسأل عن قرابة المَلك والأشراف وعن العلماء والفلاسفة
+        <lb/>
+
+        فجعل يغشاهم في منازلهم ويتلقّاهم بالتحيّة والمساءلة على باب المَلك
+      </p>
+
+      <p n="Burzoy Claim Study Trip">
+        ويخبرهم أنّه قدم بلادهم لطلب العلم والأدب وأنّه محتاج إلى
+        <lb/>
+
+        معونتهم على ما طلب من ذلك ويسألهم إرشاده إلى حاجته مع شدّة
+        <lb/>
+
+        كتمانه لما قدم له وكنايته عنه
+      </p>
+
+      <p n="Burzoy Disguises Misson By Study">
+        فلم يزل بذلك زمانًا طويلًا يتأدّب
+        <lb/>
+
+        بما هو أعلم به ويتعلّم من العلم ما هو ماهر فيه ويكني عن بغيته وحاجته
+      </p>
+
+      <p n="Burzoy Mingles With Indians">
+        واتّخذ لطول لبثه وإقامته أصدقاء كثير من أهل الهند من الأشراف
+        <lb/>
+
+        والسوقة وأهل كلّ صناعة
+      </p>
+
+      <p n="Burzoy Chooses Friend">
+        واختصّ من جماعتهم رجلًا كان شريفًا
+        <lb/>
+
+        عالمًا يُسمّى أزويه وكان صاحب سرّه ومشورته لما ظهر له من علمه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

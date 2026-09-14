@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="34"/>
+
+      <p n="Burzoy Refrains From Asceticism">
+        وخفت من نفسي الضجر وقلّة الصبر وأردت الثبوت على الحال التي كنت
+        <lb/>
+
+        عليها
+      </p>
+
+      <p n="Passage 2">
+        ثمّ بدا لي أن أقيس بين
+      </p>
+
+      <p n="Weighs World Vs Asceticism">
+        ما لا أقدر عليه من الأداء والضيق في
+        <lb/>
+
+        النسك وبين الذي يصيب صاحب الدنيا فيها من البلاء فكان بيّنًا عندي
+        <lb/>
+
+        أنّه ليس من شهوات الدنيا ولذّاتها شيء إلّا وهو متحوّل أذًى ومولّد
+        <lb/>
+
+        حزنًا فالدنيا
+      </p>
+
+      <p n="Salt Water Increases Thirst">
+        كالماء المالح الذي ما ازداد شاربه منه شرابًا إلّا
+        <lb/>
+
+        ازداد عطشًا
+      </p>
+
+      <p n="Dog Gnaws Bone In Vain">
+        وهي كالعظم الذي يصيبخ الكلب وفيه ريح اللحم
+        <lb/>
+
+        فيطلب ذلك اللحم حتّى يدمي فيه ثمّ لا يزداد فمه دمًا إلّا ازداد
+        <lb/>
+
+        لذلك العظم طلبًا
+      </p>
+
+      <p n="Kite Looses Meat">
+        وكالحدأة التي تظفر بقطعة من اللحم فيجتمع
+        <lb/>
+
+        عليها الطير فلا تزال في تعب حتّى تأكل ما معها وقد أعيت وتعبت
+      </p>
+
+      <p n="Honey Contains Poison">
+        وكالكبّة من العسل وفيها سمّ فللذائق منها حلاوة ومنيّة عاجلة
+      </p>
+
+      <p n="Happy Dreams Pass">
+        وكأحلام النائم الذي يفرح بما يرى في نومه فإذا استيقظ انقطع
+        <lb/>
+
+        الفرح عنه
+      </p>
+
+      <p n="Lightning Passes">
+        وكالبرق الذي يذهب وشيكًا ويضيء قليلًا
+        <lb/>
+
+        ويبقى راجيه في الظلام مقيمًا أو
+      </p>
+
+      <p n="Self Imprisoning Silk Worm">
+        كدودة الأبريسم التي تلفّ الأبريسم
+        <lb/>
+
+        على نفسها ثمّ لا تزداد له لفًّا إلا ازدادت عن الحياة بعدًا فلمّا
+        <lb/>
+
+        نظرت
+      </p>
+
+      <p n="Warns Soul Of Hesitation">
+        في هذه الأمور راجعت نفسي عنها وفي اختيار النسك والميل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

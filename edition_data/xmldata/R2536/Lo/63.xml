@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="63"/>
+
+      <p n="The Crow's Predicament">
+        في شجرة في جبل وكان فوقه جحر أسود فكان كلّما أفرخ الغراب
+        <lb/>
+
+        أكل الأسود فراخه
+      </p>
+
+      <p n="The Crow Seeks Counsel">
+        فاشتدّ ذلك عليه فشكاه إلى صديق له من
+        <lb/>
+
+        بنات آوى وقال له إنّي أريد أن أمضي إلى الأسود فأنقر عينيه وهو نائم
+        <lb/>
+
+        فلعلّي أفقأها إن أنت أوطأتني على ذلك
+      </p>
+
+      <p n="The Jackal's Warning">
+        فقال له صديقه ليست
+        <lb/>
+
+        الحيلة التي هممت بها فالتمس أمرًا تصب به حاجتك ولا يصل مكروه
+        <lb/>
+
+        إليك
+      </p>
+
+      <p n="The Heron and the Crab Parable">
+        وإيّاك أن يكون مثلك مثل العلجوم الذي أراد قتل السرطان
+        <lb/>
+
+        فأهلك نفسه
+      </p>
+
+      <p n="The Crow Asks for the Story">
+        قال الغراب وكيف كان ذلك
+      </p>
+
+      <p n="The Old Heron's Dilemma">
+        قال ابن آوى زعموا أنّ
+        <lb/>
+
+        علجومًا كان معشّشًا في أجمة مخصبة كثيرة السمك فهرم وكبر
+        <lb/>
+
+        فلم يستطع الصيد وجاع
+      </p>
+
+      <p n="The Crab Approaches the Heron">
+        فالتمس الحيلة لهنّ فتحازن واغتمّ
+      </p>
+
+      <p n="The Crab's Inquiry">
+        فرآه
+        <lb/>
+
+        سرطان من بعيد فعرف ما به فأتاه وقال له ما شأنك مهمومًا مكتئبًا
+      </p>
+
+      <p n="The Heron Explains His Sadness">
+        فقال ما بعد هذا حياة وإنّما كا ن نت معيشتي من السمك
+      </p>
+
+      <p n="The Heron's Tale of Fishermen">
+        فلمّا كان
+        <lb/>
+
+        اليوم رأيت صيّادين مكاننا هذا فقال أحدهما لصاحبه ألا تضرب
+        <lb/>
+
+        على ما ها هنا من السمك فقال له الآخر بل امض بنا إلى مكان قد عرفته
+        <lb/>
+
+        وفيه سمك كثير فنبدأ به ثمّ نقبل إلى ها هنا فنفرغ منه
+      </p>
+
+      <p n="The Feared Consequence">
+        وأنا أعلم
+        <lb/>
+
+        لو أنّهما قد فرغا ممّا توجّها إليه لم يبق منهنّ سمكة إلّا اصطاداها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="43"/>
+
+      <p n="Husband Explains Spell">
+        قال كنت أذهب في الليلة المقمرة ومعي أصحابي حتّى أعلو ظاهر البيت الذي أريد أسرق
+        <lb/>
+
+        أهله فأنتهي ومعي أصحابي حتّى أعلو إلى ظاهر إلى الكوّة التي يدخل منها ضوء القمر إلى البيت فأرقي
+        <lb/>
+
+        بهذه الرقية شولم شولم سبع مرّات ثمّ أعتنق الضوء فأعيد الرقية وأهبط في
+        <lb/>
+
+        البيت فلا يحسّ بي أحد ولا بوقوعي ثمّ أقوم في أصل الضوء فأعيد الرقية سبع مرّات
+        <lb/>
+
+        فلا يبقى في البيت مال ولا غلق إلّا بدا لي وأمكنني أن أتناوله فآخذ من ذلك ما أحببت
+        <lb/>
+
+        ثمّ أعتنق الضوء وأقول سبع مرّات فأصعد إلى أصحابي فأحمّلهم ما معي
+      </p>
+
+      <p n="Burglars Cheer At Spell">
+        قال فلمّا
+        <lb/>
+
+        سمع اللصوص هذه الصفة فرحوا فرحًا شديدًا وقالوا لقد ظفرنا من هذا البيت بما
+        <lb/>
+
+        هو خير لنا من المال الذي نحن مصيبون منه لقد أصبنا علمًا أذهب الله به الخوف عنّا
+        <lb/>
+
+        وأمنّا به من السلطان
+      </p>
+
+      <p n="Husband Explains Execution">
+        ثمّ أطالوا المكث حتّى ظنّوا أنّ صاحب البيت وامرأته ناموا
+        <lb/>
+
+        فلمّا أنّهم استيقنوا ذلك تقدّم رأسهم إلى مدخل الضوء من الكوّة فقال شولم سبع مرّات ثمّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

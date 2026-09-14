@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="6"/>
+
+      <p n="Kisra Wants Kātib Or Physician">
+        ولابدّ لنا أن نتبحّث من نرسله في ذلك من هذين الصنفين إمّا من الكتّاب وإمّا من
+        <lb/>
+
+        الأطبّاء
+      </p>
+
+      <p n="Kātibs And Physicians Skills">
+        فإنّ هذين الصنفين يجتمع عندهما جوامع الأدب من فنون العلم وكنوز الأدب
+        <lb/>
+
+        في أناة وتؤدة ونفاذ وحيلة وكمال ومرؤة وتحرّز وكتمان سرّ
+      </p>
+
+      <p n="Kisra Searches Scholar">
+        فلمّا تمّ عزمه ورأيه
+        <lb/>
+
+        على البعثة رجلًا سأل أهل مملكته أن يبحثوا ويطلبوا له رجلًا في جميع أهل مملكته قد
+        <lb/>
+
+        اجتمعت فيه هذه الخصال
+      </p>
+
+      <p n="Kisra Defines Envoy">
+        وليكن من أحد هذين الصنفين إمّا كاتبًا نحريرًا
+        <lb/>
+
+        وإمّا طبيبًا ماهرًا فيلسوفًا وليكن أديبًا عاقلًا ماهرًا بلسان الفارسيّة والهنديّة
+        <lb/>
+
+        كاتبًا بهما جميعًا على العلم مجتهدًا في استكمال الأدب متابعًا على النظر والتفسير
+        <lb/>
+
+        لكتب الفلسفة فيُؤتى به
+      </p>
+
+      <p n="The Search For A Scholar">
+        فخرج أهل مشورته وذوي رأيه واستبحثوا عن الرجل حتّى
+        <lb/>
+
+        أُتي به
+      </p>
+
+      <p n="Burzoy Is Selected">
+        فأوتي برجل شابٍّ جميل كامل العقل والأدب ذي حسب صناعته التي يُعرف بها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

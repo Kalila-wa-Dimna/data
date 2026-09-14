@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="73"/>
+
+      <p n="A Ruler Must Not Punish Based on Suspicion">
+        الظنِّ والشبهة فإنَّ الدم عظيمٌ شأنه
+      </p>
+
+      <p n="The Lion Wants to Avoid Killing Another Innocent">
+        وأنا وإن كنت أوطئت
+        <lb/>
+
+        عشو في شتربة أكره أن أركب من دمنة مثلها بغير بيِّنةٍ ولا
+        <lb/>
+
+        يقينٍ وقد رمى إليك من أخبرك بما ذكرت وقذفه في عنقك
+      </p>
+
+      <p n="The Mother Expects Her Word to Suffice">
+        قالت أمُّ الأسد صدقت ولكنّي كنت أظنّ أنك تستكفي بي فيما حدَّثتك
+        <lb/>
+
+        أوَ تصدّقني به فلا تتّهمني عليه
+      </p>
+
+      <p n="Without Blaming His Mother the Lion Is Curious">
+        فقال الأسد ما أنت عندي بمردودة
+        <lb/>
+
+        القول ولا أنتِ في نفسي بمتَّهمةٍ ولا أنا في نصحك بمرتابٍ ولكن أُحبُّ
+        <lb/>
+
+        أن تُعلِميني من هو ليكون أشفى لصدري
+      </p>
+
+      <p n="The Mother Asks the Lion to Punish Dimna">
+        قالت أم الأسد فإن
+        <lb/>
+
+        كنتُ عندك كذلك فعاقب هذا الفاجر عقوبةَ مِثلِه
+      </p>
+
+      <p n="The Lion Asks Again About the Source">
+        قال الأسد
+        <lb/>
+
+        وما عليك أن تُخبريني من ذكر ذلك لك فإنه لا مضرّةً فيه عليك
+      </p>
+
+      <p n="The Mother Has Three Reasons for Keeping the Secret">
+        فقالت
+        <lb/>
+
+        أمّ الأسد ضرر هذا عليَّ في خلالٍ ثلثةٍ أمَّا الأولى فانقطاع ما بيني وبين
+        <lb/>
+
+        صاحب هذا السرّ من المودّة لإباحتي بسرِّه والثانية خيانتي ما
+        <lb/>
+
+        استُحفظت من الأمانة
+      </p>
+
+      <p n="The Mother Deems That Divulging Will Harm Her Credibility">
+        وأمّا الثالثة فوجل من كان يسترسل إليَّ قبل
+        <lb/>
+
+        اليوم وقطعهم أسرارهم عنّي
+      </p>
+
+      <p n="Mother Is Afraid to Lose People's Trust">
+        ومتى أفعل ذلك لا يثق بي أحدٌ ولا يطمأنّ
+        <lb/>
+
+        إليَّ
+      </p>
+
+      <p n="The Lion Realizes His Mother Will Keep the Source Secret">
+        فلمَّا سمع الأسد ذلك منها وعرف أنَّها غير مخبرته باسم من أخبرها
+        <lb/>
+
+        وأخبرته بجملة الأمر
+      </p>
+
+      <p n="Harming King and People Cannot Be Pardoned">
+        وقالت لست أجهل قول العلماء في تعظيم فضل
+        <lb/>
+
+        العفو عن أهل الجرائم ولكنَّ ذلك إنّما هو فيما دون النفوس أو خيانة
+        <lb/>
+
+        العامّة التي يقع بها الشرّ
+      </p>
+
+      <p n="The Foolish Spread Doubt to Cover Their Crimes">
+        ويحتجّ بها السفهاء عند ما يكون من أعمالهم
+        <lb/>
+
+        السيّئة واستغشاء الملك بالأمر الذي يفعل خطأً إن كان فيه إلى
+        <lb/>
+
+        العامّة
+      </p>
+
+      <p n="A Ruler Must Not Spare Traitors">
+        وكان فيما يُقال له لا ينبغي للولاة استبقاء الخونة الفُجَّار أهل
+        <lb/>
+
+        الغدر والنميمة والتحيّل والإفساد بين الناس ومن يكره صلاحهم
+        <lb/>
+
+        ولا يرحمونهم لما نزل بهم وأولى من نفى عن الرعيّة ما أفسدهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

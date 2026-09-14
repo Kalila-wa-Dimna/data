@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="127"/>
+
+      <p n="Dimna Protected Courtier's Secrets">
+        عيوبك غيري من الجند وقد كنت أكرمك
+      </p>
+
+      <p n="Dimna Now Repays Courtier's Hostility">
+        فلمّا ما <> بدىك ونطقت بالبهتان
+        <lb/>
+
+        من غير علم
+      </p>
+
+      <p n="Dimna Says Courtier Deserves Not Even the Lowest Profession">
+        فإنّه لا ينبغي للملك دبّاغًا ولا حجّامًا دع ما أنت فيه من المنى التي أنت بها
+      </p>
+
+      <p n="Courtier Is Outraged">
+        قال رأس الخنازير إلىّ تقول ما أسمع
+      </p>
+
+      <p n="Dimna Calls Courtier Filthy and Leprous and">
+        قال دمنة نعم إليك أقول فإنّك قد جمعت
+        <lb/>
+
+        أنك ميسور بحلّ النهار كلّه أفرغْ من شأنك الخلق
+      </p>
+
+      <p n="Courtier Is Reduced to Tears">
+        فبكى لجرأته عليه وإغلاظه
+        <lb/>
+
+        له
+      </p>
+
+      <p n="Dimna Calls Courtier Unfit for Court">
+        فقال دمنة إنّه لينبغي لك أن تبكي وتكثر دموعك فإنّ الملك لو اطّلع
+        <lb/>
+
+        على أمرك وعلم الذي أنت عليه أقصاك وأبعدك
+      </p>
+
+      <p n="Lion Is Informed by Court Secretary and Ousts Courtier">
+        فلمّا سمع ذلك أمين الملك الذي كان
+        <lb/>
+
+        آمره بحفظ ما يقولون وكان اسمه سهرج رفعه إليه فعزل رأس الخنازير عن عمله
+        <lb/>
+
+        وأمر بإخراجه وإقصائه
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded, He Is Returned to Prison; End of First Day of Trial">
+        فكتب النمر والقاضي ما قال وقيل وختما عليه وبعثا
+        <lb/>
+
+        بدمنة إلى السجن
+      </p>
+
+      <p n="Kalila Dies">
+        ثمّ إنّ كليلة أصابه بطن فمات
+      </p>
+
+      <p n="Ruzbeh Is Kalīla's Friend">
+        فأمّا دمنة صديقُ كليلة يقال
+        <lb/>
+
+        له رزوبه
+      </p>
+
+      <p n="Ruzbeh/Fayruz Tells Dimna of Kalila's Death">
+        فأخبره بموت كليلة فبكى دمنة لما كان بينه وبينه من المودّة
+      </p>
+
+      <p n="Dimna Grieves for Kalila">
+        وقال
+        <lb/>
+
+        ما أصنع اليوم بالحياة وقد هلك أخي وصفيَّ
+      </p>
+
+      <p n="Misfortunes Never Come Singly">
+        لقد صدق القائل الذي قال
+        <lb/>
+
+        إنّ الإنسان إذا ابتُليَ ببلاء أتاه الشرّ من كلّ جانب واكتنفته المصائب وألِفَه
+        <lb/>
+
+        الهمّ والحزن مثل الذي بي
+      </p>
+
+      <p n="Dimna Asks Ruzbeh to Be His Friend">
+        وقد ذقت مع ما نالني منك إخاء ليس بدونه بل أرجو
+        <lb/>
+
+        أن يكون أفضل عطفًا ونظرًا منه وأن يهتمّ بأمري والعناية لي بما يعنى به
+        <lb/>
+
+        أهل الحفاظ
+      </p>
+
+      <p n="Dimna Has Ruzbeh Fetch Their Belongings">
+        فإن رأيت أن تنطلق إلى منزل كليلة فتأتي بما كان لي وله فافعل
+        <lb/>
+
+        فانطلق روزبه حتّى أتي بيت كليلة فاحتمل ما كان فيه وأقبل إليه به فلمّا جاءه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

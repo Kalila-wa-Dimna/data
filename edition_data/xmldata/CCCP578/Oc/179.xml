@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="179"/>
+
+      <p n="Objector Advises Death">
+        أن تقتله فاقتله ولا
+      </p>
+
+      <p n="Foes Cant Fool The Wise">
+        تخالفني فإنّ الحليم العاقل لا يعطّفه الكلام من عدوّه وإنّ الجاهل
+        <lb/>
+
+        ينخدع باليسير منه
+      </p>
+
+      <p n="Dont Be Credulous">
+        ولا تكونوا كالعجزة الذين يغترّون بما يرون ويسمعون
+        <lb/>
+
+        وتلين قلوبهم لعدوّهم عند أدنى ملق
+      </p>
+
+      <p n="Mention Deceived Carpenter">
+        فيكون بما يسمع أشدّ تصديقًا منه بما
+        <lb/>
+
+        رأى
+      </p>
+
+      <p n="King O Request Story D C">
+        فقال ملك البوم وكيف كان ذلك
+      </p>
+
+      <p n="Carpenter Learns Of Wifes Affair">
+        قال زعموا أن تاجرًا كانت له امرأة
+        <lb/>
+
+        فعلقها جار لها ففطن أهل التاجر بذلك فأعلموه به
+      </p>
+
+      <p n="Carpenter Wants Proof">
+        فأحبّ أن يتبيّن ذلك
+        <lb/>
+
+        فقال لست مصدّقًا عليها حتّى أعاين
+      </p>
+
+      <p n="Carpenter Feigns Work Travel">
+        فقال لها ذات يوم أريد أن أعالج للسلطان
+        <lb/>
+
+        عملًا على فراسخ فاصنعي لي زادًا
+      </p>
+
+      <p n="Wife Rejoices At Chance">
+        ففرحت بذلك وصنعت له زادًا
+      </p>
+
+      <p n="Wife Sees Carpenter Off">
+        فلمّا خرج
+        <lb/>
+
+        من عندها قال لها أغلقي بابك واحفظي بيتك ثمّ توجّه وهو ينظر إليها
+        <lb/>
+
+        وهي تنظر إليه
+      </p>
+
+      <p n="Carpenter Returns To Hide Under Bed">
+        فلمّا توارى عنها رجع حتّى توارى ودخل إلى منزله فكمن تحت
+        <lb/>
+
+        السرير الذي كان عليه فراشه وفراش امرأته ولم تدر المرأة به
+      </p>
+
+      <p n="Wife Summons Lover">
+        فأرسلت
+        <lb/>
+
+        إلى صديقها فأتاها
+      </p>
+
+      <p n="Lover Spends The Night">
+        فبات عندها
+      </p>
+
+      <p n="Carpenter Falls Asleep">
+        فبينما هما يتحادّثان وهو يرى كلّ ما يعملون
+        <lb/>
+
+        إذ نعس فنام وأثقله النوم فخرج رِجل الرجل من تحت السرير
+      </p>
+
+      <p n="Wife Prompts Question From Lover">
+        فبصرت به
+        <lb/>
+
+        امرأته فأيقنت بالشرّ فسارّت صديقها أن ارفعْ صوتك وسلْني أنا أحبّ
+        <lb/>
+
+        إليك أم زوجك فسألها صديقها عمّا قالت
+      </p>
+
+      <p n="Wife Feigns Surprise">
+        فقالت له وما سؤالك إيّاي عن
+        <lb/>
+
+        هذه المسألة لعمري لئن ظننت أنّ أحدًا من الناس أحبّ إليّ من زوجي وأكرم
+        <lb/>
+
+        عليّ منه
+      </p>
+
+      <p n="Wife Says Lovers Serve Only Pleasure">
+        فإنّا معشر النساء لا نحبّ رجلًا إلاّ لقضاء الشهوة وبلوغ اللذّة ولا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="137"/>
+
+      <p n="A Liar Suffers Punishment in Here and Hereafter">
+        والبهتان كان جزاؤه العقوبة في العاجل والآجل
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded and Court's Members Leave for the Day">
+        ثمّ إنّ
+        <lb/>
+
+        القاضي كتب ما قيل له ومردوده وأرسل به إلى السجن وانطلق عظيم الجند
+        <lb/>
+
+        إلى منزل الملك وانصرف سائرهم
+      </p>
+
+      <p n="The Court Hears Dimna's Arguments Seven More Days Without Reaching Verdict">
+        وحلِس دمنة بعد ذلك سبع
+        <lb/>
+
+        ليالٍ يتكلّم بعذره فلم ؟يقرّوه بشئ من ذنبه ولم يخصموه فيه ولم
+        <lb/>
+
+        يقدروا عليه
+      </p>
+
+      <p n="The Lion Shows the Records to His Mother Who Warns of Dimna’s Past and Future Crimes">
+        ثمّ إنّ أمّ الأسد عند عرض الكتب بما قال دمنة
+        <lb/>
+
+        وما قيل له دخلت عليه
+      </p>
+
+      <p n="The Mother Warns the Lion of Leaving Dimna Unpunished">
+        فقالت للأسد لئن أنت خلّيت سبيل دمنة
+        <lb/>
+
+        بعد الذي ركب من الأمر العظيم
+      </p>
+
+      <p n="Failure to Punish Dimna will Weaken the Lion’s Authority">
+        ليجترئنّ عليك جندك ولا يتخوّف
+        <lb/>
+
+        أحد منهم في فظيعٍ يرتكبه عقوبتك وينتشرن من أمر ما لا
+        <lb/>
+
+        تطيق شعبه ولا شعب غيره
+      </p>
+
+      <p n="Leopard Testifies on Mother's Order">
+        وأحضرت النمر فشهد علي دمنة
+        <lb/>
+
+        بما سمع منه ومن أمر أخيه كليلة إيّاه حين دخل عليه يطلب القبس
+      </p>
+
+      <p n="Fellow Prisoner Testifies">
+        وبعث السبع المحبوس إنّ عندي شهادةً فأُخرج من السجن فأُحضر
+        <lb/>
+
+        فشهد على دمنة بما سمع منه ومن أمر أخيه كليلة ومراجعته إيّاه
+      </p>
+
+      <p n="Lion Orders Dimna to Be Killed">
+        فلمّا كلّمته أمّه بذلك وكرّرت عليه وقع في نفسه واستبان له أنّ
+        <lb/>
+
+        دمنة قد كان حمله على زيغٍ وأوطأه عشوة أمر به فقتل
+      </p>
+
+      <p n="Commentary That Seeking Others' Harm Will Be Punished">
+        ثمّ قال
+        <lb/>
+
+        الفيلسوف للملك لينظر أهل التفكير في الأمور في هذا وأشباهه
+        <lb/>
+
+        وليعلموا أنّ من التمس منفعة نفسه بمهلكة غيره طالما له بخديعةٍ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

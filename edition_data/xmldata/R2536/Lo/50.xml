@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="50"/>
+
+      <p n="Dimna Approaching the Lion">
+        دمنة انطلق فسلّم على الأسد
+      </p>
+
+      <p n="Lion Inquiring About Dimna's Identity">
+        فقال الأسد لقرابته من هذا
+      </p>
+
+      <p n="Identification of Dimna">
+        قالوا له
+        <lb/>
+
+        هذا فلان بن فلان الفلانيّ
+      </p>
+
+      <p n="Lion Recognizing Dimna's Father">
+        قال لهم الأسد قد كنت أعرف أباه
+      </p>
+
+      <p n="Lion Questioning Dimna's Whereabouts">
+        فقرّبه
+        <lb/>
+
+        وأدناه وقال له أين كنت تكون
+      </p>
+
+      <p n="Dimna's Response about His Loyalty">
+        قال له دمنة لم أزلْ مرابطًا بباب
+        <lb/>
+
+        الملك رجاء أن يحضر أمر أعينه فيه بنفسي ورأيي
+      </p>
+
+      <p n="Dimna on the Value of Overlooked Individuals">
+        فإنّه قد يجتمع للملك
+        <lb/>
+
+        الأشياء التي يحتاج فيها إلى من لا يُؤبه له ويستصغر أمره وليست تصغر
+        <lb/>
+
+        منزلة أحد عن أن تكون عنده منفعة
+      </p>
+
+      <p n="Analogy of Useful Discarded Objects">
+        فإنّ العود المطروح في الأرض
+        <lb/>
+
+        ربّما ارتفق به المرء وأخذه من الأرض فحكّ به أذنه ولغير ذلك
+      </p>
+
+      <p n="Comparison to Knowledgeable Beings">
+        فالحيوان
+        <lb/>
+
+        العالم بالأمور أحرى أن يكون ذلك عنده وفيه
+      </p>
+
+      <p n="Lion's Positive Impression of Dimna">
+        فلمّا سمع الأسد ذلك
+        <lb/>
+
+        من دمنة استظرفه وأعجبه ورجا أن يكون عنده معرفة أو رأي
+      </p>
+
+      <p n="A Noble Man May Be Obscure">
+        فقال لقرابته إنّ الرجل النبيل ذو المروءة والعلم والفضل ليكون خامل
+        <lb/>
+
+        المنزلة غامض الأمر فتأبى مروءته إلّا أن تظهر وتزيد
+      </p>
+
+      <p n="Analogy of a Flame's Inevitable Rise">
+        كالشعلة من
+        <lb/>
+
+        النار التي يصوّبها صاحبها فترتفع وتضيء
+      </p>
+
+      <p n="Dimna Seizing the Opportunity to Impress">
+        فلمّا عرف دمنة أنّ
+        <lb/>
+
+        الأسد قد أعجب به وافقه كلامه قال إنّ رعيّة الملك ومن بحضرته
+        <lb/>
+
+        لجدراء أن يعرّفوه ما عند أنفسهم من المروءة والعلم ويبذلوا نصيحتهم
+        <lb/>
+
+        ومروءتهم ومودّتهم فإنّه لا يضعهم في منازلهم التي هم أهلها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

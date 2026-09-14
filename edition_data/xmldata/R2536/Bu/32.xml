@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="32"/>
+
+      <p n="unassigned">
+        إذا هو بصنج موضوع في ناحية البيت فقال التاجر للرجل هل تحسن
+        <lb/>
+
+        ضرب الصنج قال نعم وكان به ماهرًا قال التاجر دونكه فأخذ
+        <lb/>
+
+        الرجل الصنج وجعل يُسمع التاجر صوتًا لذيذًا ونقرًا مطربًا حتّى
+        <lb/>
+
+        امتثالهم في ذلك وترك التاجر سفط جوهره مفتوحًا وأقبل على
+        <lb/>
+
+        الضرب واللهو فلمّا أمسى قال له الرجل أعطني أجرة يومي هذا فقال
+        <lb/>
+
+        له وهل عملت شيئًا تأخذ عليه أجرة قال له نعم عملت ما أمرتني
+        <lb/>
+
+        به فوفّاه مائة دينار وبقي جوهره غير مثقوب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="18"/>
+
+      <p n="Burzoy Commends Secrecy">
+        بإذن الله في يدك وكتمان ذلك في يدي
+      </p>
+
+      <p n="Scholars Commend Discrete Friend">
+        قال بروزيه إنّ العلماء
+        <lb/>
+
+        قد مدحت الصديق إذا كتم سرّ صديقه
+      </p>
+
+      <p n="Burzoy Entrusts Secret To Friend">
+        وهذا الأمر الذي قدمت له
+        <lb/>
+
+        إيّاك اعتمدت به وإليك أفشيته
+      </p>
+
+      <p n="Burzoy Vows Secrecy">
+        ولن يتجاوز منّي ومنك إلى أحد
+        <lb/>
+
+        تكرهه وتخاف إذاعته وإفشاءه
+      </p>
+
+      <p n="Friend Fears Own Kin">
+        وأنت تعلم أنّك فقط من قبلي آمن
+        <lb/>
+
+        ولكنّك تبقى أهل بلادك المطيقين بالمَلك أن شيّعوا ذلك
+      </p>
+
+      <p n="Burzoy Hopes Secret Remains Kept">
+        وأرجو أن لا يشيع لأنّي ظاعن وأنت مقيم وما أقمت فليس بيننا ثالث
+      </p>
+
+      <p n="Friend Provides Book">
+        فشفّعه الهنديّ فيما طلب وأعطاه حاجته من الكتب
+        <lb/>
+
+        ودفع إليه كتاب كليلة ودمنة
+      </p>
+
+      <p n="Burzoys Effort In Translation">
+        فلمّا وقع بروزيه على
+        <lb/>
+
+        تفسير الكتب ونسخها أقام على ذلك زمانًا عظمت فيه مئونته
+        <lb/>
+
+        ونفقته وأنصب فيه بدنه وأسهد فيه عينه وذهب فيه
+        <lb/>
+
+        نهاره
+      </p>
+
+      <p n="Burzoy Translates Under Duress">
+        من الخوف على نفسه
+      </p>
+
+      <p n="Burzoy Writes To Kisra">
+        فلمّا فرغ منه ومن سائر الكتب
+        <lb/>
+
+        وأحكمها كتب إلى كسرى أنوشروان يعلمه بما لقي من التعب
+        <lb/>
+
+        والعناء وأنّه قد فرغ منه ومن سائر الكتب
+      </p>
+
+      <p n="Kisra Calls Burzoy Back">
+        أجابه كسرى في سرّ
+        <lb/>
+
+        مكتوم يأمره بالأوبة إليه ساعة يردّ عليه بالكتاب
+      </p>
+
+      <p n="Burzoy Returns To Persia">
+        فتجهّز بروزيه
+        <lb/>
+
+        وخرج من بلاد الهند حتّى ورد فارس
+      </p>
+
+      <p n="Burzoy Rejoins Kisra">
+        ودخل على كسرى وخرّ له
+        <lb/>
+
+        ساجدًا
+      </p>
+
+      <p n="Burzoys Exhaustion Shows">
+        فلمّا رفع رأسه واستوى قائمًا رآه كسرى قد شحب لونه وتغيّر
+        <lb/>
+
+        سحنته وشاب رأسه فرقّ له
+      </p>
+
+      <p n="Kisra Announces Reward">
+        وقال أبشر أيّها العبد المطيع مولاه
+        <lb/>
+
+        الناصح لمَلكه ببشرى صالحة فقد استوجبت الشكر منّا ومن
+        <lb/>
+
+        جميع الخاصّة والعامّة فإنّا لا ندع رفدك والنظر لك ونحن
+        <lb/>
+
+        صائغون لك أفضل ما رجوت وأمّلت
+      </p>
+
+      <p n="Kisra Orders Rest">
+        ثمّ أمره أن ينصرف
+        <lb/>
+
+        ويريح بدنه سبعة أيّام ثمّ يأتيه ففعل
+      </p>
+
+      <p n="Kisra Holds K D Public Reading">
+        فلمّا كان في اليوم الثامن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

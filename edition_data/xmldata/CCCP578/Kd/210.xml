@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="210"/>
+
+      <p n="Men Receive Their Gifts">
+        الملك الفيل الأبيض لنفسه وأعطى جرىرًا ابنه وكاتبه الفرسين بسرجيهما
+      </p>
+
+      <p n="Gift To Be Distributed To All Victims">
+        ينبغي لهذه الهديّة أن توضع في خزائننا ولكن أقسّموها
+      </p>
+
+      <p n="Queen Is Especially Deserving">
+        بين إبلاد التي أشارت عليّ
+        <lb/>
+
+        ونصحتني وبين بقيّتكم الذي كانوا شركائي فيما كنت
+      </p>
+
+      <p n="Subjects Dont Expect Reward">
+        فقال له بلاد لا ينبغي
+        <lb/>
+
+        لنا معشر العبيد أن يعظم في أعيننا الذي كان منّا فيما وطنّا أنفسنا
+        <lb/>
+
+        من التماس مؤازرة الملك وموافقته
+      </p>
+
+      <p n="Subjects Must Sacrifice For King">
+        وأيّ امرئ لا يتجشّم ذلك لملكه وذوي قرابته
+        <lb/>
+
+        فإن لم يفعل ذلك لم يكمّل أخاه ولم يستقم طريقه فلا يكونّن على الملك ما كان
+        <lb/>
+
+        منّا في ذلك عجب
+      </p>
+
+      <p n="Vizier Rejects Gift">
+        فأمّا هذه الهديّة <> فإنّه أهل لما أُعطي منها
+      </p>
+
+      <p n="King Instists Giving Gift">
+        قال الملك إنّه قد شاع هذا
+        <lb/>
+
+        الأمر في البلاد ما اضطربت منه وأنت خليق يا بلاد ألاّ تحتشم من أخذ ما أكرمك
+        <lb/>
+
+        به لفضلك على جميع أهل مملكتي وأن تأخذ من هذه الهديّة ما تقرّ به ويفرح به
+        <lb/>
+
+        صدرك ويساء به عدوّك
+      </p>
+
+      <p n="Vizier Accepts Gift">
+        قال بلاد أمري برأي الملك فليصنع ما بدا له
+      </p>
+
+      <p n="Men Receive Their Gifts">
+        فأخذ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

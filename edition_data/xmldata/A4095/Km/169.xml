@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="169"/>
+
+      <p n="The Donkey Plans an Escape">
+        فكان الحمار مشغول القلب بالمضيّ إلى عند الأيل فلم يهنيه أكل
+        <lb/>
+
+        ولا شرب وأخذ يفكّر ويحتال في ذلك وقال ينبغي أن أجعل
+        <lb/>
+
+        هربي إليه في الليل
+      </p>
+
+      <p n="The Donkey Escapes to the Stag">
+        فلمّا جاء الليل واشتغل أصحابه بالعشاء والشرب
+        <lb/>
+
+        اجتهد حتّى قلع مقوده وخرج هاربًا إلى الدار التي دخل فيها
+        <lb/>
+
+        الأيل
+      </p>
+
+      <p n="The Donkey Watches the Stag Overnight">
+        فلمّا انتهى إليها وجد الباب مغلقًا مستوثقًا منه فاطّلع من شقّ
+        <lb/>
+
+        الباب فرأى الأيل مخلًّى من رباطه وخشي الحمار أن يراه الناس
+        <lb/>
+
+        فوقف في زاوية الحائط إلى الغداة
+      </p>
+
+      <p n="The Stag Is Returned to the River">
+        فلمّا كان الغداة أخذ الرجل الأيل
+        <lb/>
+
+        ومضى به إلى النهر ليسقيه وكان الرجل يمشي قدّامه ويسوقه بحبل
+        <lb/>
+
+        مربوط في عنقه
+      </p>
+
+      <p n="The Donkey Approaches the Stag">
+        فلمّا رأى الحمار ذلك اتّبعه يماشيه ويخاطبه
+        <lb/>
+
+        بلغته ولم يكن الأيل عارفًا بلغة الحمير فلم يفهم عنه كلامه ونفر
+        <lb/>
+
+        منه وأخذ يقاتله
+      </p>
+
+      <p n="The Stag's Owner Chases the Donkey Away">
+        والتفت صاحب الأيل وكان معه عصا فضربه
+      </p>
+
+      <p n="The Donkey Bites the Stag's Owner">
+        فقال الحمار في نفسه ما يمنعني من الكلام لهذا الأيل واللطف به
+        <lb/>
+
+        والخدمة له وكشف ما عندي إلّا هذا الرجل يقوده فوثب عليه
+        <lb/>
+
+        وقبض على ظهره بأسنانه فعضّه عضّة شديدة فما تخلّص الرجل منها
+        <lb/>
+
+        إلّا بعد شدّة
+      </p>
+
+      <p n="The Stag's Owner Cuts the Donkey's Ears">
+        فقال الرجل إن أنا أخذته لم آمن من بليّة يلقيها
+        <lb/>
+
+        بي ولكنّي أودا أعلّم فيه علامة حتّى إذا رأيته طالبت صاحبه بثأري
+        <lb/>
+
+        فأخرج سكّينًا كانت معه فقطع بها أذني الحمار
+      </p>
+
+      <p n="The Donkey Is Punished upon Return">
+        وعاد الحمار إلى دار
+        <lb/>
+
+        أصحابه وكان الذي نزل به من صاحبه أشدّ من قطع أذنيه
+      </p>
+
+      <p n="The Donkey Recognizes His Ancestors' Wisdom">
+        فحينئذ
+        <lb/>
+
+        فكّر الحمار وقال لقد كان آبائي أقدر منّي على هذا لكن خافوا من سوء
+        <lb/>
+
+        عاقبته فامتنعوا
+      </p>
+
+      <p n="King W Insists on a Solution">
+        منه قال المَلك قد سمعت مثلك هذا وما
+        <lb/>
+
+        سبيلك أن تخاف من هذا الأمر فإنّه والعياذ بالله إن لم يتمّ لنا ما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

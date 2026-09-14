@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="66"/>
+
+      <p n="The Moral: Cunning Triumphs">
+        وإنّما ضربت لك هذا المثل لتعلم أنّ الاحتيال ربّما كان أجزى في بعض
+        <lb/>
+
+        الأمور من الطاقة والقوّة
+      </p>
+
+      <p n="Kalila's Objection">
+        قال كليلة إنّ شتربة لو لم يجمع مع شرّته
+        <lb/>
+
+        رأيًا كان كذلك ولكنّه قد أعطي مع ما ذكرت له فضلًا بيّنًا وفهمًا
+        <lb/>
+
+        حسنًا ورأيًا حازمًا
+      </p>
+
+      <p n="The Rabbit and the Lion Parable">
+        فقال له دمنة إنّ شتربة على ما وصفت ولكنّه
+        <lb/>
+
+        بي مغترٌّ إليّ آمنٌ فأنا خليقٌ أن أصرعه كما فعلت الأرنب بالأسد
+      </p>
+
+      <p n="Kalila Asks for the Story">
+        قال
+        <lb/>
+
+        كليلة وكيف كان ذلك
+      </p>
+
+      <p n="The Tyrannical Lion">
+        قال دمنة زعموا أن كان أسدٌ في أرضٍ
+        <lb/>
+
+        مخصبةٍ كثيرة الوحوش والمرعى والمياه فكان لا ينفعهنّ ما يبق فيه
+        <lb/>
+
+        فا من خوفهنّ من الأسد
+      </p>
+
+      <p n="The Animals' Proposal">
+        فائتمرن فيما بينهنّ فأتينه وقلن له إنّك لا تصيب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="119"/>
+
+      <p n="Woman's Servant Borrows Coat In Painter's Absence">
+        إيّاها
+      </p>
+
+      <p n="Servant Tricks Woman">
+        فلبسها وجاء إلى سيّدته فلمّا رأت الملاءة من بعيد ظنّت أنّه
+        <lb/>
+
+        صديقها فخرجت إليها إليه فواقعها وانصرف وردّ الملاءة على
+        <lb/>
+
+        الجارية
+      </p>
+
+      <p n="Lover Realizes She Was Tricked">
+        وإنّ صديقها رجع من ليلته من عند الملك فلبس الملاءة
+        <lb/>
+
+        ثمّ أقامها فلمّا رأته جاءت إليه وقالت له ما شأنك لقد أسرعت
+        <lb/>
+
+        الكرّة بعد قضاء حاجتك فعرف أنّه قد دُهي
+      </p>
+
+      <p n="The Lover's Servant Confesses">
+        فرجع إلى
+        <lb/>
+
+        منزله فأخذ جاريته فأوجعها ضربًا فأخبرته الخبر فأخذ
+        <lb/>
+
+        الملاءة وأحرقها بالنار وباع الجارية
+      </p>
+
+      <p n="Dimna Opposes Acting Upon Doubt">
+        وإنمّا ضربت لك هذا المثل
+        <lb/>
+
+        لئلّا يعجل الملك في أمر شبهة له فيحتمل الوزر والإثم
+      </p>
+
+      <p n="Dimna Denies Fear of Death">
+        ولست
+        <lb/>
+
+        أقول ما تسمعون شفقًا من الموت فإنّه وإن كره فلا منجى
+        <lb/>
+
+        ولا محيص عنه وكلّ حيّ هالك
+      </p>
+
+      <p n="Dimna Would Die for Lion">
+        ولو كانت لي مائة نفسٍ وعلمت
+        <lb/>
+
+        أنّ الملك رأيه فى تَلَفهنّ لجدت بهنّ
+      </p>
+
+      <p n="First Speaker Accuses Dimna of Self-Interest">
+        فقال بعضهم لم تنطق
+        <lb/>
+
+        بهذا لحبّك للملك ولا لكرامته عليك إلّا لخاصّة نفسك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

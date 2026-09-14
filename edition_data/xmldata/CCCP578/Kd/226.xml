@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="226"/>
+
+      <p n="unassigned">
+        ما عظمت به عندي الصنيعة واليد ما لم تكن من وزير إلى ملكه فأنا
+        <lb/>
+
+        لك شاكر عدّة منك بل حسنًا ونظرًا مصيبًا مسدّدًَا ولم يكن الذي رأيت
+        <lb/>
+
+        من احتمالك غلظ قولك إلاّ ما رجوت لم يكن ذلك لغشّ ولا لبغض ولم يكن
+        <lb/>
+
+        وجب عليها بما عملت القتل فانطلق الآن يا بلاد واتني بإبلاد عاجلًا
+        <lb/>
+
+        الساعة فلمّا سمع ذلك بلاد فرح فرحًا شديدًا وسرّه ذلك وأتى إبلاد
+        <lb/>
+
+        فأعلمها فتزيّنت وتهيّأت وانطلقت معه حتّى أدخلها على الملك فلمّا رآها
+        <lb/>
+
+        ابتهج لمجيئها وداخله العجب بالنظر إليها فقال لها لأجعلنّك بعد يومي
+        <lb/>
+
+        بأفضل المنازل ولآتينّ مسرّتك ولأعطينّك سؤلك فإنّي بك مغرم
+        <lb/>
+
+        وعنك غير صابر فقال بلاد أدام الله لك أيّها الملك السرور ومدّ
+        <lb/>
+
+        في عمرك ومتّع رعيّتك بك لولا ما أعطيت من الرأفة والرحمة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

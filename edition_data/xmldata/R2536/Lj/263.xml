@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="263"/>
+
+      <p n="Critical Friend Is Rare">
+        بعزيز المطلب
+      </p>
+
+      <p n="Jackal Fears Future Plots">
+        قال ابن آوى قد علمت أيّها الملك السعيد كيف كان أوّل
+        <lb/>
+
+        أمري والحال التي لها صحبت الملك وصرت إلى ما صرت إليه ولست
+        <lb/>
+
+        واثقًا بمن بالباب من أهل البغي والحسد أن يرفعوا إليه ثانية شيئًا يحقّ
+        <lb/>
+
+        به قولهم فتنزل بي العقوبة
+      </p>
+
+      <p n="Jackal Is Reluctant to Trust Lion Again">
+        فلا يجدنّ الملك من قولي أنّي لا أجد بمن ببابه
+        <lb/>
+
+        ثقة
+      </p>
+
+      <p n="Jackal Fears Lion's Renewed Wavering">
+        فإنّي اليوم بالمنزلة التي كنت عدوًّا للملك فالملك وإن كان أراد قتلي
+        <lb/>
+
+        على ما كنت عليه من النصيحة إذا لم تطّلع على ذات نفسي ثمّ تفضّل عليّ بالعفو
+        <lb/>
+
+        وصرّح عذري له فإنّي خائف لا يعرض في قلبك أنّي مصطنع لما كان
+        <lb/>
+
+        منك في أمري فيحملك ذلك على إهلاكي
+      </p>
+
+      <p n="Schemers Will Attempt to Cover Up Their Plot">
+        مع أنّ أعدائي سيقولون إنّا لا ندع
+        <lb/>
+
+        إذ لم نستطعْ بلوغ حاجتنا من ابن آوى وأن نحتال له لئلّا يرى الملك أنّ
+        <lb/>
+
+        الذي رفعنا إليه في أمره كان كذبًا فيبغوني الغوائل فلو أنّ قلب
+        <lb/>
+
+        الملك عاد بي إلى ما كنت عليه قبل اليوم إنّي لكما كنت
+      </p>
+
+      <p n="Lion Says He Tested Jackal">
+        قال الأسد
+        <lb/>
+
+        قد جرّبتك
+      </p>
+
+      <p n="Lion Confirms Jackal's Status">
+        وأنت عندي بأفضل منازل الأبرار والصالحين
+      </p>
+
+      <p n="The Noble Forgives Misdeeds for One Good Deed">
+        فإنّ الرجل
+        <lb/>
+
+        الصالح يغفر ألف سيّئة بحسنة واحدة
+      </p>
+
+      <p n="Lion Repents and Reconciles Jackal">
+        وأنا المسيء إليك وقد استقرّ
+        <lb/>
+
+        عندي ظلم أعدائك لك وأنت حقيق بأن تغفر لي ذنبي لسالف إحساني
+        <lb/>
+
+        إليك ويكون كلّ واحد منّا لصاحبه فيما يستقبل أثبت مودّة وأوثق نصيحة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

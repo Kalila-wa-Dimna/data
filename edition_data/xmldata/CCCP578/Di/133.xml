@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="133"/>
+
+      <p n="Failure to Punish Dimna will Weaken the Lion’s Authority">
+        من أمرك ما لا يُطاق ولا يُشعب صدعه ولا يُرتق فتقه
+      </p>
+
+      <p n="Lion Orders Dimna to Be Killed">
+        فلمّا ألحّت على
+        <lb/>
+
+        الأسد بذلك وكرّرت عليه وأن دمنة كان حمله على قتله شتربه أمر به
+        <lb/>
+
+        أن يجاع ويعطش ويقتل شرّ قتلة ففعل به ذلك
+      </p>
+
+      <p n="Commentary That Seeking Others' Harm Will Be Punished">
+        ثمّ إنّ الفليسوف قال
+        <lb/>
+
+        للملك لينظر الملك وأهل التفكّر في الأمور في هذا وأشباهه وليعلموا
+        <lb/>
+
+        أنّه من يلتمس منفعة نفسه ويريد بذلك مهلكة غيره ظالمًا بخديعة ومكر
+        <lb/>
+
+        وخلابة فإنّه غير مفلتًا من وباله وسوء عاقبته وميتته وإنّه مكافأته
+        <lb/>
+
+        ومجازًى عليه بما عمل منه عاجلًا وأجلًا وصائرًا إلى البوار على كلّ حال
+        <lb/>
+
+        والسلام
+      </p>
+
+      <p n="End of Chapter">
+        آخر باب البحث عن أمر دمنة وهو نصف الكتاب يتلوه باب الحمامة
+        <lb/>
+
+        المطوّقة
+      </p>
+
+      <p n="unassigned">
+        باب الحمامة المطوّقة
+        <lb/>
+
+        ثم قال الملك للفيلسوف قد سمعت مثل المتحابين يقطع
+        <lb/>
+
+        بينهما الخؤون المختال الكذوب وما صار إليه أمره أخبرني عن إخوان
+        <lb/>
+
+        الصفا كيف يبدوا تواصلهم ويستمع بعضهم ببعض قال الفيلسوف
+        <lb/>
+
+        فإن العاقل لا يعدل بالإخوان شيئًا من العقل والمكاسب لأنّهم الأعوان
+        <lb/>
+
+        على الخير كلّه والمواسون على ما ينوب من المكروه ومن أمثال ذلك
+        <lb/>
+
+        مثل الغراب والظبي والسلحفاة قال الملك وكيف كان ذلك قال
+        <lb/>
+
+        الفيلسوف زعموا أنّه كان بأرض بلسابد عند مدينة يقال لها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+    <chapter>Rd</chapter>
+  </chapter>
+</TEI>

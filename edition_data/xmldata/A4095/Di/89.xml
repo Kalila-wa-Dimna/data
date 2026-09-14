@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="89"/>
+
+      <p n="Falconer Teaches Parrots False Accusation in Foreign Tongue">
+        البلخيّة ولم يكن أهل تلك البلاد يعرفونها
+      </p>
+
+      <p n="Falconer Gives Parrots to Marzuban">
+        فلمّا كان ذات يومٍ ومولاه
+        <lb/>
+
+        يشرب إذ أتاه بهما فصاحا بتلك الكلمتين بين يديه فأعجب المرزبان
+        <lb/>
+
+        ترجيعهما وجالوا بأصواتهما من غير أن يكون فقِه شيئًا ممّا قالاه
+      </p>
+
+      <p n="Marzuban Gives Parrots to Wife">
+        وأمر امرأته
+        <lb/>
+
+        بالاحتفاظ بهما والإحسان إليهما وألطف الغلام وأحسن إليه ومكثا
+        <lb/>
+
+        عنده زمانًا
+      </p>
+
+      <p n="Marzuban Hosts Foreign Guests">
+        ثمّ إنّه قدم عليه أناسٌ من عظماء أهل بلخ فصنع لهم
+        <lb/>
+
+        طعامًا وشرابًا فلمّا أصابوا من ذلك دعا بالفرخين ليُعجبهم منهما فصوّتا
+      </p>
+
+      <p n="Foreign Guests Understand Parrots">
+        فلمّا سمعوا صياحهما نظر بعضهم إلى بعضٍ ونكّسوا رءوسهم حياءً منه
+      </p>
+
+      <p n="Foreigners Ask Whether Marzuban Understands Parrots/He Asks Them">
+        ثمّ
+        <lb/>
+
+        قالوا له هل تعلم ما يقولان فقال لا غير أنّ ذلك لي مُعجب
+        <lb/>
+
+        فقال بعضهم له لا تجد علينا إن حدّثناك به
+      </p>
+
+      <p n="Foreigners Translate Parrots' Words, Refuse Meal in House of Sin">
+        فإنّ أحدهما يزعم
+        <lb/>
+
+        بلسان البلخيّة أنّ البوّاب يفجر بامرأتك وأمّا الآخر فيقول أمّا أنا
+        <lb/>
+
+        فلست بقائل شيئًا وإن من شأننا أن لا نُصيب في بيت امرئٍ امرأته
+        <lb/>
+
+        فاجرة طعامًا
+      </p>
+
+      <p n="Falconer Confirms Parrots' Accusations">
+        فنادى البازيار من خارج أنا أشهد على مقالتهما أنّها
+        <lb/>
+
+        حقًّا وأنّي قد رأيت ذلك غير مرةٍ
+      </p>
+
+      <p n="Marzuban Orders Wife to Be Killed">
+        فأمر المرزبان بقتل امرأته
+      </p>
+
+      <p n="Wife Asks Him to Investigate">
+        فأرسلت إليه أن افحص عمّا ذُكِر لك فسيبدو لك مَن الفاجر
+        <lb/>
+
+        الكذّاب ومن هؤلاء العظماء فليسألوهما ولينظروا هل يعلمان
+        <lb/>
+
+        أو يُحسنان من لسان البلخيّة غير هاتين الكلمتين
+      </p>
+
+      <p n="The Parrots Will Turn Out to Be Trained">
+        فتعلموا أنّ ذلك
+        <lb/>
+
+        من تعليم البازيار لأنّه أرادني على نفسي فامتنعت منه
+      </p>
+
+      <p n="Falconer's Training of Parrots Is Discovered">
+        ففعل
+        <lb/>
+
+        ذلك فكلّموهما فإذا هما لا يُحسِنان غيرهما فعرفوا أنّ ذلك من تعليم
+        <lb/>
+
+        البازيار
+      </p>
+
+      <p n="Falcon Gouges Out His Eyes">
+        فأرسل إليه فأتاه وعلى يده بازٍ فقالت له المرأة ويلك
+        <lb/>
+
+        أنت رأيتني على ما قذفتني به قال نعم فوثب البازي عليه فنزع
+        <lb/>
+
+        عينيه بمخالبه
+      </p>
+
+      <p n="Wife Interprets This As God Punishing False Testimony">
+        فقالت المرأة لقد عجّل الله لك النكال بكذبك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

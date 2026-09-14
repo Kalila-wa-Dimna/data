@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="124"/>
+
+      <p n="Courtiers Envy Each Other">
+        به هلاكهم
+      </p>
+
+      <p n="The Lion Praises Dimna">
+        وخاصّة من أحسّوا عنده فضل غنًا وقولًا ومروةً وهذه كلّها موجودة
+        <lb/>
+
+        في دمنة
+      </p>
+
+      <p n="Lion Repeats Question for Mother's Source">
+        فحدّثيني من عرّفك بهذا الأمر
+      </p>
+
+      <p n="The Mother Names the Leopard">
+        فقالت أمّ الأسد أنّ الأمين الصدوق
+        <lb/>
+
+        المخبر هو خليلك وأمينك وصفيّك ومكتّم سرّك النمر
+      </p>
+
+      <p n="Lion Promises to Act and Dismisses His Mother">
+        فقال لها الأسد حسبك سترين ما
+        <lb/>
+
+        أصنع به فانصرفي
+      </p>
+
+      <p n="Kalila Seeks out Dimna in Prison">
+        فلمّا ذهبت أمّ الأسد وانتصف الليل أُخبر كليلة أنّ دمنة قد أوثِق
+        <lb/>
+
+        وحُبس فرقّ عليه لطول صحبته وإخائه فانطلق إليه إلى السجن مستخفيًا
+      </p>
+
+      <p n="Kalila Weeps when Seeing Dimna">
+        فلمّا رآه موثوقًا
+        <lb/>
+
+        بكى
+      </p>
+
+      <p n="Kalila Admits Having Been Harsh on Dimna">
+        وقال له قد صار أمرك إلى ما لا أبالي أن أغلط لك معه في القول
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

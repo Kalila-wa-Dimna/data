@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="2"/>
+
+      <p n="unassigned">
+        the den of a cat named Rūmī. The
+      </p>
+
+      <p n="The Cat Is Caught">
+        hunters of that land went every day to valleys and other sites
+        <lb/>
+
+        to find game
+      </p>
+
+      <p n="unassigned">
+        from which to benefit. One day they passed that very tree and noticed that
+        <lb/>
+
+        fowl and wild animals took shelter there; and so they started to that place at all times and every time
+        <lb/>
+
+        “One day,” he continued, “one of them came and set his snares, into which fell
+        <lb/>
+
+        the cat whose name was Rūmī!”He said: “As the cat fell into the snares,
+      </p>
+
+      <p n="The Rat Seeks Food">
+        the rat was coming out
+        <lb/>
+
+        to seek some nourishment. Upon seeing the cat in the snares, he became afraid for
+        <lb/>
+
+        himself, turning left and right. Then saw the cat in the snares and rejoiced
+        <lb/>
+
+        greatly at that, as if he fell upon an opportunity.
+      </p>
+
+      <p n="Foes Surround the Rat">
+        While joyful, he happened to look behind and suddenly saw a mongoose;
+        <lb/>
+
+        he then raised his eye toward the tree and saw an owl on the tree. And so, he feared for himself: if he turned back,
+        <lb/>
+
+        the mongoose would jump on him and if he stepped forward, the cat would take him.
+      </p>
+
+      <p n="The Rat Weighs His Predicament">
+        ‘These are troubles that have besieged me,’ he said, ‘ ,and evils that
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

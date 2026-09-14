@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="192"/>
+
+      <p n="Dog's Bone Attracts Competitors">
+        إذا كان في فيه العظم تعاون عليه عدّة من الكلاب
+      </p>
+
+      <p n="Schemers Pursue Only Own Benefit">
+        وإنّ خصماء
+        <lb/>
+
+        ابن آوى لم ينظروا فيما يضرك ولم يرغبوا فيه عليك إلّا لعاجل
+        <lb/>
+
+        منفعة أنفسهم
+      </p>
+
+      <p n="King Must Protect Himself">
+        فانظر أنت فيما ينفعك لنفسك إن لم ينظر
+        <lb/>
+
+        لك أحد ولا تمالئهم على ما يضرّك
+      </p>
+
+      <p n="Lack of Good Advisors Is Damaging">
+        فإنّ أعظم الأشياء ضررًا على الناس
+        <lb/>
+
+        عامّة وعلى الولاة خاصّة أمران أن يُحرموا صالح الأعوان والوزراء
+        <lb/>
+
+        والإخوان وأن يكون وزراؤهم وإخوانهم غير ذي مروءة ولا
+      </p>
+
+      <p n="Jackal does not Need Lion">
+        غناء ولم يزل
+        <lb/>
+
+        غناء ابن آوى عنك عظيمًا
+      </p>
+
+      <p n="Jackal Toiled for Lion">
+        يؤثر منفعتك على هواه ويشتري راحتك
+        <lb/>
+
+        بنصبه ورضاك بسخطه
+      </p>
+
+      <p n="Jackal Hid no Secrets from Lion">
+        لا يطوي عنك أمرًا ولا يكتمك سرًّا
+        <lb/>
+
+        ولا يرى شيئًا احتمله لك أو بذله لك عظيمًا
+      </p>
+
+      <p n="Such Advisors Are Like Family">
+        فمن كان من الأصحاب
+        <lb/>
+
+        هذه صفته فإنّما منزلته منزلة الآباء والأبناء والإخوان
+      </p>
+
+      <p n="Courtier Exonerates Jackal">
+        فبينما
+        <lb/>
+
+        أمّ الأسد في كلامها إذ دخل على الأسد بعض من كان مكر بابن آوى
+        <lb/>
+
+        فأطلع الأسد على أمره
+      </p>
+
+      <p n="Mother Reaffirms Intrigue">
+        فلمّا علمت أمّ الأسد أنّ الأسد قد اطّلع على
+        <lb/>
+
+        براءة ابن آوى قالت للأسد أمّا إذا اطّلعت على براءة ابن آوى وجرأة
+        <lb/>
+
+        أصحابك عليه
+      </p>
+
+      <p n="Lion Must not Tolerate Misdeeds">
+        فلا ترضينّ بذلك منهم
+      </p>
+
+      <p n="Lion Must Punish Plotters">
+        ولا تدعنّ تشتّت ذات بينهم حتّى
+        <lb/>
+
+        ينقطع منك الشفقة عليهم فيتّخذوك مركبًا فتعوّدهم الاحتمال منك
+        <lb/>
+
+        وتجرّئهم على ضرّك وشينك
+      </p>
+
+      <p n="Lion Must not Underestimate Wrongdoers">
+        ولا تغترّنّ بسلطانك عليهم فيدعوك
+        <lb/>
+
+        ذلك إلى استصغارهم والتهاون بأمرهم
+      </p>
+
+      <p n="Grass Rope Ties Elephant">
+        فإنّ الحشيش الضعيف إذا
+        <lb/>
+
+        جُمع فُتل منه الحبل القويّ الذي يُوثق به الفيل المغتلم الشديد
+      </p>
+
+      <p n="Lion Should Reinstate Jackal">
+        فأعدْ
+        <lb/>
+
+        لابن آوى منزلته وخاصّته ولا يؤيسنّك من مناصحته ما فرط إليه
+        <lb/>
+
+        منك من الإساءة
+      </p>
+
+      <p n="The Wronged Person Need not Be Feared">
+        فإنّه ليس كلّ من أُسيء إليه ينبغي أن يُتخوّف غشّه
+        <lb/>
+
+        وعداوته ويُؤيس من نصيحته ومودّته لكن
+      </p>
+
+      <p n="The Intelligent Must Rank People by Character">
+        ينبغي أن يُنزّل الناس
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

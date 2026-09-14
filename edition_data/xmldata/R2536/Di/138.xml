@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="138"/>
+
+      <p n="Commentary That Seeking Others' Harm Will Be Punished">
+        أو مكر أو خلافه أو بفضلٍ فإنّه غير ناجٍ من وبال ذلك وغيره
+        <lb/>
+
+        من العواقب الرديئة وأنّه مكافأة به ومُجزى عليه عاجلًا وصائرًا
+        <lb/>
+
+        إلى العقاب على كلّ حال
+      </p>
+
+      <p n="unassigned">
+        باب الحمامة المطوقة
+        <lb/>
+
+        والجرذ والسلحفاة والغراب والظبي وما كان من أمر نمر
+        <lb/>
+
+        قال الملك للفيلسوف قد فهمت مثل المتحابّين يقطع بينهما الخؤن
+        <lb/>
+
+        الكذوب وما يصير إليه أمره فأخبرني عن إخوان الصفا وكيف يندوا
+        <lb/>
+
+        تواصلهم وكيف يستمع بعضهم من بعضٍ قال اليلسوف إنّ العاقل لا
+        <lb/>
+
+        الخيرهم الإخوان والمواسون عند ما ينوب من المكروه ومن
+        <lb/>
+
+        يعدل بصالح الأخوان والمواسون عند ما ينوب من المكروه ومن
+        <lb/>
+
+        أمثال ذلك مثل الحمامة المطوّقة والغراب والظبي والسلحفاة
+        <lb/>
+
+        والجرذ قال الملك وكيف كان ذلك قال الفيلسوف زعموا أنّه
+        <lb/>
+
+        كان بأرض بادستباد عند مدينة يقال لها ماروات مكان للصيّد
+        <lb/>
+
+        وكانت فيه شجرة عظيمة كثيرة الغصون ملتفّة الورق وكان فيها
+        <lb/>
+
+        وكر غراب يقال له حابة فبينا الغراب ذات يوم واقفًا على الشجرة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+    <chapter>Rd</chapter>
+  </chapter>
+</TEI>

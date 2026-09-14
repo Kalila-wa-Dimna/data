@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="251"/>
+
+      <p n="Lion Should Reinstate Jackal">
+        فارددْ ابن آوى إلى منزلته وليكنْ صاحب مشورتك وأمينك على سرّك
+        <lb/>
+
+        لأنّه قد أُوذي وكُذب عليه ولا ىىىعك <>
+      </p>
+
+      <p n="Whom not to Reinstate">
+        فإنّ الإخوان ليس أسواء لمواصلة مضرّة
+        <lb/>
+
+        وبلاء وفتنة
+      </p>
+
+      <p n="The Faithless Should Be Given Up">
+        ومنهم الكفور الزاهد في فعل الخير ومنهم الجريء على ركوب الإثم المنزوع
+        <lb/>
+
+        منه الرحمة فلا يرجو لعمله ثوابًا ولا يتخوّف على نفسه عقابًا ومنهم من لا يؤمن بالغيب
+        <lb/>
+
+        والحساب
+      </p>
+
+      <p n="The Irascible Should Be Given Up">
+        ومنهم السريع الغضب الشره الشديد الحرص التابع لشهوته وهواه
+      </p>
+
+      <p n="The Irreconcilable Should Be Given Up">
+        المتمادي
+        <lb/>
+
+        في غيّه ومكره المعروف بالخديعة والجرأة
+      </p>
+
+      <p n="The Hedonistic Should Be Given Up">
+        ومنهم صاحب شهوة ولذّة ولعب وشرب
+        <lb/>
+
+        يستحسن كلّ ما ركبه فالمباعدة لأولئك أفضل في العاجل
+      </p>
+
+      <p n="The Faithful Should Be Kept">
+        والآجل ومنهم <> الدين وعقل
+        <lb/>
+
+        ولبّ وصبر وشكر وفاء وعهد وحسن خلق ولين عريك لا يبطرهم غناء ولا يحوّلهم
+        <lb/>
+
+        فقر قد استقامت طريقتهم وقد عرفوا حقّ الله عليهم فاجتنبوا كلّ ما فيه إثم
+      </p>
+
+      <p n="Keeping the Virtuous Is Beneficial">
+        أولئك إخاؤهم رشدًا ومخالفتهم غمّ ليُقتبس الخير منهم ويُلتمس ما عندهم من العلم
+        <lb/>
+
+        والفضل والأدب
+      </p>
+
+      <p n="Jackal Has Been Tested">
+        فابن آوى منهم وقد جرّبت ذلك واختبرته في رأيه وعقله
+        <lb/>
+
+        زمانًا
+      </p>
+
+      <p n="Lion Apologizes to Jackal">
+        قال فلمّا سمع الأسد كلام والدته أعجبه فدعا بابن آوى واعتذر إليه
+        <lb/>
+
+        ممّا كان منه
+      </p>
+
+      <p n="Lion Wants to Reinstate Jackal">
+        وقال له عند ذلك الأسد إنّي معيدك إلى أفضل ما كنت عليه ومعطيك
+        <lb/>
+
+        ما كنت فيه وأكثر وأجعلك على جميع الخزائن والأموال ومقدّمك على خواصّ
+        <lb/>
+
+        مملكتي وجاعلك عندي في أعلى المراتب لأنّك عندي أهلًا لذلك وأنت مستحقّه
+        <lb/>
+
+        فطبْ نفسًا وقرّ عينًا
+      </p>
+
+      <p n="Untrue Friends Seek Only Their Own Benefit">
+        قال له ابن آوى إنّ شرّ الأخلّاء من التمس منفعة نفسه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

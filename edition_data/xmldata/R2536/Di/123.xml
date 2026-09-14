@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="123"/>
+
+      <p n="The Lion's Silence Makes the Mother Doubt">
+        وظنّت أنّ الأسد يعرف بعض ما يقول دمنة في براءته وغدره
+      </p>
+
+      <p n="Silence in an Argument Means Approval">
+        فقالت
+        <lb/>
+
+        أمّ الأسد أنّ الصمت عند الاحتجاج من الخصم دليل على تحقيق ما يقول
+        <lb/>
+
+        فلذلك قالت العلماء من قضى لصاحبه في جماعة الناس بشيء يقوله في
+        <lb/>
+
+        أمره فلم يجبْه للقول في سكوته فقد سكت في سكوته عن قول صاحبه
+        <lb/>
+
+        ثمّ نهضت فخرجت من عند الأسد
+      </p>
+
+      <p n="Lion Hands Dimna Over to Judge for Investigation">
+        وأمر الأسد عند خروجها
+        <lb/>
+
+        أن يُدفع إلى القاضي بالتوثيق منه حتّى يُفحص عن أمره فتُرك في حلقه
+        <lb/>
+
+        سلسلة وانطُلق به إلى السجن
+      </p>
+
+      <p n="Dimna Has a Bad Reputation">
+        ثمّ إنّ أمّ الأسد عادت من ردّ إلى الأسد
+        <lb/>
+
+        وقالت لم أزلْ اسمع الكبير والصغير يذكر نميمة دمنة وسوء عمله
+        <lb/>
+
+        ولا سيمّا في أمر الثور الذي كان خاصّتك ثمّ زادّ ذلك عندي
+        <lb/>
+
+        تصديقًا لـقول الأمين الصدوق
+      </p>
+
+      <p n="The Mother Tells the Lion not to Listen to Dimna">
+        فلا تسمعنّ قول دمنة وما يجيء
+        <lb/>
+
+        من خدعه وخلابته فإنّ سوء عمله قديم وقد اغتالك في الكذب
+        <lb/>
+
+        والخديعة وقد صار له خلقًا فإن تريد الواجب فتجمع جندك
+      </p>
+
+      <p n="The Mother Tells the Lion to Kill Dimna">
+        ولا تنتظرنّ بقتل دمنة
+      </p>
+
+      <p n="The Lion Tells the Mother to be Silent">
+        قال الأسد لها اسكتي واعتبري فإنّي ناظر
+        <lb/>
+
+        في هذا الأمر بالذي ينبغي
+      </p>
+
+      <p n="Courtiers Envy Each Other">
+        فإنّ الذين يلزمون أبواب الملوك طبعهم
+        <lb/>
+
+        وخلقهم تحميل بعضهم على بعض بالنميمة والكذب حسدًا وبغيًّا يطلب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

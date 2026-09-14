@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="5"/>
+
+      <p n="The Rat Points Out Their Common Problem">
+        through hoping that you be delivered, too]; it is this that has made me feel compassion toward you.
+        <lb/>
+
+        You, too: no one is more capable of helping you get out of this plight than I am.
+      </p>
+
+      <p n="The Rat Proves His Sincerity">
+        You will know the truth of my words and that they bear no lie
+        <lb/>
+
+        or deceit. You can see where the mongoose is, lying in ambush for me, and where the owl is, wanting
+        <lb/>
+
+        to snatch me, and both are my enemies. They, however, fear and avoid you.
+        <lb/>
+
+        If you safeguard me and vow not to kill me, I shall approach you and cut your cords, delivering you from that in which you are and saving myself in the act. Be reassured as to
+        <lb/>
+
+        what I have mentioned,
+        <lb/>
+
+        and trust me through it.
+      </p>
+
+      <p n="People Fail without Mutual Trust">
+        For no one is farther from the good than two whose situation is the same and their quality
+        <lb/>
+
+        is different: one, is he who trusts no one; and the other, is he whom
+        <lb/>
+
+        no one trusts.
+      </p>
+
+      <p n="The Rat Promises Faithfulness">
+        I will fulfill to you the commitment I pledged on my behalf. So do accept
+        <lb/>
+
+        this from me and be open to me. Don’t delay the matter while you can
+      </p>
+
+      <p n="The Intelligent Does Not Postpone Action">
+        The sensible man does not
+        <lb/>
+
+        postpone his action beyond its time.
+      </p>
+
+      <p n="The Cat Should Desire Common Rescue">
+        And let yourself be pleased by my survival as I will be pleased
+        <lb/>
+
+        by yours, for either one of us shall indeed be saved by the other- as with
+      </p>
+
+      <p n="Sailors Depend on Ships and Vice Versa">
+        a ship at sea: it survives
+        <lb/>
+
+        with the help of the passengers and the passengers survive with the help of the ship.
+      </p>
+
+      <p n="Cooperation Ensures Delivery for Both">
+        So, through cooperating-you and I-can we hope
+        <lb/>
+
+        for survival from this trouble.’”
+      </p>
+
+      <p n="The Cat Puts His Trust in the Rat">
+        “When the cat heard the rat’s speech, he knew
+        <lb/>
+
+        that he was truthful; so he got delighted by them, believing his words, and said to the rat, ‘I see that these words
+        <lb/>
+
+        of yours are akin to truth and sincerity I accept this truce, in which for myself and you, I hope, will be deliverance.
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

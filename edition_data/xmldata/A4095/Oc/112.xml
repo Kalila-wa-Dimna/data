@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="112"/>
+
+      <p n="The Intelligent Is Never Free from Worry">
+        من معاودته وإن كان متكشّفًا لم نأمنْ استطراده وإن كان قريبًا
+        <lb/>
+
+        لم نأمنْ مواثبته وإن كان وحيدًا لم نأمنْ مكره وأكيس
+      </p>
+
+      <p n="War Shoud be the Last Resort">
+        الأقوام
+        <lb/>
+
+        من لم يكن يلتمس الأمر بالقتال ما وجد إلى غير القتال سبيلًا
+      </p>
+
+      <p n="War Brings Loss">
+        فإنّ
+        <lb/>
+
+        النفقة في القتال من الأنفس وغير ذلك إنّما النفقة فيه من
+        <lb/>
+
+        الأموال ولا يكوننّ قتال البوم من شأنكم
+      </p>
+
+      <p n="An Elephant Should Not Be Kicked">
+        فإنّ من يراكل الفيل يراكل
+        <lb/>
+
+        الحيف قال
+      </p>
+
+      <p n="The Crow King Asks for Alternatives">
+        الملك فما ترى إذ كرهت ذلك قال
+      </p>
+
+      <p n="Opinion Counseling">
+        نأتمر
+        <lb/>
+
+        ونتشاور
+      </p>
+
+      <p n="Advice Outweighs Armies">
+        فإنّ الملك المشاور المؤامر يصيب في مؤامرته ذوي العقول
+        <lb/>
+
+        من نصحائه من الظفر ما لا يصيبه بالجنود والزحف وكثرة العدد
+      </p>
+
+      <p n="Advice To King Like Rivers To Sea">
+        فالملك الحازم يزداد بالأمر أمره وبالمشاورة ورأي الوزراء الحزمة
+        <lb/>
+
+        كما يزداد البحر بموادّه من الأنهار
+      </p>
+
+      <p n="Resolute King Keeps Reflecting">
+        ولا يخفى على الحازم قدر أمره
+        <lb/>
+
+        وأمر عدوّه وفرصة قتاله ومواضع رأيه ومكابرته ولا ينفكّ
+        <lb/>
+
+        أن يعرض الأمور على نفسه في التقديم على ما يريد منها والأعوان
+        <lb/>
+
+        الذي يستعين بهم عليها والعدوّ التي يعمل لها
+      </p>
+
+      <p n="Chance Is Lost Without Advice">
+        فمن لا يكون له رأي
+        <lb/>
+
+        في ذلك ولا نصيحة من الوزراء الذين يقبل منهم لم يلبثْ وإن ساق
+        <lb/>
+
+        القدر إليه حظًّا أن يضيّع أمره
+      </p>
+
+      <p n="Chances Favor Intelligent">
+        فإنّ القضاء المقسوم لم يقبضْ
+        <lb/>
+
+        المحتال ولا للحسب ولكنّه وُكّل بالعقل المستمع من ذوي العقول
+      </p>
+
+      <p n="Spy Praises King C">
+        وأنت أيّها الملك كذلك
+      </p>
+
+      <p n="Spys Advice Partially Secret">
+        وقد استشرتني في أمر أريد أن أجيبك
+        <lb/>
+
+        في بعضه علانية وفي بعضه سرًّا
+      </p>
+
+      <p n="Spys Open Advice">
+        أمّا ما لا أكره أن أعلنه فإنّي كما
+        <lb/>
+
+        لا أرى القتال لا أرى الخضوع بالخراج والرضى بذلّ الدهر
+      </p>
+
+      <p n="unassigned">
+        فإنّ
+        <lb/>
+
+        العاقل الكريم يختار الموت كريمًا محافظًا على الحياة خوفانًا
+        <lb/>
+
+        ذليلًا وأرى أن نؤخّر النظر في أمرنا ولا يكوننّ من شأنك التثبّط
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

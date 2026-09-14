@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="11"/>
+
+      <p n="unassigned">
+        السمسم وهو يرى أنّه كما غطّاه وأنّه سمسم صاحبه فأخذ نصفه
+        <lb/>
+
+        وأعطى صاحبه النصف الآخر فلمّا أصبح جاء هو وشريكه فدخلا البيت
+        <lb/>
+
+        فلمّا رأى الرجل أنّ السمسم الذاهب إنّما هو سمسمه وأنّ سمسم صاحبه
+        <lb/>
+
+        وافر دعا بالويل والثبور وعرف أنّ الذي أخذ هو الرجل غير
+        <lb/>
+
+        الذي كان رداؤه عليه وكره أن يذكر شيئًا من ذلك فتكون معرفة
+        <lb/>
+
+        شريكه وغيره أشدّ عليه من ذهاب السمسم فينبغي لمن طلب أمرًا
+        <lb/>
+
+        أن تكون له فيه غاية ونهاية يعتمدها ويقف عندها ولا يتمادى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

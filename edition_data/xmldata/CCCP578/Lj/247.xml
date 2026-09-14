@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="247"/>
+
+      <p n="Schemers Urge Quick Investigation">
+        حيلته وخيانته
+      </p>
+
+      <p n="Schemers Incite Lion's Suspicion">
+        قال فلم يزالوا بهذا الكلام وأشباهه حتّى وقع في نفس الأسد
+        <lb/>
+
+        اتّهام ابن آوى
+      </p>
+
+      <p n="Lion Asks Jackal about Meat">
+        فدعا به الأسد فأتى إليه وهو لا يعلم بشيء من ذلك لأنّه ما عنده
+        <lb/>
+
+        من ذلك خبر ولا علم فعند ذلك قال له الأسد ما صنعت باللحم الذي
+        <lb/>
+
+        قد كنت أوصيتك به قال له ابن آوى دفعته إلى صاحب الطعام
+      </p>
+
+      <p n="Lion Asks Steward about Meat">
+        وكان ممّن
+        <lb/>
+
+        اتّفق معهم عليه فسأله الأسد فقال ما دفع لي شيئًا
+      </p>
+
+      <p n="Meat Is Found in Jackal's House">
+        فعند ذلك بعث الأسد
+        <lb/>
+
+        إلى منزل ابن آوى على غفلة لعلّه أن يجد اللحم عنده وكان ابن آوى آمنًا على
+        <lb/>
+
+        نفسه من ذلك السبب وما كان يتكلّم في شيء من ذلك وكان عند الأسد
+        <lb/>
+
+        من العدول فشهدوا بأنّ اللحم قد وجدوه عند ابن آوى
+      </p>
+
+      <p n="Lion Must Punish Jackal">
+        فقال بعض العدول
+        <lb/>
+
+        أيّها الملك قد اطّلعت على خيانة ابن آوى فلا ينبغي للملك أن يعفو عنه
+        <lb/>
+
+        فإن لم يفعل الملك من أمره شيئًا لم يطلعه أحد على جناية لجاني ولا ذنب مذنب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

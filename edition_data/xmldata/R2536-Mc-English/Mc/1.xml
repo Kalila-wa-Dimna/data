@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="1"/>
+
+      <p n="unassigned">
+        cut into pieces?” So he told her what happened and said: “This is the fruit of haste!”
+      </p>
+
+      <p n="Chapter Title">
+        The Chapter of the Cat and Rat
+      </p>
+
+      <p n="The King Asks about Escaping Enemies">
+        “I have heard this parable,” said the King to the Philosopher. “Present to me the parable of the man
+        <lb/>
+
+        whose enemies are going to vanquish him-how can he get rid of them
+      </p>
+
+      <p n="The Philosopher Responds that Emotions Change">
+        The Philosopher
+        <lb/>
+
+        said: “He who has been vanquished by his enemies and fallen victim to them should seek the friendship
+        <lb/>
+
+        of one of the enemies, make him a dear friend, and enter into a pact with him, so as he can defeat, with his aid], the rest of his enemies. For
+        <lb/>
+
+        a friend is not always a friend nor an enemy always an enemy: if a friend sees
+        <lb/>
+
+        in his friend that which he abhors, he turns to enmity, and if the enemy sees profit to be had from his enemy,
+        <lb/>
+
+        he doesn’t hold on to his enmity; rather, he changes to friendship and loyalty.
+      </p>
+
+      <p n="The Intelligent Adapts to Situations">
+        The man of knowledge
+        <lb/>
+
+        proceeds, when compelled, to befriend his enemies. And he who doesn’t know looses his way
+        <lb/>
+
+        of things; and he recognizes neither motive nor direction until he perishes in blindness.
+      </p>
+
+      <p n="The Parable of the Cat and Rat Is Invoked">
+        A example of this is the parable of
+        <lb/>
+
+        the cat and the rat, who escaped from a trap with either one doing the other a favor.
+      </p>
+
+      <p n="The King Requests the Full Parable">
+        “And how was that,” said the King.
+      </p>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        “They mentioned that
+        <lb/>
+
+        in some region there was a great tree at whose bottom lived many wild animals and on whose branches
+        <lb/>
+
+        were nests of birds; that at the root of that tree, there was a cat;13
+      </p>
+
+      <p n="The Cat Is Caught">
+        that huntsmen at times
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

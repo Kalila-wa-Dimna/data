@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="177"/>
+
+      <p n="unassigned">
+        أيّها اللصّ قد أتيت إليّ ما أنا بشكره جدير فخذ من متاع البيت ما بدا لك
+        <lb/>
+
+        وخذ من مالي ولك الفضل وقد عطّفت على معانقتي *من أنا لها محبّ
+      </p>
+
+      <p n="King O Asks Third Owl">
+        ثمّ قال
+        <lb/>
+
+        ملك البوم للثالث من وزرائه ما رأيك في هذا الغراب
+      </p>
+
+      <p n="Welcome Estranged Friend Of Foe">
+        فقال ما أرى أن نقتله
+        <lb/>
+
+        فإنّ المرء إذا ظفر بصديق عدوّه وقد استيقن به أنّه قد أُسقط وعُذّب كان
+        <lb/>
+
+        باستبقائه جديرًا رجاء أن يصيب منفعة منه
+      </p>
+
+      <p n="Spy To Be Kept For Counsel">
+        وإنّه خليق إن أنت استبقيته
+        <lb/>
+
+        وأحسنت إليه يناصحك
+      </p>
+
+      <p n="Dispute Between Foes Is Beneficial">
+        وإنّ ذا الفضل يرى ظفرًا حسنًا معاداة عدوّه فإنّ
+        <lb/>
+
+        في اشتغال بعض العدوّ ببعض خلاص
+      </p>
+
+      <p n="Mention Thief Demon Story">
+        كاختلاف اللصّ والشيطان فكان فيه نجاة
+        <lb/>
+
+        الرجل وخلاصه
+      </p>
+
+      <p n="King Request Thief Demon Story">
+        قال ملك البوم وكيف كان ذلك
+      </p>
+
+      <p n="Story Thief Demon Cow">
+        قال الوزير زعموا أنّ ناسكًا
+        <lb/>
+
+        أصاب بقرة حلوبًا فانطلق بها يقودها فرآها لصّ فحدّث نفسه بسرقتها
+        <lb/>
+
+        فصاحب اللصّ للشيطان وتمثّل له في صورة إنسان
+      </p>
+
+      <p n="Thief And Demon Plot">
+        فقال اللصّ للشيطان
+        <lb/>
+
+        من أنت وما تريد فقال أنا الشيطان أطلب هذ الناسك لأخنقه فأنا
+        <lb/>
+
+        متّبعه فإذا نام الناس أخذته فقال وأنا أيضًا أتبعه إلى منزله لأذهب
+        <lb/>
+
+        ببقرته هذه فأتبعاه إلى أن انتهيا إلى منزله بعد هدأة من الليل
+      </p>
+
+      <p n="Man Goes To Sleep">
+        فدخل الناسك
+        <lb/>
+
+        فأصاب من الطعام ما أكل منه وشبع وأدخل البقرة بيتًا
+      </p>
+
+      <p n="Thiefs Concerns">
+        فقال اللصّ لعلّ
+        <lb/>
+
+        الشيطان إن بدأ بأخذ الناسك فأخذه ففزع به النّاس فلا أقدر على استياق
+        <lb/>
+
+        البقرة فقال اللصّ للشيطان أنظرني حتّى آخذ أنا البقرة من شأنك أنت
+        <lb/>
+
+        والناسك
+      </p>
+
+      <p n="Demons Concerns">
+        فأشفق من ذلك الشيطان إن هو فعل ولم ينم الناسك أن يجتمعوا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

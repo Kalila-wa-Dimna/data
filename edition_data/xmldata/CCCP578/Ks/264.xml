@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="264"/>
+
+      <p n="unassigned">
+        فسرّحتهما في مكان كثير الرعي فطارا جميعًا وارتفعا على شجرة ثمّ انصرفت راجعًا
+        <lb/>
+
+        فقال إحداهما لصاحبه قد خلّصنا هذا السيّاح من هذا البلاء الذي كنّا فيه
+        <lb/>
+
+        وإنّي لحقيق أن أجازيه ببعض ما عمل معنا فقالا لي إنّك أتيت إلينا بما نشكرك
+        <lb/>
+
+        عليه ما دمنا بالحياة ولا ننسى لك ذلك وإنّ في أصل هذه الشجرة جرّة مملوءة
+        <lb/>
+
+        دنانير فاحفر وخذها فأنت أولى بها من غيرك قال السيّاح فاحتفرت المكان
+        <lb/>
+
+        وأنا في شكّ من ذلك فما حفرت إلّا يسيرًا حتّى أخرجتها فوجدتها مملوءة دنانير
+        <lb/>
+
+        كما ذكروا ففرحت بذلك فرحًا شديدًا فدعوت لهما ثمّ قلت لهما إذا كان هذا
+        <lb/>
+
+        علمكما على ما أراه منكما وأنتما تطيران بين السماء والأرض فكيف حتّى وقعتما في
+        <lb/>
+
+        هذه الورطة فعند ذلك قالا له أيّ العالم بما تعلم أنّ القدر يغلب كلّ شيء فلا يقدر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ks</chapter>
+  </chapter>
+</TEI>

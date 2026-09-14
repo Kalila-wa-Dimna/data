@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="236"/>
+
+      <p n="unassigned">
+        قبحًا للملوك الذين لا عهد لهم ولا وفاء وويل لمن ابتُلي بصحبة الملوك فإنّه لا
+        <lb/>
+
+        حميم لهم ولا حريم ولا يحبّون أحدًا ولا يكرم عليهم إلّا أن يطمعوا عند أحد في
+        <lb/>
+
+        غناء فيقرّبونه لذلك ويكرمونه فإذا قضوا حاجتهم فلا ودّ ولا إخاء ولا إحسان
+        <lb/>
+
+        ولا البلاء مجزيّ عنه ولا الذنب معفوّ عنه الذين إنّما أمرهم للفخر والرياء الذين
+        <lb/>
+
+        كلّ عظيم من الذنب يركبونه عندهم صغير هيّن ثمّ قال لأنتقمنّ اليوم من الكفور
+        <lb/>
+
+        وجعل يلعبان ويأكلان جميعًا وجعل قنبرة يذهب إلى الجبل كلّ يوم فيأتي
+        <lb/>
+
+        بثمرتين من فاكهة لا تُعرف فيطعم أحدهما فرخه والأخرى للغلام فأسرع
+        <lb/>
+
+        ذلك في نباتهما وقوّتهما فوثب الفرخ يومًا فصار في حجر الغلام فغضب عليه
+        <lb/>
+
+        وضرب به الأرض فقتله وجاء قنبرة فلمّا رأى فرخه مقتولًا حزن وصاح وقال
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kb</chapter>
+  </chapter>
+</TEI>

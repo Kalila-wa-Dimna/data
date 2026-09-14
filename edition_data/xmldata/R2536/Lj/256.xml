@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="256"/>
+
+      <p n="Schemers Say Jackal Is Unlikely to Steal">
+        انظروا وافحصوا
+      </p>
+
+      <p n="Character Is Difficult to Know">
+        فإنّ معرفة الخلائق شديدة
+      </p>
+
+      <p n="Schemers Suggest Searching Jackal's House">
+        قال الآخر
+        <lb/>
+
+        لعمري ما تكاد السرائر تُعرف ولكنّكم إن فحصتم عن هذا فوجدتم
+        <lb/>
+
+        ذلك بكلّ شيء يُذكر لنا من عيوبه وخيانته حقّ ثمّ نحن أحقّاء أن نصدّق
+        <lb/>
+
+        به
+      </p>
+
+      <p n="Schemers Say Trickery Is always Exposed">
+        قال آخر ما ينبغي لأحد أن يغترّ بما يعلم من نفسه فإنّ المخاتلة لا يسلم
+        <lb/>
+
+        صاحبها ولا مخاتلته قال آخر وكيف يسلم من خاتل السلطان
+        <lb/>
+
+        وكيف ذلك ومخاتلة الأصحاب لا تكاد تخفى
+      </p>
+
+      <p n="Schemers Claim that Suspicions Are Confirmed">
+        قال آخر إن كان
+        <lb/>
+
+        ابن آوى فعل هذا اجترأ على عظيم قال آخر لعمري ما كان يخفى
+        <lb/>
+
+        عليّ خبثه وأمره أوّل ما رأيته ولقد قلت مرارًا واستشهدت فلانًا
+        <lb/>
+
+        أنّ هذا المخادع المتنسّك ليس يعيش إلّا عن خيانة وفاحشة وذنب
+        <lb/>
+
+        عظيم
+      </p>
+
+      <p n="Schemers Find False Piety Damning">
+        قال آخر لئن كان هذا المتألّه المتخشّع الذي يرينا عمله
+        <lb/>
+
+        صنع هذا إنّ هذا من العجب
+      </p>
+
+      <p n="Schemers Say Jackal Is an Ungrateful Traitor">
+        قال آخر لئن وجدنا هذا حقًّا فما هذا
+        <lb/>
+
+        بالخيانة فقط ولكن مع الخيانة كفر النعمة والجرأة على الذنوب
+      </p>
+
+      <p n="Schemer Feigns Objectivity">
+        قال آخر أنتم أهل العدل والفضل فلا أستطيع أن أكذّبكم ولكن
+        <lb/>
+
+        سيستبين صدق هذا وكذبه
+      </p>
+
+      <p n="Schemers Urge Quick Investigation">
+        لو قد أرسل الملك إلى بيته فيفتّش
+        <lb/>
+
+        قال آخر إن كان منزله غير مفتّش فليعجل بذلك فإنّ عيونه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

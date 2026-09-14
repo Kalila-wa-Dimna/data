@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="6"/>
+
+      <p n="Burglar Steals and Gets Away">
+        النعاس وحمله النوم فنام ووافق ذلك فراغ السارق فعمد إلى جميع
+        <lb/>
+
+        ما كان قد جمعه فاحتمله وانطلق به
+      </p>
+
+      <p n="Man Discovers Mishap and Laments">
+        واستيقظ الرجل بعد
+        <lb/>
+
+        ذهاب السارق فلم يرى في منزله شيئًا فجعل يلوم نفسه ويعاتبها
+        <lb/>
+
+        ويعضّ كفّيه أسفًا وعرف أنّ فطنته وعلمه لم ينفعاه شيئًا إذ
+        <lb/>
+
+        لم يستعملهما
+      </p>
+
+      <p n="Knowledge Is Complete with Proper Implementation">
+        والعلم لا يتمّ لامرئ إلّا بالعمل
+      </p>
+
+      <p n="Knowledge Is a Tree and Action Is the Fruit">
+        والعلم هو الشجرة
+        <lb/>
+
+        والعمل هو الثمرة
+      </p>
+
+      <p n="Scholar Must Act">
+        وإنّما يطلب الرجل العلم لينتفع به ينبغي أن
+        <lb/>
+
+        يطلبه
+      </p>
+
+      <p n="Man Hears about Traveller">
+        وربّ رجل لو قيل له
+      </p>
+
+      <p n="Informed Traveller Takes Risky Road">
+        إنّ رجلًا كان عارفًا بطريق
+        <lb/>
+
+        مخوف ثمّ ركبه فأصابه فيه مكروه أو أذى لتعجّب من جهله
+        <lb/>
+
+        وفعله ولعلّه أن يكون يركب من الأمور ما يعرف به القبيح
+        <lb/>
+
+        والدناءة وشرّ العاقبة وهو بذلك أشدّ استيقانًا من ذلك الرجل
+        <lb/>
+
+        الذي ركب الهول بجهله
+      </p>
+
+      <p n="Desire Impedes Judgement">
+        وحمله على ذلك هواه وهو لا ينتفع بمعرفته
+      </p>
+
+      <p n="Informed Patient Eats Bad Food">
+        كالمريض العالم الذي يعلم ثقيل الطعام من خفيفه ثمّ تحمله
+        <lb/>
+
+        الشهوة على أكل الثقيل منه
+      </p>
+
+      <p n="Those in the Know Have No Excuse">
+        فأقلّ الناس عذرًا في ترك الأعمال
+        <lb/>
+
+        الحسنة من قد عرف فضلها وحسن عائدتها وما فيها من
+        <lb/>
+
+        المنفعة وليس يُعذر أحدًا على الخطأ
+      </p>
+
+      <p n="A Sighted and a Blind Fall into a Ditch">
+        كما أنّه لو أنّ رجلين
+        <lb/>
+
+        أحدهم أعمى والآخر بصير وقعا في جبّ فهلكا جميعًا ولم ينج
+        <lb/>
+
+        البصير من الهلكة لأنّه صار والأعمى في الجبّ بمنزلة واحدة
+      </p>
+
+      <p n="The Sighted Man Has No Excuse">
+        لكان البصير عند العقلاء أقلّ عذرًا من الأعمى
+      </p>
+
+      <p n="Scholar Must Discipline Himself">
+        ومن كان يطلب
+        <lb/>
+
+        العلم ليعلّمه غيره وليعرّفه سواه
+      </p>
+
+      <p n="Water-Spring Benefits Only Others">
+        فإنّما هو بمنزلة العين التي ينتفع
+        <lb/>
+
+        الإنسان بما بها وليس لها من تلك المنفعة شيء
+      </p>
+
+      <p n="Three Things Are Needed for Worldly Life">
+        فإنّ خلالًا ثلاثًا
+        <lb/>
+
+        ينبغي لصاحب الدنيا يقتبسها ويقتنيها منها العلم ومنها المال
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

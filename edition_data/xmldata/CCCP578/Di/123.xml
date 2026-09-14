@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="123"/>
+
+      <p n="Dimna Wants to Await the Verdict">
+        آخر ما يصير إليه أمري
+      </p>
+
+      <p n="Kalila Goes Home">
+        ثمّ إنّ كليلة انطلق إلى منزله فوقع في همٍ وحزنٍ
+        <lb/>
+
+        مخافة أن يؤخذ بذنب دمنة
+      </p>
+
+      <p n="The Mother Calls In Lion's Promise to Act">
+        ثمّ إنّ أمّ الأسد دخلت على الأسد من الغد
+        <lb/>
+
+        فقالت له الذي وعدتني به البارحة فافعلْه بحضرة جندك
+      </p>
+
+      <p n="Pious Acts and Curbing Sin Cannot Wait">
+        فإنّه ينبغي للمرء أن
+        <lb/>
+
+        يعمل بالتقوى ولا يتوانى في ذلك فإنّي لا أعلم أمرًا أنت أعظم أجرًا من الاستراحة
+        <lb/>
+
+        منه
+      </p>
+
+      <p n="Who Helps Sinners Becomes Their Accomplice">
+        فإنّه يقال المعين لأهل الإثم شريك لهم في أعمالهم
+      </p>
+
+      <p n="Lion Orders Leopard and Judge to Try Dimna">
+        فأمر الملك النمر وهو
+        <lb/>
+
+        أمينه ومؤدّبه والدبّ هو القاضي أن يجلسا ويدعوا دمنة على رؤوس الجند
+        <lb/>
+
+        ثمّ يسألا عنه ويرجعان إليه الذي يذكر لها من جوابه وجوابهم ولا يدعا
+        <lb/>
+
+        من ذلك شيئًا إلّا انهياه إليه
+      </p>
+
+      <p n="Leopard and Judge Convene Trial">
+        فخرجا به
+      </p>
+
+      <p n="Leopard Recalls the Lion’s Sorrow for Killing the Ox">
+        ثمّ إنّ النمر قال أيّها الجند إنّ الملك
+        <lb/>
+
+        لم يزلْ بعد قتل شتربة مهمومًا حزينًا كئيبًا لأنّه يرى أنّه فعل ذلك على غير ذنب
+        <lb/>
+
+        إلّا لتحميل دمنة عليه وبغيه
+      </p>
+
+      <p n="Leopard Calls for Testimony">
+        فمن كان عنده علم من أمره فليعلمنا حتّى نرفعه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="217"/>
+
+      <p n="The Cat and the Rat Escape">
+        بما هنالك
+      </p>
+
+      <p n="The Cat Calls Back the Rat">
+        ثمّ إنّ الجرذ اخر أراد الخروج من الجحر فرأى السنّور فلم يقربه
+        <lb/>
+
+        فصاح به السنّور
+      </p>
+
+      <p n="The Cat Reminds the Rat of their Friendship">
+        لم لا تدنو يا خليلي
+      </p>
+
+      <p n="The Cat Suggests a Reward">
+        فإنّي أحبّ أن أكافئك على إحسانك إليّ
+        <lb/>
+
+        وأطعمك ثمرة عملك فادن منّي
+      </p>
+
+      <p n="The Cat Reassures the Rat">
+        ولا تخف فما نفسي بأعزّ عليّ منك وحلف
+        <lb/>
+
+        له أن لا يبغيه سوءًا
+      </p>
+
+      <p n="The Treatment of Friends or Foes">
+        فقال الجرذ إنّ الذي لا يحسن مداراة الأعداء والأصدقاء
+        <lb/>
+
+        أضرّ بنفسه ويهلكه
+      </p>
+
+      <p n="One Should Not Befriend an Enemy Indefinitely">
+        وللعداوة والصداقة مواضع لا ينبغي للعاقل أن
+        <lb/>
+
+        يؤاخي أخًا قد كان له عدوًّا إلّا على حال ضرورة
+      </p>
+
+      <p n="Young Cattle Only Nurse for a While">
+        وإنّ أولاد الدوابّ
+        <lb/>
+
+        تتبع أمّهاتها
+      </p>
+
+      <p n="Enmity Turns into Friendship in Times of Need">
+        والرجل إذا كان عدوًّا ثمّ صار خليلًا في سبب منفعة
+        <lb/>
+
+        ينقطع إخاؤه إذا انقطعت منفعته ويصير إلى عداوته
+      </p>
+
+      <p n="Heated Water Cools Down">
+        كالماء
+        <lb/>
+
+        السخن إذا فرّق بينه وبين النار عاد إلى أصله البرودة
+      </p>
+
+      <p n="The Cat Is the Rat's Worst Enemy">
+        فأنت لي عدوّ
+        <lb/>
+
+        وأنا لك عدوّ ومثل ذلك وكيف يستقيم أن تكون الخلّة بيننا والإخاء
+      </p>
+
+      <p n="The Cat Desires the Rat for Food">
+        وأنا أعلم أن ليس لك حاجة إلّا أكلي
+      </p>
+
+      <p n="The Last Verdict Is No Reunion">
+        وليس إلى اجتماعنا سبيل
+      </p>
+
+      <p n="The Rat Departs to Safety">
+        ثمّ انجحر
+        <lb/>
+
+        الجرذ وصار إلى الحزم والاحتراس من السنّور
+      </p>
+
+      <p n="unassigned">
+        باب المَلك والظائر
+        <lb/>
+
+        فترة
+        <lb/>
+
+        قال المَلك للفيلسوف اضرب لي مثل الموتور وكيف ينبغي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+    <chapter>Kb</chapter>
+  </chapter>
+</TEI>

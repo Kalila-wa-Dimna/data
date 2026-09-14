@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="299"/>
+
+      <p n="unassigned">
+        وإنّما ضربت لك هذا المثل لتعلمي أنّ في مكان المرزم أنسًا لنا وصلاحًا
+        <lb/>
+
+        وعدّة فرضيت الأنثى بذلك وسرّت بما رأت من زوجها من السرور
+        <lb/>
+
+        بالمرزم فانتقل المرزم والعلجومان إلى ذلك الموضع فاتّخذن
+        <lb/>
+
+        فيه أوكارًا فاعتزل المرزم بوكره عن وكر العلجوم في جانب
+        <lb/>
+
+        غدير واستغن جميعًا بما في ذلك الفيض من السمك واستغنين
+        <lb/>
+
+        جميعًا عن البحر ومزاحمة الطير واستلذذن بما هنّ فيه من
+        <lb/>
+
+        فشغل عنه موضعًا فلم يقلعوا عنه حتّى مات
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kw</chapter>
+  </chapter>
+</TEI>

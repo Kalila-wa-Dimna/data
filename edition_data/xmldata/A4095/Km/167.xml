@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="167"/>
+
+      <p n="King W Consults with the Vizier On Wind Issue">
+        النول الذي نحن فيه لولا هذا النقب ولولا كثرة الرياح لكان
+        <lb/>
+
+        شبيهًا بالجنّة
+      </p>
+
+      <p n="King W Wants to Block the Hole">
+        ولكنّ سبيلنا أن نجتهد فلعلّنا نجد حيلة تمكّنّا
+        <lb/>
+
+        بها أن نسدّ فم هذا الثقب الذي تهبّ منه هذه الرياح فإنّا إذا فعلنا
+        <lb/>
+
+        ذلك كنّا قد ورثنا الجنة في هذه الدنيا مع ما يكون لنا من الأمر الجليل
+        <lb/>
+
+        المؤبّد
+      </p>
+
+      <p n="The Vizier Is Willing to Execute">
+        قال الوزير أنا عندك ومسارع لما تأمر به
+      </p>
+
+      <p n="King W Is Not Satisfied with the Response">
+        قال الملك
+        <lb/>
+
+        ليس هذا جوابي قل ما عندك
+      </p>
+
+      <p n="The Vizier Defers to the Opinion of King W">
+        قال له الوزير ما عندي في هذا الوقت
+        <lb/>
+
+        جواب غير هذا لأنّ الملك أعلم وأحكم وأشرف منّي وهذا الأمر الذي ذكره
+        <lb/>
+
+        لا يمكن أن يُعمل إلّا بقوة إلهيّة فأمّا الناس فلا يطيقون ذلك لأنّه عظيم
+      </p>
+
+      <p n="The Small Have No Path to Large Affairs">
+        وما سبيل الصغير يدخل في الأمر العظيم الكبير
+      </p>
+
+      <p n="The Outcome Is Uncertain">
+        فليتأمّل الملك ما
+        <lb/>
+
+        يريد أن يفعله فإن علم أنّ له سبيلًا يوصلنا إليه ويكون عارفًا بما
+        <lb/>
+
+        ينتج عنه من خير وشرّ معرفة صحيحة وإلّا فما سبيل أن يهتمّ به ولا
+        <lb/>
+
+        يصرف عنايته إليه فإنّ الكلام فيه الساعة سهل فأمّا معرفة ما
+        <lb/>
+
+        يؤول إليه من خير وشرّ معرفة صحيحة فهو خفيّ عن الناس صعب
+        <lb/>
+
+        الإدراك
+      </p>
+
+      <p n="A Donkey Loses His Ears">
+        فلهذا ينبغي أن ينعم النظر لئلّا يلحقك من هذا الأمر ما
+        <lb/>
+
+        لحق الحمار الذي ذهب يلتمس أن ينبت له قرنان فذهبت أذناه
+      </p>
+
+      <p n="King W Requests the Tale of the Donkey">
+        قال
+        <lb/>
+
+        الملك وكيف كان ذلك
+      </p>
+
+      <p n="The Donkey Becomes Cocky">
+        قال الوزير زعموا أنّ حمار كان لبعض الناس
+        <lb/>
+
+        وكان صاحبه يوسع له في العلف فخصب الحمار وكَلِب وهاج
+      </p>
+
+      <p n="The Donkey Sees a Jenny">
+        واتّفق يومًا أنّ صاحبه ساقه إلى نهر ليشرب فبصر الحمار من بعيد
+        <lb/>
+
+        بأتان فلمّا رآها هاج وأدلى ونهق وشغب فلمّا رأى صاحبه
+        <lb/>
+
+        هيجانه خشي أن ينفلت منه فربطه في شجرة كانت على شطّ النهر
+        <lb/>
+
+        وتقدّم إلى صاحب الأتان يردّها ففعل
+      </p>
+
+      <p n="The Donkey Ponders about Phallus">
+        وبقي الحمار يدور حول الشجرة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="23"/>
+
+      <p n="Addressing the Soul: The Friend Passes Away">
+        والبهجة كثيرة الأذى والمرارات والأحزان ثم يُختم ذلك
+        <lb/>
+
+        بخاتمة الفراق
+      </p>
+
+      <p n="A Ladle Eventually Breaks">
+        فمثل ذلك كمثل المغرفة التي تُستعمل في سخن
+        <lb/>
+
+        المرق في جدّتها فإذا تكسّرت صارت عاقبة أمرها أن
+        <lb/>
+
+        تُحرق بالنار
+      </p>
+
+      <p n="Addressing the Soul: Wealth Passes Away">
+        ويا نفس لا تغترّي بالغناء والمنزلة التي تبطّر أهلها
+        <lb/>
+
+        فإنّ ذلك وصاحبه لا يبصر صغير ما يستعظم حتّى يفارقه
+      </p>
+
+      <p n="Shed Hair is Thrown Away">
+        فيكون كشعر الرأس الذي يكرمه صاحبه ويخدمه ما دام
+        <lb/>
+
+        على رأسه فإذا فارق رأسه فرّ منه
+      </p>
+
+      <p n="Addressing the Soul: The Family Passes Away">
+        ويا نفس لا تحملنّك صلة
+        <lb/>
+
+        أقاربك على جمع ما تهلكين في جمعه إرادة صلتهم ورضاهم
+      </p>
+
+      <p n="Incense Burns">
+        فتكون كالدّخنة الطيّبة التي تحترق فيذهب بريحها الناس
+      </p>
+
+      <p n="Addressing the Soul: Healing One Man Is Reward in Itself">
+        ويا نفس دومي على مداواة المرضى ولا يصدّنك عن ذلك مؤنة
+        <lb/>
+
+        الطبّ وجهل الناس به ولا يعبأ بك أن تقول للطبيب مؤنة
+        <lb/>
+
+        شديدة والناس به وبمنافع الطبّ جاهلون ولكن اعتبري
+        <lb/>
+
+        برجل يفرّج عن رجل كربةً وما يحلّ به فيستنقذه من كره ما هو
+        <lb/>
+
+        فيه ثمّ يعود بعدها إلى ما يكون فيه من الروح والسعة ما أخلفه
+        <lb/>
+
+        بعظيم الأجر وحسن الثواب فإن كان الذي يفعل هذا برجل واحد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

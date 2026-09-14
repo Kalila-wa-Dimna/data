@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="84"/>
+
+      <p n="King Rewards Quack">
+        فلمّا رأى الملك سرعة فراغه من ذلك ظنّ أنّه عالمٌ فأمر له بحلًى
+        <lb/>
+
+        وكسوة حسنةً
+      </p>
+
+      <p n="Quack Poisons Princess">
+        وسقى الجارية منه فلم تلبثْ أن تقطّع أمعاؤها
+        <lb/>
+
+        فماتت
+      </p>
+
+      <p n="King Has Quack Drink the Poison Too">
+        وأمر أبوها فسُقي الجاهل من الذي صنع لها من الأدوية فهلك
+      </p>
+
+      <p n="Speaking Ignorantly to Please Others Is Wrong">
+        وإنّما ضربت هذا المثل في جماعتكم كيلا تتكلّموا بما لم
+        <lb/>
+
+        تعلموا تلتمسون به رضى غيركم
+      </p>
+
+      <p n="Dimna Interprets the Tale">
+        فيصيبكم ما أصاب ذلك الطبيب
+        <lb/>
+
+        الجاهل فإنّ العلماء قد قالوا إنّما جزاء كلّ أحدٍ بقوله وفعله وأنا بريءٌ ممّا
+        <lb/>
+
+        لُطّخت به قائمٌ بين أيديكم
+      </p>
+
+      <p n="Prominent Courtier/Head of Court Suggests Physiognomy">
+        فتكلّم سيّد الخنازير إدلالًا بمنزلته
+        <lb/>
+
+        من الأسد وأمّه فقال اسمعوا معشر الجند وتفكّروا فيما أقول لكم
+      </p>
+
+      <p n="Bodily Marks Are Proof of Character">
+        فإنّ العلماء لم يدعوا شيئًا من آيات الأسرار والأخبار إلّا قد ثبّتوه
+      </p>
+
+      <p n="Dimna’s Character is Visible in His Body">
+        وإنّ علامات الفجور في هذا الشقيّ ظاهرةٌ وقد طار له مع ذلك ثنا
+        <lb/>
+
+        سوءٍ
+      </p>
+
+      <p n="Judge/Investigator/Audience Request Physiognomical Evaluation">
+        فقال عظيم الجند لرأس الخنازير قد سمعنا ذلك وقليلٌ
+        <lb/>
+
+        من يعرفه فأعلِمْنا ما الذي رأيت في هذا البائس
+      </p>
+
+      <p n="Prominent Courtier Diagnoses Dimna as Traitor">
+        فقام رأس الخنازير
+        <lb/>
+
+        وأخذ بيد دمنة وقال إنّ في كتب العلماء أنّ من كانت
+        <lb/>
+
+        عينه اليسرى صغيرةٌ كثيرة الاختلاج وأنفه مائلًا إلى شقّه الأيمن
+        <lb/>
+
+        وما بين حاجبيه من الشعر متباعدًا ومنابت شعره ثلث شعرات ثلثًا
+        <lb/>
+
+        وإذا مشى نكّس ولا يزال ملتفتًا إلى خلفه فإنّه صاحب نميمةٍ وفجورٍ
+        <lb/>
+
+        وغدرٍ وهذه العلامات كلّها بيّنة في هذا الشقيّ
+      </p>
+
+      <p n="Bodily Marks Are Claimed to Predict Deeds">
+        فقال
+        <lb/>
+
+        دمنة نحن كلّنا تحت السماء ولسنا فوقها وأنتم ذوو الأحلام وتقيسون
+        <lb/>
+
+        بالعلم الكلام وقد فهمتهم ما قال فاستمعوا منّي فإنّه يظنّ أنّه
+        <lb/>
+
+        لا أحدًا أعرف بالأمور منه وأنّه لا عِلمَ إلَّا عِلمُه وإن كان ما ذكر
+        <lb/>
+
+        من العلامات حقًّا
+      </p>
+
+      <p n="Human Action Would Be Meaningless">
+        فلا أسمع أنّ أحدًا يقدر على أن يعمل خيرًا ولا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

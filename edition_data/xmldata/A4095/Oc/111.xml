@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="111"/>
+
+      <p n="The Crow Rejects Prior Input">
+        ما مدافعة الأيّام والليالي بمستقرّ لنا فيما بيننا وبين البوم
+      </p>
+
+      <p n="Recourse Should be Made to Reconnaissance">
+        وما الرأي إلّا أن نذكّي العيون والطلائع فيما بيننا وبين العدوّ
+      </p>
+
+      <p n="The Information Shall Determine a Truce or Tribute">
+        وننظر هل يقبلن صلحًا أو فدية أو خراجًا نؤدّيه إليهنّ
+      </p>
+
+      <p n="Truce for a Tribute Should Be Sought">
+        وندفع عن
+        <lb/>
+
+        أنفسنا خوفهنّ ونأمن في أوطاننا وأوكارنا
+      </p>
+
+      <p n="Peace Is Worth the Tribute">
+        فإنّ من الرأي
+        <lb/>
+
+        للملوك إذا اشتدّت شوكة عدوّهم وخافوا على أنفسهم ورعيّتهم
+        <lb/>
+
+        الهلكة والفساد أن يجعلوا الأموال جنّة للرعيّة والبلاد
+      </p>
+
+      <p n="The Crow King Asks the Fourth Crow">
+        فقال
+        <lb/>
+
+        الملك للرابع ما رأيك أنت فيما قال صاحباك والصلح الذي ذكر
+        <lb/>
+
+        هذا
+      </p>
+
+      <p n="Recourse Is in Abandoning Home">
+        قال لا أرى ذلك بل ترك أوطاننا والاصطبار على الغربة
+        <lb/>
+
+        وشدّة المعيشة أحبّ إلينا من وضع أحسابنا والخضوع لعدوّنا
+        <lb/>
+
+        الذي نحن خير منه وأشرف
+      </p>
+
+      <p n="The Owls Would Overdemand">
+        مع أنّي قد عرفت أنّا لو عرضنا
+        <lb/>
+
+        ذلك عليهنّ لم يقبلوا إلّا بالاشتطاط
+      </p>
+
+      <p n="Foes Should Be Kept at the Right Distance">
+        وقد يُقال قاربْ عدوّك
+        <lb/>
+
+        بعض المقاربة تنلْ منه حاجتك ولا تقاربْه كلّ المقاربة فيجترئ
+        <lb/>
+
+        عليك بها ويضعف ويذلّ لها جندك
+      </p>
+
+      <p n="Gauging Distances Is Like Maximizing Shadows">
+        ومثل ذلك مثل
+        <lb/>
+
+        الخشبة القائمة في الشمس فإن أملتها قليلًا زاد ظلّها وإن جاوزت
+        <lb/>
+
+        الحدّ في إمالتها ذهب الظلّ
+      </p>
+
+      <p n="The Owls Will Not Accept the Pact">
+        وليس عدوّنا براض منّا بالدون في المقاربة
+      </p>
+
+      <p n="Recourse Is in Fighting the War and Enduring">
+        فالرأي لنا المحاربة والصبر
+      </p>
+
+      <p n="The Crow King Asks the Fifth Crow, a Spy">
+        فقال الملك للخامس ما رأيك أنت
+        <lb/>
+
+        الصلح أم القتال أم المحاربة أم الجلاء
+      </p>
+
+      <p n="The Spy Rejects Fighting">
+        قال أمّا القتال فلا سبيل إلى
+        <lb/>
+
+        قتال من لا نقاربه في القوّة والبطش
+      </p>
+
+      <p n="The Intelligent Never Underestimate Their Foes">
+        فإنّه من أقدم على عدوّه استضعافًا
+        <lb/>
+
+        له اغترّ ومن اغترّ أمكن من نفسه ولم يسلمْ
+      </p>
+
+      <p n="The Spy Expresses Fear">
+        وأنا للبوم شديد الهيبة
+        <lb/>
+
+        ولو أنّها أضربت عن قتالنا وقد كنّا نهابها قبل إيقاعها بنا
+      </p>
+
+      <p n="The Intelligent Is Never Free from Worry">
+        فإنّ العاقل لا يأمن عدوّه على كلّ حال فكيف إن كان بعيدًا لم يأمنْ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

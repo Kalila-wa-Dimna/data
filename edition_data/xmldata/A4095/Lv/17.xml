@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="17"/>
+
+      <p n="Burzoy Relied On Friends Acumen">
+        وإيجاز منطقي لما علمت من حسن منقبتك وبعد مذهبك
+        <lb/>
+
+        وعرضك على معدن الفطنة واسها الحكمة فلذلك وثقت
+        <lb/>
+
+        منك بحسن القول منّي وقبول كلامي وإسعافي بحاجتي
+      </p>
+
+      <p n="Secrets Safe With Scholars">
+        وإنّ إفضاء
+        <lb/>
+
+        السرّ إلى العلماء والعقلاء وأهل العلم والثقة بهم أفضل عدّتهم
+      </p>
+
+      <p n="Secret Keeper Like Immutable Object">
+        وكذلك شبّهت العلماء توديع الأسرار عند أهلها بالجبل
+        <lb/>
+
+        الشامخ الذي لا تزيله الريح ولا تحرّكه بكثرة إذرائها
+      </p>
+
+      <p n="Burzoy Vows Gratitude">
+        وأنت
+        <lb/>
+
+        بحمد الله يدك عندي جميلة عليها أعتمد
+      </p>
+
+      <p n="Friend Responds">
+        قال الهنديّ
+      </p>
+
+      <p n="Secret Uncovered Like Covered Flask">
+        حفظ
+        <lb/>
+
+        الأسرار وكتمانها شبّهته العلماء بغلاف القارورة المغطّى عليها
+        <lb/>
+
+        تراها واحدة فإذا نُزع الغطاء عنها فجِرمان اثنان فإذا فرغت عن
+        <lb/>
+
+        ما فيها فهي ثلاثة مشهورة قد علم بها
+      </p>
+
+      <p n="Discretion Is Vital For The Educated">
+        ورأس الأدب حفظ السرّ
+      </p>
+
+      <p n="Shared Secret Spreads">
+        لأنّ السرّ إذا تُكُلّم به صار لسانان فإذا تكلّم به اللسان صار إلى ثلاثة
+      </p>
+
+      <p n="Spread Secrets Like Clouds">
+        ومثله في ذلك مثل الغيوم التي في السماء منقطعة فتداعت
+        <lb/>
+
+        الألسن أنّها مستوية ليس فيها خلل ولا فرجة كذّبهم قوم
+        <lb/>
+
+        آخرون وعلى الناظر تصديق ذلك من كذبه
+      </p>
+
+      <p n="Friend Indebted To Burzoy">
+        ولك عندي يا أخي مع
+        <lb/>
+
+        قرب العهد بيننا من الأيدي الكرام والألطاف ما أتذمّم لذلك
+        <lb/>
+
+        منك
+      </p>
+
+      <p n="Friend Fears Secret Spreads">
+        وإنّك تسألني حاجة أتخوّف أن تذيع أو يفطن بها حاسد
+        <lb/>
+
+        فيكون ذلك فيه هلاكي واستئصالي ثمّ لا أقدر على الافتداء بعوض
+        <lb/>
+
+        ولا مال ولا جاه ولا عون
+      </p>
+
+      <p n="Indian King Is Harsh">
+        لأنّ هذا المَلك سخطه أدنى شيء
+        <lb/>
+
+        ولا يرضيه كثرة التملّق ولا التضرّع فذلك دعاني إلى الانقباض
+        <lb/>
+
+        منك والتأكّد عليك
+      </p>
+
+      <p n="Burzoy Commends Secrecy">
+        قال بروزيه من أفضل الأشياء في
+        <lb/>
+
+        الرجال كتمان السرّ وحفظ ما استودع منه فإنّما نجاح حاجتي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

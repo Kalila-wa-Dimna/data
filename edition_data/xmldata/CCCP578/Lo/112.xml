@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="112"/>
+
+      <p n="unassigned">
+        الرجل التاجر إنّ أرضًا تأكل جرذانها مائة منّ من حديد ما يُنكر أنّ بزاتها
+        <lb/>
+
+        تخطف الغلمان فقال الرجل أنا أكلت حديدك وبئس ما أدخلت جوفي
+        <lb/>
+
+        فادفع لي ابني وخذ حديدك الذي استودعتنيه ففعل ذلك وإنّما ضربت
+        <lb/>
+
+        لك هذا المثل لتعلم أنّك إذا غدرت بملكك ذوي البلاء عندك فإنّه لا
+        <lb/>
+
+        شيء في صنعك أذلّك بمن سواه وقد علمت أنّه ليس للمودّة عندك حظّ ولا
+        <lb/>
+
+        موضع ولا منزلة ولا مكان فإنّه لا شيء أضيع من مودّة وإخاء من لا وفاء له
+        <lb/>
+
+        ولا مصطنع عند من لا شكر له وأدب يستودع من لا يفهمه وسرّ يستكتم
+        <lb/>
+
+        من لا حصافة له ولا حفظ وليس بمطمع في تغيّر طبعك ولا تحوّل أخلاقك لأنّي
+        <lb/>
+
+        قد عرفت أنّ ثمّرة الشجرة المرّة لو طُليت بالعسل لم تتغيّر عن جوهرها ولم تزدد
+        <lb/>
+
+        يا من حضر هل سمعتم بمثل هذا قطّ أو رأيتم أنّ البزاة تخطف الغلمان فقال
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

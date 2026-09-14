@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="133"/>
+
+      <p n="Lion Is Informed by Court Secretary and Ousts Courtier">
+        اسمه شهرج كتبه ورفعه إلى أسد فأمر برئيس الخنازير فعزل عن عمله
+        <lb/>
+
+        وطرد وأقصى
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded, He Is Returned to Prison; End of First Day of Trial">
+        وكتب القاضي والأمين أيضًا ما قال دمنة وما قيل له وختما
+        <lb/>
+
+        عليه وبعثا بدمنة إلى السجن وانصرفوا ذلك اليوم
+      </p>
+
+      <p n="Ruzbeh Is Kalīla's Friend">
+        وإن صديقًا لكليلة
+        <lb/>
+
+        يقال له روزبة
+      </p>
+
+      <p n="Ruzbeh/Fayruz Tells Dimna of Kalila's Death">
+        انطلق إلى دمنة إلى السجن فأخبره بموت كليلة
+      </p>
+
+      <p n="Dimna Grieves for Kalila">
+        فبكى
+        <lb/>
+
+        عليه دمنة لما كان بينه وبينه من القرابة والصداقة وقال ما أصنع
+        <lb/>
+
+        اليوم بالحياة وقد مات أخي وصديقي
+      </p>
+
+      <p n="Misfortunes Never Come Singly">
+        لقد صدق الإنسان الذي
+        <lb/>
+
+        قال إذا ابتلى المرء بشئ واحد أتاه الشرّ من كلّ مكان واكتنفه
+        <lb/>
+
+        من الهمّ والحزن مثل ما قد أصابني
+      </p>
+
+      <p n="Dimna Asks Ruzbeh to Be His Friend">
+        وقد رزقت مع ما دخل عليّ
+        <lb/>
+
+        من يودّني ويتعاهدني بما قد منّ الله عليّ من إخائك وأرجو أن تكون
+        <lb/>
+
+        لي في المودّة والعطف عليّ من مؤاخاتك والنظ رلي مثل كون أخي كليلة
+        <lb/>
+
+        وأكثر من ذلك إن شاء الله وإن تُعنى بأمري كما يُعنى به أخو الحِفاظ
+      </p>
+
+      <p n="Dimna Has Ruzbeh Fetch Their Belongings">
+        فإن رأيت أن تنطلق إلى منزل كليلة وتأتي بما كان لي وله فيه
+        <lb/>
+
+        فافعلْ ومضى روزبه فأتاه بما سأل فأعطاه دمنة نصيب كليلة
+        <lb/>
+
+        وقال له أنت أحقّ به وأولى به من غيرك
+      </p>
+
+      <p n="Dimna Gives Ruzbeh Half, Asks Him to Put in Good Word with Lion and Mother and Report Their Words to Him">
+        وطلب اليه وسأله أن يحضر
+        <lb/>
+
+        له عند الأسد بخير وأن يعلمه ما تذكر منه أمّ ما تذكر منه أمّ الأسد
+      </p>
+
+      <p n="Leopard &amp; Judge Bring Lion the Court Records Who Has Them Copied">
+        فوافى النمر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

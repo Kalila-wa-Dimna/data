@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="264"/>
+
+      <p n="Lion Repents and Reconciles Jackal">
+        ممّا كنّا عليه
+      </p>
+
+      <p n="Lion Reinstates Jackal">
+        ثمّ أمر ابن آوى أن يرجع إلى منزلته التي كان عليها وعمله الذي كان
+        <lb/>
+
+        يلي فرجع وأصاب من الأسد ما أحبّ
+      </p>
+
+      <p n="Lion Punishes Schemers">
+        وحفظ الأسد أولئك الذين بغوا عليه
+        <lb/>
+
+        فنفاهم وأقصاهم وقتلهم
+      </p>
+
+      <p n="Gist Mistreated Is Reinstated">
+        فهذا مثل الملوك فيما بينهم وبين قرابتهم
+        <lb/>
+
+        وزراءهم في مراجعتهم بعد العقوبة
+      </p>
+
+      <p n="End of Chapter">
+        تمّ الباب وكمل إن شاء الله تعالى
+      </p>
+
+      <p n="unassigned">
+        باب
+        <lb/>
+
+        الصائغ والنمر والقرد والحيّة والناسك
+        <lb/>
+
+        قال الملك للفيلسوف قد فهمت ما ذكرت من هذا المثل فأخبرني
+        <lb/>
+
+        بالذي هو موضع للمعروف ويستحقّه ممّن يُوضع عنده ويصطنع إليه واضرب
+        <lb/>
+
+        لي مثل من يشكر المعروف ويكافي به ومن يجحده ويكفره قال الفيلسوف
+        <lb/>
+
+        أيّها الملك إنّ طبائع الخلائق مختلفة ليس ممّا خلقه الله في الدنيا ممّا يمشي على
+        <lb/>
+
+        أربع قوائم أو على رجلين أو يطير بجناحين شيئًا هو أفضل من الإنسان وفي
+        <lb/>
+
+        الإنسان وفي الناس البرّ والفاجر وقد يكون في بعض البهائم والسباع
+        <lb/>
+
+        والطير ما هو أوفى منه بذمّة وأشدّ محاماة على حرمة وأشكر للمعروف
+        <lb/>
+
+        وأقوم به والمثل في ذلك قول الحكيم الأوّل فإنّه ينبغي لذوي العقول
+        <lb/>
+
+        من الملوك وغيرهم أن يضعوا معروفهم مواضعه ولا يضعوه عند من
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+    <chapter>Tg</chapter>
+  </chapter>
+</TEI>

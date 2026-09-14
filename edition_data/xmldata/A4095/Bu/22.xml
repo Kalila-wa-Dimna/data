@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="22"/>
+
+      <p n="unassigned">
+        مشاركة العجزة الجهّال في حبّ هذه الفانية البائدة التي
+        <lb/>
+
+        من كان في يده منها شيء فليس له ولا بباق عليه والتي لا
+        <lb/>
+
+        يألفها إلّا المغترّون الغافلون
+      </p>
+
+      <p n="Addressing the Soul to Abandon Its Folly">
+        يا نفس اقصري عن هذا السفه وما
+        <lb/>
+
+        أنت عليه من خطل للرأي فيه وأقبلي بقوّتك ونفعك وما تملكين
+        <lb/>
+
+        على تقديم الخير والأجر ما استطعت وإيّاك والتسويف والتواني
+      </p>
+
+      <p n="The Body Consists of Harmful Elements">
+        واعلمي أنّ هذا الجسد ذو آفات وأنّه مملوء أخلاطًا فاسدة قذرة
+        <lb/>
+
+        تجمعها أربعة أشياء متعادية متغالبة تعمدهنّ الحياة وهي إلى نفاد
+      </p>
+
+      <p n="The Idol That Falls Apart">
+        كالصنم المفصّل أعضاؤه إذا رُكّبت جمعها مسمار واحد وأمسك
+        <lb/>
+
+        بعضها على بعض فإذا أُخذ المسمار تساقطت الأوصال
+      </p>
+
+      <p n="Addressing the Soul: The Friend Passes Away">
+        يا نفس لا
+        <lb/>
+
+        تغترّي بصحبة أحبّائك وأخلّائك ولا تحرصي على ذلك فإنّها على ما
+        <lb/>
+
+        فيها من السرور والبهجة كثيرة الأذى والمؤنات والأحزان ثمّ يُختم
+        <lb/>
+
+        ذلك بقطع الفراق
+      </p>
+
+      <p n="A Ladle Eventually Breaks">
+        كالمغرفة تُستعمل في صحّتها وجدّتها في حرارة
+        <lb/>
+
+        المرق وسخونته فإذا هي انكسرت صار عاقبة أمرها إلى النار
+      </p>
+
+      <p n="Addressing the Soul: The Family Passes Away">
+        يا نفس لا يحملنّك ما تريدين من صلة أهلك وأقاربك والتماس رضاهم
+        <lb/>
+
+        على جمع ما تهلكين فيه
+      </p>
+
+      <p n="Incense Burns">
+        فإذا أنت كالدخنة الطيّبة التي تحترق
+        <lb/>
+
+        ويذهب بعرفها آخرون
+      </p>
+
+      <p n="A Wick Burns">
+        وكالذبالة تضيء لغيرها باحتراقها
+      </p>
+
+      <p n="Addressing the Soul: Wealth Passes Away">
+        يا نفس لا تغترّي بالغنى والمنزلة التي تبطر أهلها فإنّها إلى انقلاب وإنّ
+        <lb/>
+
+        صاحب ذلك لا يبصر صغر ما يستعظم حتّى يفارقه
+      </p>
+
+      <p n="Shed Hair is Thrown Away">
+        فيكون كشعر الرأس
+        <lb/>
+
+        الذي يكرمه صاحبه ويخدمه ما دام على رأسه فإذا فارق رأسه
+        <lb/>
+
+        قذره وقزّ منه
+      </p>
+
+      <p n="Addressing the Soul: Healing One Man Is Reward in Itself">
+        يا نفس دومي على مداواة المرضى ولا ؟يقاقك عن
+        <lb/>
+
+        ذلك أن تقولي إنّ الطبّ مؤنة شديدة والناس بمنافعها ومنافع الطبّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

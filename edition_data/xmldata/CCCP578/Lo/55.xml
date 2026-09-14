@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="55"/>
+
+      <p n="unassigned">
+        بينهما
+      </p>
+
+      <p n="Setting: Wealthy Merchant and His Sons">
+        ومن أمثال ذلك أنّه كان بأرض يسابد تاجر مكثر له بنون
+      </p>
+
+      <p n="Sons' Mismanagement of Wealth">
+        فلمّا أدركوا به
+        <lb/>
+
+        أسرعوا في مال أبيهم ولم يتحرّفوا بحرفة يكسبون منها مالًا فلامهم أبوهم ووعظهم
+      </p>
+
+      <p n="Father's Advice: Three Pursuits and Four Necessities">
+        وقال لهم فيما قال يا بنيّ إنّ أصحاب الدنيا يطلبوا ثلاثة أمور لن يدركها إلّا بأربع
+        <lb/>
+
+        أشياء
+      </p>
+
+      <p n="Three Worldly Pursuits">
+        أمّا الثلاثة التي يطلب فالسعة في المعيشة والمنزلة والزاد إلى الأخرة
+      </p>
+
+      <p n="Four Necessities for Achieving Pursuits">
+        وأمّا
+        <lb/>
+
+        الأربعة التي يحتاج إليها في درك هذه الأشياء الثلاثة فاكتساب المال من أحسن
+        <lb/>
+
+        وجوهه ثمّ حسن القيام على ما اكتسب منه ثمّ إنفاقه فيما يصلح المعيشة ويرضي
+        <lb/>
+
+        الأهل والإخوان ويعود في الآخرة نفعه
+      </p>
+
+      <p n="Failure to Achieve Goals Without Proper Management">
+        فمن أضاع شيئًا من هذه الخلال لم يدرك
+        <lb/>
+
+        ما أراد إن هو لم يكتسب ثمّ لم يحسن القيام عليه يُوشك أن يفنى ويبقى بغير مال
+      </p>
+
+      <p n="Consequences of Poor Financial Management">
+        وإن
+        <lb/>
+
+        كان ذا تقتّر في نفقته ولم يثمّره ولم ينفعه ذلك التقتير وقلّة الإنفاق من سرعة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

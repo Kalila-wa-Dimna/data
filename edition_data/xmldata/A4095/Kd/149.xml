@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="149"/>
+
+      <p n="unassigned">
+        فإنّه يأتيك من قبل كبدرون من يقوم بين يديك بفيل أبيض لا تلحقه
+        <lb/>
+
+        الخيل وأمّا الطير الأبيض الذي نقر رأسك بمنقاره فلست أفسّره
+        <lb/>
+
+        لك اليوم وليس بضارّك فلا توجلنّ منه ولكن فيه بعض السخط والإعراض
+        <lb/>
+
+        عمّن تحبّ فأمّا البرد والرسل فإلى سبعه أيّام يأتونك حتّى يقوموا
+        <lb/>
+
+        بين يديك
+      </p>
+
+      <p n="King Is Thankful">
+        فلمّا سمع المَلك ذلك سجد بين يديه وانصرف
+        <lb/>
+
+        وقال
+      </p>
+
+      <p n="King Awaits Fulfilment">
+        إنّي ناظر فيما قال كنانابزون فلمّا
+      </p>
+
+      <p n="Gift Receiving Ceremony">
+        كان اليوم السابع
+        <lb/>
+
+        لبس ثيابه وأخذ زينته وجلس في مجلسه وأذن للعظماء والأشراف
+        <lb/>
+
+        فجاءته تلك الهدايا التى قال كنانابزون حتّى وقفوا بين يديهفلمّا
+      </p>
+
+      <p n="Kings Joy">
+        رأى
+        <lb/>
+
+        المَلك الرسل والهدايا فرح بها
+      </p>
+
+      <p n="King Regrets Relating Dreams">
+        فقال في نفسه لم أُوفّق
+        <lb/>
+
+        حين قصصت رؤياي على البرهميّين وأمروني بما أمروني به
+      </p>
+
+      <p n="King Thankful For Queens Advice">
+        ولولا
+        <lb/>
+
+        أنّ الله جلّ اسمه رحمنى وتداركنى برأي إيراخت كنت قد هلكت
+        <lb/>
+
+        وزالت دنياي
+      </p>
+
+      <p n="One Must Consult Right People">
+        فلذلك ينبغي لكلّّ أحد أن يسمع من الأخيار
+        <lb/>
+
+        والأخلّاء ذوي القرابات رأيهم ويقبل شورتهم فإنّ
+      </p>
+
+      <p n="Queens Advice Saved King">
+        إيراخت أشارت
+        <lb/>
+
+        عليّ ما ارلدى الذي انتفعت به في ثبات مُلكي والذين ترون من الفرح
+        <lb/>
+
+        والسرور
+      </p>
+
+      <p n="Vizir Take Advice All Matters">
+        فقال إيلاذ له لا يعمل المرء شيئًا من الأشياء صغيرًا أم
+        <lb/>
+
+        كبيرًا إلّا برأي أهل المودّة والخير ثمّ
+      </p>
+
+      <p n="Gift To Be Distributed To All Victims">
+        دعا للمَلك بإيراخت وولدها
+        <lb/>
+
+        جوبر وكال الكاتب وايلاذ وقال لهم لاينبغى لنا أن ندخل
+        <lb/>
+
+        هذه الهدايا خزائننا ولكنّي قاسمها بينكم لأنّكم الذين وطّنتم أنفسكم
+        <lb/>
+
+        على الموت في سببي وبرأي
+      </p>
+
+      <p n="Queen Is Especially Deserving">
+        إيراخت التي أشارت عليّ بالرأي الذي
+        <lb/>
+
+        انتفعت به في بقاء مُلكي
+      </p>
+
+      <p n="Vizier Rejects Gift">
+        فقال إيلاذ إنّه لاينبغي لنا معشر
+        <lb/>
+
+        العبيد أن ندنو من هذه الهدايا فأمّا جوبر ابنك فهو لها أهلًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

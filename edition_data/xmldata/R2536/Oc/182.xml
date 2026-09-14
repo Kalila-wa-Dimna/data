@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="182"/>
+
+      <p n="Spy To Be Kept For Counsel">
+        عينًا لنا على الغربان
+      </p>
+
+      <p n="Turn Foes Against Each Other">
+        فإنّ من إحكام تمكّن الرجل من أعدائه أن يستدخل منهم أعوانًا على
+        <lb/>
+
+        الباقين
+      </p>
+
+      <p n="Dispute Between Foes Is Beneficial">
+        في استقبال بعض العدوّ ببعض واختلاف بعضهم على بعض
+      </p>
+
+      <p n="Mention Thief Demon Story">
+        مثل الذي كان من
+        <lb/>
+
+        اختلاف اللصّ والشيطان من تخليص الناسك
+      </p>
+
+      <p n="King Request Thief Demon Story">
+        قال المَلك وكيف كان ذلك
+      </p>
+
+      <p n="Story Thief Demon Cow">
+        قال
+        <lb/>
+
+        الوزير زعموا أنّ ناسكًا أصاب من رجل بقرة حلوبة فانطلق بها الناسك يقودها
+        <lb/>
+
+        واتّبعه لصّ يريد سرقتها وصحب ذلك اللصّ شيطان في صورة إنسان يريد قتله
+      </p>
+
+      <p n="Thief And Demon Plot">
+        فقال اللصّ للشيطان من أنت قال أنا الشيطان أريد قتل هذا الناسك وقال
+        <lb/>
+
+        اللصّ أنا أريد أن أتبعه إلى منزله فأسرق بقرته فانطلقا مصطحبَين
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

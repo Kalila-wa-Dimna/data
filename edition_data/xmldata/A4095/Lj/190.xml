@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="190"/>
+
+      <p n="Courtiers Are Amazed at Lion's Unawareness">
+        بعض جلساء الأسد إنّي لأعجب من رأي الملك ومعرفته بالأمور
+        <lb/>
+
+        كيف يخفى عليه أمر هذا المخادع
+      </p>
+
+      <p n="Courtiers Expect Jackal's Pardon">
+        وقال آخر فأعجب من هذا
+        <lb/>
+
+        أنّي لا أراه إلّا سيصفح عنه بعد الذي ظهر عليه منه
+      </p>
+
+      <p n="False Message and Death Sentence">
+        ثمّ
+        <lb/>
+
+        إنّ الأسد أرسل إلى ابن آوى بعضهم لينظر ما يكون من عذره
+        <lb/>
+
+        فجاء الأسد منه برسالة كذب فغضب الأسد من ذلك وأمر بابن آوى
+        <lb/>
+
+        أن يُقتل
+      </p>
+
+      <p n="Lion's Mother Delays Execution">
+        وبلغ ذلك أمّ الأسد فعلمت أنّ الأسد قد عجل في
+        <lb/>
+
+        أمره فأرسلت إلى الذين أُمروا بقتله أن يؤخّروه
+      </p>
+
+      <p n="Mother Questions Lion">
+        ودخلت على الأسد
+        <lb/>
+
+        فقالت له لأيّ ذنب أمرت بابن آوى أن يُقتل فأخبرها الأسد
+        <lb/>
+
+        بالأمر فقالت له قد عجلت يا بنيّ
+      </p>
+
+      <p n="The Intelligent Deliberates">
+        وإنّما يسلم العاقل من الندامة بترك
+        <lb/>
+
+        العجلة والأناة والتثبيت
+      </p>
+
+      <p n="Haste Causes Regret">
+        ولا يزال يجتني ثمرة الندامة وضعف
+        <lb/>
+
+        الرأي من لم يتثبّت في الأمور
+      </p>
+
+      <p n="Kings Need Deliberateness Most">
+        وليس أحدًا أحوج إلى التؤدة والتأنّي
+        <lb/>
+
+        من الملوك
+      </p>
+
+      <p n="Chain of Dependence up to King's Virtues">
+        فإنّ المرأة بزوجها والولد بوالديه والمتعلّم بالمعلّم
+        <lb/>
+
+        والجند بالقائد والناسك بالدين والعامّة بالملوك والملوك بالتقوى
+        <lb/>
+
+        والتقوى بالعقل والعقل بالتثبّت
+      </p>
+
+      <p n="King to Consider People's Ranks">
+        ورأس الحزم للملك معرفة
+        <lb/>
+
+        أصحابه وإنزاله إيّاهم منازلهم واتّهام بعضهم على بعض
+      </p>
+
+      <p n="People Scheme against Each Other">
+        فإنّه إن
+        <lb/>
+
+        وجد بعضهم إلى هلاك بعض سبيلًا وإلى تهجين بلاء المبتلي وإحسان
+        <lb/>
+
+        المحسنين والتغطية على إساءة المسيئين لم يدعوا ذلك وذلك سريعًا
+        <lb/>
+
+        في إضاعة الأمر وجلب عظيم الخطر والضرر
+      </p>
+
+      <p n="Lion Tested and Approved Jackal">
+        وقد كنت بلوت
+        <lb/>
+
+        ابن آوى واختبرته قبل استعانتك به وتفويضك إليه فلم تزل
+        <lb/>
+
+        عنه راضيًا تزيدك الأيّام له استصلاحًا وإليه استرسالًا وفيه
+        <lb/>
+
+        رغبة
+      </p>
+
+      <p n="Mother Finds Accusation Absurd">
+        فأمرت بقتله في طابق من لحم فقدته
+      </p>
+
+      <p n="Mother Warns of Conspiracy">
+        فعسى أصحابك أن يكونوا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

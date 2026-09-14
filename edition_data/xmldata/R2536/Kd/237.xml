@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="237"/>
+
+      <p n="Favorite Wears Dress Before King">
+        المَلك عندها غارت على هليث فلبست تلك الكسوة ثمّ دخلت على المَلك
+        <lb/>
+
+        المقصورة التي فيها المَلك مع هليث وكان بريق ذلك الثياب كشعاع الشمس
+        <lb/>
+
+        فأضاءت الدار والبيت وصارت حورفتاة في تلك الثياب كأنّها الشمس
+        <lb/>
+
+        الطالعة فلمّا رأى المَلك حورفتاة ثمّ اشتاق إليها فقال
+      </p>
+
+      <p n="King Insults Queen">
+        لهليث إنّك
+        <lb/>
+
+        لجاهلة حين لم تأخذين الكسوة وتدعين الإكليل التي لم أر مثلها
+        <lb/>
+
+        قطّ
+      </p>
+
+      <p n="King Praises Favorite">
+        وإنّ حورفتاة لأحسن منك عقلًا وأشبه بنساء الملوك فلمّا
+      </p>
+
+      <p n="Queen Pours Rice Over King">
+        سمعت
+        <lb/>
+
+        هليث قوله وتسفيهه رأيها ومدحه حورفتاة اغتاضت فضربت
+        <lb/>
+
+        بالصحفة رأس المَلك فتناثر الأرزّ والسمن على رأسه ولحيته
+      </p>
+
+      <p n="Fulfillment Of Last Dream">
+        وكان
+        <lb/>
+
+        ذلك تصديق الرؤيا التي لم يفسّرها له كينارون
+      </p>
+
+      <p n="King Expresses Anger To Vizier">
+        فدعا المَلك بلاذًا وزيره
+        <lb/>
+
+        فقال أما ترى يا بلاذ ما فعلت هذه المرأة وكيف استخفّت بي وحقّرتني
+      </p>
+
+      <p n="King Orders To Execute Queen">
+        فانطلق بها فاضرب عنقها ولا تراجعني في أمرها ولا تدخلنّ عليّ إلّا
+        <lb/>
+
+        بعد قتلك إيّاها
+      </p>
+
+      <p n="Vizier Decides To Spare Queen">
+        فخرج بلاذ بهليث من عند المَلك فقال في نفسه ما
+        <lb/>
+
+        ينبغي أن أقتلها حتّى يسكن غضب المَلك
+      </p>
+
+      <p n="Vizier Praises Queen">
+        فإنّها امرأة عاقلة سعيدة ليس
+        <lb/>
+
+        لها في النساء شبيه
+      </p>
+
+      <p n="King Will Miss Queen">
+        وليس المَلك بصابر عنها وقد خلّص الله بها اليوم
+        <lb/>
+
+        بشرًا كثيرًا من الموت ونحن نرجوها فيما بعد اليوم إن بقيت
+      </p>
+
+      <p n="Vizier Fears Risk Of Rush">
+        ولست
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

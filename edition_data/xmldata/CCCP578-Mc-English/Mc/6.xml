@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="6"/>
+
+      <p n="unassigned">
+        might trick him, knowing his treachery and untrustworthiness.”
+      </p>
+
+      <p n="The Cat and the Rat Escape">
+        “When he cut the rest of his cords, and the cat knew that he had been delivered
+        <lb/>
+
+        from the cords, he passed toward the tree, scampering, flabbergasted, and climbed it; the rat went into his den;
+        <lb/>
+
+        and the huntsman grabbed his shredded cords and left feeling sad.”
+      </p>
+
+      <p n="The Cat Calls Back the Rat">
+        The rat came out after that, saw the cat
+        <lb/>
+
+        and dreaded coming close to him. ‘Come, friend,’ cried the cat, ‘you who have done a good deed.
+      </p>
+
+      <p n="The Cat Reminds the Rat of their Friendship">
+        What is stopping you
+        <lb/>
+
+        from approaching me, so that I can reward you for the good you’ve done by me Come to me, then, and don’t sever my brotherly ties;
+      </p>
+
+      <p n="If One Gives Up a Friend One Loses Out">
+        for he who takes
+        <lb/>
+
+        a friend and then loses those brotherly ties will be prevented from reaping the fruits of brotherhood and will make despair those people who hold affection for him.
+      </p>
+
+      <p n="The Cat Suggests a Reward">
+        Your favor, to me,
+        <lb/>
+
+        is a favor that cannot be forgotten, and you are entitled to seek my reward for it-as well as that of my brothers and friends.
+      </p>
+
+      <p n="The Cat Reassures the Rat">
+        So fear nothing from me,
+        <lb/>
+
+        for you should know that what has been declared to you will be bestowed.’ He then swore fervently emphasizing
+        <lb/>
+
+        to the truth of his words.”
+      </p>
+
+      <p n="The Rat Distinguishes Hidden from Overt Enmity">
+        “The rat said: ‘Many a hidden enmity is, on the surface, a friendship, which is
+        <lb/>
+
+        more harmful than open enmity,
+      </p>
+
+      <p n="Riding an Elephant's Tusk">
+        and who ever is not wary of it will suffer that which befell the man who
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

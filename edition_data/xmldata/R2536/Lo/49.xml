@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="49"/>
+
+      <p n="Dimna's Expectation of the Lion's Response">
+        يلتمس تقريبي
+      </p>
+
+      <p n="Kalila's Final Warning about Ruler's Danger">
+        قال كليلة أمّا إذا كان هذا رأيك فإنّي أحذّرك صحبة
+        <lb/>
+
+        السلطان لعظم خطرها
+      </p>
+
+      <p n="Three Risky Endeavors According to Scholars">
+        وقد قالت العلماء في أمور ثلاثة لا يجترئ عليها
+        <lb/>
+
+        إلّا أهوج ولا يسلم منها إلّا قليل من الناس صحبة السلطان وائتمان
+        <lb/>
+
+        النساء على الأسرار وشرب السمّ عن تجربة
+      </p>
+
+      <p n="Analogy of Ruler to a Dangerous Mountain">
+        وإنّما شبّه الحكماء السلطان
+        <lb/>
+
+        ومقاربته بالجبل الوعر الذي فيه الثمار الطيّبة وهو معدن للسباع
+        <lb/>
+
+        المخوفة فالصعود إليه شديد والمقام فيه أفظع وأهول
+      </p>
+
+      <p n="Dimna's Persistence Despite Warnings">
+        قال
+        <lb/>
+
+        دمنة قد فهمت ما ذكرت وصدقت فيما وصفت ولكن اعلمْ أنّه
+        <lb/>
+
+        من لم يركبْ الأهوال لم ينلْ الرغائب الجليلة ومن ترك الأمر الذي
+        <lb/>
+
+        لعلّه يبلغ حاجة منه هيبة منه وإشفاقًا لم يصبْ جسيمًا ولم يبلغ
+        <lb/>
+
+        شرفًا
+      </p>
+
+      <p n="Three Challenging Pursuits Requiring Courage">
+        وقد قيل في أمور ثلاثة لا يستطيعها أحد إلّا بمعونة من
+        <lb/>
+
+        ارتفاع همّة وعظيم خطر منها عمل السلطان وتجارة البحر ومفاخرة
+        <lb/>
+
+        العدوّ
+      </p>
+
+      <p n="Two Proper Places for Noble Man">
+        وقد قالت العلماء أيضًا إنّه لا ينبغي للرجل ذي المروءة أن
+        <lb/>
+
+        يُرى إلّا بمكانين إمّا مع الملوك مكرّمًا وإمّا مع النسّاك متبتّلًا
+      </p>
+
+      <p n="Two Places for Elephant’s Splendor">
+        كالفيل الذي إنّما بهاؤه في مكانين إمّا في البرّيّة وحشًا وإمّا للملوك
+        <lb/>
+
+        مركبًا
+      </p>
+
+      <p n="Kalila's Blessing for Dimna's Decision">
+        قال له كليلة خار الله لك يا أخي فيما عزمت عليه
+      </p>
+
+      <p n="Dimna Approaching the Lion">
+        ثمّ إنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

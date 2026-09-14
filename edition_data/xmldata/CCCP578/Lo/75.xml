@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="75"/>
+
+      <p n="The Ascetic Intervenes">
+        خرج من بيت الإسكاف فوافاها مع زوجها فرآهم وهم يجرّسون الحجّام فعلم
+        <lb/>
+
+        أنّه مظلوم وقد أوقعت الحيلة به فتقدّم الناسك إلى القاضي وقال أعزّ الله
+        <lb/>
+
+        بقاءك لا يشتبهنّ عليك لأنّ اللصّ ليس هو سرقني وإنّ البغيّة ليس السمّ قتلها
+        <lb/>
+
+        وإنّ الثعلب ليس الوغلان قتلاه وإنّ امرأة الحجّام ليس زوجها جدع أنفها بل
+        <lb/>
+
+        نحن جميعًا فعلنا ذلك بأنفسنا
+      </p>
+
+      <p n="The Ascetic's Testimony">
+        فسأله القاضي عن تفسير ما قال ففسّر له
+      </p>
+
+      <p n="Dimna Seeks a New Plan">
+        فقال دمنة قد سمعت هذا المثل وهو شبيه بأمري لعمري وما ضرّني
+        <lb/>
+
+        أحد سوى نفسي ولكن فما الحيلة
+      </p>
+
+      <p n="Kalila Asks for Dimna's Plan">
+        قال كليلة أخبرني عن ذلك
+      </p>
+
+      <p n="Dimna's Goal: Restoration">
+        قال دمنة أمّا أنا
+        <lb/>
+
+        فليس ألتمس اليوم أن تزداد منزلتي فوق ما كنت عليها
+      </p>
+
+      <p n="The Three Considerations of the Wise">
+        فإنّ خصالًا ثلاثة العاقل
+        <lb/>
+
+        حقيق بالنظر فيها والاحتيال لها منها النظر فيما مضى من الضرّ والنفع وأن يحترس
+        <lb/>
+
+        من الضرر الذي أصابه فيما سلف لئلّا يعود إليه ويلتمس النفع فيما مضى ويحتال
+        <lb/>
+
+        لمعاونه
+      </p>
+
+      <p n="Managing the Present">
+        ومنها النظر فيما هو مقيم فيه من المنافع والمضارّ والاستيثاق ممّا ينفع
+        <lb/>
+
+        والهرب ممّا يضرّ
+      </p>
+
+      <p n="Anticipating the Future">
+        ومنها النظر فيما ينتظر من الضرر والنفع ثمّ طلب المرجوّ والنجاة
+        <lb/>
+
+        من الخوف
+      </p>
+
+      <p n="Dimna Concludes the Bull Must Die">
+        وإنّي لمّا نظرت في الأمر الذي به أرجو أن أعود إلى ما كنت عليه وما
+        <lb/>
+
+        كنت فيه فلم أجد شيئًا إلّا الاحتيال بشتربة حتّى يفارق الحياة
+      </p>
+
+      <p n="Justifying the Bull's Death">
+        فإنّه إن فارق
+        <lb/>
+
+        الأسد عادت منزلتي ولعلّ ذلك يكون خيرًا للأسد فإنّ إفراطه في الثور
+        <lb/>
+
+        خليق أن يشينه
+      </p>
+
+      <p n="Kalila's Disagreement">
+        قال كليلة ما رأى الأسد من رأيه في الثور شينًا ولا ضررًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

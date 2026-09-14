@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="267"/>
+
+      <p n="unassigned">
+        في النسك والعبادة ولزمت القناعة وإنّما ضربت لك هذا
+        <lb/>
+
+        المثل لتعلم أنّ الجاهل ربّما انصرف عن جهله فيتوب ويتحوّل عمّا كان
+        <lb/>
+
+        كاللبؤة التي كانت تأكل لحوم الوحوش <> حلّ بها ما كان منه <> توبتها
+        <lb/>
+
+        فسمعت كلام الشعهر وما وعـ <> فتابت وتركت أكل اللحم وأقبلت على
+        <lb/>
+
+        العبادة ولزوم القناعة وصلح حالها ثمّ قال الفيلسوف للملك فذوي
+        <lb/>
+
+        العقول والأدب أحقّ بالنظر في ذلك والأخذ بما فيه الحظّ والمنفعة
+        <lb/>
+
+        لهم في الدنيا والآخرة وقد قيل ما لا ترضاه لنفسك لا تصنعه لغيرك
+        <lb/>
+
+        فإنّ ذلك هو العدل وفيه رضى الله عزّ وجلّ فافهم ذلك ودبّر بعقلك
+        <lb/>
+
+        تصيب إن شاء الله باب الناسك والضيف
+        <lb/>
+
+        ثمّ قال الملك للفيلسوف قد فهمت ما ذكرت مثل من يدع ضرّ غيره
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lh</chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

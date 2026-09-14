@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="261"/>
+
+      <p n="Lion Must Punish Plotters">
+        يتّخذوك مركبًا
+      </p>
+
+      <p n="Lion Must not Underestimate Wrongdoers">
+        ولا تغترّ بسلطانك عليهم وتتّكل عليهم ولا يُغرون بمثل هذا
+        <lb/>
+
+        القول في صدرك فتصير منه إلى ندامة وغمّ
+      </p>
+
+      <p n="Grass Rope Ties Elephant">
+        فإنّ العشب كما قد رأيت
+        <lb/>
+
+        في اللين والضعف قد يجتمع منه الكثير فيُصنع منه الحبل الذي يوثَق
+        <lb/>
+
+        به الفيل المتعلّم
+      </p>
+
+      <p n="Lion Should Reinstate Jackal">
+        فاردّ ابن آوى إلى منزلته التي كان عليها وبها من سرّك
+        <lb/>
+
+        ومشورتك
+      </p>
+
+      <p n="Lion Should Not Fear Jackal's Grudge">
+        ولا تقلْ في نفسك قد أسأت إلى ابن آوى فلا آمن غوائله إن راجعته
+      </p>
+
+      <p n="The Wronged Person Need not Be Feared">
+        فإنّه ليس كلّ من أوذي وضغن يُخشى ضرّه وينقطع الرجاء منه ومن منفعته ولكن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="160"/>
+
+      <p n="Truce for a Tribute Should Be Sought">
+        آمنين غير مخوفين لهنّ
+      </p>
+
+      <p n="Peace Is Worth the Tribute">
+        فإنّ العلماء قد قالوا إذا أتاك من عدوّك ما لا تقوى ولا تقوم
+        <lb/>
+
+        له فأنت جدير بالتماس الأمان وأداء الخراج وأن تجعل الأموال جنّة الأنفس
+        <lb/>
+
+        والبلاد والرعيّة ولنا في ذلك من الصلاح
+      </p>
+
+      <p n="Peace Should Come Sooner than Later">
+        وتعجيل ما أشرت به عليك أفضل
+        <lb/>
+
+        من تأخيره
+      </p>
+
+      <p n="The Crow King Asks the Fourth Crow">
+        ثمّ قال الملك للرابع ما رأيك فيما قال صاحبك
+      </p>
+
+      <p n="Recourse Is in Abandoning Home">
+        قال لم يقولون
+        <lb/>
+
+        شيئًا ولا أرى ترك أوطاننا والاصطبار على الغربة أحسن من وضع أحسابنا
+        <lb/>
+
+        ومن الخضوع للعدوّ الذي نخاف منه ونحن أشرف منهم وأكرم
+      </p>
+
+      <p n="Paying Tributes Is Debasing">
+        ولا نرى أن نضع
+        <lb/>
+
+        أنفسنا لهؤلاء الفسلة الرذلة ولا ننوّلهنّ الخراج فإنّه عار ومذلّة
+      </p>
+
+      <p n="Recourse Is in Going to the Desert">
+        ولعمري
+        <lb/>
+
+        لأن ننطلق إلى البرّيّة فنسكنها ونعالج شطط المعيشة والمشقّة حتّى يفرّج
+        <lb/>
+
+        الله لنا أمثل وأفضل
+      </p>
+
+      <p n="Accepting Oppression Aids Foes">
+        فإنّه قد قيل من أقرّ بالذلّ واستجرى ووضع نفسه فقد
+        <lb/>
+
+        أعان عليها وجعل ذلك دنيّة إليها
+      </p>
+
+      <p n="The Owls Would Overdemand">
+        مع أنّي قد عرفت أنّا لو قد وضعنا ذلك لهم
+        <lb/>
+
+        أنّ البوم لا يرضين إلّا بالخراج الثقيل الباهظ والإشطاط فيه الذي لا
+        <lb/>
+
+        نقوى عليه
+      </p>
+
+      <p n="Foes Should Be Kept at the Right Distance">
+        وقد كان يُقال قارب عدوّك بعض المقاربة لتنال حاجتك
+        <lb/>
+
+        ولا تقاربه كلّ المقاربة فيجترئ عليك ويرغب عنك
+      </p>
+
+      <p n="Gauging Distances Is Like Maximizing Shadows">
+        ومثل ذلك بالخشبة
+        <lb/>
+
+        المنصوبة في الشمس إن أملتها قليلًا زاد ظلّها وإن جاوزت الحدّ في ميلها
+        <lb/>
+
+        نقص الظلّ
+      </p>
+
+      <p n="The Owls Will Not Accept the Pact">
+        فليس يرضى عدوّنا منّا بالدون في المقاربة
+      </p>
+
+      <p n="The Crows Should Be Wary and Prepared">
+        والرأي لنا أن نكون
+        <lb/>
+
+        على حذر وتأهّب فإن هنّ أقبلن لقتالنا حاددناهنّ وصبرنا لعلّ الله
+        <lb/>
+
+        تعالى أن يظفّرنا بهنّ وينصرنا عليهنّ
+      </p>
+
+      <p n="The Crow King Asks the Fifth Crow, a Spy">
+        قال للخامس ما ترى فيما قال أصحابك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

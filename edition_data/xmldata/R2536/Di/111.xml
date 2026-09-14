@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="111"/>
+
+      <p n="unassigned">
+        والأخذ بالحزم وأمر السعادة كمل باب الأسد والثور
+        <lb/>
+
+        بحمد الله يتلوه باب البحث عن أمور دمنة والله أعلم
+      </p>
+
+      <p n="Chapter Title">
+        باب البحث
+        <lb/>
+
+        عن أمور دمنة
+      </p>
+
+      <p n="The King Asks about Dimna's Fate">
+        قال الملك للفيلسوف قد فهمت هذا المثل عن الواشي المحتال
+        <lb/>
+
+        هذا المثل عن حيث أفسد اليقين بالشبهة حتّى أزال المودّة
+        <lb/>
+
+        وجعل مكانها العداوة والبغضاء حتّى ما كان من أمر دمنة بالاعتذار
+        <lb/>
+
+        حين أمر الأسد بقتله
+      </p>
+
+      <p n="The Philosopher's Answer About the King's Killing">
+        قال الفيلسوف أيّها الملك بلغنا أنّ
+        <lb/>
+
+        الأسد لمّا قتل شتربة ومرّ لذلك أيّام ندم على معالجته
+        <lb/>
+
+        إيّاه بالقتل وكان يطيل مسامرة أصحابه عليه ليستسلي
+        <lb/>
+
+        عن غمّه
+      </p>
+
+      <p n="A Leopard Was the Lion's Confidant">
+        وكان من جنود الأسد وقرابته نمر كان من أكرم
+        <lb/>
+
+        أصحابه عليه وأخصّهم به
+      </p>
+
+      <p n="The Leopard Overhears Kalila Chastising Dimna">
+        فخرج النمر ذات ليلة يطلب
+        <lb/>
+
+        قبسًا من بيت كليلة ودمنة يعاذله على غدره ونميمته
+        <lb/>
+
+        ويفتّح له سوء رأيه وصنيعه فيما ارتكب من شتربة في غير
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="33"/>
+
+      <p n="unassigned">
+        والرجل معه فدخل البيت وهو مظلم فجعل يلتمس ويحسن ويجسّ حتّى وقع يده
+        <lb/>
+
+        على الغطاء وهو يرى أنّه رحل شريكه وأنّه كما غطّاه فأخذ نصفه وأعطى رفيقه
+        <lb/>
+
+        نصفه فلمّا أصبح جاء هو وشريكه فدخلا البيت فلمّا رأى أن السمسم الذي ذهب
+        <lb/>
+
+        به إنّما هو سمسمه ورأى سمسم شريكه كما هو على حاله دعا بالويل والثبور وعرف
+        <lb/>
+
+        ما جرى عليه وكره أن يذكر شيئًا فيكون معرفة شريكه أشدّ مّما جرى عليه من
+        <lb/>
+
+        ذهاب السمسم فينبغي لمن طلب أمرًا أن تكون له غاية ونهاية يعمدها ويقف
+        <lb/>
+
+        عليها فإنّه يقال من جرى ولم تكن له غاية تجري إليها ومن أجرى دابّته إلى غير غاية
+        <lb/>
+
+        فيوشك أن تنقطع به دابّته وأن يكون لآخرته مؤثرًا على دنياه فإنّه من قلّ
+        <lb/>
+
+        تعقّله بالدنيا قلّت حسرته عند فراقها وليس ينبغي للعاقل أن يقنط ولا ييأس
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="8"/>
+
+      <p n="Kisra Sets Up Gathering">
+        أجبتك إلى ذلك فخرج برزويه من عند الملك فاستعدّ يومًا وجمع وجوه
+        <lb/>
+
+        أهل مملكته وعامّتها ونصب له منبرًا ورقي عليه
+      </p>
+
+      <p n="Burzoy Begins Speech">
+        فحمد الله وأثنى عليه ثمّ قال
+        <lb/>
+
+        أمّا بعد
+      </p>
+
+      <p n="God Equipped Humans">
+        فإنّ الله تبارك وتعالى خلق خلقه ومنّ على عباده بفضله ورزقهم
+        <lb/>
+
+        من العقل ما يقدرون به على صلاح معايشهم في الدنيا والآخرة
+      </p>
+
+      <p n="Reason Is Gods Best Gift">
+        <> والذي هو يجمع
+        <lb/>
+
+        الأشياء فلا يقدر أحد على صلاح معيشته ولا احتراز فضل ولا دفع ضرر إلّا
+        <lb/>
+
+        به وطالب الآخرة المجتهد في العمل ينجّي به روحه من الأهوال لا يقدر على
+        <lb/>
+
+        إنفاذ العمل إلّا بالعقل
+      </p>
+
+      <p n="Reason Is Basis Of Every Good">
+        فالعقل هو سبب كلّ خير ومفتاح كلّ رغبة والعقل
+        <lb/>
+
+        مُكتسب بالتجارب والأدب
+      </p>
+
+      <p n="Reason Like Hidden Fire">
+        غريزته مكنونة في الإنسان كامنة فيه كمون
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

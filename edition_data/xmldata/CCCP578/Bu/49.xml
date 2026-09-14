@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="49"/>
+
+      <p n="Salt Water Increases Thirst">
+        شاربه منه شربًا إلّا ازداد عطشًا
+      </p>
+
+      <p n="Dog Gnaws Bone In Vain">
+        وكالعظم الذي يصيبه الكلب ويصيب
+        <lb/>
+
+        فيه أدنى معنى لحم فيطلب ذلك اللحم حتّى يُدمي فاه ثمّ لا يزداد له إلّا طلبًا ولا
+        <lb/>
+
+        يزداد لفيه إلّا دمًا
+      </p>
+
+      <p n="Kite Looses Meat">
+        وكالحدأة التي تظفر ببعض لحم فيجتمع إليها الطير فلا تزال
+        <lb/>
+
+        في تقلّب وهرب حتّى تلفظ ما معها وقد أعيت وتعبت
+      </p>
+
+      <p n="Happy Dreams Pass">
+        وكأحلام النائم
+        <lb/>
+
+        التي تفرحه في المنام فإذا استيقظ انقطع الفرح
+      </p>
+
+      <p n="Lightning Passes">
+        وكالبرق الذي يصبح قليلًا
+        <lb/>
+
+        ويذهب وشيكًا ويبقى راجيه في الظلام مقيمًا
+      </p>
+
+      <p n="Self Imprisoning Silk Worm">
+        وكدودة الإبريسم التي لا
+        <lb/>
+
+        يزداد الأبريسم على نفسها لفًّا إلّا ازدادت من الخروج بعدًا
+      </p>
+
+      <p n="Warns Soul Of Hesitation">
+        فلمّا فكّرت في
+        <lb/>
+
+        هذه الأمور راجعت رأيي في اختيار النسك والاشتياق ثمّ خاصمت
+        <lb/>
+
+        نفسي فقلت ما يجوز لي هذا أن أفرّ من الدنيا إلى النسك إذا فكّرت في سورها
+        <lb/>
+
+        ثمّ أفرّ من النسك إلى الدنيا إذا تفكّرت ما فيه من الضيق المشقّة فلم أزل في
+        <lb/>
+
+        تصرّف لا أبرم أمرًا ولا أعزم على شيء
+      </p>
+
+      <p n="Judge Of Marw">
+        وصرت كحدوان قاضي مرو الذي سمع من
+        <lb/>
+
+        أحد الخصمين فقضى على الآخر وإذا سمع من الآخر قضى على الأوّل
+      </p>
+
+      <p n="Weighs Here Hereafter">
+        ونظرت في
+        <lb/>
+
+        الذي ألقاه من أداء النسك وضيقه وقلت ما أصغر هذه المشقّة وأقلّها
+        <lb/>
+
+        في جنب روح الأبد وراحته ونظرت فيما تشره إليه النفوس من لذّة
+        <lb/>
+
+        الدنيا ونعيمها فقلت ما أمرّ هذا وأوجعه وهو يدفع إلى عذاب الأبد وهوانه
+      </p>
+
+      <p n="Salvation Worth Century Of Pain">
+        وقلت كيف يستحلي الرجل حلاوة قليلة مأثورة مرارة طويلة دائمة فقلت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

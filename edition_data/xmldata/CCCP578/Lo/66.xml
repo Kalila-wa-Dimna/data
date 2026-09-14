@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="66"/>
+
+      <p n="Dimna Asks about Lion's Immobility">
+        ثمّ إنّ دمنة لمّا استأنس بالأسد وخلا به قال له إنّي قد رأيت الملك مقيمًا منذ
+        <lb/>
+
+        زمان بمكان واحد لا يبرح فمِمَّ ذلك
+      </p>
+
+      <p n="Lion's Hesitation to Appear Cowardly">
+        فقال له الأسد وكره أن يرى دمنة منه
+        <lb/>
+
+        جبنًا لمن يكون ذلك لبأس
+      </p>
+
+      <p n="Description of the Loud Bellowing Sound">
+        قال فبينما هو كذلك إذ خار شتربة خوارًا شديدًا
+        <lb/>
+
+        هيّج ذلك الأسد فهمّ بأن يخبر دمنة بما في نفسه
+      </p>
+
+      <p n="Lion Is Loath to Admit Fear">
+        فقال في نفسه أنا أخشى
+        <lb/>
+
+        إن أنا أطلعته على ما في نفسي أن يستضعف رأيي فسكت عنه
+      </p>
+
+      <p n="Renewed Sound Makes Lion Confide in Dimna">
+        فلمّا كان في اليوم
+        <lb/>
+
+        الثاني جلس هو ودمنة يتشاوران لينظر كيف رأيه إذ خار الثور ثانية خوارًا
+        <lb/>
+
+        شديدًا أشدّ من خواره الأوّل فاستعجز الأسد رأيه في تأخيره عن تعريفه
+        <lb/>
+
+        دمنة السبب
+      </p>
+
+      <p n="Lion's Explanation of His Immobility">
+        فقال الأسد لدمنة إنّ تأخّري عن الحركة لهذا الصوت الهائل
+        <lb/>
+
+        الذي سمعته بالأمس واليوم
+      </p>
+
+      <p n="Lion's Speculation About the Source's Size">
+        ولست أدري ما هو غير أنّه خليق أن تكون الجثّة على
+        <lb/>
+
+        قدر الصوت والشدّة على قدر رائحته
+      </p>
+
+      <p n="Lion's Concern About Territorial Safety">
+        فإن كان ذلك كذلك فليس مكاننا هذا
+      </p>
+
+      <p n="Lion's Response to Dimna's Question">
+        قال لم يكُ غير هذا
+      </p>
+
+      <p n="Dimna's Advice Against Abandoning Territory">
+        قال دمنة فليس الملك بحقيق أن يدع مكانه ووطنه
+        <lb/>
+
+        فإنّ الشكر آفته المنّ والشرف آفته الصلف والمودّة الضعيفة آفتها
+        <lb/>
+
+        النميمة والقلب الضعيف آفته الصوت والجلبة
+      </p>
+
+      <p n="Proverb About Not Fearing All Sounds">
+        وفي بعض الأمثال يُقال
+        <lb/>
+
+        إنّه ليس كلّ الأصوات تُهاب
+      </p>
+
+      <p n="Lion's Question About Fearless Sounds">
+        قال الأسد وما ذلك المثل
+      </p>
+
+      <p n="Third Subtale of Fox and Drum">
+        قال دمنة زعموا
+        <lb/>
+
+        أنّ ثعلبًا جائعًا أتى أجمة فيها طبل معلّق في شجرة قد كان قوم نزلوا بفنائها ومعهم
+        <lb/>
+
+        غناء فعلّقوه فيها وهبّت الريح فجعلت قضبان الشجرة تقرع الطبل فيصوّت
+        <lb/>
+
+        صوتًا شديدًا
+      </p>
+
+      <p n="Fox's Approach to the Loud Sound">
+        فسمع الثعلب ذلك الصوت فتوجّه نحوه حتّى أتاه
+      </p>
+
+      <p n="Fox Splits Drum Expecting Food">
+        فلمّا رآه
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

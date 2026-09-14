@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="123"/>
+
+      <p n="Thief And Demon Plot">
+        فانطلقا مصطحبين حتّى انتهيا إلى منزل الناسك ممسيين
+      </p>
+
+      <p n="Man Goes To Sleep">
+        فدخل
+        <lb/>
+
+        الناسك وأدخل بقرته ثمّ تعشّى ونام
+      </p>
+
+      <p n="Thiefs Concerns">
+        فأشفق اللصّ أن يبدأ
+        <lb/>
+
+        الشيطان بالناسك قبل أن يسرق البقرة فيصيح فيجتمع الناس
+        <lb/>
+
+        بصوته فلا يقدر على سرقة البقرة فقال له انتظرْ حتّى أخرج البقرة
+        <lb/>
+
+        ثمّ عليك بالرجل
+      </p>
+
+      <p n="Demons Concerns">
+        فأشفق الشيطان أن يبدأ اللصّ بالبقرة
+        <lb/>
+
+        فيتنبّه الناسك فلا يقدر على أخذه فقال له بل أنظرْني حتّى
+        <lb/>
+
+        أخنقه ثمّ عليك بالبقرة فأبى كلّ واحد منهما على صاحبه
+      </p>
+
+      <p n="Thief And Demon Shout">
+        فلم
+        <lb/>
+
+        يزالا في اختلاف حتّى نادى اللصّ أيّها الناسك أن انتبهْ فهذا
+        <lb/>
+
+        الشيطان يريد أن يخنقك وناداه الشيطان أيّها الناسك
+        <lb/>
+
+        إنّ هذا اللصّ يريد أن يسرق بقرتك
+      </p>
+
+      <p n="Thief And Demon Flee">
+        فانتبه الناسك وجيرانه
+        <lb/>
+
+        لصوتهما وهرب الخبيثان
+      </p>
+
+      <p n="Objectors Deems Owls Misled">
+        فلمّا فرغ الثالث من كلامه
+        <lb/>
+
+        قال الأوّل الذي أشار بقتل الغراب أراكنّ قد غرّكنّ هذا
+        <lb/>
+
+        هذا الغراب وخدعكنّ كلامه وتضرّعه
+      </p>
+
+      <p n="Objector Asks Reconsideration">
+        فأنتم تريدون
+        <lb/>
+
+        تضييع الرأي والتغرير بجسيم الأمور فمهلًا مهلًا عن هذا الرأي
+      </p>
+
+      <p n="Objector Warns Of Trickery">
+        وانظرْن نظر ذي اللبّ الذين يعرفون أمورهم وأمور عدوّهم ولا
+        <lb/>
+
+        يُثنيكنّ عن رأيكنّ
+      </p>
+
+      <p n="Dont Be Credulous">
+        فتكونوا كالعجزة الذين يغترّون بما يسمعون
+        <lb/>
+
+        وتلين قلوبهم لعدوّهم عند أدنى ملق وتضرّع ويكونون بما يسمعون
+        <lb/>
+
+        أشدّ تصديقًا منكم بما تعملون
+      </p>
+
+      <p n="Mention Deceived Carpenter">
+        كالنجّار الذي كذّب ما رأى وصدّق
+        <lb/>
+
+        بما سمع فاغترّ وانخدع
+      </p>
+
+      <p n="King O Request Story D C">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="Carpenter Learns Of Wifes Affair">
+        قال الوزير
+        <lb/>
+
+        زعموا أنّ نجّارًا كانت له امرأة يحبّها وكانت قد علّقت
+        <lb/>
+
+        رجلًا فاطّلع على ذلك بعض أهل النجّار فأخبره
+      </p>
+
+      <p n="Carpenter Wants Proof">
+        فأحبّ أن يتيقّن ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

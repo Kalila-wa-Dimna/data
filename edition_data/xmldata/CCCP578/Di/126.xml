@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="126"/>
+
+      <p n="Prominent Courtier Diagnoses Dimna as Traitor">
+        شعرات فإنّه إذا مشي نكّس رأسه ولا يزال ملتفت إلى ورائه فإنّه صاحب
+        <lb/>
+
+        نميمة وفجور وغدر وهذه الآيات كلّها في هذا الشقيّ
+      </p>
+
+      <p n="Bodily Marks Are Claimed to Predict Deeds">
+        قال دمنة نحن كلّنا
+        <lb/>
+
+        تحت السماء وأنتم ذو أحلام والعلم بالكلام قد فهمتم ما قال فاسمعوا منّي فإن كان
+        <lb/>
+
+        ما ذكر من العلامات حقًّا
+      </p>
+
+      <p n="Human Action Would Be Meaningless">
+        فلا أسمع أحدًا يقدر أن يعمل خيرًا ولا شرًّا إلّا بها
+        <lb/>
+
+        وإنّها بها تجازون وعليها تعاقبون
+      </p>
+
+      <p n="If the Physique Makes People Traitors, Dimna Is Innocent and Excused">
+        وقد شقيت أنا بالعلامات التي في جسدي
+        <lb/>
+
+        فإنّ ذلك أمر لُبْس إن كان وأعوذ بالله أن يكون وإن كان إلى الناس من ذلك
+        <lb/>
+
+        شئ بلغوا فهم أفضل ما يقدرون عليه من الآيات والسامات ولم يكن منّي غير
+        <lb/>
+
+        العارفة ولم أرتكب غير الحقّ
+      </p>
+
+      <p n="Courtier's Argument Shows His Foolishness">
+        ولقد استبان لمن حضرك قلّة عقلك وعملك بالأمور
+        <lb/>
+
+        وبصرك بها
+      </p>
+
+      <p n="Dimna's Third Subtale of Plower Who Told His Wife to Cover Herself First">
+        وقد قال رجل مرّة لامرأته احفظي نفسك ثمّ اطلعيني على عيوبك
+        <lb/>
+
+        واصلحي عيوبك التي أنتي بها أعرف وذلك مثلك
+      </p>
+
+      <p n="Prominent Courtier Requests Tale">
+        فقال رأس الخنازير وكيف
+        <lb/>
+
+        كان ذلك
+      </p>
+
+      <p n="A Man and His Two Wives Become War Captives">
+        قال دمنة زعموا أنّ مدينة يقال لها هادك أغار عليها العدوّ
+        <lb/>
+
+        فقتلوا الرجال وسبوا النساء فأصاب رجل منهم في قسمه حرّاث
+        <lb/>
+
+        وامرأتان له وكان مُسيئا إليهما
+      </p>
+
+      <p n="One Wife Blames the Other for Being Naked">
+        فانطلقوا ذات يوم يحتطبون فوجدت
+        <lb/>
+
+        أحداهما خرقةً باليةً فسترت بها عورتها فقالت الأخرى للزوج ألا تنظر
+        <lb/>
+
+        لهذه الزانية
+      </p>
+
+      <p n="The Man/One Wife Tells Other Wife to Cover Herself First/Mind Her Own Nakedness">
+        فقال لها تركتِ نفسك وأنت مجرّدة
+      </p>
+
+      <p n="Dimna Reviles Courtier">
+        وفي أمرك أيضًا عجب
+        <lb/>
+
+        إنّ جسدك فيه من القروح وأنت تجتري أن تقومي بين يديّ الملك
+      </p>
+
+      <p n="Dimna Protected Courtier's Secrets">
+        وقد علم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="83"/>
+
+      <p n="Eliminating Criminals Benefits Society">
+        والثالثة أنّ الأشرار إذا قُتلوا ونُفوا من الأرض كان في ذلك
+        <lb/>
+
+        راحة للملك والرعيّة وصلاح لهم
+      </p>
+
+      <p n="Judge Reiterates the Call for Testimony">
+        فليقُلْ كلّ امرئٍ منكم ما
+        <lb/>
+
+        يعلم كيما يكون القضاء في ذلك على الحقّ لا على الهوى والبطر
+      </p>
+
+      <p n="All Attendees are Silent">
+        فرمق
+        <lb/>
+
+        بعضهم بعضًا وأطرقوا مليًّا لا يجيبون كلامًا لأنّهم لم يعلموا من أمره
+        <lb/>
+
+        علمًا واضحًا يتكلّمون به وكرهوا القول بالظنون تخوّفًا أن يفصِل
+        <lb/>
+
+        قولهم حُكمًا ويوجب قتلًا
+      </p>
+
+      <p n="Dimna Challenges All Only to Say What They Know">
+        فقال دمنة ما يُسكِتكم ليقلْ كلّ امرئ
+        <lb/>
+
+        منكم ما يعلم واعلموا أنّ لكلّ قربة ثوابًا إمّا عاجلًا وإمّا آجلًا ولا بدّ
+        <lb/>
+
+        أن تقولوا في أمري بعلمكم وليعلم كلّ متكلّمٍ منكم أنّ منطقه في قولي
+        <lb/>
+
+        حُكم في إحياء نفسٍ أو موتها
+      </p>
+
+      <p n="Dimna's Second Subtale of Ignorant Physician">
+        واعلموا أنّ من قال ما لم ير وادّعى علم ما لم
+        <lb/>
+
+        يعلم أصابه ما أصاب الطبيب الجاهل المتكلّف
+      </p>
+
+      <p n="Judge Request Tale">
+        فقال له القاضي
+        <lb/>
+
+        وكيف كان ذلك
+      </p>
+
+      <p n="Famous Physician Dies or Goes Blind">
+        قال دمنة زعموا أنّه كان في مدينةٍ من
+        <lb/>
+
+        مدائن السند طبيبٌ عالمٌ رفيقٌ فمات فنظروا في كتبه فكانوا ينتفعون
+        <lb/>
+
+        بها ويتعلّمون منها
+      </p>
+
+      <p n="Quack Appears in Town">
+        فأتاهم رجلٌ زعم أنّه طبيبٌ وأنّ له رفقًا ولم يكن
+        <lb/>
+
+        كذلك
+      </p>
+
+      <p n="Pregnant Princess Falls Sick">
+        وكانت لملكهم ابنةٌ كريمةٌ عليه وكانت حاملًا فأصابها بطنٌ
+        <lb/>
+
+        فجعلت تُمسُّ الأعراض
+      </p>
+
+      <p n="King Sends in Search of Physician">
+        فبعث الملك في طلب الأطبّاء
+      </p>
+
+      <p n="Blind Physician Prescribes Drug">
+        فأتت رسله رجلًا
+        <lb/>
+
+        منهم كان له علمٌ على رأس فرسخ فوجدوه قد عمِيَ فوصفوا له
+        <lb/>
+
+        وجع ابنة الملك فأمرهم أن يسقوها دواءً يُقال له زامهران فرجعوا
+        <lb/>
+
+        إلى الملك فأخبروه بذلك
+      </p>
+
+      <p n="Quack Ordered to Mix Drug">
+        فأمر أن يُطلب طبيبٌ ليهيّئ ذلك
+        <lb/>
+
+        الدواء فأتاه الرجل الجاهل فأخبره أنّه عالمٌ عارفٌ بالأدوية
+        <lb/>
+
+        وأخلاطها فدعا الملك بالأسفاط الذي فيها أدوية الطبيب
+      </p>
+
+      <p n="Quack Confuses Drug with Poison">
+        فوُضعت
+        <lb/>
+
+        بين يديه فأخذ من أحدها صرّة فيها سمٌّ فجعل منها ومن غيرها زامهران
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

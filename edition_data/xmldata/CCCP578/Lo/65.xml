@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="65"/>
+
+      <p n="Value of Quality over Quantity in Allies">
+        العمل ليس رجاؤه بكثرة الأعوان ولكن بصالح الأعوان
+      </p>
+
+      <p n="Analogy of Carrying Heavy Stone vs. Valuable Gem">
+        كالرجل الذي يحمل الياقوت
+        <lb/>
+
+        ولا يثقل عليه منه وهو يجد به الثمن الكثير ويبلغ حاجته
+      </p>
+
+      <p n="Importance of Appropriate Tools for Tasks">
+        والعمل الذي يحتاج فيه
+        <lb/>
+
+        إلى الجذع ولا تحويه القصب وإن كثرت
+      </p>
+
+      <p n="Ruler's Duty to Recognize Merit Regardless of Status">
+        والوالي حقيق ألّا يحتقر مروءة وإن
+        <lb/>
+
+        وجدها عند رجل صغير المنزلة فإنّ الرجل الصغير ربّما كبر وعظم
+      </p>
+
+      <p n="Analogy of Repurposing Animal Sinew for Royal Use">
+        كالعصب
+        <lb/>
+
+        يؤخذ من الميتة فإذا عُملت به القوس أُكرم فقبض عليها الملك ويحتاج إليها في
+        <lb/>
+
+        لهوه وبأسه
+      </p>
+
+      <p n="Dimna's Desire for Recognition Based on Merit">
+        وأحبّ دمنة أن يناله ما ناله من كرامة الأسد والقوم يعرفون
+        <lb/>
+
+        أنّ ذلك ليس لمعرفة أبيه فقط ولكن رأي دمنة وفضله ومروءته
+      </p>
+
+      <p n="Ruler's Criteria for Appointing Officials">
+        فقال إنّ السلطان
+        <lb/>
+
+        لا يقرّب الرجال لقرب آبائهم ولا يبعدهم لبعدهم ولكن ينظر إلى ما عندهم من فضل
+        <lb/>
+
+        الكفاية وما ينبغي له أن يقرّب لأجله
+      </p>
+
+      <p n="Bodily Health Is Most Important">
+        فإنّه لا شيء أقرب إلى الرجل من جسده ومن جسده
+        <lb/>
+
+        ما يدوى عليه حتّى يؤذيه فلا يدفع ذلك عنه إلّا الدواء الذي يأتيه من بعيد
+      </p>
+
+      <p n="Dimna's Observation of the Lion's Behavior">
+        قال فلمّا فرغ دمنة من مقالته زاد الأسد إعجابًا وأحسن عليه الردّ
+      </p>
+
+      <p n="Ruler Must Not Undervalue the Noble">
+        وكان فيما قال لجلسائه أن قال ينبغي للسلطان أن لا يلجّ في تضييع ذي حقّ
+        <lb/>
+
+        ووضع منزلته والمروءة
+      </p>
+
+      <p n="Ruler Must Correct Former Neglect">
+        وأن يستدرك رأيه في ذلك
+      </p>
+
+      <p n="A Neglected Person May Be Favoured Anew">
+        ولا يغرّه أن يرى من
+        <lb/>
+
+        صاحبه المفعول به ذلك رضى وإقرارًا
+      </p>
+
+      <p n="A Viper Stepped on Once May Not Bite">
+        فإنّ الناس في ذلك رجلان
+        <lb/>
+
+        رجل أصل طباعه الشراسة وهو كالحيّة التي إن وطئها الواطئ فلم يلدغْه
+        <lb/>
+
+        كان جديرًا أن يعود ذلك وتعود لوطئها ثانية
+      </p>
+
+      <p n="Cool Sandalwood May Become Hot">
+        ورجل أصل طباعه السهولة
+        <lb/>
+
+        وهو كالصندل البارد الذي إذا أُفرط في حكّه صار حارًّا مؤذيًا
+      </p>
+
+      <p n="Dimna Asks about Lion's Immobility">
+        قال
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

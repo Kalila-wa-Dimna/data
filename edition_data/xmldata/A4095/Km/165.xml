@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="165"/>
+
+      <p n="They Discuss the Threat of the Cats">
+        فحضروا يومًا وتفاوضوا في أشياء كثيرة إلى أن انتهى بهم الكلام
+        <lb/>
+
+        إلى هذا المعنى وهو هل يمكن في استطاعتنا أن نزيل عنّا ما
+        <lb/>
+
+        قد توارثناه من أسلافنا من الفزع والخوف من السنانير أم لا يمكن ذلك
+      </p>
+
+      <p n="Two Viziers Praise the Virtues of the Rat King">
+        فقال سبرع وبغداد وزراؤه أنت رئيس علينا لأنّك في غاية
+        <lb/>
+
+        العقل وإصابة الرأي
+      </p>
+
+      <p n="Affairs Require a Wise Planner">
+        وقد قيل في آفتين من الآفات لا يمكن دفعها
+        <lb/>
+
+        إلّا مدبّر حكيم مصيب
+      </p>
+
+      <p n="The Viziers Rely on the Wisdom of the King">
+        ونحن متّكلين على حِلم الملك وحكمته وحسن
+        <lb/>
+
+        تدبيره في هذا الأمر وغيره ونحن
+      </p>
+
+      <p n="The Viziers Are Eager to Support the King">
+        مع هذا مستعدّون لأمر الملك فإنّه
+        <lb/>
+
+        سيكون لنا وللملك فيه اسم عظيم إلى الأبد
+      </p>
+
+      <p n="The Rats Must Work Together">
+        وسبيل جميع
+        <lb/>
+
+        الجرذان وخاصّة نحن أن نبلغ ونحرص ونجتهد في تبليغ الملك
+        <lb/>
+
+        إرادته ولا سيّما في هذا الأمر ولم نمرّ بذهاب أنفسنا
+      </p>
+
+      <p n="The Rat King Chides the Silent Vizier">
+        فلمّا فرغ
+        <lb/>
+
+        الوزيران من هذا الخطاب كانت عين الملك إلى الوزير الثالث
+        <lb/>
+
+        فلمّا لم يراه يتكلّم قال له بغضب يا هذا
+      </p>
+
+      <p n="The Rat King Has the Third Vizier Respond">
+        قد كان سبيلك أن تذكر
+        <lb/>
+
+        لنا ما عندك في هذا الأمر ولا تكون كأنّك أخرس أبكم لا تقدر
+        <lb/>
+
+        على الجواب
+      </p>
+
+      <p n="The Third Vizier Was Listening">
+        فلمّا سمع الوزير من الملك هذا الكلام قال
+        <lb/>
+
+        ليس يجب أن يعذلني الملك حيث أمسكت عن الكلام إلى هذا
+        <lb/>
+
+        الوقت لأنّي فعلت ذلك لأستمع جميع ما أتى به أصحابي على الكلام
+        <lb/>
+
+        وأفكّر فيه ثمّ بعد ذلك أذكر ما عندي
+      </p>
+
+      <p n="The Rat King Requests the Third Vizier's Opinion">
+        قال له الملك قل
+        <lb/>
+
+        إذن ما عندك
+      </p>
+
+      <p n="The Third Vizier Has No Solution">
+        قال ما عندي أكثر من هذا وهو أنه إن عَلِم
+        <lb/>
+
+        الملك أنّ له حيلة يبلغ بها مراده من هذا الأمر ويتحقّق ذلك
+        <lb/>
+
+        تحقيقًا صحيحًا وإلّا فما سبيله أن يحرص عليه ولا يدبّر بفكره فيه
+        <lb/>
+
+        لأنّ ما يُتوارث من الآباء والأسلاف في الأصلاب والجنس
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

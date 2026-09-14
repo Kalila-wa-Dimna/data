@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="8"/>
+
+      <p n="unassigned">
+        لم ينتفع بعلمه الذي لم يستعمله وقد قيل إنّ العلم لا يتمّ إلّا بالعمل
+        <lb/>
+
+        وأنّ العلم هو الشجرة والعمل هو الثمرة وإنّما يطلب صاحب
+        <lb/>
+
+        العلم العلم لينتفع به وإن لم يستعمل ما يعلم فليس ذلك نافعًا له
+        <lb/>
+
+        وربّ رجل لو قيل له أنّ رجلًا كان عارفًا بطريق مخوف ثمّ
+        <lb/>
+
+        سلكه وهو عالم به لقُضي عليه بالجهل ولعلّه إن حاسب
+        <lb/>
+
+        نفسه وجدها ترتكب أشياء وتقتحم في أمور هو أشدّ معرفة
+        <lb/>
+
+        بها وبضررها وسوء عاقبتها من ذلك السالك في الطريق الخوف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

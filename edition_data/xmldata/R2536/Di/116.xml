@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="116"/>
+
+      <p n="The Lion Assembles the Court and Summons Dimna">
+        الأسد حين أصبح إلي وجوه جنده وأحضرهم وبعث إلى أمّه فحضرت
+        <lb/>
+
+        ثمّ دعي دمنة فأوتي وحضر الجند
+      </p>
+
+      <p n="The Lion Lowers His Head in Shame">
+        ونكّس الأسد رأسه مستحيًا ممّا
+        <lb/>
+
+        ركب من شتربة
+      </p>
+
+      <p n="Dimna Inquires About the Lion's Dejection">
+        فلمّا رأى دمنة ذلك أيقن بالهلكة وقال لبعض
+        <lb/>
+
+        من يليه ما بال الأسد منكّسًا مهمومًا حزينًا هل حدث أمر فأجمعكم
+        <lb/>
+
+        له
+      </p>
+
+      <p n="The Mother Declares Dimna Responsible">
+        فقالت أمّ الأسد إنّ ما ترى من حال الأسد وحزنه لتركه
+        <lb/>
+
+        إيّاك حيًّا إلى يوم بعد صنيعك به وحملك إيّاه نميمتك وفجورك
+        <lb/>
+
+        على شتربة
+      </p>
+
+      <p n="Good People Suffer Misfortune Fastest">
+        فقال دمنة لا أرى الذي يقال إلّا حقًّا إنّ الذي
+        <lb/>
+
+        يجهد لنفسه في الخير الشرّ البلاءُ أسرع إليه من غيره
+      </p>
+
+      <p n="Who Keeps Bad Company Does Not Escape Evil">
+        ولا يكون
+        <lb/>
+
+        للملك ولا لجنده المثل السوء وإنمّا قيل ذلك إنّه من صحب الأشرار
+        <lb/>
+
+        وهو لا يعمل عملهم لم ينجُ من شرّهم
+      </p>
+
+      <p n="Only God Rewards Justly">
+        لأنّه لا يجزى بالخير خيرًا إلّا
+        <lb/>
+
+        الله تعالى فأنا من دونه فقد يغلب على أمورهم الخطأ
+      </p>
+
+      <p n="The King Is Most Deserving of the Truth/Good Attributes">
+        وما أحد أحقّ
+        <lb/>
+
+        بالصواب من الملك
+      </p>
+
+      <p n="Ascetics Shun People's Company">
+        ولذلك يتوحّد عامّة النسّاك في الجبال
+        <lb/>
+
+        ويدَعون مخالطة الناس ومحادثتهم ويؤثرون العمل لله سبحانه
+        <lb/>
+
+        على العمل لخلقه
+      </p>
+
+      <p n="Dimna Claims He Only Warned Lion of Ox's Treason">
+        ولكن حملني النصح للملك والإيثار له على أن
+        <lb/>
+
+        أطلعته على أمر من أراد الغدر به والوثوب عليه وأعلمته بالذي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

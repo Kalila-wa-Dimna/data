@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="15"/>
+
+      <p n="Burzoy Chooses Friend">
+        وفضل أدبه وصحّ له من إخائه ومحض مودّته وفصاحة منطقه
+      </p>
+
+      <p n="Burzoy Hides Mission From Friend">
+        وكان يشاوره في جميع أموره ويستريح إليه فيما يهمّه إلّا أنّه كان يكتمه
+        <lb/>
+
+        الأمر الذي هو بغيته
+      </p>
+
+      <p n="Burzoy Vets Friend">
+        وكان يتلوه باللطف لينظر هل يراه موضعًا
+        <lb/>
+
+        لإطلاعه على سرّه فلم يزل يبحث عن ذات نفسه حتّى وثق به وعلم أنّه
+        <lb/>
+
+        استودع من السرّ موضعًا وبما يسل مشفّع وفيما استعان به عليه مجتهد
+      </p>
+
+      <p n="Burzoy Lavishes Gift On Friend">
+        فازداد له إلطافًا فكان في ذلك اليوم الذي رجا أن يكون قد ظفر
+        <lb/>
+
+        بحاجته قد أعظم النفقة مع طول الغيبة وإلطاف الأصدقاء
+        <lb/>
+
+        ومجالستهم على الطعام ومنادمتهم على الشراب لطلب الثقات منهم
+      </p>
+
+      <p n="Burzoy Opens Up To Friend">
+        فلم يطمئنّ إلى أحد منهم إلّا إلى صديقه ذلك
+      </p>
+
+      <p n="Process Of Vetting Friend">
+        عندما ورد عليه وكيف
+        <lb/>
+
+        فتّش عقله
+      </p>
+
+      <p n="Burzoy Trusts Friend">
+        ووثق به واطمأنّ إليه
+      </p>
+
+      <p n="Burzoy Hints At Secret">
+        أن قال له يومًا وهما جالسان يا أخي
+        <lb/>
+
+        ما أريد أن أكتمك من أمري شيئًا فوق ما قد كتمتك فاعلم أنّي
+        <lb/>
+
+        لأمر جئت وهو غير ما ترى يظهر منّي
+      </p>
+
+      <p n="Signs Suffice For The Intelligent">
+        والعاقل يكتفى من الرجل
+        <lb/>
+
+        بالعلامات الظاهرة فيه من نظره وإشارته بيده فيعلم سرّ نفسه
+        <lb/>
+
+        وما يضمر عليه قلبه
+      </p>
+
+      <p n="Friend Aware Of Burzoys Secret">
+        قال الهنديّ إنّي وإن كنت لم أُبدئك ولم أخبرك
+        <lb/>
+
+        لما له جئت وإيّاه طلبت فإنّك تكتم أمرًا تطلبه وأنت تظهر غيره
+        <lb/>
+
+        فإنّه لم يكن يخفى عليّ
+      </p>
+
+      <p n="Friend Shuns Confrontation">
+        ولكن لرغبتي في إخائك كرهت أن أواجهك
+        <lb/>
+
+        فإنّه قد ظهر لي ما تكتم وأنّه قد استبان لي ما أنت فيه وما تخفيه
+      </p>
+
+      <p n="Friend Infers Burzoys Secret">
+        فأمّا إذا افتتحت الكلام فأنا مخبرك عن نفسك ومظهر لك سريرة أمرك
+        <lb/>
+
+        ومعلّمك حالك الذي قدمت عليه
+      </p>
+
+      <p n="Friend Guesses Burzoys Mission">
+        فإنّك قدمت بلادنا لتسلبنا علومنا
+        <lb/>
+
+        الرفيعة وكنوزنا النفيسة فتذهب بها إلى بلادك لتسرّ بها مَلكك
+        <lb/>
+
+        وكان قدومك لمكر ومصادقتك بالخديعة
+      </p>
+
+      <p n="Friend Stays Devoted To Burzoy">
+        ولكن لمّا رأيت صبرك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="184"/>
+
+      <p n="unassigned">
+        في ذلك خلفًا ولا يرجو أمن النفس خلفًا وشرّ المال ما لا ينفق منه
+        <lb/>
+
+        وشرّ الأرواح التي لا توافي البعل وشرّ الولد العاصى وشرّ الإخوان
+        <lb/>
+
+        الخاذل لإخوانه وشرّ الملوك الذى يخافه البريء وشرّ البلاد
+        <lb/>
+
+        بلاد ليس فيها أمن ولا خصب وأنّه لا أمن لي أيّها الملك
+        <lb/>
+
+        معك ولا طمأنينة لنفسي ثمّ ودّع الملك وطار
+      </p>
+
+      <p n="Chapter Title">
+        باب الأسد وابن آوى
+      </p>
+
+      <p n="King Understood Previous Chapter">
+        قال الملك للفيلسوف قد سمعت هذا المثل
+      </p>
+
+      <p n="King Asks about Reconciling a Courtier">
+        فاضرب لي مثل
+        <lb/>
+
+        الملوك فيما بينهم وبين قرائبهم وفي مراجعة من يراجع منهم بعد
+        <lb/>
+
+        عقوبة أو جفوة تكون عن ذنب يذنبه أو ظلم يظلمه
+      </p>
+
+      <p n="Philosopher Supports Reconciliation of a Courtier">
+        قال
+        <lb/>
+
+        الفيلسوف إنّ الملك لو كان لا يراجع من أصابته جفوة أو عقوبة
+        <lb/>
+
+        عن جرم اجترمه أو ظلم ظلمه أضرّ ذلك بالأمور والأعمال
+      </p>
+
+      <p n="King to Consider Value of a Suspect">
+        ولكنّ
+        <lb/>
+
+        الملك حقيق أن ينظر في حال من ابتُلي بشيء من ذلك وما عنده من
+        <lb/>
+
+        الغَناء الذي يرجو منه النفع
+      </p>
+
+      <p n="King to Reconcile the Reliable">
+        فإن كان ممّن يُستعان به ويُوثق برأيه
+        <lb/>
+
+        وأمانته كان الملك حقيقًا بالحرص على مراجعته والحرص عليه
+        <lb/>
+
+        منه بذلك
+      </p>
+
+      <p n="Aides Are Essential to Rule">
+        فإنه المُلك لا يُستطاع إلّا بالوزراء والأعوان ولا يُنتفع
+        <lb/>
+
+        بالوزراء والأعوان إلّا بالمودّة والنصيحة ولا مودّة إلّا مع إصابة الرأي
+        <lb/>
+
+        والنصيحة والعقل
+      </p>
+
+      <p n="Kings' Duties Are Many">
+        وأعمال الملك كثيرة ومن يحتاج إليه من العمّال
+        <lb/>
+
+        والأعوان كثير ومن يجمع منهم الذي ذكرت من النصيحة وأصالة
+        <lb/>
+
+        الرأي والعفاف قليل
+      </p>
+
+      <p n="King Must Know Everyone">
+        وإنّما السبب في الوجه الذي به يستقيم العمل
+        <lb/>
+
+        أن يكون الملك عالمًا بمودّة من يريد الاستعانة به وبأمورهم وما عند
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kb</chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

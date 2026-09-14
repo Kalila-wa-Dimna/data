@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="7"/>
+
+      <p n="Burzoy Is Selected">
+        الطبّ وكان ماهرًا بالفارسيّة والهنديّة يُسمى برزويه ابن أدرهز من رؤوس أطبّاء
+        <lb/>
+
+        فارس وهو من أبناء عمالقتها ومرازبتها
+      </p>
+
+      <p n="Burzoy Meets Kisra">
+        فأُدخل على الملك فلمّا مثل بين يديه سجد له
+        <lb/>
+
+        ثمّ قام مفكّرًا بين يديه
+      </p>
+
+      <p n="Kisra Explains Choosing Burzoy">
+        فقال له الملك إني قد تخيّرتك لما بلغني عنك من فضلك وعقلك
+        <lb/>
+
+        وحسن أدبك وحرصك على طلب العلم حيث كان
+      </p>
+
+      <p n="Kisra Tells Of Mission">
+        وإنّه بلغني عن كتاب بأرض الهند
+        <lb/>
+
+        وقصّ عليه قصّته وأخبره بما بلغه عن ذلك الكتاب
+      </p>
+
+      <p n="Kisra Commissions Burzoy">
+        لتلطف بعقلك وحسن
+        <lb/>
+
+        أدبك في استخراج ذلك الكتاب من خزائنهم ومن قبل علمائهم وفقهائهم فتجده
+        <lb/>
+
+        إمّا كاملًا مكتوبًا بالفارسيّة فتستفيده أنت وتفيدنا إيّاه وغيره من الكتب
+        <lb/>
+
+        التي ليست في خزائننا ولا ملكنا مثلها
+      </p>
+
+      <p n="Burzoy Given Ample Funds">
+        واحمل معك من المال ما أحببت
+        <lb/>
+
+        فإن أنفذت ما معك كتبت إليّ من الهند فأمدّك بالمال وعجّل ذلك ولا تقصّر في
+        <lb/>
+
+        طلب علم فإن كثرت فيه النفقة وإنّ جميع ما جرى في خزائني لك مبذولة للنفقة
+        <lb/>
+
+        في طلب العلم إن شاء الله
+      </p>
+
+      <p n="Burzoy Accepts">
+        تعالى فقال برزويه عشت أيّها الملك دهر الداهرين
+        <lb/>
+
+        سعيدًا ومُلّكت الأقاليم في خفض ودعة إنّما أنا من بعض صغراء عبيدك أيّها
+        <lb/>
+
+        الملك وسهم من سهامك فليرم بي الملك حيث شاء من الأرض
+      </p>
+
+      <p n="Burzoy Requests Gathering">
+        بعد أن تأذن لي
+        <lb/>
+
+        أدام الله أيّامه في أحسن غبطة وسرور بأن تجعل لي مجلسًا قبل شخوصي
+        <lb/>
+
+        أعلم فيه أهل مملكته ما استخصّني له ونوّه باسمي فيه
+      </p>
+
+      <p n="Kisra Sets Up Gathering">
+        فقال له الملك قد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

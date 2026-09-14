@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="19"/>
+
+      <p n="unassigned">
+        من ملوك الهند يُقال له دِبْ سَلَم ووزير يُقال له بيدباذ وكان
+        <lb/>
+
+        أعظم فلاسفته عنده قدرًا وأحسنهم حالًا في العلم وأمَره أن
+        <lb/>
+
+        يجيبه فيها بابًا بابًا بالجواب الصحيح المتقن وأن يضرب له في
+        <lb/>
+
+        ذلك الأمثال والأشباه ليستدلّ على صحّة كلامه وأن يجمع ذلك
+        <lb/>
+
+        في معنًى دقيق بيّن واضح ليتّخذه أدبًا لنفسه ويرفعه في خزانته
+        <lb/>
+
+        ليكون ميراثًا بمن يكون بعده من الملوك فكان منه باب الأسد
+        <lb/>
+
+        والثور
+      </p>
+
+      <p n="Burzurgmihr's Introduction">
+        وهو بعد حديث برزويه رأس أطبّاء فارس كان
+      </p>
+
+      <p n="Burzoy's Parents">
+        أبي
+        <lb/>
+
+        من المقاتلة وكانت أمّي من بيوت الزمازمة والفقهاء وعظمائهم
+      </p>
+
+      <p n="Burzoy Studies Medicine">
+        وكان
+        <lb/>
+
+        ممّا ابتدأني به ربّي من النعمة إنّي كنت أكرم ولد أبويّ عليهما وأنّهما
+        <lb/>
+
+        أسلماني في تعليم الطبّ حتّى بلغت سبع سنين
+      </p>
+
+      <p n="Burzoy Consults His Soul About Its Ambitions">
+        فلمّا عرفت فضل الطبّ
+        <lb/>
+
+        وأمره شكرت لأبويّ رأيهما في ذلك وحرصت في تعليم الطبّ
+        <lb/>
+
+        وعلمه حتّى شذوت منه علمًا وبلغت ما تمنّت به نفسي من مداواة
+        <lb/>
+
+        المرضى ومن ذلك أمرت نفسي وخيّرتها في الأمور الأربعة التي
+        <lb/>
+
+        يطلبها كثيرًا من الناس ولها يسعون
+      </p>
+
+      <p n="The Four Objects of Human Pursuit">
+        وقلت هي نفسي أيّ هذه الخصال
+        <lb/>
+
+        ينبغي لمثلي في مثل عقلي أن يطلب المال أم اللذّات أم الصواب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

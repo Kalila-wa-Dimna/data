@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="161"/>
+
+      <p n="The Crow King Asks the Fifth Crow, a Spy">
+        القتال أم الصلح أم الجلاء أم غير ذلك
+      </p>
+
+      <p n="The Spy Rejects Fighting">
+        فقال لم يقولوا شيئًا أمّا القتال فلا
+        <lb/>
+
+        سبيل إليه وما لا نقوى له
+      </p>
+
+      <p n="The Foolish Underestimate Their Foes">
+        وقد قيل من لم يعرف قدر نفسه وعدوّه وقاتل من لا
+        <lb/>
+
+        يقوى عليه جهل نفسه هذا
+      </p>
+
+      <p n="The Intelligent Never Underestimate Their Foes">
+        مع أنّ العاقل لا يستضعف عدوًّا فإنّ من يفعل
+        <lb/>
+
+        ذلك اغترّ ومن اغترّ أمكن عدوّه من حاجته
+      </p>
+
+      <p n="The Spy Expresses Fear">
+        وإنّا للبوم شديدين الهيبة
+        <lb/>
+
+        وإنّه لا ينبغي لنا أن نبادر إلى القتال ما وجدنا إلى غيره سبيلًا لأنهنّ أقوى منّا
+        <lb/>
+
+        عليه
+      </p>
+
+      <p n="The Crows Should Not Overestimate Themselves">
+        وقد قيل من لم يعرف قدر نفسه وقوّته واغترّ بضعفه في قتال العدوّ
+        <lb/>
+
+        القويّ الجريء فقد أراد هلكتها والضرر بها
+      </p>
+
+      <p n="The Crows Should Not Belittle the Enemy">
+        وليس أحد بحقيق أن يزدري
+        <lb/>
+
+        عدوّه وإن كان مهينًا فكيف بالآبد
+      </p>
+
+      <p n="The Spy Makes a Suggestion">
+        ولكنّه يحقّ علينا ولكنّه يحقّ علينا أن
+        <lb/>
+
+        نوادعهنّ ونلاينهنّ فإنّا لو كنّا أقوى منهنّ
+      </p>
+
+      <p n="Diplomacy Supersedes Force">
+        فإنّ المرأة الضعيفة إن لم تجد من يأخذها
+        <lb/>
+
+        باللين والخديعة وأراد ودّها بالضرب والهوان لم تستقرّ عنده ولم تعطف
+        <lb/>
+
+        عليه
+      </p>
+
+      <p n="Fighting the Owls Is Fatal">
+        ولا أرى لنا قتال البوم ولا الاغترار بهنّ فإنّ العدوّ القويّ وإن كان
+        <lb/>
+
+        بعيدًا منّا معترمًا ليس ينبغي لنا أن نغترّ إلى ذلك منه وإن هو أتانا لقتالنا
+        <lb/>
+
+        فلم نقوى على فرصته
+      </p>
+
+      <p n="The Crows Should Prepare for War">
+        ولكنّ الرأي لنا نعدّ له ونتأهّب لقتاله ونكون على
+        <lb/>
+
+        حذر ونضع أمره على المكيدة والدهاء والأدب
+      </p>
+
+      <p n="The Intelligent Weighs the Past and Future">
+        فإنّ العالم الذي ينظر في الأمر قبل
+        <lb/>
+
+        وقوعه وبعده وهل يقدر على الصلاح الذي فات منه
+      </p>
+
+      <p n="Ways To Avoid the Battle">
+        فإنّه لا بدّ للمقاتل
+        <lb/>
+
+        من القتل لا يسلم منه إلّا القليل وربّما اكتفى من القتال بالنفقة اليسيرة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

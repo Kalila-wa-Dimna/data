@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="57"/>
+
+      <p n="Dimna Offers to Bring Ox as Servant">
+        أن آتيه به حتّى تكون له عبدًا سامعًا
+      </p>
+
+      <p n="Lion's Approval of Dimna's Proposal">
+        ففرح الأسد لذلك وقال له
+        <lb/>
+
+        دونك فانطلق دمنة إلى شتربة
+      </p>
+
+      <p n="Dimna's Confident Approach to Ox">
+        فقال له غير هائب ولا متتعتع
+        <lb/>
+
+        إنّ الأسد أرسلني إليك لآتيه بك
+      </p>
+
+      <p n="Ox Inquires about Lion's Identity">
+        فلمّا سمع الثور ذكر الأسد قال له
+        <lb/>
+
+        ومن الأسد
+      </p>
+
+      <p n="Dimna Describes Lion as King of Beasts">
+        قال هو ملك سباع هذه الناحية
+      </p>
+
+      <p n="Dimna's Offer of Safety to Ox">
+        وإن أنت أسرعت
+        <lb/>
+
+        غفر لك ذنب تأخّرك عنه
+      </p>
+
+      <p n="Ox's Request for Assurance">
+        وإن تلكّأت يعاقبك
+      </p>
+
+      <p n="Ox's Acceptance of Dimna's Offer">
+        فقال
+        <lb/>
+
+        شتربة إن أنت أعطيتني من نفسك أن لا أُضارّ مشيت معك
+      </p>
+
+      <p n="Dimna Provides Assurance to Ox">
+        فأعطاه دمنة
+        <lb/>
+
+        ما سأل من العهد
+      </p>
+
+      <p n="Dimna and Ox Approach Lion Together">
+        ثمّ توجّها إلى الأسد فدخلا عليه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

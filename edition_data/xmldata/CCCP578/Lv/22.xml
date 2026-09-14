@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="22"/>
+
+      <p n="Chapter Read Publicly">
+        بالكتاب ففتحه وقرأ باب برزويه المتطبّب على رؤوس الناس
+      </p>
+
+      <p n="Bu Chapter Well Received">
+        ففرح الملك ومن كان
+        <lb/>
+
+        عنده بما أوتي بزرجمهر من العقل والعلم والأدب وبما اجتهد فيه من مدحه
+        <lb/>
+
+        لبرزويه من غير كذب منه
+      </p>
+
+      <p n="Kisra Rewards Buzrgmihr">
+        فأمر له الملك بجائزة من المال والحلل فلم يأخذ منها
+        <lb/>
+
+        شيئًا سوى الحلل فإنّه أخذها ليتجمّل بها ويفتخر بها على نظرائه لأنّها كانت كسوة الملك
+        <lb/>
+
+        وخاصّة لباسه فوقف بين يدي الملك وتلك الحلّة عليه
+      </p>
+
+      <p n="Burzoy Thanks Buzurgmihr">
+        فشكر له برزويه وقبّل رأسه
+        <lb/>
+
+        ويديه
+      </p>
+
+      <p n="Burzoy Thanks Kisra For Chapter">
+        ثمّ أقبل برزويه على الملك وقال له أدام الله لك أيّها الملك الكرامة والجمال
+        <lb/>
+
+        قد أكرمتني بما أمرت لبزرجمهر ابن النختكان بوضعه هذا الكتاب وقد أعظمت
+        <lb/>
+
+        عليّ المنّة ممّا شرّفتني به ونوّهت باسمي وذكري ما دام هذا الكتاب في الدنيا
+      </p>
+
+      <p n="Burzoy Invokes Longevity For Kisra">
+        فأحسن الله عنّي جزاءك وأن يأتيك بأحسن وأفضل وأكمل ما جزى به أحدًا
+        <lb/>
+
+        من عباده ووصل ذلك بجزيل شرف الآخرة ورضوان الربّ فإنّه سميع قريب
+        <lb/>
+
+        مجيب على ما يشاء قدير
+      </p>
+
+      <p n="Burzoy Commends Buzurgmihr To Kisra">
+        وجزى الله بزرجمهر ابن النختكان خير الجزاء وأحسن عنّي مكافأته
+        <lb/>
+
+        فقد عجز لساني عن تأدية شكرك أيّها الملك فلو أطنبت بكلّ شكر لكنت مقصّرًا
+        <lb/>
+
+        والله وليّ ذلك قادر عليه
+      </p>
+
+      <p n="Number of Chapters and Epistles">
+        وأمّا هذه الستّة عشر باب
+      </p>
+
+      <p n="Each Chapter Touches Aspect">
+        فوضع كلّ
+        <lb/>
+
+        باب منها لجهة من الجهات
+      </p>
+
+      <p n="Im">
+        الباب الأوّل
+        <lb/>
+
+        هو ترجمة ابن المقفّع فوصّى من قرأ هذا الكتاب أن لا تكون قراءته له طلب بلوغ
+        <lb/>
+
+        آخره بل يكون قصده لطلب ما فيه من الحكمة والاستفهام والمنافع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

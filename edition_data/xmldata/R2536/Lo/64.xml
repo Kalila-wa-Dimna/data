@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="64"/>
+
+      <p n="The Feared Consequence">
+        وذهبا بها وفي ذلك هلاكي وانقطاع مدّتي
+      </p>
+
+      <p n="The Crab Warns the Fish">
+        فانطلق السرطان إلى
+        <lb/>
+
+        جميع السمك فأخبرهنّ بذلك
+      </p>
+
+      <p n="The Fish Seek Counsel">
+        فأقبل جماعة السمك إلى العلجوم
+      </p>
+
+      <p n="A Plea for Advice">
+        وقلن له
+        <lb/>
+
+        أتيناك تشر علينا برأيك فإنّ العاقل لا يدع مشاورة عدوّه إذا
+        <lb/>
+
+        كان ذا رأي في الأمر الذي يستعينه عليه ولك في بقائنا نفع وصلاح
+        <lb/>
+
+        فأشر علينا برأيك
+      </p>
+
+      <p n="The Heron's Deceptive Offer">
+        فقال لهنّ أمّا مكابرة الصيّادين فلسنا نطيقهما
+        <lb/>
+
+        ولكن قد علمت مكانًا ذا عزلة وهو غدير كثير الماء والخير فإنّ
+        <lb/>
+
+        شئتنّ فأنطلق بكنّ إليه
+      </p>
+
+      <p n="The Fish Ask for Help">
+        فقلن له ومن يمنّ علينا بذلك غيرك
+      </p>
+
+      <p n="The Heron's Promise">
+        فقال
+        <lb/>
+
+        أفعل بكنّ
+      </p>
+
+      <p n="The Heron's Treachery">
+        فجعل يحمل في كلّ يوم منهنّ سمكتين فينطلق بهما إلى بعض
+        <lb/>
+
+        التلال فيأكلها
+      </p>
+
+      <p n="The Crab's Request">
+        فلمّا كان ذات يوم أتاه السرطان فقال إنّي أشفقت
+        <lb/>
+
+        من مكاني هذا فلو ذهبت بي في معمق
+      </p>
+
+      <p n="The Crab Discovers the Truth">
+        فقال نعم فاحتمله حتّى إذا دنا
+        <lb/>
+
+        من المكان الذي كان يأكلهنّ فيه نظر السرطان إلى عظام السمك
+        <lb/>
+
+        مجموعة فعلم أنّه صاحبها وأنّه يريد به مثل ذلك
+      </p>
+
+      <p n="The Crab's Resolve">
+        فقال في نفسه
+        <lb/>
+
+        ينبغي إذا لقي المرء عدوّه في المواضع التي يناله فيها أن يقاتل كرمًا وحفظًا
+      </p>
+
+      <p n="The Heron is Killed">
+        ثمّ إنّه أهوى بكلاليبه إلى عنق العلجوم فعصره حتّى مات
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

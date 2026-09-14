@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="9"/>
+
+      <p n="The Burglar Attempts to Steal the Jar's Contents">
+        فقال ما أجد بدًّا من أخذ هذا البرّ إذ لم أجد غيره فبسط ملحفة كانت
+        <lb/>
+
+        عليه وصبّ ذلك البرّ فيها فلمّا بصر به الرجل قد جعل البرّ في الملحفة
+        <lb/>
+
+        وهو يريد أن ينطلق بها
+      </p>
+
+      <p n="The Pauper Panics">
+        قال ليس على هذا صبر يذهب البرّ ويجتمع عليّ أمران
+        <lb/>
+
+        الجوع والعري ولن يجتمعا على أحد إلّا أهلكاه
+      </p>
+
+      <p n="The Pauper Chases the Burglar Away, Keeps His Garb">
+        فصاح بالسارق فهرب
+        <lb/>
+
+        من البيت وترك الملحفة فأخذها صاحب المنزل فلبسها وأعاد البرّ إلى
+        <lb/>
+
+        مكانه
+      </p>
+
+      <p n="The Intelligent Man Must Not Despair">
+        فليس ينبغي لأحد أن ييأس ولا يطلب ما لا يُنال
+      </p>
+
+      <p n="One Should Not Abandon Hard Work">
+        ولكن
+        <lb/>
+
+        لا يدع جهدًا في الطلب على معرفة
+      </p>
+
+      <p n="The Fortunate Few Are Not the Model">
+        فإنّ الفضل والرزق يأتيان من لا يطلبهما
+      </p>
+
+      <p n="The Striving Masses Are the Model">
+        ولكن إذا نظر في ذلك وجد من طلب وأصاب أكثر ممّن أصاب
+        <lb/>
+
+        بغير طلب ولم يكن حقيقًا أن يقتدي بذلك الواحد الذي أصاب
+        <lb/>
+
+        من غير طلب ولكن يقتدي بالكثير الذي طلبوا فأصابوا
+      </p>
+
+      <p n="One Should Benefit from Experience">
+        وحقّ على المرء
+        <lb/>
+
+        أن يكثر المقايسة وينتفع بالتجارب فإذا أصابه الشيء فيه مضرّة
+        <lb/>
+
+        عليه حذره وأشباهه وقاس بعضه ببعض حتّى يحذر الشيء بما لقي من
+        <lb/>
+
+        غيره فإنّه إن لم يحذر به إلّا الذي لقي بعينه لم يُحكّم التجارب في جميع
+        <lb/>
+
+        عمره ولم يزل يأتيه شيء لم يكن أتاه بعينه فأمّا الذي ينبغي ألّا يدعه
+        <lb/>
+
+        على حال فيحذر ما قد أصابه وينبغي له مع ذلك أن يحذر ما يصيب
+        <lb/>
+
+        غيره من الضرر حتّى يسلم من لم يأتيه مثله
+      </p>
+
+      <p n="Dove Does Not Learn from Losing Her Chicks">
+        ولا يكون
+        <lb/>
+
+        مثله كمثل الحمامة التي يُؤخذ فراخها فيُذبحان وترى ذلك في وكرها
+        <lb/>
+
+        ولا يمنعها من الإقامة في مكانها حتّى تُؤخذ هي فتُذبح
+      </p>
+
+      <p n="One Should Abide by God's Measures">
+        وينبغي له مع
+        <lb/>
+
+        ذلك أن تكون الأمور عنده حدّ لا يجوزه ولا يُقصّر عنه فإنّه من
+        <lb/>
+
+        جاز الحدّ كان كمن قصّر عنه لأنّهما خالفا الحدّ جميعًا
+      </p>
+
+      <p n="Striving for the Here and the Hereafter">
+        وينبغي له
+        <lb/>
+
+        أن يعلم أنّ كلّ إنسان ساع فمن كان سعيه لآخرته ودنياه فحياته له
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

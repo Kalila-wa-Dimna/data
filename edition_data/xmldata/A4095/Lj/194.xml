@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="194"/>
+
+      <p n="Lion Apologizes to Jackal">
+        ممّا كان منه في أمره
+      </p>
+
+      <p n="Lion Values Jackal More">
+        وقال له إنّ الذي كان من الأمر
+        <lb/>
+
+        قد زاد فيما كان من ثقتي بك ثقة وزاد ظني بك إلى ما
+        <lb/>
+
+        كان من حسنه حسنًا
+      </p>
+
+      <p n="Lion Wants to Reinstate Jackal">
+        فأقمْ على ما كنت عليه من أمرنا وعملنا
+      </p>
+
+      <p n="Jackal Announces Criticism">
+        قال ابن آوى إنّي قائل لك أيّها الملك قولًا فلا يغلظنّ
+        <lb/>
+
+        عليك
+      </p>
+
+      <p n="Jackal is Disappointed at Lion">
+        فإنّ أحقّ من قبل من أهل الحجج الأحكام وإنّك إن كنت
+        <lb/>
+
+        أحدثت بي ثقة وحسن ظنّ فليس شيئًا تفضّلت به عليّ فتعدّه من
+        <lb/>
+
+        نفسك صنيعة عندي أو طَوْلًا عليّ
+      </p>
+
+      <p n="Lion Believed the Accusation">
+        ولكن قد أحدثت بك
+        <lb/>
+
+        أيّها الملك سوء ظنّ وقلّة ثقة لما ظهر لي من سرعة استماعك
+        <lb/>
+
+        لأهل الكذب وإفسادك الكثير من حسن البلاء الذي لا تنكره
+        <lb/>
+
+        بالقليل الحقير من القذف الذي تعرفه وتقلّبك إليّ بالبائقة والجائحة
+        <lb/>
+
+        قبل السبب والإعذار فقد صيّرتني في حدّ لا تثق بي ولا أثق بك لما
+        <lb/>
+
+        صيّرت لهم عليّ من السبل
+      </p>
+
+      <p n="King Must not Trust the Wrongfully Punished">
+        لأنّه لا ينبغي للملك أن يثق بهذه
+        <lb/>
+
+        الأصناف ممّن قد عوقب العقوبة الكبيرة عن غير جُرم أو من ناله
+        <lb/>
+
+        الضرّ العظيم منهم
+      </p>
+
+      <p n="King Must not Trust the Deposed">
+        ومن عزلوه عن ولاية وعمل كان في يديه
+      </p>
+
+      <p n="King Must not Trust the Extorted">
+        ومن
+        <lb/>
+
+        سلبوه أمواله وعقاره
+      </p>
+
+      <p n="King Must not Trust Someone Denied Honor">
+        ومن كان في الثقة عندهم فأقصوه وقطعوا
+        <lb/>
+
+        طمعه بغير سبب
+      </p>
+
+      <p n="King Must not Trust the Unrewarded">
+        وذي المروءة والنبل ليُنزل غير منزلته أو قُدّم
+        <lb/>
+
+        عليه أكفاؤه ونظراؤه
+      </p>
+
+      <p n="King Must not Trust Someone Denied Justice">
+        والمظلوم الطالب للنصَفة غير المنصَف
+      </p>
+
+      <p n="Kind Must not Trust the Adversarial">
+        ومن يرجو المنفعة والصلاح بمضرّة السلطان
+      </p>
+
+      <p n="King Must not Trust the Humiliated">
+        ومن استُقبل بما
+        <lb/>
+
+        يكره في المحافل
+      </p>
+
+      <p n="King Must not Trust the Greedy and Unsatisfied">
+        وذي الحرص القليل القنوع
+      </p>
+
+      <p n="King Must not Trust Someone Denied Pardon">
+        والمذنب الراجي للعفو
+        <lb/>
+
+        فلم يُعف عنه
+      </p>
+
+      <p n="King Must Consider the Untrustworthy as Foes">
+        فهذه الأصناف أعداء الملك وأعدائي
+      </p>
+
+      <p n="Lion's Foes Were Able to Attack Jackal">
+        وقد صار لهم
+        <lb/>
+
+        السبيل إليّ والاستخفاف بي والجرأة عليّ
+      </p>
+
+      <p n="Lion Deserves Harangue for Bad Judgment">
+        قال الأسد ما أحسن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

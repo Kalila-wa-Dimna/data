@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="4"/>
+
+      <p n="Situations Do Not Blind the Intelligent">
+        situation. I must use my intelligence!’”
+      </p>
+
+      <p n="The Rat Decides on a Pact with the Cat">
+        “Then he said, ‘I see no more excellent strategy than to seek reconciliation with the cat,
+        <lb/>
+
+        for the cat has been beset by the kind of trouble that no one can rid him of], except me.
+        <lb/>
+
+        Perhaps, if he listens to
+        <lb/>
+
+        what I’m going to address him with-truthful words that bear no deceit-he would understand me and would desire
+        <lb/>
+
+        my help, reconciling with me for his own benefit, wherewith bringing], for me and him, salvation.’”
+      </p>
+
+      <p n="The Cat Acknowledges Being Trapped">
+        “So he said to him, ‘How are you?’ He said, ‘As you would fancy - in dire straits!’
+      </p>
+
+      <p n="The Rat Points Out Their Common Problem">
+        The Rat said:
+        <lb/>
+
+        ‘{I shall tell you something in which I will not lie: I swear that before I found delight in everything that saddened you, and I viewed that which constrained
+        <lb/>
+
+        you as comforting to me. Today, however, I have joined you in trouble
+        <lb/>
+
+        and have been so beset by dire straits that your death cannot delight me-I am your partner in misfortune], and I can only hope to be delivered
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

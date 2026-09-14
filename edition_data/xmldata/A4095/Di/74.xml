@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="74"/>
+
+      <p n="A Ruler Must Not Spare Traitors">
+        وساق إليهم ما أصلحهم القادة المتولّون لأمورهم
+      </p>
+
+      <p n="The Lion Is Entitled to Kill Dimna">
+        وأنت بقتل دمنة
+        <lb/>
+
+        حقيق
+      </p>
+
+      <p n="Divulging Secrets and Shielding a Criminal Is Harmful">
+        فإنّه كان يُقال إفساد جُلّ الأشياء من قِبَل خلّتين إذاعة
+        <lb/>
+
+        السرّ وائتمان أهل الفجور
+      </p>
+
+      <p n="Dimna Caused the Ox's Killing">
+        وإنّ الذي أنشب العداوة بينك وبين
+        <lb/>
+
+        شتربة أنصح الوزراء وخير الأعوان حتّى قتلته غدرك دمنة بحيلته
+        <lb/>
+
+        وخلابه ومكره وخيانته
+      </p>
+
+      <p n="The Lion Discovered Dimna's Hidden Nature">
+        وقد اطّلعت على مكنونه وبدا لك ما كان يخفي
+        <lb/>
+
+        عليك وعلمتَه في نحو ما تذكر من حديثه إيّاك قبل اليوم
+      </p>
+
+      <p n="Punishing Dimna Brings Comfort">
+        فالراحة
+        <lb/>
+
+        لك ولجندك إذا ظهر لك منه ما تَكْتُم عقوبتُه لجريمته وإبقاءً
+        <lb/>
+
+        على جندك من شرّه فإنّه ليس على مثلها بمأمون
+      </p>
+
+      <p n="Dimna's Crime Cannot Be Forgiven">
+        ولعلّك أيّها الملك
+        <lb/>
+
+        أن تركن إلى ما آثرته من العفو عن أهل الجرائم فإن روَّيت في ذلك
+        <lb/>
+
+        فاعلم أنّه ليس منهم من يبلغ جُرمه جرم دمنة
+      </p>
+
+      <p n="The Lion Assembles the Court and Summons Dimna">
+        فلمّا سمع الأسد ذلك
+        <lb/>
+
+        نادى في جموعه فحضروا وأُتي بدمنة
+      </p>
+
+      <p n="The Lion Lowers His Head in Shame">
+        ونكَّس الأسد مستحيًا فيما ركب
+        <lb/>
+
+        من قتل شتربة
+      </p>
+
+      <p n="Dimna Inquires About the Lion's Dejection">
+        فلمّا رأى دمنة ذلك قال لبعض من يليه
+        <lb/>
+
+        متجاهلًا فأخفى الكلام لبعض من يَقْرُب منه ما لي أرى الملك مكتئبًا
+        <lb/>
+
+        مهمومًا هل حدث أمرًا جمعكم له
+      </p>
+
+      <p n="The Mother Declares Dimna Responsible">
+        فلمّا سمعت ذلك أمّ الأسد
+        <lb/>
+
+        قالت مجيبةً له الذي أكرب الملك بقاؤك حيًّا إلى اليوم مع عظيم
+        <lb/>
+
+        حَدثك وجُرمك أيها الغادر الكذوب
+      </p>
+
+      <p n="Dimna Wants to Know His Alleged Crime">
+        قال دمنة وما الذي
+        <lb/>
+
+        جنيت مما يُستحلّ به قتلي ويُكرب الملك بقائي
+      </p>
+
+      <p n="The Mother Is Outraged by Dimna's Feigned Ignorance">
+        قالت أمّ الأسد
+        <lb/>
+
+        أعظم الحدث حدثك وأشدّ الخيانة خيانتك واستجهالك الملك
+        <lb/>
+
+        وقتلك البريء من وزرائه
+      </p>
+
+      <p n="Good People Suffer Misfortune Fastest">
+        قال دمنة إنّ تصديق ما كان يُذكر
+        <lb/>
+
+        قد حضر فإنّه كان يُقال من اجتهد في طلب الخير أسرع إليه الشرّ
+      </p>
+
+      <p n="Who Keeps Bad Company Does Not Escape Evil">
+        ولا يكون الملك وجنوده المثل السوء وقد علمت أنّ ذلك إنّما كان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

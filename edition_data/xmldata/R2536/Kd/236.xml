@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="236"/>
+
+      <p n="King Instists Giving Gift">
+        يأخذ كلّ واحد منكم حصّته
+      </p>
+
+      <p n="Vizier Accepts Gift">
+        قال بلاذ فليبدأ الَملك فليأخذ ما
+        <lb/>
+
+        يصلح به ثمّ يرى في الباقي رأيه
+      </p>
+
+      <p n="Men Receive Their Gifts">
+        فأخذ المَلك الفيل الأبيض والفيلين
+        <lb/>
+
+        الآخرين وأعطى جويبر ابنه أحد الفرسين وأعطى بلاذًا السيف وأعطى
+        <lb/>
+
+        الكاتب الفرس الآخر وبعث إلى كينارون ثياب الكتّان
+      </p>
+
+      <p n="Queen Shall Choose Gift">
+        وأمّا
+        <lb/>
+
+        الإكليل والثياب التي لا تصلح إلّا للنساء فإنّه أمر بلاذ بين يديه فقال
+        <lb/>
+
+        يا بلاذ ضع الإكليل والثياب من يدي هليث فلتأخذ أيّها شاءت
+      </p>
+
+      <p n="Hesitating Queen Looks At Vizier">
+        فلمّا
+        <lb/>
+
+        رأت هليث كلاهما عجب في منظره نظرت إلى بلاذ ليريها أيّها تأخذ
+      </p>
+
+      <p n="Vizier Shows Dress King Notices">
+        فأراها بلاذ الثياب وأشار عليها تأخذها فحانت من المَلك التفاتة
+        <lb/>
+
+        فرأى إيماء بلاذ إلى هليث
+      </p>
+
+      <p n="Queen Chooses Crown">
+        فلمّا رأت هليث أنّ المَلك قد أبصر إيماء بلاذ
+        <lb/>
+
+        إليها لرينة
+      </p>
+
+      <p n="Vizier Pretends To Be Cross Eyed">
+        ومكث بلاذ أربعين سنة كلّما دخل على المَلك كسر إحدى عينيه
+        <lb/>
+
+        وادّعى أنّه أحول في ذلك اليوم لئلّا يظنّ المَلك أنّه بينه وبين هليث
+        <lb/>
+
+        شيئًا
+      </p>
+
+      <p n="Queen Serves Rice On Her Night">
+        ثمّ أنّ المَلك ذات ليلة كان عند هليث وكان يكون ليلة عندها
+        <lb/>
+
+        وليلة عند حورفتاة فلمّا أتى هليث في ليلتها صنعت له أرزًّا وكذلك
+        <lb/>
+
+        في سنّة ملوك الهند أن يكون أكثر طعامهم الأرزّ والإكليل على رأسها
+        <lb/>
+
+        فقامت على رأس المَلك بالصحفة فجعل يطعم منها
+      </p>
+
+      <p n="Favorite Wears Dress Before King">
+        فلمّا علمت حورفتاة أنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

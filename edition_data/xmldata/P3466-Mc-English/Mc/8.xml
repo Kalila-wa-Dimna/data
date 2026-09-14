@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="8"/>
+
+      <p n="The Cat Expects to Die">
+        When the cat saw him, he sensed perdition.
+      </p>
+
+      <p n="The Rat Resolves to Cut the Last Rope">
+        So the rat said to the cat,
+        <lb/>
+
+        ‘now is the place for diligence in cutting what remains of your cords.’”
+      </p>
+
+      <p n="The Rat Fulfills the Pact">
+        “Before the huntsman came close,
+        <lb/>
+
+        the rat had finished cutting the cords, despite the cat’s mistrust and his perplexity.”
+      </p>
+
+      <p n="The Cat and the Rat Escape">
+        “When he finished,
+        <lb/>
+
+        the cat ran to the tree and climbed it, the rat dived into
+        <lb/>
+
+        his burrow], and the huntsman grabbed his shredded cords and net and left feeling disappointed.”
+      </p>
+
+      <p n="The Cat Calls Back the Rat">
+        The rat came out
+        <lb/>
+
+        of his burrow after that, saw the cat from afar and dreaded approaching him.
+      </p>
+
+      <p n="unassigned">
+        ‘O, friend,’ therefore cried the cat, ‘you who have done me a good deed What
+      </p>
+
+      <p n="The Cat Reminds the Rat of their Friendship">
+        is stopping you from approaching me, so that I can endow you with the best for the favor you have done me Do come to me
+        <lb/>
+
+        and don’t sever my brotherly ties;
+      </p>
+
+      <p n="If One Gives Up a Friend One Loses Out">
+        for he who takes a friend and cuts off any brotherly connections
+        <lb/>
+
+        will be prevented from reaping the fruits of friendship and brotherhood, and brethren and friends will despair from obtaining benefits from him.
+      </p>
+
+      <p n="The Cat Suggests a Reward">
+        Your favor to me cannot be forgotten, and you are entitled to seek the reward
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

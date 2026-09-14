@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="128"/>
+
+      <p n="Dimna Has Ruzbeh Fetch Their Belongings">
+        به أعطاه ما كان لكليلة كلّه وقال أنت أحقّ به من غيرك
+      </p>
+
+      <p n="Dimna Gives Ruzbeh Half, Asks Him to Put in Good Word with Lion and Mother and Report Their Words to Him">
+        وطلب منه أن يُحضره
+        <lb/>
+
+        عند الأسد بخير وأن يعلّمه ما يذكره به أمّ الأسد عنده فوعده ذلك
+      </p>
+
+      <p n="Ruzbeh Accepts Gift">
+        وقبل
+        <lb/>
+
+        منه ما أعطاه
+      </p>
+
+      <p n="Dimna's Gift Is to Reward Ruzbeh's Friendship">
+        وقال له اعلم إنّي لم أعطك هذا الشئ اليسير لأنّي تخوّفت منه
+        <lb/>
+
+        إن خصمت أو بحقّ لزمني ولكن للودّ الذي كان بينك وبين الذي أسأل الله تعالى
+        <lb/>
+
+        أن يجعل في الجنّة له نصيبًا
+      </p>
+
+      <p n="Leopard &amp; Judge Bring Lion the Court Records Who Has Them Copied">
+        ثمّ إنّ زوربه عدا إلى الأسد فوافق النمر والقاضي
+        <lb/>
+
+        قد أتياه بالكتاب فوضعاها بين يديه فنظر فيها وأمر كاتبه بنسخها وردّها
+        <lb/>
+
+        إلى النمر
+      </p>
+
+      <p n="Judge Orders Leopard and Judge to Return Dimna Before Court">
+        وقال له وللقاضي انطلقا بدمنة فأوقفاه للجند ثمّ ارفعا إلىّ ما يكون
+        <lb/>
+
+        من قولهم وغدره في ذلك
+      </p>
+
+      <p n="Lion Reads Court Records to Mother">
+        فلمّا خرج دمنة من الغد أتت أمّ الأسد فقرأ عليها تلك
+        <lb/>
+
+        الكتب
+      </p>
+
+      <p n="Mother Alerts Lion of His Own Benefit and Motivates Her Harsh Words">
+        فقالت أمّ الأسد لا تجدّن عليّ فيما ينفعك وإنّك لمغرور بقول هذا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

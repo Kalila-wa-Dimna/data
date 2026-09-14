@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="77"/>
+
+      <p n="A Merchant's Wife Had a Lover">
+        كانت بأرض كشمير مدينة تُسمّى برود وكان فيها تاجرًا
+        <lb/>
+
+        يقال له كَبِيرَغ وكانت له امرأةٌ ذات حسنٍ وجمالٍ وكان له جارٌ مصوّرٌ
+        <lb/>
+
+        وهو صديقٌ لها
+      </p>
+
+      <p n="Woman Asks Lover to Create a Sign">
+        فقالت له المرأة في بعض أحيانها التي كان يأتيها
+        <lb/>
+
+        فيها إن استطعت أن تصنع شيئًا يكون علامةً بيني وبينك أطَّلع بها
+        <lb/>
+
+        على مجيئك إذا جئتني بالليل من غير نداء ولا رميٍ ولا شيء يُرتاب به رفق
+        <lb/>
+
+        ذلك بك وبي
+      </p>
+
+      <p n="Painter Suggests Black-and-White Coat to Woman">
+        قال المصوّر نعم ملاءة بلقاء بياضها كضوء القمر وسوادها
+        <lb/>
+
+        كسواد الحدقة فإذا رأيتِها فاخرجي فهي آية بيني وبينك فأعجبها ذلك
+        <lb/>
+
+        وفرحت به وكان يأتيها في تلك الملاءة متى أراد
+      </p>
+
+      <p n="The Woman's Servant Hears About Coat">
+        وسمع عبد التاجر حديث
+        <lb/>
+
+        الملاءة
+      </p>
+
+      <p n="Woman's Servant Borrows Coat In Painter's Absence">
+        وكان لأمة المصوّر صديقًا فطلب العبد إلى أَمَة المصوّر أن
+        <lb/>
+
+        تُعيره الملاءة التي له ليُريها صديقًا له ويسرع ردّها وكان المصوّر غائبًا
+        <lb/>
+
+        في دار الملك فأعطته إيّاها ولم ترتبْ بشيءٍ من شأنه
+      </p>
+
+      <p n="Servant Tricks Woman">
+        فأخذها ومضى إلى
+        <lb/>
+
+        سيّدته ليلًا فلم ترتبْ به لمّا رأتها عليه فظنّته صديقها المصوّر فبذلت
+        <lb/>
+
+        له نفسها وقضى حاجته ورجع العبد بها إلى الأمة فوضعها في موضعها
+      </p>
+
+      <p n="Lover Realizes She Was Tricked">
+        ولمّا مضت هدأة من الليل رجع المصوّر إلى بيته فلبسها ثمّ أتى المرأة
+        <lb/>
+
+        فلمّا رأته دنت منه وقالت له ما شأنك لقد أسرعت العودة بعد
+        <lb/>
+
+        قضاء حاجتك فلمّا سمع كلامها عرف أنّه قد دُهي
+      </p>
+
+      <p n="The Lover's Servant Confesses">
+        ومضى من وقته
+        <lb/>
+
+        إلى وليدته فأوجعها ضربًا فحدّثته الحديث فأخذ الملاءة فخرقها
+        <lb/>
+
+        وأحرقها
+      </p>
+
+      <p n="Dimna Opposes Acting Upon Doubt">
+        وإنّما ضربت لك هذا المثل لئلّا تعجل لأمر فيه
+        <lb/>
+
+        تشبيه وكذب فإنّ الكذب مُعيب لصاحبه وأنت بالنظر في
+        <lb/>
+
+        أمري جدير
+      </p>
+
+      <p n="Dimna Denies Fear of Death">
+        ولست أقول ما تسمع شفقًا من الموت فإنّه وإن
+        <lb/>
+
+        كان كريهًا لا منجى منه ولا محيصٌ عنه
+      </p>
+
+      <p n="Dimna Would Die for Lion">
+        ولو كنت أعلم لي مائة نفس
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="164"/>
+
+      <p n="Only Two Can Keep Secret">
+        شاع وانتشر
+      </p>
+
+      <p n="Victory Requires Guarding Secrets">
+        وقد كان يُقال إنّما تصيب الملوك الظفر بالحزم والحزم بإجالة
+        <lb/>
+
+        الرأي والرأي بتخصيص الأسرار
+      </p>
+
+      <p n="Who May Discover Secret">
+        وإنّما يُطّلع على السرّ من قبل خمسة أشياء من قبل
+        <lb/>
+
+        الملوك ومن قبل مشاورتهم والبريد والرسول والمستمعين للكلام والناظر في
+        <lb/>
+
+        أمر الرأي ومواضع العلم ومن التشبيه والتظنّي
+      </p>
+
+      <p n="Two Benefits Of Guarding Secret">
+        ومن حضر سرًّا فله بتحصينه
+        <lb/>
+
+        إيّاه أمران إمّا الظفر بما يريد وإمّا إن أخطأه الظفر فالسلامة من ضرّه
+      </p>
+
+      <p n="Kind Needs Confidant">
+        ولا بدّ لطالب
+        <lb/>
+
+        السرّ من مستشار مأمون يفضي إليه بسرّه ويعاونه على رأيه فإنّ المستشير
+        <lb/>
+
+        وإن كان أفضل من المستشار <>
+      </p>
+
+      <p n="How To Give Advice">
+        <> موافقة المستشير على صواب ما يرى وتقصيره
+        <lb/>
+
+        وتقليب الرأي فيما شكا فيه حتّى يستقيم له تبعًا
+      </p>
+
+      <p n="Bad Advice Like Misdirected Curse">
+        فإذا لم يكن المستشار كذلك
+        <lb/>
+
+        فهو مع المستشير مع عدوّه كالرجل الذي يرقي الشيطان ليرسله إلى الإنسان فإذا
+        <lb/>
+
+        لم يحكم الرقية فإيّاه يقصد وله يأخذ
+      </p>
+
+      <p n="Secritive Wise King Prospers">
+        وإذا كان الملك محصّنًا للأسرار متخيّرًا للوزراء
+        <lb/>
+
+        مهيبًا في أعين العامّة بعيدًا من أن يُعلم ما في نفسه لا يضيع عنه بلاء ولا يسلم منه
+        <lb/>
+
+        ذو حزم مقدّرًا لما سبق وما بقي كان خليقًا ألّا يُسلب صالح ما أُوتي
+      </p>
+
+      <p n="Ranks Of Secrets">
+        وللأسرار منازل
+        <lb/>
+
+        فمن السرّ ما يدخل فيه الرهط ومنه ما يدخل فيه الرجلان ومنه ما لا يُستعان
+        <lb/>
+
+        فيه بقوم
+      </p>
+
+      <p n="Only King C And Spy To Know Secret">
+        ولا أرى لهذا السرّ في قدر لمنزلته أن يُشرك فيه إلّا أربعة أذنان
+        <lb/>
+
+        ولسانان
+      </p>
+
+      <p n="Guarding Secret Beneficial">
+        فإنّ من كتم سرّه رُزق منفعته
+      </p>
+
+      <p n="Deliberations Of Good Vizier">
+        إنّما ينبغي للوزير الصالح إذا شُووِر في أمر
+        <lb/>
+
+        أن ينظر إلى ما يرى للملك فإن كانت فيه منفعة للرعيّة ونفسه واطأه عليه وإن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

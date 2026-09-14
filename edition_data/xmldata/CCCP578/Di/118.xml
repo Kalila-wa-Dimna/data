@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="118"/>
+
+      <p n="Good People Suffer Misfortune Fastest">
+        إلى غيره
+      </p>
+
+      <p n="Ascetics Shun People's Company">
+        ولذلك يتوجّه إليه عامّة النسّاك ويدَعون مخالطة الناس
+      </p>
+
+      <p n="Dimna Claims He Only Warned Lion of Ox's Treason">
+        فقال دمنة أسمع
+        <lb/>
+
+        الذي يُقال حقًّا ولذلك فإنّه حملني النصح للملك والإيثار له على أن أطلعته على من أراد
+        <lb/>
+
+        الغدر به والوثوب عليه وأعلمته الذي ارتبت به منه وتبيّن لي من علاماتٍ فيه
+        <lb/>
+
+        ما استبان للملك
+      </p>
+
+      <p n="Dimna Says the King Saw the Same Signs">
+        ولم يأت إليه شيء إلّا عن بصيرة وإن هو أيضًا يتحقّق الأمر وقد
+        <lb/>
+
+        نظر فيه وسأل عنه وعرف مصداق ما كنت قلت له
+      </p>
+
+      <p n="Hidden Fire Is Extracted Only with List/Labor">
+        فإنّ النار التي تكون فى الحجر
+        <lb/>
+
+        والعود إنّما يستخرجان بالحيل وليس يخفى مثل هذا
+      </p>
+
+      <p n="Hidden Crimes Are Exposed by Investigation">
+        وإنّ حزم الملوك إذا فحص عنه
+        <lb/>
+
+        وفتّش ازداد استنارة
+      </p>
+
+      <p n="Stirred Up Mud Stinks">
+        كما أنّ كلّ شئ من حمأة أو غيرها إذا ثُوّرت ظهر ما فيها ومن ريحها
+        <lb/>
+
+        وقذرها
+      </p>
+
+      <p n="Dimna Cites His Staying as Proof of Innocence">
+        ولو كنت مذنبًا مريبًا هربت في الأرض وكان لي فيها منبسط رحب ولم
+        <lb/>
+
+        أقرب باب الملك ولكنّي لثقتي برأي ونصيحتي له لم أفارقه
+      </p>
+
+      <p n="Dimna Asks for Unimpeachable Investigator">
+        وأنا أرغب إلى الملك إن
+        <lb/>
+
+        كان في شكّ من ذلك أن يأمر بالنظر فيه ويكون يتولّى ذلك ذو أمانة وإسلامٍ لا تأخذ
+        <lb/>
+
+        في الحقّ لومة لائمٍ ولا تكون عنده محاماة لأحد ولا يستمع من غيري فينظر فيه ولا
+        <lb/>
+
+        يأخذ أقاويل البغاة على الحسدة لي
+      </p>
+
+      <p n="Dimna's Station Exposes Him to Jealousy">
+        فإنّها قد كانت لي منزلة منه أُنافَس فيها
+      </p>
+
+      <p n="Dimna Claims only Investigation Can Save Him">
+        فإن هو لم يفعل ذلك بي فلا ملجأ إلّا إلى الله تعالى
+      </p>
+
+      <p n="Doubt and Certainty Must Not Be Confused">
+        وقد كان يقال إنّ الذي يعمل الشبهة
+      </p>
+
+      <p n="Dimna's First Subtale of the Woman Who Mistook Her Servant for Her Lover">
+        مثله
+        <lb/>
+
+        كمثل صديقة المصوّر
+      </p>
+
+      <p n="Lion's Question for Woman's Tale">
+        قال الأسد وكيف كان ذلك
+      </p>
+
+      <p n="A Merchant's Wife Had a Lover">
+        قال زعموا أنّه كان بأرض سمين
+        <lb/>
+
+        مدينة تسمّى ما يورد وكان فيها تاجر يقال له حمد وكانت له امرأة جميلة حسناء وكان
+        <lb/>
+
+        لها صديق مصوّر
+      </p>
+
+      <p n="Woman Asks Lover to Create a Sign">
+        فقالت له هل تقدر على أن تصنع شيئًا إذا أتيتني من الليل عرفتك
+        <lb/>
+
+        فخرجت إليك من غير أن تصوّت بي
+      </p>
+
+      <p n="Painter Suggests Black-and-White Coat to Woman">
+        فقال نعم فاعل ملاءة بيضاء بياضها كضوء القمر في ظلمة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

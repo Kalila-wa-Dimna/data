@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="80"/>
+
+      <p n="Dimna Has a Bad Reputation">
+        أمره عليّ والذي ذكره لي الأمين الصدوق
+      </p>
+
+      <p n="The Mother Tells the Lion Not to Debate Dimna">
+        فليسترحْ منه ولا يناظره
+      </p>
+
+      <p n="The Lion Tells the Mother to be Silent">
+        فقال الأسد اسكتي عنّي واهدئي فإنّي ناظر في أمره وفاحص
+        <lb/>
+
+        عنه
+      </p>
+
+      <p n="The Lion Wants to Avoid Haste">
+        وغير عاجلٍ عليه ولا أشتري ضرّ نفسي باتّباع هوى غيري
+        <lb/>
+
+        ممّن لا أدري ما صدقه من كذبه من الذي وصفت
+      </p>
+
+      <p n="Lion Repeats Question for Mother's Source">
+        فسمّيه
+        <lb/>
+
+        لي
+      </p>
+
+      <p n="The Mother Names the Leopard">
+        فقالت أمّ الأسد هو خليلك ومؤدّبك وأمينك النمر
+      </p>
+
+      <p n="Lion Promises to Act and Dismisses His Mother">
+        فقال الأسد بحسبك سترين ما أصنع به وآمر فيه فانصرفي
+      </p>
+
+      <p n="Kalila Seeks out Dimna in Prison">
+        فلمّا ذهبت هدأةٌ من الليل بلغ كليلة أنّ دمنة قد حُبس
+        <lb/>
+
+        واُستوثق منه فانطلق إليه يهمس همسًا
+      </p>
+
+      <p n="Kalila Weeps when Seeing Dimna">
+        فلمّا رآه موثقًا بكى
+        <lb/>
+
+        بكاءً شديدًا
+      </p>
+
+      <p n="Kalila Admits Having Been Harsh on Dimna">
+        وقال قد بلغ الأمر بأخي إلى ما لا أبالي ألّا أغلظ
+        <lb/>
+
+        لك معه في الكلام ولا أستقبلك بما تكره منه وإنّه ليخطر
+        <lb/>
+
+        ببالي ما كنت أشير به عليك ولقد كنت رأيت ذلك وأبلغت في
+        <lb/>
+
+        الموعظة
+      </p>
+
+      <p n="Conceit Caused Dimna's Demise">
+        فلم تقبل منّي ولم تأخذ به لإعجابك برأيك فويلٌ لحلمك
+        <lb/>
+
+        وفطنتك لقد ضلَّا عنك ونُزعا منك وذهبا مع حياتك ضياعًا
+      </p>
+
+      <p n="Dimna Cites His Greed as Cause for Not Listening">
+        فقال دمنة إنّك لم تزلْ تتكلّم بالحقّ وتأمر به ولكن لم أسمعْ منك
+        <lb/>
+
+        لما كان فيّ من الشره والشهوة ولما كُتب عليّ من البلاء ولولا ذلك
+        <lb/>
+
+        كان فيما وعظتني به ما مثله أنتهي إليه وأنتفع برأيك فيه
+      </p>
+
+      <p n="Who Ignores Friends’ Advice Comes to Regret">
+        قالت العلماء إنّ الذي لا يسمع من إخوانه ونصحائه يصير أمره إلى
+        <lb/>
+
+        الندامة
+      </p>
+
+      <p n="Dimna's Ambition Dominated Him">
+        وقد حلّ ذلك بي ولكن ما عشيت أن أصنع فإنّ
+        <lb/>
+
+        الحرص وطموح اليقين يغلبان رأي الحليم ونظر العالم
+      </p>
+
+      <p n="Desire for Noxious Food Kills the Patient">
+        كالمريض
+        <lb/>
+
+        الذي قد عرف أنّ شهوته من الطعام مضرّة به مشدّدةٌ
+        <lb/>
+
+        للوجع عليه فلا يدع تناولها والإصابة منها فيزداد مرضًا ولعلّه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

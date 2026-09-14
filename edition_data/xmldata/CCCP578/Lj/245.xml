@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="245"/>
+
+      <p n="Threats against Good Advisor">
+        الصديق فينافسه ويبغي عليه وأمّا العدوّ فيظهر له الشماتة ويرصد له
+        <lb/>
+
+        ساعة يكون فيها هلاكه فإذا اجتمع إليه الصنفان جميعًا كان هتفًا للهلاك
+      </p>
+
+      <p n="Lion Promises Jackal Protection">
+        قال له الأسد ما يكون بغي أصحابك عليك وحسدهم إيّاك ممّا يزيدك
+        <lb/>
+
+        ذلك عندي إلّا إكرامًا فلا تسأل عن شيء من ذلك ولا تعبأ
+      </p>
+
+      <p n="Jackal Wants to Remain Carefree">
+        به قال له ابن آوى
+        <lb/>
+
+        إن كان الملك يريد لي خيرًا فليتركني أعيش في هذه البرّيّة آمنًا مطمئنًّا
+        <lb/>
+
+        قليل الهمّ راضيًا بمعيشتي
+      </p>
+
+      <p n="Kings' Advisors Suffer">
+        لأنّي قد علمت أنّ صاحب السلطان يصل إليه
+        <lb/>
+
+        الخير ساعة واحدة ويصل إليه من الأذى والخوف في طول عمره
+      </p>
+
+      <p n="Peace over Wealth">
+        فإنّ قليل
+        <lb/>
+
+        القوت في أمن وطمأنينة خير من كثير في خوف ونصب
+      </p>
+
+      <p n="Lion Reassures Jackal">
+        قال له الأسد
+        <lb/>
+
+        قد سمعت مقالتك وفهمت مرادك لا تخاف شيئًا ممّا أراك تذكره فإنّه لا بدّ لي
+        <lb/>
+
+        من الاستعانة بك على كلّ حال
+      </p>
+
+      <p n="Jackal Gives Conditions for Service">
+        قال له ابن آوى أمّا إذ أبى الملك إلّا ذلك فليجعل لي
+        <lb/>
+
+        عهدًا أنّه لا يقبل عليّ كلام من يغتابني عنده من أصحابه وكلّ من نازعني في
+        <lb/>
+
+        مكاني ممّن يريد بذلك مضرّتي لا يقبل الملك منهم ممّا يقولون
+      </p>
+
+      <p n="Jackal Vows Devotion on His Terms">
+        فإن كنت أيّها الملك
+        <lb/>
+
+        لا تقبل في أمري كلام عدوّ ولا حاسد فأنا أقبل ذلك منك وأنا له كارهًا
+        <lb/>
+
+        لكنّي أفعل ذلك لرضى الملك ولطاعته
+      </p>
+
+      <p n="Lion Commits to Conditions">
+        فعند ذلك قال له الأسد عليّ ما كان بيني
+        <lb/>
+
+        وبينك وأنا موفّيك جميع ما أشرطه على نفسي
+      </p>
+
+      <p n="Jackal Excels in Position">
+        ثمّ ولّاه الأسد عمله ودفع له
+        <lb/>
+
+        مفاتيح خزائنه واختصّ له من دون أصحابه في المشورة وفي الرأي فازداد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

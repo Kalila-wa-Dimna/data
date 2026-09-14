@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="38"/>
+
+      <p n="Burzoy Studies Medicine">
+        الطبّ حتّى بلغت سبع سنين
+      </p>
+
+      <p n="Burzoy Consults His Soul About Its Ambitions">
+        فلمّا بلغت عرفت أمر الطبّ وفضله وحرصت
+        <lb/>
+
+        عليه تشكّرت لأبويّ رأيهما في ذلك ورغبت في تعليم الطبّ وزدت
+        <lb/>
+
+        حرصًا عليه حتّى إذا سدوت؟ منه علمًا وبلغت منه ما أردت أخذت نفسي في
+        <lb/>
+
+        مداواة المرض وهممت بذلك أمرت نفسي وخيّرتها في الأمور الأربعة التي
+        <lb/>
+
+        يطلبوها الناس وإليها يسعون
+      </p>
+
+      <p n="The Four Objects of Human Pursuit">
+        فقلت إنّ هذه الخلاق لمثلي في مثل علمي أن يطلب
+        <lb/>
+
+        ولها أحرى إن هو طلب أن يدرك منه حاجته المال أم اللذّات أم الصوت أم
+        <lb/>
+
+        إحراز الأجر
+      </p>
+
+      <p n="Seeks the Reward of the Hereafter">
+        فاستدللت على الاختيار من ذلك بأن وجدت الطبّ محمودًا عند
+        <lb/>
+
+        كلّ أحد من الناس والأديان والملوك ووجدت في كُتُب الطبّ أنّ أفضل الأطبّاء
+        <lb/>
+
+        من واظب على طبّه ولا يبتغي بذلك إلّا أجر الآخرة ولا ابتغى بذلك ثمنًا فرأيت
+        <lb/>
+
+        أنّي أوظب على الطبّ
+      </p>
+
+      <p n="Selling a Ruby for a Cheap Pearl">
+        فأكون كالتاجر الخاسر الذي باع ياقوتة كان مصيبًا
+        <lb/>
+
+        من ثمنها غنى دهره بخرزة لا تساوي شيئًا
+      </p>
+
+      <p n="The Profession of Medicine Benefits Both in This World and the Hereafter">
+        مع أنّني وجدت في كُتُب الطبّ أنّ الطبيب
+        <lb/>
+
+        المبتغي بطبّه أجر الآخرة لا ينقصه ذلك من حظّه في الدنيا
+      </p>
+
+      <p n="A Farmer Harvests Weeds Along with the Wheat">
+        وأنّ مثله في ذلك
+        <lb/>
+
+        مثل الزارع الذي إذا بذر في الأرض وعمّرها ابتغاء الزرع والعشب لا محالة
+        <lb/>
+
+        نابت فيها العشب
+      </p>
+
+      <p n="Burzoy Practices Medicine Without Pay or Envy of Colleagues">
+        فأقبلت على مداواة المرضى رجاء أجر الآخرة فلم أدع مريضًا
+        <lb/>
+
+        أرجو له البرء ولا أطمع له في خفّة المرض والوجع إلّا بلغت في مداواته جهدي فمن
+        <lb/>
+
+        قدرت على القيام عليه قمت عليه ومن لم
+      </p>
+
+      <p n="Working Without Expecting Reward">
+        أقدر عليه ولا على القيام له وصفت له وأمرته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

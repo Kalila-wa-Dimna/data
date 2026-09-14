@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="185"/>
+
+      <p n="King Must Know Everyone">
+        كلّ رجل منهم من الرأي والغناء وما فيه من العيوب
+      </p>
+
+      <p n="King Must Choose Suitable People">
+        فإذا استقرّ
+        <lb/>
+
+        ذلك عنده من علمه أو علم غيره وعَلم ما يستقيم به وجّه لكلّ عمل
+        <lb/>
+
+        من قد عرف أن عنده من الأمانة والنجدة والرأي ما يستقلّ
+        <lb/>
+
+        بذلك العمل وأنّ الذي فيه من العيب لا يضرّ بذلك العمل ويتحفّظ
+        <lb/>
+
+        من أن يوجّه أحدًا في وجه لا يحتاج فيه إلى مروءة وإن كانت عنده
+        <lb/>
+
+        ولا يأمن عيوبه وعاقبته إن كانت بكسرة منه
+      </p>
+
+      <p n="King Must Reward and Punish">
+        ثمّ على الملك بعد
+        <lb/>
+
+        ذلك تعاهُد عمَّاله والتفقُّد لأمورهم حتّى لا يخفى عليه إحسان محسن ولا
+        <lb/>
+
+        إساءة مسيء ولا عاجزًا على العجز والإساءة
+      </p>
+
+      <p n="Lack of Assessment Damages">
+        فإنّهم إن ضيَّعوا ذلك وتهاونوا
+        <lb/>
+
+        به تهاون المحسن واجترأ المسيء ففسد الأمر وضاع العمل
+      </p>
+
+      <p n="Philosopher Mentions Parable">
+        ومثل
+        <lb/>
+
+        ذلك مثل الأسد وابن آوى قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="Philosopher Tells of Pious Jackal">
+        قال
+        <lb/>
+
+        الفيلسوف زعموا أنّه كان بأرض كذا وكذا ابن آوى وكان
+        <lb/>
+
+        متألّهًا متعفّفًا وكان مع ذئاب وثعالب وبنات آوى ولم يكن يصنع ما
+        <lb/>
+
+        يصنعون ولا يُغير كما يُغيرون ولا يأكل لحمًا
+      </p>
+
+      <p n="Pack Denounces Jackal">
+        فخاصمته تلك
+        <lb/>
+
+        السباع وقلن له لا نرضى بسيرتك ولا برأيك الذي أنت عليه
+        <lb/>
+
+        مع أن تألّهك لا يغني عنك شيئًا وأنت لا تستطيع أن تكون كأحدنا
+        <lb/>
+
+        فتسعى معنا وتفعل فعلنا فما الذي يشبه كفَّك عن الدماء وتركك
+        <lb/>
+
+        اللحم
+      </p>
+
+      <p n="Jackal Is not Accountable for Pack's Actions">
+        قال ابن آوى إنّ صحبتي إيّاكم لا تؤثمني إن لم آثم من نفسي
+      </p>
+
+      <p n="Sins Depend only on One's Actions">
+        لأنّ الآثام ليست من قِبل الأماكن والأصحاب ولكنّها من قِبل القلوب
+        <lb/>
+
+        والأعمال
+      </p>
+
+      <p n="Sin Is Independent from Place">
+        فلو كان صاحب المكان الصالح يكون عمله فيه صالحًا وصاحب
+        <lb/>
+
+        المكان الشرّ يكون عمله فيه سيّئًا إذن كان من قتل الناسك في
+        <lb/>
+
+        محرابه لم يأثم ومن استحياه في معركة القتال آثم
+      </p>
+
+      <p n="unassigned">
+        وإنّما صحبتكم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

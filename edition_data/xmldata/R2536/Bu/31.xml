@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="31"/>
+
+      <p n="Burzoy Defines Universal Religion">
+        أنّه برّ وتتّفق عليه كلّ أهل الأديان والملل فكففت يدي عن الضرب
+        <lb/>
+
+        والسرقة والخيانة وحصّنت فرجي عن النساء وحفظت لساني عن
+        <lb/>
+
+        الكذب ومن كلّ كلام فيه ضرّ لأحد وكففت عن أذى الناس
+        <lb/>
+
+        والبهتان والغيبة والتمست من قلبي ألّا أتمنّى لأحد سوءًا ولا أكذّب
+        <lb/>
+
+        بالبعث والقيامة والعقاب وزايلت الأشرار ولحقت بالصلحاء
+      </p>
+
+      <p n="Burzoy Finds Nothing to Equate Good Works">
+        ورأيت الصلاح ليس كمثله ولا فريق ورأيت مكتسبه إذا وفّق
+        <lb/>
+
+        الله إليه خير مكتسب ووجدته خيرًا على صاحبه واثريه من
+        <lb/>
+
+        الآباء والأمّهات ورأيته لا ينقص إذا أنفق منه صاحبه بل يزداد
+        <lb/>
+
+        جدّة وحسنًا ووجدته لا خوف عليه من السلطان أن يسلبه ولا
+        <lb/>
+
+        من الماء أن يغرقه ولا من النار ولا من اللصوص ولا من السباع ولا من
+        <lb/>
+
+        الجوارح ووجدته لا يخلق من الاستعمال ولا من الابتذال ووجدت
+        <lb/>
+
+        الرجل الذي يذهب عن الصلاح وعافيته تلهيه بما هو فيه من
+        <lb/>
+
+        حلاوة يسيرة وإنّما هو فيما ينفق أيّامه عمّا ينفعه
+      </p>
+
+      <p n="Trader with Pearl and Cymbal Player">
+        كتاجر
+        <lb/>
+
+        زعموا أنّه كان له جوهر غير مثقوب فاستأجر لثقبه رجلًا بمائة
+        <lb/>
+
+        دينار كلّ يوم فانطلق به التاجر إلى منزله فلمّا دخل الرجل البيت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

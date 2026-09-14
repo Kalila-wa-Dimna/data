@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="191"/>
+
+      <p n="Mother Warns of Conspiracy">
+        قد أرموه من ذنبه باطلًا لحسدهم له وتعاونهم عليه
+      </p>
+
+      <p n="Kings Must not Delegate Their Own Duties">
+        واعلم أنّ
+        <lb/>
+
+        الملوك إذا وكّلوا إلى غيرهم ما ينبغي لهم مباشرته بنفوسهم وألزموا
+        <lb/>
+
+        نفوسهم ما ينبغي لهم تفويضه إلى الكفاة ضاعت أمورهم ودعوا إلى
+        <lb/>
+
+        الفساد أنفسهم والملوك
+      </p>
+
+      <p n="Kings Should Investigate in Various Ways">
+        يحتاجون إلى النظر في وجوه شتّى فإذا
+        <lb/>
+
+        آثروا النظر في بعض تلك الوجوه على بعض لم يأمنوا خطأ البصر وذلك
+        <lb/>
+
+        الرأي
+      </p>
+
+      <p n="Wine Is Tested with Three Senses">
+        كصاحب الخمر الذي أراد شراءها احتاج إلى اختبار لونها وطعمها
+        <lb/>
+
+        وريحها فإن هو آثر بالاختبار بعض ذلك دون بعض لم يأمن الغبن
+        <lb/>
+
+        والخسران
+      </p>
+
+      <p n="Imaginary Hair in Eye Taken for Real">
+        وكالرجل الذي يرى بين عينيه شعر وليس بشعر فلا
+        <lb/>
+
+        يتثبّت في القضاء أنّه ليس بشعر من المرض ويعلم أنّه لو كان شعرًا
+        <lb/>
+
+        أبصره غيره كما أبصره هو لتحيّره ومرضه
+      </p>
+
+      <p n="Firefly Is Mistaken for Fire">
+        وكاليراعة
+        <lb/>
+
+        يراها الجاهل في ظلمة الليل فيقضي عليها بالمعاينة قبل أن يلتمسها
+        <lb/>
+
+        أنّها نارًا فإذا التمسها تبيّن له خطأ قضائه
+      </p>
+
+      <p n="King Should Have Investigated">
+        وقد كنت حقيقًا أن
+        <lb/>
+
+        تنظر في خطأ ابن آوى نظرًا متثبّتًا
+      </p>
+
+      <p n="Jackal Eats no Meat">
+        فتعلم أنّه إذ لم يأكل اللحم
+        <lb/>
+
+        الذي كنت ربّما أمرت له بالكثير منه
+      </p>
+
+      <p n="Jackal Gave Back Meat">
+        فكان يجعله في طعامك
+        <lb/>
+
+        وطعام جندك
+      </p>
+
+      <p n="Jackal Is Unlikely to Steal Meat">
+        أنّه ليس بخليق لسرقة قليل من اللحم أمرته بالاحتفاظ
+        <lb/>
+
+        به
+      </p>
+
+      <p n="King Must Investigate Now">
+        فافحص عن أمره
+      </p>
+
+      <p n="The Inferior always Envy the Superior">
+        فإنّه لم يزل ذلك عادة الأرذال والأنذال
+        <lb/>
+
+        حسد أهل المروءة والفضل واستثقالهم ولم يزل جهّال الناس
+        <lb/>
+
+        يحسدون علماءهم ولئامهم يحسدون كرامهم وشرارهم يحسدون
+        <lb/>
+
+        خيارهم
+      </p>
+
+      <p n="Jackal's Superiority Causes Envy">
+        ولابن آوى مروءة وفضل
+      </p>
+
+      <p n="Jackal's Foes Perhaps Hid Meat">
+        فعسى أعداؤه من أصحابك
+        <lb/>
+
+        لطفوا لموضع ذلك اللحم فجعلوه في منزله من غير علم منه
+      </p>
+
+      <p n="Kite's Booty Attracts Competitors">
+        فإنّ الحدأة
+        <lb/>
+
+        إذا أصابت البضعة من اللحم نافسها فيها كثير من الطير
+      </p>
+
+      <p n="Dog's Bone Attracts Competitors">
+        والكلب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

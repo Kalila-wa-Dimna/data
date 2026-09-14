@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="64"/>
+
+      <p n="Lion's Positive Impression of Dimna">
+        وظنّ أنّ عنده نصيحة ورأيًا
+      </p>
+
+      <p n="A Noble Man May Be Obscure">
+        فأقبل على قرابته فقال لهم إنّ الرجل ذو العلم والمروءة
+        <lb/>
+
+        ليكون خامل الأمر خافض المنزلة يُعرف
+      </p>
+
+      <p n="Analogy of a Flame's Inevitable Rise">
+        كالشعلة من النار التي يضوء لصاحبها
+        <lb/>
+
+        وتأبى إلّا ارتفاعًا
+      </p>
+
+      <p n="Dimna Seizing the Opportunity to Impress">
+        فلمّا عرف دمنة أنّ الأسد قد أعجب به قال إنّ رعيّة الملك
+        <lb/>
+
+        ومن يحضر بابه جدراء بأن يعرّفون للملك ما عندهم من علم أو مروءة ويبذلون
+        <lb/>
+
+        له الرأي والنصيحة فإنّ الملك لا يعرفهم ولا ينزلهم منازلهم إلّا بذلك
+      </p>
+
+      <p n="Analogy of Hidden Crop's True Value">
+        كالزرع
+        <lb/>
+
+        المدفون في الأرض من الحنطة والشعير وسائر الأنواع فلا يستطيع أحد
+        <lb/>
+
+        أن يعرفه وينزله منزلته حتّى يكون هو الذي يظهر ويخرج
+      </p>
+
+      <p n="Duty of Courtiers to Share Their Knowledge">
+        وحقّ من حضر الباب أن
+        <lb/>
+
+        يطلعه على ما عنده من المنفعة والأدب
+      </p>
+
+      <p n="Ruler's Responsibility to Recognize Merit">
+        ويحقّ على السلطان أن يبلغ بكلّ امرئ
+        <lb/>
+
+        مرتبته على قدر رأيه ونصيحته وما يوجد عنده من المنفعة والدين
+      </p>
+
+      <p n="Leaders Must Place Things Properly">
+        فإنّه
+        <lb/>
+
+        كان يُقال في أمرين ليس لأحد وإن كان ملكًا أن يضع شيئًا منها على غير موضعه
+        <lb/>
+
+        ولا أن يزيله عن منزلته أحدهما حلية الرِجل والآخر حلية الرأس
+      </p>
+
+      <p n="Analogy of Misplaced Ornaments">
+        فإنّه يُعدّ
+        <lb/>
+
+        جاهلًا من عقد على رأسه حلية الرجلين وحلى رجليه بحلية الرأس
+      </p>
+
+      <p n="Analogy of Comparing Precious Stones to Lead">
+        ومن يصيب
+        <lb/>
+
+        الياقوت واللؤلؤ بالرصاص فليس ذلك ينقص الياقوت واللؤلؤ ولكنّه جهل
+        <lb/>
+
+        ممّن فعل
+      </p>
+
+      <p n="Advice against Associating with the Ignorant">
+        وكذلك كان يُقال لا يصاحَب الرجل صاحبًا إلّا ليمينه وشماله
+      </p>
+
+      <p n="Importance of Associating with the Wise">
+        وإنّما
+        <lb/>
+
+        يستخرج ما عند الرجال ولاتهم وما عند الجنود قادتهم
+      </p>
+
+      <p n="Three Things with Varying Degrees of Excellence">
+        وقد قيل في
+        <lb/>
+
+        أشياء ثلاثة فضل ما بينهم متفاوت فضل المقاتل على المقاتل وفضل الفيل على
+        <lb/>
+
+        الفيل والعالم على العالم
+      </p>
+
+      <p n="Value of Quality over Quantity in Allies">
+        وكثرة الأعوان إذا لم يكونوا متخمّرين مضرّة بالعمل فإنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

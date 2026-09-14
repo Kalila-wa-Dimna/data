@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="287"/>
+
+      <p n="unassigned">
+        فأسعد الخلائق من قدّر الله له بالخير وأشقاهم من قدّر الله له
+        <lb/>
+
+        خلاف الخير انتهى الباب بحمد الله تعالى
+        <lb/>
+
+        باب العلجوم والمرزم
+        <lb/>
+
+        قال الملك للفيلسوف قد سمعت هذا المثل
+        <lb/>
+
+        فاضرب لي مثل الشريكين المتفاوضين إذا كان أحدهما غاشًّا لصاحبه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ks</chapter>
+    <chapter>Kw</chapter>
+  </chapter>
+</TEI>

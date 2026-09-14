@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="42"/>
+
+      <p n="Deceived Credulous Burglar">
+        بصوت يسمعه من فوق البيت ثمّ قولي يا صاحب البيت ألا تخبرني عن أموالك
+        <lb/>
+
+        هذه الكثيرة من أين جمعتها فإذا أبيت عليك فلحّي عليّ بالسؤال
+      </p>
+
+      <p n="Wife Asks About Wealth">
+        ففعلت المرأة ذلك
+      </p>
+
+      <p n="Deceived Credulous Burglar">
+        وسألته كما أمرها واستمع اللصوص فقال الرجل أيّتها المرأة قد ساقك القدر
+        <lb/>
+
+        إلى رزقك فكلي واشربي ولا تسألي عمّا لو أخبرتك به لم
+      </p>
+
+      <p n="Wife Asks About Wealth">
+        آمن أن يسمع سامع فيكون
+        <lb/>
+
+        في ذلك ما أكره وتكرهين فقالت المرأة أخبرني أيّها الرجل فلعمري لم يكن قريبًا أحد
+        <lb/>
+
+        يسمع كلامنا فقال الرجل إنّي مخبرك إنّي لم أجمع هذه الأموال والكنوز إلّا من
+        <lb/>
+
+        السرقة فقالت المرأة فكيف جمعت هذه الأموال والكنوز من السرقة وأنت في
+        <lb/>
+
+        أعين الناس عدل مرضيّ أمين لم يتّهمك أحد ولم يريّب بك فقال ذلك لعلم أصبته في
+        <lb/>
+
+        السرقة فكان الأمر أيسر وأرفق من أن يتّهمني أحد أو يريّب بي فقالت وكيف كان ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

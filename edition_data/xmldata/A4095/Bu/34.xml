@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="34"/>
+
+      <p n="Burzoy Explains the Allegory">
+        وشبّهت الحيّات الأربع بالأخلاط الأربع التي تعمّدت الإنسان
+        <lb/>
+
+        ومتى يهيج منها شيء فهو كالحمّة من الأفعى والسمّ المميت وشبّهت
+        <lb/>
+
+        الغصنين الحياة وشبّهت الجرذين بالليل والنهار وقرضهما
+        <lb/>
+
+        ؟دايهما في إنفاد الآجال التي هي حصون الحياة وشبّهت التنّين
+        <lb/>
+
+        بالموت الذي لا بدّ منه والعسل هذه الحلاوة القليلة التي يصيبها
+        <lb/>
+
+        الإنسان فيشغله عن نفسه وتلهيه عن التحيّل بخلاصه وتصدّه
+        <lb/>
+
+        عن سبيل نجاته
+      </p>
+
+      <p n="Burzoy‘s Contentment and Hope for Future Guidance">
+        فصار أمري إلى الرضى بحالي وإصلاح ما
+        <lb/>
+
+        استطعت من عملي لمعادي لعلّي أصادف في أمامي زمانًا فيه دليل
+        <lb/>
+
+        على هداي وسلطان على نفسي وأعوان على أمري فأقمت على ما وصفت
+        <lb/>
+
+        من حالي وانصرفت
+      </p>
+
+      <p n="Burzoy Returns from India with Books inc. KD">
+        من أرض الهند إلى بلادي وانتسخت من
+        <lb/>
+
+        كتبهم كتبًا كثيرة منها هذا الكتاب
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

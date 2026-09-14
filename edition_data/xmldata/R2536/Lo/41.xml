@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="41"/>
+
+      <p n="Analogy of Rapidly Depleting Kohl">
+        ذلك سريع نفاذه
+      </p>
+
+      <p n="Consequences of Miserliness and Mismanagement">
+        وإن هو اكتسب وأصلح ثمّ أمسك عن وضعه في
+        <lb/>
+
+        أثوابه كان ممّن يُعدّ فقيرًا لا مال له ولم يمنع ذلك ماله من أن يسافر
+        <lb/>
+
+        به ويذهب حيث لا يريد فلا يدرك منه شيئًا
+      </p>
+
+      <p n="Analogy of Overflowing Water Reservoir">
+        كسجر الماء الذي لا
+        <lb/>
+
+        تزال المياه تصبّ فيه فإن هي لم تجد مخرجًا تفيض منه بقدر
+        <lb/>
+
+        الذي ينبغي لها تجلّبت ومالت من نواحٍ كثيرة وربّما انبثق البثق فيذهب
+        <lb/>
+
+        الماء ضياعًا
+      </p>
+
+      <p n="Sons' Acceptance of Father's Advice">
+        ثمّ إنّ بني التاجر اتّعظوا وأخذوا بقول أبيهم
+      </p>
+
+      <p n="Eldest Son's Journey and Ox Cart Incident">
+        فانطلق
+        <lb/>
+
+        أحدهم متوجّها بتجارة إلى أرض يقال لها ميور فأتى في طريقه على
+        <lb/>
+
+        مكان شديد الوجل ومعه عجلة يجرّها ثوران يقال لأحدهما شتربة
+        <lb/>
+
+        والآخر بندبة
+      </p>
+
+      <p n="Ox Getting Stuck in Mud">
+        فوحل شتربة في ذلك المكان فاستخرجه الرجل وأعوانه
+        <lb/>
+
+        بعد أن بالغه الجهد وأشرف على الهلاك
+      </p>
+
+      <p n="Merchant Leaving a Man to Care for the Ox">
+        ثمّ خلّف عنده رجلًا وأمره
+        <lb/>
+
+        بالقيام عليه فإن رآه قد صلح أتبعه به
+      </p>
+
+      <p n="Description of the Caretaker's Actions">
+        فلمّا كان من الغد برم الرجل
+        <lb/>
+
+        بمكانه فترك الثور على حاله ولحق الرجل فأخبره أنّ الثور قد مات
+      </p>
+
+      <p n="Ox's Journey to a Lush Meadow">
+        ثمّ إنّ شتربة
+        <lb/>
+
+        انبعث من مكانه ذلك حتّى أتى مرجًا خصيبًا
+      </p>
+
+      <p n="Ox's Encounter with Inevitable Fate">
+        لما قضى أن يصيبه في ذلك
+        <lb/>
+
+        المكان من الأمد الذي لم ىد يكن القدر ليخطئه
+      </p>
+
+      <p n="First Subtable of Man and Wolf (Second Beginning)">
+        فإنّهم يزعمون
+        <lb/>
+
+        أنّ رجلًا كان يحرز حشيشًا فقصد إليه ذئب فلم يفطن الرجل حتّى دنا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

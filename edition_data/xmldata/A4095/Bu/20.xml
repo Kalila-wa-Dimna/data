@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="20"/>
+
+      <p n="Buzurgmihrs Zeal For Task">
+        وإكرامه إيّاه
+      </p>
+
+      <p n="Contents Of Bu Chapter">
+        وأطنب في ذلك الباب واجتهد في إتقانه
+        <lb/>
+
+        وترصيفه ونسبته إليه وذكر تنقّله من حال إلى حال وبحثه
+        <lb/>
+
+        عن الأديان والتماسه طلب الحكمة
+      </p>
+
+      <p n="Chapter Read Publicly">
+        ثمّ استأذن على المَلك
+        <lb/>
+
+        فقرأه بين يديه
+      </p>
+
+      <p n="Bu Chapter Well Received">
+        فتعجّب كسرى ومن بحضرته منه
+      </p>
+
+      <p n="Reader To Know Books Import">
+        فمن قرأ هذا
+        <lb/>
+
+        الكتاب فليعرف السبب الذي وضع عليه كتاب كليلة ودمنة
+        <lb/>
+
+        وحوّل من أرض الهند إلى أرض فارس وليعرف فضل الملوك
+        <lb/>
+
+        وطاعتهم ويؤثرها على سائر الأعمال وليعلم أنّ الشريف من شرّفته
+        <lb/>
+
+        الملوك ورفعته في دولتها
+      </p>
+
+      <p n="End Of Chapter">
+        انقضى الباب
+        <lb/>
+
+        باب برزويه
+        <lb/>
+
+        الطبيب من كلام بزرجمهر بن التحتكان
+      </p>
+
+      <p n="Burzurgmihr's Introduction">
+        قال بزرجمهر إنّ برزويه رأس أطبّاء فارس وهو الذي ولي
+        <lb/>
+
+        بانتساخ هذا الكتاب وترجمه من كُتُب الهند
+      </p>
+
+      <p n="Burzoy's Parents">
+        قال إنّ أبي
+        <lb/>
+
+        كان من المقاتلة وكانت أمّي من بنات عظماء الزمازمة وفقهائهم
+        <lb/>
+
+        في دينهم
+      </p>
+
+      <p n="Burzoy Studies Medicine">
+        وكان ممّا ابتدأني به ربّي من نعمة أنّي كنت من أكرم ولد أبويّ
+        <lb/>
+
+        عليهما وأنّهما أسلماني في تعليم الطبّ لمّا صار لي من عمري سبع
+        <lb/>
+
+        سنين
+      </p>
+
+      <p n="Burzoy Consults His Soul About Its Ambitions">
+        فلمّا بلغت وعرفت أمر الطبّ وفضله شكرت رأيهما
+        <lb/>
+
+        في ذلك ورغبت في تعليمه حتّى إذا سددت منه علمًا وبلغت
+        <lb/>
+
+        فيه ما ائمنت له نفسي على مداواة المرضى وهممت بذلك أمرت
+        <lb/>
+
+        نفسي وذكّرتها وخيّرتها بين الأمور الأربعة التي هي إيّاها
+        <lb/>
+
+        يطلب الناس ولها يتّبعون وإليها يجدّون
+      </p>
+
+      <p n="The Four Objects of Human Pursuit">
+        فقلت أيّ هذه الحلال
+        <lb/>
+
+        ينبغي لمثلي أن يلتمس وأيّها أحرى إن هو بغاه أن يدرك منه حاجته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

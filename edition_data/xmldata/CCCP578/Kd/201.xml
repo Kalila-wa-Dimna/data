@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="201"/>
+
+      <p n="unassigned">
+        لاحقًا بالتودّد والتأنّي وترك العجلة لما في ذلك من الوجع والزمع وفي خلافه
+        <lb/>
+
+        فليعلم الملك ذلك ويحفظه وليأخذ بنصيبه من العمل بالتوفيق فيه والاقتصار
+        <lb/>
+
+        على أمر الحكماء
+      </p>
+
+      <p n="Chapter Title">
+        باب بلاد وابلاد
+      </p>
+
+      <p n="King Understood Previous Chapter">
+        ثمّ قال الملك للفيلسوف قد فهمت ما ذكرت من أمر العجل غير المتئد
+        <lb/>
+
+        والنظر في العواقب
+      </p>
+
+      <p n="King Asks How To Preserve Rule">
+        فأخبرني ما الذي إذا فعله الملك كرُم على رعيّته وثبّت ملكه
+        <lb/>
+
+        وحفظه أرضه الحلم أم المروءة أم الحركة أم الجود
+      </p>
+
+      <p n="Philosopher Prioritizes Ḥilm">
+        قال الفيلسوف إنّ أفضل ما
+        <lb/>
+
+        هو متدرّك به ذلك للعلم والعقل فإنّهما رأس الأمر وملكه
+      </p>
+
+      <p n="Philosopher Adds Consultation">
+        مع مشاورة الوزير
+        <lb/>
+
+        اللبيب الرفيق العالم وأنفع ما استنفع به الناس الحلم للملك خاصّة
+      </p>
+
+      <p n="Philosopher Adds Good Wife">
+        فإنّه لا شيء
+        <lb/>
+
+        أهون منه ومن صلاح المرء في معيشته المرأة الصالحة الفاضلة الرأي الموافقة
+      </p>
+
+      <p n="Without Advice One Fails">
+        فإنّ الرجل وإن كان شجاعًا جوادًا ولم يكن حليمًا عاقلًا ومشاورته لغير لبيب فإنّه يبهظه
+        <lb/>
+
+        الأمر اليسير حتّى يرى فيه الضعف والقبح بجهالته وخطل رأيه ورأي نصحه
+        <lb/>
+
+        وإن أصاب ظفرًا ولقي رشدًا فإنّ القدر ساقه إليه صار عاقبته إلى الندامة
+      </p>
+
+      <p n="Fortunate King">
+        وإذا كان على خلاف ذلك من العقل ومن نبل الوزير ومراعاته القضاء أصابه القبح
+        <lb/>
+
+        على من ناصبه والغلبة لمن ناواه والسرور بما أحزنه
+      </p>
+
+      <p n="King And Vizier Tale Mention">
+        كما زُعم لنا ممّن كان بين
+        <lb/>
+
+        سادروم ملك الروم وبين إبلاد امرأته وبلاد صاحب سرّه ورأيه
+      </p>
+
+      <p n="King Requests Story">
+        فقال الملك
+        <lb/>
+
+        وكيف كان ذلك
+      </p>
+
+      <p n="Pious Vizier">
+        قال الفيلسوف أيّها الملك ذُكر لنا أنّ بلادًا كان ناسكًا مجتهدًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Aw</chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

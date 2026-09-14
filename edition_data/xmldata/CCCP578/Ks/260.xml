@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="260"/>
+
+      <p n="unassigned">
+        أعلى قصرها فأعجبها حسنه وجماله فهوته وحبّته ووقع في قلبها موقعًا كبيرًا
+        <lb/>
+
+        فأرسلت إليه خادمًا بمال وثياب حسنة فلبسها وظلّ معها يومه كلّه في سرور
+        <lb/>
+
+        ونعمة وكرامة فلمّا كان عند المساء دفعت له خمسمائة دينار فعاد إلى أصحابه
+        <lb/>
+
+        فرحًا مسرورًا وعاد إليهم بكلّ خير ورزق وكرامة ثمّ كتب على باب المدينة جمال
+        <lb/>
+
+        وكتب على باب المدينة اجتهاد يوم واحد يقوم بأربعة نفر ثمّ اشترى طعامًا
+        <lb/>
+
+        وأتى به قالوا لابن الشريف اذهب فاكتسب لنا بجمالك ما يقوم بنا يومنا
+        <lb/>
+
+        هذا قال فانطلق وتفكّر في نفسه وقال لست أحسن شيئًا من الأعمال
+        <lb/>
+
+        وأستحي أن أرجع لأصحابي بلا شيء وبقي متحيّرًا في أمره وهمّ أن يفارقهم وينصرف
+        <lb/>
+
+        عنهم فأسند ظهره إلى شجرة من شدّة حزنه وهمّه قال فنظرت إليه امرأة من
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ks</chapter>
+  </chapter>
+</TEI>

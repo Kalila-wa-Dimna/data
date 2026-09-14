@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="229"/>
+
+      <p n="Foes Surround the Rat">
+        عليه ابن عرس وإن هو تقدّم أن يأخذه السنّور
+      </p>
+
+      <p n="The Rat Weighs His Predicament">
+        فقال هذه بلايا اكتنفتني وشرور
+      </p>
+
+      <p n="unassigned">
+        سنّور يُسمّى رومي
+      </p>
+
+      <p n="The Cat Is Caught">
+        وكانوا قُنّاص تلك البلد كلّ يوم يلتمسوا الأوديّة والمواضع
+        <lb/>
+
+        ليلتقوا لهم صيدًا لينتفعوا به فلمّا كان بعض الأيّام مرّوا بتلك الشجرة فوجدوا
+        <lb/>
+
+        الطير والوحش يأوي إليها فصاروا يلتزمون ذلك المكان في كلّ وقت وكلّ ما
+        <lb/>
+
+        قال فلمّا كان بعض الأيّام جاء رجل منهم فنصب حباله فوقع فيها ذلك
+        <lb/>
+
+        السنّور الذي اسمه رومي قال وكان لمّا وقع السنّور في الحبائل
+      </p>
+
+      <p n="The Rat Seeks Food">
+        خرج الجرذ
+        <lb/>
+
+        يلتمس له شيئًا يقتات به وصار الجرد لمّا رأى السنّور في الحبائل خائفًا على
+        <lb/>
+
+        نفسه وهو يلتفت يمينًا وشمالًا ثمّ نظر السنّور في الحبائل ففرح فرحًا
+        <lb/>
+
+        شديدًا كأنّه قد وقع بفرصة
+      </p>
+
+      <p n="Foes Surround the Rat">
+        فبينما هو فرحان إذ نظر إلى خلفه فإذا هو بابن عرس
+        <lb/>
+
+        ثمّ رفع طرفه نحو الشجرة فإذا هو ببومة على الشجرة فخاف على نفسه إن هو انصرف وثب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

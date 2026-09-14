@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="7"/>
+
+      <p n="unassigned">
+        said: the swiftest punishment is that of betrayal and perjury
+        <lb/>
+
+        and of him whom the distraught pleads with or the offender asks to forgive and forget but who
+        <lb/>
+
+        neither pardons nor forgives, though he is able to do so. He fails to observe
+        <lb/>
+
+        the conduct of the righteous who does not do their deeds.
+      </p>
+
+      <p n="The Rat Must Fulfill the Pact">
+        As I did make haste
+        <lb/>
+
+        to deliver and help you, you, too, should be assiduous in delivering me from
+        <lb/>
+
+        these bonds.’”
+      </p>
+
+      <p n="The Two Kinds of Friends">
+        “The rat said: ‘A Friend can be one of two kinds: either complaisant
+        <lb/>
+
+        or compelled, yet both seek benefits and are wary of harm. One should
+        <lb/>
+
+        be open toward the complaisant and trust him whatever the situation; as
+      </p>
+
+      <p n="Forced Friendship Does Not Last">
+        for the compelled,
+        <lb/>
+
+        there are two situations in which you can be open toward him and others in which you remain cautious of him.
+      </p>
+
+      <p n="Friendship Is Pursued For a Need">
+        And
+      </p>
+
+      <p n="The Intelligent Trades Favors">
+        so[, in these situations, the sensible man
+        <lb/>
+
+        always holds back a need of the other for some danger that remains and which he fears; and
+      </p>
+
+      <p n="Friendship Is Pursued For a Need">
+        on the whole, connections
+        <lb/>
+
+        and mutual love among people only exist to seek an immediate or anticipated benefit.
+      </p>
+
+      <p n="The Rat Explains the Reasons for Self-Protection">
+        I will
+        <lb/>
+
+        fulfill what I have said but am wary, despite that, not to be afflicted with the very thing
+        <lb/>
+
+        which had made me seek a truce with you and made you accept that from me;
+      </p>
+
+      <p n="Everything Has Its Time">
+        for each action has
+        <lb/>
+
+        a set time,
+      </p>
+
+      <p n="Bad Timing Brings Failure">
+        and whatever is not carried out in its proper time, will have no outcome.
+      </p>
+
+      <p n="The Rat Explains Not Cutting the Last Rope">
+        I will cut all of your bonds
+        <lb/>
+
+        but will leave one knot to guarantee my safety from you and won't cut it until the time
+        <lb/>
+
+        when I know your attention to be distracted from me and that you cannot reach me when you become freed from the bonds.’”
+      </p>
+
+      <p n="The Rat Cuts All but One Rope">
+        “He did so,
+      </p>
+
+      <p n="The Huntsman Approaches">
+        and when morning came, they suddenly saw the huntsman approaching from afar.
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

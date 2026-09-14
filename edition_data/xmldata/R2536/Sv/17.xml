@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="17"/>
+
+      <p n="unassigned">
+        فارتاب برزويه بكتبه وكبر عليه أن يرجع خائبًا مخطئًا فشكا
+        <lb/>
+
+        ذلك إلى أطبّاء الملوك بأرض الهند فأخبروه أنّ الذي وجد
+        <lb/>
+
+        في كتبه قد وجدوا مثلها وأنّهم عنوا بذلك وطلبوه زمانًا
+        <lb/>
+
+        من دهرهم حتّى وجدوا تأويله في خاصّة كُتُب حكمتهم أن تلك
+        <lb/>
+
+        الجبال هم الحكماء وتلك الأشجار هي الحكمة والعلم الذي صيَّره
+        <lb/>
+
+        الله تعالى في قلوبهم وأنّ الدواء الذي وُصف هي الكتب التي
+        <lb/>
+
+        فيها المواعظ والعلم وأنّ الموتى الذين يُحيون بتلك الأدوية
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Sv</chapter>
+  </chapter>
+</TEI>

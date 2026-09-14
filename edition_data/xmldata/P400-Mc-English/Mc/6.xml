@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="6"/>
+
+      <p n="unassigned">
+        ‘I will cut your bonds but will leave one cord, which I will take as a security, for you to cut yourself, so that you
+        <lb/>
+
+        could not catch me-then you will be saved from your bonds.’
+      </p>
+
+      <p n="The Huntsman Approaches">
+        “When morning came, the huntsman arrived at
+        <lb/>
+
+        the place and
+      </p>
+
+      <p n="The Cat Expects to Die">
+        set his eyes on the
+      </p>
+
+      <p n="The Cat Breaks from the Last Rope">
+        cat. The cat looked at the rat, having had left
+        <lb/>
+
+        the one cord uncut; he pulled at the net, not expecting the cord to be cut, but it did,
+      </p>
+
+      <p n="The Cat and the Rat Escape">
+        and both survived The cat climbed up the tree, the rat went into the den,
+        <lb/>
+
+        and the huntsman left the place. “Later,
+      </p>
+
+      <p n="The Cat Calls Back the Rat">
+        the rat wanted to come out of the burrow, but he saw
+        <lb/>
+
+        the cat and did not come close to him. ‘Why don’t you approach me, O gracious
+      </p>
+
+      <p n="The Cat Reminds the Rat of their Friendship">
+        friend,’ cried the cat.
+      </p>
+
+      <p n="The Cat Suggests a Reward">
+        ‘I would love to reward you for your beneficence and let you taste the fruits of your deed.
+      </p>
+
+      <p n="The Cat Reassures the Rat">
+        Approach me and fear not: you are dearer to me than myself,’ and he swore he did not want to do him harm.
+        <lb/>
+
+        ”
+      </p>
+
+      <p n="The Treatment of Friends or Foes">
+        ‘He who fails to appease friends and enemies,’ said the rat, ‘harms and ruins himself.
+      </p>
+
+      <p n="One Should Not Befriend an Enemy Indefinitely">
+        Enmity and friendship are of such a nature that the wise man acts
+        <lb/>
+
+        according to their nature . . . should not fraternize with someone unto whom he was an enemy,
+        <lb/>
+
+        except in the case of necessity.
+      </p>
+
+      <p n="Young Cattle Only Nurse for a While">
+        The offspring of animals follow their mothers during nursing time and,
+        <lb/>
+
+        when they do without being nursed, part from
+      </p>
+
+      <p n="Enmity Turns into Friendship in Times of Need">
+        them. If a man turns from
+        <lb/>
+
+        enmity to friendship for profit, his friendship ends when that profit ends,
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

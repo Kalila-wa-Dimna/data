@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="129"/>
+
+      <p n="Mother Alerts Lion of His Own Benefit and Motivates Her Harsh Words">
+        الفاجر المحتال فاسترح منه فإنّك إن استبقيته أفسد عليك جندك
+        <lb/>
+
+        وفرّق ملأهم وانصرفت من غضبي عليه
+      </p>
+
+      <p n="Ruzbeh Reports Mother's Words to Dimna">
+        ثمّ أنّ روزبه أتى دمنه فأخبره بذلك
+      </p>
+
+      <p n="Men Take Dimna Before Court">
+        فبينما هو في حديثه إذ أتته رسل القاضي والمؤدّب فانطلق إليهما
+      </p>
+
+      <p n="Head of Court Deems Extant Facts Sufficient">
+        فقال
+        <lb/>
+
+        عظيم الجند قد علمت أمرك وقد تيقّنته وأتاني من هو عندي أمين ينبغي لى
+        <lb/>
+
+        أن لا أسأل عن شئ و لا أنظر فيه إلّا ما قد فحصت عنه
+      </p>
+
+      <p n="King's Mercy Permitted Investigation Despite Convincing Testimony">
+        ولولا ما قد أمرك به
+        <lb/>
+
+        الملك لرأفته بالرعيّة ورحمته أيّاهم لكان القضاء فيما بيننا عليك
+      </p>
+
+      <p n="Dimna Accuses Head of Court of Ignoring Facts">
+        قال
+        <lb/>
+
+        دمنة أن منطقك ليس بذي رأفة ولا رحمة ولا نظر في أمر مظلوم ولا طالب
+        <lb/>
+
+        للحقّ والعدل
+      </p>
+
+      <p n="After Three Days Dimna's Guilt Is Unproven">
+        ولكنّي أراك راكبًا لهواك تريد قتلي ولم تستبن لك شئ
+      </p>
+
+      <p n="Vile People Dislike Good People">
+        ولست
+        <lb/>
+
+        بملوم في ذلك عندي لأنّ الفاجر لا يحبّ أهل الصلاح ولا من يعمل عمل أهل
+        <lb/>
+
+        التقى
+      </p>
+
+      <p n="A Judge Has the Authority to Punish and Reward">
+        فقال له القاضي إنّ حقًّا على الوالي أن يجازي المرء بصلاحه ويعرفه له
+        <lb/>
+
+        ويكرمه لأنّه أهل كلّ خير وإن يتكلّم ؟با على أهل الإسلام ويعاقب عليها
+        <lb/>
+
+        ليزداد أهل الخير في الصلاح رغبة وحرصًا
+      </p>
+
+      <p n="Punishment In Here Is Better Than In Hereafter">
+        ولعمري لأن تعاقَب في الدنيا
+        <lb/>
+
+        يجزيك خير من أنّ تعذَّب في الآخرة بذنبك
+      </p>
+
+      <p n="Judge Enjoins Dimna to Confess">
+        واقررْ بلسانك واعترفْ ما
+        <lb/>
+
+        كان صنعك
+      </p>
+
+      <p n="Confessing Crime Has Good Consequences">
+        فإنّه أفضل لك في عواقب أمورك
+      </p>
+
+      <p n="Dimna Agrees with Judge's Rationale">
+        فقال دمنة أيّها القاضي
+        <lb/>
+
+        نطقت بالعدل وقلت مقالة الحكماء
+      </p>
+
+      <p n="One Must Not Sacrifice Hereafter for Here">
+        ولعمري إنّ من سعادة المرء أن لا
+        <lb/>
+
+        يبيع آخرته بدنياه ولا يشتري روحًا يسيرًا بعذاب طويل
+      </p>
+
+      <p n="Dimna, Being Innocent, Cannot Confess What He Did Not Do">
+        ولكنّي ممّا فرّقت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

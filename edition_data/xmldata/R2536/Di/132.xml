@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="132"/>
+
+      <p n="Dimna Reviles Courtier">
+        وأنت أيضًا وشأنك أعجب العجب إذ علمت يقذر جسدك وما فيه من القبح
+        <lb/>
+
+        والشيّن واللّوم والنتن ثمّ تجترئ على أن تقوم بين يدي الملك الصحيح الجسم
+        <lb/>
+
+        النقيّ من العيوب وعلى طعامه
+      </p>
+
+      <p n="Dimna Protected Courtier's Secrets">
+        وقد علم عيوبك التي قد سترتها وكتمتها
+        <lb/>
+
+        أيضًا من الجند وإنّما كتمت ذلك إلى اليوم ولم أُبدِه لأنّي كنت أقول في نفسي
+        <lb/>
+
+        إنّه لا تضرّ في كرامة سيّدي إيّاه وليست في فضيحته منفعة فأنا حقيق أن
+        <lb/>
+
+        أغطّى عليه وكان لك أخ كنت أحفظك له
+      </p>
+
+      <p n="Dimna Now Repays Courtier's Hostility">
+        فأمّا إذا ظهرت لي منك العداوّة
+        <lb/>
+
+        ونطقت بالبرهان بالبهتان وتكلّمت بالزور والظلم على غير ذنب تقدّم منّي
+      </p>
+
+      <p n="Dimna Says Courtier Deserves Not Even the Lowest Profession">
+        فإنّه
+        <lb/>
+
+        لا ينبغي أن تكون للملك دبّاغًا ولاحجّامًا فكيف على طعام الملك
+      </p>
+
+      <p n="Courtier Is Outraged">
+        فقال
+        <lb/>
+
+        رئيس الخنازير إلىّ يقول ما أسمع
+      </p>
+
+      <p n="Dimna Calls Courtier Filthy and Leprous and">
+        فقال دمنة نعم حقًّا لك أقول فإنّك
+        <lb/>
+
+        جمعت الخصال إنّك ريحتك النهار كلّه أقرع أبرص الفخذين فلا ينبغي لك
+        <lb/>
+
+        أن تدنوا من باب الملك أبدًا
+      </p>
+
+      <p n="Courtier Is Reduced to Tears">
+        فلمّا سمع رئيس الخنازير ما رماه به دمنة
+        <lb/>
+
+        خنقته العبرة فبكي وتبادرت دموعه لجرأة دمنة عليه وإغلاظه
+        <lb/>
+
+        له
+      </p>
+
+      <p n="Dimna Calls Courtier Unfit for Court">
+        فلمّا رأي دمنة ذلك قال إنّه ينبغي أن تبكي وتجتهد في البكاء
+        <lb/>
+
+        فإنّ الملك لو قد اطّلع على أمرك وعلم كثرة عيوبك كان قد أقصاك
+        <lb/>
+
+        وأبعدك
+      </p>
+
+      <p n="Lion Is Informed by Court Secretary and Ousts Courtier">
+        فلمّا سمع ذلك أمين الأسد الذي أمره بنسخ ما يقول دمنة وكان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

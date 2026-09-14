@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="20"/>
+
+      <p n="unassigned">
+        أم أجر الآخرة واستدللت على الخيار في ذلك فإنّي وجدت
+        <lb/>
+
+        الطبّ محمودًا عند العقلاء
+      </p>
+
+      <p n="The Virtue of Practising Medicine">
+        ولم أجده مذمومًا عند أحد من أهل
+        <lb/>
+
+        الأديان والملل وجدت في كُتُب الطبّ من واظب على طبّه ولم
+        <lb/>
+
+        يبتغ بذلك إلّا أجر الآخرة وأن لا يبتغي بذلك ثمنًا
+      </p>
+
+      <p n="Selling a Ruby for a Cheap Pearl">
+        فيكون كالتاجر
+        <lb/>
+
+        الخاسر الذي باع ياقوتة كان مصيبًا فيها غنى دهره بخرزة لا
+        <lb/>
+
+        تساوي شيئًا
+      </p>
+
+      <p n="The Profession of Medicine Benefits Both in This World and the Hereafter">
+        مع أنّي وجدت في كُتُب الطبّ أنّ الطبيب الذي
+        <lb/>
+
+        يبتغي بطبّه أجر الآخرة لا ينقصه ذلك من حظّه في الدنيا
+      </p>
+
+      <p n="A Farmer Harvests Weeds Along with the Wheat">
+        وأنّ
+        <lb/>
+
+        مثله في ذلك مثل كمثل الزارع الذي أنّما ينثر البذر في الأرض
+        <lb/>
+
+        ابتغاء الزرع لا ابتغاء العشب ثمّ هي لا محالة ثابتة فيها فأقبلت على
+      </p>
+
+      <p n="Burzoy Practices Medicine Without Pay or Envy of Colleagues">
+        مداواة المرضى ابتغاء الآخرة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

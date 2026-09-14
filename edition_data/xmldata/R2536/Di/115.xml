@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="115"/>
+
+      <p n="Serious Crimes Do Not Allow Secrecy">
+        وصفت وليس هذا ممّا ينبغي أن يُكتم بل يحقّ على صاحبه أن يُظهره
+        <lb/>
+
+        ويفشيه ويستكمل الأجر فيه ولا يبطل عمله ولا سيّما في حقّ المظلوم فإنّ
+        <lb/>
+
+        الدم عظيم شأنه
+      </p>
+
+      <p n="Hiding a Crime Is Complicity">
+        وإنّ الكاتم لذنب المجرم في إثم معه مع شركته
+        <lb/>
+
+        إيّاه فيه
+      </p>
+
+      <p n="A Ruler Must Not Punish Based on Suspicion">
+        فإنّ السلطان لا ينبغي له أن يعاقب على الظنّ والشبهة
+        <lb/>
+
+        حتّى يضيء له الظنّ أو الأمر
+      </p>
+
+      <p n="The Lion Wants to Avoid Killing Another Innocent">
+        وأنا وإن كنت أوطئت عشوة في شتربة
+        <lb/>
+
+        فأنا أكره أن أركب مثلها من دمنة وقد برئ إليك من أخبرك بما
+        <lb/>
+
+        ذكرت وقذفه في عنقك
+      </p>
+
+      <p n="The Mother Expects Her Word to Suffice">
+        فقالت أمّ الأسد صدقت ولكن
+        <lb/>
+
+        قد كنت أظنّ أنّك مستكفي بما حدّثتك وتصدّقني فيه ولا تتّهمني عليه
+      </p>
+
+      <p n="Without Blaming His Mother the Lion Is Curious">
+        قال الأسد ما أنت عندي بمردودة القول ولكنّي أحبّ أن
+        <lb/>
+
+        تعلميني فيكون أشفى لصدرى فقالت إنّ الأسد ما عليك أن
+        <lb/>
+
+        تخبري من ذكره لك وما ذكره لك وما ذكر فإنّه لا مضرّة في ذلك عليك
+      </p>
+
+      <p n="The Mother Deems That Divulging Will Harm Her Credibility">
+        قالت أمّ الأسد مضرّتي في سقوطي من عين من استودعني
+        <lb/>
+
+        سرّه وائتمنني عليه وخبّأني إيّاه
+      </p>
+
+      <p n="Mother Is Afraid to Lose People's Trust">
+        ومتى أفعل ذلك لا يثق لي أحد ولا
+        <lb/>
+
+        يطمئنّ فيّ أحدًا
+      </p>
+
+      <p n="The Lion Realizes His Mother Will Keep the Source Secret">
+        فلمّا سمع الأسد ذلك منها وعلم أنّها غير مخبرةٍ
+        <lb/>
+
+        باسم من أخبرها
+      </p>
+
+      <p n="The Lion Dismisses His Mother">
+        قال لها انصرفي فانصرفت
+      </p>
+
+      <p n="The Lion Assembles the Court and Summons Dimna">
+        وبعث الأسد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

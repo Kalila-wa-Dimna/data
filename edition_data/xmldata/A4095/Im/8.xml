@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="8"/>
+
+      <p n="The Merchant Steals His Own Bale">
+        وأعطى صديقه الذي عاونه نصفه
+      </p>
+
+      <p n="The Merchant Notices the Error in the Shop">
+        فلمّا أصبح جاء هو وشريكه
+        <lb/>
+
+        حتّى دخلا البيت فلمّا رأى الرجل أنّ الذي ذهب سمسمه ورأى
+        <lb/>
+
+        سمسم صاحبه على حاله دعا بالويل وعرف أنّ الذي أخذه ذلك
+        <lb/>
+
+        الرجل ليس برادّه
+      </p>
+
+      <p n="The Merchant Keeps Silent about His Betrayal">
+        ويخشى أن يكون فيه فضيحته فلم يقل شيئًا
+      </p>
+
+      <p n="One Must Know When to Halt Pursuit">
+        فينبغي لمن طلب أمرًا أن يكون له غاية ينتهي إليها
+      </p>
+
+      <p n="A Pursuit without a Clear Goal Is Treacherous">
+        فإنّه من أجرى
+        <lb/>
+
+        إلى غير غاية أوشك أن يكون فيه غاية وتقوم فيه دابّته
+      </p>
+
+      <p n="One Should Not Seek the Unattainable">
+        وهو
+        <lb/>
+
+        حقيق أن لا يُعنّي نفسه بطلب ما لا يجد
+      </p>
+
+      <p n="The Here Is Not to Be Preferred Over the Hereafter">
+        وأن يكون لآخرته مؤثرًا على
+        <lb/>
+
+        دنياه
+      </p>
+
+      <p n="Detachment Eases Death">
+        فإنّه قد قيل من قلّ تعلّقه بالدنيا قلّت حسرته عند
+        <lb/>
+
+        فراقها
+      </p>
+
+      <p n="One Should Not Despair from Attaining Goals">
+        وينبغي له أن لا يأيس من أن يصيب ذلك وإن قسى
+        <lb/>
+
+        قلبه
+      </p>
+
+      <p n="Two Things Suit Everyone">
+        فإنّه يُقال في أمرين يجملان بكلّ أحد وهما النسك والمال
+      </p>
+
+      <p n="Fire Consumes Every Log">
+        وإنّما مثل ذلك كالنار المتأجّجة التي ليست تُقذف إليها إلّا
+        <lb/>
+
+        قبلته وكان لها موافقًا
+      </p>
+
+      <p n="God's Blessings Arrive When Least Expected">
+        وربّما أصاب الرجل الشيء وهو غير
+        <lb/>
+
+        راج له
+      </p>
+
+      <p n="Pauper Is in Terrible Hardship">
+        كما أصاب الرجل الذي بلغني أنّه كانت به
+        <lb/>
+
+        حاجة شديدة وخلّة ظاهرة وفاقة وخشية فغدا يطلب من
+        <lb/>
+
+        معارفه وشكا إليهم وسألهم ثوبًا يلبسه وجهد فلم يصب شيئًا
+        <lb/>
+
+        ورجع إلى منزله وهو آيس
+      </p>
+
+      <p n="A Burglar Breaks Into His House">
+        فبينما هو نائم على فراشه وإذا
+        <lb/>
+
+        بسارق قد دخل عليه في منزله فلمّا رآه الرجل قال ما في منزلي
+        <lb/>
+
+        شيئًا يستطيع هذا السارق أن يسرقه فليصنع ما يشاء وليجهد
+        <lb/>
+
+        نفسه وإنّ السارق دار في البيت وطلب فلم يجد شيئًا يأخذه
+        <lb/>
+
+        فغاظه ذلك
+      </p>
+
+      <p n="The Burglar Attempts to Steal the Jar's Contents">
+        وقال في نفسه ما أرى ها هنا شيئًا وما أحبّ
+        <lb/>
+
+        أن يذهب عنائي باطلًا فانطلق إلى خابئة فيها شيء من برّ فقال
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

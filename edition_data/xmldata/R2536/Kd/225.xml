@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="225"/>
+
+      <p n="Philosopher Adds Good Wife">
+        والحبّ لإبانة الرأي لهم والعون على ذلك بالمروءة الصحيحة
+      </p>
+
+      <p n="Without Advice One Fails">
+        فإنّ الرجل
+        <lb/>
+
+        وإن كان شجاعًا ماضيًا ثمّ لم يكن حليمًا وكان أهل مشورته أهل نقص
+        <lb/>
+
+        وإن ساق القدر إليه في ذلك شيئًا صالحًا وصيّره إلى السرور والغبطة
+        <lb/>
+
+        والظفر والفرح فإنّها لا بدّ صائر إلى ندامة وهلكة
+      </p>
+
+      <p n="Advice Empowers">
+        فإنّ القدر
+        <lb/>
+
+        رأس الأمور والمسلّط على الأشياء وأكثر من يُغتبط برأيه العالم المشاور
+        <lb/>
+
+        للعلماء
+      </p>
+
+      <p n="Competent Vizier">
+        وإن كان المَلك عالمًا وكان مشاوره حكيمًا عالمًا أمينًا ناصحًا أُعطي
+        <lb/>
+
+        العقل والظفر والفلاح ولم يزل في خير وسعادة من الجدّ وظفر بعدوّه
+        <lb/>
+
+        ولم يظفر به عدوّه
+      </p>
+
+      <p n="Vizier Protects King">
+        ولو أراد أمرًا عسى أن يكون له ضارًّا ولعدوّه نافعًا
+        <lb/>
+
+        خلص من ذلك برأي وزرائه وأصاب حاجته
+      </p>
+
+      <p n="King And Vizier Tale Mention">
+        كالذي كان بين مَلك
+        <lb/>
+
+        الهند ووزيره وهليث امرأته
+      </p>
+
+      <p n="King Requests Story">
+        قال المَلك وكيف كان ذلك
+      </p>
+
+      <p n="King And Vizier Tale">
+        قال الفيلسوف كان مَلك من ملوك الهند عظيم القدر رفيع المنزلة
+        <lb/>
+
+        مظفّرًا بأحسن التدبير قائمًا بسلطانه وكان له وزير يُدعى بلاذ
+      </p>
+
+      <p n="King Dreams">
+        وكان
+        <lb/>
+
+        المَلك نائمًا على فراشه فرأى في المنام رؤيا سبع مرّات ثمّ انتبه وعادت
+        <lb/>
+
+        إليه
+      </p>
+
+      <p n="Dreams">
+        وكان الذي رأى في منامه سمكتين حمراوتين قامتا على أذبابهما
+        <lb/>
+
+        وبطّتين قامتا على رأسه وحيّة وثبت على رجليه ورأى أنّ جسده قد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

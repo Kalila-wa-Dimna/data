@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="193"/>
+
+      <p n="The Intelligent Must Rank People by Character">
+        في ذلك على اختلاف ما بينهم
+      </p>
+
+      <p n="Cutting off Some People Is Gain">
+        فإنّ منهم من إذا ظُفر بقطيعته
+        <lb/>
+
+        كان الرأي أن يُغتنم ذلك منه ويُمتنع من معاودته
+      </p>
+
+      <p n="Some People Should Never Be Cut Off">
+        ومنهم من لا
+        <lb/>
+
+        ينبغي تركه وقطعه على كلّ حال
+      </p>
+
+      <p n="The Vile To Be Cut Off">
+        فمن عُرف بالشرارة ولؤم العهد
+        <lb/>
+
+        وقلّة الوفاء والشكر والبعد من الورع والرحمة والجحود لثواب الآخرة
+        <lb/>
+
+        وعقابها والحسد وإفراط الشره والحرص والسرعة إلى سوء الظنّ
+        <lb/>
+
+        والقطيعة والإبطاء عن المعاودة والمراجعة فقطعه أحزم
+        <lb/>
+
+        للرأي
+      </p>
+
+      <p n="People Who Should Be Kept">
+        ومن عُرف بالصلاح وكرم العهد والشكر والوفاء
+        <lb/>
+
+        والمحبّة للناس والسلامة من الحسد والحقد والبعد من الأذى والاحتمال
+        <lb/>
+
+        للأصحاب والإخوان وإن ثقلت عليه منهم المؤونة فهذا
+        <lb/>
+
+        حقيق أن تُغتنم صحبته وصلته ويُمتنع من قطيعته
+      </p>
+
+      <p n="The Faithless Should Be Given Up">
+        واحذر من الخلطاء
+        <lb/>
+
+        الثمانية الكفور النعمة الغادر بما يُعهد إليه والذي لا
+        <lb/>
+
+        يؤمن بيوم الحساب والثواب والعقاب
+      </p>
+
+      <p n="The Irascible Should Be Given Up">
+        والمفرط في حرصه
+        <lb/>
+
+        وهمّه وغضبه
+      </p>
+
+      <p n="The Irreconcilable Should Be Given Up">
+        ومن يسخطه اليسير بغير علّة ومن لا يرضى بشيء
+        <lb/>
+
+        وإن كان كثيرًا جسيمًا وذا المكر الداهي الغامض مكرًا
+      </p>
+
+      <p n="The Hedonistic Should Be Given Up">
+        واللّهج بالزنا والخمر والسيّئ الظنّ المتلوّن المتهجّم القليل الحياء
+      </p>
+
+      <p n="Whom to Reinstate">
+        واعتمد من الخلطاء والأصحاب الشكور النعمة الوفيّ العهد
+        <lb/>
+
+        والكريم عند تصاريف الأمور
+      </p>
+
+      <p n="The Pious Should Be Kept">
+        وذا الدين المتّقي الورع والمستريح
+        <lb/>
+
+        الصدر بالخيرات والعالم الديّن المحبّ الخير للناس والرحيم القليل
+        <lb/>
+
+        الحقد الصافح عن ذنوب أخلّائه المحافظ عليهم غير الناسي لودّهم
+        <lb/>
+
+        والمخبَر بالعفّة والحياء
+      </p>
+
+      <p n="Lion Apologizes to Jackal">
+        فلمّا ظهر للأسد براءة ابن آوى
+        <lb/>
+
+        ممّا قُذف به ازداد له تكرمة وبه ثقة فدعاه واعتذر إليه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

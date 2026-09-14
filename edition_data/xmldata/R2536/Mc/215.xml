@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="215"/>
+
+      <p n="The Cat Should Desire Common Rescue">
+        بحياتي حياتك فلذلك أنت أيضًا حقيق أن تحبّ بحياتي حياتك وخلاصي
+        <lb/>
+
+        وخلاص نفسك
+      </p>
+
+      <p n="Sailors Depend on Ships and Vice Versa">
+        كما أنّ نجاة الناس من البحر بالسفينة ونجاة السفينة بالناس
+      </p>
+
+      <p n="Cooperation Ensures Delivery for Both">
+        فلذلك نرجو أن نصير بالتعاون إلى الخلاص جميعًا من هذه البليّة
+      </p>
+
+      <p n="The Cat Puts His Trust in the Rat">
+        فلمّا
+        <lb/>
+
+        سمع السنّور ذلك من الجرذ علم أنّه قد صدق وقال له صدقت وقلت
+        <lb/>
+
+        الحقّ فأنظر إلى الصلح الذي نتخلّص به جميعًا من هذه البليّة فأفعله فإنّي أحفظ
+        <lb/>
+
+        لك هذه النعمة آخر الأبد وأحرص على مجازاتك ومكافأتك بها
+      </p>
+
+      <p n="The Rat Explains the Strategy">
+        قال
+        <lb/>
+
+        الجرذ دعني أدنو منك فإنّ البومة وابن عرس إذا أبصرانا مصطحبين
+        <lb/>
+
+        انصرفا عنّا فإذا أمِنت منهما قطعت وثاقك وأنا آمن
+      </p>
+
+      <p n="The Cat Fulfills His Part">
+        ففعل ذلك
+        <lb/>
+
+        السنّور وآمنه ودنا منه
+      </p>
+
+      <p n="The Foes Leave Frustrated">
+        فلمّا أبصر ذلك البومة وابن عرس انصرفا
+        <lb/>
+
+        من ذلك المكان
+      </p>
+
+      <p n="The Rat Approaches to Cut the Rope">
+        وأخذ الجرذ في قطع الشرك فجعل يقطع سلكًا
+        <lb/>
+
+        سلكًا
+      </p>
+
+      <p n="The Cat Deems the Rat's Efforts Slow">
+        فلمّا رأى السنّور الجرذ ليس بجادّ في قطع الشرك قال له يا خليلي
+        <lb/>
+
+        ما يمنعك من ذلك إنّك قد صرت إلى حاجتك من الأمن
+      </p>
+
+      <p n="The Noble Must Help">
+        إن كان ذلك
+        <lb/>
+
+        كذلك فليس ذلك من فعل الصالحين
+      </p>
+
+      <p n="The Rat Must Fulfill the Pact">
+        وكما أنّي أسرعت في خلاصك كذلك
+        <lb/>
+
+        فكن أنت في خلاصي
+      </p>
+
+      <p n="The Rat Should Forget Enmity">
+        إن كنت تذكر العداوة القديمة فلست حقيقًا أن
+        <lb/>
+
+        تفعل ذلك مع حسن بلائي عندك الذي مثله ودونه يُشكر فيثبت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="113"/>
+
+      <p n="unassigned">
+        والتهاون
+      </p>
+
+      <p n="Indecision Is Impotence">
+        فإنّ التهاون رأس العجز
+      </p>
+
+      <p n="Spy Moves To Secret Advice">
+        وأمّا ما أريد إسراره فليكنْ
+        <lb/>
+
+        سرًّا
+      </p>
+
+      <p n="Victory Requires Guarding Secrets">
+        فإنّه قد كان يُقال إنّما يصيب الملوك الظفر بالحزم وإجالة
+        <lb/>
+
+        الرأي بتحصين الأسرار
+      </p>
+
+      <p n="Who May Discover Secret">
+        وإنّما يُطّلع على السرّ من قِبل خمسة من قِبل
+        <lb/>
+
+        صاحب الرأي ومن قِبل مشاورته ومن قِبل الرسل والبرد ومن قِبل
+        <lb/>
+
+        المستمعين الكلام ومن قِبل الناظرين في أثر الرأي ومواقع العمل
+        <lb/>
+
+        بالتشبيه والتظنّي
+      </p>
+
+      <p n="Two Benefits Of Guarding Secret">
+        ومن حصّن سرّه فإنّه من تحصينه إيّاه في أحد
+        <lb/>
+
+        أمرين إمّا ظفر بما تريد وإمّا سلم من عيبه وضرّه إن أخطأه ذلك
+      </p>
+
+      <p n="Kind Needs Confidant">
+        ولا بدّ لمن نزلت به نائبة من استشارة الناصح وطلب من معاونته
+        <lb/>
+
+        على الرأي ويفضي إليه فإنّ المستشير وإن كان أفضل من المستشار
+        <lb/>
+
+        رأيًا
+      </p>
+
+      <p n="Advice To King Like Fuel To Fire">
+        فإنّه يزداد بالمشورة رأيًا وعقلًا كما تزداد النار بالودك ضوءًا
+      </p>
+
+      <p n="How To Give Advice">
+        وعلى المستشار موافقة المستشير على صواب ما يرى والرفق به في تبصيره
+        <lb/>
+
+        وردّه عن خطأ رأيه إن كان منه وتقليب الرأي فيما شكا إليه حتّى
+        <lb/>
+
+        يستقيم لهما سرّهما
+      </p>
+
+      <p n="Bad Advice Like Misdirected Curse">
+        فإن لم يكنْ المستشار كذلك فهو على
+        <lb/>
+
+        المستشير مع عدوّه كالرجل الذي يرقى الشيطان ليرسله على الإنسان
+        <lb/>
+
+        فإذا لم يحكمْ الرقية كان به يتلبّس وإيّاه يأخذ
+      </p>
+
+      <p n="Secritive Wise King Prospers">
+        وإذا كان
+        <lb/>
+
+        الملك محصّنًا لأسراره متخيّرًا للوزراء مهيبًا في أنفس العامّة
+        <lb/>
+
+        بعيدًا من أن يُعلم ما في نفسه لا يضيع عنده حسن بلاء ولا يسلم
+        <lb/>
+
+        منه ذو جرم مقدّرًا لما يفيد ولما ينفق كان خليقًا أن لا
+        <lb/>
+
+        يُسلب صالح ما أُعطي
+      </p>
+
+      <p n="Ranks Of Secrets">
+        والأسرار منازل فمن السرّ ما
+        <lb/>
+
+        يدخل فيه الرهط ومنها ما يدخل فيه الرجلان ومنها ما يُستعان
+        <lb/>
+
+        فيه بالقوم
+      </p>
+
+      <p n="Only King C And Spy To Know Secret">
+        ولا أرى لهذا السرّ في قدر منزلته أن يُشرك فيه إلّا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

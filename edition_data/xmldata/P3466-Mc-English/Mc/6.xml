@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="6"/>
+
+      <p n="unassigned">
+        I will then thank you for it, as long as I live, and grant you the best reward.’ So they made a pact
+        <lb/>
+
+        about that.
+      </p>
+
+      <p n="The Rat Explains the Strategy">
+        “The rat then said to the cat, ‘When I do approach you,
+        <lb/>
+
+        show the mongoose and the owl that by which they will learn of our truce, making them leave, having given up on us;
+        <lb/>
+
+        then I can proceed to cut the ropes while feeling secure.’
+      </p>
+
+      <p n="The Cat Fulfills His Part">
+        “When the rat approached the cat, the cat took him and held him close,
+        <lb/>
+
+        greeting him and shaking his hand.
+      </p>
+
+      <p n="The Foes Leave Frustrated">
+        When the mongoose saw that-
+        <lb/>
+
+        and the owl too-they left having given up on the rat, retreating disappointed,
+      </p>
+
+      <p n="The Rat Begins to Cut the Rope">
+        and the rat took to
+        <lb/>
+
+        cutting the cat’s bonds; he cut them little by little.”
+      </p>
+
+      <p n="The Cat Deems the Rat's Efforts Slow">
+        “When the cat noticed
+        <lb/>
+
+        that the rat was not hard at work cutting the net, he judged him to be slow and said,
+        <lb/>
+
+        ‘I don’t see that you are serious in cutting my bond. If, having attained your want, you have changed from
+        <lb/>
+
+        your earlier vow and tarried at my need],
+      </p>
+
+      <p n="The Noble Must Help">
+        well it is not fit for a noble,
+        <lb/>
+
+        such as yourself], to tarry in fulfilling the need of his companion once he has fulfilled his own need.
+      </p>
+
+      <p n="The Cat States the Rat's Duty of Reciprocation">
+        You found in my prompt amity benefit and deliverance from perishing,
+        <lb/>
+
+        as you have seen; you owe me reward accordingly
+      </p>
+
+      <p n="The Rat Should Forget Enmity">
+        and ought not remember anything
+        <lb/>
+
+        from the times of hostility, for the truce that has transpired between us should
+        <lb/>
+
+        make you forget that, since merit lies in loyalty and treachery begets evil consequences.
+      </p>
+
+      <p n="Good Deeds Erase Bad Deeds">
+        The noble person is always grateful, free of grudge,
+        <lb/>
+
+        one good quality makes him forget many harmful qualities.
+      </p>
+
+      <p n="The Punishment of Betrayal Comes Swiftly">
+        It has been
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

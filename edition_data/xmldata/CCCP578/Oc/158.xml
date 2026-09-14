@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="158"/>
+
+      <p n="Input from the Five Wise Crows is Sought">
+        وينتهي إلى رأيهنّ فلمّا أصابهنّ
+      </p>
+
+      <p n="The Crow King Asks the First Crow">
+        *قال لأصغرهنّ ما رأيك في هذا الأمر وما
+      </p>
+
+      <p n="The Parable of the Owls and the Crows">
+        يصيبه ما أصاب البوم من الغراب
+      </p>
+
+      <p n="The King Requests the Parable">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="The Crow Kingdom and the Owl Kingdom">
+        قال
+        <lb/>
+
+        الفيلسوف زعموا أنّ أرضًا يقال لها كذا وكذا حولها جبل محيط بها وكانت
+        <lb/>
+
+        شجرة عظيمة كثيرة الغصون وكان فيها وكر ألف غراب ولهنّ ملك منهنّ عليه
+      </p>
+
+      <p n="The Owls Attack the Crows">
+        فخرج ملك البوم ذات ليلة إلى مكانهنّ فأغار عليهنّ فأكثر فيهنّ القتل والجراح
+        <lb/>
+
+        للإحنة التي كانت بينهنّ
+      </p>
+
+      <p n="The Morning in the Battle Aftermath">
+        ولم يعلم ملك الغربان بذلك حتّى كان من الغد فلمّا رأى
+        <lb/>
+
+        ما لقي جنده من بنات *البوم اهتمّ وحزن
+      </p>
+
+      <p n="The Crow King Evaluates the Damage">
+        وسألهنّ عن ما أصابهنّ من القتل
+        <lb/>
+
+        والجراح ونتف الريش
+      </p>
+
+      <p n="The Crow King Fears Recurring Aggression">
+        وقال إنّ أشدّ ما أصابكنّ على ضرر علمهنّ بمكانكنّ
+        <lb/>
+
+        وجرأتهنّ عليكنّ وهنّ عائدات إليكنّ بشرّهنّ فانظرن لنفسكنّ وأجمعن رأيكنّ
+        <lb/>
+
+        ثمّ إنّه فكّر في أمره وخلا بعظماء أصحابه واستشارهم
+      </p>
+
+      <p n="Input from the Five Wise Crows is Sought">
+        وكانت فيهم خمسة غربان
+        <lb/>
+
+        ذوات رفق وعلم ونظر في الأمور وحيل وفضل ورأي وكان الملك يشاورهنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

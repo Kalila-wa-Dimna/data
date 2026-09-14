@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="151"/>
+
+      <p n="Queen Serves Rice On Her Night">
+        رأسها فقامت على رأس المَلك بالصحفة هو يطعم منها
+      </p>
+
+      <p n="Favorite Wears Dress Before King">
+        فلمّا
+        <lb/>
+
+        رأت مساميتها الإكليل على رأس إيراخت غارت فلبست تلك
+        <lb/>
+
+        الثياب ومرّت بين يديه وكانت كالشمس حسنًا فأضاء كلّ ما
+        <lb/>
+
+        حولها فاشتاق إليها
+      </p>
+
+      <p n="King Insults Queen">
+        وقال لإيراخت إنّك جاهلة حين أخذت
+        <lb/>
+
+        الإكليل وتركت الثياب التي ليس في خزائننا مثلها
+      </p>
+
+      <p n="King Praises Favorite">
+        وإنّ جوريناه
+        <lb/>
+
+        لأحسن منك عقلًا وأكمل رأيًا وأشبه بنساء الملوك منك
+      </p>
+
+      <p n="Queen Pours Rice Over King">
+        فلمّا
+        <lb/>
+
+        سمعت ذلك منه مع ما عاينت غضبت وضربت بالصفحة رأس
+        <lb/>
+
+        المَلك فسال الأرزّ على رأسه ووجهه ولحيته
+      </p>
+
+      <p n="Fulfillment Of Last Dream">
+        وكان ذلك
+        <lb/>
+
+        عبارة الحلم الثامن الذي كتمه إيّاه كنانابزون ولم يكن يبيّنه له
+      </p>
+
+      <p n="King Expresses Anger To Vizier">
+        فدعا
+        <lb/>
+
+        المَلك بإيلاذ فدخل عليه فقال يا إيلاذ ما ترى إلى ما فعلته هذه
+        <lb/>
+
+        المرأة لي وكيف استخفّت بي وحقّرتني وعملت ما عملت فما أعلم أنّ
+        <lb/>
+
+        مَلكًا قطّ اجتُرئ عليه بمثل ما ركبت هذه الحمقاء منّي
+      </p>
+
+      <p n="King Orders To Execute Queen">
+        انطلق بها
+        <lb/>
+
+        فاضرب عنقها لا ترحمها
+      </p>
+
+      <p n="Vizier Decides To Spare Queen">
+        فخرج إيلاذ وإيراخت من عند المَلك
+        <lb/>
+
+        وقال في نفسه ما أنا بقاتلها حتّى يسكن غضب المَلك
+      </p>
+
+      <p n="Vizier Praises Queen">
+        فإنّها امرأة عاقلة
+        <lb/>
+
+        لبيبة حريصة على الخير سعيدة من الملكات ليس لها من النساء عديل
+        <lb/>
+
+        في الحلم والعقل
+      </p>
+
+      <p n="King Will Miss Queen">
+        وليس المَلك صابر عنها وقد خلّص الله بها اليوم شرًّا
+        <lb/>
+
+        كثيرًا من القتل وعملت أعمال صالحة ونحن نرجوها بعد اليوم
+      </p>
+
+      <p n="Vizier Fears Risk Of Rush">
+        ولست
+        <lb/>
+
+        آمن أن يقول المَلك ما استطعت أن تؤخّر قتلها
+      </p>
+
+      <p n="Viziers Action Depends On King">
+        فلست بقاتلها حتّى
+        <lb/>
+
+        أنظر رأي المَلك فيها فإن ندم على قتلها وحزن جئته بها حيّة
+      </p>
+
+      <p n="Vizier Reflects On Benefits">
+        وكنت
+        <lb/>
+
+        قد عملت ثلاثة أعمال أنجيت إيراخت من القتل وفرّجت عن الملك حزنه
+        <lb/>
+
+        وافتخرت بذلك على سائر الناس
+      </p>
+
+      <p n="Vizier Might Execute Order">
+        وإن لم يذكرها ولا يشتاق إليها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

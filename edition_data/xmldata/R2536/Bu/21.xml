@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="21"/>
+
+      <p n="Burzoy Practices Medicine Without Pay or Envy of Colleagues">
+        فلم أدع مريضًا أرجو له البرء ولا آخر لا أرجو له البرء إلّا إنّي أطمع
+        <lb/>
+
+        على القيام به ومن لم أقدر على القيام به وصفت له وأمرت له
+        <lb/>
+
+        ونهيت وأعطيت من الأدوية ما يحتاج إليها
+      </p>
+
+      <p n="Working Without Expecting Reward">
+        ولم أرد بمن فعلت
+        <lb/>
+
+        ذلك جزاء ولا مكافأة ومن أغبط أحد من نظرائي ومن هو مثلي
+        <lb/>
+
+        في العلم ويوفي في المثال والجاه وغير ذلك لحسن السيرة في الناس
+        <lb/>
+
+        وصاحبي قولًا وعملًا
+      </p>
+
+      <p n="Addressing the Soul to Distinguish Its Benefits and Harms">
+        وكنت أقرع نفسي إذا هي نازعتني وتمنّي مثل
+        <lb/>
+
+        منازلهم أبيت لها إلّا الخصومة وقلت لها يا نفس ألا تعرفين
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

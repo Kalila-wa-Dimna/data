@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="243"/>
+
+      <p n="King Must Know Everyone">
+        فيه العمل أن يكون الملك عالمًا بهم وبالأمور التي يُستعان بهم فيها وما
+        <lb/>
+
+        عند كلّ رجل من الرأي وما فيهم من العيوب
+      </p>
+
+      <p n="King Must Reward and Punish">
+        ثمّ على الملك بعد ذلك
+        <lb/>
+
+        تعاهد أعمالهم وتفقّد أمورهم حتّى لا يخفى عليه إحسان محسن ولا إساءة
+        <lb/>
+
+        مسيء ثمّ عليه بعد ذلك أن لا يترك محسنًا بغير إحسان ولا جزاء ولا يقارفا
+        <lb/>
+
+        مسيئًا ولا عاجزًا على العجز والإساءة
+      </p>
+
+      <p n="Lack of Assessment Damages">
+        فإنّهم إن تركوا ذلك تهاون المحسن واجترأ
+        <lb/>
+
+        المسيء وفسد الأمر وضاع العمل
+      </p>
+
+      <p n="Philosopher Mentions Parable">
+        والمثل في ذلك مثل الأسد وابن آوى
+        <lb/>
+
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="Philosopher Tells of Pious Jackal">
+        قال الفيلسوف زعموا أنّه كان بأرض
+        <lb/>
+
+        الهند ابن آوى وكان يتألّه ويتعفّف ويكون مع بنات آوى والثعالب ولا
+        <lb/>
+
+        يصنع ما يصنعون ولا يأكل لحمًا
+      </p>
+
+      <p n="Pack Denounces Jackal">
+        فخاصمته تلك السباع وقالوا له إنّه لا نرضى
+        <lb/>
+
+        بسيرتك ولا برأيك الذي أنت عليه فأيّ شيء تركك الدنيا وكفّك عن اللحم
+      </p>
+
+      <p n="Jackal Is not Accountable for Pack's Actions">
+        قال ابن آوى إنّ صحبتي إيّاكم لا تؤثمني إن لم أؤثمنّ نفسي
+      </p>
+
+      <p n="Sins Depend only on One's Actions">
+        فإنّ الأيّام ليست من
+        <lb/>
+
+        قِبل الأماكن والأصحاب ولكنّها من قِبل القلوب والأعمال
+      </p>
+
+      <p n="Lion Hears of Jackal">
+        فثبت ابن آوى
+        <lb/>
+
+        على حاله تلك وشُهر وتألّه فبلغ ذلك ملك السباع بتلك الناحية
+        <lb/>
+
+        فرغب فيه وفيما عنده من العفاف والصدق
+      </p>
+
+      <p n="Lion Verifies Jackal's Qualities">
+        فأرسل إليه ملك السباع
+        <lb/>
+
+        فكلّمه ثمّ دعاه بعد أيّام
+      </p>
+
+      <p n="Lion Offers Viziership">
+        وقال له إنّ مُلكي عظيم وأعمالي كثيرة وقد بلغني
+        <lb/>
+
+        عنك نبل وعفاف ثمّ ازددت فيك رغبة وأنا مولّيك من عملي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

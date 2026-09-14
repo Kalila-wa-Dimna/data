@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="70"/>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+      <p n="Chapter Title">
+        باب
+        <lb/>
+
+        الفحص عن أمر دمنة
+      </p>
+
+      <p n="The King Asks about Dimna's Fate">
+        قال ديشلم ملك الهند لبيدبا الفيلسوف قد سمعت خبر
+        <lb/>
+
+        الواشي المحتال الماهر بالخلابة كيف يفسد بتشبّهه وتلبيسه
+        <lb/>
+
+        الودّ الثابت بين المتحابّين فأخبرني إلى ما آل إليه أمره وما كانت عاقبته
+      </p>
+
+      <p n="The Philosopher's Answer About the King's Killing">
+        قال بيدبا إنّا وجدنا في الكتب أنّ الأسد لمّا قتل شتربه ومرّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

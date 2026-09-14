@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="250"/>
+
+      <p n="Jackal Is Least Likely to Steal">
+        من غيره فكيف يكون من ابن آوى
+      </p>
+
+      <p n="The Inferior always Envy the Superior">
+        واعلمْ أيّدك الله أنّ الجهّال يحسدوا العلماء
+        <lb/>
+
+        والأخيار ويوقعوا فيهم ما استطاعوا
+      </p>
+
+      <p n="Jackal's Superiority Causes Envy">
+        وابن آوى كثير العلم والحظّ من الأمانة
+        <lb/>
+
+        وله دين وعقل
+      </p>
+
+      <p n="Investigation Would Clear Jackal">
+        ولو فحصت عنه وعن أمره لبان لك براءته ممّا لُطّخ به وسعاية أهل
+        <lb/>
+
+        المكر والفجور
+      </p>
+
+      <p n="Jackal's Foes Perhaps Hid Meat">
+        فإنّهم هم الذين ذهبوا باللحم إلى بيته وخبّؤوه فيه من غير علمه
+      </p>
+
+      <p n="Kite's Booty Attracts Competitors">
+        فإنّ الحدأة
+        <lb/>
+
+        إذا كان في مخالبها لحم قاتلها الطير حتّى يزيلوه منها
+      </p>
+
+      <p n="Dog's Bone Attracts Competitors">
+        وكذلك الكلب إذا كان في فيه
+        <lb/>
+
+        لحم فعلت الكلاب مثل ذلك
+      </p>
+
+      <p n="Schemers Pursue Only Own Benefit">
+        فأمّا الذين بغوا على ابن آوى لم يبالوا ولم يسألوا
+        <lb/>
+
+        في مضرّة تدخل عليك
+      </p>
+
+      <p n="King Must Protect Himself">
+        فانظره لنفسك ولا تلتفتْ إليهم لأنّ جميع الناس عامّة والملك
+        <lb/>
+
+        خاصّة
+      </p>
+
+      <p n="Lion Benefited from Jackal">
+        واعلمْ أنّ ابن آوى من أهل العلم والأدب وقُربه منك منفعة لك
+      </p>
+
+      <p n="Jackal Is Unmatched">
+        ومثله
+        <lb/>
+
+        في الأصحاب والوزراء لا يوجد لأنّ ما عندك أفضل منه ولا أرجح عقل لأنّه
+        <lb/>
+
+        ينفعك في كلّ الأمور فأنت تعتمد عليه في كلّ شدّة وعند كلّ أمر
+      </p>
+
+      <p n="Courtier Exonerates Jackal">
+        قال فبينما أمّ الأسد
+        <lb/>
+
+        تعظه وتعطّفه وتضرب له الأمثال وتشفع في ابن آوى إذ أتاه من أخبره ببراءة
+        <lb/>
+
+        ابن آوى وأعلمه أنّه ناصح أمين وأنّه بريء من ما جرى عليه وما قيل فيه
+      </p>
+
+      <p n="Mother Reaffirms Intrigue">
+        قال فلمّا عرفت أمّ الأسد
+        <lb/>
+
+        أنّ الأسد عرف ابن آوى بما كذبوا وأنّهم حسدوه على مكانه من الأسد قالت للأسد
+        <lb/>
+
+        قد صحّ عندك وتقرّر بأنّ ابن آوى مكذوب عليه
+      </p>
+
+      <p n="Lion Must not Tolerate Misdeeds">
+        والساعة لا ترخّصْ لهم في ذلك
+      </p>
+
+      <p n="Lion Must Punish Plotters">
+        وكافئهم
+        <lb/>
+
+        على فعلهم لكي لا يعودوا إلى مثل ذلك
+      </p>
+
+      <p n="Lion Must not Underestimate Wrongdoers">
+        ولا تتكلّمْ فتقول أنا مسلّط عليهم لا أخافهم
+      </p>
+
+      <p n="Grass Rope Ties Elephant">
+        فإن كان العشب وإن كان لا قوّة له يصنع مثل الحبل الذي يُوثق به الفيل والجمل والفرس
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

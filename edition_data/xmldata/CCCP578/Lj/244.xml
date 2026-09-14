@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="244"/>
+
+      <p n="Lion Offers Viziership">
+        جسيمًا ورافعك إلى منزلة شريفة وجاعلك من خاصّتي
+      </p>
+
+      <p n="King Must not Impose Service">
+        قال ابن آوى
+        <lb/>
+
+        إنّ الملوك أحقّاء باختيار الأعوان فيما يهتمّون به من أمورهم وأعمالهم
+        <lb/>
+
+        وأحقّاء حقًّا لا يُكرهون عليه
+      </p>
+
+      <p n="Jackal Declines Position">
+        وأنا ما لي طاقة ولا قدرة بأعمال السلطان
+        <lb/>
+
+        ولا لي به علمًا
+      </p>
+
+      <p n="Lion Has Eager Candidates">
+        وأنت ملك السباع كلّها وعندك من أجناسها عدد
+        <lb/>
+
+        كثير لهم عقل وأدب وفضل وهم يعلمون من ذلك ما يريده
+      </p>
+
+      <p n="Lion Does not Excuse Jackal">
+        قال له
+        <lb/>
+
+        الأسد دع عنك هذا الكلام فإنّي غير معافيك من هذه الولاية والعمل
+      </p>
+
+      <p n="Two Kinds Serve Kings">
+        قال له ابن آوى إنّما يستطيع صحبة الملوك رجلان لست أنا بواحد
+        <lb/>
+
+        منهما إمّا فاجرًا مصانعًا وإمّا مهينًا مغفّلًا لا يحسده أحد
+      </p>
+
+      <p n="Good Advisor Is Hated">
+        وأمّا من أراد
+        <lb/>
+
+        أن يلزمهم الصدق والنصيحة والعفاف لا يخالط بذلك غيره فعل
+        <lb/>
+
+        من يستقيم له ذلك لأن يجتمع عليه عدوّان الملك ووزرائه بالحسد
+      </p>
+
+      <p n="Threats against Good Advisor">
+        أمّا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

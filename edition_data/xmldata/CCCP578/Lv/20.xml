@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="20"/>
+
+      <p n="New Chapters Placement">
+        منه شئت
+      </p>
+
+      <p n="Burzoy Wants Legacy">
+        فإنّك إن فعلت ذلك بلغت بي وبأهل بيتي من الشرف والمنزلة والذكر
+        <lb/>
+
+        ما لا يزال ذكره قائمًا معروفًا أبدًا حيث ما قرئ هذا الكتاب
+      </p>
+
+      <p n="Kisra And Nobles Impressed">
+        فلمّا سمع الملك <> قول
+        <lb/>
+
+        برزويه عجبوا من عقله وما سمت إليه نفسه ورضوا له بما طلب
+      </p>
+
+      <p n="Kisra Deems Request Light">
+        فقال الملك
+        <lb/>
+
+        لبرزويه نعم وكرامة أنت أهل أن تشفع في طلبتك فما أقلّ ما طلبت وأيسره
+        <lb/>
+
+        وإن كان خطرًا عندك عظيمًا
+      </p>
+
+      <p n="Kisra Recounts Burzoys Merits">
+        ثمّ أرسل الملك من ساعته إلى بزرجمهر ابن النختكان
+        <lb/>
+
+        فأُتي به فلمّا أن دخل عليه سجد له ثمّ قام فقال الملك قد عرفت مناصحة برزويه
+        <lb/>
+
+        لنا وتجربته آخر هذا وركوبه الهول فيما ينفعنا وإنصابه نفسه وبدنه من <>
+        <lb/>
+
+        العقل والحكمة
+      </p>
+
+      <p n="Burzoy Wants Immaterial Gift">
+        وما عوّضنا عليه وعرضناه من خزائننا من الأموال فلم يقبل من
+        <lb/>
+
+        ذلك شيئًا وكانت حاجته إلينا أمرًا يسيرًا بأدنى الجائزة له والكرامة
+      </p>
+
+      <p n="Kisra Urges Buzurgmihr To Excel">
+        وأخبره بما
+        <lb/>
+
+        طلب برزويه
+      </p>
+
+      <p n="Chapter To Match Others">
+        وهو أن يكتب بابًا مضارعًا لتلك الأبواب التي في ذلك الكتاب
+      </p>
+
+      <p n="Chapter To Extol Burzoy">
+        ويذكر
+        <lb/>
+
+        فيه فضل برزويه وكيف كانت حالة برزويه بعد قدومه من الهند بأجود ما
+        <lb/>
+
+        يجد من المدح والكلام
+      </p>
+
+      <p n="Buzurgmihr To Spare No Effort">
+        ويبالغ في ذلك أفضل المبالغة فإنّ ذلك خاصّة لطلب العلم
+        <lb/>
+
+        وحبّه لأهله
+      </p>
+
+      <p n="Chapter To Be The Best">
+        وأن يكون ذلك الباب أفضل الأبواب التي في الكتاب كلّها
+      </p>
+
+      <p n="Chapter To Eternize Buzurgmihr">
+        ولا يذكر
+        <lb/>
+
+        برزويه إلّا كنت أنت شريكه <>
+      </p>
+
+      <p n="Kisra Plans Public Reading">
+        حتّى أجمع أهل مملكتي فتدخل فتقرأه على رؤوس الناس <>
+      </p>
+
+      <p n="Invocation For Kisras Elevation">
+        فلمّا سمع برزويه مقالة الملك وعظم خطره منه ومنزلته عنده خرّ له ساجدًا
+        <lb/>
+
+        وقال أدام الله لك أيّها الملك السرور والفرح وقرّة العين ورزقك في الدنيا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

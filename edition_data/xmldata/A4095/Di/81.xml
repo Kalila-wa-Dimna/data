@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="81"/>
+
+      <p n="Desire for Noxious Food Kills the Patient">
+        يموت منه
+      </p>
+
+      <p n="Dimna Fears for Kalila">
+        ولست أحزن اليوم على نفسي ولكن عليك لأنّي أخاف
+        <lb/>
+
+        أن تؤخذ فيّ بسبب الذي بيني وبينك من القرابة
+      </p>
+
+      <p n="Kalila Will Be Forced to Betray Dimna">
+        فتعذّب فلا تجد
+        <lb/>
+
+        من إطلاعهم على أمري بدًّا فأُقتَل بإظهارك سرّي وتصديقهم إيّاك
+        <lb/>
+
+        عليّ
+      </p>
+
+      <p n="Kalila Sees Life as Greatest Desire">
+        فقال كليلة قد فكّرت في ذلك وليس يعدل بالحياة شيء
+      </p>
+
+      <p n="One Lies to Save One's Life">
+        وقد يضطرّ الرجل إذا نزل به البلاء إلى أن يقرّب نفسه بما لم يفعل
+        <lb/>
+
+        ولم يعلم رجاء للحياة والتخفيف عنه
+      </p>
+
+      <p n="One Lies out of Fear">
+        وقد قالت العلماء إنّه من أُريدت
+        <lb/>
+
+        مهجته لأمر يُسأل عنه غير مقتصر على ما كان ولكنّه قائل ما لم يكن
+        <lb/>
+
+        إشفاقًا عليها فالذي وجلت منه نفسك عليّ هو ما حاذرت
+      </p>
+
+      <p n="Kalila Advises Dimna to Confess">
+        وقد طال
+        <lb/>
+
+        مقامي عندك وأنا منطلقٌ خائفًا أن يدخل أحدًا فيراني عندك أو يسمع
+        <lb/>
+
+        تحاورنا مستمع وأنا أشير عليك أن تعترف بجرمك وتبوح بذنبك
+        <lb/>
+
+        فإنّك ميّتٌ لا محالةً وإنّك إن تُقتلْ في الدنيا بما كان منك خيرٌ
+        <lb/>
+
+        لك من العذاب الدائم في الآخرة مع الأثمة الفُجّار
+      </p>
+
+      <p n="Dimna Wants to Await the Verdict">
+        قال دمنة
+        <lb/>
+
+        قد صدقت فيما ذكرت ولكنّ العمل به شاقٌّ ولكنّي غير مخبرٍ كلامًا
+        <lb/>
+
+        حتّى يُفرَق في أمري
+      </p>
+
+      <p n="Kalila Goes Home">
+        ثم إنّ كليلة انطلق إلى منزله فوقع في همٍّ وحزنٍ
+        <lb/>
+
+        مخافة أن يؤخذ بذنب دمنة
+      </p>
+
+      <p n="Kalila Dies">
+        فاستُطلِقَ بطنه فمات في ليلته
+      </p>
+
+      <p n="Prisoner Overhears Their Dialogue">
+        وكان في السجن سبعًا وكان نائمًا قريبًا من كليلة ودمنة حيث اجتمعا
+        <lb/>
+
+        في السجن فاستيقظ بكلامها فسمع جميع ما تحاورا فيه وتراجعاه
+        <lb/>
+
+        بينهما فحفظ ذلك وكتمه
+      </p>
+
+      <p n="The Mother Calls In Lion's Promise to Act">
+        ثمّ إنّ أمّ الأسد دخلت عليه من الغد
+        <lb/>
+
+        فقالت اذكرْ الذي وعدتني البارحة في أمر هذا الفاجر
+      </p>
+
+      <p n="Pious Acts and Curbing Sin Cannot Wait">
+        وقولك
+        <lb/>
+
+        لجندك إنّه لينبغي للمرء أن يعمل بالتقوى ولا يتوانى في ذلك وإنّي
+        <lb/>
+
+        لا أعرف أمرًا أعظم أجرًا من الاستراحة منه
+      </p>
+
+      <p n="Who Helps Sinners Becomes Their Accomplice">
+        فإنّه قد قالت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

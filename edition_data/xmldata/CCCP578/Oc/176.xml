@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="176"/>
+
+      <p n="unassigned">
+        أن تقتله ولكن استبقيه فإنّه قد لقي من أصحابه ما ترى وقد أظعنوا وتركوه
+        <lb/>
+
+        وركبوا منه ما فِعله يعطّفه على النصيحة لك فيكون دليلًا لك لاستبقائك
+        <lb/>
+
+        إيّاه ورحمتك له فإنّ العدوّ الذي لا شوكة له أهل أن يُرحم ويُستبقى أو يُصفح عنه
+        <lb/>
+
+        والمستجير الخائف أهل أن يُؤتمن ويُجار قال ملك البوم نِعم ما قلت فقال
+        <lb/>
+
+        وزيره إنّ الرجل عطّفه على عدوّه الأمر اليسير
+      </p>
+
+      <p n="Mention Old Man Wife And Thief">
+        كالتاجر الذي عطف على السارق
+        <lb/>
+
+        بشيء لم يعتمد عليه
+      </p>
+
+      <p n="King O Requests Old Man Story">
+        قال ملك البوم وكيف كان ذلك
+      </p>
+
+      <p n="Old Man Has Young Wife">
+        قال الوزير ذكروا أنّ تاجرًا
+        <lb/>
+
+        كثير المال وكانت له إمرأة جميلة شابّة
+      </p>
+
+      <p n="Wife Hates Husband">
+        تبغضه وتكره جانبه وكان لها عاشقًا
+        <lb/>
+
+        فكانت لا تضاجعه بالليل ولا تمكّنه من التزامها فلمّا ضمّها ليلة تباعدت
+      </p>
+
+      <p n="Old Man Undiscouraged">
+        منه وكان
+        <lb/>
+
+        بها وامقًا كلفًا
+      </p>
+
+      <p n="Thief Breaks In">
+        فبينما هما نائمين إذ دخل عليهما لصّ فاستيقظت المرأة فزعت
+      </p>
+
+      <p n="unassigned">
+        منه
+      </p>
+
+      <p n="Wife Hugs Old Man">
+        والتزمت زوجها فانتبه بالتزامها إيّاه فقال ليت شعري من أين كانت هذه
+        <lb/>
+
+        النعمة وما بدا لك فيّ وما الذي أعطفك عليّ
+      </p>
+
+      <p n="Old Man Notices Thief">
+        ورفع رأسه فإذا هو باللصّ قد كوّر
+        <lb/>
+
+        كلّ ما في البيت فعرف أنّ الخشية منه هي التي دعتها إلى ما
+      </p>
+
+      <p n="unassigned">
+        صنعت فقال له صاحب البيت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="90"/>
+
+      <p n="Wife Interprets This As God Punishing False Testimony">
+        عليّ فإنّك زعمت أنك عاينت ما لم ترى وشهدت عليّ بزورٍ وباطلٍ
+      </p>
+
+      <p n="A Liar Suffers Punishment in Here and Hereafter">
+        وإنّما ضربت لكم هذا المثل لتعلموا أنّ من عمل بمثل ما عمل به
+        <lb/>
+
+        البازيار من الافتراء والبهتان كان جزاؤه العقوبة في العاجل
+        <lb/>
+
+        والآجل
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded and Court's Members Leave for the Day">
+        ثمّ إنّ القاضي كتب ما قيل لدمنة وما ردّ عليهم وأرسل به
+        <lb/>
+
+        إلى السجن وانطلق عظيم الجند إلى الملك وتفرّق سائرهم
+      </p>
+
+      <p n="The Court Hears Dimna's Arguments Seven More Days Without Reaching Verdict">
+        وحُبس
+        <lb/>
+
+        دمنة بعد ذلك سبع ليالٍ يتكلّم بعذره فلم يقدروا أن يقرّروه بشيءٍ من ذنبه
+        <lb/>
+
+        ولا يخصموه فيه
+      </p>
+
+      <p n="The Mother Warns the Lion of Leaving Dimna Unpunished">
+        ثمّ إنّ أمّ الأسد قالت له لئن أنت خلّيت سبيل
+        <lb/>
+
+        دمنة بعد الذي ارتكب من الذنب العظيم
+      </p>
+
+      <p n="Failure to Punish Dimna will Weaken the Lion’s Authority">
+        ليجترئنّ عليك جندك ولا يتخوّف
+        <lb/>
+
+        منهم أحدًا في فظيع يرتكبه عقوبتك ولينتشرنّ أمرك بما لا تطيق
+        <lb/>
+
+        لمّ شعبه ولا ؟ستعب صدعه ولا رتق فتقه
+      </p>
+
+      <p n="Leopard Testifies on Mother's Order">
+        وأحضرت النمر
+        <lb/>
+
+        فشهد على دمنة بما سمع منه ومراجعته كليلة إيّاه
+      </p>
+
+      <p n="Lion Orders Dimna to Be Killed">
+        فلمّا كرَّرت
+        <lb/>
+
+        أمّ الأسد ذلك عليه وكلّمته فيه وقع في نفسه أنّ دمنة حمله على زيغ
+        <lb/>
+
+        وواطأه عشوة أمر به فقُتِل شرّ قتلة
+      </p>
+
+      <p n="Commentary That Seeking Others' Harm Will Be Punished">
+        ثمّ قال الفيلسوف للملك
+        <lb/>
+
+        فلينظر أهل التفكّر في الأمور في هذا وأشباهه وليعلموا أنّه من
+        <lb/>
+
+        يلتمس منفعة نفسه بهلاك غيره ظالمًا له بخديعةٍ أو مكرٍ أو خِلابةٍ
+        <lb/>
+
+        فإنّه غير ناجٍ من وبال ذلك عليه وعاقبته ومغبّته وإنّه مُكافأٌ به
+        <lb/>
+
+        ومجزيٌّ بما عمل عاجلًا وآجلًا وصائرٌ إلى البوار على كلّ حالٍ
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+    <chapter>Rd</chapter>
+  </chapter>
+</TEI>

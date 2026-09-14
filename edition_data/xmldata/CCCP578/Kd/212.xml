@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="212"/>
+
+      <p n="Favorite Wears Dress Before King">
+        إذ جازت حرفتاه وقد لبست الكسوة وقد مرّت بين يديه فأضاء كلّ شيء حوله
+        <lb/>
+
+        وكانت كالشمس حسنًا فاشتاق الملك إليها
+      </p>
+
+      <p n="King Insults Queen">
+        فقال لإبلاد إنّك لجاهلة حين
+        <lb/>
+
+        أخذتي الإكليل وتركتي الكسوة
+      </p>
+
+      <p n="Queen Pours Rice Over King">
+        فلمّا سمعت ذلك مع ما عاينت من حاله غضبت ورمت
+        <lb/>
+
+        ما في يدها على الملك فسال الرزّ الحارّ على وجهه ولحيته ورأسه
+      </p>
+
+      <p n="Fulfillment Of Last Dream">
+        وكان ذلك عبارة
+        <lb/>
+
+        رؤياه في الحلم الثامن الذي لم يكن كبابرون بيّنه له
+      </p>
+
+      <p n="King Expresses Anger To Vizier">
+        فدعا الملك بلاد فقال
+        <lb/>
+
+        له هل رأيت ملكًا قطّ اُجترئ عليه بمثل ما اُجترئ عليّ واُرتكبت منه بمثل ما
+        <lb/>
+
+        اُرتكب منّي هذه الحمقاء في احتقارها لي وتصغيرها لأمري
+      </p>
+
+      <p n="King Orders To Execute Queen">
+        انطلق بها فاضرب عنقها
+        <lb/>
+
+        ولا تشاورني في ذلك ولا ترحمها فإنّه ليست لذلك بأهل
+      </p>
+
+      <p n="Vizier Decides To Spare Queen">
+        فقبض على ابلاد
+        <lb/>
+
+        وخرج بها من عند الملك وقال لست بقاتلها ولا ممضي رأيه فيها حتّى يهدأ
+        <lb/>
+
+        غضبه
+      </p>
+
+      <p n="Vizier Praises Queen">
+        ومع ذلك فإنّها لبيبة عاقلة أديبة حريصة على الحقّ تحبّه وتحبّ
+        <lb/>
+
+        أهله
+      </p>
+
+      <p n="King Will Miss Queen">
+        ولم يكن الملك ليصبر عنها وإنّه يحبّها
+      </p>
+
+      <p n="Vizier Fears Risk Of Delay">
+        وأنا وإنّي لمتخوّف سخطه في تأخيري
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

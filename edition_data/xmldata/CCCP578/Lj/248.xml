@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="248"/>
+
+      <p n="Lion Has Jackal Arrested">
+        قال فعند ذلك أمر الأسد بابن آوى أن يُخرج من عنده وأن يُتحفّظ به
+      </p>
+
+      <p n="Courtiers Are Amazed at Lion's Unawareness">
+        فقال بعض وزراء الملك إنّي ﻷعجب من رأي الملك ومعرفته بالأمور كيف خفي
+        <lb/>
+
+        عليه أمر هذا الفاجر وحيلته ومكره ومخادعته
+      </p>
+
+      <p n="False Message and Death Sentence">
+        ثمّ إنّ الأسد أرسل بعضهم
+        <lb/>
+
+        إلى ابن آوى وسأله في أمره فرجع إليه برسالة كذب فيها الرسول فعند ذلك غضب
+        <lb/>
+
+        الأسد على ابن آوى وأمر بقتله
+      </p>
+
+      <p n="Lion's Mother Delays Execution">
+        فبلغ ذلك أمّ الأسد فأرسلت إلى الذين أمرهم
+        <lb/>
+
+        بقتله وأمرتهم أن يؤخّروه
+      </p>
+
+      <p n="Mother Questions Lion">
+        ودخلت على الأسد مسرعة وقالت أيّها الملك ما فعل
+        <lb/>
+
+        من الذنب عرّفْني ولا تسمع من الكلام المفسود فلِم أمرت بقتله فأخبرها خبره
+        <lb/>
+
+        من أوّله إلى آخره فقالت له يا ولدي قد عجلت في أمر ابن آوى
+      </p>
+
+      <p n="The Intelligent Deliberates">
+        إنّما سُمّي العاقل عاقلًا
+        <lb/>
+
+        إذا أخذ في أمره بالأناة
+      </p>
+
+      <p n="Haste Causes Regret">
+        وأمّا العجلة لا يزال صاحبها يجني منها ثمرة الندامة
+        <lb/>
+
+        أبدًا
+      </p>
+
+      <p n="Kings Need Deliberateness Most">
+        وليس أحد أحوج إلى التأنّي من الملوك لأنّ الملوك تحتاج إلى ذلك
+      </p>
+
+      <p n="unassigned">
+        فإنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

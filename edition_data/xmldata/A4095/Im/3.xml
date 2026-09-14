@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="3"/>
+
+      <p n="unassigned">
+        بسم الله الرحمن الرحيم وبه نستعين
+        <lb/>
+
+        الحمد لله اللطيف الخبير العليم القدير القاهر في مُلكه
+        <lb/>
+
+        الدائم في عزّه العادل في قضائه المنفرد في ملكوته خالق
+        <lb/>
+
+        الخلق وباسط الرزق ليس كمثله شيء وهو السميع البصير
+        <lb/>
+
+        نعم المولى ونعم النصير خلق آدم بيده ونفخ فيه من روحه
+        <lb/>
+
+        وأسكن فيه حكمته وتوارث ذلك ذريته فمنهم سعيدًا
+        <lb/>
+
+        بإرادته وشقيًّا بقدرته وأشهد أنّ لا إله إلّا الله وحده
+        <lb/>
+
+        لا شريك له شهادة أرجو بها الخلاص وأفوز بها يوم الإخلاص
+        <lb/>
+
+        وأشهد أنّ محمد عبده ورسوله خلقه للهدى وقد فاز من به
+        <lb/>
+
+        اهتدى صلّى الله عليه وعلى آله وصحبه وسلّم
+      </p>
+
+      <p n="Parables Originated with Scholars of India">
+        هذا كتاب كليلة ودمنة وهو ممّا وضعته علماء
+        <lb/>
+
+        الهند من الأمثال والأحاديث التي التمسوا بها أبلغ ما
+        <lb/>
+
+        يجدون من القول في النحو الذي أرادوا
+      </p>
+
+      <p n="Scholars Desire to Be Understood">
+        ولم يزل العقلاء من أهل
+        <lb/>
+
+        كلّ زمان يلتمسون أن يُعقل عنهم
+      </p>
+
+      <p n="Scholars Put Knowledge in Book of Fables">
+        ويحتالون لذلك بصنوف
+        <lb/>
+
+        الحيل ويطلبون في إخراج ما عندهم من العلل فدعاهم ذلك إلى
+        <lb/>
+
+        أن وضعوا هذا الكتاب ولخّصوا فيه من بليغ الكلام ومنفعته
+        <lb/>
+
+        على أفواه الطير والبهائم والسباع
+      </p>
+
+      <p n="Fables Facilitate Many Types of Discourse">
+        فاجتمع لهم من ذلك أمران
+        <lb/>
+
+        أمّا هم فوجدوا متصرّفًا في القول وسعها يأخذون فيها وأمّا هو
+        <lb/>
+
+        فجمع لهو وحكمة
+      </p>
+
+      <p n="Book Is Used for Wisdom, Pleasure, and Knowledge">
+        فاجتناه الحكماء لحكمته والسخفاء للهوه وأمّا المعلّمون
+        <lb/>
+
+        من الأحداث وغيرهم فنشطوا لعلمه وخفّ عليهم حفظه
+      </p>
+
+      <p n="Acquired Knowledge Manifests in Adulthood">
+        فإذا احتنك
+        <lb/>
+
+        الحدث واجتمع له أمره وثاب إليه عقله تدبّر ما كان حفظ منه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

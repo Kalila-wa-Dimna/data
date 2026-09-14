@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="14"/>
+
+      <p n="Burzoy Deserves Help">
+        أهل أن يُسعف بحاجته ويُعطى سؤله
+      </p>
+
+      <p n="Friend Is Afraid">
+        ولكنّ حاجتك التي تطلب قد أدغنته نفسي
+        <lb/>
+
+        وأدخلت الفرق عليّ والخوف
+      </p>
+
+      <p n="Friend Is Loyal Despite Deceit">
+        ثمّ إنّ برزويه لمّا علم أنّ الهنديّ قد عرف أنّ مصادقته
+        <lb/>
+
+        كانت مكرًا وحيلًا لطلب حاجته وقد أنزل ذلك منه أنّه اختلاسًا وسلبًا
+        <lb/>
+
+        فلم يزجره ولم ينهره ولكنّه ردّ عليه ردًّا جميلًا ليّنًا كردّ الأخ على أخيه
+      </p>
+
+      <p n="Burzoy Sure Of Success">
+        ووثق
+        <lb/>
+
+        بقضاء حاجته واطمأنّ بالإسعاف بطلبه
+      </p>
+
+      <p n="Burzoy Had Prepared Argument">
+        وقال له يا أخي إنّي قد كنت هيئت كلامًا
+        <lb/>
+
+        كثيرًا ووضعت له أصولًا وشعّبت له شعوبًا
+      </p>
+
+      <p n="Friend Is Quick Minded">
+        فلمّا انتهيت إليك طرفًا منه اكتفيت به
+        <lb/>
+
+        أنت عمّا قد كنت أختلف فيه فعرفت باليسير الكثير بحسن قسم الله لك في العقل والأدب
+      </p>
+
+      <p n="Friend Spares Burzoy Argument">
+        فكفيتني مؤنة الكلام والجواب باليسير من القول
+      </p>
+
+      <p n="Secrets Safe With Scholars">
+        فإنّ الكلام قد انتهى إلى العلماء والسواقة
+        <lb/>
+
+        وإذا استودع اللبيب الحافظ ثبت وبلغ غاية أمل صاحبه قويًّا تامًّا ثابتًا
+      </p>
+
+      <p n="Safe Secret Like Fortress">
+        كالقصر الذي أُحكم أساسه بالصخر
+      </p>
+
+      <p n="Secret Keeper Like Immutable Object">
+        والجندل الذي لا يزعزعه ولا تزلزله الرياح
+        <lb/>
+
+        ولا يقدر شيء على تحريكه
+      </p>
+
+      <p n="Friend Responds">
+        قال الهنديّ
+      </p>
+
+      <p n="Friends Share Everything">
+        لا شيء أفضل من المروءة ومن
+        <lb/>
+
+        كانت له مروءة كان أهلًا أن نجا له الرجل بنفسه
+      </p>
+
+      <p n="Discretion Is Vital For The Educated">
+        ورأس الأدب حفظ السرّ
+      </p>
+
+      <p n="Secret Better Remain Untold">
+        فإذا
+        <lb/>
+
+        كان السرّ عند الأمين الحافظ فهو موضعه مع أنّه خليق أن لا ينكتم ولا يكون سرًّا
+      </p>
+
+      <p n="Shared Secret Spreads">
+        لأنّ لسانين <> قد تكلما به ثلاثة فلا بدّ أن يشيع في الناس حتّى لا يستطيع صاحبه
+        <lb/>
+
+        أن يجحده ويكابر عليه
+      </p>
+
+      <p n="Spread Secrets Like Clouds">
+        كالغيم الذي إذا كان منقطعًا
+      </p>
+
+      <p n="Friend Is Delighted With Knowing Burzoy">
+        وأمّا أنا فقد أصابني من
+        <lb/>
+
+        من مودّتك وخلطتك سرور وفرح لا يخالطه شيء عندي
+      </p>
+
+      <p n="Friend Fears Secret Spreads">
+        وهذا الأمر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

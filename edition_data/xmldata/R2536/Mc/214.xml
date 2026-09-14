@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="214"/>
+
+      <p n="The Rat Points Out Their Common Problem">
+        وربّما كنت أحبّ أن يضيق عليك أمرك ويقرب منك أجلك ولكنّي قد نزل بي من الشرّ
+        <lb/>
+
+        ما لا يسرّني أن يضيق مكانك ولا موتك وليس أحد أقدر منّي على خلاصك
+      </p>
+
+      <p n="The Rat Proves His Sincerity">
+        وأنا حذر
+        <lb/>
+
+        من ابن عرس والبومة فإنّهما يرصداني وأنا ضعيف لا أقدر على دفعهما فإن أنت آمنتني من نفسك
+        <lb/>
+
+        وضمنت لي الخلاص من غيرك قد أخافني وأرصدني أنقذتك ممّا أنت فيه وخلّصتك
+        <lb/>
+
+        من وثاقك فانتهز ذلك وعاونّي على خلاصك وخلاص نفسي
+      </p>
+
+      <p n="The Cat Should Desire Common Rescue">
+        فإنّه كما أحببت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

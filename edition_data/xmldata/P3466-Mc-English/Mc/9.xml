@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="9"/>
+
+      <p n="unassigned">
+        for that from me and from my brothers and friends.
+      </p>
+
+      <p n="The Cat Reassures the Rat">
+        So fearnothing from me and know that
+        <lb/>
+
+        what is mine will be bestowed upon you.’ He then swore fervently to the truth in what he had said.”
+      </p>
+
+      <p n="The Rat Distinguishes Hidden from Overt Enmity">
+        “The rat said:
+        <lb/>
+
+        ‘Many a hidden enmity is, on the surface, a friendship, which is far more harmful
+        <lb/>
+
+        than open enmity,
+      </p>
+
+      <p n="Riding an Elephant's Tusk">
+        and whoever is not wary of it will suffer that which befell the man
+        <lb/>
+
+        who rides the tusk of a rutting elephant, fell asleep, then wakes up beneath the feet of the elephant, who tramples
+        <lb/>
+
+        him to death.
+      </p>
+
+      <p n="An Enemy Is Befriended in Times of Need">
+        Now the friend is called a friend precisely for the benefits one hopes to gain from him,
+        <lb/>
+
+        and the enemy is called an enemy for the damage one fears from him; and when the sensible man hopes
+        <lb/>
+
+        to benefit from the enemy, he shows him friendship; and when he fears harm from a friend, he shows
+        <lb/>
+
+        him enmity.
+      </p>
+
+      <p n="Young Cattle Only Nurse for a While">
+        Don’t you see that the offspring of animals follow their mothers hoping for their milk,
+        <lb/>
+
+        but when that milk stops flowing], they part from them Just
+      </p>
+
+      <p n="Clouds and Rain Come and Go">
+        as clouds form one moment and disperse
+        <lb/>
+
+        at another, drop rain at a certain hour and hold off at another,
+      </p>
+
+      <p n="The Intelligent Adapts">
+        so the sensible man changes his disposition as matters alter, according
+        <lb/>
+
+        to the diverse states of his companions: he can be alert at times and reserved at others;
+        <lb/>
+
+        open at times and cautious at others; pleased at times and cross at others;
+        <lb/>
+
+        immutable at times and irritated at others.
+      </p>
+
+      <p n="Enmity Turns into Friendship in Times of Need">
+        And a friend might cut off some of what
+        <lb/>
+
+        had allied him to his friend and not fear any evil from him, because the basis of the affair had not been enmity.
+        <lb/>
+
+        As for someone towards whom the basic state is innate enmity and he strikes up a friendship
+        <lb/>
+
+        out of a need that causes him to do so-well, when the the need which made him act this way goes away,
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

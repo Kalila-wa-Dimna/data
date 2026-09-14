@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="67"/>
+
+      <p n="Fox Splits Drum Expecting Food">
+        ضخمًا وسمع صوته شديدًا قال في نفسه إنّه خليق بكثرة الشحم واللحم
+        <lb/>
+
+        فعالجه أشدّ العلاج حتّى شقّه
+      </p>
+
+      <p n="Fox Finds Drum Empty">
+        فلمّا رآه أجوفًا قال ما أدري لعلّ أفشل
+        <lb/>
+
+        الأشياء أعظمها جسدًا وأ شدّها صوتًا
+      </p>
+
+      <p n="Dimna's Application of the Parable to the Lion's Situation">
+        وإنّما ضربت لك المثل رجاء أن
+        <lb/>
+
+        يكون هذا الصوت الذي يروعنا لو قد أتيناه وانتهينا إليه أيسر أمرًا
+        <lb/>
+
+        ممّا في أنفسنا
+      </p>
+
+      <p n="Dimna's Offer to Investigate on the Lion's Behalf">
+        فإن شاء الملك فليبعثْني نحو هذا الصوت وليقم بمكانه
+        <lb/>
+
+        حتّى أرجع إليه ببيان ما يريد أن يعلمه
+      </p>
+
+      <p n="Lion's Agreement to Dimna's Proposal">
+        فوافق ذلك الأسد
+      </p>
+
+      <p n="Dimna's Departure to Investigate the Sound">
+        وانطلق دمنة
+        <lb/>
+
+        نحو المكان الذي فيه شتربة
+      </p>
+
+      <p n="Lion's Regret After Dimna's Departure">
+        فلمّا فصل دمنة من عند الأسد فكّر الأسد
+        <lb/>
+
+        في نفسه فندم على إرساله دمنة
+      </p>
+
+      <p n="Lion's Self-Doubt about Trusting Dimna">
+        وقال في نفسه ما أصبت في ائتماني
+        <lb/>
+
+        دمنة ما ائتمنه عليه
+      </p>
+
+      <p n="Lion's Concerns about Suffering, Greedy and Malevolent Courtiers">
+        فإنّ الرجل الذي بحضرة عليّة أو كان معروفًا بالحرص
+        <lb/>
+
+        والشره أو كان قد أصابه ضرًّا أو ضيقًا فلم ينعشْ أو كان قد أجرم جرمًا
+        <lb/>
+
+        فهو يخاف العقوبة أو كان شرّيرًا لا يحبّ الخير أو كان قد أوقف على جريه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

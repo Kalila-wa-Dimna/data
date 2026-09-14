@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="224"/>
+
+      <p n="unassigned">
+        في العمل وحسن الأدب وإذا خاف العاقل على نفسه طابت نفسه عن
+        <lb/>
+
+        الأهل والولد والمال والوطن فإنّه يرجو لذلك خلفًا ولا يرجو من
+        <lb/>
+
+        النفس الخلف وشرّ المال ما لا يُنفق منه وشرّ الأزواج التي لا تواتي وشرّ
+        <lb/>
+
+        الملوك الولد العاصي وشرّ الإخوان الخاذل وشرّ الملوك الذي يخافه
+        <lb/>
+
+        البري وشرّ البلاد المخوفة وقد علمت أنّه لا أمن لنفسي ولا طمأنينة لي
+        <lb/>
+
+        في جوارك ثمّ ودّع المَلك وطار
+      </p>
+
+      <p n="Chapter Title">
+        باب مَلك الهند ووزيره
+        <lb/>
+
+        بلاذ وجاريته هليث وهو باب الحلم
+      </p>
+
+      <p n="King Understood Previous Chapter">
+        قال المَلك للفيلسوف قد فهمت هذا المثل
+      </p>
+
+      <p n="King Asks How To Preserve Rule">
+        فحدّثني بأيّ الأشياء
+        <lb/>
+
+        أجدر أن يكون المَلك أخذًا بها في حفظ نفسه ومُلكه وثبات
+        <lb/>
+
+        سلطانه الحلم أم المروءة أم الشجاعة أم الجود
+      </p>
+
+      <p n="Philosopher Prioritizes Ḥilm">
+        قال الفيلسوف إنّ
+        <lb/>
+
+        أحقّ ما حفظ به المَلك نفسه ومُلكه وثبّت به سلطانه وكرّم به
+        <lb/>
+
+        نفسه الحلم
+      </p>
+
+      <p n="Philosopher Adds Consultation">
+        وحافظ الحلم الكرم ومادّة الكرم مشاورة أهل
+        <lb/>
+
+        العقل من ورائه وأهل الرفق والعلم وأفضل الأشياء كلّها وخيرها
+        <lb/>
+
+        لكلّ أحد الحلم ولا سيّما للملوك خاصّة
+      </p>
+
+      <p n="Philosopher Adds Good Wife">
+        ومشاورة أهل العلم والأمانة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kb</chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

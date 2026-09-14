@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="127"/>
+
+      <p n="Lion Orders Leopard and Judge to Try Dimna">
+        فأمر الأسد النمر والقاضي أن يجلسا مجلس الحكم ويدعوا بدمنة على
+        <lb/>
+
+        رؤوس الجند والعامّة ثمّ يسألان عنه ويفحص عن أمره ويرفعان إليه
+        <lb/>
+
+        الذي يذكر لهما عنه وجوابه إيّاهم ولا يدعا من ذلك شيئًا إلّا أنهياه
+        <lb/>
+
+        إليه والمسئلة لدمنة عن عذرٍ إن أدّعاه أن يحكم في ذلك بالعدل المعروف
+        <lb/>
+
+        ولا يأخذ فيه الملك دون استحقاق حقيقة الحكم
+      </p>
+
+      <p n="Leopard and Judge Convene Trial">
+        فخرجا لدمنة لذلك
+      </p>
+
+      <p n="Leopard Recalls the Lion’s Sorrow for Killing the Ox">
+        ثمّ أنّ النمر جمع الجند فقال أيّها الجند إنّ الملك منذ قتل شتربة
+        <lb/>
+
+        مهمومًا حزينًا لأنّه فعل ذلك به على غير ذنب إلّا لتحميل دمنة له
+        <lb/>
+
+        وبغيه عليه
+      </p>
+
+      <p n="Leopard Calls for Testimony">
+        فمن كانت عنده شهادة أو علم فليعلمناه لنرفعه إلى الملك
+      </p>
+
+      <p n="Due Process Will Be Followed">
+        فإنّه لا يقتل أحدًا إلّا بعد الفحص عنه والتثبّت والتيقّن ولا يعمل بالهوى
+        <lb/>
+
+        والمحافاة
+      </p>
+
+      <p n="Judge Calls for Testimony on Three Accounts">
+        قال القاضي ألا تنظروا ما تكلّم به النمر الأمين فاتّبعوه ولا
+        <lb/>
+
+        يكتم أحد منكم شيئًا علمه لخلال كثيرة
+      </p>
+
+      <p n="Importance of Due Process">
+        فأمّا واحدة فأنّه لا ينبغي لكم
+        <lb/>
+
+        أن تكرهوا وقوع القضاء عليها ممّا وافقكم أوخالفكم
+      </p>
+
+      <p n="Consequences of Taking Evil Deeds Lightly">
+        ولا تصغّروا
+        <lb/>
+
+        منه شيئًا فإنّ يسير الحقّ عظيم عند الله تبارك وتعالى أن يُقتل برئ
+        <lb/>
+
+        على غير ذنبٍ بنميمة فاجرٍ كاذب
+      </p>
+
+      <p n="Punishment of Crime is a Deterrent">
+        والثانية أنّ المجرم إذا نكّل
+        <lb/>
+
+        به لم يجترئ أحد على مثل ما ارتكب تخوّفًا للعقوبة
+      </p>
+
+      <p n="Eliminating Criminals Benefits Society">
+        والثالثة أنّه إذا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

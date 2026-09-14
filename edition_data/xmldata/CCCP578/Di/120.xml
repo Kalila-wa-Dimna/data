@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="120"/>
+
+      <p n="Dimna Claims Right to Self-Defense">
+        لم يبتغ لها العذر فلمن يلتمسه
+      </p>
+
+      <p n="Dimna Calls First Speaker Self-Hating">
+        لقد ظهر منك ما لم تملكه من الحسد والبغضاء
+        <lb/>
+
+        وعرف من سمع قولك أنّك لا تودّ أحدًا وإنّك عدوّ نفسك فمن دونها ومثلك
+        <lb/>
+
+        لا يصلح أن يكون مع البهائم دعْ مع الملوك وحضور أبوابها
+      </p>
+
+      <p n="First Speaker Leaves Dejected/Is Silenced">
+        فلمّا أجابه دمنة
+        <lb/>
+
+        بهذا الجواب خرج مستكينًا حيرانًا مستحيًا
+      </p>
+
+      <p n="The Mother Is Amazed by Dimna's Verbosity">
+        فقالت أمّ الأسد إنّ من العجب
+        <lb/>
+
+        انطلاق لسانك مجيبًا لكلّ متكلّم وقد كان مثل الذي كان
+      </p>
+
+      <p n="Dimna Calls the Mother Biased">
+        قال دمنة
+        <lb/>
+
+        علامَ تنظرين بعين واحدة وتسمعين بأذنٍ واحدةٍ وذلك لشؤم جدّى مع
+        <lb/>
+
+        أنّي أرى كلّ شيء قد تغيّر وتنكر فليس أحد يقول الحقّ فلا يتكلّم إلّا بالهوى
+      </p>
+
+      <p n="The Mother Chastises Dimna's Duplicity">
+        فقالت
+        <lb/>
+
+        أمّ الأسد انظروا إلى الفاجر الذى **
+      </p>
+
+      <p n="Dimna Enumerates 5 Duplicitous Types">
+        ** تلبس لباس الرجل والضيف الذي يزعم
+        <lb/>
+
+        أنه ربّ البيت ومن ينطق به في الجمع عند الملك بما لا يُسأل عنه
+      </p>
+
+      <p n="The Mother Demands Dimna's Silence and Confession">
+        فقالت أمّ
+        <lb/>
+
+        الأسد أما تعرف سوء عملك فتحرقه
+      </p>
+
+      <p n="Dimna Defines the Ill-Wishing Person">
+        قال دمنة إنّ الذي يركب المنكر لا يحبّ
+        <lb/>
+
+        لأحدٍ خيرًا ولا يدفع عنه سوءًا ولا مكروهًا
+      </p>
+
+      <p n="The Mother Condemns Dimna's Sweet-Talking and Hoping">
+        فقالت أمّ الأسد أيّها الغادر الفاجر
+        <lb/>
+
+        إنّك لتجترئ على مثل هذا القول عند الملك تعجبًا له كيف يتركك حيًّا
+      </p>
+
+      <p n="Dimna Defines as Traitor Who Is Ungrateful for Advice and Kills a Defeated Enemy">
+        قال
+        <lb/>
+
+        دمنة إنّ صاحب من وصفت التي يؤتى بالنصيحة ويمكَّن من عدوّه ثمّ لا يشكر ذلك
+        <lb/>
+
+        ولا يعرفه لمن فعله ويريد قتله على غير ذنبٍ أجرمته
+      </p>
+
+      <p n="The Mother Calls Dimna a Liar">
+        فقالت أمّ الأسد أيّها الكذّاب
+        <lb/>
+
+        أتريد أن تنجو من ذنبك العظيم بما تزخرف من كذبك وإفكك
+      </p>
+
+      <p n="Dimna Claims Truthfulness">
+        فقال دمنة
+        <lb/>
+
+        إنّ أهل ما ذكرت الذي يقول ما لم يكن وإنّي نطقت بالحقّ وتكلمت بالتثبّت والصدق
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

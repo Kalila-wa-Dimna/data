@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="130"/>
+
+      <p n="Dimna’s Character is Visible in His Body">
+        فاطلبوا علم شأنه من تجربتكم فإنّه بيّن ظاهر في جسمه فصدّقوا وأيقينوا
+        <lb/>
+
+        بما قيل فيه
+      </p>
+
+      <p n="Judge/Investigator/Audience Request Physiognomical Evaluation">
+        قال القاضي لسيّد الخنازير قد عرفنا أنّك تعرف الصواب
+        <lb/>
+
+        وعلامات السوء فأخبرْنا بما تعرف من صورة هذا الشقيّ دمنة
+      </p>
+
+      <p n="Prominent Courtier Diagnoses Dimna as Traitor">
+        فقال
+        <lb/>
+
+        إنّ العلماء قد كتبوا أن من كانت عينه اليسرى أصغر من عينه اليمنى
+        <lb/>
+
+        وهي لا تختلج وكان أنفه مائلًا نحو شقّه الأيمن وهو بعيد ما بين الحاجين
+        <lb/>
+
+        وعامّة نظره إلى الأرض وإذا مشى يكثر الالتفات فإنّ ذلك من أهل
+        <lb/>
+
+        الغدر والفجور والنميمة وهذه كلّها في هذا الشقيّ دمنة
+      </p>
+
+      <p n="Bodily Marks Are Claimed to Predict Deeds">
+        قال دمنة كلّنا
+        <lb/>
+
+        تحت سماء الله وبعينه فاسمعوا ما أقول فأنا قائل بين يدي ربّي وهذا
+        <lb/>
+
+        العالم أيّها المتكلّم إن كان الخير والشرّ الذي يعمل الناس به إنّما يُعرف
+        <lb/>
+
+        بالشامات والعلامات التي تكون في الناس
+      </p>
+
+      <p n="Human Action Would Be Meaningless">
+        فقد استبان لي أنّ المحسن
+        <lb/>
+
+        لا يجزى بإحسانه ولا المسيء بإسأته ولكنّهم إنّما يكرمون ويهانون
+        <lb/>
+
+        بالشامات والعلامات التي تُرى فيهم مع أنّ عامل الشرّ لا يستطيع إلّا
+        <lb/>
+
+        بعلمه وكذلك عامل الخير ليس يستطيع أحد أن يثبت في جسمه علامات خير ولا
+        <lb/>
+
+        علامات شرّ
+      </p>
+
+      <p n="If the Physique Makes People Traitors, Dimna Is Innocent and Excused">
+        فإن كنت تزعم إنّما بجسمي من العلامات هي الدليل على صحّة ما قد
+        <lb/>
+
+        قُذفت به من هذا الأمر ولو كنت قد فعلته كنت قد وسمت بآياتٍ وعلاماتٍ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

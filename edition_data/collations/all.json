@@ -1,0 +1,80 @@
+[
+  {
+    "display": "Table of Contents",
+    "siglum": "ToC",
+    "image": "ToC.png",
+    "preface": true
+  },
+  {
+    "display": "Im Main Edition",
+    "siglum": "Im",
+    "image": "Im.png",
+    "preface": true
+  },
+  {
+    "display": "Lv Main Edition",
+    "siglum": "Lv",
+    "image": "Lv.png",
+    "preface": true
+  },
+  {
+    "display": "Di Main Edition",
+    "siglum": "Di",
+    "image": "Di.png"
+  },
+  {
+    "display": "Mc Main Edition",
+    "siglum": "Mc",
+    "image": "Mc.png"
+  },
+  {
+    "display": "Oc Main Edition",
+    "siglum": "Oc",
+    "image": "Oc.png"
+  },
+  {
+    "display": "Lj Colloquium Edition",
+    "siglum": "Lj",
+    "image": "Lj.png"
+  },
+  {
+    "display": "Km Main Edition",
+    "siglum": "Km",
+    "image": "Km.png"
+  },
+  {
+    "display": "Kd Main Edition",
+    "siglum": "Kd",
+    "image": "Kd.png"
+  },
+  {
+    "display": "Ag Main Edition",
+    "siglum": "Ag",
+    "image": "Ag.png"
+  },
+  {
+    "display": "The Lion and the Ox",
+    "siglum": "Lo",
+    "image": "Lo.png"
+  },
+  {
+    "display": "Lion and Ox + Hebrew",
+    "siglum": "Lo-h",
+    "image": "Lo-h.png"
+  },
+  {
+    "display": "The Mouse and  the Cat English",
+    "siglum": "Mc-English",
+    "image": "Mc-English.png"
+  },
+  {
+    "display": "Investigation of Dimna -Selective",
+    "siglum": "Di-s",
+    "image": "Di-s.png"
+  },
+  {
+    "display": "Life of Burzoy",
+    "siglum": "Bu-1",
+    "image": "Bu-1.png"
+  }
+]

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="157"/>
+
+      <p n="unassigned">
+        موليًّا لا يلتمس شيئًا ولا يلتفت إليه واجتمع الظبي والجرذ والسلحفاة والغراب
+        <lb/>
+
+        في عريشهم آمنين مطمئنّين فقال الفيلسوف للملك فإذا بلغ حيلة أضعف
+        <lb/>
+
+        الدوابّ وأوهنها في معاونة بعضهم بعضهًا وتآنسهم فيما بينهم ووفائهم
+        <lb/>
+
+        وصبرهم ما خلصوا به من أعظم البلاء والموت وأفظعها فكيف بالناس إذا
+        <lb/>
+
+        فعلوا مثل ذلك وترادفوا فيه لقد كان يصل إليهم من المنفعة في ذلك إذن
+        <lb/>
+
+        إخوان السلامة ودفع السوء وما لا خطر له ولا عدل
+      </p>
+
+      <p n="Chapter Title">
+        الباب السادس وهو باب البوم والغربان
+      </p>
+
+      <p n="Abstract">
+        مثل العدوّ الذي لا ينبغي أن يُغترّ به
+      </p>
+
+      <p n="The King Understood Previous Chapter">
+        قال ديسلم الملك لسيّدنا الفيلسوف
+        <lb/>
+
+        قد فهمت ما ذكرت من أمر الإخاء وعظم المنفعة فيه
+      </p>
+
+      <p n="The King Asks If Foes Can Become a Friends">
+        فأخبرني عن العدوّ
+        <lb/>
+
+        هل يصير صديقًا وهل يُوثق بشيء منه
+      </p>
+
+      <p n="The King Asks about Fawning Foes">
+        وكيف العداوة وما ينبغي للملك أن
+        <lb/>
+
+        يصنع إذا أتاه أمر من أهل المنابذة له يلتمس النصح وهو في نفسه غير آمن ولا
+        <lb/>
+
+        حقيق بالطمأنينة إليه وإن هو أبدى ودًّا وتضرّعًا
+      </p>
+
+      <p n="The Philosopher Answers, Foes Cannot be Trusted">
+        قال الفيلسوف
+        <lb/>
+
+        ليس أحد بحقيق إن أتاه أمر من عدوّه الذي يتخوّفه على نفسه وجنده فإن
+        <lb/>
+
+        كان يلتمس الأمان والصلح ويظهر المودّة له والشناءة لأصحابه أن يثق به
+        <lb/>
+
+        ولا يطمئنّ إليه ولا يسترسل إلى قوله وإن هو أبدى ودًّا وتضرّعًا ونصحًا
+      </p>
+
+      <p n="Foes May Take Advantage">
+        فإنّه يكون أشباه ذلك ممّن يطلب الفرصة من عدوّه
+      </p>
+
+      <p n="The Parable of the Owls and the Crows">
+        ومن يسترسل إليه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Rd</chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

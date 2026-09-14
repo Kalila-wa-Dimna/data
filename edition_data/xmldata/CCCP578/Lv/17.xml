@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="17"/>
+
+      <p n="Messanger To Be Vigilant">
+        الكتاب فيفشو السرّ الذي كانوا يكتمون
+      </p>
+
+      <p n="Burzoy Returns To Persia">
+        فلمّا انتهى الرسول إلى برزويه دفع إليه
+        <lb/>
+
+        الكتاب سرًّا ثمّ احتال حتّى خرج بعد فراغه من جميع ما احتاج إليه ونسخه
+        <lb/>
+
+        الكتب خرج يطوي المراحل الليل والنهار حتّى قدم فارس
+      </p>
+
+      <p n="Burzoy Rejoins Kisra">
+        فلمّا دخل على الملك سجد له
+        <lb/>
+
+        ثمّ قام مفكّرًا بين يديه
+      </p>
+
+      <p n="Burzoys Exhaustion Shows">
+        فلمّا رأى أنوشروان ما أصابه من الشجون والنصب
+        <lb/>
+
+        وما قد نزل به من الضرر رحمه رحمة شديدة
+      </p>
+
+      <p n="Kisra Announces Reward">
+        وقال أيّها العبد الصالح
+        <lb/>
+
+        الذي يأكل ثمرة نصحه أبشر وقرّ عينًا فإنّه قد استوجبت علينا الشكر وأنا
+        <lb/>
+
+        مشرّفك وبالغ بك أفضل درجة ومنزلة وأمره
+      </p>
+
+      <p n="Kisra Orders Rest">
+        أن يريح بدنه في منزله أربع
+        <lb/>
+
+        أيّام
+      </p>
+
+      <p n="Kisra Holds K D Public Reading">
+        فلمّا استراح ورجع <> روحه دخل على الملك في اليوم الرابع فأمره
+        <lb/>
+
+        الملك بجمع الأشراف والعظماء وسائر الناس فلمّا اجتمعوا وبرزويه عند الملك
+        <lb/>
+
+        أمره بالكتاب وسائر الكتب التي جاء بها برزويه ففُتحت وقُرئت على رؤوس
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

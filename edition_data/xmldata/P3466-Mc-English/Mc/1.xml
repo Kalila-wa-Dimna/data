@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="1"/>
+
+      <p n="unassigned">
+        any cat, without inflicting upon him every pain. This is the way to rid ourselves of the horror of the cats.
+        <lb/>
+
+        The King did what the vizier had advised, and before six months had passed, all the cats
+        <lb/>
+
+        that were in that city had perished. That group of people went by
+        <lb/>
+
+        and after them another grew up hating cats: every time
+        <lb/>
+
+        they noticed a slight corruption caused by mice, in some garment, furniture, or food,
+        <lb/>
+
+        they said, ‘Look Could a cat have gone through the city?’Also,
+        <lb/>
+
+        whenever it so happened that people or animals got inflicted by a disease, they said,
+        <lb/>
+
+        ‘It almost seems as if some cat passed through the city.’ With this trick
+        <lb/>
+
+        the rats rid themselves of the horror of the cats and were at peace from them. And if this
+        <lb/>
+
+        weak and lowly living being could conceive of such trickery, so as to
+        <lb/>
+
+        get rid of his enemy, then hope must not be lost in man, who is
+        <lb/>
+
+        the smartest and wisest living being, can obtain from his enemy what he wants using his ingenuity.
+      </p>
+
+      <p n="Chapter Title">
+        The Chapter of the Rat and Cat
+      </p>
+
+      <p n="The King Asks about Escaping Enemies">
+        “I have understood this parable,” said King Dayshalīm to the Philosopher Baydanā. “Now tell
+        <lb/>
+
+        me a parable about a man who was weak and his enemies were many and, blocking him from every side, put him on the brink
+        <lb/>
+
+        of perishing, so he sought reconciliation with one of his enemies, thereby becoming safe, then kept his promise to the one with whom
+        <lb/>
+
+        he had reconciled. So tell me about the nature of truce-how it should be sought.”
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

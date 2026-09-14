@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="71"/>
+
+      <p n="The Philosopher's Answer About the King's Killing">
+        لذلك أيّامٍ
+      </p>
+
+      <p n="A Leopard Was the Lion's Confidant">
+        خرج النمر ذات يومٍ وكان يُدعى المعجب الوشي وكان معلّم
+        <lb/>
+
+        الأسد وأمينه وموضع سرّه
+      </p>
+
+      <p n="The Leopard Overhears Kalila Chastising Dimna">
+        يطلب قبسًا فاضطرّته السماء منزل
+        <lb/>
+
+        كليلة ودمنة فلمّا انتهى إلى الباب سمع كليلة يعاتب دمنة ويلومه
+        <lb/>
+
+        على سوء رأيه وصنيعته وما ارتكب من شتربه في غير ذنبٍ أتاه إليه
+      </p>
+
+      <p n="Kalila Predicts Dimna's Doom">
+        وكان في بعض قوله إنّ الذي أتيت من النميمة والخلابة سيظهر
+        <lb/>
+
+        للأسد ويطّلع طلعه بعد اليوم ولست بناجٍ منه إلّا بأكثر ممّا يُعاقب به
+        <lb/>
+
+        أهل الذنوب
+      </p>
+
+      <p n="Kalila Rejects Dimna as Friend">
+        ولست إنّما أيضًا فيما بعد اليوم متّخذك خليلًا ولا مفشٍ
+        <lb/>
+
+        إليك سرًّا ولا مقاربك في شيءٍ
+      </p>
+
+      <p n="One Must Avoid Bad People">
+        كان العلماء قد قالوا تباعد ممّن لا
+        <lb/>
+
+        رغبة له في الصلاح وإنّما عمله النميمة والخِلابة
+      </p>
+
+      <p n="Kalila Accuses Dimna of Causing the Ox's Killing">
+        وكذلك حملت
+        <lb/>
+
+        الملك على خليله البريء الرفيق العالم شتربه ولم تزل به حتّى اتّهمه
+        <lb/>
+
+        فقتله
+      </p>
+
+      <p n="The Leopard Confides in the Lion's Mother">
+        فلمّا سمع النمر قول كليلة رجع فدخل على أمّ الأسد
+        <lb/>
+
+        فحدّثها الحديث الذي سمع كلّه
+      </p>
+
+      <p n="The Mother Goes to the Lion and Finds Him Sad">
+        فلما أصبحت انطلقت إلى ابنها فرأته
+        <lb/>
+
+        حزينًا كئيبًا فلما عاينت ذلك منه عرفت أنّه ليس إلّا على
+        <lb/>
+
+        شترية
+      </p>
+
+      <p n="The Mother Says Grief is Weakening">
+        فقالت إنّ الأسف والهمّ لا يزيدان شيئًا وهما يُنحلان الجسم ويذهبان
+        <lb/>
+
+        العقل ويضعفان القوّة
+      </p>
+
+      <p n="The Mother Criticizes Lion's Grieving">
+        فأعلمني شأنك فإن كان ممّا ينبغي لك أن تحزن
+        <lb/>
+
+        له وتحيل عنه فلست ولا أحدًا من جندك يخلو من ذلك وإن كان
+        <lb/>
+
+        إنّما هو لقتل شتربه فقد استبان لنا ولك أنّك ركبت ذلك منه ظلمًا
+        <lb/>
+
+        على غير جرمٍ ولا غشٍّ ولا حدثٍ فلو كنت فكّرت في أمره وقست ما لك
+        <lb/>
+
+        في نفسه لما تجد في نفسك له لكان في ذلك معتبرٌ
+      </p>
+
+      <p n="Love and Hate Are Reciprocal">
+        فإنّه يُقال
+        <lb/>
+
+        امرءًا لا يودّ أحدًا ولا يبغضه إلّا وجد له في نفسه مثل ذلك
+      </p>
+
+      <p n="The Mother Asks About the Lion's Feelings Toward the Ox">
+        فأعلمني
+        <lb/>
+
+        هل ترى ضميرك يشهد أنّ الذي فعلت شترية كان على حقدًا أو عداوةً
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="211"/>
+
+      <p n="Men Receive Their Gifts">
+        وأعطى بلاد السيف وأرسل إلى كبابرون الثياب الكتّان
+      </p>
+
+      <p n="Queen Shall Choose Gift">
+        وأمر بلاد بحمل ما بقي
+        <lb/>
+
+        واتّباعه به إلى مجلس نسائه ففعل ذلك فدعا الملك إبلاد وحرقتاه امرأتيه
+        <lb/>
+
+        فقعدتا بين يديه فوضع الإكليل والكسوة بين يدي إبلاد وأمرها بالاختيار
+      </p>
+
+      <p n="Hesitating Queen Looks At Vizier">
+        فلمّا رأتهما أعجبتاها فلم تدر أيّهما تأخذ فنظرت إلى بلاد ليشير عليها
+      </p>
+
+      <p n="Vizier Shows Dress King Notices">
+        فغمزها
+        <lb/>
+
+        على الكسوة ورفع الملك رأسه فلمّا رأته ظنّت أنه فطن لها
+      </p>
+
+      <p n="Queen Chooses Crown">
+        فقبضت على الإكليل
+        <lb/>
+
+        ورفضت الكسوة مخافة أن يسيء الملك بها الظنّ لإشارة بلاد إليها
+      </p>
+
+      <p n="Vizier Pretends To Be Cross Eyed">
+        ولبث بلاد
+        <lb/>
+
+        بعد ذلك أربعين يومًا لا يدخل على الملك إلّا كسر عينه شفقة أن يتّهمه أو
+        <lb/>
+
+        يظنّ أنّ بينهما شيًا لو اطلع عليه لقتلهما
+      </p>
+
+      <p n="Favorite Choses Dress">
+        وأخذت امرأته الأخرى الكسوة
+      </p>
+
+      <p n="King Alternates Nights With Women">
+        فكانت ليلة لبلاد تكون فيها عند الملك تلي خدمته وليلة لحريفتها تفعل مثل
+        <lb/>
+
+        ذلك به
+      </p>
+
+      <p n="Queen Serves Rice On Her Night">
+        فبينما إبلاد عنده ومعها إناء فيه أرزّ حارّ وهي قائمة على رأسه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

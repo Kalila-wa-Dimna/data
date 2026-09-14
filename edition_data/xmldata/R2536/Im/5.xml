@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="5"/>
+
+      <p n="unassigned">
+        به إلى منزلي ثمّ أتّبعهم ففعل ذلك فجاء الرجال فحمّل على كلّ رجل منهم
+        <lb/>
+
+        ما أطاق لينطلقوا به إلى منزله وجعل
+        <lb/>
+
+        الأوّل فالأوّل من الرجال يذهب بما معه إلى منزل نفسه فلم
+        <lb/>
+
+        يزالوا في ذلك حتّى نفد الكنز ثمّ انطلق الرجل إلى منزله
+        <lb/>
+
+        بعد الفراغ فلم يجد شيئًا ووجد كلّ رجل منهم قد حاز بما حمل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

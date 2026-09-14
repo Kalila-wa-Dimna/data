@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="9"/>
+
+      <p n="Reason Like Hidden Fire">
+        النار في العود فطبيعتها فيه كامنة لا تظهر حتّى يقدحها قادح من غيرها
+        <lb/>
+
+        فإذا قدحها أظهرت ضوءها وحريقها
+      </p>
+
+      <p n="Adab And Experience Kindle Reason">
+        وكذلك العقل كامن في الإنسان لا يظهر
+        <lb/>
+
+        حتّى يظهره الأدب وتقويه التّجارب
+      </p>
+
+      <p n="Reason Strengthens">
+        فإذا استحكم كان أولى التجارب والمقوّي
+        <lb/>
+
+        لكلّ أدب ومخبر لكلّ المنافع ونافع لكلّ ضير فلا شيء أفضل من العقل إذا أعانه
+        <lb/>
+
+        الأدب وقوّته التجارب
+      </p>
+
+      <p n="Reason Brings Success">
+        فمن رُزق العقل ومنّ به خالقه عليه أدرك في الدنيا
+        <lb/>
+
+        أمله وفي الآخرة أفضل نصيب وأجزل المنازل
+      </p>
+
+      <p n="Reason Strengthens Kings">
+        فالعقل هو المثبّت للملك والمشرّف
+        <lb/>
+
+        له والمقوّي للملك السعيد والسوقة لا تصلح إلّا عليه وعلى تدبيره
+      </p>
+
+      <p n="Kisra Most Learned King">
+        وقد رزق الله
+        <lb/>
+
+        ملكنا هذا السعيد الجدّ أنوشروان من العقل أفضل الرزق ومن النصيب أجزله
+        <lb/>
+
+        وأعان على العلم ما رزق من ذلك بحسن الأدب والاستحباب عن العلم والتفسير
+        <lb/>
+
+        بجميع الفلسفة والتخيّر للصواب ممّا ظهر فبلغ في ذلك ما لم يبلغه ملكًا قطّ
+        <lb/>
+
+        ممّن كان قبله من الملوك
+      </p>
+
+      <p n="Kisra Hears Of K D">
+        وكان فيّما ينقر عن العلم أنّه بلغه عن كتاب من كتب الهند
+      </p>
+
+      <p n="K D Book Praise">
+        وهو أفضل كلّ أدب ورأس كلّ علم لما يحتاج إليه الملوك من تدبيرهم مملكتهم
+        <lb/>
+
+        وأدب للسوقة ممّا يرضون به ملكهم ويصلحون به معايشهم وهو كتاب
+        <lb/>
+
+        كليلة ودمنة
+      </p>
+
+      <p n="Kisra Eager To Get K D">
+        فلمّا تيقّن ما بلغه من ذلك الكتاب وما فيه من المنافع في تقوية
+        <lb/>
+
+        العقل والأدب لم يطمئنّ حتّى وصّى على استفادته والنظر فيه
+      </p>
+
+      <p n="Burzoy Tells Of Kisras Mission">
+        أن ابتدأني
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

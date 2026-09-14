@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="183"/>
+
+      <p n="Thief And Demon Plot">
+        حتّى انتهيا مع الناسك إلى منزله
+      </p>
+
+      <p n="Man Goes To Sleep">
+        فأدخل البقرة بيتًا ودخل هو في بيته ونام
+      </p>
+
+      <p n="Thiefs Concerns">
+        وأشفق اللصّ أن يبدأ الشيطان بالرجل قبل أن يسرق البقرة فيصيح
+        <lb/>
+
+        الناسك فيجتمع الناس لصوته فلا يقدر على أخذ البقرة فقال
+        <lb/>
+
+        اللصّ انتظرني حتّى آخذ البقرة ثمّ عليك بالرجل
+      </p>
+
+      <p n="Demons Concerns">
+        فأشفق الشيطان
+        <lb/>
+
+        أن يأخذ اللصّ البقرة فيشعر به أحد فلا يقدر على قتل الرجل قال
+        <lb/>
+
+        الشيطان بل انتظرني حتّى أقتل الرجل ثمّ عليك بالبقرة فأبى كلّ
+        <lb/>
+
+        واحد منهما على صاحبه
+      </p>
+
+      <p n="Thief And Demon Shout">
+        ولم يزالوا في اختلافهما حتّى نادى اللصّ أيّها
+        <lb/>
+
+        الناسك استيقظ فهذا شيطان يريد قتلك ونادى الشيطان أن
+        <lb/>
+
+        استيقظ أيّها الناسك فهذا لصّ يريد أخذ بقرتك
+      </p>
+
+      <p n="Thief And Demon Flee">
+        فاستيقظ الناسك
+        <lb/>
+
+        وجيرانه وهرب الخبيثان
+      </p>
+
+      <p n="Objectors Deems Owls Misled">
+        فلمّا فرغ الثالث من كلامه قال
+        <lb/>
+
+        الأوّل الذي أشار بقتل الغراب كم قد غرّكنّ هذا الغراب وخدعكنّ
+        <lb/>
+
+        خبره ومكره
+      </p>
+
+      <p n="Objector Asks Reconsideration">
+        فأنتنّ تردن تضييع الرأي
+      </p>
+
+      <p n="Objector Warns Of Trickery">
+        فانظرن نظر ذوي
+        <lb/>
+
+        الألباب الذين يعرفون أمور عدوّهم
+      </p>
+
+      <p n="Dont Be Credulous">
+        كالفجرة الذين يقرّون
+        <lb/>
+
+        بما رأوه فتلين قلوبهم لعدوّهم عند أدنى ملق وتضرّع ويكونون لما
+        <lb/>
+
+        سمعوا أشدّ تصديقًا منهم ممّا عاينوا وعلموا
+      </p>
+
+      <p n="Mention Deceived Carpenter">
+        كالنجّار الذي كذّب بما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

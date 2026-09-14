@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="121"/>
+
+      <p n="The Mother Asks for Proof of Dimna's Truthfulness">
+        قالت أمّ الأسد ما الذي كنت قلت وما الذي صدقت به
+      </p>
+
+      <p n="Dimna Cites His Courage to Speak at Court as Proof">
+        فقال دمنة الملك
+        <lb/>
+
+        يعلم إنّي لو كنت كاذبًا لم أقلْ هذه المقالة كاذبًا عنده وأنا أرجو أن يستبين
+        <lb/>
+
+        له صدقي وبراءتي وصحّة ما قبلي
+      </p>
+
+      <p n="The Lion's Silence Makes the Mother Doubt">
+        فلمّا رأت أمّ الأسد الأسد لا ينطق بشيء
+        <lb/>
+
+        شكّت في أمره وقالت لعلّه مكذوب عليه برئ ممّا رمُي به
+      </p>
+
+      <p n="Who King and Court Listen to in Silence Appears Truthful">
+        فإنّ المعتذر عند
+        <lb/>
+
+        الملك بمحضر الجند لا يردّ عليه شيئًا من منطقه
+      </p>
+
+      <p n="Lion Hands Dimna Over to Judge for Investigation">
+        فأمر الملك بدمنة فقُذف في عنقه
+        <lb/>
+
+        جامعة ثمّ حبس وأمر بالنظر في أمره
+      </p>
+
+      <p n="The Mother Knows about Dimna's Infamy">
+        فقالت أمّ الأسد قد بلغني عن هذا الفاجر
+        <lb/>
+
+        الكاذب شرّ ما يقال
+      </p>
+
+      <p n="Dimna Has a Bad Reputation">
+        وقد تتابعت الألسن بذلك عليه
+      </p>
+
+      <p n="Lion Repeats Question for Mother's Source">
+        فقال الأسد
+        <lb/>
+
+        اعلميني من حدّثك بأمر **
+      </p>
+
+      <p n="The Lion Wants to Avoid Haste">
+        فإنّي لا أشتري بهواي ضرّ نفسي
+      </p>
+
+      <p n="The Mother Names the Leopard">
+        فقالت أعلمني خليلك
+        <lb/>
+
+        وأمينك
+      </p>
+
+      <p n="Lion Promises to Act and Dismisses His Mother">
+        فقال الأسد حسبك
+      </p>
+
+      <p n="Kalila Seeks out Dimna in Prison">
+        فلمّا بلغ كليلة أنّ دمنة حبس انطلق ودخل
+        <lb/>
+
+        عليه
+      </p>
+
+      <p n="Kalila Weeps when Seeing Dimna">
+        فلمّا رآه بكى
+      </p>
+
+      <p n="Kalila Admits Having Been Harsh on Dimna">
+        وقال قد ضاق أمرك إلى ما لا أقدر أغلظ لل في الكلام
+        <lb/>
+
+        ولا استقبالك بما تكره ولكن هل تذكر الذي كنت أقول لك وأشير به
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

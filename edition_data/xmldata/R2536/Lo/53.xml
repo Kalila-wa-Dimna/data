@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="53"/>
+
+      <p n="Ruler Must Not Undervalue the Noble">
+        تضييع حقّ ذي المروءة والفضل
+      </p>
+
+      <p n="Ruler Must Correct Former Neglect">
+        وأن يستدرك ما فاته منه وفرّط
+        <lb/>
+
+        فيه من ذلك
+      </p>
+
+      <p n="A Neglected Person May Be Favoured Anew">
+        ولا يغرّه أن يرى من صاحبه الذي يفعل ذلك به رضى
+        <lb/>
+
+        وإقرارًا
+      </p>
+
+      <p n="A Viper Stepped on Once May Not Bite">
+        فإنّ الناس في ذلك رجلان أحدهما طباعه الشرّ فهو كالحيّة
+        <lb/>
+
+        التي إن وطئها امرئ فلم تلدغْه لم يكن جديرًا بالعودة منها مثل ذلك
+      </p>
+
+      <p n="Cool Sandalwood May Become Hot">
+        وآخر أصل طبائعه وخلائقه الشهوة فهو كالصندل البارد الذي إذا
+        <lb/>
+
+        فُرّط في حكّه صار نارًا مؤذيًا
+      </p>
+
+      <p n="Dimna Asks about Lion's Immobility">
+        فلمّا أنس دمنة من الأسد وخلا به
+        <lb/>
+
+        قال إنّي رأيت الملك قد أقام منذ زمان بمكان واحد لم يبرح
+        <lb/>
+
+        منه فلأيّ شيء ذلك
+      </p>
+
+      <p n="Lion's Hesitation to Appear Cowardly">
+        قال له الأسد وكره أن يعلم دمنة منه
+        <lb/>
+
+        جبنًا لم يكنْ ذلك لبأس
+      </p>
+
+      <p n="Description of the Loud Bellowing Sound">
+        فبينا هما كذلك إذ خار الثور خورًا
+        <lb/>
+
+        شديدًا فهيّجه ما سمع منه على
+      </p>
+
+      <p n="Lion's Explanation of His Immobility">
+        أن قال له هذا الصوت حبسني بمكاني
+        <lb/>
+
+        هذا
+      </p>
+
+      <p n="Lion's Speculation About the Source's Size">
+        وما أدري ما هو غير أنّي أظنّ أنّ جثّته على قدر صوته
+      </p>
+
+      <p n="Lion's Concern About Territorial Safety">
+        فإن
+        <lb/>
+
+        كان ذلك كذلك فليس بمنزلنا قرار
+      </p>
+
+      <p n="Dimna's Inquiry About Additional Observations">
+        فقال دمنة للأسد وهل
+        <lb/>
+
+        راب الملك شيء غير هذا
+      </p>
+
+      <p n="Dimna's Advice Against Abandoning Territory">
+        فإن كان لم يكن ذعره سواه فليس بحقيق
+        <lb/>
+
+        أن يدع وطنه فإنّ السكر آفته الضعف والشره آفته اللطف
+        <lb/>
+
+        وإنّ المودّة آفتها النميمة والقلب الضعيف آفته النفخ والجلبة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

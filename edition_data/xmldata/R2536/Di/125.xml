@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="125"/>
+
+      <p n="Kalila Admits Having Been Harsh on Dimna">
+        ولا أن استغب لك بما تكره ولكنّك هل تذكر ما كنت أقول لك وأنصحك
+        <lb/>
+
+        وأشير به عليك
+      </p>
+
+      <p n="Conceit Caused Dimna's Demise">
+        فلم تلتفت إلى قولي ورأي ولم تأخذ بهما إلّا عجابًا برأيك
+        <lb/>
+
+        ودهائك
+      </p>
+
+      <p n="The Schemer Dies Before His Time">
+        وقد قيل إنّ المحتال يموت قبل أجله
+      </p>
+
+      <p n="Kalila Calls Dimna's Situation Worse Than Death">
+        وليس ذلك لانقطاع
+        <lb/>
+
+        الحيوة ولكن لما صرت إليه ممّا الموت أروح منه ويل لحلمك وفطنتك
+        <lb/>
+
+        وعلمك كيف نزعتا منك
+      </p>
+
+      <p n="Dimna Cites His Greed as Cause for Not Listening">
+        قال دمنة إنّك لم تزلْ تتكلّم بخيرٍ وتأمر به
+        <lb/>
+
+        ولكن لم أكنْ أستمع منك ولا أقبل منك لما كان بي من الشره والحرص
+        <lb/>
+
+        والرغبة في طلب المنزلة وما كُتب عليّ من البلاء والشقوة ولولا ذلك
+        <lb/>
+
+        لكان فيما وعظتني به ما مثله انتهى اليه وحمدت عاقبته
+      </p>
+
+      <p n="Who Ignores Friends’ Advice Comes to Regret">
+        ومن كان
+        <lb/>
+
+        مبتلًى بالشره والحرص ولم يسمع من أهل ودّه ونصحائه يصير أمره
+        <lb/>
+
+        إلى الندامة
+      </p>
+
+      <p n="Dimna's Ambition Dominated Him">
+        وقد حلّ ذلك بي اليوم ودخل عليّ ولكن ما عشت
+        <lb/>
+
+        بشره النفس وطموحها الذين يغلبان رأي الحكيم وعلم العالم
+      </p>
+
+      <p n="Desire for Noxious Food Kills the Patient">
+        كالمريض
+        <lb/>
+
+        الذي قد عرف أنّ مضرّته في شهوته من الطعام وإنّ ذلك يزيد
+        <lb/>
+
+        في وجعه فلا يدع تناوله والإضافة منه فيزداد مرضًا لعله يموت
+        <lb/>
+
+        منها
+      </p>
+
+      <p n="Dimna Fears for Kalila">
+        ولست أحزن اليوم على نفسي ولكنّي أحزن عليك لأنّي أخاف
+        <lb/>
+
+        أن تؤخذ بسبي للذي كان بيني وبينك من القرابة والإخاء والمودّة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

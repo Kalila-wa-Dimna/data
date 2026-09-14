@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="143"/>
+
+      <p n="unassigned">
+        عن حديثي فاعتذر إليه الناسك وقال إنّي قد أصغيت إلى حديثك
+        <lb/>
+
+        ولكن كنت أفعل ذلك لأنفّر جرذان البيت لست أصنع فيه طعامًا إلّا
+        <lb/>
+
+        أكلوه وقد شقّ ذلك عليّ فقال الضيف نزلت على رجل مرّة بمكان كذا
+        <lb/>
+
+        وكذا فتعشّينا جميعًا ثمّ فرش لي وانقلب الرجل إلى مضجعه وكان بيني
+        <lb/>
+
+        وبينه خصّ من قصب فسمعت الرجل وهو يقول لامرأته في آخر الليل
+        <lb/>
+
+        إنّي أريد غدًا أدعو رهطًا يأكلون عندي فقالت وكيف تفعل ذلك وليس
+        <lb/>
+
+        لك فضل على عيالك وأنت رجل لا تستبقي شيئًا ولا تدّخره فقال لها لا
+        <lb/>
+
+        تندمي على شيء أطعمناه وأنفقناه فإنّ الجمع والادّخار ربّما كانت عاقبته
+        <lb/>
+
+        لصاحبها كعاقبة الذئب قالت المرأة وكيف كان ذلك قال الرجل خرج
+        <lb/>
+
+        رجل من القنّاص عاديًا بقوسه ونشابه يلتمس صيدًا فلم يجاوز بعيدًا حتّى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Rd</chapter>
+  </chapter>
+</TEI>

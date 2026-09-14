@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="58"/>
+
+      <p n="Lion's Welcoming Inquiry to Ox">
+        فأحسن الأسد مسألة شتربة وألطف له في القول وقال له متى قدمت
+        <lb/>
+
+        هذه البلاد وما نزع بك إليها
+      </p>
+
+      <p n="Ox Recounts His Story to Lion">
+        فقصّ الثور عليه خبره من أوّله إلى آخره
+      </p>
+
+      <p n="Lion Invites Ox to Stay">
+        فقال له الأسد الزمني فإنّي مكرمك ومحسن إليك فدعا له الثور
+        <lb/>
+
+        وأثنى عليه خيرًا
+      </p>
+
+      <p n="Lion's Growing Trust in Ox">
+        ثمّ إنّ الأسد أدناه وقرّبه واقتبس منه رأيًا
+        <lb/>
+
+        وعقلًا
+      </p>
+
+      <p n="Lion's Increasing Favor Towards Ox">
+        وائتمنه على أسراره ومشاورته في أموره فلبث الأسد لا
+        <lb/>
+
+        يزداد في الثور إلّا رغبة وله حبًّا وبه إعجابًا حتّى صار أخصّ أصحابه
+        <lb/>
+
+        به وآثرهم منزلة وأدناهم مكانًا
+      </p>
+
+      <p n="Dimna's Jealousy of Ox's Favor">
+        فلمّا رأى دمنة أنّ
+        <lb/>
+
+        الأسد قد أدخل شتربة دون أصحابه وأنّه صاحب رأيه
+        <lb/>
+
+        ومشورته وخلوته ولهوه ومؤاكلته اشتدّ عليه ذلك وغاظه ذلك
+        <lb/>
+
+        وحسده وبلغ منه
+      </p>
+
+      <p n="Dimna Complains to Kalila">
+        فشكا ذلك إلى أخيه كليلة
+      </p>
+
+      <p n="Dimna's Lament">
+        وقال له يا أخي ألا
+        <lb/>
+
+        تعجب لعجز رأيي وسفهي وصنعي بنفسي جلبت ثورًا غلبني على منزلتي
+      </p>
+
+      <p n="Kalila Introduces the Ascetic's Parable">
+        فقال له كليلة أصابك إذًا مثل ما أصاب الناسك
+      </p>
+
+      <p n="Dimna Asks About the Ascetic">
+        قال دمنة
+        <lb/>
+
+        وكيف كان ذلك
+      </p>
+
+      <p n="Fourth Subtale of Ascetic and Thief">
+        قال كليلة زعموا أنّ ناسكًا أصاب من بعض الملوك
+        <lb/>
+
+        كسوة فائقة لها حسن وثمن فأبصرها لصّ فرغب فيها واحتال
+        <lb/>
+
+        الحيل لاستخراجها
+      </p>
+
+      <p n="The Thief Deceives the Ascetic">
+        فدخل على الناسك فقال إنّي أريد أن أصحبك وأتعلّم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

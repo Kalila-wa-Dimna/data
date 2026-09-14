@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="181"/>
+
+      <p n="Suspect A Fawning Foe">
+        بعيد منه وإنّما يقدر عليه في قربه منه
+      </p>
+
+      <p n="Objector Expects Trickery From Crows">
+        وإن الغربان لم يستطعن
+        <lb/>
+
+        أن ينكوننا بشيء من هذا
+      </p>
+
+      <p n="Objector Advises Death Again">
+        وإن رأى الملك قتله وتعجيله إمضاء ذلك
+      </p>
+
+      <p n="Objector Became Fearful Of Crows">
+        فإنّي لم
+        <lb/>
+
+        أتخوّف الغربان قطّ
+      </p>
+
+      <p n="King O Ignores Objector">
+        فلم يلتفت الملك يعني ملك البوم إلى قوله ولم يسمع منه
+        <lb/>
+
+        لجهله وقلّة عقله
+      </p>
+
+      <p n="Spy Well Accommodated">
+        وأمر بإحسانه وإكرامه
+      </p>
+
+      <p n="Advice Mistrust Spy">
+        فقال البوم الذي كان رأيه
+        <lb/>
+
+        قتل الغراب أيّها الملك إن كنت لا تريد قتله فأجعله بمنزلة العدوّ المتخوّف
+        <lb/>
+
+        فإنّ الغراب عالم دهيّ ذو مكر وأدب وحيل وخدائع وإنّما أتى لمنفعة نفسه
+        <lb/>
+
+        وأصحابه وفسادنا
+      </p>
+
+      <p n="Everyone Trusts Spy">
+        فهان ذلك على ملك البوم وصنعه للذي حضر وجنوده
+        <lb/>
+
+        من الهلاك ولم يمنعه قوله من إكرام الغراب والإحسان إليه
+      </p>
+
+      <p n="Spy Charms By Eloquence">
+        وكان الغراب
+        <lb/>
+
+        لبيبًا عذب اللسان عارفًا بما يحبّ ملك البوم وكان يحدّث له في كلّ يوم
+        <lb/>
+
+        قولًا يعجبه
+      </p>
+
+      <p n="unassigned">
+        ثمّ أن الغراب قال يومًا وعنده جماعة من البوم والذي كان يأمر
+        <lb/>
+
+        بقتله حاضرًا أنّي قد لقيت من الغربان ما قد علمتم وإنّما أردت قتلي فحقد
+        <lb/>
+
+        ما فعلن في قلبي وهو غير ذاهب ولا زائل حتّى أرى بهن أحسرنا ولهن هلاكا
+        <lb/>
+
+        واستئصالا وألزمهن أشدّ ما أقدر عليه ولا أرى أنّي أظفر بذلك لأنّي غراب
+        <lb/>
+
+        وقد بلغني عن أهل العلم قالوا من قرّب نفسه إلى النار فأحرقها فإنّه أعظم
+        <lb/>
+
+        المتقربين ثوابًا فإن رأى الملك أن يأمر بي فأدعو ربي أن أكون بومًا فليفعل
+        <lb/>
+
+        لعلّي أن أقضي ما في نفسي على الغربان فقال البوم الذي كان يأمر بقتله ما أشبهك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="254"/>
+
+      <p n="Lion Reassures Jackal">
+        قال الأسد قد سمعت مقالتك فلا تخف شيئًا ممّا أراك تتخوّف
+        <lb/>
+
+        ولا أرى بدًّا من الاستعانة بك
+      </p>
+
+      <p n="Jackal Gives Conditions for Service">
+        قال ابن آوى أمّا إذ أبى الملك فليجعل
+        <lb/>
+
+        لي عهدًا إن بغى عليّ أحد من أصحابه ممّن هو فوقي فيخافني على منزلته
+        <lb/>
+
+        أو من هو دوني وينازعني منزلتي فذاكر للملك منهم ذاكر بلسانه
+        <lb/>
+
+        أو بلسان غيره ممّن يريد تحميل الملك عليّ أن لا يعجل وأن يتثبّت فيما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

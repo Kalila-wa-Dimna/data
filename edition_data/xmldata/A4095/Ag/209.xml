@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="209"/>
+
+      <p n="Wrong Ambitions Ruin Society">
+        ثمّ أنّ الأشياء في ذلك تجري على منازل حتّى تنتهي إلى الخطر الجسيم
+        <lb/>
+
+        من مصادقة المَلك في مُلكه
+      </p>
+
+      <p n="End Back To Frame Dialoge">
+        فلمّا انتهى المَلك والفيلسوف
+        <lb/>
+
+        إلى باب الناسك والضيف سكت المَلك
+      </p>
+
+      <p n="Philosopher Wishes Glory For King">
+        وقال الفيلسوف
+        <lb/>
+
+        عشت أيّها المَلك ألف سنة ومُلّكت الأقاليم السبعة وأُعطيت من
+        <lb/>
+
+        كلّ شيء سببًا وبلغته في سرور منك برعيّتك وقرّة عين منهم بك
+        <lb/>
+
+        ومساعدة من القضاء والقدر
+      </p>
+
+      <p n="Philosopher Praises Kings Wisdom">
+        فلقد كمل منك الحلم وزكي منك العقل والنيّة
+        <lb/>
+
+        فلا يوجد في رأيك نقص ولا في قولك سقط ولا في فعلك عيب وجُمع
+        <lb/>
+
+        فيك النجدة واللين فلا توجد جبانًا عند اللقاء ولا ضيّق الصدر فيما
+        <lb/>
+
+        ينوبك من الأشياء
+      </p>
+
+      <p n="Philosopher Motivates Book">
+        وقد شرحت لك الأمور ولخّصت لك
+        <lb/>
+
+        جواب ما سألتني عنه واجتهدت لك في رأيي ونظرت
+        <lb/>
+
+        بمبلغ فطنتي في الناس قضاء حاجتك فاقض حقّي تحسن النيّة منك
+        <lb/>
+
+        بإعمال فكرك وعقلك فيما وصفت لك
+      </p>
+
+      <p n="Advisor Is Not Superior">
+        فإنّ الآمر بالخير
+        <lb/>
+
+        ليس بأسعد به من المطيع له فيه ولا الناصح بأولى بالنصيحة من
+        <lb/>
+
+        المنصوح له بها ولا المتعلّم بأسعد بالعلم ممّن تعلّمه منه
+      </p>
+
+      <p n="Heeding Book Avoids Problems">
+        فمن تدبّر
+        <lb/>
+
+        هذا الكتاب بعقله وعمل فيه بأصالة رأيه ثمّ فكّر فيه كان
+        <lb/>
+
+        قَمِنًا للحوادث العظام والأمور الجسام
+      </p>
+
+      <p n="Philosopher Wishes Guidance For King">
+        والله يوفّقك أيّها
+        <lb/>
+
+        المَلك ويُصلح منك ما كان فاسدًا
+      </p>
+
+      <p n="King Rewards Philosopher">
+        فأمر المَلك عند
+        <lb/>
+
+        ذلك بفتح أبواب خزائنه وأن يُحكّم فيها الفيلسوف
+        <lb/>
+
+        في أخذ ما احتكم من الأموال ومن صنوف الدرّ والجوهر
+        <lb/>
+
+        والذهب والفضّة وأن لا يُمنع شيئًا من ذلك وأقطعه إقطاعًا كثيرًا
+        <lb/>
+
+        ورفع درجته ومرتبته إلى الغاية التي لا يسمو إليها أحد من نظرائه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

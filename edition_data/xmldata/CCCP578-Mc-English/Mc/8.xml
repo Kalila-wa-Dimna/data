@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="8"/>
+
+      <p n="The Intelligent Escapes Forced Friendship">
+        The sensible man makes peace with his enemy, if he is compelled to that: he treats him well, displays friendliness, and shows him
+        <lb/>
+
+        trust on his part-if he can’t manage otherwise-but he makes haste to get away from him when he finds
+        <lb/>
+
+        a way for that.
+      </p>
+
+      <p n="Trusting Quickly Is Risky">
+        He also knows that he who is felled by his own candor can hardly be excused for his misstep;
+      </p>
+
+      <p n="The Intelligent Distrusts Forced Friendship">
+        he should keep his promise
+        <lb/>
+
+        to whom he enters into a truce with, while trusting himself with this in ways in which he doesn’t trust others
+      </p>
+
+      <p n="The Best Thing Is Distance From the Enemy">
+        and preferring nothing to distance from his enemy
+        <lb/>
+
+        as much as he can.
+      </p>
+
+      <p n="Staying Away from the Enemy is the Best Judgment">
+        Staying away from the huntsman is prudent for you; and staying away from you is prudent for me.
+      </p>
+
+      <p n="The Rat Will Love the Cat from Afar">
+        My judgment is to like you
+        <lb/>
+
+        from afar,
+      </p>
+
+      <p n="The Rat Does Not Need a Reward">
+        and there’s no duty for you to honor me likewise.
+      </p>
+
+      <p n="The Last Verdict Is No Reunion">
+        There isno way for us to ever reunite.’”
+      </p>
+
+      <p n="unassigned">
+        The Chapter of the King and the Bird Qanbara.
+        <lb/>
+
+        It is the chapter of the people of requital and those wary of one another, which is the parable of someone who is mistrustful and not open toward
+        <lb/>
+
+        another after that which the other had done to him before. It includes the importance of developing trust and avoiding to be misled
+        <lb/>
+
+        by someone’s agreeableness and kindness. It calls for being wary, guarded, and cautious.
+        <lb/>
+
+        The King said to the Philosopher: “I have heard the parable of the man who is surrounded by his enemies; who seeks help from one of them
+        <lb/>
+
+        and reconciles with him, so that he can be delivered, through it, from that he had feared; who meanwhile keeps his promise and is saved. Present to me this next parable
+        <lb/>
+
+        of the people who should be wary from one another. The Philosopher said: “They claim that some grand king
+        <lb/>
+
+        called Ibn Madyar had a bird called Qatra, who could talk, was smart, and had a nestling.
+        <lb/>
+
+        The King ordered the bird, Qatra, and his nestling be taken to a woman who was the lady over all the women
+        <lb/>
+
+        in his palace and ordered her to take good care of him. Then the woman gave birth to a male child, who grew accustomed to the nestling
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

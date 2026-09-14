@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="4"/>
+
+      <p n="Sailors Depend on Ships and Vice Versa">
+        and its passengers-they are delivered by the ship, which in turn emerges from the sea and is delivered by them.
+      </p>
+
+      <p n="The Cat Puts His Trust in the Rat">
+        “When the cat heard his talk, he was delighted
+        <lb/>
+
+        and knew that the rat was truthful in it and said, ‘I see that your words are akin to the truth, and I desire
+        <lb/>
+
+        this truce, in which for you and me, I hope, will be survival. I will then be grateful and grant you the best
+        <lb/>
+
+        reward. You are to be thanked, and with that, I will be safe in the end due to you-I will neither fear
+        <lb/>
+
+        you nor panic.’”
+      </p>
+
+      <p n="The Rat Explains the Strategy">
+        “When the cat reached the end of his speech,” he continued, “the rat turned to him
+        <lb/>
+
+        and said, ‘When I approach you, the mongoose and the owl should see us, so they will know
+        <lb/>
+
+        of our truce, and withdraw, giving up on us.’ ‘You have spoken truthfully,’ the rat said.” “When
+      </p>
+
+      <p n="The Cat Fulfills His Part">
+        the rat approached the cat, intending to do what the cat had ordered
+      </p>
+
+      <p n="The Foes Leave Frustrated">
+        and the owl and
+        <lb/>
+
+        the mongoose saw him, they left disappointed.
+      </p>
+
+      <p n="The Rat Approaches to Cut the Rope">
+        ” He said: “The rat approached him and took to gnawing at the cat’s ties,
+      </p>
+
+      <p n="The Cat Deems the Rat's Efforts Slow">
+        but the cat found him slow and said, ‘I don’t see that you are serious If you’ve attained your want
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

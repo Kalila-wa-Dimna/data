@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="233"/>
+
+      <p n="The Rat Fulfills the Pact">
+        أن يمكر به لعلّمه أنّه غادر لا أمانة له
+      </p>
+
+      <p n="The Cat and the Rat Escape">
+        فلمّا قطع بقيّة حباله وعلم السنّور أنّه خلص
+        <lb/>
+
+        من الحبال مرّ هاربًا داهشًا إلى الشجرة فصعدها وانحجر الجرذ في حجره وأخذ
+        <lb/>
+
+        الصيّاد حباله مقطّعة وانصرف حزينًا
+      </p>
+
+      <p n="The Cat Calls Back the Rat">
+        وخرج الجرد بعد ذلك فرأى السنّور
+        <lb/>
+
+        فكرِه أن يتقرّب منه فناداه السنّور هلمّ أيّها الصديق ذو البلاء الحسن
+      </p>
+
+      <p n="The Cat Reminds the Rat of their Friendship">
+        ما منعك
+        <lb/>
+
+        من الدنوّ منّي فأجازيك بما أبليتني فتعال إليّ ولا تقطع إخائي
+      </p>
+
+      <p n="If One Gives Up a Friend One Loses Out">
+        فإنّه من اتّخذ
+        <lb/>
+
+        صديقًا ثمّ أضاع إخاءه حُرم ثمرة الإخاء وأيس منه أهل مودّته
+      </p>
+
+      <p n="The Cat Suggests a Reward">
+        فإنّ يدك عندي
+        <lb/>
+
+        اليد التي لا تُنسى وأنت حقيق أن تلتمس مكافأتي إيّاك بذلك ومجازاة إخواني وأصدقائي
+        <lb/>
+
+        لك
+      </p>
+
+      <p n="The Cat Reassures the Rat">
+        فلا تخافنّ مني شيئًا فاعلم إنّ ما قيل لك مبذول ثمّ إنّه حلف له واجتهد
+        <lb/>
+
+        على صدقه
+      </p>
+
+      <p n="The Rat Distinguishes Hidden from Overt Enmity">
+        فقال الجرذ أنّه ربّ عداوة باطنة ظاهرها صداقة وهي
+        <lb/>
+
+        أشدّ ضررًا من العداوة الظاهرة
+      </p>
+
+      <p n="Riding an Elephant's Tusk">
+        ومن لم يحترس منها وقع موقع الرجل الذي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

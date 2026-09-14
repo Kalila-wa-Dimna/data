@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="308"/>
+
+      <p n="unassigned">
+        فأسرعت الأنثى شوقًا منها إليه فوثب عليها ابن آوى وكان كامنًا
+        <lb/>
+
+        وراء ذلك صخرة فاختطفها وكلّ هذا يتقلّب فيه معه أعداؤه
+        <lb/>
+
+        الأربع الريح والدم والبلغم والمرّة والسمّ المميت والحيّات
+        <lb/>
+
+        كذا وكذا فأخبرته بحالك وجمالك وكمالك وأدبك مع
+        <lb/>
+
+        الخلّة التي بيني وبينك والموضع الذي نحن فيه مع وحاجتك إلى
+        <lb/>
+
+        الزوج وسألني أن أسير بك إلى الموضع الذي هو فيه لينظر إليك
+        <lb/>
+
+        فانطلقي بنا إليه فانطلقت الأنثى وطارا معًا حتّى انتهينا إلى الكهف
+        <lb/>
+
+        فقال المرزم للأنثى هو في ذلك الكهف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kw</chapter>
+  </chapter>
+</TEI>

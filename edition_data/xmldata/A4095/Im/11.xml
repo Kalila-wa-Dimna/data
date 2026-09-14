@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="11"/>
+
+      <p n="The Translator Added the Preface">
+        هذا الكتاب وأخرجوه من الهنديّة إلى الفارسيّة ألحقوا
+        <lb/>
+
+        بابًا بالعربيّة ليكون له أسًّا ليستبين فيه أمر هذا الكتاب
+        <lb/>
+
+        لمن أراد قراءته وفهمه والاقتباس منه
+      </p>
+
+      <p n="The Ending of the Preface">
+        فأوّل ما نبتدئ بذكر
+        <lb/>
+
+        بعث برزويه إلى بلاد الهند
+      </p>
+
+      <p n="Chapter Title Mission">
+        باب توجيه كسرى أنوشروان برزويه إلى بلاد الهند لطلب الكتاب
+      </p>
+
+      <p n="God Equipped Humans">
+        قال بزرجمهر أمّا بعد فإنّ الله تبارك وتعالى خلق خلقه
+        <lb/>
+
+        برحمته ومنّ على عباده بفضله ورزقهم ما يقدرون به على
+        <lb/>
+
+        إصلاح شأنهم ومعايشهم في الدنيا وما يدركون به استنتقاذ
+        <lb/>
+
+        أرواحهم من أليم العذاب
+      </p>
+
+      <p n="Reason Is Gods Best Gift">
+        وأفضل ما رزقهم الله ومنّ عليهم به
+        <lb/>
+
+        العقل الذي هو قوّة لجميع الأشياء فما يقدر أحد من الخلق على إصلاح
+        <lb/>
+
+        معيشه ولا اجترار منفعة ولا دفع مضرّة إلّا به وكذلك طالب
+        <lb/>
+
+        الآخرة المجتهد على استنقاذ روحه من الهلكة
+      </p>
+
+      <p n="Reason Is Basis Of Every Good">
+        فالعقل هو سبب
+        <lb/>
+
+        لكلّ خير وهو مكتسب بالتجارب والآداب
+      </p>
+
+      <p n="Reason Like Hidden Fire">
+        وغريزته مكنونة
+        <lb/>
+
+        في الإنسان كامنة ككمون النار في الحجر والعود لا تُرى حتّى
+        <lb/>
+
+        يقدحها قادح من غيرها يظهر ضوءها وحريقها
+      </p>
+
+      <p n="Adab And Experience Kindle Reason">
+        لذلك العقل
+        <lb/>
+
+        من الإنسان لا يظهر حتّى يُظهره الأدب وتقويّه التجارب
+      </p>
+
+      <p n="Reason Strengthens">
+        فإذا
+        <lb/>
+
+        استحكم كان هو وليّ التجارب والمقوّي لكلّ أدب والتخيّر
+        <lb/>
+
+        لجميع الأشياء والدافع لكلّ ضرّ فلا شيء أفضل من العقل والأدب
+      </p>
+
+      <p n="Reason Brings Success">
+        فمن منّ عليه خالقه بالعقل وأعان هو على نفسه بالمثابرة على
+        <lb/>
+
+        الأدب والحزم سعد جدّه وأدرك أمله في الدنيا والآخرة
+      </p>
+
+      <p n="Reason Strengthens Kings">
+        والعقل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

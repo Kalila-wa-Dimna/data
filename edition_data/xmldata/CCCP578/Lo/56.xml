@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="56"/>
+
+      <p n="Consequences of Poor Financial Management">
+        الفنى والنفاد
+      </p>
+
+      <p n="Analogy of Rapidly Depleting Kohl">
+        كالكحل الذي لا يُؤخذ منه إلّا مثل الغبار ما علق في المبلّ ثمّ هو مع ذلك
+        <lb/>
+
+        سريع النفاد والفناء
+      </p>
+
+      <p n="Consequences of Miserliness and Mismanagement">
+        وإن هو اكتسب وأصلح وأيسر ثمّ أمسك ثمّ لا يأمن أن يفارقه
+        <lb/>
+
+        ويذهب حيث لا يدرك منه شيئًا
+      </p>
+
+      <p n="Analogy of Overflowing Water Reservoir">
+        كحبس الماء الذي لا يزال المياه تصبّ فيه فإذا لم
+        <lb/>
+
+        يكن له مخرجًا ومغيضًا يخرج منه بالقدر الذي ينبغي تحلّب وسال من نواحي كثيرة وربّما
+        <lb/>
+
+        انبثق البثق الكبير العظيم فيذهب الماء ضياعًا
+      </p>
+
+      <p n="Sons' Acceptance of Father's Advice">
+        ثمّ إنّ بنو التاجر اتّعظوا وأخذوا برأي
+        <lb/>
+
+        أبيهم
+      </p>
+
+      <p n="Eldest Son's Journey and Ox Cart Incident">
+        فانطلق أكبرهم نحو أرض يُقال لها منون فأتى في مكان في طريقه فيه وحل شديد
+        <lb/>
+
+        ومعه عجلة يجرّها ثوران يُسمّى الواحد شتربة والآخر بندبة
+      </p>
+
+      <p n="Ox Getting Stuck in Mud">
+        فوحل شتربة في ذلك الوحل
+        <lb/>
+
+        فاستخرجه الرجل وأعوانه بعد ما بلغه الجهد
+      </p>
+
+      <p n="Merchant Leaving a Man to Care for the Ox">
+        فخلّف الرجل التاجر رجلًا يقوم عليه
+        <lb/>
+
+        أيّامًا فإذا رآه قد صلح يتبعه
+      </p>
+
+      <p n="Description of the Caretaker's Actions">
+        فلمّا كان الغد من ذلك اليوم ترك الرجل الثور
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

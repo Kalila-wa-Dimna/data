@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="21"/>
+
+      <p n="unassigned">
+        المال أم اللذّات أم الصوت أم أجر الآخرة
+      </p>
+
+      <p n="Seeks the Reward of the Hereafter">
+        واستدللت
+        <lb/>
+
+        على المختار من ذلك فوجدت الطبّ محمودًا عند العقلاء
+      </p>
+
+      <p n="The Virtue of Practising Medicine">
+        ولم أجده
+        <lb/>
+
+        مذمومًا عند أحد من أهل الأديان والملل وأصبت في كتبهم أنّ
+        <lb/>
+
+        أفضل الأطبّاء من واظب على طبّه لا يريد بذلك إلّا الآخرة فرأيت
+        <lb/>
+
+        أن أواظب عليه أبتغي ذلك ولا ألتمس له ثمنًا
+      </p>
+
+      <p n="Selling a Ruby for a Cheap Pearl">
+        ولا أكون كالتاجر
+        <lb/>
+
+        الخاسر الذي باع ياقوتة كان مصيبًا من ثمنها غنى الدهر بخرزة لا
+        <lb/>
+
+        تساوي شيئًا
+      </p>
+
+      <p n="The Profession of Medicine Benefits Both in This World and the Hereafter">
+        ووجدت في كتبهم أيضًا أنّ الطبيب المبتغي بطبّه
+        <lb/>
+
+        أجر الآخرة لا ينقصه ذلك من حظّه في الدنيا
+      </p>
+
+      <p n="A Farmer Harvests Weeds Along with the Wheat">
+        فإنّما مثله في
+        <lb/>
+
+        ذلك مثل الحرّاث الذي ينثر أرضه ويعمّرها ابتغاء الزرع لا
+        <lb/>
+
+        العشب ثمّ هي لا محالة نابت فيها ألوان منه
+      </p>
+
+      <p n="Burzoy Practices Medicine Without Pay or Envy of Colleagues">
+        فأقبلت على مداواة
+        <lb/>
+
+        المرضى رجاء ذلك فلم أدع مريضًا أرجو له البرء وأطمع له في خفّة
+        <lb/>
+
+        الوجع إلّا بلغت في معالجته جهدي وإلّا وصفت له ومن قدرت
+        <lb/>
+
+        على القيام عليه قمت عليه وفعلت به ذلك
+      </p>
+
+      <p n="Working Without Expecting Reward">
+        ولم أرد لشيء من ذلك
+        <lb/>
+
+        جزاء ولا مكافأة لمن فعلته به ولم أغبط من نظرائي ومن هو
+        <lb/>
+
+        مثلي في العلم وفوقي في المال أحدًا إلّا بعين صلاح أو حسّ سيرة
+        <lb/>
+
+        في الناس قولًا وعملًا
+      </p>
+
+      <p n="Addressing the Soul to Distinguish Its Benefits and Harms">
+        وكنت أقرّع نفسي إذا هي نازعتني إلى أن تغبط
+        <lb/>
+
+        أولئك وتتمنّى منازلهم وآبى لها إلّا الخصومة وأقول يا نفس
+        <lb/>
+
+        أما تعرفين نفعك من ضرّك ألا تنتهي عن الرغبة فيما لم ينله أحد
+        <lb/>
+
+        إلّا قلّ انتفاعه به وكثر عناؤه فيه واشتدّت ؟مورنيه عليه
+        <lb/>
+
+        عند فراقه وعظمت التبعة عليه بعده
+      </p>
+
+      <p n="Addressing the Soul to Be Ashamed of Its Greed for the Transient">
+        يا نفس أما تذكرين
+        <lb/>
+
+        ما أمامك فتنسي ما تشرهين إليه فيما بين يديك ألا تستحين من
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

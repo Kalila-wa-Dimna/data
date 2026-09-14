@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="170"/>
+
+      <p n="King W Insists on a Solution">
+        نريده منتهين وعلى أيدي الناس يكون ونحن قادرون على خلاص نفوسنا
+        <lb/>
+
+        من سوء عاقبته
+      </p>
+
+      <p n="The Vizier Prays for the King">
+        فلمّا رأى الوزير الملك مشتهيًا لهذا الأمر لم يماريه بعدها
+        <lb/>
+
+        فيه ولكن دعا له
+      </p>
+
+      <p n="King W Orders Wood to Be Brought">
+        ثمّ إنّ الملك أمر بالمناداة في جميع أعماله إلى أن لا يبقى
+        <lb/>
+
+        صغيرًا ولا كبيرًا إلّا ويجيئه في يوم كذا وكذا من شهر كذا وكذا
+        <lb/>
+
+        بحمل حطب فعمل الناس على هذا
+      </p>
+
+      <p n="King W Knows When the Winds Subside">
+        وكان الملك قد عرف الوقت الذي
+        <lb/>
+
+        ينقص فيه هبوب الرياح
+      </p>
+
+      <p n="King W Orders the Hole to Be Blocked">
+        فلمّا كان في ذلك الوقت أمر الناس بسدّ النقب
+        <lb/>
+
+        بالحجارة والحطب والتراب وأن يبنوا عليه دكّة عظيمة ففعلوا
+        <lb/>
+
+        ذلك وامتنعت الرياح التي كانت تخرج من ذلك الثقب وفقد
+        <lb/>
+
+        البلد كلّه نسيم الهواء وهبوب الرياح فجفّت الأشجار ونشفت المياه
+      </p>
+
+      <p n="A Draught Ensues">
+        ولم يمض ستّة أشهر حتّى جفّت العيون ويبس كلّ خضرة في الجبل
+        <lb/>
+
+        من الشجر والنبات وبلغ ذلك إلى نحو من مئة فرسخ وتماوتت
+        <lb/>
+
+        المواشي وسائر الحيوانات ووقع الوباء في الناس وهلك خلق كثير
+      </p>
+
+      <p n="The People Kill the King and His Court">
+        فلم يزل هذا البلاء بأهل البلد فوثب من بقي منهم ممّن به
+        <lb/>
+
+        رمق وتجمّعوا إلى باب الملك فقتلوه ووزيره وأهله ولم يبق منهم
+        <lb/>
+
+        أحد
+      </p>
+
+      <p n="The People Burn the Wood Blocking the Hole">
+        ثمّ مضوا إلى باب ذلك النقب فقلعوا الدكّات والحجارة من
+        <lb/>
+
+        الباب وطرحوا في ذلك الحطب نارًا فالتهبت
+      </p>
+
+      <p n="The People Return Home">
+        فلمّا بدت في
+        <lb/>
+
+        اللهيب عاد الناس إلى مواضعهم
+      </p>
+
+      <p n="The Winds Spread Annihilating Fire">
+        ثمّ إنّ الريح الذي كانت
+        <lb/>
+
+        قد احتقنت في مدّة الستة أشهر خرجت بجنّة شديدة فطرحت
+        <lb/>
+
+        النار في سائر البلد ودام هبوب الرياح يومين وليلتين فلم يبق في
+        <lb/>
+
+        ذلك البلد مدينة ولا قرية ولا حصن ولا شجرة إلّا أحرقته
+      </p>
+
+      <p n="unassigned">
+        النار
+      </p>
+
+      <p n="The Vizier Summarizes King W's Tale">
+        وإنّما ضربت لك هذا المثل لتعلم أنّ ما يُتوارث ويسري في الجنس صعب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="251"/>
+
+      <p n="King Understood Previous Chapter">
+        قال الملك للفيلسوف قد سمعت هذا المثل
+      </p>
+
+      <p n="King Asks about Reconciling a Courtier">
+        فاضرب لي مثل الملوك
+        <lb/>
+
+        فيما بينهم وبين قرابتهم وخاصّتهم في مراجعة من راجع منهم بعد عقوبة
+        <lb/>
+
+        أو جفوة تكون عن ذنب يذنبه أو ظلم يُظلم به فيأمر الملك بعقوبته
+      </p>
+
+      <p n="Philosopher Supports Reconciliation of a Courtier">
+        قال
+        <lb/>
+
+        الفيلسوف إنّ الملك لأولى أن يراجع من أصابته جفوة أو استحقّ عقوبة من
+        <lb/>
+
+        جرم اجترمه أو ظلم رُمي به إذ لأضرّ ذلك بالأمور والعمل
+      </p>
+
+      <p n="King to Consider Value of a Suspect">
+        ولكنّ
+        <lb/>
+
+        الملك حقيق أن ينظر في أمر من كان كذلك
+      </p>
+
+      <p n="King to Reconcile the Reliable">
+        فإن كان ممّن يُراجع ويُرجى
+        <lb/>
+
+        عنده نصيحة كان الملك أحقّ بالنظر في العفو عنه واستبقائه
+      </p>
+
+      <p n="Aides Are Essential to Rule">
+        فإنّ
+        <lb/>
+
+        الملوك لا تستطيع عملًا إلّا بالوزراء وأهل المودّات والأعوان ولن ينتفع
+        <lb/>
+
+        الوزراء إلّا بمودّة الملوك
+      </p>
+
+      <p n="King Must Know Everyone">
+        وإنّما السبيل إلى إصلاح أمر الملك أن يعرف
+        <lb/>
+
+        الملك من يريد الاستعانة عند الناس وما عند كلّ واحد ممّن يختار من
+        <lb/>
+
+        الناس من الرأي والمعرفة للملك
+      </p>
+
+      <p n="King Must Reward and Punish">
+        ثمّ يكافئ المحسن من وزرائه ونصحائه
+        <lb/>
+
+        على إحسانه ويردع المسيء عن إساءته
+      </p>
+
+      <p n="Philosopher Mentions Parable">
+        وفي بعض الأمثال لما سألت عنه
+        <lb/>
+
+        شبيه قال الملك وما ذاك
+      </p>
+
+      <p n="Philosopher Tells of Pious Jackal">
+        قال الفيلسوف ذكروا
+        <lb/>
+
+        أنّه كان بأرض الكرخ ابن آوى وكان متألّه ويتعفّف ويكون مع بنات
+        <lb/>
+
+        آوى وسائر السباع فلا يفعل ما يفعلن ولا يأكل اللحم
+      </p>
+
+      <p n="Pack Denounces Jackal">
+        فخاصمته السباع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

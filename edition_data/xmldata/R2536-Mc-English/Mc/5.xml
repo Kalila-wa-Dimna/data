@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="5"/>
+
+      <p n="Good Deeds Erase Bad Deeds">
+        against
+      </p>
+
+      <p n="unassigned">
+        grudges; for the righteous do not hold grudges, rather, they are people of gratitude-
+        <lb/>
+
+        one good deed effaces many of their wrongs!’
+      </p>
+
+      <p n="The Two Kinds of Friends">
+        “The rat said,
+        <lb/>
+
+        ‘Friends are of two kinds: one of them is the sincere friend, and the other is the one who creates bonds of brotherhood with someone
+        <lb/>
+
+        while in a state of compulsion. The sincere friend must prefer.
+        <lb/>
+
+        his friend over himself, his possessions, and his kin.
+      </p>
+
+      <p n="Forced Friendship Does Not Last">
+        As for the friend who is compelled into amity,
+        <lb/>
+
+        it could happen that both the enmity and the amity become fulfilled; but oftentimes, they disband, going unfulfilled
+        <lb/>
+
+        and stale.
+      </p>
+
+      <p n="The Intelligent Protects Himself">
+        But a wise man should watch out for himself. his truce is like him who eats
+        <lb/>
+
+        For he who reconciles with the enemy, trusts him, acts in his interest, and does not watch out for himself-
+      </p>
+
+      <p n="Trusting a Foe Is Like Eating Bad Food">
+        his truce
+        <lb/>
+
+        is that of he who eats the food which fulfills his fancy, and whose stomach cannot digest.
+      </p>
+
+      <p n="The Rat Acknowledges His Remaining Obligation">
+        I have finished my work, and some is due still;
+      </p>
+
+      <p n="Everything Has Its Time">
+        but every action has a set time at which it should be carried out,
+      </p>
+
+      <p n="Bad Timing Brings Failure">
+        and whoever doesn’t carry out a work at its set time, does not reap the fruits of his work.
+      </p>
+
+      <p n="The Rat Explains Not Cutting the Last Rope">
+        ‘I will cut your bonds, leaving one cord, which I will take as a security, for you to cut yourself, so that you could not
+        <lb/>
+
+        catch me, when you become free from your bonds.’
+      </p>
+
+      <p n="The Huntsman Approaches">
+        “When morning came, and the huntsman arrived at the place,
+      </p>
+
+      <p n="The Cat Expects to Die">
+        the cat rose istaqalla
+      </p>
+
+      <p n="The Cat Breaks from the Last Rope">
+        and pulled at the cord, not expecting it to be cut, but the cord did,
+      </p>
+
+      <p n="The Cat and the Rat Escape">
+        and both survived The cat climbed the tree, the rat went into the burrow, and the huntsman left
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

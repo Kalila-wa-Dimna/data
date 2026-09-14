@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="48"/>
+
+      <p n="Asceticism Is Like a Garden">
+        يذنب إليهم فسلم فلم أزدد في النسك نظرًا إلّا ازددت فيه رغبة حتّى هممت
+        <lb/>
+
+        أن أكون من أهله
+      </p>
+
+      <p n="Burzoy Fears Not to Bear Asceticism">
+        حتّى تخوّفت أن لا أصبر على عيش النسّاك وأن تضرّ بي العادة التي
+        <lb/>
+
+        بها رُبّيت وغُذّيت ولم آمن إن أنا خلّيت الدنيا وأخذت بالنسك أن أضعف
+        <lb/>
+
+        عن ذلك فأكون قد رفضت أعمالًا ما أرجو عائدتها كنت أعملها غير ذلك فيكون مثلي
+        <lb/>
+
+        في ذلك مثل الكلب الذي مرّ بنهر وفي فيه ضلع فرأى ظلّ ذلك الضلع في الماء فأهوى
+        <lb/>
+
+        ليأخذه فأهلك ما كان في فيه ولم يصل إلى ما طلب
+      </p>
+
+      <p n="Burzoy Refrains From Asceticism">
+        فهبت النّسك هيبة
+        <lb/>
+
+        شديدة وخفت من نفسي الضجر وقلّة الصبر وأردت الثبوت على حالتي
+        <lb/>
+
+        التي كنت عليها
+      </p>
+
+      <p n="Weighs World Vs Asceticism">
+        ثمّ بدا لي أن أقيس بين ما أخاف ولا أصبر عليه من الأذى والضيق
+        <lb/>
+
+        في النسك وبين الذي يصيب صاحب الدنيا من البلاء فيها وكان بيّنًا عندي أنّه
+        <lb/>
+
+        ليس من شهوات الدنيا ولذاذتها إلّا وهو متحوّل إذًا فالدنيا
+      </p>
+
+      <p n="Salt Water Increases Thirst">
+        كالماء المالح الذي لا يزداد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="2"/>
+
+      <p n="unassigned">
+        to the one with whom he had reconciled. Tell
+      </p>
+
+      <p n="The Philosopher Responds that Emotions Change">
+        me about the nature of truce-how it is” The Philosopher said:
+        <lb/>
+
+        Not all instances of enmity and closeness endure and are made firm. Much affection
+        <lb/>
+
+        turns into hatred and much hatred turns into affection, as motives and conditions change;
+      </p>
+
+      <p n="The Intelligent Adapts to Situations">
+        and so a man of reason adapts to all such arising changes acting upon the character of the enemy before him.
+      </p>
+
+      <p n="The Parable of the Cat and Rat Is Invoked">
+        An example of this is the parable of the cat and the rat, who put their disagreements aside when they fell
+      </p>
+
+      <p n="unassigned">
+        into trouble and difficulty and, owing to their truce, kept their lives.
+      </p>
+
+      <p n="The King Requests the Full Parable">
+        And how was that said the King.
+      </p>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        The claim goes, said the Philosopher
+        <lb/>
+
+        that, in the land of Sirandīb, there was a tree at whose foot lived a rat named Farīdūn and
+        <lb/>
+
+        next to it was the den of a cat named Rūmī. Hunters
+      </p>
+
+      <p n="The Cat Is Caught">
+        occasionally sought game
+        <lb/>
+
+        and fowl there; one day, one such huntsman set his snares, into which
+        <lb/>
+
+        the cat.
+      </p>
+
+      <p n="The Rat Seeks Food">
+        The rat came out creeping, seeking something to eat, turning around, surveying;
+        <lb/>
+
+        upon seeing the cat in the snares, he rejoiced at it.
+      </p>
+
+      <p n="Foes Surround the Rat">
+        Then he looked behind and saw that a mongoose
+        <lb/>
+
+        had tracked him and lay in wait, and looking toward the top of the tree, he saw an owl watching him. And so, he feared-
+        <lb/>
+
+        that if he turned back, the weasel would jump on him; that if he moved left and right, the owl would snatch him;
+        <lb/>
+
+        and that if he stepped forward, the cat would take him.
+      </p>
+
+      <p n="The Rat Weighs His Predicament">
+        ‘These are troubles that have besieged me,’ he said, ‘and evils that
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

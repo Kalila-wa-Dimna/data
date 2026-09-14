@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="4"/>
+
+      <p n="The Cat Should Desire Common Rescue">
+        my survival to be bound to your survival, you, too, should desire my survival to be bound to your survival and desire deliverance for me
+        <lb/>
+
+        and yourself.
+      </p>
+
+      <p n="Sailors Depend on Ships and Vice Versa">
+        As people survive the sea with a ship, and the ship survives with the people;
+      </p>
+
+      <p n="Cooperation Ensures Delivery for Both">
+        therefore, I hope that we arrive, through cooperation, at survival for us both from this trouble.’
+      </p>
+
+      <p n="The Cat Puts His Trust in the Rat">
+        “When
+        <lb/>
+
+        the cat heard this from the rat, he knew that he was truthful and said, ‘You are correct and have spoken
+        <lb/>
+
+        the truth. See to the arrangement by which we can both be rid of this trouble, and I will act on it. I will remember
+        <lb/>
+
+        this favor forever and, I will ensure that I properly reward you for it.’
+      </p>
+
+      <p n="The Rat Explains the Strategy">
+        ‘Allow me to approach to you,’ said the rat, ‘for if the owl and the mongoose see us in company,
+        <lb/>
+
+        they will leave us, and when I am in safety from them, I will cut your bonds while feeling secure.’
+      </p>
+
+      <p n="The Cat Fulfills His Part">
+        “The cat did so,
+        <lb/>
+
+        ensuring his safety, and the rat approached him.
+      </p>
+
+      <p n="The Foes Leave Frustrated">
+        “When the owl and the mongoose saw that, they left
+        <lb/>
+
+        the place,
+      </p>
+
+      <p n="The Rat Approaches to Cut the Rope">
+        and the rat took to cutting the net, one cord
+        <lb/>
+
+        at a time.
+      </p>
+
+      <p n="The Cat Deems the Rat's Efforts Slow">
+        “When the cat noticed that the rat was not diligent about cutting the net, he said,
+        <lb/>
+
+        ‘What stops you, dear friend, is having secured your need for safety;
+      </p>
+
+      <p n="The Noble Must Help">
+        if that is
+        <lb/>
+
+        so, it is not a deed the righteous would do
+      </p>
+
+      <p n="The Rat Must Fulfill the Pact">
+        As I made haste to deliver you,
+        <lb/>
+
+        you should act likewise in delivering me.
+      </p>
+
+      <p n="The Rat Should Forget Enmity">
+        And if you still remember that old enmity, you should not,
+        <lb/>
+
+        especially that I have done very well by you, and a deed of this kind, or a lesser one, should receive a gratitude that persists
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

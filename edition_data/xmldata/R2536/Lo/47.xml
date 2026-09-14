@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="47"/>
+
+      <p n="Dimna's Analogy of Strength and Heavy Burdens">
+        الرجل السديد من وراء الحمل الثقيل وإنّ يده به
+      </p>
+
+      <p n="The Strong Man with the Burden">
+        وليس الحمل الثقيل
+        <lb/>
+
+        للرجل القويّ ناهضًا ولا للنبيل متحمّلًا ولا للعاقل ناهضًا ولا للمتواضع
+        <lb/>
+
+        الليّن الجانب آخذًا
+      </p>
+
+      <p n="Loads are Relative to People">
+        بل يكون لهم على ذلك الأخذ والفضل والقوّة
+        <lb/>
+
+        وبه البصر والخبرة
+      </p>
+
+      <p n="Kalila on Rulers' Favoritism">
+        قال كليلة إنّ السلطان لا يكرّم الشريف لشرفه
+        <lb/>
+
+        ولكن يكرّم الأدنى فالأدنى
+      </p>
+
+      <p n="Analogy of Vine and Tree Proximity">
+        وقالت العلماء في صاحب السلطان
+        <lb/>
+
+        والمرأة لا يكرم عليهم إلّا من دنا منهما كشجرة الكرم التي لا تتعلّق
+        <lb/>
+
+        بأكرم الشجر بل بأدناها منها
+      </p>
+
+      <p n="Kalila Questioning Dimna's Proximity to the Lion">
+        أفرأيت إن لم يدنك الأسد ولم تقدر
+        <lb/>
+
+        على كلامه إذا مشيت فما حيلتك في ذلك
+      </p>
+
+      <p n="Dimna's Explanation of Gaining Favor">
+        قال له دمنة الأمر
+        <lb/>
+
+        على ما وصفت ولكن اعلم أنّ الذين مع السلطان لم يكونوا معه
+        <lb/>
+
+        قطّ ولكن باجتهادهم أدركوا المنزلة من السلطان والكينونة
+        <lb/>
+
+        معه بعد التبعّد عنه
+      </p>
+
+      <p n="Dimna's Determination to Succeed">
+        فما ملتمس ذلك وطالب بلوغه
+      </p>
+
+      <p n="Kalila's Warning about Dangers of Serving Rulers">
+        وقد قيل
+        <lb/>
+
+        إنّه لا يواظب أحد باب السلطان فيلقي عنه العنف ويحتمل
+        <lb/>
+
+        الأذى ويكظم الغيظ ويرفق في أمره إلّا خلص بحاجته
+      </p>
+
+      <p n="Kalila Questioning Dimna's Strategy">
+        قال كليلة
+        <lb/>
+
+        قد فهمت قولك وهبك أن قد وصلت إلى الأسد فما رفقك وما الذي
+        <lb/>
+
+        ترجو من المنزلة عنده
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

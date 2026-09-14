@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="185"/>
+
+      <p n="Wife Feigns Surprise">
+        فردّت عليه يا خليلي ما يضطرّك إلى هذه المسألة فقال لها بحقّ ما بيني
+        <lb/>
+
+        وبينك إلّا ما أخبرتني
+      </p>
+
+      <p n="Carpenter Hears Wifes Speech">
+        والنجّار يسمع ذلك كلّه وقد انتبه من
+        <lb/>
+
+        نومه وعرف مكان الرجل على سريره
+      </p>
+
+      <p n="Wife Says Lovers Serve Only Pleasure">
+        فقالت إنّا معشر النساء
+        <lb/>
+
+        إنّما نريد الأخلّاء لقضاء الشهوة فإذا قضينا من أحد وطرًا صار
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

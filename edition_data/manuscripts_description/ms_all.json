@@ -1,0 +1,919 @@
+{
+  "13th century": [
+    {
+      "manuscript": "MS Cairo 1001",
+      "location": "Cairo, Dār al-Kutub al-Miṣriyya, Ms. 1001",
+      "date": "13th century CE",
+      "classification": {
+        "continuum": "Cairo",
+        "group": "A",
+        "sequence": "A",
+        "illustrated": true
+        
+      },
+      "commentary": "Early Cairo manuscript featuring elaborate illuminations.",
+      "related_manuscripts": [
+        "Cairo 1025"
+      ]
+    },
+    {
+      "manuscript": "MS Istanbul 6001",
+      "location": "Istanbul, Süleymaniye Kütüphanesi, 6001",
+      "date": "13th century CE",
+      "classification": {
+        "continuum": "Istanbul",
+        "group": "B",
+        "sequence": "A",
+        "illustrated": false
+      },
+      "commentary": "Represents the Istanbul continuum from the 13th century.",
+      "related_manuscripts": [
+        "Istanbul 6100"
+      ]
+    },
+    {
+      "manuscript": "MS Paris 1200",
+      "location": "Paris, Bibliothèque nationale de France, arabe 1200",
+      "date": "13th century CE",
+      "classification": {
+        "continuum": "Paris",
+        "group": "C",
+        "sequence": "A",
+        "illustrated": true
+      },
+      "commentary": "Parisian manuscript with intricate designs and annotations.",
+      "related_manuscripts": [
+        "Paris 1215"
+      ]
+    },
+    {
+      "manuscript": "MS Florence 300",
+      "location": "Florence, Biblioteca Medicea Laurenziana, Ms. 300",
+      "date": "13th century CE",
+      "classification": {
+        "continuum": "Florence",
+        "group": "D",
+        "sequence": "A",
+        "illustrated": true
+      },
+      "commentary": "Florentine manuscript known for its detailed illustrations.",
+      "related_manuscripts": [
+        "Florence 350"
+      ]
+    },
+    {
+      "manuscript": "MS Granada 100",
+      "location": "Granada, Biblioteca de la Universidad de Granada, Ms. 100",
+      "date": "13th century CE",
+      "classification": {
+        "continuum": "Granada",
+        "group": "E",
+        "sequence": "A",
+        "illustrated": false
+      },
+      "commentary": "Granada manuscript with unique textual content.",
+      "related_manuscripts": [
+        "Granada 150"
+      ]
+    }
+  ],
+  "14th century": [
+    {
+      "manuscript": "MS Cairo 1501",
+      "location": "Cairo, Dār al-Kutub al-Miṣriyya, Ms. 1501",
+      "date": "14th century CE",
+      "classification": {
+        "continuum": "Cairo",
+        "group": "A",
+        "sequence": "B",
+        "illustrated": true
+      },
+      "commentary": "Cairo manuscript featuring elaborate medieval art.",
+      "related_manuscripts": [
+        "Cairo 1550"
+      ]
+    },
+    {
+      "manuscript": "MS Istanbul 7001",
+      "location": "Istanbul, Süleymaniye Kütüphanesi, 7001",
+      "date": "14th century CE",
+      "classification": {
+        "continuum": "Istanbul",
+        "group": "B",
+        "sequence": "B",
+        "illustrated": false
+      },
+      "commentary": "Istanbul manuscript with a focus on textual preservation.",
+      "related_manuscripts": [
+        "Istanbul 7100"
+      ]
+    },
+    {
+      "manuscript": "MS Paris 1300",
+      "location": "Paris, Bibliothèque nationale de France, arabe 1300",
+      "date": "14th century CE",
+      "classification": {
+        "continuum": "Paris",
+        "group": "C",
+        "sequence": "B",
+        "illustrated": true
+      },
+      "commentary": "Parisian manuscript known for its detailed marginalia.",
+      "related_manuscripts": [
+        "Paris 1350"
+      ]
+    },
+    {
+      "manuscript": "MS Florence 350",
+      "location": "Florence, Biblioteca Medicea Laurenziana, Ms. 350",
+      "date": "14th century CE",
+      "classification": {
+        "continuum": "Florence",
+        "group": "D",
+        "sequence": "B",
+        "illustrated": true
+      },
+      "commentary": "Florentine manuscript featuring advanced artistic techniques.",
+      "related_manuscripts": [
+        "Florence 400"
+      ]
+    },
+    {
+      "manuscript": "MS Granada 150",
+      "location": "Granada, Biblioteca de la Universidad de Granada, Ms. 150",
+      "date": "14th century CE",
+      "classification": {
+        "continuum": "Granada",
+        "group": "E",
+        "sequence": "B",
+        "illustrated": false
+      },
+      "commentary": "Granada manuscript with unique cultural insights.",
+      "related_manuscripts": [
+        "Granada 200"
+      ]
+    }
+  ],
+  "15th century": [
+    {
+      "manuscript": "MS Cairo 2001",
+      "location": "Cairo, Dār al-Kutub al-Miṣriyya, Ms. 2001",
+      "date": "15th century CE",
+      "classification": {
+        "continuum": "Cairo",
+        "group": "A",
+        "sequence": "A",
+        "illustrated": true
+      },
+      "commentary": "Early Cairo manuscript with detailed illuminations.",
+      "related_manuscripts": [
+        "Cairo 1058"
+      ]
+    },
+    {
+      "manuscript": "MS Istanbul 8001",
+      "location": "Istanbul, Süleymaniye Kütüphanesi, 8001",
+      "date": "15th century CE",
+      "classification": {
+        "continuum": "Istanbul",
+        "group": "B",
+        "sequence": "B",
+        "illustrated": false
+      },
+      "commentary": "Represents the Istanbul continuum from the 15th century.",
+      "related_manuscripts": [
+        "Istanbul 8925"
+      ]
+    },
+    {
+      "manuscript": "MS Paris 1450",
+      "location": "Paris, Bibliothèque nationale de France, arabe 1450",
+      "date": "15th century CE",
+      "classification": {
+        "continuum": "Paris",
+        "group": "C",
+        "sequence": "C",
+        "illustrated": true
+      },
+      "commentary": "Parisian manuscript with intricate designs and annotations.",
+      "related_manuscripts": [
+        "Paris 3471"
+      ]
+    },
+    {
+      "manuscript": "MS Florence 400",
+      "location": "Florence, Biblioteca Medicea Laurenziana, Ms. 400",
+      "date": "15th century CE",
+      "classification": {
+        "continuum": "Florence",
+        "group": "D",
+        "sequence": "A",
+        "illustrated": true
+      },
+      "commentary": "Florentine manuscript known for its elaborate illustrations.",
+      "related_manuscripts": [
+        "Florence 520"
+      ]
+    },
+    {
+      "manuscript": "MS Granada 200",
+      "location": "Granada, Biblioteca de la Universidad de Granada, Ms. 200",
+      "date": "15th century CE",
+      "classification": {
+        "continuum": "Granada",
+        "group": "E",
+        "sequence": "A",
+        "illustrated": false
+      },
+      "commentary": "Granada manuscript with unique textual content.",
+      "related_manuscripts": [
+        "Granada 678"
+      ]
+    }
+  ],
+  "16th century": [
+    {
+      "manuscript": "MS Cairo 2002",
+      "location": "Cairo, Dār al-Kutub al-Miṣriyya, Ms. 2002",
+      "date": "16th century CE",
+      "classification": {
+        "continuum": "Cairo",
+        "group": "B",
+        "sequence": "B",
+        "illustrated": true
+      },
+      "commentary": "A notable 16th-century Cairo manuscript with extensive illustrations.",
+      "related_manuscripts": [
+        "Cairo 1058"
+      ]
+    },
+    {
+      "manuscript": "MS Istanbul 8002",
+      "location": "Istanbul, Süleymaniye Kütüphanesi, 8002",
+      "date": "16th century CE",
+      "classification": {
+        "continuum": "Istanbul",
+        "group": "C",
+        "sequence": "C",
+        "illustrated": false
+      },
+      "commentary": "Represents developments in the Istanbul continuum during the 16th century.",
+      "related_manuscripts": [
+        "Istanbul 8926"
+      ]
+    },
+    {
+      "manuscript": "MS Paris 1550",
+      "location": "Paris, Bibliothèque nationale de France, arabe 1550",
+      "date": "16th century CE",
+      "classification": {
+        "continuum": "Paris",
+        "group": "D",
+        "sequence": "D",
+        "illustrated": true
+      },
+      "commentary": "Paris manuscript known for its detailed annotations and artwork.",
+      "related_manuscripts": [
+        "Paris 3491"
+      ]
+    },
+    {
+      "manuscript": "MS Florence 401",
+      "location": "Florence, Biblioteca Medicea Laurenziana, Ms. 401",
+      "date": "16th century CE",
+      "classification": {
+        "continuum": "Florence",
+        "group": "E",
+        "sequence": "B",
+        "illustrated": true
+      },
+      "commentary": "Florentine manuscript with notable Renaissance features.",
+      "related_manuscripts": [
+        "Florence 521"
+      ]
+    },
+    {
+      "manuscript": "MS Granada 201",
+      "location": "Granada, Biblioteca de la Universidad de Granada, Ms. 201",
+      "date": "16th century CE",
+      "classification": {
+        "continuum": "Granada",
+        "group": "F",
+        "sequence": "B",
+        "illustrated": false
+      },
+      "commentary": "Granada manuscript reflecting the transition to the 16th century style.",
+      "related_manuscripts": [
+        "Granada 678"
+      ]
+    }
+  ],
+  "17th century": [
+    {
+      "manuscript": "MS Cairo 2101",
+      "location": "Cairo, Dār al-Kutub al-Miṣriyya, Ms. 2101",
+      "date": "17th century CE",
+      "classification": {
+        "continuum": "Cairo",
+        "group": "F",
+        "sequence": "A",
+        "illustrated": true
+      },
+      "commentary": "Late 17th-century Cairo manuscript with detailed artwork.",
+      "related_manuscripts": [
+        "Cairo 2150"
+      ]
+    },
+    {
+      "manuscript": "MS Istanbul 9001",
+      "location": "Istanbul, Süleymaniye Kütüphanesi, 9001",
+      "date": "17th century CE",
+      "classification": {
+        "continuum": "Istanbul",
+        "group": "G",
+        "sequence": "A",
+        "illustrated": false
+      },
+      "commentary": "Istanbul manuscript with significant historical annotations.",
+      "related_manuscripts": [
+        "Istanbul 9100"
+      ]
+    },
+    {
+      "manuscript": "MS Paris 1600",
+      "location": "Paris, Bibliothèque nationale de France, arabe 1600",
+      "date": "17th century CE",
+      "classification": {
+        "continuum": "Paris",
+        "group": "E",
+        "sequence": "C",
+        "illustrated": true
+      },
+      "commentary": "Paris manuscript showcasing late 17th-century artistic styles.",
+      "related_manuscripts": [
+        "Paris 3610"
+      ]
+    },
+    {
+      "manuscript": "MS Florence 500",
+      "location": "Florence, Biblioteca Medicea Laurenziana, Ms. 500",
+      "date": "17th century CE",
+      "classification": {
+        "continuum": "Florence",
+        "group": "F",
+        "sequence": "C",
+        "illustrated": true
+      },
+      "commentary": "Florentine manuscript with elaborate Renaissance features.",
+      "related_manuscripts": [
+        "Florence 550"
+      ]
+    },
+    {
+      "manuscript": "MS Granada 300",
+      "location": "Granada, Biblioteca de la Universidad de Granada, Ms. 300",
+      "date": "17th century CE",
+      "classification": {
+        "continuum": "Granada",
+        "group": "G",
+        "sequence": "A",
+        "illustrated": false
+      },
+      "commentary": "Granada manuscript reflecting the 17th-century style.",
+      "related_manuscripts": [
+        "Granada 350"
+      ]
+    },
+    {
+      "manuscript": "MS Cairo 2102",
+      "location": "Cairo, Dār al-Kutub al-Miṣriyya, Ms. 2102",
+      "date": "17th century CE",
+      "classification": {
+        "continuum": "Cairo",
+        "group": "G",
+        "sequence": "B",
+        "illustrated": false
+      },
+      "commentary": "Cairo manuscript with unique historical content.",
+      "related_manuscripts": [
+        "Cairo 2151"
+      ]
+    },
+    {
+      "manuscript": "MS Istanbul 9002",
+      "location": "Istanbul, Süleymaniye Kütüphanesi, 9002",
+      "date": "17th century CE",
+      "classification": {
+        "continuum": "Istanbul",
+        "group": "H",
+        "sequence": "B",
+        "illustrated": true
+      },
+      "commentary": "Istanbul manuscript with significant artwork and historical value.",
+      "related_manuscripts": [
+        "Istanbul 9200"
+      ]
+    },
+    {
+      "manuscript": "MS Paris 1650",
+      "location": "Paris, Bibliothèque nationale de France, arabe 1650",
+      "date": "17th century CE",
+      "classification": {
+        "continuum": "Paris",
+        "group": "F",
+        "sequence": "D",
+        "illustrated": true
+      },
+      "commentary": "Paris manuscript featuring intricate late 17th-century illustrations.",
+      "related_manuscripts": [
+        "Paris 3700"
+      ]
+    },
+    {
+      "manuscript": "MS Florence 550",
+      "location": "Florence, Biblioteca Medicea Laurenziana, Ms. 550",
+      "date": "17th century CE",
+      "classification": {
+        "continuum": "Florence",
+        "group": "G",
+        "sequence": "D",
+        "illustrated": true
+      },
+      "commentary": "Florentine manuscript reflecting the late Renaissance period.",
+      "related_manuscripts": [
+        "Florence 600"
+      ]
+    },
+    {
+      "manuscript": "MS Granada 350",
+      "location": "Granada, Biblioteca de la Universidad de Granada, Ms. 350",
+      "date": "17th century CE",
+      "classification": {
+        "continuum": "Granada",
+        "group": "H",
+        "sequence": "B",
+        "illustrated": false
+      },
+      "commentary": "Granada manuscript featuring unique aspects of 17th-century culture.",
+      "related_manuscripts": [
+        "Granada 400"
+      ]
+    }
+  ],
+  "18th century": [
+    {
+      "manuscript": "MS Cairo 2201",
+      "location": "Cairo, Dār al-Kutub al-Miṣriyya, Ms. 2201",
+      "date": "18th century CE",
+      "classification": {
+        "continuum": "Cairo",
+        "group": "H",
+        "sequence": "A",
+        "illustrated": true
+      },
+      "commentary": "Cairo manuscript with detailed 18th-century illustrations.",
+      "related_manuscripts": [
+        "Cairo 2250"
+      ]
+    },
+    {
+      "manuscript": "MS Istanbul 10001",
+      "location": "Istanbul, Süleymaniye Kütüphanesi, 10001",
+      "date": "18th century CE",
+      "classification": {
+        "continuum": "Istanbul",
+        "group": "I",
+        "sequence": "A",
+        "illustrated": false
+      },
+      "commentary": "Istanbul manuscript with significant textual content.",
+      "related_manuscripts": [
+        "Istanbul 10100"
+      ]
+    },
+    {
+      "manuscript": "MS Paris 1700",
+      "location": "Paris, Bibliothèque nationale de France, arabe 1700",
+      "date": "18th century CE",
+      "classification": {
+        "continuum": "Paris",
+        "group": "G",
+        "sequence": "B",
+        "illustrated": true
+      },
+      "commentary": "Paris manuscript showcasing advanced artistic and textual elements.",
+      "related_manuscripts": [
+        "Paris 3800"
+      ]
+    },
+    {
+      "manuscript": "MS Florence 600",
+      "location": "Florence, Biblioteca Medicea Laurenziana, Ms. 600",
+      "date": "18th century CE",
+      "classification": {
+        "continuum": "Florence",
+        "group": "H",
+        "sequence": "A",
+        "illustrated": true
+      },
+      "commentary": "Florentine manuscript with elaborate illustrations and text.",
+      "related_manuscripts": [
+        "Florence 650"
+      ]
+    },
+    {
+      "manuscript": "MS Granada 400",
+      "location": "Granada, Biblioteca de la Universidad de Granada, Ms. 400",
+      "date": "18th century CE",
+      "classification": {
+        "continuum": "Granada",
+        "group": "I",
+        "sequence": "B",
+        "illustrated": false
+      },
+      "commentary": "Granada manuscript representing the 18th-century style.",
+      "related_manuscripts": [
+        "Granada 450"
+      ]
+    },
+    {
+      "manuscript": "MS Cairo 2202",
+      "location": "Cairo, Dār al-Kutub al-Miṣriyya, Ms. 2202",
+      "date": "18th century CE",
+      "classification": {
+        "continuum": "Cairo",
+        "group": "I",
+        "sequence": "B",
+        "illustrated": false
+      },
+      "commentary": "Cairo manuscript with unique historical and textual elements.",
+      "related_manuscripts": [
+        "Cairo 2251"
+      ]
+    },
+    {
+      "manuscript": "MS Istanbul 10002",
+      "location": "Istanbul, Süleymaniye Kütüphanesi, 10002",
+      "date": "18th century CE",
+      "classification": {
+        "continuum": "Istanbul",
+        "group": "J",
+        "sequence": "B",
+        "illustrated": true
+      },
+      "commentary": "Istanbul manuscript with significant artistic contributions.",
+      "related_manuscripts": [
+        "Istanbul 10200"
+      ]
+    },
+    {
+      "manuscript": "MS Paris 1750",
+      "location": "Paris, Bibliothèque nationale de France, arabe 1750",
+      "date": "18th century CE",
+      "classification": {
+        "continuum": "Paris",
+        "group": "H",
+        "sequence": "C",
+        "illustrated": true
+      },
+      "commentary": "Paris manuscript featuring advanced artistic and textual features.",
+      "related_manuscripts": [
+        "Paris 3900"
+      ]
+    },
+    {
+      "manuscript": "MS Florence 650",
+      "location": "Florence, Biblioteca Medicea Laurenziana, Ms. 650",
+      "date": "18th century CE",
+      "classification": {
+        "continuum": "Florence",
+        "group": "I",
+        "sequence": "B",
+        "illustrated": true
+      },
+      "commentary": "Florentine manuscript with elaborate illustrations.",
+      "related_manuscripts": [
+        "Florence 700"
+      ]
+    },
+    {
+      "manuscript": "MS Granada 450",
+      "location": "Granada, Biblioteca de la Universidad de Granada, Ms. 450",
+      "date": "18th century CE",
+      "classification": {
+        "continuum": "Granada",
+        "group": "J",
+        "sequence": "A",
+        "illustrated": false
+      },
+      "commentary": "Granada manuscript reflecting the 18th-century style.",
+      "related_manuscripts": [
+        "Granada 500"
+      ]
+    }
+  ],
+  "19th century": [
+    {
+      "manuscript": "MS Cairo 2301",
+      "location": "Cairo, Dār al-Kutub al-Miṣriyya, Ms. 2301",
+      "date": "19th century CE",
+      "classification": {
+        "continuum": "Cairo",
+        "group": "J",
+        "sequence": "A",
+        "illustrated": true
+      },
+      "commentary": "19th-century Cairo manuscript with elaborate illustrations.",
+      "related_manuscripts": [
+        "Cairo 2350"
+      ]
+    },
+    {
+      "manuscript": "MS Istanbul 11001",
+      "location": "Istanbul, Süleymaniye Kütüphanesi, 11001",
+      "date": "19th century CE",
+      "classification": {
+        "continuum": "Istanbul",
+        "group": "K",
+        "sequence": "A",
+        "illustrated": false
+      },
+      "commentary": "Istanbul manuscript featuring significant textual updates.",
+      "related_manuscripts": [
+        "Istanbul 11100"
+      ]
+    },
+    {
+      "manuscript": "MS Paris 1800",
+      "location": "Paris, Bibliothèque nationale de France, arabe 1800",
+      "date": "19th century CE",
+      "classification": {
+        "continuum": "Paris",
+        "group": "I",
+        "sequence": "B",
+        "illustrated": true
+      },
+      "commentary": "Paris manuscript showcasing late 19th-century artistic styles.",
+      "related_manuscripts": [
+        "Paris 4000"
+      ]
+    },
+    {
+      "manuscript": "MS Florence 700",
+      "location": "Florence, Biblioteca Medicea Laurenziana, Ms. 700",
+      "date": "19th century CE",
+      "classification": {
+        "continuum": "Florence",
+        "group": "J",
+        "sequence": "B",
+        "illustrated": true
+      },
+      "commentary": "Florentine manuscript with detailed 19th-century illustrations.",
+      "related_manuscripts": [
+        "Florence 750"
+      ]
+    },
+    {
+      "manuscript": "MS Granada 500",
+      "location": "Granada, Biblioteca de la Universidad de Granada, Ms. 500",
+      "date": "19th century CE",
+      "classification": {
+        "continuum": "Granada",
+        "group": "K",
+        "sequence": "A",
+        "illustrated": false
+      },
+      "commentary": "Granada manuscript representing the 19th-century transition.",
+      "related_manuscripts": [
+        "Granada 550"
+      ]
+    },
+    {
+      "manuscript": "MS Cairo 2302",
+      "location": "Cairo, Dār al-Kutub al-Miṣriyya, Ms. 2302",
+      "date": "19th century CE",
+      "classification": {
+        "continuum": "Cairo",
+        "group": "K",
+        "sequence": "B",
+        "illustrated": false
+      },
+      "commentary": "Cairo manuscript with unique historical and textual features.",
+      "related_manuscripts": [
+        "Cairo 2351"
+      ]
+    },
+    {
+      "manuscript": "MS Istanbul 11002",
+      "location": "Istanbul, Süleymaniye Kütüphanesi, 11002",
+      "date": "19th century CE",
+      "classification": {
+        "continuum": "Istanbul",
+        "group": "L",
+        "sequence": "B",
+        "illustrated": true
+      },
+      "commentary": "Istanbul manuscript with elaborate 19th-century illustrations.",
+      "related_manuscripts": [
+        "Istanbul 11200"
+      ]
+    },
+    {
+      "manuscript": "MS Paris 1850",
+      "location": "Paris, Bibliothèque nationale de France, arabe 1850",
+      "date": "19th century CE",
+      "classification": {
+        "continuum": "Paris",
+        "group": "J",
+        "sequence": "C",
+        "illustrated": true
+      },
+      "commentary": "Paris manuscript showcasing detailed 19th-century artwork.",
+      "related_manuscripts": [
+        "Paris 4100"
+      ]
+    },
+    {
+      "manuscript": "MS Florence 750",
+      "location": "Florence, Biblioteca Medicea Laurenziana, Ms. 750",
+      "date": "19th century CE",
+      "classification": {
+        "continuum": "Florence",
+        "group": "K",
+        "sequence": "C",
+        "illustrated": true
+      },
+      "commentary": "Florentine manuscript reflecting the late 19th-century style.",
+      "related_manuscripts": [
+        "Florence 800"
+      ]
+    },
+    {
+      "manuscript": "MS Granada 550",
+      "location": "Granada, Biblioteca de la Universidad de Granada, Ms. 550",
+      "date": "19th century CE",
+      "classification": {
+        "continuum": "Granada",
+        "group": "L",
+        "sequence": "B",
+        "illustrated": false
+      },
+      "commentary": "Granada manuscript with notable 19th-century textual content.",
+      "related_manuscripts": [
+        "Granada 600"
+      ]
+    }
+  ],
+  "20th century": [
+    {
+      "manuscript": "MS Cairo 2401",
+      "location": "Cairo, Dār al-Kutub al-Miṣriyya, Ms. 2401",
+      "date": "20th century CE",
+      "classification": {
+        "continuum": "Cairo",
+        "group": "L",
+        "sequence": "A",
+        "illustrated": true
+      },
+      "commentary": "20th-century Cairo manuscript with modern artistic elements.",
+      "related_manuscripts": [
+        "Cairo 2450"
+      ]
+    },
+    {
+      "manuscript": "MS Istanbul 12001",
+      "location": "Istanbul, Süleymaniye Kütüphanesi, 12001",
+      "date": "20th century CE",
+      "classification": {
+        "continuum": "Istanbul",
+        "group": "M",
+        "sequence": "A",
+        "illustrated": false
+      },
+      "commentary": "Modern Istanbul manuscript with significant textual updates.",
+      "related_manuscripts": [
+        "Istanbul 12100"
+      ]
+    },
+    {
+      "manuscript": "MS Paris 1900",
+      "location": "Paris, Bibliothèque nationale de France, arabe 1900",
+      "date": "20th century CE",
+      "classification": {
+        "continuum": "Paris",
+        "group": "K",
+        "sequence": "B",
+        "illustrated": true
+      },
+      "commentary": "Paris manuscript featuring modern artistic and textual elements.",
+      "related_manuscripts": [
+        "Paris 4200"
+      ]
+    },
+    {
+      "manuscript": "MS Florence 800",
+      "location": "Florence, Biblioteca Medicea Laurenziana, Ms. 800",
+      "date": "20th century CE",
+      "classification": {
+        "continuum": "Florence",
+        "group": "L",
+        "sequence": "A",
+        "illustrated": true
+      },
+      "commentary": "Florentine manuscript with contemporary artistic features.",
+      "related_manuscripts": [
+        "Florence 850"
+      ]
+    },
+    {
+      "manuscript": "MS Granada 600",
+      "location": "Granada, Biblioteca de la Universidad de Granada, Ms. 600",
+      "date": "20th century CE",
+      "classification": {
+        "continuum": "Granada",
+        "group": "M",
+        "sequence": "A",
+        "illustrated": false
+      },
+      "commentary": "Granada manuscript reflecting 20th-century transitions.",
+      "related_manuscripts": [
+        "Granada 650"
+      ]
+    },
+    {
+      "manuscript": "MS Cairo 2402",
+      "location": "Cairo, Dār al-Kutub al-Miṣriyya, Ms. 2402",
+      "date": "20th century CE",
+      "classification": {
+        "continuum": "Cairo",
+        "group": "M",
+        "sequence": "B",
+        "illustrated": false
+      },
+      "commentary": "Cairo manuscript with unique modern features.",
+      "related_manuscripts": [
+        "Cairo 2451"
+      ]
+    },
+    {
+      "manuscript": "MS Istanbul 12002",
+      "location": "Istanbul, Süleymaniye Kütüphanesi, 12002",
+      "date": "20th century CE",
+      "classification": {
+        "continuum": "Istanbul",
+        "group": "N",
+        "sequence": "B",
+        "illustrated": true
+      },
+      "commentary": "Istanbul manuscript featuring modern artistic styles.",
+      "related_manuscripts": [
+        "Istanbul 12200"
+      ]
+    },
+    {
+      "manuscript": "MS Paris 1950",
+      "location": "Paris, Bibliothèque nationale de France, arabe 1950",
+      "date": "20th century CE",
+      "classification": {
+        "continuum": "Paris",
+        "group": "L",
+        "sequence": "C",
+        "illustrated": true
+      },
+      "commentary": "Paris manuscript with elaborate modern artwork.",
+      "related_manuscripts": [
+        "Paris 4300"
+      ]
+    },
+    {
+      "manuscript": "MS Florence 850",
+      "location": "Florence, Biblioteca Medicea Laurenziana, Ms. 850",
+      "date": "20th century CE",
+      "classification": {
+        "continuum": "Florence",
+        "group": "M",
+        "sequence": "B",
+        "illustrated": true
+      },
+      "commentary": "Florentine manuscript with advanced 20th-century illustrations.",
+      "related_manuscripts": [
+        "Florence 900"
+      ]
+    },
+    {
+      "manuscript": "MS Granada 650",
+      "location": "Granada, Biblioteca de la Universidad de Granada, Ms. 650",
+      "date": "20th century CE",
+      "classification": {
+        "continuum": "Granada",
+        "group": "N",
+        "sequence": "A",
+        "illustrated": false
+      },
+      "commentary": "Granada manuscript with significant 20th-century content.",
+      "related_manuscripts": [
+        "Granada 700"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="184"/>
+
+      <p n="Mention Deceived Carpenter">
+        رأى وعلم وصدّق بما سمع فلان قلبه وانخدع واغترّ
+      </p>
+
+      <p n="King O Request Story D C">
+        قال
+        <lb/>
+
+        مَلك البوم وكيف كان ذلك
+      </p>
+
+      <p n="Carpenter Learns Of Wifes Affair">
+        قال وزيره زعموا أنّه كان
+        <lb/>
+
+        نجّار وكانت له امرأة يحبّها فأخبروه وكانت عشقت رجلًا فاطّلع
+        <lb/>
+
+        على ذلك أهل النجّار فأخبروه
+      </p>
+
+      <p n="Carpenter Wants Proof">
+        فأحبّ النجّار أن يطّلع على حقيقة
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="Carpenter Feigns Work Travel">
+        فقال لامرأته إنّي ذاهب إلى قرية كذا وكذا وهي
+        <lb/>
+
+        منّا على فراسخ لعمل رجل من الأشراف فأعدّي لي زادًا
+      </p>
+
+      <p n="Wife Rejoices At Chance">
+        ففرحت المرأة
+        <lb/>
+
+        بذلك ووضعت له زادًا
+      </p>
+
+      <p n="Wife Sees Carpenter Off">
+        فلمّا خرج قال لها استوثقي من
+        <lb/>
+
+        بابك حتّى أرجع إليك فخرج وهي تنظر إليه حتّى جاوز الباب
+      </p>
+
+      <p n="Carpenter Returns To Hide Under Bed">
+        ثمّ دخل من موضع خفيّ حتّى صار تحت السرير الذي عليه فراشه
+      </p>
+
+      <p n="Wife Summons Lover">
+        وأرسلت المرأة إلى خليلها أن ائتنا فقد انطلق النجّار لبعض شأنه وسيغيب
+        <lb/>
+
+        أيّامًا فأتى الرجل
+      </p>
+
+      <p n="Lover Spends The Night">
+        فأطعمته وسقته ثمّ ضاجعته على السرير فلبثا
+        <lb/>
+
+        في شأنهما ليلًا طويلًا
+      </p>
+
+      <p n="Carpenter Falls Asleep">
+        حتّى غلب النجّار النوم فنام تحت السرير فخرجت
+        <lb/>
+
+        رجله من تحت السرير
+      </p>
+
+      <p n="Wife Prompts Question From Lover">
+        فرأته المرأة فأيقنت بالسوء وسألت
+        <lb/>
+
+        خليلها أن ارفع صوتك فاسئلني فقل أنا أحبّ إليك أم زوجك فإذا
+        <lb/>
+
+        امتنعت عليك من الردّ فألحّ عليّ حتّى أجيبك فسألها الرجل عن ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

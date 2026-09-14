@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="13"/>
+
+      <p n="unassigned">
+        ليس على هذا صبر يذهب بالبرّ فيجتمع عليّ العري والجوع ولا
+        <lb/>
+
+        يجتمعان هذان على أحد إلّا هلك ثمّ إنّه صاح بالسارق ووثب
+        <lb/>
+
+        من مكانه فتناول خشبة كانت عند رأسه ثمّ عدا عليه وخرج
+        <lb/>
+
+        السارق وترك الملحفة فأخذها الرجل ولبسها وعاد إلى مكانه
+        <lb/>
+
+        وليس ينبغي للعاقل أيضًا أن يركن إلى هذا المثل ويدع ما يجب عليه
+        <lb/>
+
+        من الطلب والعمل في معاشه ولا يقتدي بمن يؤاتيه المقادير
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

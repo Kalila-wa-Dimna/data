@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="117"/>
+
+      <p n="Dimna Claims He Only Warned Lion of Ox's Treason">
+        ارتبت به منه وتبيّن لي من علامات ذلك
+      </p>
+
+      <p n="Dimna Says the King Saw the Same Signs">
+        فاستبان له ذلك ولم يأتِ
+        <lb/>
+
+        له شيئًا إلّا عن بصيرة وهو أيضًا أن تحرّى الأمر وسأل عنه ونظر فيه عرف
+        <lb/>
+
+        تصديق ما كنت قلته
+      </p>
+
+      <p n="Hidden Fire Is Extracted Only with List/Labor">
+        فإنّ النار التي تكون في الحجر والعود إنمّا تستخرج
+        <lb/>
+
+        بالحيل وليس يخفى مثل هذا
+      </p>
+
+      <p n="Hidden Crimes Are Exposed by Investigation">
+        فإنّ حزم المرء إذا فحص عنه روى حقيقته
+        <lb/>
+
+        واستبانته
+      </p>
+
+      <p n="Stirred Up Mud Stinks">
+        كما أنّ كلّ شئ مُنتِن من حمأة وغيرها إذا ثوّر ظهر ريحه
+        <lb/>
+
+        وقذره
+      </p>
+
+      <p n="Dimna Cites His Staying as Proof of Innocence">
+        ولو كنت مذنبًا هربت في الأرض وكان لي فيها سعة ورحب
+        <lb/>
+
+        ولم أقمْ بباب الملك ولكنّي لثقتي ببرأتي ونصيحتي لم أبرحْ ولم
+        <lb/>
+
+        أفارقه
+      </p>
+
+      <p n="Dimna Asks for Unimpeachable Investigator">
+        وأنا أرغب إليه إن كان في شكٍّ من أمري أن يأمر بالفحص
+        <lb/>
+
+        عنه ويكون من يولّيه ذلك ذا أمانة لا تأخذه في الحقّ لومة لائم
+        <lb/>
+
+        ويرفع إليه عذري وما يسمع من غيري و ينظر فيه لا يأخذ
+        <lb/>
+
+        بأقاويل البغاة والحسدة
+      </p>
+
+      <p n="Dimna Cites Ox's Treason as Proof for Being Falsely Suspected">
+        فإنّ الذي قد عرف الملك من تشبيههم
+        <lb/>
+
+        عليه ما قد كان تبيّن له من عداوة شتربة حتّى استحلّ بذلك قتله
+        <lb/>
+
+        جديرًا من أن يمنعه ذلك من الإقدام على قتلي
+      </p>
+
+      <p n="Dimna's Station Exposes Him to Jealousy">
+        فإنّه قد كانت
+        <lb/>
+
+        لي من الملك منزلة أُنافَس فيها ومحلّ دانٍ إليه
+      </p>
+
+      <p n="Dimna Claims only Investigation Can Save Him">
+        فإن هو لم يفعل ذلك
+        <lb/>
+
+        بي ويكون رأيه عليه من أمري فلا ملجأ ولا غياث إلّا إلى الله الذي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="55"/>
+
+      <p n="Dimna's Application of the Parable to the Lion's Situation">
+        وإنّما ضربت لك هذا المثل رجاء أن يكون هذا الذي يروعك صوته
+        <lb/>
+
+        لو قد انتهيت إليه لوجدته أيسر ممّا في نفسك
+      </p>
+
+      <p n="Dimna's Offer to Investigate on the Lion's Behalf">
+        فإن يشاء الملك فليبعثْني
+        <lb/>
+
+        نحوه حتّى أرجع إليه ببيانه في أمره وما يجب أن يعلم منه
+      </p>
+
+      <p n="Lion's Agreement to Dimna's Proposal">
+        فوافق الأسد
+        <lb/>
+
+        ذلك من قول دمنة وقال له دونك
+      </p>
+
+      <p n="Dimna's Departure to Investigate the Sound">
+        فانطلق دمنة إلى المكان الذي
+        <lb/>
+
+        فيه الثور
+      </p>
+
+      <p n="Lion's Regret After Dimna's Departure">
+        فلمّا انفصل دمنة من عند الأسد فكّر الأسد في أمره
+      </p>
+
+      <p n="Lion's Self-Doubt about Trusting Dimna">
+        وقال
+        <lb/>
+
+        ما أصبت بائتماني إيّاه على ما وجّهته له
+      </p>
+
+      <p n="Lion's Concerns about Suffering, Greedy and Malevolent Courtiers">
+        فإنّ الرجل الذي بحضرة السلطان
+        <lb/>
+
+        إذا كان قد أُبطلت حقوقه غير مستوجب لذلك أو مبغيًّا عليه أو
+        <lb/>
+
+        كان معروفًا بالشره والحرص أو قد أصابه ضيق وضرّ فلم ينعشْ
+        <lb/>
+
+        أو قد أجرم جرمًا فهو يخاف العقوبة أو كان حسودًا شرّيرًا لا
+        <lb/>
+
+        يحبّ للناس الخير
+      </p>
+
+      <p n="Lion's Concerns about Requistioned and Deposed Courtiers">
+        أو حيل بينه وبين ما في يديه من السلطان أو ولّي
+        <lb/>
+
+        عملًا ففُرّق عليه وانتُقص له أو اشترك معه
+      </p>
+
+      <p n="Lion's Concerns about Harshly Punished Courtiers">
+        أو أذنب ذنبًا في نظرائه
+        <lb/>
+
+        فعُفي عنهم وعوقب أو فعل ذلك بهم جميعًا فبلغ منه ما لم يُؤت إليهم
+        <lb/>
+
+        بمثله
+      </p>
+
+      <p n="Lion's Concerns about Courtiers Others Were Preferred Over">
+        أو أبلي هو ونظراؤه بلاء حسنًا ففُضّلوا عليه في المنزلة والجاه
+      </p>
+
+      <p n="Lion's Concerns about Impious and Inimical Courtiers">
+        أو كان غير موثوق الهوى في الدين أو كان الولاة نفعًا
+        <lb/>
+
+        أو يخاف فيما ينبّههم ضرًّا أو كان لعدوّهم مؤازرًا ولوزرائهم محاربًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

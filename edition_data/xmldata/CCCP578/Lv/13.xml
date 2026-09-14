@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="13"/>
+
+      <p n="Friend Stays Devoted To Burzoy">
+        ولكنّي لما رأيت صبرك ومواظبتك على طلب حاجتك والتحفّظ من سقط الكلام
+        <lb/>
+
+        طول مكثك عندنا بشيء يُستدلّ به على سرّ أمرك فازددت رغبة في عقلك
+        <lb/>
+
+        وأحببت مؤاخاتك
+      </p>
+
+      <p n="Friend Distinguishes Burzoy">
+        فإنّي لا أعلم أنّني رأيت من الرجال رجلًا هو أرضى عقلًا منك
+        <lb/>
+
+        ولا أحسن أدبًا ولا أصبر على طلب حاجة ولا أكتم للسرّ منك ولا سيّما في بلاد
+        <lb/>
+
+        غربة وعند قوم لم تكن عرفت شيمتهم
+      </p>
+
+      <p n="Traits Of Prudence">
+        وإنّ عقل الرجل يستبين في هذه الخصال
+        <lb/>
+
+        الثمانية الأولى الرفق واللطف والثانية أن يعرف الرجل نفسه ويحفظها
+        <lb/>
+
+        والثالثة طاعة الملوك وتحرّي مرضاتهم
+      </p>
+
+      <p n="Traits Of Secrecy And Speech">
+        والرابعة معرفة الرجل سرّ نفسه
+        <lb/>
+
+        كيف ينبغي له أن يطلع عليه صديقه والخامسة أن يكون على أبواب الملوك
+        <lb/>
+
+        أديبًا جليلًا ملق اللسان والسادسة أن يكون لسرّه ولسرّ غيره حافظًا
+        <lb/>
+
+        والسابعة أن يكون على لسانه قادرًا ولا يطلع من الكلام إلّا ما قدّره
+        <lb/>
+
+        وأرفده على الثقة والثامنة إذا كان في المحفل لم يجب عمّا ليس يُسئل عنه
+        <lb/>
+
+        ولم يقبل ما ليس يستيقنه ولم يظهر من الأمر إلّا ما لا يندم عليه
+      </p>
+
+      <p n="Traits Ensure Safety">
+        فمن اجتمعت
+        <lb/>
+
+        فيه هذه الخصال كان هو الداعي إلى نفسه الربح والخير والمتجنّب الشرّ
+        <lb/>
+
+        والخسران
+      </p>
+
+      <p n="Burzoy Has These Traits">
+        وهذه الخصال كلّها قد استبانت لي فيك وصحّت لي منك
+      </p>
+
+      <p n="Burzoy Came To Steal Indian Knowledge">
+        فالله
+        <lb/>
+
+        يحفظك يا صديقي ويعينك والذي قدمت لها وصادقتني من أجلها سلب
+        <lb/>
+
+        ديني وفخري وعلمي
+      </p>
+
+      <p n="Burzoy Deserves Help">
+        فإنّي قد علمت أنّ مثلك وقد اجتمعت هذه الخصال الثمانية فيه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

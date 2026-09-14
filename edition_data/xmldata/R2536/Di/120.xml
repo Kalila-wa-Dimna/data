@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="120"/>
+
+      <p n="First Speaker Accuses Dimna of Self-Interest">
+        والتماس العذر ممّا وقعت فيه منه
+      </p>
+
+      <p n="Dimna Claims Right to Self-Defense">
+        ** ويلك وهل على امرئ في التماس
+        <lb/>
+
+        ذلك لنفسه وطلبته <> وهل أحد أقرب إلى الانسان من نفسه
+        <lb/>
+
+        فإنْ هو لم يلتمس الحذر لها فلمن يلتمس
+      </p>
+
+      <p n="Who Does Not Protect Himself Is Useless to Others">
+        وقد قالت الحكماء من لم يحفظْ
+        <lb/>
+
+        نفسه فهو لغيرها لا يصلح
+      </p>
+
+      <p n="Dimna Calls First Speaker Self-Hating">
+        ولقد ظهر منك ما لم تملكْه من
+        <lb/>
+
+        البغي والحسد والبغضاء والجهل ولقد عرف من سمع ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

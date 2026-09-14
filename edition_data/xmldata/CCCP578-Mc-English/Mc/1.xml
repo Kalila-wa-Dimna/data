@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="1"/>
+
+      <p n="unassigned">
+        so that a person of reason may be saved from misfortune and delivered from adversity. Then let them go about using their abundance of knowledge,
+        <lb/>
+
+        and let them take from that the good fortune whose right guidance and prosperity is apparent to people. Though it may entail some controlling
+        <lb/>
+
+        of rage at first, its outcome is praised by those with reason and people who look into
+        <lb/>
+
+        and weigh matters that necessarily entail benefit or harm. Understand this, and you will attain guidance, God The Blessed willing.
+      </p>
+
+      <p n="Chapter Title">
+        The Chapter of the Cat and Rat
+      </p>
+
+      <p n="The King Asks about Escaping Enemies">
+        “I have understood what you mentioned of the matters of knowledge and reason,” said the King to the Philosopher, “and how
+        <lb/>
+
+        a man of both benefits and gains merit. Now, tell me the parable of a man whose enemies are many, and being on the brink
+        <lb/>
+
+        of perishing at their hands, sought to reconcile with them, since he feared them. Tell me about the nature of truce
+        <lb/>
+
+        and how it should be.”
+      </p>
+
+      <p n="The Philosopher Responds that Emotions Change">
+        The Philosopher said: “Enmity and closeness do not endure and become firm. Much
+        <lb/>
+
+        affection turns into hatred and much hatred turns into affection, as motives and conditions change-
+        <lb/>
+
+        and hatred might also become love and love hatred.
+      </p>
+
+      <p n="Enmity Must Not Stop One from Requesting Help">
+        A man of reason is not hindered by an enmity in his soul
+        <lb/>
+
+        toward someone of his kin, or otherwise, from asking aid, if he so covets, to avert a scary matter or draw
+        <lb/>
+
+        benefit; and he does not fail to use his judgement in creating a connection,
+      </p>
+
+      <p n="The Resolute Attains His Need">
+        for he who preempts such
+        <lb/>
+
+        failure and acts diligently in this will attain his need and reach his pursuit.
+      </p>
+
+      <p n="The Parable of the Cat and Rat Is Invoked">
+        An example of this
+        <lb/>
+
+        is the parable of the rat and the cat, who put their disagreements aside when they fell into trouble and difficulty, and therein was
+        <lb/>
+
+        the wellbeing of them both.”
+      </p>
+
+      <p n="The King Requests the Full Parable">
+        “And how was that?” said the King.
+      </p>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        “The claim goes,” said the Philosopher
+        <lb/>
+
+        that, in the land of Sarandīb, there was a tree, at its foot lived a rat, and next to the tree there was
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

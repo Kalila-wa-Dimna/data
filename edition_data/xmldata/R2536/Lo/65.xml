@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="65"/>
+
+      <p n="unassigned">
+        ثمّ انصرف السرطان إلى جميع السمك فأخبرهنّ خبر العلجوم
+        <lb/>
+
+        فأقاموا بمكانهم آمنين
+      </p>
+
+      <p n="The Moral: A Trickster's Downfall">
+        وإنّما ضربت لك هذا المثل لتعلم أنّ بعض
+        <lb/>
+
+        الحيل مدمّرة على صاحبها
+      </p>
+
+      <p n="The Jackal's Plan">
+        ولكن انطلق محلّقًا في السماء فالتمس حليًّا فإذا
+        <lb/>
+
+        ظفرت به فاختطفه وأصحابه ينظرون إليك ثمّ طر به حيث لا تفوت
+        <lb/>
+
+        العيون منك فإنّهم يتبعونك فإذا انتهيت إلى جحر الأسود فإنّهم يأخذون
+        <lb/>
+
+        حليّهم ويريحونك من الأسود
+      </p>
+
+      <p n="The Crow Snatches the Necklace">
+        ففعل الغراب ذلك وأخذ الحليّ وطرحه
+        <lb/>
+
+        على باب الجحر
+      </p>
+
+      <p n="The Plan Succeeds">
+        فأخذ أصحاب الحليّ حليّهم ورأوا الأسود نائمًا فأهوى إليه
+        <lb/>
+
+        رجل منهم بحجر فقتله
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

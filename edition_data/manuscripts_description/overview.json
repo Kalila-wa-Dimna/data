@@ -1,0 +1,50 @@
+[
+  {
+    "display": "Pococke 400 (P400)",
+    "siglum": "P400",
+    "images": ["ae1e0ec8-0573-4359-a7e9-2d54bc315137.jpg", "fb3365bb-b6c1-4aba-971d-ad26f62506f6.jpg","004617b5-dfa5-47a7-8b52-704354b76f83.jpg", "37774391-dd62-4be4-86be-a24bf9f53b2d.jpg"],
+    "image_script": ["f92fd689-5445-4114-9bee-26f9bffe5ded.jpg"]
+  },
+  {
+    "display": "CCC Parker 578 (CCCP578)",
+    "siglum": "CCCP578",
+     "images": ["043a91c5-ca3b-43ed-9642-42f13fdb6f9a.jpg", "811c5ecf-50cf-44c9-9116-8694d5759f06.jpg"],
+    "image_script": ["d38f9749-38cb-4cd3-b27a-64df990563cc.jpg"]
+  },
+
+  {
+    "display": "Paris 3471 (P3471)",
+    "siglum": "P3471",
+     "images": ["", "","", ""],
+    "image_script": [""]
+   
+  },
+  {
+    "display": "Paris 3465 (P3465)",
+    "siglum": "P3465",
+    "images": [""],
+    "image_script": [""]
+
+  },
+  {
+    "display": "Paris 3466 (P3466)",
+    "siglum": "P3466",
+     "images": [""],
+    "image_script": [""]
+    
+  },
+  {
+    "display": "Ayasofya 4095 (A4095)",
+    "siglum": "A4095",
+     "images": ["P3465_1.webp", "P3465_2.webp","P3465_3.webp", "P3465_4.webp"],
+    "image_script": [""]
+   
+  },
+  {
+    "display": "Riyadh 2536 (R2536)",
+    "siglum": "R2536",
+     "images": ["P3465_1.webp", "P3465_2.webp","P3465_3.webp", "P3465_4.webp"],
+    "image_script": ["d38f9749-38cb-4cd3-b27a-64df990563cc.jpg"]
+  
+  }
+]

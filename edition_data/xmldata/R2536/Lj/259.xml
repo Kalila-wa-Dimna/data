@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="259"/>
+
+      <p n="Kings Must not Delegate Their Own Duties">
+        السلطان إذا وكّل ما ينبغي له مباشرته بنفسه من الأعمال إلى غيره وباشر
+        <lb/>
+
+        منها ما كان ينبغي له أن يليه غيره ورث من عمله ذلك الندامة وأصابه
+        <lb/>
+
+        منّا الضرّ الكثير
+      </p>
+
+      <p n="King Must Investigate Thoroughly">
+        ولكن ينبغي لهم أن لا يدعوا شيئًا يليه غيرهم ممّا
+        <lb/>
+
+        تصل إليه عاقبته إلّا التمسوا معرفته
+      </p>
+
+      <p n="Meat Is Tested with Three Senses">
+        كاللحم الذي لا ينبغي أن يرضى
+        <lb/>
+
+        بحسن بنظره دون معرفة رائحته
+      </p>
+
+      <p n="Imaginary Hair in Eye Taken for Real">
+        وكالرجل الذي يكون بين عينيه
+        <lb/>
+
+        كالشعرة فإذا نظر بعقله عَلِم أن لو كانت شعرة رآها غيره ممّن ينظر
+        <lb/>
+
+        إليه كما رآه هو
+      </p>
+
+      <p n="Firefly Is Mistaken for Fire">
+        وكالبعوضة التي يراها الرائي بالليل كأنّها نارًا فإذا
+        <lb/>
+
+        رآها غيره من العقلاء عَلِم أنّها ليست بنار إذا أخذها بيده فلم يجد حرّها
+      </p>
+
+      <p n="King Should Have Investigated">
+        وأنت أيضًا أيّها الملك حقيق أن تفكّر في أمر ابن آوى بحما بحكمك
+      </p>
+
+      <p n="Jackal Eats no Meat">
+        وتقول
+        <lb/>
+
+        كيف وهو لا يأكل اللحم
+      </p>
+
+      <p n="Jackal Gave Back Meat">
+        وما ألقيت منه إليه كرهه فيجعله في خزانتي
+      </p>
+
+      <p n="Jackal Is Unlikely to Steal Meat">
+        فيعمد إلى لحم أعطيته إيّاه لخاصّة نفسك وأمرته أن يحتفظ به فيذهب
+        <lb/>
+
+        به إلى بيته سرًّا منّي
+      </p>
+
+      <p n="King Must Investigate Now">
+        فافحص عن أمره
+      </p>
+
+      <p n="The Inferior always Envy the Superior">
+        فإنّه لم يزل جهّال الناس يحسدون
+        <lb/>
+
+        علماءهم ولئامهم يحسدون كرماءهم وشِرارهم يحسدون خيارهم
+        <lb/>
+
+        ويتحيّلون لهلاكهم ويرون منافعهم صارت إليهم
+      </p>
+
+      <p n="Jackal's Superiority Causes Envy">
+        وإنّ ابن آوى لم يزل
+        <lb/>
+
+        فاضل العلم
+      </p>
+
+      <p n="Investigation Would Clear Jackal">
+        فلعلّ الملك لو قد فحص عنه واستبان له أنّه بريء وإنّ هذا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

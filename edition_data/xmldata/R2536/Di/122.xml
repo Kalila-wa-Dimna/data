@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="122"/>
+
+      <p n="Dimna Enumerates 5 Duplicitous Types">
+        السرّ ولا يكتمه والآخر الذي يلبس لباس النساء والآخر المرأة التي
+        <lb/>
+
+        تلبس لباس الرجال والآخر الضيف الذي يزعم أنّه صاحب البيت
+        <lb/>
+
+        والآخر الذي ينطق في مجلس السلطان بما لا يُسئل عنه
+      </p>
+
+      <p n="The Mother Condemns Dimna's Sweet-Talking and Hoping">
+        قالت أمّ الأسد
+        <lb/>
+
+        أما تعرف سوء عملك فتحذره وتبصر غَرّة قولك فتتّقيها وتعلم
+        <lb/>
+
+        أنّك لست بناجٍ حتّى يُنتَقم منك أشدّ الانتقام
+      </p>
+
+      <p n="Dimna Defines the Ill-Wishing Person">
+        قال دمنة إنّ
+        <lb/>
+
+        الذي يركب الفكر لا يحبّ لأحدٍ خيرًا ولا يدفع عنه مكروهًا
+        <lb/>
+
+        وهو يقدر عليه
+      </p>
+
+      <p n="The Mother Demands Dimna's Silence and Confession">
+        فقالت أمّ الأسد أيّها الغادر الفاجر أنّك تحسب
+        <lb/>
+
+        أنّك خادع الملك بقولك هذا وأنّه يستبقيك
+      </p>
+
+      <p n="Dimna Defines as Traitor Who Is Ungrateful for Advice and Kills a Defeated Enemy">
+        قال دمنة الغادر
+        <lb/>
+
+        الفاجر الذي لا يؤمّن عدوّه فإذا استمكن منه قتله على غير ذنب
+      </p>
+
+      <p n="The Mother Calls Dimna a Liar">
+        قالت أمّ الأسد أيّها الكذوب الذي يقول ما لم يكن وما لم يفعل
+      </p>
+
+      <p n="Dimna Claims Truthfulness">
+        قال دمنة أمّا أنا فقد قلت الذي كان وصدّقت قولي بفعلي
+      </p>
+
+      <p n="The Mother Asks for Proof of Dimna's Truthfulness">
+        قالت
+        <lb/>
+
+        أمّ الأسد وما الذي كنت قلته فصدقت فيه بفعلك
+      </p>
+
+      <p n="Dimna Cites His Courage to Speak at Court as Proof">
+        قال دمنة
+        <lb/>
+
+        سيّدي يعلم أننّي لو كنت كاذبًا لم أقلْ هذا القول بين يديه وذلك
+        <lb/>
+
+        دليل على أنّه ليس لي ذنب يخزيني به
+      </p>
+
+      <p n="The Lion's Silence Makes the Mother Doubt">
+        فلمّا رأت أمّ الأسد إنّ الأسد
+        <lb/>
+
+        مستمعًا لكلام دمنة غير رادّ عليه شيئًا ممّا يقول ارتابت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

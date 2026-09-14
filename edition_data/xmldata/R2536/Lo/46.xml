@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="46"/>
+
+      <p n="Kalila's Advice on Contentment">
+        أن يقنع وليس لنا من ذلك ما يسخط لنا حالتنا التي نحن عليها
+      </p>
+
+      <p n="Dimna's View on Social Mobility">
+        قال دمنة
+        <lb/>
+
+        إنّ المنازل متنازعة مشتركة فذو المروءة يدفع نفسه عن المنزلة
+        <lb/>
+
+        الخاملة إلى المنزلة الشريفة والذي لا مروءة له ولا قبل عنده يحطّ نفسه
+        <lb/>
+
+        من المنزلة الفاضلة إلى المنزلة الخاملة والارتفاع إلى الشرف شديد
+        <lb/>
+
+        والانحطاط منه هيّن
+      </p>
+
+      <p n="Analogy of Lifting Heavy Objects">
+        كالحجر الثقيل رفعه من الأرض إلى العاتق عسير
+        <lb/>
+
+        وطرحه يسير
+      </p>
+
+      <p n="Aspiration for Higher Status">
+        فنحن أحقّ أن نروم ما فوقنا من المنازل بمروءتنا
+        <lb/>
+
+        ولا نقيم على حالتنا هذه
+      </p>
+
+      <p n="Ability to Change Circumstances">
+        ونحن نستطيع وجود الحيلة إلى أشرف منها
+      </p>
+
+      <p n="Kalila's Inquiry about Dimna's Plan">
+        قال له كليلة فما الذي تجمع عليه رأيك
+      </p>
+
+      <p n="Dimna's Strategy to Approach the Lion">
+        قال له دمنة إنّي أريد أن آتي
+        <lb/>
+
+        الأسد عند هذه الفرصة فإنّه ضعيف الرأي وقد أُلبس عليه
+        <lb/>
+
+        وعلى جنده أمرهم فلعلّي أن أدنو منه فأصيب منه مكانًا وجاهًا
+        <lb/>
+
+        وأنال حاجتي عنده
+      </p>
+
+      <p n="Kalila Questioning Dimna's Assumptions">
+        قال له كليلة وما يدريك أنّ الأسد على ما وصفت
+      </p>
+
+      <p n="Dimna's Reliance on Intuition and Observation">
+        قال له دمنة فالرأي والنظر
+      </p>
+
+      <p n="Dimna's Explanation of Reading People's Intentions">
+        فإنّ الرجل ذا العقل ربّما عرف حال
+        <lb/>
+
+        صاحبه وغامض أمره وباطنه بما ظهر له منه
+      </p>
+
+      <p n="Kalila Questioning Dimna's Experience with Rulers">
+        قال كليلة وكيف
+        <lb/>
+
+        ترجو المنزلة عند الأسد ولم نصحبْ السلطان ولم نعرف خدمته
+        <lb/>
+
+        وأدبه وما يوافقه من نفسه وغيره وما يخالفه
+      </p>
+
+      <p n="Dimna's Analogy of Strength and Heavy Burdens">
+        قال له دمنة إنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

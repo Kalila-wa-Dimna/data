@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="4"/>
+
+      <p n="Kisra Surpasses Prior Kings">
+        المزيّن بزينة البهاء الفاضل الماجد الأورع الرشيد الذي لم يعدله أحد ممّن مضى
+        <lb/>
+
+        قبله من الملوك ملوك الفرس الناقد البصير الكامل الأدب المعينة له نفسه على
+        <lb/>
+
+        طلب العلم وفروع الحكمة المستعين لنور العقل بجودة الفكر
+      </p>
+
+      <p n="Subjects And Kings Obey Kisra">
+        فكان اختصّه الله
+        <lb/>
+
+        بهذه الخصال وزيّنه بزينة الكرامة وتوّجه بهذه النعمة أن استوسقت له
+        <lb/>
+
+        الرعيّة وأذعنت له البلاد وصُفّت له الدنيا وأنقادت له الملوك وركنت
+        <lb/>
+
+        إلى طاعته ومتابعته وذلك نعمة من الله سائغة قسمها له في دولته وحياة
+        <lb/>
+
+        مملكته
+      </p>
+
+      <p n="Kisra Hears Of Indian Book">
+        فبينما هو في عنّ مملكته وبهائها وسلطانه إذ بلغه أنّ بالهند كتابًا من تأليف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

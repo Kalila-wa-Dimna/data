@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="170"/>
+
+      <p n="How To Give Advice">
+        المستشير له على صواب ما يرى من خطأ إن فاته وتقليب الرأي فيما شكّ
+        <lb/>
+
+        فيه حتّى يستقيم لهما بتعاونهما
+      </p>
+
+      <p n="Bad Advice Like Misdirected Curse">
+        فإذا لم يكن المستشار كذلك فهو على المستشير
+        <lb/>
+
+        مع عدوّه كالرجل الذي يرقي الإنسان ليرسله على الإنسان فإذا لم يكن يحسن
+        <lb/>
+
+        الرقية كان هو الذي يلتبسه الشيطان
+      </p>
+
+      <p n="Secritive Wise King Prospers">
+        وإذا كان المَلك محصّنًا للأسرار
+        <lb/>
+
+        مختبرًا لوزرائه مهيبًا في أنفس العامّة بعيدًا من أن يُعلم ما في نفسه لا يضيع
+        <lb/>
+
+        عنده ذو بلاء ولا يسلم منه ذو جرم مقدّرًا لما ينفق محصيًا لما يجري
+        <lb/>
+
+        وما يفيد كان خليقًا ألّا يُسلب صالح ما أُوتي
+      </p>
+
+      <p n="Ranks Of Secrets">
+        وللأسرار أيّها المَلك مواضع
+        <lb/>
+
+        فمن السرّ ما يدخل فيه الرهط ومنه ما يدخل فيه رجلان ومنه ما يُستعان
+        <lb/>
+
+        فيه بقوم
+      </p>
+
+      <p n="Only King C And Spy To Know Secret">
+        ولا أرى لهذا السرّ في قدر منزلته أن يشترك فيه إلّا أربعة
+        <lb/>
+
+        آذان ولسانان
+      </p>
+
+      <p n="Question On Origin Of Enemity">
+        فنهض المَلك معه وخلا به وسأله عن أصل العداوة التي
+        <lb/>
+
+        بين البوم والغربان
+      </p>
+
+      <p n="Words Of Crow Were Cause">
+        قال نعم أيّها المَلك كلّ ذلك لسبب كلمة تكلّم بها غراب
+      </p>
+
+      <p n="unassigned">
+        قال المَلك وكيف كان ذلك قال الوزير كان جماعة الطير لم يكن لها
+        <lb/>
+
+        مَلك وأنّها اجتمعت على بوم يكلّموه في أن يملّكوه فبينا هنّ في جمعها إذ
+        <lb/>
+
+        أقبل عليها غراب فقال بعضهنّ انظرن هذا الغراب حتّى نستشيره
+        <lb/>
+
+        في أمرنا هذا فأتاه الغراب فاستشرنه فقال الغراب لو أنّ الطير بادت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

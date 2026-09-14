@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="79"/>
+
+      <p n="The Crab Discovers the Truth">
+        مجموعة على ذلك التلّ عرف أنّ العلجوم يريد يعمله مثلهم
+      </p>
+
+      <p n="The Heron is Killed">
+        فأهوى بكليّته إلى
+        <lb/>
+
+        عنق العلجوم ثمّ عصره عصرة مات منها العلجوم ووقع عنه السرطان فمضى إلى
+        <lb/>
+
+        موضعه وأخبر السمك بذلك وإنّما ضربت لك هذا المثل لتعلم أنّ بعض الحيل
+        <lb/>
+
+        مهلكة للمحتال
+      </p>
+
+      <p n="The Moral: A Trickster's Downfall">
+        وإنّي أدلّك على أمر إن قدرت عليه كان فيه هلاك الأسود
+      </p>
+
+      <p n="The Crow Asks for the Plan">
+        قال وما
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="The Jackal's Plan">
+        قال تنطلق محلّقًا تبتغي وتنظر لعلّك تظفر بحليّ من حليّ النساء نفيسًا له محلّ
+        <lb/>
+
+        عندهم فتخطفه ثمّ تطير به ولا تبرح واقعًا طائرًا حيث لا تفوت العيون
+        <lb/>
+
+        وتطلبك الناس حيث تأتي بالحليّ إلى جحر الأسود فترمي به عنده فإذا انتهى الناس
+        <lb/>
+
+        إليه أخذوا حليّهم وأراحوك من الأسود
+      </p>
+
+      <p n="The Crow Snatches the Necklace">
+        قال فانطلق الغراب محلّقًا
+        <lb/>
+
+        في السماء يبتغي حليًّا فوجد امرأة وضعت حليّها وهي تريد تغتسل
+      </p>
+
+      <p n="The Lure">
+        قال فخطف
+        <lb/>
+
+        من حليّها عقدًا ولم يزل يطير ويقع والناس ينظرون إليه حتّى انتهى بذلك
+        <lb/>
+
+        العقد إلى جحر الأسود فألقاه عنده والقوم ينظرون إليه
+      </p>
+
+      <p n="The Plan Succeeds">
+        فأقبلوا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

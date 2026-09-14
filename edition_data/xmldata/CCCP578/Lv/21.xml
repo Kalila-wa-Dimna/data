@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="21"/>
+
+      <p n="Invocation For Kisras Elevation">
+        الشرف الذي تقوى به جميع المخلوقين وفي الآخرة أفضل المنازل مع الصالحين
+        <lb/>
+
+        المستوجبين جنّات النعيم فإنّها منتهى غاية الطالبين
+      </p>
+
+      <p n="Burzoy Buzurgmihr Exit">
+        فلمّا فرغ برزويه من
+        <lb/>
+
+        دعاء الملك خرج من عنده وخرج برزويه وخرج بزرجمهر ابن النختكان
+      </p>
+
+      <p n="Buzurgmihr Begins Composition">
+        وأخذ
+        <lb/>
+
+        في صناعة الكتاب وذلك الباب الذي أمر به الملك
+      </p>
+
+      <p n="Contents Of Bu Chapter">
+        ووصف أمر برزويه
+        <lb/>
+
+        من أوّل ما دفعه أبوه في التعليم إلى أن بعثه الملك إلى الهند وجاء بذلك بأحسن
+        <lb/>
+
+        ما يقدر عليه من الوصف بما قد كان عرف من أدب برزويه وسيرته
+        <lb/>
+
+        وظهر للناس منه بتركه للدنيا وبغضه للدنيا وزهادته فيها ورغبته في الآخرة
+      </p>
+
+      <p n="Buzurgmihr Omits Nothing">
+        فلم يدع من خلائق برزويه وطباعه شيئًا
+      </p>
+
+      <p n="Chapter Read Publicly">
+        وأعلم الملك عند فراغه وأنّه
+        <lb/>
+
+        وضعه في أوّل الكتاب فجمع أنوشروان الناس من العظماء والأشراف ودعا
+        <lb/>
+
+        بزرجمهر بالكتاب فحضر برزويه فأمر بقراءته على رؤوس الناس فقال بزرجمهر <>
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

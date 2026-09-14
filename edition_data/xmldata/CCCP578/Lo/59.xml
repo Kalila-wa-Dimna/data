@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="59"/>
+
+      <p n="Carpenter's Return and Punishment">
+        ما عليه ما لقي من ضرب النجّار
+      </p>
+
+      <p n="Dimna's Response and Ambition">
+        قال دمنة قد فهمت ما قلته وسمعت
+        <lb/>
+
+        ولكن اعلم أنّه ليس يدنو من الملوك من يدنو لبطنه فإنّ البطون تُحشى بكلّ مكان
+      </p>
+
+      <p n="Superior People Approaching Kings">
+        ولكنّه يلتمس أن يسرّ الصديق ويسيء العدوّ فأدنياء الناس وضعفاؤهم
+        <lb/>
+
+        وأقلّهم مروءة هم الذين يرضون بالقليل ويفرحون به
+      </p>
+
+      <p n="Analogy of Dog and Bone">
+        كالكلب الذي يصيب
+        <lb/>
+
+        عظمًا يابسًا فيفرح به
+      </p>
+
+      <p n="Contrast Between Ambitious and Content">
+        وأمّا أهل المروءة والفضل فلا يقنعهم القليل ولا
+        <lb/>
+
+        يفرحون به دون أن تسموا أنفسهم إلى ما هم له أهل
+      </p>
+
+      <p n="Lion's Hunting Behavior Analogy">
+        كالأسد الذي يفترس الأرنب
+      </p>
+
+      <p n="Monkey's Misinterpretation">
+        فرأى النجّار على الخشبة شبيه بالفارس على فرسه
+      </p>
+
+      <p n="Carpenter's Actions">
+        وأنّه كلّما أوتد وتدًا أنزع
+        <lb/>
+
+        الآخر
+      </p>
+
+      <p n="Monkey's Attempt to Imitate">
+        ثمّ إنّ النجّار قام لبعض شأنه فانطلق القرد يتكلّف من ذلك ما ليس
+        <lb/>
+
+        من صناعته ولا من شأنه
+      </p>
+
+      <p n="Monkey's Positioning on Wood">
+        فركب الخشبة وجعل ظهره قِبل الخشبة ووجهه
+        <lb/>
+
+        قِبل الوتد
+      </p>
+
+      <p n="Monkey's Predicament">
+        فتدلّت خصيتاه في شقّ الخشبة
+      </p>
+
+      <p n="Consequences of Monkey's Actions">
+        فلما نزع الوتد لجّج خصيتاه
+        <lb/>
+
+        في الشقّ فخرّ مغشيًّا عليه
+      </p>
+
+      <p n="Carpenter's Return and Punishment">
+        فجاء النّجار فوجده فأوجعه ضربًا فكان أشدّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="24"/>
+
+      <p n="Addressing the Soul: Healing One Man Is Reward in Itself">
+        جديرًا فإنّ يُرجى ذلك له
+      </p>
+
+      <p n="Addressing the Soul: Healing Many People Brings Divine Reward">
+        فكيف بالطبيب الذي يداوي العدّة
+        <lb/>
+
+        من المرضى التي الله أعلم بها ابتغاء الأجر فيصير بعد الأوجاع والأسقام
+        <lb/>
+
+        الحائلة بينهم وبين الدنيا ولذّاتها ونعيمها وطعامها إلى أحسن ما
+        <lb/>
+
+        كانوا عليه إنّ هذا لخليق أن يعظم رجاؤه ويثق بحسن الثواب
+        <lb/>
+
+        على عمله
+      </p>
+
+      <p n="Addressing the Soul: Not to Gamble with the Hereafter">
+        ويا نفس لا تبعدنّ عليك الآخرة فتميلي إلى الدنيا العاجلة
+        <lb/>
+
+        فتكوني في استعجال القليل وبيع الكثير باليسير
+      </p>
+
+      <p n="The Seller of Sandalwood Below Its Price">
+        كالتاجر الذي
+        <lb/>
+
+        يُقال أنّه كان له بيت من اليلنجوج فقال إن بعته موزونًا طال
+        <lb/>
+
+        عليّ ذلك فباعه بأبخس الثمن مجازفة
+      </p>
+
+      <p n="The Soul Admits Defeat">
+        فلمّا خاصمت نفسي بهذا
+        <lb/>
+
+        وأخذتها وبصّرتها إيّاه لم تجد مذهبًا فاعترفت وأقرّت
+        <lb/>
+
+        وأنست عمّا كانت تشره إليه وأقامت على مداواة المرضى
+        <lb/>
+
+        ابتغاء أجر الآخرة فلم يمنعني من ذلك من إن أصبت في
+        <lb/>
+
+        الدنيا حظًّا عظيمًا من الملوك قبل أن آتي الهند وبعد رجوعي
+        <lb/>
+
+        منها ومن الأكفّاء والإخوان فوق ما كان طمعي يجنح إليه
+        <lb/>
+
+        وفوق ما كنت له أهلًا ثمّ
+      </p>
+
+      <p n="Religions Heal Better Than Medicine">
+        نظرت في الطبّ فوجدت الطبيب
+        <lb/>
+
+        لا يستطيع أن يداوي المريض من مرضه بدواء يذهب عنه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

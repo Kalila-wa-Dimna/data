@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="163"/>
+
+      <p n="Resolute King Keeps Reflecting">
+        أمره وأمر عدوّه وفرصته وفرصة قتاله ومواضع أمره ومكائده فلا يخفى
+        <lb/>
+
+        خبر بعض الأمور على نفسه أمر عليه ويروّي في التقديم على ما يريد بالأعوان
+        <lb/>
+
+        الذين يستعين بهم عليها والعدّة يعدّ
+      </p>
+
+      <p n="Chance Is Lost Without Advice">
+        لها فإن لم يكن له رأي ولا نصح من الوزراء
+        <lb/>
+
+        العقلاء منهم فلم يثبت وإن ساق القدر إليه حظًّا أن يضيّعه ويضيع
+      </p>
+
+      <p n="Chances Favor Intelligent">
+        فإنّ
+        <lb/>
+
+        الفضل المقسوم لم يُقسم للجاهل ولكنّه وُكّل بالعقلاء والمستمع من ذوي العقول
+      </p>
+
+      <p n="Spy Praises King C">
+        وأنت أيّها الملك كذلك
+      </p>
+
+      <p n="Spys Advice Partially Secret">
+        فقد استتبت برأيي وأنا أريد أن أجيبك في بعضه
+        <lb/>
+
+        سرًّا وفي بعضه علانية
+      </p>
+
+      <p n="Some Matters Need Secrecy">
+        فإنّ من القول لا بأس بالإعلان به ومنه ما لا يستقيم
+        <lb/>
+
+        إلّا بالإخفاء
+      </p>
+
+      <p n="Spys Open Advice">
+        فأمّا الذي أشير به عليك في الجهر ولا أكره أن أعلنه فإنّي كما أنّي لا
+        <lb/>
+
+        أرى القتال وكذلك لا أرى الخراج والخضوع والرضى بذلّ الدهر
+      </p>
+
+      <p n="Dignity Over Life">
+        فإنّ
+        <lb/>
+
+        العاقل يختار الموت صابرًا محتسبًا على الحياة حزنًا
+      </p>
+
+      <p n="Spy Advises Resolute Action">
+        وأرى أن لا تدع التّسبب
+        <lb/>
+
+        في هذا الأمر والاستعداد له وترك الهوينا فإنّ الأخذ بالهوينا العار الشديد
+        <lb/>
+
+        والشنار الطائر والخزاية الطويلة
+      </p>
+
+      <p n="The Learned Never Defers">
+        وإنّ المرء العالم لا يوجز النظر في أمر ولا
+        <lb/>
+
+        يكون من شأنه التثبيط والتهاون
+      </p>
+
+      <p n="Glory Of Life Over Span">
+        فإنّه إذا كان عيشه في حسن الثناء فهو
+        <lb/>
+
+        وإن كان قصير العمر خير له من طوله في عار ومخزاة
+      </p>
+
+      <p n="Spy Advises Quick Action">
+        ولا أرى لك التواني ولا
+        <lb/>
+
+        العجز والتفريط
+      </p>
+
+      <p n="Indecision Is Impotence">
+        فإنّه رأس المعجزة وداعية إلى كلّ شرّ وعلّة لكلّ حيل
+      </p>
+
+      <p n="Spy Moves To Secret Advice">
+        وأمّا ما أنا
+        <lb/>
+
+        قائل لك في السرّ فإنّي لست أحبّ أن يسمعه أحد
+      </p>
+
+      <p n="Only Two Can Keep Secret">
+        فإنّ السرّ إذا جاوز الاثنين
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

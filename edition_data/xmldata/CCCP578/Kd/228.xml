@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="228"/>
+
+      <p n="unassigned">
+        صاحبه من العوائل وينجو من المكاره ثمّ ليمضوا على كثير معرفيهم وليأخذوا
+        <lb/>
+
+        من ذلك بالخطأ الظاهر رشده الناس توقيفه فإن كان فيه بعض التجزّع
+        <lb/>
+
+        الغيظ في بدء الأمر فإنّه محمود العاقبة عند ذوي العقول وأهل النظر
+        <lb/>
+
+        في الأشياء اللازمة نفعها وضرّها فافهم ذلك ترشد إن شاء الله تعالي
+      </p>
+
+      <p n="Chapter Title">
+        باب الجرذ والسنّور
+      </p>
+
+      <p n="The King Asks about Escaping Enemies">
+        قال الملك للفيلسوف قد فهمت ما ذكرت من أمر العلم والعقل وما
+        <lb/>
+
+        لصاحبهما من المنفعة والفضل فاضرب لي مثل رجل كثير أعداؤه وقد أشرف على
+        <lb/>
+
+        الهلكة منهم والتمس مصالحتهم لما يتخوّفه منهم فأخبرني عن موضع الصلح وكيف
+        <lb/>
+
+        ينبغي أن يكون
+      </p>
+
+      <p n="The Philosopher Responds that Emotions Change">
+        قال الفيلسوف إنّ العداوة والولاية لا تدوم ولا تثبت وكثير
+        <lb/>
+
+        من المودّة يتحوّل بغضًا وكثير من البغضة تتحوّل مودّة عن حوادث العلل والأمور
+        <lb/>
+
+        وربّما صار البغض حبًّا والحبّ بغضًا
+      </p>
+
+      <p n="Enmity Must Not Stop One from Requesting Help">
+        ولا يمنع ذو العقل عداوة كانت في نفسه
+        <lb/>
+
+        لأحد من أقربائه ولا غيرهم من طلب ما عندهم إذا طمع فيه في دفع مخوف أو جرّ
+        <lb/>
+
+        منفعة ولا يقصّر في الأخذ بالرأي في إحداث المواصلة
+      </p>
+
+      <p n="The Resolute Attains His Need">
+        فإنّه من أخذ في
+        <lb/>
+
+        تقصير ذلك وعمل فيه بالحزم ظفر بحاجته وأدرك طلبته
+      </p>
+
+      <p n="The Parable of the Cat and Rat Is Invoked">
+        ومن أمثال ذلك
+        <lb/>
+
+        مثل الجرذ والسنّور اللذين اصطلحا لمّا وقعا في الورطة والشدّة وكان في ذلك
+        <lb/>
+
+        صلاحهما جميعًا
+      </p>
+
+      <p n="The King Requests the Full Parable">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        قال فيلسوف زعموا أنّه
+        <lb/>
+
+        كان بأرض سرنديب شجرة وكان في أصلها جرذ وكان إلى جانب الشجرة جحر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

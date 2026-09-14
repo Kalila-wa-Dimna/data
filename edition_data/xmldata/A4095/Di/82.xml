@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="82"/>
+
+      <p n="Who Helps Sinners Becomes Their Accomplice">
+        العلماء إنّ المعين لذي الآثام على خيانته شريك له في أعماله
+      </p>
+
+      <p n="Lion Orders Leopard and Judge to Try Dimna">
+        فأمر الأسد النمر والقاضي أن يجلسا ويدعوا بدمنة على رؤوس
+        <lb/>
+
+        الجند ثم يسألا عنه ويرفعا إليه الذي يذكرون لهما منه وجوابه
+        <lb/>
+
+        إيّاهم فيه ولا يدعا من ذلك شيئًا إلّا أنهياه إليه
+      </p>
+
+      <p n="Leopard and Judge Convene Trial">
+        فخرجا لذلك
+        <lb/>
+
+        وجمعا الجند وبعثوا إلى دمنة
+      </p>
+
+      <p n="Leopard Recalls the Lion’s Sorrow for Killing the Ox">
+        فلمّا أُتي به توسّط محفلهم فانتصب النمر
+        <lb/>
+
+        قائمًا وجهر بصوته وقال قد علمتم معشر الجند ما دخل على
+        <lb/>
+
+        الملك من التألّم بقتل شتربة والتوجّع له ولم يزل مهمومًا حزينًا ومُلامًا أن
+        <lb/>
+
+        يكون دمنة شبّه عليه في أمره وأرهقه فيه مَينًا وباطلًا وأحبّ
+        <lb/>
+
+        أن يستيقن ذلك وقد نصب للنظر في أمرهما
+      </p>
+
+      <p n="No One Should Withhold Testimony">
+        فأنتم أحقّ ألّا تكتموه
+        <lb/>
+
+        سرًّا ولا تدّخروا عنه نصحًا ولا تُخفوا عليه حرفًا وليقلْ كل امرئٍ
+        <lb/>
+
+        منكم ما يعلم
+      </p>
+
+      <p n="Due Process Will Be Followed">
+        فإنّه لا يُحبّ أن يفرط بعقوبة أحدٍ لهوًى منه أو لغيره
+        <lb/>
+
+        في ذلك من غير استيجابٍ منه للعقوبة
+      </p>
+
+      <p n="Judge Calls for Testimony on Three Accounts">
+        فقال القاضي انظروا
+        <lb/>
+
+        ما يتكلّم به الأمين فاتّبعوه وقد سمعتم الذي قيل لكم فلا يكتُمنّ
+        <lb/>
+
+        أحدًا منكم شيئًا علمه لثلاث خلالٍ
+      </p>
+
+      <p n="Importance of Due Process">
+        أمّا واحدة فالصدق فيما استُشهدتم
+        <lb/>
+
+        به ولا تجعلوا العظيم في الأمر في الحقّ صغيرًا ولا ينبغي لكم أن تكرهوا
+        <lb/>
+
+        وقوع القضاء على ما وافقكم أو خالفكم
+      </p>
+
+      <p n="Consequences of Taking Evil Deeds Lightly">
+        ولا تُصغّروا منه شيئًا وأيّ
+        <lb/>
+
+        عظيم أعظم من ستر عورة من أفرط الأخيار واستزلّهم بوشيه
+        <lb/>
+
+        وكيده فالكاتم عليه غير بريء من مضرّة حيلته ولا يعتد من أن يكون
+        <lb/>
+
+        شريكًا له في عمله فإنّ يسير الحقّ عظيمٌ وأفظع منه عند الله
+        <lb/>
+
+        أن يُقتل بريء على غير ذنبٍ لنميمة فاجرٍ كذّابٍ
+      </p>
+
+      <p n="Punishment of Crime is a Deterrent">
+        والثانية أنّ عقوبة
+        <lb/>
+
+        المذنب بذنبه مقمعة لأهل الريبة ومصلحة الملك وللرعيّة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

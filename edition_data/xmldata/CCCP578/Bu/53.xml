@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="53"/>
+
+      <p n="Man Seeks Short Pleasure">
+        لعلّه يصيب منها طفيفًا ويتمنّى منى الطفيف الذي لا توصف قلّته وسرعة انقطاعه
+        <lb/>
+
+        فذلك الذي يشغله عن الاهتمام بأمر نفسه وطلب النجاة
+      </p>
+
+      <p n="Subtale Man in Well">
+        فالتمست للإنسان مثلًا
+        <lb/>
+
+        فإذا مثله
+      </p>
+
+      <p n="Allegory of Man in Well">
+        مثل رجل ألجأه الخوف من القتل إلى بئر فتدلّى فيه وتعلّق بغصنين نابتين
+        <lb/>
+
+        على شفيرها ووقعت رجلاه على شيء غرز رجلاه عليه فلمّا استقرّ به الموضع تطلّع إلى
+        <lb/>
+
+        جوف البئر فإذا هو بتنّين عظيم الخلق فاغر فاه نحوه فرفع طرفه إلى الشجرتين اللتين هما
+        <lb/>
+
+        نابتتين على شفير البئر وفي قعر البئر أربع حيّات قد أطلعن رؤوسهنّ من أجحارهنّ وفي
+        <lb/>
+
+        أصل الشجرتين فاران أبيض وأسود يقرضان أصولهما دائبان لا يفتران ساعة واحدة
+      </p>
+
+      <p n="Man is Distracted by Honey">
+        فبينما
+        <lb/>
+
+        هو في النظر في ذلك والاهتمام بنفسه وابتغاء الحيلة حتى نظر بالقرب منه فإذا
+        <lb/>
+
+        بنحل قد وضعن شيئًا من عسل وقد سال على تلك الشجرة فتطعّم منه فشغل قلبه عن
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

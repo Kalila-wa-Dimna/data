@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="5"/>
+
+      <p n="The Cat Deems the Rat's Efforts Slow">
+        <!-- empty line -->
+        <lb/>
+
+        and have shifted away from your earlier commitment to tarry in the matter at hand,
+      </p>
+
+      <p n="The Noble Must Help">
+        well that is not a quality of the noble, who should not
+        <lb/>
+
+        fail to fulfill the need of his friend, if he is able to do so. You
+      </p>
+
+      <p n="The Cat States the Rat's Duty of Reciprocation">
+        found in my amity, swift
+        <lb/>
+
+        benefit and deliverance from perishing, as you have seen; and you owe me reward accordingly
+      </p>
+
+      <p n="The Rat Should Forget Enmity">
+        and are not
+        <lb/>
+
+        to remember the enmity between you and me. What has transpired between us deserves to be brought to completion. The
+      </p>
+
+      <p n="Good Deeds Erase Bad Deeds">
+        noble person
+        <lb/>
+
+        will always be found grateful, free of grudge, one good quality sticks with him outweighing
+        <lb/>
+
+        many harmful qualities;
+      </p>
+
+      <p n="The Punishment of Betrayal Comes Swiftly">
+        and the swiftest punishment is that of betrayal and perjury and of him who you plead with
+        <lb/>
+
+        and ask his forgiveness but who neither forgets nor forgives.’ The rat
+      </p>
+
+      <p n="The Two Kinds of Friends">
+        said, ‘Friends are of two kinds:
+        <lb/>
+
+        the complaisant and the compelled, yet both seek benefits and are wary of harm. One should be open to the complaisant,
+        <lb/>
+
+        whatever the situation may be;49
+      </p>
+
+      <p n="The Intelligent Trades Favors">
+        as
+      </p>
+
+      <p n="Forced Friendship Does Not Last">
+        for the compelled, there are situations in which you can feel secure with him and others in which you keep your reserve.
+      </p>
+
+      <p n="Friendship Is Pursued For a Need">
+        And so
+        <lb/>
+
+        in these situations, the sensible man always holds back a need of the other as a guarantee against what he fears; and on the whole, people’s connections and experiences
+        <lb/>
+
+        only exist to seek an immediate or deferred benefit.
+      </p>
+
+      <p n="The Rat Explains the Reasons for Self-Protection">
+        I will fulfill to you what I have pledged upon myself
+        <lb/>
+
+        but am wary not to be afflicted with the very thing which had made me seek a truce with you;
+      </p>
+
+      <p n="Everything Has Its Time">
+        for each action has a catch,
+      </p>
+
+      <p n="The Rat Explains Not Cutting the Last Rope">
+        and I
+        <lb/>
+
+        will cut your bonds in due time but will leave one knot to guarantee my safety from you and won't cut it until
+        <lb/>
+
+        the time when I know your attention to be distracted from me.’
+      </p>
+
+      <p n="The Huntsman Approaches">
+        “When morning came, “he continued,“
+        <lb/>
+
+        the cat and the rat noticed the huntsman had approached their place from afar, so the rat said
+      </p>
+
+      <p n="The Rat Resolves to Cut the Last Rope">
+        to the cat, ‘the time for alertness has now come indeed;
+        <lb/>
+
+        I will diligently cut what is left of your cords.’”
+      </p>
+
+      <p n="The Rat Fulfills the Pact">
+        “And before the huntsman could come close, the rat had finished cutting
+        <lb/>
+
+        the rest of the cords with which the cat had been tied-he cut them despite his mistrust in the cat and afraid that he
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

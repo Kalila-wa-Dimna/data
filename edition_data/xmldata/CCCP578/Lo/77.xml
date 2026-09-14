@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="77"/>
+
+      <p n="The Crow Seeks Counsel">
+        عليه فعلت قال وما ذلك قال هممت أن أذهب إلى هذا الأسود وهو نائم
+        <lb/>
+
+        فأنقر عينيه لعلّي أن أقتلعهما
+      </p>
+
+      <p n="The Jackal's Warning">
+        قال ابن آوى بئس الحيلة احتلت التمس أمرًا
+        <lb/>
+
+        تصيب فيه ما أصبت في غير إهلاك لنفسك ولا مخاطرة بها
+      </p>
+
+      <p n="The Heron and the Crab Parable">
+        وإيّاك أن
+        <lb/>
+
+        يكون مثلك مثل العلجوم الذي أراد قتل السرطان فقتل نفسه
+      </p>
+
+      <p n="The Crow Asks for the Story">
+        قال الغراب
+        <lb/>
+
+        وكيف كان ذلك
+      </p>
+
+      <p n="The Old Heron's Dilemma">
+        قال ابن آوى كان علجومًا معشّشًا في أجمة مخصبة كثيرة
+        <lb/>
+
+        السمك فعاش هنالك ما عاش ثمّ هرم ولم يستطع الصيد وأصابه جوع
+        <lb/>
+
+        وجهد
+      </p>
+
+      <p n="The Crab Approaches the Heron">
+        فالتمس الحيل فقعد متحاديًا فرآه السرطان من بعيد فلمّا رأى حاله
+        <lb/>
+
+        وضرّه دنا منه
+      </p>
+
+      <p n="The Crab's Inquiry">
+        وقال ما لي أراك مكتئبًا حزينًا
+      </p>
+
+      <p n="The Heron Explains His Sadness">
+        فقال العلجوم وكيف لا
+        <lb/>
+
+        أكتئب وإنّما كانت معيشتي إلى اليوم أنّني كنت أصيد ما ها هنا في اليوم
+        <lb/>
+
+        السمكة والسمكتين وكان ينعشني ذلك ولا ينقصهنّ لكثرتهنّ
+      </p>
+
+      <p n="The Heron's Tale of Fishermen">
+        وإنّي رأيت
+        <lb/>
+
+        اليوم صيّادين انتهيا إلى هذا المكان فقال أحدهما لصاحبه إنّ ها هنا
+        <lb/>
+
+        سمكًا كثيرًا أفلا نصيده أوّلًا فأوّلًا فقال له إنّني قد رأيت أمامنا بمكان كذا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

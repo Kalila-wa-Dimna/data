@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="305"/>
+
+      <p n="unassigned">
+        جهدي منك فلمّا كان اليوم الثاني خرج الجرد من جحره طالبًا
+        <lb/>
+
+        رزقه فرآه بن عرس فلم يتحرّك له أراد الوفاء له بالثلاثة أيّام التي
+        <lb/>
+
+        جعلها له فلمّا رأى ذلك الجرد اغترّ به فخرج مرارًا فلم يتحرّك
+        <lb/>
+
+        له واستأنس بالدخول والخروج وظنّ أنّ بن عرس لا يعرض له فلمّا جاوز
+        <lb/>
+
+        الثلاثة أيام خرج كما كان يخرج مستأنسًا به وكان بن عرس مستترًا
+        <lb/>
+
+        بشيء ممّا في البيت فسمع للجرد في البيت دبيبًا وقرضًا لبعض متاع
+        <lb/>
+
+        الناسك فوثب عليه بن عرس فقتله
+        <lb/>
+
+        وإنّما ضربت لك هذا المثل لتعلمي أنّه لا ينبغي للعاقل أن يردّ قول
+        <lb/>
+
+        الناصح ولا يستغلظ قول الواعظ فقد قيل أنّ مثل قول الناصح فيما
+        <lb/>
+
+        سيغلظه النصوح له مثل الدواء البشيع الذي يقلع الداء من الجسد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kw</chapter>
+  </chapter>
+</TEI>

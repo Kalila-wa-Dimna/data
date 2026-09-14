@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="132"/>
+
+      <p n="Falcon Gouges Out His Eyes">
+        ويلك أنت رأيت عليّ ما قلت في وقذفني به قال نعم فوثب عليه من فوق
+        <lb/>
+
+        يده فقلع عينيه بمخاليبه
+      </p>
+
+      <p n="Wife Interprets This As God Punishing False Testimony">
+        فقالت المرأة لقد عجّل الله لك نكالك بكذبك
+        <lb/>
+
+        فإنّك زعمت أنّك عاينت ما لم تره وشهدت عليّ بزورٍ
+      </p>
+
+      <p n="A Liar Suffers Punishment in Here and Hereafter">
+        وإنّما ضربت لك
+        <lb/>
+
+        هذا المثل لتعلم أنّ من عمل بمثل ما عمل به البازيان من الافتراء والبهتان كان
+        <lb/>
+
+        جزاؤه العقوبة في العاجل والأجل
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded and Court's Members Leave for the Day">
+        ثمّ إنّ القاضي كتب ما قال دمنة وقيل
+        <lb/>
+
+        له فأرسل به إلى السجن وانطلق عظيم الجند إلى منزل الملك وتفرق سائرهم
+      </p>
+
+      <p n="The Court Hears Dimna's Arguments Seven More Days Without Reaching Verdict">
+        وجلس دمنة بعد ذلك سبع ليال بتكلّم بعذره فلم يقدروا أن يقيّدوه ولا
+        <lb/>
+
+        يخصموه
+      </p>
+
+      <p n="The Mother Warns the Lion of Leaving Dimna Unpunished">
+        ثمّ أنّ أمّ الأسد قالت له لإن أنت خلّيت سبيل دمنة بعد الذي ارتكب
+        <lb/>
+
+        من الذنب العظيم
+      </p>
+
+      <p n="Failure to Punish Dimna will Weaken the Lion’s Authority">
+        لتجترئنّ عليك جندك ولا يتخوّف أحد منهم من فظيع ولينشروا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

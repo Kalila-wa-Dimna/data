@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="168"/>
+
+      <p n="The Spy Rejects Fighting">
+        القتال فلا سبيل إلى قتال من لا نقارنه
+      </p>
+
+      <p n="The Foolish Underestimate Their Foes">
+        وكان يُقال من عرف ضعف نفسه
+        <lb/>
+
+        وشدّة عدوّه ثمّ قاتله فقد حمل على نفسه جهدًا
+      </p>
+
+      <p n="The Intelligent Never Underestimate Their Foes">
+        مع أنّ العاقل لا يستضعف
+        <lb/>
+
+        عدوًّا فإنّه من فعل ذلك اغترّ ومن اغترّ مكّن عدوّه من نفسه
+      </p>
+
+      <p n="The Spy Expresses Fear">
+        وأنا للبوم
+        <lb/>
+
+        شديد الهيبة ولو أنّها أضربت عن قتالنا وقد كنت أهابها قبل إيقاعها بنا
+      </p>
+
+      <p n="The Intelligent Is Never Free from Worry">
+        فإن الحازم لا يأمن عدوّه على حال إذا كان بعيدًا لم يأمن مقاربته
+        <lb/>
+
+        وإن كان قريبًا لم يأمن استطراده وكمينه
+      </p>
+
+      <p n="War Brings Loss">
+        فإنّ الحرب إنّما النفقة فيه
+        <lb/>
+
+        من الأرواح وغير ذلك النفقة فيه من الأموال والقول فلا يكوننّ قتال
+        <lb/>
+
+        البوم من رأيكم
+      </p>
+
+      <p n="An Elephant Should Not Be Kicked">
+        فإنّه من قاتل الفيل وليست له به طاقة فإنّما يستدعي
+        <lb/>
+
+        الحتف إلى نفسه
+      </p>
+
+      <p n="The Crow King Asks for Alternatives">
+        قال المَلك فإذا كرهت القتال فماذا ترى
+      </p>
+
+      <p n="Opinion Counseling">
+        قال تأتمر
+      </p>
+
+      <p n="Advice Outweighs Armies">
+        فإنّ
+        <lb/>
+
+        المَلك المؤتمر يصيب من الظفر بمؤامرة ذوي العقول من أصحابه ما لا
+        <lb/>
+
+        يصير إليه المَلك بأجناده
+      </p>
+
+      <p n="Advice To King Like Rivers To Sea">
+        والمَلك الحازم يزداد بمشورة وزرائه وأصحابه
+        <lb/>
+
+        رأيًا كما يزداد البحر بما يمدّه من الأنهار
+      </p>
+
+      <p n="Resolute King Keeps Reflecting">
+        ولا يخفى على الحازم قدره وقدر
+        <lb/>
+
+        عدوّه وفرصة قتاله ومواضع رأيه ومكايدته ولا تنفعه حتّى يعرض
+        <lb/>
+
+        الأمور على نفسه أمرًا أمرًا ويروّي في التقدّم على ما يريد منها بأعوان
+        <lb/>
+
+        الخدمة الذي يستعين بهم عليها والعدّة التي يُعدّ لها
+      </p>
+
+      <p n="Chance Is Lost Without Advice">
+        فإن لم يكن له رأي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

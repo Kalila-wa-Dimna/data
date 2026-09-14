@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="22"/>
+
+      <p n="Addressing the Soul to Distinguish Its Benefits and Harms">
+        نفعك من ضرّك ألّا تنتهين عن تمنّي ما لم ينله أحد إلّا قلّ متاعه
+        <lb/>
+
+        وكثر عناؤه وخباله عليه واشتدّت البليّة عند فراقه إيّاه
+        <lb/>
+
+        وعظمت التبعة عليه فيه
+      </p>
+
+      <p n="Addressing the Soul to Be Ashamed of Its Greed for the Transient">
+        يا نفس ألا تذكرين ما بعد هذه الدار
+        <lb/>
+
+        فتنسيك ما تشرهين إليه من حبّ هذه الدار ويا نفس أما تستحي
+        <lb/>
+
+        من مشاركة الفجرة العجزة الجهّال في حبّ هذه العاجلة التي
+        <lb/>
+
+        من كان في يده شيء منها فليس بدائم ولا باق فالتي لا يألفها أحد
+        <lb/>
+
+        إلّا قلّ متاعه وكبر عناؤه
+      </p>
+
+      <p n="Addressing the Soul to Abandon Its Folly">
+        ويا نفس انصرفي عن هذا السبب
+        <lb/>
+
+        واقنعي بقوّتك وليكن سعيك وما تقدمين عليه من الخير والأجر
+        <lb/>
+
+        ما استطعت وإيّاك والتسويف والأماني
+      </p>
+
+      <p n="The Body Consists of Harmful Elements">
+        واعلمي أنّ هذا الجسد
+        <lb/>
+
+        ذو آفات وأنّه مملوء أخلاطًا فاسدة قذرة تجمعها أربعة أخلاط
+        <lb/>
+
+        متغالبة متعادية تغذوهنّ الحياة والحياة إلى نفاد
+      </p>
+
+      <p n="The Idol That Falls Apart">
+        كالصنم
+        <lb/>
+
+        المفصّل أعضاؤه ثمّ إذا رُكّبت تلك الأعضاء وضعت مواضعها
+        <lb/>
+
+        بمسمار واحد يمسك بعضها على بعض فإذا أُخذ ذلك المسمار
+        <lb/>
+
+        تساقطت الأوصال
+      </p>
+
+      <p n="Addressing the Soul: The Friend Passes Away">
+        ويا نفس لا تغترّي بصحبة أحبّائك وأخلّائك
+        <lb/>
+
+        ولا تحرصي على ذلك كلّ الحرص فإنّ صحبتهم على ما فيها من السرور
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

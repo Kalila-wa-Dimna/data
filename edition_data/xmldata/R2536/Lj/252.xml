@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="252"/>
+
+      <p n="Pack Denounces Jackal">
+        وقلن له إنّا لا نرضى بسيرتك التي أنت عليها مع أنّ تألّهك لن يغني عنك
+        <lb/>
+
+        شيئًا وأنت واحد منّا لا تستطيع أن تتغيّر عمّا نحن فيه
+      </p>
+
+      <p n="Jackal Is not Accountable for Pack's Actions">
+        قال
+        <lb/>
+
+        بن آوى إنّ صحبتي إيّاكم لن تؤثمني إذا لم أؤثم نفسي
+      </p>
+
+      <p n="Sins Depend only on One's Actions">
+        فإنّ الآثام من
+        <lb/>
+
+        قبل القلوب وليس من قبل الأماكن
+      </p>
+
+      <p n="Sin Is Independent from Place">
+        ولو كان ذلك كذلك لكان
+        <lb/>
+
+        جديرًا أنّ كلّ من يدنو من بيوت النسّاك لا يأثم
+      </p>
+
+      <p n="Jackal's Heart Is Distant from Others">
+        وإنّما صَحِبتكم بنفسي
+        <lb/>
+
+        ولن يصحبكم منّي قلب ولا عمل
+      </p>
+
+      <p n="Lion Hears of Jackal">
+        فلبث ابن آوى على حاله واشتهر بالنسك
+        <lb/>
+
+        والعبادة حتّى بلغ ذلك أسدًا كان ملك سباع تلك الناحية فرغب
+        <lb/>
+
+        فيه لما بلغه عنه من العفاف والصدق والأمانة
+      </p>
+
+      <p n="Lion Verifies Jackal's Qualities">
+        فأرسل إليه فأتاه
+        <lb/>
+
+        وكلّمه ثمّ دعاه بعد أيّام إلى منزله
+      </p>
+
+      <p n="Lion Offers Viziership">
+        فقال له إنّ مُلكي عظيم وأعمالي كثيرة
+        <lb/>
+
+        وأنا إلى الأعوان محتاج وقد بلغني عنك ما أحببت ورأيت تصديق ذلك
+        <lb/>
+
+        فازددت فيك رغبة وأنا مولّيك أعمالي وجاعل لك منّي خاصّة ومنزلة
+      </p>
+
+      <p n="King Must not Impose Service">
+        قال ابن آوى إنّ الملوك محقّون للاختيار للأعوان لكلّ ما يهتمّون
+        <lb/>
+
+        به من أمورهم وأن لا يكرمون أحدًا على ما ليس من شأنه فإنّ المكره
+        <lb/>
+
+        لا يستطيع المبالغة في العمل
+      </p>
+
+      <p n="Jackal Declines Position">
+        وأنا لعمل السلطان كاره وليست لي به تجربة
+        <lb/>
+
+        ولا للسلطان رفق
+      </p>
+
+      <p n="Lion Has Eager Candidates">
+        وأنت ملك وعندك من جنسي وجنس غيري عدد كثير
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

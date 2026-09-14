@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="262"/>
+
+      <p n="The Wronged Person Need not Be Feared">
+        من عرف نفسه عزّوه ومن عرف الأشياء وضعها مواضعها
+      </p>
+
+      <p n="Whom not to Reinstate">
+        فإنّ من
+        <lb/>
+
+        الناس من لا ينبغي مواصلته بعد مفارقته فمن فارق من هذه الأصناف
+        <lb/>
+
+        التي أنا ذاكر من الناس فلا ينبغي لهم أن يراجعهم
+      </p>
+
+      <p n="The Faithless Should Be Given Up">
+        الكفور بالحسنى الجريء على
+        <lb/>
+
+        الذنوب والزاهد في الآخرة ومن لا رحمة له والذي لا يؤمن ولا يوقن بالآخرة
+      </p>
+
+      <p n="The Irascible Should Be Given Up">
+        والذي قد جرّب بسرعة الغضب وشره النفس وإفراط النفس بالشهوة
+      </p>
+
+      <p n="The Irreconcilable Should Be Given Up">
+        ومن إذا أسخطه اليسير لم يُبلغ رضاه بالكثير والمعروف بالخيانة والخديعة
+        <lb/>
+
+        والحرص
+      </p>
+
+      <p n="The Hedonistic Should Be Given Up">
+        والمفرط في اللعب والدناءة وشرب الخمر والذي يسيء ظنّه في كلّ شيء
+        <lb/>
+
+        والمجرَّب بقلّة الحياء
+      </p>
+
+      <p n="Whom to Reinstate">
+        ولكنّه يواصل ويراجع من قد جرّب بالشكر وحسن
+        <lb/>
+
+        العهد وحب البرّ والتوقّي للإثم وحبّ العامّة والرحمة لهم وقلّة الحقد
+        <lb/>
+
+        عليهم والذاكر للبرّ والدائم ذكره لأهل ودّه والمجرَّب بالحياء وحسن الخيم
+      </p>
+
+      <p n="Jackal Has Been Tested">
+        وقد جرّبت ابن آوى وعرفته فأنت بمراجعته ومواصلته جدير
+      </p>
+
+      <p n="Lion Apologizes to Jackal">
+        فدعا الأسد
+        <lb/>
+
+        ابن آوى عند ذلك واعتذر إليه في الذي أتى إليه
+      </p>
+
+      <p n="Lion Wants to Reinstate Jackal">
+        وقال له إنّي رادّك
+        <lb/>
+
+        إلى منزلتك التي كنت بها منّي ومؤتمنك على أمري بما كنت أئتمنك عليه
+        <lb/>
+
+        قبل اليوم
+      </p>
+
+      <p n="Critical Friend Is Rare">
+        فإنّ اتّخاذ المؤثر على خليله والمتّبع هوى خليله فيما يضرّه هيّن
+        <lb/>
+
+        يسير وأمّا الخليل المناصح المستقبل لخليله ببعض ما يكرهه في منفعته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

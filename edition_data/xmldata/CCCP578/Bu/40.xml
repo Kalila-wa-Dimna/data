@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="40"/>
+
+      <p n="Addressing the Soul: Wealth Passes Away">
+        تغترّي بالغنى والمنزلة التي ينظر أهلها فإنّ صاحب ذلك لا يبصر صغر ما يستعظم حتّى
+        <lb/>
+
+        يفارقه
+      </p>
+
+      <p n="Shed Hair is Thrown Away">
+        فيكون مثله في ذلك كشعر الرأس الذي يكرمه صاحبه ويخدمه ويطيّبه
+        <lb/>
+
+        ما دام على رأسه فإذا فارقه قذره وفرّ منه
+      </p>
+
+      <p n="Addressing the Soul: Healing One Man Is Reward in Itself">
+        ودومي على ما أُثني عليه من مداواة المرضى ولا
+        <lb/>
+
+        يعيا بك أن تقولين أنّ للطبيب مؤنة شديدة ولكن اعتبري برجل يفرّج عن رجل
+        <lb/>
+
+        كربة ويستنقذه منها حتّى يعيده إلى ما يكون فيه من السعة
+      </p>
+
+      <p n="Addressing the Soul: Not to Gamble with the Hereafter">
+        يا نفس لا يتعذّر
+        <lb/>
+
+        عليك الأجرة فتميلي إلى الدنيا فتكوني في استعجال القليل وبيع الكثير باليسير
+        <lb/>
+
+        من الثمن
+      </p>
+
+      <p n="The Seller of Sandalwood Below Its Price">
+        كالتاجر الذي زعموا أنّه كان له بيت اتجوج؟ فقال إن أنا بعته موازنة
+        <lb/>
+
+        طال عليّ فباعه مجازفة بأخسر الثمن
+      </p>
+
+      <p n="The Soul Admits Defeat">
+        فلمّا خاصمت نفسي بهذا وأخذتها به
+        <lb/>
+
+        وبصّرتها إيّاه لم تجد مذهبًا فاعترفت وأقرّت ولهت عمّا كانت تنزع إليه من ذلك
+        <lb/>
+
+        فأقمت على مداواة المرضى ابتغاء أجر الآخرة فلم يمنعني ذلك من أن أصيب من الدنيا
+        <lb/>
+
+        حظًّا عظيمًا ومن الملوك فضل قبل بلاد الهند وبعد دوائي الأكفّاء والإخوان دون
+        <lb/>
+
+        التي كانت تطمح إليه نفسي ويجمح إليه طبعي وفوق ما كنت له أهلًا ثمّ
+      </p>
+
+      <p n="Religions Heal Better Than Medicine">
+        نظرت في الطبّ
+        <lb/>
+
+        فوجدت الطبيب لا يستطيع أن يداوي المريض من مرضه بدواء يذهب عنه
+        <lb/>
+
+        داءه والداء لا تؤمن عودته استخففت بالطبّ استخفافًا شديدًا ووجدت
+        <lb/>
+
+        عمل الآخرة هو الذي يسلّم من الأذى حتّى يبرأ صاحبه من الأدواء كلّها فلمّا وقع ذلك
+        <lb/>
+
+        في نفسي أخّرتها عن أمور الدنيا ونظرت كتب الطبّ فلم أجد في شيء منها عن الأديان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

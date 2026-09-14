@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="11"/>
+
+      <p n="Burzoy Inquires About Court">
+        ويلقاهم بالتحيّة والمساءلة عن باب الملك
+      </p>
+
+      <p n="Burzoy Claim Study Trip">
+        ويخبرهم أنّه رجل غريب قدم
+        <lb/>
+
+        بلادهم في طلب العلم والأدب وأنّه محتاج إلى معونتهم على ما طلب من ذلك ويسألهم
+        <lb/>
+
+        إرشاده إلى حاجته مع شدّة كتمانه لما قدم له قاصدًا
+      </p>
+
+      <p n="Burzoy Disguises Misson By Study">
+        فلم يزل بذلك زمانًا طويلًا
+        <lb/>
+
+        يتأدّب بما هو به آدب ويتعلم من العلم ما هو به عالم وينتبش في السّر عن بغيته
+        <lb/>
+
+        وحاجته
+      </p>
+
+      <p n="Burzoy Mingles With Indians">
+        واتّخذ بطول إقامته أصدقاء كثيرة من أهل الهند من الأشراف والسوقة
+        <lb/>
+
+        والعلماء والفقهاء من كلّ صناعة
+      </p>
+
+      <p n="Burzoy Chooses Friend">
+        وانتقى من كلّ أصدقائه واحدًا هو كان
+        <lb/>
+
+        صاحب سرّه ومشورته لما ظهر له من فعل صحة إخائه
+      </p>
+
+      <p n="Burzoy Hides Mission From Friend">
+        إلّا أنّه يكتمه الأمر الواحد
+        <lb/>
+
+        الذي هو بغيته
+      </p>
+
+      <p n="Burzoy Vets Friend">
+        ويجرّبه باللطف وينظر هل يراه موضعًا للسرّ ويبحث عن ذات
+        <lb/>
+
+        نفسه حتّى وثق وعرفه وعلم أنّه للسّر موضعًا وفيما سُئل مسعف وفيما استُعين
+        <lb/>
+
+        به عليه مجتهدًا
+      </p>
+
+      <p n="Burzoy Lavishes Gift On Friend">
+        فازداد له إلطافًا وكان إلى ذلك اليوم الذي رجا فيه أن يكون
+        <lb/>
+
+        قد ظفر بحاجته وقد أعظم النفقة مع طول الغيبة في إلطاف الإخوان
+        <lb/>
+
+        ومجالستهم على الطعام والشراب طلب التقارب منهم لحاجته
+      </p>
+
+      <p n="Burzoy Opens Up To Friend">
+        لم يطمئنّ إلى أحد
+        <lb/>
+
+        منهم ممّن آخى إلّا صديقه الذي ذكرناه
+      </p>
+
+      <p n="Process Of Vetting Friend">
+        فأمّا ما كلّم به برزويه صديقه ذلك
+        <lb/>
+
+        وردّ عليه وكيف فتّش برزويه عقله حتّى وثق به واطمأنّ إليه فهو أكثر من أن
+        <lb/>
+
+        يحصيه كتاب أو يُكتب
+      </p>
+
+      <p n="Burzoy Trusts Friend">
+        فلمّا توثّق برزويه بصديقه الهنديّ واطمأنّ إليه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

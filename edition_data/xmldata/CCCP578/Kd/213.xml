@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="213"/>
+
+      <p n="Vizier Fears Risk Of Delay">
+        أمره فيها وذلك الرأي ولست مؤثرًا عليها شيئًا وإن نالني فيه من العقوبة ما لا طاقة
+        <lb/>
+
+        لي به
+      </p>
+
+      <p n="Vizier Reflects On Benefits">
+        فإنّي أجمع في ذلك ثلاثة أمور إن هو ندم عليها كان منه فيها وحزن واهتمّ فرّجت
+        <lb/>
+
+        عنها بحياتها والثانية استحيي نفسًا والثالثة ما أرجوه في ذلك من الأجر في
+        <lb/>
+
+        الآخرة
+      </p>
+
+      <p n="Vizier Might Execute Order">
+        وإن هو لم يردها ولم يشقّ عليه وتخوّفت على نفسي أمضيت أمره فيها
+      </p>
+
+      <p n="unassigned">
+        فذهب
+        <lb/>
+
+        بها إلى منزله وجعل عليها أمينين ممّن كان على القيام على الملك وتقدّم
+        <lb/>
+
+        إلى أهله في إكرامها وإلطافها حتّى ينظر إلى ما يغيّر أمره وخضّب سيفه بالدم
+        <lb/>
+
+        ودخل على الملك فأخبره أنّه فرغ ممّا أمره فيها ثمّ أن الملك لم يلبث إلّا قليلًا حتّى
+        <lb/>
+
+        سكن عنه الغضب وتفكّر في ابلاد فاشتدّ حزنه عليها وجعل يعزّي نفسه
+        <lb/>
+
+        وتجلّد ليسلّي نفسه فلم يسل واستحى أن يسأل عنها بلاد وغلبه الحياء
+        <lb/>
+
+        من السؤال عنها ثمّ أنّه شغلت نفسه لما كان يعرف من نبله وعقله وحلمه
+        <lb/>
+
+        ألّا يكون قتلها قال بلاد إنّها الملك لا يهتمّ ولا يحزن فإنّه لا منفعة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

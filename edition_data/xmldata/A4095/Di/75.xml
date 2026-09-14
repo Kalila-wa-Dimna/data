@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="75"/>
+
+      <p n="Who Keeps Bad Company Does Not Escape Evil">
+        قيل في صحبة الأشرار إنّه من صحبهم وهو يعمل عملهم لم ينجُ من شرّهم
+      </p>
+
+      <p n="Ascetics Shun People's Company">
+        ولذلك رفض أهل الدين والنسك الدنيا ولذّتها واختاروا الوحدة
+        <lb/>
+
+        وتركوا مخالطة الناس ومحادثتهم لما يرون فيها من مؤاخذة الأبرار
+        <lb/>
+
+        بأعمال الفجّار وإثابة الفجّار بأعمال الأبرار وآثروا العمل لله على العمل لخلقه
+      </p>
+
+      <p n="Only God Rewards Justly">
+        لأنّه ليس أحدًا يجزي بالخير خيرًا إلّا الله وأمّا من دونه فقد تجري
+        <lb/>
+
+        أمورهم فُنونًا يغلب على أكثر ذلك الخطأ
+      </p>
+
+      <p n="The King Is Most Deserving of the Truth/Good Attributes">
+        وما أحد أحقُّ بالصفات الجميلة من
+        <lb/>
+
+        الملك الموفَّق الذي لا يُصانع أحدًا لحاجةٍ به إليه ولا لعاقبةٍ يتخوَّفُها منه
+      </p>
+
+      <p n="A King's Advisors Deserve Recognition/A King's Subjects Desire Good Character and Deeds">
+        فإنّ أحقّ ما عظمت فيه رغبة الملك من محاسن الصواب المكافأة لأهل
+        <lb/>
+
+        البلاء الحسن عندهم ومن يُرقّى إليهم نصيحته
+      </p>
+
+      <p n="Dimna Claims He Only Warned Lion of Ox's Treason">
+        وهذا أقرب من أمري
+        <lb/>
+
+        وأشبه فيما حملني النصح للملك والإيثار له على غيره والنَّظرُ للعامّة في
+        <lb/>
+
+        إعلان سرِّ الخائن الكفور وما كان ربض في نفسه وارتفعت إليه همّته
+        <lb/>
+
+        من الغدر بالملك والوثوب عليه
+      </p>
+
+      <p n="Dimna Says the King Saw the Same Signs">
+        وقد كان استبان للملك الذي
+        <lb/>
+
+        كان منطوٍ عليه ومضمرًا له من العداوة والغلّ بالأمارات البيّنات
+        <lb/>
+
+        الواضحات التي لا تحتاج معها إلى غيرها بالذي لقيه به حين لقيه
+        <lb/>
+
+        واستبان له ولم يأتِ إليه شيئًا إلّا عن بصيرة وإن هو أيضًا تحرّى الأمر
+        <lb/>
+
+        وسأل عنه ونظر فيه عرف مصداق ما كنتُ قلتُ له
+      </p>
+
+      <p n="Hidden Fire Is Extracted Only with List/Labor">
+        فإنّ النار التي
+        <lb/>
+
+        تكون في الحجر والعود إنما تُستخرج بالحيل وليس يخفى مثل هذا
+      </p>
+
+      <p n="Hidden Crimes Are Exposed by Investigation">
+        فإنّ جُرم المرء
+        <lb/>
+
+        إذا فُحص عنه وفُتّش ازداد استنارة واستبانة
+      </p>
+
+      <p n="Stirred Up Mud Stinks">
+        كما أنّ كلّ نتنٍ
+        <lb/>
+
+        من حمأة وغيرها إذا ثُوّرت ظهر ريحها وقذرها
+      </p>
+
+      <p n="Dimna Had Nothing to Do with the Ox">
+        ولقد علم الملك ومن
+        <lb/>
+
+        حضر أنَّه لم يكن بيني وبين الثور أمر أضطغنه عليه ولا أبغيه به غائلة
+        <lb/>
+
+        وما كان يملك من ضرٍّ ولا نفعٍ لي
+      </p>
+
+      <p n="Dimna Claims to Be a Victim of Scheme">
+        ولقد كان الملك فيما أعلمته من
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

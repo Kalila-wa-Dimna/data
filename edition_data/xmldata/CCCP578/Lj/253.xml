@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="253"/>
+
+      <p n="King Must not Trust One Singled out for Punishment">
+        به في مثل ما أتي إليهم
+      </p>
+
+      <p n="King Must not Trust Someone Denied Justice">
+        أو كان مظلومًا فلم ينظرْ في أمره ولا فيما ارتكب منه
+      </p>
+
+      <p n="King Must not Trust the Humiliated">
+        أو ممّن
+        <lb/>
+
+        أُهين أو أوذي واستُحقر به من غير جرم
+      </p>
+
+      <p n="King Must not Trust Someone Denied Pardon">
+        أو كان أذنب ذنبًا لم يستحقّ فيه العقوبة
+        <lb/>
+
+        أو كان بالمنزلة التي ينبغي أن يُعفى عنه فيها ولم يفعل ذلك به
+      </p>
+
+      <p n="King Must not Trust the Greedy and Unsatisfied">
+        أو كان من أهل الطمع
+        <lb/>
+
+        والشره ولم يصبْ بعض ما يرجوه ولا ما يوافقه
+      </p>
+
+      <p n="King Must Consider the Untrustworthy as Foes">
+        فأولئك الأصناف أهل أن لا يتّخذهم
+        <lb/>
+
+        ملك ولا يقرّبهم
+      </p>
+
+      <p n="Jackal Expects Lion's Mistrust">
+        قال ابن آوى وأنا أيّها الملك قد نزلت منزلة أولئك وإن
+        <lb/>
+
+        كان قلبي سليمًا على مثل الذي كان عليه فلعلّه أن لا يكون يعلم بدات ولا بتوني ولا
+        <lb/>
+
+        يطمئنّ إليّ أو يقول إنّ ابن آوى ما ينسى ما لقيه من الهوان وإنّ الذي يظهر لي منه
+        <lb/>
+
+        ليس بحقيقة
+      </p>
+
+      <p n="Jackal Fears Renewed Schemes">
+        وإنّما خوفي تحمّلوه عليّ مرّة ثانية وقد كان من ظنّه بأمري ما قد علمه
+      </p>
+
+      <p n="Jackal's Inner Struggle about Return">
+        فلو ذهبت أحمل نفسي على غير ما تيقّنت من ذلك أو ظاهرها على الثقة والطمأنينة
+        <lb/>
+
+        إليه بعد الذي كان منه إليّ على غير جرم منّي إنّه عائد إلى مثل ذلك بعد الأيمان
+        <lb/>
+
+        المؤكّدة والأمان على ذلك
+      </p>
+
+      <p n="Jackal Gives Lion the Choice">
+        فلينظر الملك فيما ذكره
+      </p>
+
+      <p n="Jackal Gives Conditions for Return">
+        فإنّ الملك وإن كان لي عليه
+        <lb/>
+
+        فيما مضى من الطمأنينة والنصح ولا يصدّق عليّ كلام الأعداء ولا يقبل فيّ
+        <lb/>
+
+        قول الفجرة فليرى الملك رأيه في ذلك فإنّه عند حسن ظنّي به وأملي فيه
+      </p>
+
+      <p n="If Unsure, Lion Must Excuse Jackal">
+        وإن كان
+        <lb/>
+
+        الملك يخاف نفسه منّي أو كان غير واثق إليّ فإعفاؤه عنّي أفضل لي وإعادتي
+        <lb/>
+
+        إلى ما كنت عليه من قبل
+      </p>
+
+      <p n="Lion Says He Tested Jackal">
+        قال الأسد قد بلوتك وجرّبت أمانتك وصدقك
+        <lb/>
+
+        ووفاءك وعلمت كذب من سعى بك
+      </p>
+
+      <p n="Lion Vows to Disregard Future Slander">
+        ولست مصدّقًا عليك قولًا أبدًا مع ما أنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

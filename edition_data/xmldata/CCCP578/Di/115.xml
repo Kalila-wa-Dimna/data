@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="115"/>
+
+      <p n="A Leopard Was the Lion's Confidant">
+        ذات يوم وكان معلّم الأسد وخالصته وأمينه في أموره
+      </p>
+
+      <p n="The Leopard Overhears Kalila Chastising Dimna">
+        يطلب قبسًا من
+        <lb/>
+
+        بيت كليلة ودمنة فلمّا انتهى إلى الباب إذا هو بكليلة يلوم دمنة ويعدّ له
+        <lb/>
+
+        على سوء رأيه
+      </p>
+
+      <p n="Kalila Predicts Dimna's Doom">
+        ويعلم أنّه غير ناجٍ من الأسد وأنّه لا بدّ أن يطّلع على ما فعل من كذبه
+        <lb/>
+
+        وأنّه معاقبه ومهلكه
+      </p>
+
+      <p n="The Leopard Confides in the Lion's Mother">
+        فلمّا سمع النمر ذلك انطلق فدخل على أمّ الأسد فحدّثها
+        <lb/>
+
+        بما سمع
+      </p>
+
+      <p n="The Mother Goes to the Lion and Finds Him Sad">
+        فانطلقت أمّ الأسد فدخلت على ابنها فوجدته حزينًا كئيبًا فلمّا عاينت
+        <lb/>
+
+        ذلك منه علمت أنّ ليس حزنه إلّا على شتربه
+      </p>
+
+      <p n="The Mother Says Grief is Weakening">
+        فقالت له إنّ الهمّ والأسف لا
+        <lb/>
+
+        يردّان شيئًا وهمُا يُنحلان الجسم ويضعفان القوّة ويذهبان العقل
+      </p>
+
+      <p n="The Mother Criticizes Lion's Grieving">
+        فإنّ ممّا
+        <lb/>
+
+        ينبغي لك أن تحزن له فلست ولا أحد من جندك يخلو من ذلك وإن كان إنّما
+        <lb/>
+
+        هو لقتلك شتربه فقد استبان لنا ولك وإنّك ركبت ذلك منه ظلمًا على غير
+        <lb/>
+
+        جرم ولا ذنبٍ ولا غشٍّ ولا مخالفة ولقد فكّرت في أمره وفتّشت ما لك
+        <lb/>
+
+        في نفسه بما تجد في نفسك له كان هذا معتبرًا
+      </p>
+
+      <p n="Love and Hate Are Reciprocal">
+        فإنّه يقال إنّ امرءًا لن
+        <lb/>
+
+        يودّ أحدًا ولن يبغضه إلّا وجد في نفسه مثل ذلك
+      </p>
+
+      <p n="The Mother Asks About the Lion's Feelings Toward the Ox">
+        فاعلمني كيف كانت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

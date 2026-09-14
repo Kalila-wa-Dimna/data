@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="19"/>
+
+      <p n="Kisra Holds K D Public Reading">
+        دعا به وأمر أن يحضر العلماء والأشراف من أهل مملكته وأمر
+        <lb/>
+
+        برزجمهر أن يقرأ الكتاب على رؤوس الأشهاد
+      </p>
+
+      <p n="K D Well Received">
+        فلمّا قرأ الكتاب
+        <lb/>
+
+        وسمعوا ما فيه من العلم والأدب والأعاجيب التى حكوها
+        <lb/>
+
+        على ألسن الحيوان والطير فعجبوا منه وشكروا الله على ما أنعم
+        <lb/>
+
+        عليهم به من الأدب والمعرفة على يد بروزيه وأحسنوا الثناء
+        <lb/>
+
+        عليه
+      </p>
+
+      <p n="Kisra Opens Treasury">
+        ثمّ أنّ المَلك أمر بأن تُفتح خزائن الذهب والفضّة
+        <lb/>
+
+        لبروزيه
+      </p>
+
+      <p n="Kisra Urges Burzoy To Take Gifts">
+        وأمره أن يأخذ منها ما أحبّ
+      </p>
+
+      <p n="Burzoy Praises Kisra">
+        فسجد بروزيه للمَلك
+        <lb/>
+
+        ورفع رأسه وقال عشت أيّها المَلك حميدًا مخلّدًا
+      </p>
+
+      <p n="Burzoy Wants No Gift">
+        إنّا بحمد الله قد
+        <lb/>
+
+        أفادنا الله في دولة المَلك وبها مُلكه وعزّ سلطانه ما لم نأمله
+        <lb/>
+
+        وكلّ ما أنعم الله علينا به من الله ومن المَلك ولا حاجة لي إلى
+        <lb/>
+
+        شيء من ذلك
+      </p>
+
+      <p n="Burzoy Announces Request">
+        لكنّي أريد أن أسأل المَلك حاجة يسيرة يكون
+        <lb/>
+
+        لي في قضائها ذكر وفخر
+      </p>
+
+      <p n="Kisra Welcomes Request">
+        قال المَلك وما تلك الحاجة
+      </p>
+
+      <p n="Burzoy Wants Bio Chapter">
+        قال
+        <lb/>
+
+        بروزيه إن رأى المَلك أن يأمر برزجمهر بن التحتكان
+        <lb/>
+
+        أن يضع لي في رأس هذا الكتاب بابًا باسمي وينسب إليه شأني
+        <lb/>
+
+        وفعلي
+      </p>
+
+      <p n="Burzoy Wants Legacy">
+        ليكون لمن بعدي عبرة وتأديبًا ويحيى به ذكري ما حييت
+        <lb/>
+
+        في الدنيا وبعد وفاتي فإنّه إن فعل ذلك فقد شرّفني وأهل بيتي
+        <lb/>
+
+        آخر الأبد
+      </p>
+
+      <p n="Kisra Deems Request Light">
+        فقال المَلك ما أهون ما سألت في حيث ما
+        <lb/>
+
+        استوجبت
+      </p>
+
+      <p n="Chapter To Match Truth">
+        وتقدّم إلى برزجمهر بأن يضع له بابًا وينسبه إليه
+        <lb/>
+
+        على موافقة الحقّ
+      </p>
+
+      <p n="Chapter To Support Kings Authority">
+        لأن يكون تحريضًا لمن قرأه على طاعة الملوك ولا
+      </p>
+
+      <p n="Buzurgmihr To Spare No Effort">
+        يقصّر في إتقانه ويختبره بغاية وسعة وطاقته
+      </p>
+
+      <p n="Buzurgmihrs Zeal For Task">
+        فقبل
+        <lb/>
+
+        برزجمهر وصيّة كسرى في ذلك لعلّه يحسن رأيه في بروزيه وإكرامه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

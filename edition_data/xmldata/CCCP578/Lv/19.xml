@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="19"/>
+
+      <p n="Burzoy Expresses Gratitude">
+        من الملك وما أفتخر به على أهل المملكة
+      </p>
+
+      <p n="Favor Merits Gratitude">
+        غير أنّ الإنسان إذا كان له عقل وحلم
+        <lb/>
+
+        وخلق حسن فينبغي له أن يشكر الله وإن كان قد استوجبه قبل أن يعطى
+        <lb/>
+
+        بالعناء والمشقة
+      </p>
+
+      <p n="Burzoy Serves Kisra Gladly">
+        ولم أزل إلى اليوم متجرّدًا لرضاكم أرى العسير يسيرًا والشاق
+        <lb/>
+
+        هيّنًا والنصب والأذى سرورًا ولذّة لما أعلم لكم فيه من الرضى والسرور
+      </p>
+
+      <p n="Burzoy Announces Request">
+        لكنّي أسألك أيّها الملك الرحيم أن تسعفني بحاجتى وتعطني سؤلي فإنّ حاجتي
+        <lb/>
+
+        يسيرة في قضائها منفعة عظيمة لي
+      </p>
+
+      <p n="Kisra Welcomes Request">
+        قال أنوشروان سل تُعط واذكر
+        <lb/>
+
+        حاجتك تُسعف بها وتُكرّم ولو طلبت مشاركتنا في ملكنا فكيف سوى ذلك
+        <lb/>
+
+        فقل ولا تحتشم
+      </p>
+
+      <p n="Burzoy Expects No Reward">
+        فقال برزويه أكرم الله الملك لا تنظر إلى عنائي ونصبي وعلمي
+        <lb/>
+
+        فإنّما أنا عبد من عبيدك ولو لم تكافئني لم يكن ذلك عظيمًا
+      </p>
+
+      <p n="Burzoys House Elevated By Kisra">
+        ولكن طلبت مكافأتي
+        <lb/>
+
+        ووطّنت نفسي على حفظي وحفظ أهل بيتي وأرصدت لنا بالمراتب والدرجات
+      </p>
+
+      <p n="Burzoy Invokes Blessing On Kisra">
+        فجزاك الله بذلك خيرًا وأحسن لك الجزاء وأنالك فضل الثواب
+      </p>
+
+      <p n="Kisra Repeats Question">
+        فقال له الملك
+        <lb/>
+
+        أذكر حاجتك فإنّها مقضيّة على ما يسرّك
+      </p>
+
+      <p n="Burzoy Wants Bio Chapter">
+        فقال حاجتي يأمر الملك بزرجمهر
+        <lb/>
+
+        ابن النختكان يعزم عليه أن يجهّز نفسه في وضع كتاب وباب يذكر فيه أمري وحالي
+      </p>
+
+      <p n="Buzurgmihr To Give His Best">
+        ويبالغ في ذلك بأفضل ما يقدر عليه من الكلام ويرتّبه بأحسن ترتيب
+        <lb/>
+
+        ويؤلّفه بأحسن تأليف ولا يغادر منه شيئًا
+      </p>
+
+      <p n="New Chapters Placement">
+        ويأمر الملك بذلك الباب إذا
+        <lb/>
+
+        فرغ منه بزرجمهر أن يوضع مع تلك الأبواب في ذلك الكتاب في أيّ موضع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

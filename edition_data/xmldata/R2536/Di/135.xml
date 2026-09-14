@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="135"/>
+
+      <p n="After Three Days Dimna's Guilt Is Unproven">
+        تريد قتلي ولم يصحّ عندك شئ ممّا رُميت به ولم أبلغ بعد ثلاثة أيّام
+      </p>
+
+      <p n="Vile People Dislike Good People">
+        ولست
+        <lb/>
+
+        بملوم عندي في ذلك لأنّ الفاجر لا يحبّ أهل الصلاح ولا من يعمل أعمال
+        <lb/>
+
+        أهل التقى والبرّ
+      </p>
+
+      <p n="A Judge Has the Authority to Punish and Reward">
+        فقال القاضي إنّه يحقّ على الوالي أن يجازي المرء لصلاحه
+        <lb/>
+
+        ويعرفه له ويكرمه عليه لأنّه أهل لكلّ خير أتى إليه وأن ينكّل بالمجرم
+        <lb/>
+
+        على إساءته ويعاقبه عليه ليزداد أهل الخير الصلاح رغبةً وأهل الجرم
+        <lb/>
+
+        عن الإساءة نزوعًا
+      </p>
+
+      <p n="Punishment In Here Is Better Than In Hereafter">
+        ولعمري لأن يعاقب في الدنيا خير له من أنّ يعاقب في
+        <lb/>
+
+        الآخرة غدًا
+      </p>
+
+      <p n="Judge Enjoins Dimna to Confess">
+        فأقِرّ بذنبك وأقِرّ بإساءتك واعترفْ بما كان من صنيعك
+      </p>
+
+      <p n="Confessing Crime Has Good Consequences">
+        فإنّه أفضل لك في عواقب الأمور إن أنت هديت إلى ذلك ووفّقت
+        <lb/>
+
+        له فتكون قد أخرجت نفسك من تبعة الآخرة وأثبت حسن القول في
+        <lb/>
+
+        قوّتك على المخارج والمعاذير التي تدفع بها عن نفسك والأخرى إقرارك
+        <lb/>
+
+        بالذنب اختيارًا بالسلامة في الآخرة
+      </p>
+
+      <p n="Death Deserved Is Better Than Life With Crime">
+        فإنّ الموت فيما يحلّ خير من الحياة
+        <lb/>
+
+        فيما يحرم
+      </p>
+
+      <p n="Dimna Agrees with Judge's Rationale">
+        قال دمنة أيّها القاضي الصالح نطقت بالعدل وقلت مقالة
+        <lb/>
+
+        الحكماء
+      </p>
+
+      <p n="One Must Not Sacrifice Hereafter for Here">
+        ولعمري إنّ من سعادة المرء أن لا يبيع آخرته بدنيا فانية منقطعة
+        <lb/>
+
+        وأن لا يشتري روحًا يسيرًا بعذاب طويل
+      </p>
+
+      <p n="Dimna, Being Innocent, Cannot Confess What He Did Not Do">
+        ولكنّي ممّا قذفت به برئ
+        <lb/>
+
+        فكيف آمر بقتل نفسي وأُعين عليها وأنا مظلوم ولم أنطق بكذبٍ ولم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="4"/>
+
+      <p n="Sailors Depend on Ships and Vice Versa">
+        the ship is delivered.’”
+      </p>
+
+      <p n="The Cat Puts His Trust in the Rat">
+        “When the cat comprehended the talk by the rat, he knew that he was truthful and said to him,
+        <lb/>
+
+        ‘Your words are, indeed, akin to the truth. I, too, am desirous of this truce, in which for you and for myself, I hope, will be deliverance. And if you
+        <lb/>
+
+        do this, I will thank you as long as I live.
+      </p>
+
+      <p n="The Rat Explains the Detail of the Last Rope">
+        The rat said: I shall approach you and cut
+        <lb/>
+
+        all your cords, except for one cord, which I shall keep to secure myself against you.’”
+      </p>
+
+      <p n="The Foes Leave Frustrated">
+        “He
+      </p>
+
+      <p n="The Rat Begins to Cut the Rope">
+        then took to gnawing at his cords.
+      </p>
+
+      <p n="The Cat Deems the Rat's Efforts Slow">
+        When the owl and the mongoose saw the rat approach the cat, they gave up on catching him and left. But the
+        <lb/>
+
+        rat held some speed from Rūmī while cutting the cords, so Rūmī said: ‘Why do I not see you being diligent at cutting my cords.
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

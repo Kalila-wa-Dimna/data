@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="166"/>
+
+      <p n="Recourse Should be Made to Planning and Preparing">
+        فيما بيننا وبينهم
+        <lb/>
+
+        ونحترس من الغرّة والعودة فإذا أقبل علينا عدوّنا لقيناه مستعدّين
+      </p>
+
+      <p n="The Crows Should Fight Back the Owls">
+        فقاتلناه قتالًا شديدًا
+      </p>
+
+      <p n="There Is Hope for Victory">
+        ولعلّنا أيضًا أن نصيب ظفرًا ويصيبه غرّة
+        <lb/>
+
+        ونهزة فننتقم منهنّ كمثل ما صُنع بنا
+      </p>
+
+      <p n="Escape Should Not Be the First Choice">
+        ولا نبتدئ أمرنا بالهرب
+      </p>
+
+      <p n="Escape Is To Be Sought Only at Defeat">
+        فإن
+        <lb/>
+
+        أعيانا القتال هربنا وقد أبلينا عدوّنا
+      </p>
+
+      <p n="The Crow King Asks the Third Crow">
+        قال المَلك للثالث ما رأيك
+        <lb/>
+
+        أنت
+      </p>
+
+      <p n="The Crow Rejects Prior Input">
+        قال لا أرى ما قالا
+      </p>
+
+      <p n="Recourse Should be Made to Reconnaissance">
+        ولكن نذكّي العيون فيما بيننا وبينهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

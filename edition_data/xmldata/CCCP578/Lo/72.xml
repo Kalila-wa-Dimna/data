@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="72"/>
+
+      <p n="The Plot Backfires">
+        ريح خرجت من دبر الرجل قبل أن تنفخ فطار ذلك في فم البغاية فوقعت
+        <lb/>
+
+        ميتة وكل ذلك ببصر الناسك
+      </p>
+
+      <p n="The Ascetic Seeks New Lodging">
+        ثمّ أصبح غاديًا في طلبه فمرّ بمدينة
+      </p>
+
+      <p n="The Ascetic and the Shoemaker">
+        فأضافه رجل إسكاف وأحسن مثواه وفقال لامرأته أكرميه وقومي عليه
+        <lb/>
+
+        فإنّه قد دعاني بعض إخواني للشرب في منزله وهو ضيفنا فأحسني إليه
+      </p>
+
+      <p n="The Shoemaker Departs">
+        وانطلق
+        <lb/>
+
+        الإسكاف
+      </p>
+
+      <p n="The Shoemaker's Adulterous Wife">
+        وكانت امرأته قد علقت رجلًا وكان السفير بينهما امرأة حجّام
+      </p>
+
+      <p n="The Wife Summons Her Lover">
+        فأرسلت
+        <lb/>
+
+        امرأة الإسكاف إلى امرأة الحجّام فأمرتها أن تواعد الرجل وتخبره أنّ الإسكاف
+        <lb/>
+
+        قد غاب في الشرب وأنّه لا يرجع إلّا ممسيًا سكرانًا
+      </p>
+
+      <p n="The Lover Waits">
+        فأقبل صديقها عشيًّا
+        <lb/>
+
+        حتّى قعد على الباب ينتظر إذن المرأة
+      </p>
+
+      <p n="The Shoemaker's Suspicion">
+        وانصرف الإسكاف إلى بيته حين أمسى وهو
+        <lb/>
+
+        نشوان فلمّا رأى الرجل قاعدًا على بابه يعني باب داره
+      </p>
+
+      <p n="The Wife is Beaten and Tied Up">
+        وكان قد ارتاب به غضب
+        <lb/>
+
+        ودخل إلى البيت وأخذ امرأته وضربها ضربًا شديدًا ثمّ أوثقها إلى سارية في
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

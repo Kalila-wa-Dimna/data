@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="5"/>
+
+      <p n="The Cat Fulfills His Part">
+        ensuring his safety, and the rat approached him.
+      </p>
+
+      <p n="The Foes Leave Frustrated">
+        “When the mongoose and the owl saw that, they left
+        <lb/>
+
+        the place,
+      </p>
+
+      <p n="The Rat Begins to Cut the Rope">
+        and the rat took to cutting the net, one cord at a time. “
+      </p>
+
+      <p n="The Cat Deems the Rat's Efforts Slow">
+        When the cat noticed that
+        <lb/>
+
+        the rat was not diligent about cutting the net, he said, ‘What stops you, dear friend,
+        <lb/>
+
+        from assiduously cutting the trap and being through. Is having
+        <lb/>
+
+        secured
+      </p>
+
+      <p n="The Noble Must Help">
+        your need for safety preventing you from that If that is so, it is not a deed
+        <lb/>
+
+        the righteous would do
+      </p>
+
+      <p n="The Rat Must Fulfill the Pact">
+        As I made haste to deliver you, so you should likewise be
+        <lb/>
+
+        assiduous in delivering me.
+      </p>
+
+      <p n="The Two Kinds of Friends">
+        And if
+      </p>
+
+      <p n="The Rat Should Forget Enmity">
+        you still remember that old enmity, you
+        <lb/>
+
+        should not, especially that I have done well by you, and a deed of this kind is deserving of gratitude-
+        <lb/>
+
+        one good
+      </p>
+
+      <p n="Good Deeds Erase Bad Deeds">
+        deed rights many wrongs!’
+        <lb/>
+
+        “The rat said, ‘Friends are of two kinds, and one of them is the sincere friend, who must
+        <lb/>
+
+        prefer his friend over himself, his kin, and his possessions.
+      </p>
+
+      <p n="Trusting a Foe Is Like Eating Bad Food">
+        As
+      </p>
+
+      <p n="Forced Friendship Does Not Last">
+        for the friend who is compelled
+        <lb/>
+
+        into amity with an acquaintance, it could happen that the amity becomes firm and lasting; but oftentimes,
+        <lb/>
+
+        it disbands, going stale and unfulfilled. But
+      </p>
+
+      <p n="The Intelligent Protects Himself">
+        a wise man should hold his tongue For he who
+        <lb/>
+
+        reconciles with the enemy, trusts him, acts in his interest, and does not watch out for himself- his truce
+        <lb/>
+
+        is that of he who eats with someone who follows his fancy with food, and his stomach cannot digest it
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="10"/>
+
+      <p n="A Worldly Man Must Fix Three Things">
+        ويُقال في ثلاثة أشياء يحقّ على صاحب الدنيا إصلاحها وألّا
+        <lb/>
+
+        يتدارك لنفسه فيها أمر دنياه وأمر معيشته وأمر ما بينه
+        <lb/>
+
+        وبين الناس
+      </p>
+
+      <p n="Three Things in a Man Engender Inefficiency">
+        وقد قيل في أمور شتّى من كانت فيه لم يستقم أمره
+        <lb/>
+
+        له منها التواني في العمل ومنها التضييع للغرض ومنها التصديق
+        <lb/>
+
+        لكلّ مخبر
+      </p>
+
+      <p n="Many Are Credulous">
+        وربّ رجل يُخبر بالشيء فلا يقبله ولا يعرف
+        <lb/>
+
+        استقامته
+      </p>
+
+      <p n="The Types of Credulous Men">
+        فيصدّق به لما يرى من تصديق غيره فيتمادى به ذلك
+        <lb/>
+
+        حتّى يكون كأنّه عرفه ورجل يصدّق به لهواه في الأمر الذي يُخبر به
+      </p>
+
+      <p n="One Needs to Keep Desire in Check">
+        فالعاقل لا يزال للهوى متّهمًا وينبغي له أن لا يقبل من أحد وإن
+        <lb/>
+
+        كان صدوقًا إلّا صدقًا
+      </p>
+
+      <p n="One Needs to Check the Veracity of Information">
+        وينبغي له أن لا يتمادى في الخطأ ولا يتوانى في
+        <lb/>
+
+        النظر وينبغي له إذا التبس عليه أمر ألّا يلج في شيء منه ولا يقدم
+        <lb/>
+
+        عليه قبل أن يستيقن بالصواب منه
+      </p>
+
+      <p n="One Should Not Continue on the Wrong Path">
+        فيكون كالرجل الذي
+        <lb/>
+
+        يجور عن سنن للطريق فيسير على جوره وعلى الاعوجاج ولا
+        <lb/>
+
+        يزداد في السير حثًّا إلّا ازداد من الطريق بعدًا
+      </p>
+
+      <p n="Man Rubs Itchy Eye and Loses It">
+        أو كالرجل الذي
+        <lb/>
+
+        يدخل في عينه القذى فلا يزال يدلّكها حتّى يعلوها البياض
+        <lb/>
+
+        فتذهب
+      </p>
+
+      <p n="The Intelligent Should Believe in Fate">
+        وعلى العاقل ألّا يأخذ إلّا بالحزم ويعلم أنّ
+        <lb/>
+
+        الجزاء كائن
+      </p>
+
+      <p n="Do unto Other as to Oneself">
+        ومن آتى إلى صاحبه بمثل ما أُتي إليه فشقّ عليه فقد
+        <lb/>
+
+        ظلم
+      </p>
+
+      <p n="Reader Must Heed the Instructions of the Preface">
+        فمن قرأ هذا الكتاب فليقتدي بما في هذا الباب
+      </p>
+
+      <p n="The Author Hopes That the Reader Would Benefit">
+        فإنّني أرجو أن يزيده بصرًا ومعرفة فإذا عرفه اكتفى
+        <lb/>
+
+        واستغنى عن غيره وإن لم يعرفه لم ينتفع به
+      </p>
+
+      <p n="Man Throws a Stone in the Dark">
+        فيكون مثله
+        <lb/>
+
+        كمثل الذي رمى بحجر في ظلمة الليل فلا يدري أين وقع الحجر
+        <lb/>
+
+        ولا ماذا صنع
+      </p>
+
+      <p n="The Translator Added the Preface">
+        وإنّا لمّا رأينا أهل فارس قد فسّروا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

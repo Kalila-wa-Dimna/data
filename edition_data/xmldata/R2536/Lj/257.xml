@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="257"/>
+
+      <p n="Schemers Urge Quick Investigation">
+        وجواسيسه بكلّ مكان
+      </p>
+
+      <p n="Schemers Say Jackal Will Manipulate Lion">
+        قال آخر إنّي قد عرفت أنّ ابن آوى لو فُتّش
+        <lb/>
+
+        منزله واطُّلع على خيانته لاحتال بمكره وخبثه حتّى يُشبّه على الملك
+        <lb/>
+
+        فيعذره
+      </p>
+
+      <p n="Schemers Incite Lion's Suspicion">
+        فلم يزالوا بذلك الكلام ونحوه حتّى وقع في نفس الملك
+      </p>
+
+      <p n="Lion Asks Jackal about Meat">
+        فأمر
+        <lb/>
+
+        بابن آوى فدُعي به فقال له ما صنعت باللحم الذي أمرتك بالاحتفاظ به
+        <lb/>
+
+        قال دفعته إلى فلان صاحب الطعام ليقدّمه
+      </p>
+
+      <p n="Lion Asks Steward about Meat">
+        وقد كان ممّن شاتع القوم
+        <lb/>
+
+        فقال ما دفع إليّ شيئًا
+      </p>
+
+      <p n="Meat Is Found in Jackal's House">
+        فبعث الأسد أمناءه ليفتّشوا بيت ابن آوى
+        <lb/>
+
+        فوجدوا ذلك اللحم فيه فأتوا به الأسد
+      </p>
+
+      <p n="Wolf Steps In">
+        فدنا من الأسد ذئب وكان
+        <lb/>
+
+        لم يتكلّم في شيء من ذلك ولا كان شائع فيه وكان يُظهر أنّه من العدول
+        <lb/>
+
+        الذين لا يتكلّموا إلّا فيما استبان لهم
+      </p>
+
+      <p n="Lion Must Punish Jackal">
+        قال للأسد أمّا إذا اطّلع الملك
+        <lb/>
+
+        من ابن آوى على مثل هذه الخيانة فلا يعفو عنه فإنّه إن عفا عنه لم يعد
+        <lb/>
+
+        أحد أن يطلع الملك على خيانة خائن وذنب مذنب
+      </p>
+
+      <p n="Lion Has Jackal Arrested">
+        فأمر الأسد بابن آوى
+        <lb/>
+
+        أن يُخرج من عنده ويُحتفظ به
+      </p>
+
+      <p n="Courtiers Are Amazed at Lion's Unawareness">
+        وقال عند ذلك بعض جلسائه إنّي
+        <lb/>
+
+        ﻷعجب من رأي الملك ومعرفته بالأمور وكيف خفي عليه أمر هذا
+        <lb/>
+
+        فلم يعرف خبثه ومخادعته
+      </p>
+
+      <p n="Courtiers Expect Jackal's Pardon">
+        قال آخر ما عجبت من هذا إلّا أنّي أراه
+        <lb/>
+
+        سيصفح عنه بعد ما ظهر منه الذي ظهر
+      </p>
+
+      <p n="False Message and Death Sentence">
+        فأرسل الأسد بعضهم رسولًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

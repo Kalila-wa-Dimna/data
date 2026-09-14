@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="7"/>
+
+      <p n="Enmity Turns into Friendship in Times of Need">
+        turning again into enmity-
+      </p>
+
+      <p n="Heated Water Cools Down">
+        as with water heated on fire: when it is separated from the fire,
+        <lb/>
+
+        it reverts to being cold.
+      </p>
+
+      <p n="The Cat Is the Rat's Worst Enemy">
+        You are an enemy unto me and I unto you. How can
+        <lb/>
+
+        friendship work between us,
+      </p>
+
+      <p n="The Rat's Need for Friendship Has Gone">
+        while
+      </p>
+
+      <p n="The Cat Desires the Rat for Food">
+        I know that you have no
+      </p>
+
+      <p n="The Rat's Need for Friendship Has Gone">
+        need except that of eating me You and I were compelled,
+        <lb/>
+
+        by a need, to enter an agreement, and the matter which made you need me and which obliged me
+        <lb/>
+
+        to you has passed. I fear, then, that in its passing is the return of the enmity between you and me.
+      </p>
+
+      <p n="The Weak Must Avoid the Strong">
+        There is no good in the weak becoming close with the powerful enemy and no good in the humble approaching the grand.’
+        <lb/>
+
+        “
+      </p>
+
+      <p n="The Rat Departs to Safety">
+        And so the rat stood firm in his stance, remaining wary of the cat.”
+      </p>
+
+      <p n="The Gist of the Chapter">
+        This has been the parable of the rat who became friend to the cat.
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

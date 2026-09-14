@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="58"/>
+
+      <p n="Introduction of Kalila and Dimna">
+        كليلة والآخر دمنة
+      </p>
+
+      <p n="Kalila and Dimna's Characteristics">
+        وكلاهما كانا ذا دهاء وأدب
+      </p>
+
+      <p n="Dimna's Ambitious Nature">
+        وكان دمنة أشرفهما
+        <lb/>
+
+        نفسًا وأبعدهما همّة وأقلّهما رضى بحاله
+      </p>
+
+      <p n="Lion's Unfamiliarity with Kalila and Dimna">
+        ولم يكن الأسد عرفهما
+      </p>
+
+      <p n="Dimna's Observation of Lion's Behavior">
+        فقال دمنة
+        <lb/>
+
+        لكليلة ما ترى يا أخي شأن الأسد مقيمًا في مكان واحد لا ينشط ولا يبرح
+      </p>
+
+      <p n="Kalila's Caution about Meddling">
+        قال
+        <lb/>
+
+        كليلة ما شأنك وشأن المسألة عمّا ليس يعنينا
+      </p>
+
+      <p n="Dimna's Perspective on Serving Kings">
+        أمّا نحن فحالنا حال صدق
+        <lb/>
+
+        ونحن على باب مَلكنا واجدون لما نأكل ونشرب ولسنا من أهل المرتبة التي يتناول
+        <lb/>
+
+        أهلها كلام الملوك وينظرون في أمورهم
+      </p>
+
+      <p n="Kalila's Warning and Monkey Parable">
+        فاسكت عن هذا واعلم أنّه من تكلّف من
+        <lb/>
+
+        القول والفعل ما ليس من شأنه أصابه ما أصاب القرد والنجّار
+      </p>
+
+      <p n="Dimna's Inquiry about the Parable">
+        قال دمنة وكيف
+        <lb/>
+
+        أخبار القرد والنجّار
+      </p>
+
+      <p n="Second Subtale of Monkey of Carpenter">
+        قال كليلة زعموا أنّ قردًا رأى نجّارًا ينجر خشبة على وتدين
+      </p>
+
+      <p n="The Lion and His Animal Subjects">
+        الوحوش
+      </p>
+
+      <p n="Lion's Overconfidence and Poor Judgment">
+        وكان الأسد مرهوبًا منفردًا برأيه غير كاف
+      </p>
+
+      <p n="Lion's Reaction to Unfamiliar Sound">
+        قال وإنّ الأسد
+        <lb/>
+
+        لمّا سمع خوار الثور ولم يكُ رأى ثورًا قطّ ولا سمع خواره رعب منه رعبًا شديدًا
+      </p>
+
+      <p n="Concerned for Appearance, Lion Stays Immobile">
+        وكره أن يفطن بذلك جنده وأقام مكانه
+      </p>
+
+      <p n="Introduction of Kalila and Dimna">
+        وكان فيمن معه ابنا آوى يُدعى أحدهما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

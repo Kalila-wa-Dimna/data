@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="39"/>
+
+      <p n="Working Without Expecting Reward">
+        وأعطيته ما يحتاج إليه من الدواء ولم أغتظ من نظرائي من هو فوقي أو مثلي
+        <lb/>
+
+        في العلم والمال أحدًا إلّا أن يعين ذلك بصلاح وحسن سير في الناس قولًا وعملًا
+      </p>
+
+      <p n="Addressing the Soul to Distinguish Its Benefits and Harms">
+        فلمّا تاقت نفسي ونازعتني وأبت إلّا أن أغبطهم وأتمنّى مثل منازلهم أبيت لها
+        <lb/>
+
+        إلّا الخصومة وقلت يا نفس ألا تعرفين نفعك من ضرّك ألّا تنتهين عن تمنّي ما
+        <lb/>
+
+        لم ينله أحد إلّا قلّ إمتاعه وكثر أعداؤه وخباله عليه واشتدّت البليّة
+        <lb/>
+
+        وعظمت
+      </p>
+
+      <p n="Addressing the Soul to Be Ashamed of Its Greed for the Transient">
+        يا نفس ألا تتفكّرين فيما بعد هذه الدنيا فينسيك ذلك ما تشرهين
+        <lb/>
+
+        عليه من هذه الدار ألا تستحين من مشاركة الفجرة في حبّ هذه العاجلة الفانية
+        <lb/>
+
+        التي من كان في يديه منها شيء فليس له وليس بباق معه والتي لا يألفها إلّا
+        <lb/>
+
+        المغترّون الغافلون
+      </p>
+
+      <p n="Addressing the Soul to Abandon Its Folly">
+        فانصرفي عن هذا السفه وأقبلي بقوّتك وقدرتك وما تملكين على
+        <lb/>
+
+        تقديم الخير والأجر ما استطعت وإيّاك والتسويف
+      </p>
+
+      <p n="The Body Consists of Harmful Elements">
+        واذكري أنّ هذا الجسد
+        <lb/>
+
+        رخوًا ذو آفات وأنّه مملوء أخلاطًا فاسدة قذرة يجمعها أربعة أخلاط متغالبة
+        <lb/>
+
+        متعادية
+      </p>
+
+      <p n="Addressing the Soul: The Friend Passes Away">
+        يا نفس ولا تغترّي بصحبة أحبابك وأخلّائك ولا تحرصي على ذلك كلّ
+        <lb/>
+
+        الحرص فإنّ صحبتهم على ما فيها من السرور كثيرة الأذى
+      </p>
+
+      <p n="A Ladle Eventually Breaks">
+        فمثلها مثل المغرفة التي تُستعمل
+        <lb/>
+
+        في سخونة المرق فإذا انكسرت صارت عاقبتها إلى الحرق بالنار
+      </p>
+
+      <p n="Addressing the Soul: The Family Passes Away">
+        ويا نفس لا
+        <lb/>
+
+        يحملنّك أهلك وقرابتك على جمع ما تهلكين في جمعه تريدين به صلتهم
+        <lb/>
+
+        ورضاهم
+      </p>
+
+      <p n="Incense Burns">
+        فإذا أنت كالدخنة الطيّبة التي تحترق ويلتذّ بعرفها آخرون
+      </p>
+
+      <p n="Addressing the Soul: Wealth Passes Away">
+        ولا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

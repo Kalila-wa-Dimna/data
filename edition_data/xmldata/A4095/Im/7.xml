@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="7"/>
+
+      <p n="Three Things Are Needed for Worldly Life">
+        ومنها اتّخاذ المعروف
+      </p>
+
+      <p n="Things Should Not Pursued without Premeditation">
+        وقد قيل إنّه لا ينبغي لطالب أن يطلب
+        <lb/>
+
+        أمرًا إلّا من بعد معرفته بفضله فإنّه يُعدّ جاهلًا من طلب أمرًا
+        <lb/>
+
+        وعنّى نفسه فيه وليس له منفعة
+      </p>
+
+      <p n="Some Readers Err in This">
+        وقد ترى بعض من
+        <lb/>
+
+        يقرأ هذا الكتاب فيتعجّب منه ويجهد نفسه في حفظه ويترك
+        <lb/>
+
+        العمل به
+      </p>
+
+      <p n="Reader Is Like a Blind Blaming another Blind">
+        فيكون كالأعمى الذي عيّر الأعور بعورته
+      </p>
+
+      <p n="No Benefit Should Be Obtained by Harming Others">
+        وينبغي لمن
+        <lb/>
+
+        عقل أن لا يطلب أمرًا فيه مضرّة لصاحبه يطلب بذلك صلاح
+        <lb/>
+
+        نفسه فإنّ الغادر مأخوذ
+      </p>
+
+      <p n="A Merchant Steals from His Partner">
+        ومن فعل ذلك كان
+        <lb/>
+
+        خليقًا أن يصيبه ما أصاب الرجل الذي بلغني أنّه كان يبيع
+        <lb/>
+
+        السمسم وكان له شريك وكان سمسمهما في بيت
+        <lb/>
+
+        واحد غير أنّ الذي لكلّ واحد منهما على حدة
+      </p>
+
+      <p n="The Merchant Devises a Plot">
+        فأحبّ أحدهما أن
+        <lb/>
+
+        يذهب بالذي لشريكه من السمسم ثم أحبّ أن يجعل له علامة
+        <lb/>
+
+        حتّى إذا دنا الليل عرفه بها
+      </p>
+
+      <p n="The Merchant Executes the Plot">
+        فعمد إلى ردائه فغطّاه به ثمّ انطلق
+        <lb/>
+
+        إلى صديق له فأخبره بالذي همّ به وسأله أن يعينه عليه فأبى
+        <lb/>
+
+        صديقه ذلك إلّا أن يجعل له نصف ما يأخذ منه ففعل
+      </p>
+
+      <p n="The Partner Finds the Garb">
+        ثمّ إنّ شريكه دخل البيت فرأى سمسمه مغطّى برداء صاحبه
+      </p>
+
+      <p n="The Partner Moves the Garb">
+        فظنّ أنّه غطّاه من التراب والدوابّ فقال في نفسه لقد
+        <lb/>
+
+        أحسن شريكي في تغطية سمسمي وإشفاقه عليه وسمسمه
+        <lb/>
+
+        أحقّ أن يُغطّى بردائه فحوّل الرداء على سمسم صاحبه
+      </p>
+
+      <p n="The Merchant Steals His Own Bale">
+        فلمّا كان في
+        <lb/>
+
+        الليل جاء التاجر والرجل معه ودخلا البيت وهو مظلم
+        <lb/>
+
+        فجعل الرجل يلتمس ويجسّ حتّى وقعت يده على الرداء المغطّى على
+        <lb/>
+
+        السمسم وهو يُقدّر أنّه كما غطّاه وأنّه سمسم صاحبه فأخذ نصفه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

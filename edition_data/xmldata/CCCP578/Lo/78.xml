@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="78"/>
+
+      <p n="The Heron's Tale of Fishermen">
+        وكذا سمكًا أكثر منه فلو قد فرغنا من هذا أقبلنا إلى ما ها هنا
+      </p>
+
+      <p n="The Feared Consequence">
+        وقد علمت
+        <lb/>
+
+        أنّه لو قد فرغنا ممّا قد توجّها إليه انصرفا فلم يدعا في هذه الأجمّة سمكةً إلّا صادوها
+        <lb/>
+
+        فإذا كان كذلك فهو موتي وذهاب معاشي
+      </p>
+
+      <p n="The Crab Warns the Fish">
+        فانطلق السرطان إلى جماعة السمك
+        <lb/>
+
+        فأخبرهم بذلك
+      </p>
+
+      <p n="The Fish Seek Counsel">
+        فأقبلن إلى العلجوم مستبشرين له
+      </p>
+
+      <p n="A Plea for Advice">
+        وقلن له إنّما أتيناك لتشير علينا
+        <lb/>
+
+        فإنّ ذا العقل لا يدع استشارة عدوّه إذا كان ذا رأي في الأمور الذي يشركه
+        <lb/>
+
+        في ضرّه ونفعه وأنت ذو رأي ولك في بقائنا صلاح فأشر علينا برأيك
+      </p>
+
+      <p n="The Heron's Deceptive Offer">
+        قال العلجوم أمّا مكابرة الصيّاد وقتاله فليس عندنا ولا أعلم حيلة إلّا
+        <lb/>
+
+        أنّني أعلم مكان عيش كثير الماء طيّب فيه قصب وخير ورزق فلو شئتنّ الانتقال
+        <lb/>
+
+        إلى ذلك الغدير كان فيه صلاحكنّ وخصبكنّ
+      </p>
+
+      <p n="The Fish Ask for Help">
+        فقلن ومن يمنّ علينا بهذا غيرك
+      </p>
+
+      <p n="The Heron's Promise">
+        قال العلجوم تجئنني كلّ يوم سمكتين أو ثلاثة أحملهنّ إلى ذلك الغدير
+      </p>
+
+      <p n="The Fish Agree">
+        فأجبنه
+        <lb/>
+
+        إلى ذلك
+      </p>
+
+      <p n="The Heron's Treachery">
+        فكان يحمل كلّ يوم سمكتين أو ثلاثة فينطلق بهم إلى بعض التلال فيأكلهنّ
+      </p>
+
+      <p n="The Crab's Request">
+        حتّى أن كان ذات يوم جاءه السرطان وقال له وأنا أيضًا قد أشفقت من مكاني
+        <lb/>
+
+        هذا فاذهب بي
+      </p>
+
+      <p n="The Crab Discovers the Truth">
+        فحمله العلجوم حتّى إذا دنا من التلّ نظر السرطان فرأى عظام السمك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

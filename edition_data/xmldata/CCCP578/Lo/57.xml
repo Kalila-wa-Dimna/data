@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="57"/>
+
+      <p n="Description of the Caretaker's Actions">
+        ولحق التاجر فأخبره أنّ الثور قد مات
+      </p>
+
+      <p n="Ox's Journey to a Lush Meadow">
+        ثمّ إنّ الثور انبعث من مكانه فلم يزل يدبّ حتّى
+        <lb/>
+
+        انتهى إلى مرج مخصب كثير الماء والعشب
+      </p>
+
+      <p n="Ox's Encounter with Inevitable Fate">
+        لمّا قُضي له أن يصيبه من العرض الذي لم
+        <lb/>
+
+        يكن ليخطئه
+      </p>
+
+      <p n="First Subtable of Man and Wolf (Second Beginning)">
+        فإنّهم زعموا أنّ رجلًا يجرّ حشيشًا فرصده ذئب ليأكله فلم يفطن
+        <lb/>
+
+        له الرجل حتّى دنا منه
+      </p>
+
+      <p n="Man's Escape Attempt from the Wolf">
+        فلمّا عاينه اشتدّ وجله ونهض هاربًا نحو قرية على شاطئ
+        <lb/>
+
+        نهر فلمّا انتهى إلى النهر وجد عليه قنطرة منكسرة ورهقه الذئب
+      </p>
+
+      <p n="Man's Dilemma at the River">
+        فقال له كيف
+        <lb/>
+
+        أمتنع من الذئب والنهر عميق وأنا لا أحسن السباحة غير أنّي ألقي بنفسي في الماء
+      </p>
+
+      <p n="Man Jumping into the River and Rescue">
+        فوقع في الماء فرآه أهل القرية فأرسلوا إليه من استخرجه وقد أشرف على الهلكة
+      </p>
+
+      <p n="Man's Escape from Previous Dangers">
+        ونجا من الذئب ومن الغرق
+      </p>
+
+      <p n="Man Recounting His Experiences">
+        فلمّا أفاق حدّثهم بما لقي
+      </p>
+
+      <p n="Wall Collapsing and Killing the Man">
+        فبينما هو كذلك إذ تهدّم عليه
+        <lb/>
+
+        حائط فقتله
+      </p>
+
+      <p n="Ox's Physical Transformation and Attitude Change">
+        ثمّ إنّ شتربة لم يلبث أن عكن شحمًا
+      </p>
+
+      <p n="Ox's Loud Bellowing and Behavior">
+        وجعل يحكّ قرنه الأرض وهو يخور
+        <lb/>
+
+        ويرفع صوته بالخوار في الغوطة
+      </p>
+
+      <p n="The Lion and His Animal Subjects">
+        وكان بقربه أسد وهو مَلك تلك الناحية
+        <lb/>
+
+        ومعه سباع كثيرة من الذئاب وبنات آوى ومن الدببة ومن الثعالب وسائر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

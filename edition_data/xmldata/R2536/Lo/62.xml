@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="62"/>
+
+      <p n="The Wife Claims a Miracle">
+        سمع كلامها قال ما هذا الكلام يا ساحرة ثمّ إنّه قام وأوقد نارًا
+        <lb/>
+
+        فلمّا رأى أنفها صحيحًا
+      </p>
+
+      <p n="The Husband is Deceived">
+        ترضّاها وتنّصل إليها وتاب واعتذر وقال إلى
+        <lb/>
+
+        الله المغفرة
+      </p>
+
+      <p n="The Husband's Apology">
+        ولمّا انتهت امرأة الحجّام إلى بيتها ضربت الحيل ظهرًا
+        <lb/>
+
+        لبطن والتمست العذر ممّا وقعت فيه
+      </p>
+
+      <p n="The Barber's Wife's Dilemma">
+        فلمّا كان وقت السحر وهي نائمة
+        <lb/>
+
+        وتقول ما عذري عند أهلي وزوجي في جدع أنفي إذ ناداها زوجها
+      </p>
+
+      <p n="The Barber Wakes">
+        هلمّي متاعي فإنّي أريد أن ألجّ إلى بعض الأشراف لأعمل له عملًا
+      </p>
+
+      <p n="The Barber Asks for His Tools">
+        فلم تأته
+        <lb/>
+
+        إلّا بالموس وحده فقال لها هلمّي متاعي فأعادت عليه الموسى
+      </p>
+
+      <p n="The Barber's Wife's Ruse">
+        فغضب
+        <lb/>
+
+        زوجها ورمى به في الظلمة فطرحت نفسها إلى الأرض وصرخت وقالت
+        <lb/>
+
+        أنفي أنفي
+      </p>
+
+      <p n="The Barber is Taken to the Judge">
+        فجاء أهلها فأخذوا زوجها فذهبوا به إلى القاضي
+      </p>
+
+      <p n="The Judge's Verdict">
+        فأمر القاضي
+        <lb/>
+
+        بعقوبته
+      </p>
+
+      <p n="The Ascetic Intervenes">
+        فلمّا قُدّم ليُعاقب وافاه الناسك فقال أيّها القاضي ليس الرجل
+        <lb/>
+
+        سرق الثياب وليس الوعلان قتلا الثعلب وليس السمّ قتل المرأة
+        <lb/>
+
+        وليس الحجّام جدع أنف امرأته بل نحن فعلنا ذلك بأنفسنا
+      </p>
+
+      <p n="The Ascetic's Testimony">
+        فسأله
+        <lb/>
+
+        القاضي عن تفسير ذلك فحدّثه بالقصّة حتّى فرغ
+      </p>
+
+      <p n="Applying the Moral to Dimna">
+        وإنّما ضربت
+        <lb/>
+
+        لك هذه الأمثال من خوف العواقب
+      </p>
+
+      <p n="Dimna Seeks a New Plan">
+        قال دمنة قد فهمت ما ذكرت
+        <lb/>
+
+        وإنّما كيف العمل مع الثور
+      </p>
+
+      <p n="The Crow's Predicament">
+        قال كليلة زعموا أنّ كان غراب له وكر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

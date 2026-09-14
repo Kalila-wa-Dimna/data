@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="76"/>
+
+      <p n="Dimna Claims to Be a Victim of Scheme">
+        أمره حتّى أبصر مصداقه أفضل رأيًا وأشدّ عزمًا وإنّي لأعرف أنّه
+        <lb/>
+
+        يتخوّف مثلها منّي غيرُ واحد من أهل الغشّ والعدوان والعداوة للملك
+        <lb/>
+
+        فنصبوا لمصيبتي واجتمعوا على هلاكي
+      </p>
+
+      <p n="The Lion Orders an Investigation">
+        فلمّا سمع الأسد قوله ارتاب به
+        <lb/>
+
+        فأخرجه وأمر بالفحص عنه ورفعه إلى القضاة لينظروا في أمره
+      </p>
+
+      <p n="Dimna States Investigation Will Clear Him">
+        فسجد
+        <lb/>
+
+        دمنة للملك وقال أيّها الملك لستَ بحقيق بمعاجلة أحدنا بالعقوبة
+        <lb/>
+
+        عن قول الأشرار دون الفحص والتثبّت وإنّي لواثق عن فحصك ببراءتي
+        <lb/>
+
+        وتصديق مقالتي
+      </p>
+
+      <p n="Extracting Fire Is Like Unveiling the Truth">
+        وقد قالت العلماء إنّ من استخرج النار من الحجر وهو
+        <lb/>
+
+        كامنة فيه كالقادر أن يستخرج بالفحص وطول البحث ما خفي عليه من
+        <lb/>
+
+        الأمور
+      </p>
+
+      <p n="If Guilty Dimna Would Prefer No Investigation">
+        ولو كنتُ مُجرمًا سرّني تركُك التفتيش عنّي ولما كنت مرابطًا
+        <lb/>
+
+        بباب الملك
+      </p>
+
+      <p n="Dimna Cites His Staying as Proof of Innocence">
+        ولو كنت مذنبًا هربت في الأرض وكان لي فيها مذهبًا
+        <lb/>
+
+        ولكن لثقتي وبراءتي ونصيحتي لم أبرحه ولم أفارقه
+      </p>
+
+      <p n="Dimna Asks for Unimpeachable Investigator">
+        وأنا أرغب إليه إن
+        <lb/>
+
+        كان في شكّ من ذلك أن يأمر بالنظر فيه ويكون من يولّيه إيّاه ذا
+        <lb/>
+
+        أمانةٍ وإسلامٍ لا يأخذه في الحقّ لومة لائم ولا يكون عنده محاباة لأحدٍ
+        <lb/>
+
+        ولا غمزة ويرفع إليه عذري وما يسمع من غيري فينظرُ فيه ولا يأخذه فيه
+        <lb/>
+
+        أقاويل البُغاة عليَّ الحسدة لي فيها
+      </p>
+
+      <p n="Dimna's Station Exposes Him to Jealousy">
+        فإنّه قد كانت لي منه منزلة
+        <lb/>
+
+        أُنافَسها وأُحسد عليها
+      </p>
+
+      <p n="Dimna Claims only Investigation Can Save Him">
+        فإن هو لم يفعل ذلك فيّ ويكن رأيه عليه فلا
+        <lb/>
+
+        مؤمَّل لي ولا منجى إلَّا الله الذي يعلم سرائر العباد وخِفيّ ضميرهم ولعلّي
+        <lb/>
+
+        أن لا أكون بذلك أضرّ منه
+      </p>
+
+      <p n="Doubt and Certainty Must Not Be Confused">
+        وقد كان يقال إنّ الذي يعمل بالشبهة
+        <lb/>
+
+        ولا يتّئد عندها ولا يتثبّت فيها يكون قد صدّق ما ينبغي أن يُشكّ فيه
+        <lb/>
+
+        وكذّب ما ينبغي أن يصدّقه
+      </p>
+
+      <p n="Dimna's First Subtale of the Woman Who Mistook Her Servant for Her Lover">
+        فيكون أمره كأمر المرأة التي بذلت
+        <lb/>
+
+        نفسها لعبدها حتّى فضحها
+      </p>
+
+      <p n="Lion's Question for Woman's Tale">
+        قال الأسد وكيف كان ذلك
+      </p>
+
+      <p n="A Merchant's Wife Had a Lover">
+        قال دمنة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

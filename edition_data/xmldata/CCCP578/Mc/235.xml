@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="235"/>
+
+      <p n="The Cautious Weak Is Better Than Deluded Strong">
+        إليه
+      </p>
+
+      <p n="The Intelligent Escapes Forced Friendship">
+        والعاقل يصالح عدوّه إذا اضطرّ إلى ذلك ويصانعه ويظهر له ودّه ويريه
+        <lb/>
+
+        من نفسه استرسالًا إليه إذا لم يجد بدًّا ويجعل الانصراف عنه إذا وجد إلى ذلك
+        <lb/>
+
+        سبيلًا
+      </p>
+
+      <p n="Trusting Quickly Is Risky">
+        ويعلم أن صريع الاسترسال لا يكاد أن يستقيل عثرته
+      </p>
+
+      <p n="The Intelligent Distrusts Forced Friendship">
+        وهو يفي لمن يصالح
+        <lb/>
+
+        بما جعل فيثق بذلك من نفسه ولا يثق بمثل ذلك من أحد
+      </p>
+
+      <p n="The Best Thing Is Distance From the Enemy">
+        ولا يؤثر على البعد من عدوّه
+        <lb/>
+
+        ما استطاع
+      </p>
+
+      <p n="Staying Away from the Enemy is the Best Judgment">
+        فالبعد لك من الصيّاد حزم والبعد لي منك حزم
+      </p>
+
+      <p n="The Rat Will Love the Cat from Afar">
+        والرأي لي أن أودّك
+        <lb/>
+
+        من بعيد
+      </p>
+
+      <p n="The Rat Does Not Need a Reward">
+        ولا عليك تحترمني بمثل ذلك
+      </p>
+
+      <p n="The Last Verdict Is No Reunion">
+        ولا إلى اجتماعنا سبيل
+      </p>
+
+      <p n="unassigned">
+        باب الملك والطائر قنبرة
+        <lb/>
+
+        وهو باب أهل الترات واتّقاء الناس بعضهم ببعض وهو مثل من لا يتق ولا يسترسل
+        <lb/>
+
+        إلى أحد بعد ما سلف منه إليه وما في ذلك من الأخذ بالوثيقة وترك الاغترار
+        <lb/>
+
+        بما يلقاه به صاحبه من اللين واللطف داعية إلى الاحتراس والتوقّي والحذر
+        <lb/>
+
+        قال الملك للفيلسوف قد سمعت مثل الرجل الذي تكتنفه أعداؤه فيستظهر ببعضهم
+        <lb/>
+
+        ويصالحهم حتّى يخلص بذلك ممّا يخاف فيوقى بذلك ويسلم فاضرب لي هذا المثل
+        <lb/>
+
+        والذي ينبغي لبعضهم من ابقاء بعض قال الفيلسوف زعموا أن ملكًا من الملوك
+        <lb/>
+
+        كبير يُقال له ابن مدبر وكان له طير يُقال له قنبرة وكان ناطقا كيّسًا ومعه فرخ
+        <lb/>
+
+        له فأمر الملك أن يجعل طيره قنبرة وفرخه عند امرأة كانت هي عنده سيدة النساء
+        <lb/>
+
+        الذي في داره وأمر بالاستيصاء به ثمّ إنّ المرأة ولدت ولدًا غلامًا فألف الفرخ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+    <chapter>Kb</chapter>
+  </chapter>
+</TEI>

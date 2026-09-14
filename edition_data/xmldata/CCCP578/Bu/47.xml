@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="47"/>
+
+      <p n="Trader with Pearl and Cymbal Player">
+        تستوجب عليه أجرة قال نعم عملت ما قد أمرتني به أن أعمله وقد استحققت
+        <lb/>
+
+        عليك أجرة يومي فوفّاه عشرة دنانير أجرة يومه وبقي سفطة الجوهر غير مثقوب
+      </p>
+
+      <p n="Burzoy is Attracted by Asceticism">
+        ولم
+      </p>
+
+      <p n="Asceticism Is Like a Garden">
+        أزدد من الدنيا وشهوتها نظرًا إلّا أزداد فيها زهادة فرأيت أن أعتصم بالتألّه
+        <lb/>
+
+        والنسك ورأيت النسك يمهّد للمعاد كما يمهّد الوالد لولده ورأيته الجنّة
+      </p>
+
+      <p n="Burzoy is Attracted by Asceticism">
+        الحريزة في دفع الشرّ ورأيته
+      </p>
+
+      <p n="Asceticism Is Like a Garden">
+        الباب المفتوح إلى الجنّة دار النعيم ووجدت
+        <lb/>
+
+        الناسك قد ذكر فعَلَته السكينة وشكر فتواضع وقنع فاستغنى ورضي فلم
+        <lb/>
+
+        يهتمّ وخلع الدنيا فنجا من الشرور ورفض الشهوات فصار طاهرًا وانفرد فلقي
+        <lb/>
+
+        الأحزان وأطرح الحسد فظهرت له المحبّة وسخت نفسه عن كلّ شيء فان
+        <lb/>
+
+        واستكمل العاقلة وأبصر العافية فأمن الندامة ولم تخفه الناس ولم يخفهم ولم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="109"/>
+
+      <p n="unassigned">
+        إليه واجتمعت الغراب والظبي والجرد والسلحفاة إلى عرائشهنّ
+        <lb/>
+
+        آمنات ثمّ قال الفيلسوف للمَلك فإذا بلغت حيلة أضعف
+        <lb/>
+
+        الدوابّ والطير وأهونها في معاونة بعضهم بعضًا ومواساتهنّ
+        <lb/>
+
+        وجمعهنّ فيما بينهنّ وصبرهنّ على ما خلّص به بعضهم بعضًا
+        <lb/>
+
+        من أعظم البلاء وأهوله وأفظعه فكيف بالناس لو فعلوا
+        <lb/>
+
+        مثل ذلك وترافدوا فيه إذا كان يصل إليهم من منفعة ذلك
+        <lb/>
+
+        ومرفقه في حدا الخير وأحراىه ودفع السوء ما لا خطر له ولا عدل
+      </p>
+
+      <p n="Chapter Title">
+        باب البوم والغربان
+      </p>
+
+      <p n="The King Understood Previous Chapter">
+        قال الملك للفيلسوف قد فهمت ما ذكرت من أمر الإخاء
+        <lb/>
+
+        ومنفعته وعظيم الفائدة فيه
+      </p>
+
+      <p n="The King Asks If Foes Can Become a Friends">
+        فاضربْ لي مثل المغترّ بالعدوّ
+        <lb/>
+
+        المبدي التضرّع وأخبرْني عن العدوّ هل يصير صديقًا وهل يُوثق
+        <lb/>
+
+        بشيء منه
+      </p>
+
+      <p n="The King Asks about Fawning Foes">
+        وكيف العداوة وما ضرّها وكيف ينبغي للملك إذا أتاه أمر
+        <lb/>
+
+        من عدوّه ومن أهل المنابذة أمر أيلتمس به الصلح وهو في نفسه غير
+        <lb/>
+
+        أمين ولا حقيق بالطمأنينة
+      </p>
+
+      <p n="The Philosopher Answers, Foes Cannot be Trusted">
+        قال الفيلسوف ليس أحد بحقيق
+        <lb/>
+
+        إذا أتاه أمر من عدوّه الذي يتخوّفه على نفسه وجنده وإن كان يلتمس
+        <lb/>
+
+        الأمان والصلح ويظهر المودّة لجنده والسلامة لأصحابه الذي لا
+        <lb/>
+
+        يُوثق به ولا يُطمأنّ إليه ولا يُغترّ بقوله فإنّه
+      </p>
+
+      <p n="Foes May Take Advantage">
+        قد يكون بأشباه ذلك
+        <lb/>
+
+        فمن يطلب النهزة والفرصة ومثل العدوّ الذي لا ينبغي أن يُغترّ
+        <lb/>
+
+        به وإن هو أظهر المودّة والصفاء
+      </p>
+
+      <p n="The Parable of the Owls and the Crows">
+        ومن يسترسل إلى عدوّه ويطمئنّ
+        <lb/>
+
+        إليه فيصيبه ما أصاب البوم من الغربان
+      </p>
+
+      <p n="The King Requests the Parable">
+        قال الملك وكيف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Rd</chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

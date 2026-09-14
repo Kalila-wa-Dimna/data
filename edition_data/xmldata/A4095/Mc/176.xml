@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="176"/>
+
+      <p n="The Cat Should Desire Common Rescue">
+        ببقائي كما طابت نفسي ببقائك
+      </p>
+
+      <p n="Sailors Depend on Ships and Vice Versa">
+        فإنّ كلّ واحد منّا ينجو بصاحبه
+        <lb/>
+
+        كالسفينة والركّاب في البحر فبالسفينة تخرج الركّاب وبالركّاب
+        <lb/>
+
+        تخرج السفينة
+      </p>
+
+      <p n="The Cat Puts His Trust in the Rat">
+        فلمّا سمع السنّور بمقالة الجرذ سُرّ بها
+        <lb/>
+
+        وعرف أنّه صادق فقال للجرذ أرى قولك شبيهًا بالحقّ والصدق
+        <lb/>
+
+        فأنا راغب في هذا الصلح الذي أرجو لنفسي ولك فيه الخلاص ثمّ
+        <lb/>
+
+        لأشكر لك ذلك ما بقيت وأجازيك به أحسن الجزاء
+      </p>
+
+      <p n="The Rat Explains the Strategy">
+        قال الجرذ
+        <lb/>
+
+        فإذا دنوت منك فلتُر ابن عرس والبومة ما يعرفان به صلحنا
+        <lb/>
+
+        فينصرفان آيسين وأقبل أنا على قرض الحبال
+      </p>
+
+      <p n="The Cat Fulfills His Part">
+        فلمّا دنا الجرذ من السنّور
+        <lb/>
+
+        أخذه فالتزمه
+      </p>
+
+      <p n="The Foes Leave Frustrated">
+        فلمّا رأت البومة وابن عرس ذلك انصرفا خائبين
+      </p>
+
+      <p n="The Rat Approaches to Cut the Rope">
+        وأخذ الجرذ في قطع حبائل السنّور
+      </p>
+
+      <p n="The Cat Deems the Rat's Efforts Slow">
+        فاستبطأه السنّور وقال
+        <lb/>
+
+        للجرذ ما أراك جادًّا في قطع رباطي فإن كنت حين ظفرت بحاجتك تبدّلت
+        <lb/>
+
+        عمّا كنت عليه وتوانيت في حاجتي
+      </p>
+
+      <p n="The Noble Must Help">
+        فليس هذا للكريم بخلق أن يتوانى في حاجة
+        <lb/>
+
+        صاحبه إذا استمكن من حاجة نفسه
+      </p>
+
+      <p n="The Cat States the Rat's Duty of Reciprocation">
+        وقد كان لك في مودّتي
+        <lb/>
+
+        من عاجل المنفعة والاستنقاذ من الهلكة ما قد رأيت وأنت حقيق
+        <lb/>
+
+        أن تكافئني
+      </p>
+
+      <p n="The Rat Should Forget Enmity">
+        ولا تذكر عداوة ما بيني وبينك فإنّ ما حدث بيننا حقيق
+        <lb/>
+
+        أن ينسيك ذلك
+      </p>
+
+      <p n="Good Deeds Erase Bad Deeds">
+        وأنّ الكريم لا يكون إلّا شكورًا غير حقود تنسيه
+        <lb/>
+
+        الخلّة الواحدة من الإحسان الخلال الكثيرة من الإساة
+      </p>
+
+      <p n="The Punishment of Betrayal Comes Swiftly">
+        وأعجل العقوبة
+        <lb/>
+
+        عقوبة الغدر واليمين الكاذبة ومن إذا تُضرّع إليه وسُئل
+        <lb/>
+
+        العفو لم يعف ولم يصفح
+      </p>
+
+      <p n="The Two Kinds of Friends">
+        قال الجرذ الأصدقاء صديقان طائع
+        <lb/>
+
+        ومضطرّ وكلاهما يلتمس المنافع ويحترس من المضارّ فأمّا الطائع
+        <lb/>
+
+        منهما فيُسترسل إليه ويُوثق به على كلّ حال
+      </p>
+
+      <p n="Forced Friendship Does Not Last">
+        وأمّا المضطرّ فإنّ له
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="175"/>
+
+      <p n="The Rat Weighs His Predicament">
+        وشرار قد تظاهرت عليّ ولا مفزع لي إلّا إلى عقلي وحيلتي فلا يكوننّ
+        <lb/>
+
+        الدهش من شأني ولا يذهبنّ قلبي شعاعًا
+      </p>
+
+      <p n="The Intelligent Always Keeps Alert">
+        فإنّ العاقل لا يتفرّق
+        <lb/>
+
+        عليه رأيه ولا يعزب عنه عقله على حال
+      </p>
+
+      <p n="Intelligence Is Like the Sea">
+        وإنّما عقول ذوي الرأي
+        <lb/>
+
+        كالبحر الذي لا يُدرك غوره
+      </p>
+
+      <p n="Situations Do Not Blind the Intelligent">
+        ولا يبلغ البلاء من ذي الرأي مجهود
+        <lb/>
+
+        عقله فيهلكه ولا للرخاء يبلغ منه مبلغًا ينظره ويشكره
+        <lb/>
+
+        ويعمي عليه أمره
+      </p>
+
+      <p n="The Rat Decides on a Pact with the Cat">
+        ثمّ قال لا أرى حيلة أمثل من التماس صلح السنّور
+        <lb/>
+
+        فإنّ السنّور قد نزل به بلاء ولعلّي أقدر على صلاحه ولعلّه لو قد سمع منّي
+        <lb/>
+
+        ما أكلّمه به من الكلام الصحيح الذي لا خداع فيه أن يفهم عنّي ويطمع
+        <lb/>
+
+        في معونتي ويستلين لذلك بصلحي ولعلّي يكون له ولي في ذلك نجاة
+      </p>
+
+      <p n="The Rat Comes Up to the Cat">
+        ثمّ دنا
+        <lb/>
+
+        منه فقال كيف حالك
+      </p>
+
+      <p n="The Cat Acknowledges Being Trapped">
+        فأجابه السنّور كالذي تهوى في الضنك والضيق
+      </p>
+
+      <p n="The Rat Points Out Their Common Problem">
+        قال الجرذ لا تكذيب لك لعمري لقد كان يسرّني ما ساءك وأرى ما ضُيّق
+        <lb/>
+
+        عليك لي سعة ولكنّي اليوم قد شاركتك في البلاء فلا أرجو لنفسي خلاصًا
+        <lb/>
+
+        إلّا بالأمر الذي أرجو لك به الخلاص فذلك الذي عطّفني عليك
+      </p>
+
+      <p n="The Rat Proves His Sincerity">
+        وستعرف في
+        <lb/>
+
+        مقالتي أن ليس فيها ريب ولا مخادعة فإنّه قد ترى مكان ابن عرس
+        <lb/>
+
+        كامنًا لي والبومة تريد اختطافي وكلّهم لي ولك عدوّ وهما يخافانك
+        <lb/>
+
+        ويهابانك فإن أنت جعلت لي أن تؤمّنّي إن أنا دنوت منك فأنجو
+        <lb/>
+
+        بذلك منهم فإنّي مخلّصك ممّا أنت فيه فاطمئنّ إلى ما ذكرت وثق بي
+      </p>
+
+      <p n="People Fail without Mutual Trust">
+        فإنّه ليس أحد أبعد من الخير من اثنين منزلتهما واحدة وصفتهما
+        <lb/>
+
+        مختلفة أحدهما من لا يثق بأحد والآخر من لا يثق به أحد
+      </p>
+
+      <p n="The Rat Promises Faithfulness">
+        ولك
+        <lb/>
+
+        عندي الوفاء بما جعلت لك من نفسي فاقبل منّي واسترسل
+        <lb/>
+
+        إليّ وعجّل ذلك ولا تؤخّر
+      </p>
+
+      <p n="The Intelligent Does Not Postpone Action">
+        فإنّ العاقل لا يؤخّر عمله
+      </p>
+
+      <p n="The Cat Should Desire Common Rescue">
+        ولتطب نفسك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

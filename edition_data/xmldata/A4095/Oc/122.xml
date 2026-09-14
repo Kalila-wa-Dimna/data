@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="122"/>
+
+      <p n="unassigned">
+        أنّ الرجل ربّما عطّفه على عدوّه الأمر اليسير
+      </p>
+
+      <p n="Mention Old Man Wife And Thief">
+        كالتاجر الذي
+        <lb/>
+
+        عطّف عليه السارق امرأته فأمر له <>
+      </p>
+
+      <p n="King O Requests Old Man Story">
+        يتعمّده قال الملك وكيف
+        <lb/>
+
+        كان ذلك
+      </p>
+
+      <p n="Old Man Has Young Wife">
+        قال الوزير زعموا أنّ تاجرًا مكثرًا وكان
+        <lb/>
+
+        كبير السنّ وكانت امرأته شابّة ذات جمال وكان لها عاشقًا
+      </p>
+
+      <p n="Wife Hates Husband">
+        وكانت له قالية مبغضة لا تمكّنه من نفسها
+      </p>
+
+      <p n="Old Man Undiscouraged">
+        ولا يزيده ذلك إلّا
+        <lb/>
+
+        حبًّا لها
+      </p>
+
+      <p n="Thief Breaks In">
+        ثمّ إنّ سارقًا أتى بيت التاجر ليلة فلمّا دخل البيت
+        <lb/>
+
+        وافق التاجر نائمًا وامرأته مستيقظة فذعرت من السارق
+      </p>
+
+      <p n="Wife Hugs Old Man">
+        ووثبت إلى التاجر فالتزمته فاستيقظ التاجر وقال من أين هذه
+        <lb/>
+
+        النعمة
+      </p>
+
+      <p n="Old Man Notices Thief">
+        فلمّا بصر بالسارق
+      </p>
+
+      <p n="Old Man Rewards Thief">
+        قال أيّها السارق أنت في حلّ ممّا أردت
+        <lb/>
+
+        أخذه من مالي ومتاعي ولك عليّ الفضل بما عطّفت عليّ هذه المرأة
+        <lb/>
+
+        من معانقتي
+      </p>
+
+      <p n="King O Asks Third Owl">
+        ثمّ إنّ الملك سأل الثالث من وزرائه عن رأيه
+        <lb/>
+
+        في الغراب
+      </p>
+
+      <p n="Spy To Be Kept For Counsel">
+        فقال الثالث أرى أن تستبقيه وتُحسن إليه فإنّه خليق
+        <lb/>
+
+        بمناصحتك
+      </p>
+
+      <p n="Turn Foes Against Each Other">
+        وإنّ من إحكام تمكّن الرجل من أعدائه أن يستدخل
+        <lb/>
+
+        منهم أعوانًا على الباقين
+      </p>
+
+      <p n="Dispute Between Foes Is Beneficial">
+        وإنّ ذا العقل يرى ظفرًا حسنًا معاداة
+        <lb/>
+
+        بعض عدوّه بعضًا وأنّ اشتغال بعض العدوّ ببعض واختلافهم
+        <lb/>
+
+        نجاة له
+      </p>
+
+      <p n="Mention Thief Demon Story">
+        كنجاة الناسك عند اختلاف اللصّ والشيطان
+      </p>
+
+      <p n="King Request Thief Demon Story">
+        قال الملك
+        <lb/>
+
+        وكيف كان ذلك
+      </p>
+
+      <p n="Story Thief Demon Cow">
+        قال الوزير زعموا أنّ ناسكًا مرّة
+        <lb/>
+
+        أصاب بقرة حلوبًا فانطلق بها يقودها وتبعه لصّ فحدّث
+        <lb/>
+
+        نفسه بأخذها وتبع اللصّ شيطان في صورة إنسان
+      </p>
+
+      <p n="Thief And Demon Plot">
+        فقال
+        <lb/>
+
+        اللصّ للشيطان من أنت قال أنا شيطان أريد أن أتبع هذا الناسك فإذا
+        <lb/>
+
+        نام خنقته فأنت ماذا قال وأنا أريد أن أتبعه إلى منزله لعلّي أسرق البقرة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

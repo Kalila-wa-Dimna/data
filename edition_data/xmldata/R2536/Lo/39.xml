@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="39"/>
+
+      <p n="Burzoy Explains the Allegory">
+        وشُبّهت الحيّات بالأخلاط الأربع التي هي تعمد الإنسان ومتى يهيج
+        <lb/>
+
+        شيئًا منها إنّما هي كحقّة الأفاعي أو السمّ المميت وشُبّهت الغصنين بالحياة
+        <lb/>
+
+        وشبّهت الجرذين بالليل والنهار الذين هما في قرض الأيّام دائبين لا يقرّان
+        <lb/>
+
+        وشبّهت التنّين بالمصير الذي لا بدّ منه وشُبّهت العسل بهذه الحلاوة
+        <lb/>
+
+        القليلة التي يرى الإنسان ويشمّ ويطعم ويلبس فتشغله عن نفسه
+        <lb/>
+
+        وتلهيه عن أمره وتصدّه عن سبيل نجاحه والاحتيال لخلاصه
+      </p>
+
+      <p n="Burzoy‘s Contentment and Hope for Future Guidance">
+        فصار
+        <lb/>
+
+        أمري إلى الرضا بالنسك وإصلاح ما استطعت من شأني كي أصادف
+        <lb/>
+
+        فيما أمامي روحًا دائمًا بخلود لا يبلى وأكون قد أحرزت حظّي وأخذت
+        <lb/>
+
+        بالثقة لنفسي قبل حلولي بي رمي والندم على ما فرّطت في أمري وأمسي
+        <lb/>
+
+        فأقمت
+      </p>
+
+      <p n="Burzoy Returns from India with Books inc. KD">
+        على هذا الحال -- وانصرفت عن الهند إلى بلادي وانتسخت
+        <lb/>
+
+        منها كتبًا كثيرة كان منها هذا الكتاب
+        <lb/>
+
+        وهو يُدعى كليلة ودمنة
+      </p>
+
+      <p n="Chapter Title">
+        باب الأسد والثور
+      </p>
+
+      <p n="King's Request for a Parable">
+        قال ديسلم الملك ليندباذ الفيلسوف اضرب لي مثل الرجلين المتحابّين
+        <lb/>
+
+        يقطع بينهما الخؤون الكذوب ويجعلهما على الحدّ في العداوة
+      </p>
+
+      <p n="Philosopher's Response and Story Introduction">
+        قال الفيلسوف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

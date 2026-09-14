@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="38"/>
+
+      <p n="Allegory of Man in Well">
+        إلى الغصنين فإذا في أصلها جرذان أبيض وأسود يقرضان الغصنين
+        <lb/>
+
+        دائبان لا يفتران
+      </p>
+
+      <p n="Man is Distracted by Honey">
+        فبينا هو في الحيلة والاهتمام لنفسه إذا نظر
+        <lb/>
+
+        فإذا قريب منه كوّة نحل فيها شيء من عسل فعظم منه وشغله عن
+        <lb/>
+
+        الاهتمام بنفسه ونسي أنّ رجلاه على أربع حيّات لا يدري متى
+        <lb/>
+
+        يهيج به إحداهنّ فتهلكه ولم يذكر الجرذين الدائبين في قرض
+        <lb/>
+
+        الغصنين وأنّهما إذا قطعاه وقع في لهوات التنّين فلم يزل لاهيًا
+        <lb/>
+
+        غافلًا حتّى هلك
+      </p>
+
+      <p n="Burzoy Explains the Allegory">
+        فشُبّهن البئر بالدنيا المملوءة آفات وشرورًا ومخاوف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

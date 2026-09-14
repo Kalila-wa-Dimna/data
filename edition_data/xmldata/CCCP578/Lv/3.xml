@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="3"/>
+
+      <p n="unassigned">
+        بسم الله الرحمن الرحيم الله الموفّق للصواب
+      </p>
+
+      <p n="Hamdala For Gods Wisdom">
+        الحمد لله الذي بيده مفاتيح غيبه وإليها منتهى كلّ علم وغاية رجاء الدّال
+        <lb/>
+
+        على الخير المسبّب كلّ فضيلة الملهم عباده كلّ ما يقربهم من نوافل الخيرات
+        <lb/>
+
+        ونوامي البركات ممّا ألهم عباده ودلّهم عليه من العلم وتحوّز الحكمة
+      </p>
+
+      <p n="God Commands Gratitude">
+        إذ أمرهم
+        <lb/>
+
+        بالشكر له استوجبوا بذلك المزيد منه وليـ <>
+        <lb/>
+
+        وليفهموا عن الله تعالى أمره ووصيّته وليسرعوا فيما يرضيه عنهم ويتجنبوا <>
+        <lb/>
+
+        تبارك الله ربّ العالمين
+      </p>
+
+      <p n="God Created Cause For Everything">
+        وقد جعل الله لكلّ سبب علّة ولكلّ علّة مجرى
+        <lb/>
+
+        يجريه الله على يدي من يشاء من عباده ويقدّره في دولته وأيّام عمره
+      </p>
+
+      <p n="God Inspired Books Import">
+        فكان من علم انتساخ هذا الكتاب ونقله من أرض الهند إلى مملكة فارس <>
+        <lb/>
+
+        ألهمه الله تعالى كسرى أنوشروان ابن قباد البعثة ونسخه ونقله
+      </p>
+
+      <p n="Kisra Wisest King">
+        ولأنّه كان أفضل ملوك فارس حكمة ورأيًا وأبحثهم عن مكان العلم
+        <lb/>
+
+        والأدب وأحرصهم على الخير وما يقرّبهم إلى الله في معاده وأريقهم
+        <lb/>
+
+        إلى <> الحكمة من طالبي الأدب وباحثي العلم في معرفة الخير
+        <lb/>
+
+        والسـ <> والصديق
+      </p>
+
+      <p n="God Made Kisra Superior">
+        والعدوّ ولم يكن يعرف ذلك إلّا بنور الله
+        <lb/>
+
+        تعالى وسياسة عبيده وبلاده لإقامة رعيته وأموره
+      </p>
+
+      <p n="Kisra Surpasses Prior Kings">
+        فكسرى بن قباد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

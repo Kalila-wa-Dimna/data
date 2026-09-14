@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="70"/>
+
+      <p n="Lion Invites Ox to Stay">
+        الزمني فإنّي مكرمك ومحسن إليك فدعا شتربة للأسد وأثنى عليه
+      </p>
+
+      <p n="Lion's Growing Trust in Ox">
+        وإنّ
+        <lb/>
+
+        الأسد افتر شتربة وألطفه وأكرمه وأنس به ورأى منه رأيًا وعقلًا
+      </p>
+
+      <p n="Lion's Increasing Favor Towards Ox">
+        فائتمنه
+        <lb/>
+
+        على جميع أسراره وشاوره في أمره لا تزده الأيّام به إلّا إعجابًا ورغبة فيه
+        <lb/>
+
+        وتقريبًا له حتّى صار أحظى أصحابه عنده منزلة
+      </p>
+
+      <p n="Dimna's Jealousy of Ox's Favor">
+        فلمّا رأى دمنة أنّ
+        <lb/>
+
+        الأسد قد استبدل شتربة دونه ودون أصحابه وأنّه صاحب رأيه
+        <lb/>
+
+        وخلواته وأنسه ولهوه حسد شتربة حسدًا شديدًا وبلغ منه كلّ غيظ
+      </p>
+
+      <p n="Dimna Complains to Kalila">
+        فشكا
+        <lb/>
+
+        ذلك إلى أخيه كليلة
+      </p>
+
+      <p n="Dimna's Lament">
+        وقال ألا تعجب من عجز رأيي وصنيعي بنفسي ونظري فيما
+        <lb/>
+
+        ينفع الأسد وإغفالي نفع نفسي وضرّها حيث جلبت ثورًا غلبني على منزلتي **
+      </p>
+
+      <p n="Fourth Subtale of Ascetic and Thief">
+        فقال كليلة زعموا أنّ ناسكًا أصاب من بعض الملوك كسوة فاخرة فبصر به سارق
+        <lb/>
+
+        من السرّاق وبالثياب فرغب فيها
+      </p>
+
+      <p n="The Thief Deceives the Ascetic">
+        فأتى الناسك فقال له إنّي أريد أصحبك وأتعلّم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

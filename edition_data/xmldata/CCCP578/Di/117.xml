@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="117"/>
+
+      <p n="unassigned">
+        تعلميني من هو فيكون أشفى للنفس
+      </p>
+
+      <p n="The Mother Asks the Lion to Punish Dimna">
+        فقالت أمّ الأسد كنتُ عند ذلك
+        <lb/>
+
+        فعاقب هذا الفاجر دمنة عقوبة مثله
+      </p>
+
+      <p n="The Lion Asks Again About the Source">
+        قال الأسد لا عليك أن تخبريني
+        <lb/>
+
+        به فإنّه لا مضرّة عليك ولا منفعة لك في كتمانه
+      </p>
+
+      <p n="The Mother Deems That Divulging Will Harm Her Credibility">
+        فقالت أمّ الأسد مضرّة ذلك
+        <lb/>
+
+        ومنقصته عليّ سقوطي من عين من قد استودعني سرّه ائتمنني عليه
+      </p>
+
+      <p n="Mother Is Afraid to Lose People's Trust">
+        ومتى أفعل
+        <lb/>
+
+        ذلك لا يثق بي أحدٌ ولا يطمئنّ إلىّ
+      </p>
+
+      <p n="The Lion Realizes His Mother Will Keep the Source Secret">
+        قال فلمّا سمع الأسد ذلك منها علم
+        <lb/>
+
+        أنّها غير محدثته باسم من أخبرها
+      </p>
+
+      <p n="The Lion Assembles the Court and Summons Dimna">
+        ثمّ أرسل إلى دمنة فأتى دمنة ودخل على الأسد
+        <lb/>
+
+        وجنده حوله
+      </p>
+
+      <p n="The Lion Lowers His Head in Shame">
+        فلمّا رأى دمنة نكّس الأسد رأسه مستحيًا ممّا ركب من قتل
+        <lb/>
+
+        شتربه
+      </p>
+
+      <p n="Dimna Inquires About the Lion's Dejection">
+        فلمّا رأى ذلك منه قال لبعض من يليه ما للأسد مكتئبًا حزينًا
+        <lb/>
+
+        مهمومًا هل حدث أمر جمعكم له
+      </p>
+
+      <p n="The Mother Declares Dimna Responsible">
+        فقالت أمّ الأسد إنّ ما ترى من الملك
+        <lb/>
+
+        إنّما هو لتركك إلى اليوم حيًّا بعد صنيعك به ما صنعت وحملك
+        <lb/>
+
+        إيّاه بنميمتك وفجورك على قتل شتربة
+      </p>
+
+      <p n="Good People Suffer Misfortune Fastest">
+        ** في طلب الخير والبلاء إليه أسرع منه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

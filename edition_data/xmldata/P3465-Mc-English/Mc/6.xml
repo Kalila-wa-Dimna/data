@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="6"/>
+
+      <p n="unassigned">
+        with the best for the service you have done me Do come to me and don’t sever my brotherly ties;
+      </p>
+
+      <p n="If One Gives Up a Friend One Loses Out">
+        for he who takes a friend,
+        <lb/>
+
+        and cuts off any brotherly connections and loses his friendship, will be prevented from reaping the fruits of his brotherhood;
+      </p>
+
+      <p n="The Cat Suggests a Reward">
+        and know that what I owe you will be
+        <lb/>
+
+        bestowed upon you.’”
+      </p>
+
+      <p n="The Rat Distinguishes Hidden from Overt Enmity">
+        “The rat cried back ‘Many an open friendship is deep down a hidden enmity, which is
+        <lb/>
+
+        more harmful than open enmity,
+      </p>
+
+      <p n="Riding an Elephant's Tusk">
+        and its outcome is similar to that of a man who rides the tusk of a rutting elephant
+        <lb/>
+
+        then falls asleep, topples over, and perishes.
+      </p>
+
+      <p n="An Enemy Is Befriended in Times of Need">
+        Now the friend is called a friend precisely for the benefits one hopes
+        <lb/>
+
+        to gain from him, and the enemy is called an enemy for the damage one fears from him; so when the sensible man hopes
+        <lb/>
+
+        to benefit from the enemy, he shows him friendship. Don’t
+      </p>
+
+      <p n="Young Cattle Only Nurse for a While">
+        you see how the offspring of animals follow their mothers hoping for their milk, but
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

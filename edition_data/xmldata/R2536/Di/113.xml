@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="113"/>
+
+      <p n="Dimna Admits His Guilt">
+        حمّلوني عليه
+      </p>
+
+      <p n="The Leopard Confides in the Lion's Mother">
+        فلمّا سمع النمر من كلامهما انصرف إلى أمّ الأسد
+        <lb/>
+
+        فدخل عليها في بيتها فحدّثها بعد أن أخذ عليها العهود والمواثيق
+        <lb/>
+
+        ألّا تفشيه عنه إلى أحدٍ
+      </p>
+
+      <p n="The Mother Goes to the Lion and Finds Him Sad">
+        فانطلقت أمّ الأسد حتّى أصبحت حتّى دخلت
+        <lb/>
+
+        على ابنها فرأته كئيبًا حزينًا فلمّا عاينـت ذلك منه عرفت أنّ
+        <lb/>
+
+        ذلك ليس إلّا لقتل شتربة
+      </p>
+
+      <p n="The Mother Says Grief is Weakening">
+        فقالت له إنّ الهمّ والحزن لا يردّان
+        <lb/>
+
+        عليك شيئًا وهما يُنحلان الجسم ويفسدانه ويذهبان العقل
+        <lb/>
+
+        ويضعفان القوّة
+      </p>
+
+      <p n="The Mother Criticizes Lion's Grieving">
+        فأعلمنى ما شأنك فإن كان ممّا ينبغي أن تحزن عليه
+        <lb/>
+
+        فليس لأحدٍ أن يخلو من ذلك وإن كان إنّما هو لقتلك شتربة
+        <lb/>
+
+        فقد تبيّن لنا ولك أنّك ركبت ذلك منه ظلمًا عن غير جرمٍ ولا
+        <lb/>
+
+        ذنبٍ ولا مخالفةٍ ولو كنت حين ما بلغك عنه ملكت غيظك
+        <lb/>
+
+        وفكّرت في أمره وفتّشت وقست بما له فى نفسك دليلًا
+        <lb/>
+
+        ومعتبرًا
+      </p>
+
+      <p n="Love and Hate Are Reciprocal">
+        فإنّه يقال إنّ امرءًا لن يودّه أحد ولن يبغضه إلّا
+        <lb/>
+
+        وجد له في نفسه مثل ذلك
+      </p>
+
+      <p n="The Mother Asks About the Lion's Feelings Toward the Ox">
+        فاعلمني كيف كانت نفسك
+        <lb/>
+
+        له قبل قتله وبعده
+      </p>
+
+      <p n="The Lion Reflects about the Ox">
+        فقال الأسد لأمّه لقد أكثرت التفكّر
+        <lb/>
+
+        في أمر الثور وحرصت أن أقف على ذنبٍ أو جرمٍ أقوّى به
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

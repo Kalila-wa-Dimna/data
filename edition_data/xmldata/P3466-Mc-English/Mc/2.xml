@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="2"/>
+
+      <p n="The Philosopher Responds that Emotions Change">
+        The Philosopher said: “Not all instances of enmity, closeness, amity, and hatred endure and become firm.
+        <lb/>
+
+        Much affection might turn into hatred, and much hatred does turn into into affection,
+        <lb/>
+
+        at any change of motives and upon the arrival of new of circumstances;
+      </p>
+
+      <p n="The Intelligent Adapts to Situations">
+        and so a man of reason creates for every such instance a judgment and prepares
+        <lb/>
+
+        resources for that accordingly, when he covets that which the enemy has to offer after being disappointed at what the friend couldn’t offer].
+        <lb/>
+
+        A man
+      </p>
+
+      <p n="Enmity Must Not Stop One from Requesting Help">
+        of reason is not hindered by an enmity in his soul toward his enemy from approaching him, soliciting
+        <lb/>
+
+        aid, if he desires him to help avert a scary matter or draw benefit; so he applies judgment in bringing
+        <lb/>
+
+        connection and reconciliation.
+      </p>
+
+      <p n="The Resolute Attains His Need">
+        He who employs his judgment on this and acts with diligence will thereby attain
+        <lb/>
+
+        his need and emerge from his predicament.
+      </p>
+
+      <p n="The Parable of the Cat and Rat Is Invoked">
+        An example of this isthe parable of
+        <lb/>
+
+        the rat and the cat, who put their disagreements aside when they fell into trouble and difficulty, and wherewith
+        <lb/>
+
+        came deliverance for them both from what they had fallen into.”
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

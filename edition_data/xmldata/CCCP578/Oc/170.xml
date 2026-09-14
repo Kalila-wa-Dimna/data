@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="170"/>
+
+      <p n="unassigned">
+        مقالتكما وفهمتها وأنا أنصحكما وادًّا لكما أن تطلبا الحق فإنّ طالب الحقّ وإن
+        <lb/>
+
+        قضي عليه كان هو المفلح المسعود وطالب الباطل مخصوم وإن قضى له فإنّ أحدًا لا
+        <lb/>
+
+        يستطيع من الدنيا أن يذهب بشيء منها ولا له فيها صديق ولا مال إلاّ أن يقدّم
+        <lb/>
+
+        عملًا صالحًا فينبغي للعاقل أن يجعل سعيه في طلب الخير وعمل التقوى وقد قالت
+        <lb/>
+
+        العلماء إنّ الرجل المتعبّد يرى النساء عليه حرامًا إلاّ امرأته كحرمة أمّه <>
+        <lb/>
+
+        غيره بمنزلة الأفاعي ومنزلة الناس عنده فما يحبّ لهم من الخير ما يحب لنفسه
+        <lb/>
+
+        ويكره لهم من الشر ما يكره لنفسه فلم يزل يقصّ عليهما حتّى اطمأنّا فلمّا أن سمع الصقر
+        <lb/>
+
+        والأرنب ذلك منه أمنا فلمّا امكنته الفرصة وثب عليهما فقتلهما
+        <lb/>
+
+        وأكلهما وكلّ ذلك معين بعيني
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

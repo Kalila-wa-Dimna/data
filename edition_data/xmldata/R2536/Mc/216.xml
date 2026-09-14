@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="216"/>
+
+      <p n="The Rat Should Forget Enmity">
+        على حقد
+      </p>
+
+      <p n="Good Deeds Erase Bad Deeds">
+        فإنّ الصالحين ليسوا بذوي حقد ولكنّهم أهل الشكر
+        <lb/>
+
+        والحسنة الواحدة تمحو عنهم سيّئات كثيرة
+      </p>
+
+      <p n="The Two Kinds of Friends">
+        قال الجرذ
+        <lb/>
+
+        إنّ الأخلّاء خليلان فأحدهما الخليل المصافي والآخر المؤاخي صاحبه
+        <lb/>
+
+        على حال الاضطرار إلى ذلك فالخليل المصافي ينبغي له أن يؤثر
+        <lb/>
+
+        خليله على نفسه وماله وأهله
+      </p>
+
+      <p n="Forced Friendship Does Not Last">
+        وأمّا الخليل الذي يضطرّه إلى مودّته
+        <lb/>
+
+        فربّما تمّت وتمّت العداوة والمودّة بينهما وكثيرًا ما تنفسخ فلا تتمّ ولا
+        <lb/>
+
+        تنمو
+      </p>
+
+      <p n="The Intelligent Protects Himself">
+        ولكن ينبغي للعاقل أن يحفظ نفسه يكون صلحه كالذي يأكل
+        <lb/>
+
+        فإنّ الذي يصالح العدوّ ويثق به ويعمل عمله ولا يحفظ نفسه
+      </p>
+
+      <p n="Trusting a Foe Is Like Eating Bad Food">
+        يكون
+        <lb/>
+
+        صلحه كالذي يأكل ما يتبع فيه هوى نفسه فتضعف عن هضمه معدته
+      </p>
+
+      <p n="The Rat Acknowledges His Remaining Obligation">
+        وقد خلّصت عملي وبقي ما عليّ
+      </p>
+
+      <p n="Everything Has Its Time">
+        ولكلّ عمل حين ينبغي أن يُعمل فيه
+      </p>
+
+      <p n="Bad Timing Brings Failure">
+        ومن لم يعمل العمل في حينه لم ينتفع بثمرة عمله
+      </p>
+
+      <p n="The Rat Explains Not Cutting the Last Rope">
+        وأنا قاطع وثاقك
+        <lb/>
+
+        وتارك سلكًا واحدًا أرتهنك به لتقطعه أنت حتّى لا تستطيع
+        <lb/>
+
+        إدراكي إذا نجوت من الوثاق
+      </p>
+
+      <p n="The Huntsman Approaches">
+        فلمّا أصبحا وجاء الصيّاد إلى ذلك المكان
+      </p>
+
+      <p n="The Cat Expects to Die">
+        استقلّ السنّور
+      </p>
+
+      <p n="The Cat Breaks from the Last Rope">
+        فجذب السلك وهو لا يطمع في قطعه فانقطع السلك
+      </p>
+
+      <p n="The Cat and the Rat Escape">
+        ونجوا جميعًا فصعد السنّور الشجرة ودخل الجرذ في جحره وانطلق الصيّاد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

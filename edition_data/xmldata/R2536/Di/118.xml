@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="118"/>
+
+      <p n="Dimna Claims only Investigation Can Save Him">
+        يعلم سرائر العباد وخفيّ ضمائرهم ولعليّ لا أكون أضرّ بذلك منه
+      </p>
+
+      <p n="Doubt and Certainty Must Not Be Confused">
+        وقد
+        <lb/>
+
+        يقال إنّه من عمل بالتشبيه ولا يتثبّت
+      </p>
+
+      <p n="Dimna's First Subtale of the Woman Who Mistook Her Servant for Her Lover">
+        يكون أمره كالمرأة التي شبهّت
+        <lb/>
+
+        عبدها بصديقها حتّى فضحها
+      </p>
+
+      <p n="Lion's Question for Woman's Tale">
+        قال الأسد وسائر الجند كيف كان
+        <lb/>
+
+        ذلك المثل أخبرْنا به
+      </p>
+
+      <p n="A Merchant's Wife Had a Lover">
+        قال دمنة زعموا أنّ مدينة تدعى كشمير
+        <lb/>
+
+        بأرض تسمّى بارود وكان بها تاجر مكثر يقال له خمر وكانت له
+        <lb/>
+
+        امرأة ذات جمال فائق وكان لها جارًا مصوّر وكان صديقًا للمرأة
+      </p>
+
+      <p n="Woman Asks Lover to Create a Sign">
+        فقالت له يومًا هل تقدر على أن تصوّر شيئًا أعرفك به إذا أنت
+        <lb/>
+
+        أتيتني بالليل فخرجت إليك من غير أن تصوّت بي فيرتاب بنا
+        <lb/>
+
+        أحد ويسمع صوتك
+      </p>
+
+      <p n="Painter Suggests Black-and-White Coat to Woman">
+        فقال لها صديقها نعم أعمل ملاءة بسواد بياضها
+        <lb/>
+
+        كضوء القمر وسوادها كالقار فإذا نظرت إليها فاخرجي فإنّها علامة
+        <lb/>
+
+        بيني وبينك فأعجبها ذلك من صفته
+      </p>
+
+      <p n="The Woman's Servant Hears About Coat">
+        وسمعه عبد لها فحفظه لها
+        <lb/>
+
+        وأسرّ ذلك في نفسه
+      </p>
+
+      <p n="Woman's Servant Borrows Coat In Painter's Absence">
+        وكان صديقها يأتيها بتلك العلامة فتراه
+        <lb/>
+
+        فتخرج إليه فمكثا على ذلك زمانًا فلمّا كان بعد أيامٍ انطلق صديقها
+        <lb/>
+
+        إلى دار الملك ليعمل له بعض ما اشتهاه فذهب عبدها ذلك إلى جارية
+        <lb/>
+
+        المصوّر وكان صديقها وكانت له محبّةً فاستعارها تلك الملاءة فأعطته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

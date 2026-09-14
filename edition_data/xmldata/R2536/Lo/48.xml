@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="48"/>
+
+      <p n="Dimna will Make the Lion See His Benefit">
+        قال دمنة لو قد وصلت إلى الأسد ودنوت منه وعرفت أخلاقه
+        <lb/>
+
+        لطقت في متابعته وقلّة الخلاف عليه وإذا رأيت أمرًا صوابًا زيّنته له
+        <lb/>
+
+        ومهّلته عليه حتّى يعمل به ويزداد سرورًا
+      </p>
+
+      <p n="Dimna will Make the Lion See His Harm">
+        وإذا همّ بأمر أخاف عليه
+        <lb/>
+
+        ضرّه بصّرته بما فيه بأرفق ما أجد إلى ذلك سبيلًا
+      </p>
+
+      <p n="Dimna's Hope to Impress the Lion">
+        فأنا أرجو أن
+        <lb/>
+
+        يرى منّي في ذلك أفضل مما يرى من غيري
+      </p>
+
+      <p n="Clever Speech Can Twist the Truth">
+        فإنّ الرّجل الأريب الداهي
+        <lb/>
+
+        الرقيق لو شاء يبطل الحقّ ويحقّ الباطل أحيانًا لفعل
+      </p>
+
+      <p n="Analogy of Skilled Painter's Illusions">
+        كالمصوّر الماهر
+        <lb/>
+
+        الذي يصوّر في الحائط تماثيل فنراها كأنّها داخلة فيه ويصوّر أخرى
+        <lb/>
+
+        كأنّها خارجة من الجدار
+      </p>
+
+      <p n="Dimna's Expectation of the Lion's Response">
+        فإذا عرف ذهني وكمال ما عندي كان هو الذي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

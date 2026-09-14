@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="1"/>
+
+      <p n="unassigned">
+        a little; should he expel the second, we, too, should lessen the corruption further; and should
+        <lb/>
+
+        he expel the third, we shall leave that house for another, which we will treat the same way we treated
+        <lb/>
+
+        the first house. We shall make the round, going from one house to the next, in other words the whole city,
+        <lb/>
+
+        until the people conclude that the great harm which is affecting them
+        <lb/>
+
+        arises from the cats. If they conclude this, they will not restrict themselves to killing only the cats
+        <lb/>
+
+        that are in the houses. The King and the rest of rats did what
+        <lb/>
+
+        the vizier had advised. Before six months passed, all the cats that were in the city
+        <lb/>
+
+        and its vicinities had perished. That generation of people went by and after them another group grew up hating
+        <lb/>
+
+        cats: every time they discovered some corruption caused by mice, they said,
+        <lb/>
+
+        ‘Look Could a cat have gone through the city?’ Also, whenever it happened
+        <lb/>
+
+        that people or animals got inflicted by a disease, they said, ‘It almost seems as if some cat passed through the city.’
+        <lb/>
+
+        In this way that the rats rid themselves of the horror of the cats and were at peace from them <> If this weak and lowly animal could conceive of such trickery, so as to
+        <lb/>
+
+        get rid of his enemy and removing harm from himself, then hope must not be lost
+        <lb/>
+
+        in man, who is the smartest, most perfect, and wisest living being, can obtain from his enemy
+        <lb/>
+
+        what he wants using his ingenuity and good planning.
+      </p>
+
+      <p n="Chapter Title">
+        The Chapter of the Cat and Rat
+      </p>
+
+      <p n="The King Asks about Escaping Enemies">
+        “I have heard the parable you presented,” said the King to the Philosopher.
+        <lb/>
+
+        “Present to me now, if you will, the parable of a man whose enemies are many and surround him on every
+        <lb/>
+
+        side; who is on the brink of perishing; who sought a way out by partnering with one of the enemies, reconciling with him;
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

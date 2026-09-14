@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="16"/>
+
+      <p n="Kisra Fears Fate">
+        ثمّ تخوّف معاجلة المقادير أن ينغّصه فرحه بما استفاد له برزويه
+      </p>
+
+      <p n="Kisra Praises Burzoys Achievement">
+        <>
+        <lb/>
+
+        بالمدح له
+      </p>
+
+      <p n="Burzoy Confirmed His Excellence">
+        وأنّه قد فضّله في المملكة قبل خروجه إلى الهند وأنّه قد أُسرّ بنيل
+        <lb/>
+
+        ما أصاب من الكتب العظيم خطرها التي لم يكونوا يرجونها
+      </p>
+
+      <p n="Kisra And Subjects Thankful To God">
+        وأنّهم قد شكروا
+        <lb/>
+
+        الله عزّ وجلّ فيما أعانهم عليه
+      </p>
+
+      <p n="Kisra Calls Burzoy Back">
+        وأنّ الملك أنوشروان كتب إلى برزويه يأمره أن
+        <lb/>
+
+        يعجّل القدوم ما استطاع ويبادر الأجل قبل فوات الأمل فإنّه من ذلك على وجلّ
+        <lb/>
+
+        وأنّه شديد الانتظار لقدومه حتى يقدم وأن ينظر فيما أصاب من تلك الكتب
+        <lb/>
+
+        ويستعمل فيها عقله
+      </p>
+
+      <p n="God Loves The Intelligent">
+        وأنّ الله يحبّ من عباده العقلاء
+      </p>
+
+      <p n="Experience Makes Reason Complete">
+        وإنّما يتمّ العقل بالتجربة
+        <lb/>
+
+        ويحفظه ويجمعه الصبر والعزم والاجتهاد
+      </p>
+
+      <p n="Kisra Dispatches Letter">
+        ثمّ إنّه ختم الكتاب وبعثه
+        <lb/>
+
+        مع بريد
+      </p>
+
+      <p n="Messanger To Be Vigilant">
+        وأمره أن يكون سيره ليلًا ويكمن نهارًا فرقًا أن يُفطن به فيُقرأ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

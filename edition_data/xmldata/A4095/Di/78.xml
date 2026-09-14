@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="78"/>
+
+      <p n="Dimna Would Die for Lion">
+        أعلم هواه في تلفها جُدت بها له
+      </p>
+
+      <p n="First Speaker Accuses Dimna of Self-Interest">
+        فقال بعض جلساء الملك لم
+        <lb/>
+
+        تنطق بهذا لحبّ الملك ولا لكرامته عليك ولكن ذلك
+        <lb/>
+
+        للدفع عن نفسك ولطلب الخلاص من الورطة التي قد لزمتك والتماس
+        <lb/>
+
+        العذر ممّا وقعت فيه
+      </p>
+
+      <p n="Dimna Claims Right to Self-Defense">
+        فأقبل عليه دمنة فقال إنّي إن كنت
+        <lb/>
+
+        كما ذكرت فلست أجدني مخصومًا ولا ملامًا على دفع البلاء عن
+        <lb/>
+
+        نفسي ما استطعت والتماس البراءة لها وجرّ العافية إليها ولا
+        <lb/>
+
+        أجد أقرب إلى الإنسان من نفسه ولا أولى بنصحها وإظهار عذرها
+        <lb/>
+
+        منه
+      </p>
+
+      <p n="Dimna Insults the First Speaker">
+        فأمّا أنت فلك الويل بما أظهرت من ضعف عهدك
+        <lb/>
+
+        وودّك لنفسك وسوء حالها عندك وإنّك عدوّها فمَن دونها
+        <lb/>
+
+        أولى
+      </p>
+
+      <p n="Who Does Not Protect Himself Is Useless to Others">
+        وقد قالت العلماء إنّ المستهجن لنفسه المبغض لها بغيرها
+        <lb/>
+
+        أشنأ وأقطع ولمن سواها أغشّ وأرفض
+      </p>
+
+      <p n="Dimna Calls First Speaker Self-Hating">
+        وما أنزّه الملك عن
+        <lb/>
+
+        صحبتك بل أجدني منزّهًا للبهائم عن أخلاقك مكرّمًا لها
+        <lb/>
+
+        عن خلطتك
+      </p>
+
+      <p n="First Speaker Leaves Dejected/Is Silenced">
+        فلمّا سمع ذلك من دمنة لم يُحِرْ جوابًا
+      </p>
+
+      <p n="The Mother Is Amazed by Dimna's Verbosity">
+        فقالت أمّ
+        <lb/>
+
+        الأسد إنّ من العجب انطلاق لسانك بالقول مُجيبًا لمن تكلّم
+        <lb/>
+
+        وقد كان منك الذي كان
+      </p>
+
+      <p n="Dimna Calls the Mother Biased">
+        فقال دمنة فعلامَ تنظرين
+        <lb/>
+
+        بعينٍ واحدةٍ وتسمعين بأذنٍ واحدةٍ ولذلك شقي جدّي مع أنّي أرى كلّ
+        <lb/>
+
+        شيءٍ تغيّر وتنكّر فليس أحدًا ينطق بحقٍّ ولا يتكلّم إلّا بالهوى
+      </p>
+
+      <p n="Dimna Finds Lion's Lenience Makes Courtiers Lie">
+        ومن
+        <lb/>
+
+        بباب الملك لثقتهم بلينه وطمأنينتهم إلى كرمه لا يتقّون ذلك
+        <lb/>
+
+        فيما وافق الحقّ أو خالفه لأنّه لا يغيّر عليهم ولا يتدههم ولا يزجرهم
+      </p>
+
+      <p n="The Mother Chastises Dimna's Duplicity">
+        فقالت أمّ الأسد انظروا إلى هذا الفاجر الذي يركب الأمر
+        <lb/>
+
+        العظيم ثمّ هو يأخذ بأعين الناس ليُبطله ويُبرّئ نفسه منه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="131"/>
+
+      <p n="If the Physique Makes People Traitors, Dimna Is Innocent and Excused">
+        جنجن في الإثم فعملت به ما عملت ففي ذلك براءة لي وعذر
+      </p>
+
+      <p n="Dimna's Third Subtale of Plower Who Told His Wife to Cover Herself First">
+        ولكن مثلك مثل رجل قال لامرأته
+        <lb/>
+
+        استري عورتك وبعد ذلك انظري إلى عورة غيرك
+      </p>
+
+      <p n="Prominent Courtier Requests Tale">
+        قال سيّد الخنازير وكيف كان
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="A Man and His Two Wives Become War Captives">
+        قال دمنة زعموا أنّه كان مدينة من بعض المدن غار عليها العدوّ فقتل وسبى فأصاب
+        <lb/>
+
+        رجل منهم في نصيبه من السبي رجل حرّاث وامرأتين له
+      </p>
+
+      <p n="One Wife Blames the Other for Being Naked">
+        فانطلق ذات يومٍ الحرّاث يحتطب
+        <lb/>
+
+        ومعه الامرأتان عاريتان فاصابت أحدهما خرقة بالية فأخذتها وغطت بها عورتها
+        <lb/>
+
+        فقالت الأخرى لزوجها انظر إلى هذه الفاعلة التي تمشي عريانة
+      </p>
+
+      <p n="The Man/One Wife Tells Other Wife to Cover Herself First/Mind Her Own Nakedness">
+        قال لها ويلك جسمك كلّه عاري
+        <lb/>
+
+        وأنت تعيّري غيرك فاستري عورتك ثمّ انظري في عورة غيرك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465-Mc-English</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="1"/>
+
+      <p n="unassigned">
+        in his business, but goes about his needs with utter haste.
+        <lb/>
+
+        Here ends the chapter of the Ascetic and the Weasel.
+      </p>
+
+      <p n="Chapter Title">
+        The Chapter of the Cat and Rat
+      </p>
+
+      <p n="The King Asks about Escaping Enemies">
+        “I have heard this parable,” said King Dabīshalm to the Philosopher Baydabā. “Present to me now a parable about a man
+        <lb/>
+
+        whose enemies were many and surrounded him on every side, so that he was on their account on the brink of perishing; from whom he, therefore, sought safety
+        <lb/>
+
+        and a way out by partnering with one of the enemies, reconciling with him; who was thus saved from his fear and felt secure;
+        <lb/>
+
+        and who then kept his promise to the one enemy whom he had reconciled
+        <lb/>
+
+        with.”
+      </p>
+
+      <p n="The Philosopher Responds that Emotions Change">
+        The Philosopher said: “Amity and enmity do not sustain the same state forever: amity might
+        <lb/>
+
+        become enmity and enmity might transform into amity. This entails circumstances, causes, and experiences;
+      </p>
+
+      <p n="The Intelligent Adapts to Situations">
+        and so a man of reason creates for whatever happens a new judgment: for that which comes from the enemy, he uses boldness;
+        <lb/>
+
+        and for that which comes from friends, he fosters intimacy.
+      </p>
+
+      <p n="Enmity Must Not Stop One from Requesting Help">
+        Enmity does not hinder a man of reason from <> someone who had shown him hostility to seek his aid,
+        <lb/>
+
+        if he desires him to avert a scary matter or attract a desired thing;
+      </p>
+
+      <p n="The Resolute Attains His Need">
+        for he who acts diligently with regards to that will attain his need.
+      </p>
+
+      <p n="The Parable of the Cat and Rat Is Invoked">
+        An example of this is the parable of the cat and the rat,
+        <lb/>
+
+        when they fell into trouble, yet were both saved, upon reconciling
+        <lb/>
+
+        with one another, from dire difficulty.”
+      </p>
+
+      <p n="The King Requests the Full Parable">
+        “And how was that?” said the King.
+      </p>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        “The claim goes,” said Baydhabā, “that at the root of a great tree was the den of a cat called Rūmī and close by
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

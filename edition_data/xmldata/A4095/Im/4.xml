@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="4"/>
+
+      <p n="Acquired Knowledge Manifests in Adulthood">
+        وما وعاه في نفسه وهو لا يدري ما هو عرف أنّه قد ظفر من ذلك
+        <lb/>
+
+        بكنوز عظام
+      </p>
+
+      <p n="Bequeathed Treasure Suffices">
+        فكان كالرجل يدرك فيجد أباه قد كنز له من الذهب
+        <lb/>
+
+        والفضّة واعتقد له ما استغنى به عن استقبال السعي والطلب
+      </p>
+
+      <p n="Knowledge Has Many Branches">
+        ولم يكن إذ كثرت صنوف أصول العلم ثمّ تفرّقت فروعها بدّ من أن
+        <lb/>
+
+        يكثر العلل التي تجري عليها أقاويل العلماء
+      </p>
+
+      <p n="Reader Must Read Well and Reflect">
+        فأوّل ما ينبغي لمن طلب
+        <lb/>
+
+        هذا الكتاب أن يبتدئ فيه بجودة قراءته والتثبّت فيه
+      </p>
+
+      <p n="Hasty Reader Benefits Nothing">
+        ولا
+        <lb/>
+
+        يكون غايته منه بلوغ آخره قبل الإحكام له فليس ينتفع بقراءته
+        <lb/>
+
+        ولا يفيد منه شيئًا
+      </p>
+
+      <p n="Voracious, Disoriented Reader">
+        وطمحتا عيناه إلى جمعه ولم يأخذ منه ما صفا
+        <lb/>
+
+        الأوّل في الأوّل
+      </p>
+
+      <p n="Treasure Discovered">
+        فإنّه خليق لا يصيب منه إلّا كما أصاب الرجل
+        <lb/>
+
+        الذي بلغني أنّه رأى في بعض الصحاري كنزًا فلمّا كشف عنه ونظر إليه
+        <lb/>
+
+        رأى شيئًا عظيمًا لا عهد له بمثله
+      </p>
+
+      <p n="Discoverer Hires Help">
+        فقال في نفسه إن أنا أحرزت ما
+        <lb/>
+
+        ها هنا بنقله وحدي لم أنقله إلّا في أيّام وجعلت لنفسي عملًا طويلًا ولكن
+        <lb/>
+
+        أستأجر رجالًا يحملونه
+      </p>
+
+      <p n="Helpers Take Treasure">
+        ففعل ذلك وجاء بالرجال فحمل كلّ واحد منهم
+        <lb/>
+
+        ما أطاق وانطلقوا فيما زعم إلى منزله فلم يزل دائبًا في ذلك حتّى فرغ
+        <lb/>
+
+        واستنفد كلّه ثمّ انطلق إلى منزله بعد الفراغ
+      </p>
+
+      <p n="Discoverer Loses Treasure">
+        فلم يجد شيئًا ووجد
+        <lb/>
+
+        كلّ رجل منهم قد حاز ما حمل لنفسه ولم يكن له إلّا العناء في استخراجه
+        <lb/>
+
+        والتعب عليه
+      </p>
+
+      <p n="Readers Should Read Carefully and Reflect">
+        فليس ينبغي أن يجاوز شيئًا إلى غيره حتّى يُحكمه
+        <lb/>
+
+        ويتثبّت فيه وفي قراءته وإحكامه فعليه بالفهم لما يقرأ والمعرفة
+        <lb/>
+
+        حتّى يضع كلّ شيء موضعه وينسبه إلى معناه ولا
+      </p>
+
+      <p n="Readers Should Look for Hidden Meaning">
+        يعرض في نفسه
+        <lb/>
+
+        أنّه إذا أحكم القراءة له عرف ظاهر القول فقد فرغ ممّا ينبغي له أن
+        <lb/>
+
+        يعرف منه
+      </p>
+
+      <p n="A Nut Has to Be Cracked">
+        كما أنّ رجلًا لو أُتي بجوز صحاح في قشوره لم ينتفع به
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

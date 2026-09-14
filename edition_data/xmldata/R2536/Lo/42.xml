@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="42"/>
+
+      <p n="Man's Escape Attempt from the Wolf">
+        فلمّا رآه الرجل اشتدّ وجله وخرج هاربًا نحو قرية على شاطئ نهر فلمّا
+        <lb/>
+
+        انتهى إلى النهر وجد عليه قنطرة مكسورة وأرهقه الذئب
+      </p>
+
+      <p n="Man's Dilemma at the River">
+        فقال كيف
+        <lb/>
+
+        أصنع النهر عميق ولست أحسن السباحة والذئب يأكلني إلّا أنّي على حال
+        <lb/>
+
+        لا أجد شيئًا
+        <lb/>
+
+        أحرز لي من أن ألقي بنفسي إلى الماء
+      </p>
+
+      <p n="Man Jumping into the River and Rescue">
+        فرمى بنفسه من القنطرة في النهر فرآه
+        <lb/>
+
+        أهل القرية فأخرجوه وقد أشرف على الهلاك
+      </p>
+
+      <p n="Man Resting Against a Wall">
+        فلمّا أن صار إليهم تساند
+        <lb/>
+
+        إلى حائط
+      </p>
+
+      <p n="Man Recounting His Experiences">
+        فجعل يحدّثهم بما رأى وعظيم ما خلّصه الله منه
+      </p>
+
+      <p n="Wall Collapsing and Killing the Man">
+        فبينما هو
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

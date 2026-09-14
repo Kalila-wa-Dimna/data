@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="238"/>
+
+      <p n="unassigned">
+        لنا قبلك ولا لك قبلنا مطلوب فارجع إلينا آمنًا ما عليك من بأس قال قنبرة
+        <lb/>
+
+        لست راجعًا إليك فإنّ ذوي الرأي قد نهوا عن قرب الموتر وقالوا لا يزدك
+        <lb/>
+
+        لطف الحقود وتكرمته إلّا وحشة منك فإنّك لا تجد للموتور الحقود أمانًا
+        <lb/>
+
+        هو أوثق من الذعر والبعد والاحتراس منه وكان يقال إنّ العاقل إنّما
+        <lb/>
+
+        يعدّ أبويه أصدقاء <> رفقاء والأزواج البقاء والبنين ذكرًا
+        <lb/>
+
+        والبنات حصبات والأقارب غرمًا ويعدّ نفسه فردًا وحيدًا جديدًا
+        <lb/>
+
+        فأنا اليوم الفرد الوحيد الذي قد تزوّدت من عندكم الحزن عبئًا ثقيلًا
+        <lb/>
+
+        لا يحمله معي أحد عليك السلام أنا ذاهب قال الملك إنّك لو لم تكن
+        <lb/>
+
+        اجتزيت بما صنعنا بك أو كان صنيعك عن غير ابتداء منّا بالغدر
+        <lb/>
+
+        كان الأمر كما ذكرت فأمّا إذ كنّا نحن ابتدأناك فما ذنبك وما يمنعك من
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kb</chapter>
+  </chapter>
+</TEI>

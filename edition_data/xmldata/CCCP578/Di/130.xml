@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="130"/>
+
+      <p n="Dimna, Being Innocent, Cannot Confess What He Did Not Do">
+        به بريء فكيف أعين ذو تظلّم وأنا لم أنطق بكذب ولم أتفوّه به فشديد على
+        <lb/>
+
+        الإقرار بما لم أعلم فأكون معينًا على نفسي وشريكًا لمن أراد قتالي
+      </p>
+
+      <p n="Killing Dimna Would Be Unjust">
+        وأنا بريء الساحة
+        <lb/>
+
+        بارزا العذر فإن أردتم قتلى مظلومًا فكفى بالله لي ناصرًا ولعلّ ذلك إن فعلتموه
+        <lb/>
+
+        ألّا يكون شرًّا مؤدّي لي إلي العذاب في الآخرة
+      </p>
+
+      <p n="Dimna Want to Spare Court Sin and Regret in Hereafter">
+        وأنا أقول اليوم مقالتي أمس
+        <lb/>
+
+        فاذكروا حساب الآخرة وعقابها لا تأسفوا غدًا حين لا تنفع الندامة
+      </p>
+
+      <p n="Dimna's Fourth Subtale of the Falconer Who Falsely Accuses the Marzuban's Wife">
+        وإيّاكم
+        <lb/>
+
+        أن يصيبكم ما أصاب القائل ما لا علم له به ولم يحفظ جيرانه
+      </p>
+
+      <p n="Head of Court Requests Tale">
+        قال عظيم الجند
+        <lb/>
+
+        وكيف كان ذلك
+      </p>
+
+      <p n="Marzuban Had Wife and Servant">
+        قال زعموا أنّه كان بمدينة بازيان رجل وله أمرأة حسناء
+        <lb/>
+
+        وكان له بازيار
+      </p>
+
+      <p n="Falconer Accosted Wife and Is Rejected">
+        قد هواها وعرض لها مرارًا كلّ ذلك لا تلتفت
+      </p>
+
+      <p n="Falconer Decides to Take Revenge">
+        إليه فأصرّ
+      </p>
+
+      <p n="unassigned">
+        فضيحتها
+      </p>
+
+      <p n="Falconer Teaches Parrots False Accusation in Foreign Tongue">
+        فخرج ذات يوم إلى الصيد فأصاب فرختين ببّغاء فهيّأ لهما وكرًا وجعل يعلم أحدهما
+        <lb/>
+
+        إنيّ رأيت البوّاب مضاجع لمولاتي وعلّم الآخرى أمّا أنا فلست قائلًا شيئًا فحفظا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

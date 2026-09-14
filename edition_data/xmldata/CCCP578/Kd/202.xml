@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="202"/>
+
+      <p n="Pious Vizier">
+        حسن الخلق لبيبًا عالمًا كاملًا في جميع خصاله
+      </p>
+
+      <p n="King Dreams">
+        فبينما الملك نائم إذ رأى ثمانية
+        <lb/>
+
+        أحلام يستيقظ عند كلّ حلم
+      </p>
+
+      <p n="King Summons Brahmins">
+        فلمّا أصبح الملك أدعى البرهميون وهم النسّاك
+      </p>
+
+      <p n="King Has Brahmins Interpret Dreams">
+        فقصّ
+        <lb/>
+
+        عليهم وأمرهم أن يعبّروا رؤياه
+      </p>
+
+      <p n="Brahmins Dramatize Dreams">
+        فقالوا له قد رأيت أيّها الملك أمرًا منكرًا معجبًا لم نسمع بمثله
+        <lb/>
+
+        فيما مضى
+      </p>
+
+      <p n="Brahmins Request Delay">
+        فإن أردت أن ننطلق فنتفكّر فيه ستة أيّام ثمّ نأتيك في اليوم السابع
+        <lb/>
+
+        نخبرك به ولعلّنا نستطيع ندفع ما تتخوّف منه
+      </p>
+
+      <p n="King Grants Delay">
+        فقال الملك نعم
+      </p>
+
+      <p n="King Order Brahmins Counsel">
+        فاعملوا
+        <lb/>
+
+        فيما تعلموا أنّه يوافقني
+      </p>
+
+      <p n="Brahmins Promise Good">
+        فقالوا نفعل أيّها الملك
+      </p>
+
+      <p n="Brahmins See Chance">
+        فخرجوا من عنده واجتمعوا وقالوا
+        <lb/>
+
+        وقالوا لم نطل العهد منذ قتل منّا <> فرقة من رؤياه
+      </p>
+
+      <p n="Brahmins Plan Revenge">
+        ولعلّنا ننتقم منه إذا نحن أغلظنا
+        <lb/>
+
+        الأوّل فحمله الخوف على أن يتابعنا على ما نريد
+      </p>
+
+      <p n="Brahmins Will Order Killings">
+        فنأمره أن يدفع إلينا من أهله ووزرائه
+        <lb/>
+
+        من يميل إليه ونقول له بأنّا قد نظرنا في كتبنا فنجده لم يدفع عنّا ما رأيت إلّا قتل من
+        <lb/>
+
+        نسمّيه لك
+      </p>
+
+      <p n="Kings Anticipated Question">
+        فإن قال ومن تريدون
+      </p>
+
+      <p n="Brahmins List Of Victims">
+        قلنا إبلاد امرأتك وابنها حرىر وابن أختك
+        <lb/>
+
+        وبلاد بلاد صاحب أمرك فإنّه ذو حيلة وعلم وكاد كاتبك ولسانك وسيفك والفيل
+        <lb/>
+
+        الأبيض الذي تقاتل عليه والفيلين العظيمين والفرس الذي تركبه والبختي الذي تسير
+        <lb/>
+
+        عليه وكبابرون الفقيه
+      </p>
+
+      <p n="King Shall Bath In Blood">
+        لنجعل دماءهم في أبزن ثمّ نقعدك فيه
+      </p>
+
+      <p n="unassigned">
+        فإذا أردنا أن نخرجك
+        <lb/>
+
+        منه اجتمعنا معشر البرهميون من اللآفاق الأربعة فرفعناك ومسحنا عنك الدم وغسلناه
+        <lb/>
+
+        بالماء والدهن والطيب ثمّ صيّرناك إلى مجبسك فيُذهب الله عنك بئلك ما تحذر
+        <lb/>
+
+        ممّا رأيت فإن رأيت صبرت على هذا خلصت ونجوت من البلاء العظيم فلمّا أبرم البرهميون
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

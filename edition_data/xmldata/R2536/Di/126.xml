@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="126"/>
+
+      <p n="Kalila Will Be Forced to Betray Dimna">
+        فتُعذّب وتجهد من إطلاعهم على أمري بدًّا فأقتل لتصديقهم إيّاك
+        <lb/>
+
+        ولا تنجو أنت من بعدي
+      </p>
+
+      <p n="Kalila Sees Life as Greatest Desire">
+        فقال كليلة قد فكّرت في ذلك وليس يعدل
+        <lb/>
+
+        للرجل بالحياة شيئًا
+      </p>
+
+      <p n="One Lies to Save One's Life">
+        وقد يضطرّ الرجل إذا نزل به البلاء ويصير إلى أن
+        <lb/>
+
+        يقذف نفسه بما فعل وبما لم يفعل رجاء الحياة والتخفيف عنه
+      </p>
+
+      <p n="Kalila Advises Dimna to Confess">
+        وأنا
+        <lb/>
+
+        منطلق عنك قبل أن يدخل من الجند أحد فيراني عندك وأنا آمرك
+        <lb/>
+
+        وأشير عليك أن تعترف بذنبك لأنّك لا محالة ميّت وأنّك إن تعاقبْ
+        <lb/>
+
+        في الدنيا خير لك من أن تصير في العذاب الدائم من الآخرة
+      </p>
+
+      <p n="Dimna Wants to Await the Verdict">
+        فقال
+        <lb/>
+
+        له دمنة لقد صدقت ونصحت ولكنّي ناظر إلى الذي يصير إليه
+        <lb/>
+
+        أمري وما يؤمر به فيّ
+      </p>
+
+      <p n="Kalila Goes Home">
+        فرجع كليلة إلى منزله مهمومًا حزينًا
+      </p>
+
+      <p n="Kalila Dies">
+        فاستطلق
+        <lb/>
+
+        بطنه فمات من ليلته
+      </p>
+
+      <p n="Prisoner Overhears Their Dialogue">
+        وقد كان في ناحية السجن سبع محبوس قريب
+        <lb/>
+
+        من دمنة فاستيقظ لكلام دمنة وكليلة وسمع جميع ما تراجعا
+        <lb/>
+
+        فيه وحفظه
+      </p>
+
+      <p n="The Mother Calls In Lion's Promise to Act">
+        ثمّ إنّ أمّ الأسد دخلت على الأسد فقالت له أذكر
+        <lb/>
+
+        ما وعدتني به البارحة في أمر هذا الفاجر
+      </p>
+
+      <p n="Pious Acts and Curbing Sin Cannot Wait">
+        وقولك للجند إنّه ينبغي للملك
+        <lb/>
+
+        أن يعمل بالتقوى ولا يتوانى في ذلك ولست أعرف من هو أعظم أجرًا من
+        <lb/>
+
+        الاستراحة منه
+      </p>
+
+      <p n="Who Helps Sinners Becomes Their Accomplice">
+        فإنّه يقال إنّ المعيق لأهل الاثم شريك لهم في أعمالهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="114"/>
+
+      <p n="The Lion Reflects about the Ox">
+        همّتي فلم أجده
+      </p>
+
+      <p n="The Lion Finds no Fault with the Ox">
+        وما زلت لشتربة سليم الصدر واثقًا به معجبًا برأيه
+        <lb/>
+
+        آخذًا عنه مسترسلًا إليه وما أنكرت من نفسي له قبل قتله ولا
+        <lb/>
+
+        بعده
+      </p>
+
+      <p n="The Lion's Remorse for Killing the Ox">
+        وإنّي لندمت على ما كان منّي متلهّف عليه ومتوّجع له
+      </p>
+
+      <p n="The Lion Finds the Ox's Innocence Hard to Bear">
+        وما يشكل
+        <lb/>
+
+        عليّ الرأي أنّه كان بريـئـًّا ممّا لطّخ به صحيح الأديم غير متّهم
+      </p>
+
+      <p n="The Lion Feels Misguided by a Schemer">
+        ولكنّه
+        <lb/>
+
+        حملني على ما صنعتُ به الفاجر الرجس دمنة بنميمته ومكره وذكره
+        <lb/>
+
+        للكلام الكاذب الذي لم يكن الثور خليقًا به ولا جديرًا
+      </p>
+
+      <p n="The Lion Asks Whether His Mother Has Any News">
+        ولكنّه
+        <lb/>
+
+        أعلميني هل بلغك شئ أو سمعتيه أو حدّثك به أحد
+      </p>
+
+      <p n="Accounts Must Be Confirmed by a Trusted Source">
+        فإنّه إذا كان
+        <lb/>
+
+        الرأي موافقًا لأخبار الموثوق به وكان أشدّ للبصيرة وأبلج للصدر
+        <lb/>
+
+        وأحرى أن يقدم المرء على غير يقين
+      </p>
+
+      <p n="The Mother's Source Attributes Dimna's Act to Envy of the Ox">
+        قالت أمّ الأسد حدّثني
+        <lb/>
+
+        الصديق الأمين غير المتّهم أنّ دمنة لم يركب من شتربة الذي
+        <lb/>
+
+        ركب من تحصيله إيّاك عليه إلّا بحسده إيّاه على منزلته منك ومكانه
+        <lb/>
+
+        عندك
+      </p>
+
+      <p n="Lion Asks for Source but Mother Wants to Keep It Secret">
+        قال الأسد من أخبرك بذلك قالت أمّ الأسد إنّ الذي
+        <lb/>
+
+        أخبرني استكتمني والمستكتم مؤتمن
+      </p>
+
+      <p n="Sharing Entrusted Secrets Betrays Trust">
+        ومن أفشى سرًّا أُستودعه
+        <lb/>
+
+        فقد خان أمانته ومن فعل ذلك فهو بشرّ المنازل ولا يعود أحد
+        <lb/>
+
+        يفشي إليه سرًّا
+      </p>
+
+      <p n="Serious Crimes Do Not Allow Secrecy">
+        قال الملك لعمري لقد صدقت وإنّ ذلك لعلى ما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

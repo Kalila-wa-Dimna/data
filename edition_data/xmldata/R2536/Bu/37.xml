@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="37"/>
+
+      <p n="Suffering Of Newborn">
+        إذا جاع وليس به استطعام أو عطش وليس به استسقاء أو وجع وليس
+        <lb/>
+
+        به استغاثة مع ما يلقى من الرفع والوضع والحلّ والرشق إذا نام على ظهره
+        <lb/>
+
+        لم يستطع تقلّبًا ولا تحويلًا ما دام رضيعًا مع أصناف من العذاب
+      </p>
+
+      <p n="Pains Of Adulthood">
+        فإذا أفلت
+        <lb/>
+
+        من عذاب الرضاع أخذ بعذاب الأدب فأذيق منه ألوانًا وفي الدواء
+        <lb/>
+
+        والحمّيات والأسقام فإذا أدرك فهم المال والأهل والأولاد ويغلبه
+        <lb/>
+
+        الشره والحرص ومخاطرة الطلب والسعي فالتمست
+      </p>
+
+      <p n="Subtale Man in Well">
+        للإنسان مثلًا فإذا مثله مثل
+        <lb/>
+
+        رجل
+      </p>
+
+      <p n="Allegory of Man in Well">
+        ألجأه خوف أسد إلى بئر فتدلّى فيها وتعلّق بغصنين مائلتين على شفير
+        <lb/>
+
+        البئر ووقعت رجلاه على شيء عمد له فإذا هو بحيّتين قد أطلعن رؤوسهنّ
+        <lb/>
+
+        من أجحرتهنّ في كلّ جانب فهنّ أربع حيّات ونظر إلى أسفل البئر فإذا هو
+        <lb/>
+
+        بتنّين فاغر فاه ورفع بصره
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

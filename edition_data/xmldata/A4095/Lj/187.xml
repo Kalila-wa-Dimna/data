@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>A4095</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="187"/>
+
+      <p n="Threats against Good Advisor">
+        منزلته ويبغي عليه فيها ويعاديه وأمّا عدوّ السلطان فيضّغن عليه
+        <lb/>
+
+        بنصيحته لسلطانه وغنائه عنه فإذا اجتمع عليه هذان الصنفان
+        <lb/>
+
+        كان تعرّض هلاكه
+      </p>
+
+      <p n="Lion Promises Jackal Protection">
+        قال الأسد لا يكوننّ بغي أصحابي
+        <lb/>
+
+        عليك وحسدهم لك ممّا يعرض في قلبك فإنّي كافيك ذلك وبالغ
+        <lb/>
+
+        بك في الكرامة والإحسان غاية همّتك
+      </p>
+
+      <p n="Jackal Wants to Remain Carefree">
+        قال ابن آوى
+        <lb/>
+
+        إذا كان الملك يريد الإحسان بي فيدعني أعيش في هذه البرّيّة آمنًا
+        <lb/>
+
+        من أن أُحسد فإنّي قليل الهمّ راضي بمعيشتي من الماء والحشيش
+      </p>
+
+      <p n="Kings' Advisors Suffer">
+        وقد
+        <lb/>
+
+        علمت أنّ صاحب السلطان يصل إليه في ساعة واحدة من الأذى
+        <lb/>
+
+        والخوف ما لا يصل إلى غيره طول دهره
+      </p>
+
+      <p n="Peace over Wealth">
+        وأنّ قليل الغذاء في أمن
+        <lb/>
+
+        وطمأنينة خير من كثيره في خوف ونصب
+      </p>
+
+      <p n="Lion Reassures Jackal">
+        قال الأسد
+        <lb/>
+
+        قد سمعت كلامك فلا تخافنّ شيئًا ممّا أراك تتخوّفه ولا بدّ من الاستعانة
+        <lb/>
+
+        بك
+      </p>
+
+      <p n="Jackal Gives Conditions for Service">
+        قال ابن آوى إن أراد الملك بي هذا فليجعل لي عهدًا إن
+        <lb/>
+
+        بغى عليّ أحدًا عنده ممّن هو فوقي خوفًا على منزلته أو ممّن هو دوني
+        <lb/>
+
+        فينازعني منزلتي فذكر عند الملك منهم ذاكر بلسانه أو بلسان غيره
+        <lb/>
+
+        ممّا يريد به تحميل الملك عليّ ألّا يعجل عليّ وأن يتثبّت فيما يُرفع إليه
+        <lb/>
+
+        ويُذكر له من ذلك ويفحص عنه ثمّ يقضي فيه بما بدا له
+      </p>
+
+      <p n="Jackal Vows Devotion on His Terms">
+        فإذا أنا
+        <lb/>
+
+        وثقت من الملك بذلك من الملك أعنته بنفسي وعملت له فيما
+        <lb/>
+
+        ولَّاني بنصيحة واجتهاد وحرص على أن لا أجعل على نفسي سبيلًا
+      </p>
+
+      <p n="Lion Commits to Conditions">
+        قال الأسد ذلك لك
+      </p>
+
+      <p n="Jackal Excels in Position">
+        فولَّاه خزانته واختصَّه دون
+        <lb/>
+
+        أصحابه بالرأي والمشورة والمنزلة وازداد به على الأيّام
+        <lb/>
+
+        عجبًا فزاده كرامة وعملًا
+      </p>
+
+      <p n="Jackal's Status Stirs Jealousy">
+        فثقل ذلك على من كان يطيف بالأسد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

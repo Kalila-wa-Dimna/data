@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="51"/>
+
+      <p n="Dimna Seizing the Opportunity to Impress">
+        ومستحقّوها إلّا بذلك
+      </p>
+
+      <p n="Analogy of Hidden Crop's True Value">
+        كالزرع المدفون فإنّ أحدًا لا يعرف فضله ولا
+        <lb/>
+
+        يصفه به حتّى يكون هو الذي يخرج ويظهر على الأرض
+      </p>
+
+      <p n="Ruler's Responsibility to Recognize Merit">
+        ويحقّ على الملك
+        <lb/>
+
+        أن يبلغ كلّ أمري إلى مرتبته على قدر رأيه وما يجد من المنفعة والمروءة
+        <lb/>
+
+        والنصيحة عنده
+      </p>
+
+      <p n="Leaders Must Place Things Properly">
+        وقد قيل في بعض الأمثال أمران لا ينبغي لأحد وإن
+        <lb/>
+
+        كان ملكًا أن يجعل منهما شيئًا في غير مكانه ولا أن يزيله عن موضعه
+        <lb/>
+
+        الرجال والحيلة
+      </p>
+
+      <p n="Analogy of Misplaced Ornaments">
+        فإنّه يُعدّ جاهلًا من غيّر على رأسه حلية رجليه أو على
+        <lb/>
+
+        رجليه حلية رأسه
+      </p>
+
+      <p n="Analogy of Comparing Precious Stones to Lead">
+        ومن شبّه الياقوت والجوهر بالرصاص فإنّ ذلك ليس
+        <lb/>
+
+        بتصغير لما سُمّيت ولكنّه جهل ممّن فعله
+      </p>
+
+      <p n="Proper Treatment of People Based on Merit">
+        وكذلك في الرجال لا
+        <lb/>
+
+        يُنزل المحسن منهم بمنزلة المسيء ولا المسيء بمنزلة المحسن
+      </p>
+
+      <p n="Advice against Associating with the Ignorant">
+        وقد قيل أيضًا
+        <lb/>
+
+        لا تصاحبنّ رجلًا لا يعرف مواقع يمينه من شماله
+      </p>
+
+      <p n="Importance of Associating with the Wise">
+        فإنّما يستخرج ما عند
+        <lb/>
+
+        العقلاء ولاتهم وما عند الجنود أمراؤهم وما في الدين والتأويل علماؤه
+        <lb/>
+
+        وفقهاؤه
+      </p>
+
+      <p n="Three Things with Varying Degrees of Excellence">
+        وقد قيل أيضًا في أشياء متفاوت ما بينهما كفضل المقاتل على
+        <lb/>
+
+        المقاتل والقليل على القليل والكثير على الكثير والعالم على العالم
+      </p>
+
+      <p n="Value of Quality over Quantity in Allies">
+        وكثرة الأعوان إذا لم يكونوا مجرّبين بالعمل فإنّ ليس تمامه بكثرة
+        <lb/>
+
+        الأعوان ولكن بصالحهم إن قلّوا وذوي الفضل منهم
+      </p>
+
+      <p n="Analogy of Carrying Heavy Stone vs. Valuable Gem">
+        كالرجل الذي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

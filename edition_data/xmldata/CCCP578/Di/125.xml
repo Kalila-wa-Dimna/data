@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="125"/>
+
+      <p n="Quack Poisons Princess">
+        إلى قطع أمعائها فماتت
+      </p>
+
+      <p n="King Has Quack Drink the Poison Too">
+        فأمر الملك بذلك الرجل فأحضره ثمّ أمر بسقيه فأُسقى
+        <lb/>
+
+        من ذلك الدواء الذي كان هيّأه لها فلم يلبثْ ان قضي
+      </p>
+
+      <p n="Speaking Ignorantly to Please Others Is Wrong">
+        وإنّما ضربت لكم هذا المثل
+        <lb/>
+
+        لئلّا تتكلّموا بما لا تعلمون لتكسبوا به رضى غيركم
+      </p>
+
+      <p n="Dimna Interprets the Tale">
+        فتصيب بفعل ذلك ما
+        <lb/>
+
+        أصاب الجاهل الذي أوهله رأيه فيما لا علم له به فهلك وإنّما يجزى كلّ إنسانٍ
+        <lb/>
+
+        بعلمه وأنا بريء ممّا لطّخت به فاتّقوا الله ما استطعتم
+      </p>
+
+      <p n="Prominent Courtier/Head of Court Suggests Physiognomy">
+        قال رأس الخنازير
+        <lb/>
+
+        لثقته بمنزلته من الملك اسمعوا أيّها الجند وتفكّروا فيـما أقول لكم
+      </p>
+
+      <p n="Bodily Marks Are Proof of Character">
+        فإنّما العلماء
+        <lb/>
+
+        لم يدعوا شيئًا من آيات الأشرار والأخيار إلّا وقد بيّنوه
+      </p>
+
+      <p n="Dimna’s Character is Visible in His Body">
+        وإنّ من علامات
+        <lb/>
+
+        الفجور في هذا الشقيّ ظاهر
+      </p>
+
+      <p n="Judge/Investigator/Audience Request Physiognomical Evaluation">
+        فقال عظيم الخنازير قد سمعنا ذلك وقليل مَن
+        <lb/>
+
+        يعرفه
+      </p>
+
+      <p n="Prominent Courtier Diagnoses Dimna as Traitor">
+        فقام رأس الخنازير فأخذ بيد دمنة وقال له يقال في كتب الطبّ
+        <lb/>
+
+        والفلسفة إنّ من كانت عينه اليسرى صغيرة كثيرة الاختلاج وأنفه
+        <lb/>
+
+        مائل إلى شقّه الأيمن وما بين حاجبيه من الشعر متباعد وبنانه ثلث
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

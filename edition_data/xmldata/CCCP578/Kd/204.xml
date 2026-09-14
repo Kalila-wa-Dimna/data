@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="204"/>
+
+      <p n="unassigned">
+        أيّ أمر يركب الموت عيانًا وهو ينظر إليه وأعطاهم ما سألوا فمكث بذلك أيامًا
+        <lb/>
+
+        وفشا الحديث في أرضه وقيل قد نزل بالملك أمر هو منه في كرب فلمّا رأى بلاد
+        <lb/>
+
+        الذي وقع فيه الملك من ذلك فكّر ونظر وكان فطنًا عالمًا مجرّبًا داهيًا فقال ما
+        <lb/>
+
+        ينبغي لي أن أستقبل الملك بشيء ولكنّي أنطلق إلى إبلاد امرأة الملك فأسألها عن ذلك
+        <lb/>
+
+        فأتاها
+        <lb/>
+
+        فقال لها إنّي لا أعلم الملك ركب من أمره صغيرًا ولا كبيرًا مذ كنت معه من غير
+        <lb/>
+
+        مشورتي وإنّي لم أزل صاحب سرّه ولم يكن يكتمني شيئًا يحتوى عليه وكان
+        <lb/>
+
+        إذا أحزنه أمر مفظع عزّى نفسه وصبر على ما نزل به وذكره لي فاسأليه
+        <lb/>
+
+        بأرفق ما أقدر عليه وأراه مستخليًا بالبراهميون منذ سبعة احتجب بها
+        <lb/>
+
+        عن الناس وأنا أخاف أن يكون فيه إطلاعهم على داخلة أمره ولست آمنهم عليه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

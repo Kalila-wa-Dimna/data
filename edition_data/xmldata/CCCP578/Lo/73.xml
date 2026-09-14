@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="73"/>
+
+      <p n="The Wife is Beaten and Tied Up">
+        في البيت
+      </p>
+
+      <p n="The Go-Between's Inquiry">
+        فلمّا هدأت العيون جاءت امرأة الحجّام التي كانت السفيرة فيما بينهما
+        <lb/>
+
+        إلى امرأة الإسكاف تقول لها قد أطال الرجل القعود فماذا ترين
+      </p>
+
+      <p n="The Wives Swap Places">
+        قالت امرأة
+        <lb/>
+
+        الإسكاف إن شئت أحسنت وأجملت فخلّيني واربطي نفسك ساعة حتّى
+        <lb/>
+
+        أنطلق إلى خليلي وأسرع الكرّة إليك
+      </p>
+
+      <p n="The Swap is Made">
+        فقالت امرأة الحجّام إنّي فاعلة ذلك فحلّتها
+        <lb/>
+
+        وصارت مكانها
+      </p>
+
+      <p n="The Shoemaker Wakes">
+        فاستيقظ الأسكاف قبل أن ترجع المرأة فناداها ودعاها
+        <lb/>
+
+        باسمها فلم تجبه امرأة الحجّام مخافة أن يعرف صوتها فدعاها مرارًا وسبّها كلّ
+        <lb/>
+
+        ذلك لا تجبه امرأة الحجّام فازداد غيظًا وحنقًا
+      </p>
+
+      <p n="The Barber's Wife is Mutilated">
+        فقام إليها بسكّين فجدع
+        <lb/>
+
+        أنفها ثمّ قال لها خذي هذا فأتحفي به خليلك
+      </p>
+
+      <p n="The Wives Swap Back">
+        فلمّا رجعت صاحبة الإسكاف
+        <lb/>
+
+        وأعلمتها قصّتها
+      </p>
+
+      <p n="The Wife's Feigned Prayer">
+        فرفعت صوتها
+        <lb/>
+
+        تدعو ربّها وتتضرع إليها وتبتهل وتدعو على زوجها
+      </p>
+
+      <p n="A Prayer for a Miraculous Restoration">
+        وتقول اللهمّ إن كان
+        <lb/>
+
+        زوجي ظالم فأعد عليّ أنفي صحيحًا
+      </p>
+
+      <p n="Only the Razor">
+        ثمّ إنّها بادرت الإسكاف وقالت أيّها الظالم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="291"/>
+
+      <p n="unassigned">
+        ما أصابك فلم يكن له حتّى أتى بدماغ تنين أسود فاستعط به فبرئ فإنّ
+        <lb/>
+
+        دهرًا طويلًا ثمّ إنّه جرب فأضناه الجرب حتّى خشي على نفسه التلف
+        <lb/>
+
+        وضعف عن طلب رزقه لما كان أصابه فمرّ به قردًا آخر فقال
+        <lb/>
+
+        له ما لي أراك بهذه الحالة فأيّ شيء أصابك إلى هذا الهزال والضعف
+        <lb/>
+
+        قال القرد ما أعرف لما أنا فيه سببًا إلّا القضاء والقدر وما لأحد من قضاء
+        <lb/>
+
+        الله محيص ولا له إلى الهرب منه سبيل قال القرد الآخر أمّا أنا فأعرف قردًا شنّـًا أصابه مثل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kw</chapter>
+  </chapter>
+</TEI>

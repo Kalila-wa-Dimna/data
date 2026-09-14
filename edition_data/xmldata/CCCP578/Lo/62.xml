@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="62"/>
+
+      <p n="Dimna's Explanation of Gaining Favor">
+        منه بعد البعد
+      </p>
+
+      <p n="Dimna's Determination to Succeed">
+        فإنّا نلتمس مكانهم وبلوغهم بجهدي
+      </p>
+
+      <p n="Kalila's Warning about Dangers of Serving Rulers">
+        وقد كان يُقال لا يواظب على
+        <lb/>
+
+        باب السلطان أحد فيُلقي عنه الأنفة ويحتمل الأذى ويكظم الغيظ ويرفق بالناس
+        <lb/>
+
+        إلّا خلص إلى حاجته من السلطان
+      </p>
+
+      <p n="Kalila Questioning Dimna's Strategy">
+        قال كليلة هبك وصلت إلى الأسد فما رفقك
+        <lb/>
+
+        الذي ترجو به المنزلة وبلوغها من الأسد ونيلها عنده
+      </p>
+
+      <p n="Dimna will Make the Lion See His Benefit">
+        قال دمنة دنوت من الأسد
+        <lb/>
+
+        وعرفت أخلاقه ثمّ وقفت في متابعته وقلّة الخلاف عليه فإذا أراد أمرًا هو في نفسه
+        <lb/>
+
+        صواب وبيّنته له وبصّرته ما فيه من الضرر وشجّعته عليه حتّى يزداد به سرورًا
+      </p>
+
+      <p n="Dimna will Make the Lion See His Harm">
+        وإذا أراد أمرًا أخاف عليه ضرره وشينه بصّرته ما فيه من الضرر والشين وما في
+        <lb/>
+
+        تركه من المنافع والزين بأرفق ما أجد وألينه
+      </p>
+
+      <p n="Dimna's Hope to Impress the Lion">
+        وأنا أرجو أن يزداد الأسد خيرًا وأن
+        <lb/>
+
+        يرى منّي ما لم ير من غيري
+      </p>
+
+      <p n="Dimna's Expectation of the Lion's Response">
+        وإذا نظر الأسد فعلي وعرف ما عندي كان هو الذي يلتمس
+        <lb/>
+
+        قربي وإكرامي
+      </p>
+
+      <p n="Kalila's Final Warning about Ruler's Danger">
+        قال كليلة أمّا إن كان هذا رأيك فإني أحذّرك السّلطان فإنّ صحبة
+        <lb/>
+
+        السلطان خطر عظيم
+      </p>
+
+      <p n="Three Risky Endeavors According to Scholars">
+        وقد قالت العلماء في أمور ثلاثة لا يجترئ عليها إلّا الأهوج ولا
+        <lb/>
+
+        يسلم منها إلّا قليل منها صحبة السلطان وائتمان النساء على الأسرار وشرب السمّ
+        <lb/>
+
+        للتجربة
+      </p>
+
+      <p n="Analogy of Ruler to a Dangerous Mountain">
+        وإنما يشبّه العلماء السلطان بالجبل الصعب الذي فيه الثمّار الطيبة وهو معدن
+        <lb/>
+
+        النمر والأسود والذئاب وكلّ شيء مخيف والارتقاء إليه شديد والمقام فيه أشدّ
+      </p>
+
+      <p n="Dimna's Persistence Despite Warnings">
+        قال دمنة قد صدقت فيما وصف غير أنّه من لم يركبْ الأهوال لم ينلْ الرغائب
+        <lb/>
+
+        ومن ترك الأمور التي لعلّها تبلغ هيبة ومخافة لما لعلّه يتوقاّه فليس ببالغ جسيمًا
+      </p>
+
+      <p n="Three Challenging Pursuits Requiring Courage">
+        وقد قيل في خصال ثلاثة لا يستطيعها أحد إلّا بمعونة من ارتفاع من همّة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

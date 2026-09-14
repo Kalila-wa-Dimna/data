@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="253"/>
+
+      <p n="Lion Has Eager Candidates">
+        لهم بصر وقوّة وحرص على العمل ورفق وقوّة فإن استعملتهم أغنوا عنك
+      </p>
+
+      <p n="Lion Does not Excuse Jackal">
+        قال الأسد دع عنك هذا فإنّي غير معافيك من الأعمال
+      </p>
+
+      <p n="Two Kinds Serve Kings">
+        قال
+        <lb/>
+
+        ابن آوى إنّما يستطيع صحبة السلطان رجلان لست بواحد منهما إمّا فاجر
+        <lb/>
+
+        مصانع ينال حاجته بفجوره ويسلم بمصانعته وإمّا مهين مُغفّل لا يحسده
+        <lb/>
+
+        أحد
+      </p>
+
+      <p n="Good Advisor Is Hated">
+        فأمّا من أراد أن يصحب الملوك بالصدق والنصيحة والعفاف ولا
+        <lb/>
+
+        يخلط ذلك بمصانعة قبل ما يستقيم له صحبتهم فإنّه يجتمع عليه عدوّ
+        <lb/>
+
+        السلطان وصديقه بالعداوة والحسد
+      </p>
+
+      <p n="Threats against Good Advisor">
+        أمّا الصديق فينافسه في
+        <lb/>
+
+        منزلته وينبغي له فيها ويعاديه لها وأمّا عدوّ السلطان فيضطغن عليه
+        <lb/>
+
+        لصحبته لسلطانه وعناية عنه فإذا اجتمع عليه هذان الصنفان فقد
+        <lb/>
+
+        تعرّض للهلاك
+      </p>
+
+      <p n="Lion Promises Jackal Protection">
+        قال الأسد لا يكوننّ بغي أصحابي عليك وحسدهم
+        <lb/>
+
+        لك ممّا يعرض في نفسك فإنّي كافيك ذلك وبالغ بك في الكرامة لك
+        <lb/>
+
+        والإحسان إليك
+      </p>
+
+      <p n="Jackal Wants to Remain Carefree">
+        <> فليدعني أعيش في هذه البرّيّة قليل الهمّ راض بمعيشتي
+        <lb/>
+
+        من الماء والحشيش
+      </p>
+
+      <p n="Kings' Advisors Suffer">
+        فإنّي قد علمت أنّ صاحب السلطان يصل إليه في ساعة
+        <lb/>
+
+        واحدة من الأذى والخوف ما لا يصل إلى غيره في طول دهره
+      </p>
+
+      <p n="Peace over Wealth">
+        وإنّ
+        <lb/>
+
+        قليل المعيشة في أمن وطمأنينة خير من كثيرها في خوف ونصب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

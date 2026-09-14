@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="128"/>
+
+      <p n="Eliminating Criminals Benefits Society">
+        قُتل ذو الفجور والنميمة والكذب كان ذلك راحةً للملك وجنده
+        <lb/>
+
+        فإنّ كينونته بينهم بلاء عظيم وشرّ لازم لهم
+      </p>
+
+      <p n="Judge Reiterates the Call for Testimony">
+        فلينطقْ كلّ امرئ منكم
+        <lb/>
+
+        بعلمه ولا يكتم حقًّا ولا يثبت باطلًا
+      </p>
+
+      <p n="All Attendees are Silent">
+        فلمّا سمع الجند ذلك نظر بعضهم
+        <lb/>
+
+        إلى بعض وأنصتوا
+      </p>
+
+      <p n="Dimna Challenges All Only to Say What They Know">
+        فقال دمنة ما لكم سكوتًا ليتكلّم كلّ امرئ
+        <lb/>
+
+        منكم بعلمه ولا يكتم حقًا فإنّي لو كنت مجرمًا سررت بسكوتكم ولكنّي
+        <lb/>
+
+        اعلم براءتي وأنّه لا ذنب لي ولا جرم فتكلّموا بما تعرفون
+      </p>
+
+      <p n="Dimna's Second Subtale of Ignorant Physician">
+        واعلموا
+        <lb/>
+
+        أنّ لكلّ قول جواب وأنّه من زعم أنّه قد رأى ما لم يرى وعلم ما
+        <lb/>
+
+        لم يعلم كان خليقًا أن يصيبه ما أصاب الطبيب الجاهل
+      </p>
+
+      <p n="Judge Request Tale">
+        قال الفاضي
+        <lb/>
+
+        والنمر وكيف كان ذلك
+      </p>
+
+      <p n="Famous Physician Dies or Goes Blind">
+        قال دمنة زعموا أنّه كان في مدينةٍ
+        <lb/>
+
+        من مدائن السند طبيب عالم وكان ذا حظوة لما يجري الله على يديه
+        <lb/>
+
+        من أسباب العافية فمات فنظروا في كتبه فكانوا ينتفعون بها ويتعلّمون
+        <lb/>
+
+        منها
+      </p>
+
+      <p n="Quack Appears in Town">
+        فأتاهم رجل فزعم أنّه طبيب وأنّ له رفق ولم يكن كذلك
+      </p>
+
+      <p n="Pregnant Princess Falls Sick">
+        وكانت لملكهم إبنة كريمة عليه وكانت حاملًا فاصابها بطن فجعلت
+        <lb/>
+
+        تختلف الأضراس
+      </p>
+
+      <p n="King Sends in Search of Physician">
+        فبعث في طلب الأطبّاء
+      </p>
+
+      <p n="Blind Physician Prescribes Drug">
+        فأتت رسله رجلًا منهم كان
+        <lb/>
+
+        له علم على رأس فراسخ فوجدوه قد عمى فوصفوا له وجعها فأمرهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

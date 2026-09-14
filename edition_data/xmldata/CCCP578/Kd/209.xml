@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="209"/>
+
+      <p n="King Regrets Relating Dreams">
+        البراهميّون الأعداء السوء فأمروا بما لو أطعتهم فيه كانت مهلكتي في العاجل والآجل
+      </p>
+
+      <p n="King Thankful For Queens Advice">
+        ولكنّي أحمد الله الذي أصرف عنّي ذلك وأشكر كبابرون وإبلاد فيما كان من أمرهما
+        <lb/>
+
+        ورأيهما وتفريجهما عنّي ما كنت فيه من الهمّ والحزن
+      </p>
+
+      <p n="King Appreciates Wise Man">
+        مع ما استبان لي من علم
+        <lb/>
+
+        كبابرون وحكمته وما أعطي من العقل والعلم
+      </p>
+
+      <p n="Gift To Be Distributed To All Victims">
+        ثم دعا جرىرًا وإبلاد فقال لهمـا إنّه لا
+      </p>
+
+      <p n="unassigned">
+        لكنّه سيكون منك إعراض على أعزّ الخلق عليك وأحبّهم إليك وكلّما ذكرته له منقار
+        <lb/>
+
+        عندك إلى سبعة أيّام
+      </p>
+
+      <p n="King Is Thankful">
+        فلمّا سمع الملك بذلك سجد له وكفّر بين يديه ورجع إلى منزله
+      </p>
+
+      <p n="King Awaits Fulfilment">
+        وقال
+        <lb/>
+
+        إنّ كبابرون العالم فاضل الفهم وأنا خليق أن أنظر فيما قال
+      </p>
+
+      <p n="Gift Receiving Ceremony">
+        حتّى إذا كان في اليوم السابع
+        <lb/>
+
+        لبس الملك زينته وقعد في مجلسه ودعا بالعظماء والأشراف وجاءته الهدايا فوُضعت
+        <lb/>
+
+        بين يديه
+      </p>
+
+      <p n="Kings Joy">
+        ففرح بها
+      </p>
+
+      <p n="King Regrets Relating Dreams">
+        وقال قد عجزت وحزنت حين قصصت رؤياي على البراهميّون وهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

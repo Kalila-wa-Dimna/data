@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2536</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="164"/>
+
+      <p n="unassigned">
+        الخير والشرّ أحرى وأحقّ بالتواصل والتعاطف فهذا مثل تواصل
+        <lb/>
+
+        الإخوان وتأسّيهم في الأمور وتعاونهم على النوائب كمل الباب يتلوه باب
+        <lb/>
+
+        الغربان والبوم
+      </p>
+
+      <p n="Chapter Title">
+        باب الغربان والبوم
+      </p>
+
+      <p n="The King Understood Previous Chapter">
+        قال الملك للفيلسوف قد فهمت هذا المثل
+      </p>
+
+      <p n="The King Asks If Foes Can Become a Friends">
+        فأخبرني عن العدوّ هل يصير
+        <lb/>
+
+        صديقًا وهل يُؤمن من أمره
+      </p>
+
+      <p n="The King Asks about Fawning Foes">
+        وكيف العداوة وما ضرّها وكيف للملك
+        <lb/>
+
+        أن يصنع إذا أتاه أمر من عدوّه وطلب الصلح فهل هو في نفسه آمن أو
+        <lb/>
+
+        حقيق بالطمأنينة إليه وهل ينبغي أن يغترّ به وإن أظهر حسن الصفح في
+        <lb/>
+
+        العلانية واضربْ لي في ذلك مثلًا
+      </p>
+
+      <p n="The Philosopher Answers, Foes Cannot be Trusted">
+        قال الفيلسوف ليس حقيقًا إذا
+        <lb/>
+
+        أتاه أمر من عدوّه الذي يتخوّفه على نفسه وجنده وإن كان يلتمس الأمان
+        <lb/>
+
+        والصلح ويظهر ذلك للجند والكراهيّة لأصحابه الذين فارق ألّا
+        <lb/>
+
+        يطمئنّ إليه أحد ولا يغتمّ إلى قوله
+      </p>
+
+      <p n="Foes May Take Advantage">
+        فإنّه يكون أشباه ذلك من يطلب
+        <lb/>
+
+        الجند والفرصة
+      </p>
+
+      <p n="The Parable of the Owls and the Crows">
+        ومن يسترسل إليه يصيبه ما أصاب البوم من الغربان
+      </p>
+
+      <p n="The King Requests the Parable">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="The Crow Kingdom and the Owl Kingdom">
+        قال الفيلسوف زعموا أنّه كان في جبل من
+        <lb/>
+
+        الجبال شجرة من شجر التين أعظم ما يكون فروعًا ونباتًا والتفافًا وكان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Rd</chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

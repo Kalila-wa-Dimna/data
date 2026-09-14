@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CCCP578</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="61"/>
+
+      <p n="Dimna's Strategy to Approach the Lion">
+        فعلّي أدنو منه فأصيب مكانًا وجاهًا وأنال حاجتي عنده
+      </p>
+
+      <p n="Kalila's Doubt about Lion's Confusion">
+        قال
+        <lb/>
+
+        كليلة وما تريدك أنّ الأسد على ما وصفت
+      </p>
+
+      <p n="Dimna's Confidence in His Judgment">
+        قال دمنة بالرأي
+        <lb/>
+
+        والحدس أعلم ذلك
+      </p>
+
+      <p n="Dimna's Confidence in Reading the Lion">
+        فإنّ الرجل ذا الرأي يعلم حال صاحبه وباطن أمره
+        <lb/>
+
+        بما ظهر له من هيبته حتّى ربّما عُرف ذلك بدلّة وشبهة
+      </p>
+
+      <p n="Kalila Questioning Dimna's Experience with Rulers">
+        قال كليلة كيف ترجو
+        <lb/>
+
+        المنزلة عند الأسد ولست بصاحب سلطان وليس لك علم بخدمتهم
+        <lb/>
+
+        وأدبهم
+      </p>
+
+      <p n="Dimna's Analogy of Strength and Heavy Burdens">
+        قال دمنة إنّ القويّ الشديد لا يعجز عن الحمل الثقيل ولا يعبأ الشديد
+        <lb/>
+
+        بالحيلة
+      </p>
+
+      <p n="Kalila on Rulers' Favoritism">
+        قال كليلة فإنّ السلطان لا تتواخى كرامته أفضل من تحضر به مروءته
+        <lb/>
+
+        ولكنّه يريد بذلك من دنا منه
+      </p>
+
+      <p n="Analogy of Vine and Tree Proximity">
+        ويُقال إنّ مثل السلطان في ذلك مثل الكرم
+        <lb/>
+
+        الذي يتعلّق بأكرم الشجر ولكن بأدناها منه وكذلك أيضًا
+      </p>
+
+      <p n="Kalila Questioning Dimna's Proximity to the Lion">
+        فكيف ترجو المنزلة
+        <lb/>
+
+        عند الأسد ولست ممّن يدنو منه
+      </p>
+
+      <p n="Dimna's Explanation of Gaining Favor">
+        قال دمنة قد فهمت ما ذكرت وأنت صادق
+        <lb/>
+
+        ولكن اعلم أنّ الذين هم قرب السلطان قد كانوا وليست تلك منازلهم ثمّ دنوا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>
