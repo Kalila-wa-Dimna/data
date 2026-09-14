@@ -9,7 +9,7 @@ Source: `s3://kalila-pages-prod/public/data_prod/edition_data/`
 | Path | Contents |
 |------|----------|
 | `edition_data/manuscripts/` | Per-witness page JSON by siglum / chapter / page |
-| `edition_data/xmldata/` | TEI page XML by siglum / chapter / page |
+| `edition_data/xml_data/` | TEI page XML by siglum / chapter / page |
 | `edition_data/collations/` | Chapter collation export files |
 | `edition_data/unit_profiles/` | Unit profile JSON for AI / analysis |
 | `edition_data/manuscripts_description/` | Manuscript metadata |
