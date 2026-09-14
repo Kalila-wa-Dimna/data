@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>VAF298</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="44"/>
+
+      <p n="Superior People Approaching Kings">
+        أضعف مروءة من الناس الذي يرضى بالقليل ويفرح به
+      </p>
+
+      <p n="Contrast Between Ambitious and Content">
+        فأمّا أهل المروءات
+        <lb/>
+
+        والفضل فلا يغنيهم القليل دون أن يسموا إلى ما هم أهله
+      </p>
+
+      <p n="Lion's Hunting Behavior Analogy">
+        كالأسد الذي
+        <lb/>
+
+        يفترس الأرنب وإذا رأى البعير ترك الأرنب وعدل نحو البعير
+      </p>
+
+      <p n="Contrast Between Dog and Elephant Behavior">
+        أولا ترى
+        <lb/>
+
+        أنّ الكلب يبصبص مرارًا حتّى تلقي إليه الكسرة وإنّ الفيل المغتلم يعرف
+        <lb/>
+
+        قوته وفضله فإذا قدم إليه العلف مكرهًا لم يأكل حتّى يمسح ويتملّق له
+      </p>
+
+      <p n="Life Perspectives on Success and Failure">
+        ومن عاش ما عاش غير حامل المنزلة وفضله على نفسه وأصحابه فهو وإن
+        <lb/>
+
+        قلّ عمره طويل العمر ومن عاش في وحدة وقلّة فهو وإن طال
+        <lb/>
+
+        عمره قليل العمر
+      </p>
+
+      <p n="Definition of True Misery">
+        فإنّه يُقال من طال عمره في ضرّ
+      </p>
+
+      <p n="Comparison to Animals">
+        وهو إن ومن لم يكن همّه
+        <lb/>
+
+        إلّا بطنه فليعد من البقر والغنم
+      </p>
+
+      <p n="Kalila's Inquiry about Dimna's Plan">
+        قال كليلة فما هذا الذي تومي إليه
+      </p>
+
+      <p n="Dimna's Strategy to Approach the Lion">
+        قال
+        <lb/>
+
+        دمنة أريد أن أتعرّض للأسد عند هذه الفرصة فإنّه ضعيف الرأي
+        <lb/>
+
+        وقد التبس عليه وعلى جنده رأيهم ولعلّي على هذه الحال أدنوا من الأسد
+        <lb/>
+
+        فأصيب منه مكانًا وجاهًا
+      </p>
+
+      <p n="Kalila's Doubt about Lion's Confusion">
+        قال كليلة وما يدريك أنّ الأسد على قد التبس
+        <lb/>
+
+        عليه أمره
+      </p>
+
+      <p n="Dimna's Confidence in His Judgment">
+        قال دمنة بالرأي والحسن اعلم ذلك
+      </p>
+
+      <p n="Dimna's Confidence in Reading the Lion">
+        فإنّ الرجل ذو الرأي ربّما
+        <lb/>
+
+        عرف حال صاحبه وباطن أمره بما يظهر له منه حتّى ربّما عُرف ذلك
+        <lb/>
+
+        بفعله وشكله
+      </p>
+
+      <p n="Kalila Questioning Dimna's Experience with Rulers">
+        قال كليلة كيف ترجو المنزلة عند الأسد وليس لك علم
+        <lb/>
+
+        بخدمتهم وأدبهم
+      </p>
+
+      <p n="Dimna's Analogy of Strength and Heavy Burdens">
+        قال دمنة الرجل الشديد إذا رأى الحمل الثقيل
+        <lb/>
+
+        لم يصعب عليه
+      </p>
+
+      <p n="Kalila on Rulers' Favoritism">
+        قال كليلة فإنّ السلطان لا يرتجي بكرامته لفضل من يحضره
+        <lb/>
+
+        تمونه ولكن يؤثر بذلك من دنى منه
+      </p>
+
+      <p n="Analogy of Vine and Tree Proximity">
+        ويُقال إنّ مثل السلطان في ذلك مثل
+        <lb/>
+
+        الكرم الذي لا يتعلّق بأكبر الشجر لكن بأدناها منه
+      </p>
+
+      <p n="Comparison to Women's Preferences">
+        وكذلك النساء أيضًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

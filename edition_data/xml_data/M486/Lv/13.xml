@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M486</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="13"/>
+
+      <p n="Spread Secrets Like Clouds">
+        منقطع ولم يكذّبه أحد على ذلك بل يصدّقه كلّ من رآه منقطعًا
+      </p>
+
+      <p n="Friend Is Delighted With Knowing Burzoy">
+        وأمّا أنا فقد
+        <lb/>
+
+        استقرّ سروري وابتهاجي بمودّتك وخلطتك
+      </p>
+
+      <p n="Friend Fears Secret Spreads">
+        وهذا الأمر الذي تطلبه منّي هو سرّ
+        <lb/>
+
+        ليس يُكتتم ولا بدّ أن يُذاع في مجالس فإذا اشتهر هلكت نفسي هلاكًا لا أقدر
+        <lb/>
+
+        على التخلّص منه
+      </p>
+
+      <p n="Indian King Is Harsh">
+        فإنّ ملكنا هذا قد يعاقب على الذنب اليسير أشدّ عقوبة فكيف على
+        <lb/>
+
+        هذا الأمر الجسيم الذي تحملني المودّة والصداقة على أن أسعفك به فإذا علم به
+        <lb/>
+
+        لم يردّ بأسه عنّي لا مال ولا غرض ولا شفاعة
+      </p>
+
+      <p n="Scholars Commend Discrete Friend">
+        قال بروزيه إنّ العلماء قد مدحت الصديق
+        <lb/>
+
+        إذا كتم سرّ صديقه
+      </p>
+
+      <p n="Burzoy Entrusts Secret To Friend">
+        وهذا الأمر الذي قدمت ﻷجله وإيّاك اعتهدت وإليك قصدت
+        <lb/>
+
+        ومنك أرجو إنجازه وهو العظيم والخطب الجسيم
+      </p>
+
+      <p n="Burzoy Sure Of Friends Abilities">
+        وأنا واثق بعقلك ولطفك فإذا رحلت عنك
+        <lb/>
+
+        أمنت على نفسك
+      </p>
+
+      <p n="Friend Provides Book">
+        فعند ذلك شفق عليه الهنديّ وسلّم إليه كتاب كليلة ودمنة
+      </p>
+
+      <p n="Burzoys Effort In Translation">
+        فلمّا وقع الكتاب
+        <lb/>
+
+        في يد بروزيه اجتهد في كتابته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

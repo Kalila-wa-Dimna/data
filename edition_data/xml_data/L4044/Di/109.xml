@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="109"/>
+
+      <p n="Dimna Claims to Be a Victim of Scheme">
+        وقد عرفت أنّه قد تخوّف مثلها منّي غيرُ واحد من أهل الغشّ والعداوة
+        <lb/>
+
+        للملك فنصبوا لي العداوة وأجمعوا على طلب هلاكي
+      </p>
+
+      <p n="Dimna Feels Ill-Rewarded for Warning the King">
+        وما كنت أرجو
+        <lb/>
+
+        أن يكون جزائي على النصيحة وحسن البلاء حزن الملك على تركه إيّاي
+        <lb/>
+
+        حيًّا
+      </p>
+
+      <p n="The Lion Orders an Investigation">
+        فلمّا سمع الأسد قوله أمر به إلى القاضي وقال لقاضيه فتّش
+        <lb/>
+
+        عن أمره فإنّي لا أحبّ أن أحكم على محسن ولا مسيء إلّا بظاهر من
+        <lb/>
+
+        وجود الحقّ والعدل
+      </p>
+
+      <p n="Judge Deems Investigation Useful">
+        قال القاضي أيّها الملك إنّه لا شيء
+        <lb/>
+
+        أكشف للعمى وأوضح للشبهة وأشدّ استخراجًا لغامضات الأشياء من الاجتهاد
+        <lb/>
+
+        والمبالغة في الفحص والكشف
+      </p>
+
+      <p n="Dimna States Investigation Will Clear Him">
+        قال دمنة ولستَ حقيقًا أيّها الملك
+        <lb/>
+
+        بالعجلة في قتلي بقول الأمّ بل يبحث الملك على هذا الأمر فإنّه كلّما
+        <lb/>
+
+        ازداد في شأني نظرًا ازداد ببراءتي ونصيحتي يقينًا
+      </p>
+
+      <p n="Hidden Fire Is Extracted Only with List/Labor">
+        وقد علمت أيّها الملك أنّ
+        <lb/>
+
+        النار تكون مسكنها الشجر والحجر لا تُخرج ولا يوصَل إلى منافعها إلّا
+        <lb/>
+
+        بالعمل والطلب
+      </p>
+
+      <p n="If Guilty Dimna Would Prefer No Investigation">
+        ولو كنت مجرمًا لتخوّفت التكشّف عن أمري لأنّي أصبحت
+        <lb/>
+
+        ببراءتي عالمًا أرجو أن يستخرج الفحص صحّة أمري
+      </p>
+
+      <p n="Stirred Up Mud Stinks">
+        وكذلك كلّ شيء طابت
+        <lb/>
+
+        ريحه بالتثوير يزيده فوحًا وظهورًا
+      </p>
+
+      <p n="Dimna Cites His Staying as Proof of Innocence">
+        ولو كنت عرفت لنفسي ذنبًا لوجدت
+        <lb/>
+
+        في الأرض مذهبًا ولما لزمت باب الملك أنتظر ثواب عمل
+      </p>
+
+      <p n="Dimna Asks for Unimpeachable Investigator">
+        وأسأله الفحص
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

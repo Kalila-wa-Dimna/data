@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="80"/>
+
+      <p n="Man Jumping into the River and Rescue">
+        وكاد أن يغرق فبصر به قوم فاحتالوا لإخراجه فأخرجوه مشرفًا
+        <lb/>
+
+        على الهلاك
+      </p>
+
+      <p n="Man's Temporary Safety">
+        فلمّا حصل خلف الوادي وأمن على نفسه من الذئب
+      </p>
+
+      <p n="Man Entering an Isolated House">
+        رأى
+        <lb/>
+
+        على شاطئ الوادي بيتًا مفردًا فقال في نفسه أدخل هذا البيت فأستريح
+        <lb/>
+
+        فيه ساعة وأصير إلى القرية
+      </p>
+
+      <p n="Encounter with Thieves in the House">
+        فلمّا دخل البيت وجد فيه لصوصًا
+        <lb/>
+
+        قد قطعوا الطريق على رجل من التجار فأخذوا ماله وهمّوا بقتله
+      </p>
+
+      <p n="Man Flees to Another Village">
+        فهرب
+        <lb/>
+
+        من اللصوص ومضى يطلب القرية
+      </p>
+
+      <p n="Man Resting Against a Wall">
+        فأسند ظهره إلى حائط من حيطانها
+        <lb/>
+
+        يستريح ممّا مرّ في من الإعياء والأهوال
+      </p>
+
+      <p n="Wall Collapsing and Killing the Man">
+        فسقط الحائط عليه فمات
+      </p>
+
+      <p n="Merchant Acknowledging the Story">
+        قال التاجر صدقت قد بلغني هذا الحديث
+      </p>
+
+      <p n="Merchant's Acceptance of Ox's Fate">
+        وتعزّى التاجر
+      </p>
+
+      <p n="Ox Enjoying Abundant Food and Water">
+        ثمّ
+        <lb/>
+
+        إنّ الثور انبعث من مكانه فلم يزل يدبّ حتّى انتهى إلى مرج مخصب
+        <lb/>
+
+        كثير الماء
+      </p>
+
+      <p n="Ox's Physical Transformation and Attitude Change">
+        فلم يلبث أن سمن وعكن شحمًا
+      </p>
+
+      <p n="Ox's Loud Bellowing and Behavior">
+        ولم يزل يزر قرنيه في الأرض ويجؤر
+        <lb/>
+
+        ويرفع صوته بالجؤار
+      </p>
+
+      <p n="The Lion and His Animal Subjects">
+        وكان قربه أسد هو ملك تلك الناحية
+        <lb/>
+
+        ومعه سباع كثيرة من الذئاب وبنات آوى وسائر أصناف الوحوش
+      </p>
+
+      <p n="Lion's Overconfidence and Poor Judgment">
+        وكان الأسد منفردًا برأيه مزهوًّا به وكان رأيه غير كامل
+      </p>
+
+      <p n="Lion's Reaction to Unfamiliar Sound">
+        وإنّ
+        <lb/>
+
+        الأسد لمّا سمع جؤار الثور ولم يكن رأى ثورًا قطّ ولا سمع جؤاره
+        <lb/>
+
+        رعب
+      </p>
+
+      <p n="Concerned for Appearance, Lion Stays Immobile">
+        وكره أن يفطن لذلك جنده وأقام بمكانه
+      </p>
+
+      <p n="Introduction of Kalila and Dimna">
+        وكان معه من
+        <lb/>
+
+        السباع ابني آوى يُدعى أحدهما كليلة والآخر دمنة
+      </p>
+
+      <p n="Kalila and Dimna's Characteristics">
+        وكلاهما كانا
+        <lb/>
+
+        ذا دهاء ومكر وأدب
+      </p>
+
+      <p n="Dimna's Ambitious Nature">
+        وكانه دمنة أشرّهما نفسًا وأبعدهما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

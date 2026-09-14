@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="54"/>
+
+      <p n="The Merchant Discovers the Error at Home">
+        فاقد فاغتمّ لذلك غمًّا شديدًا
+      </p>
+
+      <p n="The Partner Fears Accusation (Monologue)">
+        وقال وا أسفاه على رفيقي
+        <lb/>
+
+        الصالح الذي ائتمنني على ماله وخلفني في الحانوت بعده
+        <lb/>
+
+        فماذا يكون حالي عنده إذا استفقد أعداله ولست أشكّ
+        <lb/>
+
+        في تهمته إيّاي
+      </p>
+
+      <p n="The Partner Fears Accusation (Dialogue)">
+        فلم يزل مغمومًا حتّى وافى شريكه فوجده
+        <lb/>
+
+        مغتمًّا فسأله عن حاله فقال له إنّني افتقدت عدلًا من
+        <lb/>
+
+        أعدالك وإنّي لا أعلم سبب فقده ولا أشكّ في تهمتك
+        <lb/>
+
+        إيّاي وقد وطّنت نفسي على غرامتي لك العدل
+      </p>
+
+      <p n="The Merchant Admits Treachery">
+        فقال له
+        <lb/>
+
+        يا أخي لا تغتمّ فإنّ الخيانة أشرّ ما استعمله الإنسان
+        <lb/>
+
+        والمكر والحيلة لا يحيطان إلّا بأهليهما وصاحبهما المغرور
+        <lb/>
+
+        بما عاد عليه من وبال البغي لأنّ البغي له مصرف وإنّني
+        <lb/>
+
+        أنا بعض من مكر بك وخادع
+      </p>
+
+      <p n="The Merchant Explains Events upon Request">
+        فقال رفيقه وكيف ذلك
+        <lb/>
+
+        فأخبره بالأمر الذي توقّع معاه وقصّ له قصّته وقرّ
+        <lb/>
+
+        بذنبه وكيف أخذ العدل وما لقي فيه من الجهد والنصب
+        <lb/>
+
+        والرعب وبعد هذا كانت سرقتي لمالي
+      </p>
+
+      <p n="The Partner's Parable about the Thief">
+        فقال له رفيقه
+        <lb/>
+
+        ما أشبه ما نالك مثلما نال اللصّ من التاجر قال
+        <lb/>
+
+        له وكيف ذلك
+      </p>
+
+      <p n="The Thief Who Mistakes Grain for Gold">
+        قال له زعموا أنّه كان تاجرًا وفي حانوته
+        <lb/>
+
+        خابيتان أحدهما مملوء ورقًا والآخر مملوء برًّا
+      </p>
+
+      <p n="The Thief Eyes Jar">
+        فترقّبه اللصّ زمانًا طويلًا حتّى أحكمته الفرصة أنّ
+        <lb/>
+
+        التاجر فتشاغل في بعض الأيّام مع الناس
+        <lb/>
+
+        في الأخذ والعطاء فجاء اللصّ ودخل حانوته وكمن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

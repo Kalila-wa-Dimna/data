@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="109"/>
+
+      <p n="The Plot Backfires">
+        من دبر الرجل ريح فعكست السمّ إلى حلق المرأة فوقعت ميّتة وكلّ ذلك
+        <lb/>
+
+        بعين الناسك وسمعه
+      </p>
+
+      <p n="The Ascetic Seeks New Lodging">
+        فلمّا رأى ذلك خرج يبتغي منزلًا غيره
+      </p>
+
+      <p n="The Ascetic and the Shoemaker">
+        فاستضاف رجل
+        <lb/>
+
+        اسكاف فأتى به امرأته فقال لها انظري إلى هذا الناسك وأكرمي مثواه وقومي
+        <lb/>
+
+        بخدمته فقد دعاني بعض أصدقائي للشرب عنده
+      </p>
+
+      <p n="The Shoemaker Departs">
+        ثمّ انطلق ذاهبًا
+      </p>
+
+      <p n="The Wife Summons Her Lover">
+        وكان
+        <lb/>
+
+        للمرأة خليل والسفير بينهما امرأة حجّام فأرسلت امرأة الاسكاف إلى امرأة
+        <lb/>
+
+        الحجّام تأمرها بالمصير إليها وتعرّف خليلها خلوّ وجهها وقالت إنّ زوجي قد ذهب
+        <lb/>
+
+        ليشرب عند بعض أصدقائه ولن يعود إلّا سكرانًا فقولي له يسرّع الكرّة
+      </p>
+
+      <p n="The Lover Waits">
+        ثمّ إنّ خليل المرأة جاء فقعد على الباب ينتظر الإذن
+      </p>
+
+      <p n="The Shoemaker's Suspicion">
+        وجاء الاسكاف سكرانًا
+        <lb/>
+
+        فرأى الرجل فارتاب به
+      </p>
+
+      <p n="The Wife is Beaten and Tied Up">
+        ودخل مغضبًا إلى امرأته فأوجعها ضربًا ثمّ أوثقها
+        <lb/>
+
+        في اسطوانة في المنزل وذهب فنام لا يعقل
+      </p>
+
+      <p n="The Go-Between's Inquiry">
+        وجاءت امرأة الحجّام تعلمها
+        <lb/>
+
+        أنّ الرجل قد أطال الجلوس فماذا تأمرين
+      </p>
+
+      <p n="The Wives Swap Places">
+        فقالت لها إن شئت فأحسنت إليّ
+        <lb/>
+
+        وحلّيتني وربطتك مكاني حتّى انطلق إلى خليلي وأعجّل العودة
+      </p>
+
+      <p n="The Swap is Made">
+        فأجابتها امرأة الحجّام
+        <lb/>
+
+        إلى ذلك وحلّتها وانطلقت إلى خليلها وأوثقت هي نفسها مكانها
+      </p>
+
+      <p n="The Shoemaker Wakes">
+        فاستيقظ
+        <lb/>
+
+        الاسكاف قبل أن تعود زوجته فناداها باسمها فلم تجبه امرأة الحجّام وخافت
+        <lb/>
+
+        من الفضيحة أن ينكر صوتها ثمّ دعاها ثانية فلم تجبه فامتلأ غيظًا وحنقًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

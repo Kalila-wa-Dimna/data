@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="26"/>
+
+      <p n="unassigned">
+        سامع فيكون في ذلك ما تكرهين فقالت لعمري لم يكن أحد ا يسمع كلامنا
+      </p>
+
+      <p n="Husband Explains Spell">
+        قال
+        <lb/>
+
+        جمعتها من السرقة قالت وكيف وأنت في أعين الناس عدل مرضيّ قال ذلك بعلم
+        <lb/>
+
+        أصبته وكان الأمر ألطف من أن يرتاب بي أحد قالت وكيف ذلك قال كنت أذهب
+        <lb/>
+
+        في الليلة المقمرة ومعي أصحابي حتّى أعلو ظهر البيت الذي أريد أن أسرق فأنتهي إلى الكوّة
+        <lb/>
+
+        التي يدخل منها الضوء ثمّ أقول شولم شولم تسع مرّات ثمّ أعتنق الضوء وأهبط
+        <lb/>
+
+        فلا يحسّ بوقوعي أحد
+      </p>
+
+      <p n="Burglars Cheer At Spell">
+        فسمعه عريف اللصوص وجماعته وسرّوا بذلك سرورًا تامًّا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

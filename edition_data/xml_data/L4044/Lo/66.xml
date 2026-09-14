@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="66"/>
+
+      <p n="Kalila's Objection">
+        شدّته ذو رأي وعقل فماذا تستطيع له
+      </p>
+
+      <p n="The Rabbit and the Lion Parable">
+        قال دمنة إنّ الثور كما ذكرت
+        <lb/>
+
+        في قوّته وشدّته ورأيه ولكنّه بي مغترًّا وإليّ آمن وأنا خليق أن أصرعه
+        <lb/>
+
+        كما صرع مرّة أرنب أسدًا
+      </p>
+
+      <p n="Kalila Asks for the Story">
+        قال كليلة وكيف كان ذلك
+      </p>
+
+      <p n="The Tyrannical Lion">
+        قال دمنة
+        <lb/>
+
+        زعموا أنّ أسدًا كان في أرض كثيرة الماء والخصب والعشب وكان ما بتلك
+        <lb/>
+
+        الأرض من الوحوش في سعة من الماء والمرعى إلّا أنّ ذلك لم يكن ينفعها
+        <lb/>
+
+        من خوف الأسد
+      </p>
+
+      <p n="The Animals' Proposal">
+        فائتمرت تلك الوحوش واجتمعت إلى الأسد وقالت إنّك
+        <lb/>
+
+        لا تصيب منّا الدابّة في اليوم إلّا بعد نصب وتعب وقد رأينا رأيًا لنا ولك
+        <lb/>
+
+        فيه راحة
+      </p>
+
+      <p n="The Bargain">
+        فإن أنت أمّنتنا ولم تخفنا فلك علينا دابّة في كلّ يوم نرسل
+        <lb/>
+
+        بها إليك عند غدائك
+      </p>
+
+      <p n="The Lion Agrees">
+        فرضي الأسد بذلك وصالحهم عليه
+      </p>
+
+      <p n="The Agreement is Kept">
+        وأقمن على ذلك
+        <lb/>
+
+        زمانًا
+      </p>
+
+      <p n="The Daily Lottery">
+        وإنّ السباع كنّ يقترعن في كلّ يوم فمن أصابته القرعة منهنّ أرسلن
+        <lb/>
+
+        به إلى الأسد مع بعض السباع يبلّغه ذلك حتّى يأكله
+      </p>
+
+      <p n="The Cunning Rabbit's Turn">
+        ثمّ إنّ أرنبًا أصابه
+        <lb/>
+
+        القرعة فقالت لهنّ إن أنتن رفقتنّ بي فلا يضرّكنّ لعليّ أريحكنّ من الأسد
+      </p>
+
+      <p n="The Animals' Question">
+        فقلن لها وما الذي تكلّفيننا من الرفق
+      </p>
+
+      <p n="The Rabbit's Request">
+        قالت هيّنًا من الأمر تأمرن الذي
+        <lb/>
+
+        ينطلق بي إلى الأسد ثمّ لا يتبعني لعلّي أبطئ على الأسد بعض الإبطاء
+        <lb/>
+
+        حتّى يتأخّر غداؤه ثمّ يتأخّر منّي وأتقدّم وحدي
+      </p>
+
+      <p n="The Animals Agree">
+        فقلن لك ذلك
+      </p>
+
+      <p n="The Rabbit's Delay">
+        فانطلقت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

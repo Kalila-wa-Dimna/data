@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="40"/>
+
+      <p n="Kisra Calls Burzoy Back">
+        واستعمل علمك
+      </p>
+
+      <p n="God Loves The Intelligent">
+        فإنّ الله يحبّ من عباده العقلاء
+      </p>
+
+      <p n="Experience Makes Reason Complete">
+        وإنّما يتمّ العقل
+        <lb/>
+
+        بالتجربة ويحفظه ويجمعه الصبر والعزم والاجتهاد
+      </p>
+
+      <p n="Kisra Dispatches Letter">
+        ثمّ ختم
+        <lb/>
+
+        الكتاب وبعثه مع بريده
+      </p>
+
+      <p n="Messanger To Be Vigilant">
+        وأمره أن يكون سيره ليلًا ويكمن
+        <lb/>
+
+        نهارًا خوفًا أن لا يظفر به فيقرأ الكتاب ويفشو السرّ
+        <lb/>
+
+        الذي كانوا يكتمونه فيذهب عمله ضياعًا وخسرانًا
+      </p>
+
+      <p n="Burzoy Returns To Persia">
+        فلمّا انتهى
+        <lb/>
+
+        الرسول إلى برزويه دفع إليه الكتاب سرًّا فقرأه ووقف عليه
+        <lb/>
+
+        ثمّ خرج بعد ذلك يطوي الليل والنهار حتّى قدم فارس
+      </p>
+
+      <p n="Burzoy Rejoins Kisra">
+        فلمّا بلغ
+        <lb/>
+
+        أنوشروان قدومه أمر بإدخاله إليه فلمّا مثل بين يديه سجد
+        <lb/>
+
+        له ثمّ قام مكفّرًا بين يديه
+      </p>
+
+      <p n="Burzoys Exhaustion Shows">
+        فلمّا رأي أنوشروان ما أصابه من
+        <lb/>
+
+        الشجون واللغوب والتعب والنصب
+      </p>
+
+      <p n="Kisra Announces Reward">
+        قال أيّها العبد
+        <lb/>
+
+        الصالح الذي يأكل ثمرة نصحه أبشر وقرّ عينًا فإنّك قد استوجبت
+        <lb/>
+
+        الشكر وأنا مشرّفك وبالغ بك أفضل درجة
+      </p>
+
+      <p n="Kisra Orders Rest">
+        وأمره أن يريح
+        <lb/>
+
+        بدنه في منزله أربعة أيّام ففعل
+      </p>
+
+      <p n="Kisra Holds K D Public Reading">
+        ولمّا تروّح ورجع في جسمه
+        <lb/>
+
+        دخل على الملك والناس مجتمعون فأمره أن يقرأ عليهم الكتاب
+        <lb/>
+
+        فقام بروزيه على رؤوس الناس فقرأ عليهم
+      </p>
+
+      <p n="K D Well Received">
+        فلمّا سمعوا الأعاجيب
+        <lb/>
+
+        التي تكلّم بها على ألسنة الطير والوحش والبهائم رضوا
+        <lb/>
+
+        وشكروا الله على ما رزقهم ومدحوا برزويه وأثنوا عليه
+      </p>
+
+      <p n="Kisra Opens Treasury">
+        فأمر الملك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

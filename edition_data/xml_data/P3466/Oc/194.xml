@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="194"/>
+
+      <p n="The Crow Kingdom and the Owl Kingdom">
+        مكان فيه وكر ألف بومة عليها ملك منها
+      </p>
+
+      <p n="The Owls Attack the Crows">
+        فخرج
+        <lb/>
+
+        ملك البوم ليلة فأغار على الغربان بمن معه من البوم فقتل
+        <lb/>
+
+        منهم كثيرًا
+      </p>
+
+      <p n="The Morning in the Battle Aftermath">
+        فلمّا أصبح ملك الغربان جمع غربانه
+      </p>
+
+      <p n="The Crow King Evaluates the Damage">
+        وقال لهنّ
+        <lb/>
+
+        قد ترون ما لقيتنّ من البوم
+      </p>
+
+      <p n="The Crow King Fears Recurring Aggression">
+        وأشدّ ممّا أصابكنّ علمهنّ بمكانكنّ
+        <lb/>
+
+        وجرأتهنّ عليكنّ وهنّ عائدات عليكنّ بمثل الذي لقيتنّ منهنّ
+        <lb/>
+
+        وغير مقلعات عنكنّ فانظرْن في أمركنّ وأجمعْن
+        <lb/>
+
+        رأيكنّ
+      </p>
+
+      <p n="Input from the Five Wise Crows is Sought">
+        وكان فيهن خمس غربان يُعرف لهنّ بالفضل في الرأي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

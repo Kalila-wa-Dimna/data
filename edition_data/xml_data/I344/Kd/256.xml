@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="256"/>
+
+      <p n="King And Vizier Tale">
+        قال الفيلسوف كان رجل من الملوك بالهند
+        <lb/>
+
+        عظيم المنزلة مظفّرًا حسن التدبير قائمًا بسلطانه وكان
+        <lb/>
+
+        له وزير يُسمّى بلاد
+      </p>
+
+      <p n="King Dreams">
+        وإنّ المَلك كان نائمًا ذات ليلة
+        <lb/>
+
+        على فراش له فرأى في المنام رؤيا سبعة مرار ثمّ
+        <lb/>
+
+        انتبه فعادت عليه ثمّ انتبه فعادت عليه ثمّ انتبه
+        <lb/>
+
+        فعادت عليه
+      </p>
+
+      <p n="Dreams">
+        وكان رأى في منامه سمكتين حمراوتين
+        <lb/>
+
+        يستقبلانه على أذنابهما وبطّتين طارتا من خلفه
+        <lb/>
+
+        فصارتا بين يديه وحيّة ثُنيت على رجليه ورأى
+        <lb/>
+
+        جسمه مخضّبًا بالدم وأنه غسل جميع بدنه بالماء ورأى
+        <lb/>
+
+        أنّه قائم على خيل أبيض ورأى على رأسه شيء شبيهًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

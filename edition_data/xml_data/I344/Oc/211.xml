@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="211"/>
+
+      <p n="unassigned">
+        فذعرت المرأة منه فوثبت على الشيخ فالتزمته فانتبه الشيخ
+        <lb/>
+
+        فقال في نفسه كيف أعطاني الله هذه النعمة فلمّا بصر السارق
+        <lb/>
+
+        وعرف القصّة ناداه أيّها السارق أنت في حلّ ممّا أردت
+        <lb/>
+
+        أخذه من بيتي ومن مالي ذلك العقل عليّ والبرّ عندي لما اصطنعت
+        <lb/>
+
+        قبلي والله سبحانه وتعالى أعلم بالصواب
+        <lb/>
+
+        ثمّ إنّ المَلك سأل الوزير الثالث من وزرائه عن رأيه في الغراب فقال
+        <lb/>
+
+        أرى أنّ تستبقيه وتحسن إليه فإنّه خليق أن ينصحنا ويكون
+        <lb/>
+
+        معينًا لنا على الغربان فإنّ من الإحكام الذي يمكّن الرجل من أعدائه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

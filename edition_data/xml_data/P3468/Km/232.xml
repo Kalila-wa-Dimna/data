@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3468</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="232"/>
+
+      <p n="The Plan Is to Be Re-enacted in All Households">
+        نمهّد لنا أعذارًا في سائر بيوت المدينة
+      </p>
+
+      <p n="The People Kill the Cats">
+        وتجرّب الناس قتل
+        <lb/>
+
+        السنانير وطردهم من البيوت حتّى لا يعود يأويهم أحد
+      </p>
+
+      <p n="The Third Vizier Foretells Success">
+        ونقيم
+        <lb/>
+
+        نحن في رغد وأمن
+      </p>
+
+      <p n="The King Enacts the Plan and the Cats Are Killed">
+        ففعل الملك ذلك فما مضت ستّة
+        <lb/>
+
+        أشهر حتى تطيّر الناس من السنانير لما نالهم من التجربة بسببهم
+        <lb/>
+
+        وطفقوا بهم قتلًا ونفيًا وطردوهم بجملتهم حتّي لم يبق في تلك
+        <lb/>
+
+        المدينة سنّورًا واحدًا
+      </p>
+
+      <p n="The Damage Is Attributed to the Cats">
+        وتمرّن الناس على إبعادهم حتّى أنّه
+        <lb/>
+
+        متى رأى أحد قرض فأر في ثوبه أو إزاره يقول انظروا
+        <lb/>
+
+        لا يكون مرّ بمنزلي سنّور
+      </p>
+
+      <p n="Man Should Heed This Example">
+        فإذا كان هذا الحيوان الضعيف
+        <lb/>
+
+        توصّل بالحيلة على استئصال عدوّه حتّى تخلّص منه فما ظنّك
+        <lb/>
+
+        بالإنسان وهو أشرف الحيوان وأميزه بواسطة العلم
+        <lb/>
+
+        والعقل وإعمال الحيل فيما يقدره
+      </p>
+
+      <p n="End of Chapter">
+        انقضى باب مهراز بن ملك
+        <lb/>
+
+        الجرذان
+      </p>
+
+      <p n="unassigned">
+        باب الجرذ والسنّور
+        <lb/>
+
+        قال ديشلم الملك لبيدنا الفيلسوف قد فهمت هذا المثل
+        <lb/>
+
+        فاضرب لي مثل رجل ضعيف وأعداؤه كثيرة وقد حصروه
+        <lb/>
+
+        من كل مكان إلى أن أشفى على الهلاك فالتمس الصلح لبعض
+        <lb/>
+
+        اعدائه فسلم بذلك ووفّا لمن صالح وأخبرني عن الصلح كيف
+        <lb/>
+
+        ينبغي أن يُلتمس قال الفيلسوف اعلمْ أيها الملك المبجّل
+        <lb/>
+
+        المحتشم أنّ العداوة والولاية والمودّة والبغض أشياء ليس
+        <lb/>
+
+        كلّها تدوم وتثبت وربّما انقلبت المودّة بغضة وتحوّلت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

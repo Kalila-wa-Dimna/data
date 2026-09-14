@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="18"/>
+
+      <p n="The Burglar Attempts to Steal the Jar's Contents">
+        <> صبّ بالبرّ في الملحفة لينطلق به
+      </p>
+
+      <p n="The Pauper Panics">
+        قال ليس على هذا
+        <lb/>
+
+        صبر يذهب هذا بالبرّ فيجتمع عليّ الجوع والعري
+        <lb/>
+
+        شيئان ما اجتمعا على أحد إلّا أهلكاه
+      </p>
+
+      <p n="The Pauper Chases the Burglar Away, Keeps His Garb">
+        ثمّ إنّه
+        <lb/>
+
+        صاح بالسارق ووثب من مكانه فتناول خشبة
+        <lb/>
+
+        كانت عند رأسه ثمّ عدا عليه فخرج السارق هاربًا
+        <lb/>
+
+        وترك الملحفة فأخذها الرجل فلبسها وأعاد البرّ إلى مكانه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="166"/>
+
+      <p n="The King Asks about Dimna's Fate">
+        أمر الأسد بقتله وكيف ظهر ذلك في أمر
+      </p>
+
+      <p n="The Philosopher's Answer About the King's Killing">
+        قال بيدبا الفيلسوف
+        <lb/>
+
+        بلغنا أنّ الأسد لمّا قتل الثور مضى لذلك أيّام
+      </p>
+
+      <p n="A Leopard Was the Lion's Confidant">
+        خرج النمر ذات ليلة
+        <lb/>
+
+        وهو معلّم الأسد وأمينه
+      </p>
+
+      <p n="The Leopard Overhears Kalila Chastising Dimna">
+        يطلب أن يقبس نارًا من بيت كليلة
+        <lb/>
+
+        ودمنة فلمّا انتهى إلى بابهما إذا كليلة يلوم دمنة ويعذله
+        <lb/>
+
+        إلى سوء رأيه وما ارتكب من الثور ظلمًا بغير ذنب كان منه
+      </p>
+
+      <p n="Kalila Predicts Dimna's Doom">
+        ويخبره
+        <lb/>
+
+        أنّه غير ناج من الأسد وأنّه لا بدّ أنّ يطّلع على ما كان منه من أمر نميمته
+        <lb/>
+
+        وكذبه فيعاقبه عقوبة يكون فيها هلاكه
+      </p>
+
+      <p n="Kalila Rejects Dimna as Friend">
+        وقال له فيما قال
+        <lb/>
+
+        لست متّخذك خليلًا بعد اليوم ولا مفشيًا إليك سرًّا
+      </p>
+
+      <p n="One Must Avoid Bad People">
+        فإنّ العلماء
+        <lb/>
+
+        قالوا تباعد ممّن لا رغبة له في الخير وتخلَ عن أهل النميمة
+      </p>
+
+      <p n="The Leopard Confides in the Lion's Mother">
+        فلمّا
+        <lb/>
+
+        سمع النمر ذلك منهما انصرف ودخل على أمّ الأسد فخبرّها بما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

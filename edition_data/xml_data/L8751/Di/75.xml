@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="75"/>
+
+      <p n="Kalila Advises Dimna to Confess">
+        لا محالة معاقبٌ بذنبك فاعترافك في الدنيا والقصاص منك خيرٌ لك من العذاب الدائم
+        <lb/>
+
+        في الآخرة
+      </p>
+
+      <p n="Dimna Wants to Await the Verdict">
+        فقال دمنة قد صدقت فيما ذكرت ولكنّي ناظرٌ إلى الذي يصير إليه آخر أمري
+      </p>
+
+      <p n="Kalila Goes Home">
+        وإنّ كليلة انصرف إلى منزله فوقع في همٍّ عظيمٍ وخوفٍ جسيمٍ مخافة أن يؤخذ بذنب
+        <lb/>
+
+        دمنة فيعذّب أشدّ العذاب ويعاقب بأنواع العقاب
+      </p>
+
+      <p n="Kalila Dies">
+        فشرب دواءً مسهلًا فاستطلق
+        <lb/>
+
+        فمات من ليلته
+      </p>
+
+      <p n="The Mother Calls In Lion's Promise to Act">
+        ثمّ إنّ الأسد دخلت عليه أمّه من الغد وقالت اذكر الذي وعدتني به
+        <lb/>
+
+        البارحة في أمر هذا الفاجر
+      </p>
+
+      <p n="Pious Acts and Curbing Sin Cannot Wait">
+        وقولك لجندك إنّه ينبغي للمرء أن يعمل بالتقوى ولا يتوانى في
+        <lb/>
+
+        ذلك وإنّي لا أعرف أمرًا أعظم أجرًا من الاستراحة منه
+      </p>
+
+      <p n="Who Helps Sinners Becomes Their Accomplice">
+        فإنّه يقال المعاون لأهل الإثم
+        <lb/>
+
+        شريكٌ لهم في أعمالهم
+      </p>
+
+      <p n="Lion Orders Leopard and Judge to Try Dimna">
+        فأمر الأسد بالنمر والقاضي أن يجلسا ويُدعى بدمنة على رؤوس
+        <lb/>
+
+        الناس ثمّ يسألانه ويرفعا إليه الذي يذكرون لهما منه ويصفون لهما عنه ولا يدعا من
+        <lb/>
+
+        ذلك شيئًا إلّا أنهياه إليه
+      </p>
+
+      <p n="Leopard and Judge Convene Trial">
+        فخرجا به لذلك
+      </p>
+
+      <p n="Leopard Recalls the Lion’s Sorrow for Killing the Ox">
+        ثمّ إنّ النمر قال أيّها الجند إنّ الملك لم يزلْ
+        <lb/>
+
+        منذ قتل شتربة مهمومًا حزينًا مكتئبًا لأنّه فعل ذلك به على غير ذنب لما رفعه عنه دمنة
+        <lb/>
+
+        إليه ونعته في مقالته عليه
+      </p>
+
+      <p n="Leopard Calls for Testimony">
+        فمن كان عنده علمٌ أو أمرٌ فليعلمْنا لنرفعه إليه
+      </p>
+
+      <p n="Due Process Will Be Followed">
+        فإنّه لا يقتل
+        <lb/>
+
+        أحدًا إلّا بعد الفحص والتثبّت والمعرفة واليقين لا للهوى والصحبة ولا للانتصار والمفاجأة
+      </p>
+
+      <p n="Judge Calls for Testimony on Three Accounts">
+        فقال القاضي انظروا ما تكلّم به الأمين فاتبعوه ولا يكتمنّ أحدًا منكنّ شيئًا علمه لخلالٍ
+      </p>
+
+      <p n="Importance of Due Process">
+        أمّا
+        <lb/>
+
+        إحداها فإنّه لا ينبغي لكم أن تكرهوا وقوع القضاء على ما وافقكم أو خالفكم
+      </p>
+
+      <p n="Consequences of Taking Evil Deeds Lightly">
+        ولا تصغروا منه
+        <lb/>
+
+        شيئًا فإنّ صغير الحقّ عظيمٌ ولا أفضع منه عند الله جلّ اسمه وأن يقتل بريئٌ على غير ذنبٍ لنميمة
+        <lb/>
+
+        فاجرٍ كذّابٍ
+      </p>
+
+      <p n="Punishment of Crime is a Deterrent">
+        والثانية أنّ المجرم إذا نُكّل به لم يجترئ أحدٌ غيره على أشباه ما ركب خوف
+        <lb/>
+
+        العقوبة وكان في ذلك صلاح الجند
+      </p>
+
+      <p n="Eliminating Criminals Benefits Society">
+        والثالثة إذا قُتل ذو الفجور والكذب والنميمة
+        <lb/>
+
+        كان في ذلك راحةٌ للملك وجنوده لأنّ كينونته بلاءً عليهم وشرٌّ لازمٌ لهم
+      </p>
+
+      <p n="Judge Reiterates the Call for Testimony">
+        فلينطقْ كلّ رجلٍ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

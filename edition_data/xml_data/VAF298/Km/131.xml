@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>VAF298</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="131"/>
+
+      <p n="Exile Is Death">
+        إنّ الرجل إذا نزل وطنه وأهله واحتاج فيه إلى من يعرفه فلم يجد فهوّ معدود
+        <lb/>
+
+        من الموتى خاصّة إذا شاركه خوف وفزع فذلك حياته موت وموته
+        <lb/>
+
+        راحة
+      </p>
+
+      <p n="Two Viziers Praise the Virtues of the Rat King">
+        فلمّا فرغ بهرام من كلامه أجابه شيزغ وبغداد فقالا أطال الله
+        <lb/>
+
+        بقاء الملك السيّد في أتمّ السرور ولقد فكّرت فأصبت وقلت فأحسنت
+      </p>
+
+      <p n="Bad Planning Fails">
+        وقد
+        <lb/>
+
+        قالت العلماء في مثلنا ومثلك كلّ مدبّر مدبّر حكيم فإن أخلط وجهل
+        <lb/>
+
+        بالمدبَّر له أفسد جميع أمور تدبيره
+      </p>
+
+      <p n="Affairs Require a Wise Planner">
+        وقد قالت العلماء أيضًا إنّ الأمور
+        <lb/>
+
+        أمران لا يتهيّأ دفعهما إلاّ بمدبّر حكيم ذي فخر وعقل ومكر وغدر
+      </p>
+
+      <p n="The Viziers Rely on the Wisdom of the King">
+        ونحن
+        <lb/>
+
+        متّكلون على حسن سياستك وما وهبك الله من الحكمة
+      </p>
+
+      <p n="The Viziers Are Eager to Support the King">
+        وإنّا لأمرك سامعون
+      </p>
+
+      <p n="The Rats Must Work Together">
+        وينبغي لسائر الجرذان في بلدنا هذه وسائر البلاد المعاضدة لسيّدنا
+        <lb/>
+
+        الملك الاجتهاد في ذلك
+      </p>
+
+      <p n="The Rat King Chides the Silent Vizier">
+        فلمّا سمع الملك كلامهما التفت إلى رودباد
+        <lb/>
+
+        مغضبًا وقال أما لك لا تنطق مع أصحابك وما عذرك في ذلك ولا تبدي
+        <lb/>
+
+        ما عندك ألا تعلم أنّ في هذه الدنيا خلق كثير لهم عقل وبصيرة وغلبتهم ملوك
+        <lb/>
+
+        وحكماء وإذا ورد عليهم أمرًا من الأمور تفكّروا فيه صعبًا كان أو سهلًا
+        <lb/>
+
+        ولم يشينهم في المشاورة شين ولا نكس فإن كان الأمر الذي تفكّرنا فيه
+        <lb/>
+
+        وإن كان مُشِطّ فلا ينبغي أن نجتهد عليه
+      </p>
+
+      <p n="The Rat King Has the Third Vizier Respond">
+        فأحبّ منكم أن يقول كلّ واحد
+        <lb/>
+
+        منكم ما عندهم ويجيبنا عن قوله بما يراه
+      </p>
+
+      <p n="The Third Vizier Was Listening">
+        فلمّا سمع رودباد قول الملك قال
+        <lb/>
+
+        أيّها الملك لا تعذلني على سكوتي فإنّما سكتّ عن الإجابة لأنّي كنت مفكّرًا
+        <lb/>
+
+        في الجواب وما قال شيزغ وبغداد ولا نكون ممّن يكذب بالقول فيفسده
+        <lb/>
+
+        ويطلب الغلبة لنفسه فإذا قد تكلّم شيزع وبغداد سأقوله
+      </p>
+
+      <p n="The Third Vizier Has No Solution">
+        اعلمْ أيّها الملك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="171"/>
+
+      <p n="Hidden Crimes Are Exposed by Investigation">
+        وفتّش ازداد استنارة واستبانة
+      </p>
+
+      <p n="Stirred Up Mud Stinks">
+        كما أنّ كل شيء منتّن من حمأة
+        <lb/>
+
+        وغيرها إذا سيط أو قُلب أو ثوّر ازداد نتنًا
+      </p>
+
+      <p n="Dimna Cites His Staying as Proof of Innocence">
+        ولو كنت مذنبًا
+        <lb/>
+
+        هربت وكان لي في الأرض منبسَط وأقم بباب الملك ولكنني
+        <lb/>
+
+        لثقتي برأيي ونصيحتي لم أبرح من باب الملك ولم أفارقه
+      </p>
+
+      <p n="Dimna Asks for Unimpeachable Investigator">
+        وأنا
+        <lb/>
+
+        أرغب إليك أيّها الملك إن كان في شكّ من أمري أن يأمر بالنظر فيه ويولّي
+        <lb/>
+
+        ذلك أمينًا مسلمًا لا تأخذه في الحقّ لومة لائم ولا يكون عنده
+        <lb/>
+
+        محاباة ولا غيرة لأحد فيرفع إليه قولي وعذري وما يستمع
+        <lb/>
+
+        من غيري ولا يأخذ فيه أقاويل العداة والحسدة
+      </p>
+
+      <p n="Dimna's Station Exposes Him to Jealousy">
+        فإنّه قد
+        <lb/>
+
+        كانت لي من المنزلة منزلة كانت الحسدة والبغاة عليّ فيها
+        <lb/>
+
+        كثير
+      </p>
+
+      <p n="Dimna Claims only Investigation Can Save Him">
+        فإنّه إن لم يفعل ذلك واستحلّ منّي ما لا يحلّ له فلا مولى
+        <lb/>
+
+        ولا مجالس إلّا الله الذي يعلم سرائر العباد وخفيّ ضميرهم
+        <lb/>
+
+        ولعلّي أن لا أكون أضير بذلك
+      </p>
+
+      <p n="Doubt and Certainty Must Not Be Confused">
+        وقد كان يقال إنّ الذي يعمل
+        <lb/>
+
+        بالشبهة ويأخذ بها لا يبتدأ في أمره ولا يتثبّت
+      </p>
+
+      <p n="Dimna's First Subtale of the Woman Who Mistook Her Servant for Her Lover">
+        ويكون
+        <lb/>
+
+        أمره كالمرأة التي نصحها عبدها لمّا تشبّه لها فأمكنته
+        <lb/>
+
+        من نفسها
+      </p>
+
+      <p n="Lion's Question for Woman's Tale">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="A Merchant's Wife Had a Lover">
+        قال دمنة كان له
+        <lb/>
+
+        رجل وله امرأة جميلة وله جار مصوّر وكان المصوّر
+        <lb/>
+
+        قد علّق امرأة التاجر
+      </p>
+
+      <p n="Woman Asks Lover to Create a Sign">
+        فلمّا كان ذات يوم قالت المرأة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

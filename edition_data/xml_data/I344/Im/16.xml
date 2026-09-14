@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="16"/>
+
+      <p n="The Sighted Man Has No Excuse">
+        له عينان يبصر بهما من الأعمى الذي وقع وهو بما صار
+        <lb/>
+
+        إليه جاهل
+      </p>
+
+      <p n="Scholar Must Discipline Himself">
+        وعلى العالم أن يبدأ بنفسه فيعظها
+        <lb/>
+
+        بعلمه ولا تكن غايته أن يفيد علمه غيره وينسى
+        <lb/>
+
+        أن يعاهد نفسه بما يجب عليها
+      </p>
+
+      <p n="Water-Spring Benefits Only Others">
+        فيكون كالعين
+        <lb/>
+
+        التي يشرب الحيوان ماءها وينتفعون بها وهي
+        <lb/>
+
+        ليس لها من منفعة ذلك شيء
+      </p>
+
+      <p n="Giving Advice Is Conditioned upon Mastery">
+        ثمّ إذا أحكم ما أراد
+        <lb/>
+
+        أن يُحكمه من نفسه فنبّه غيره وأفاده من طلبه
+      </p>
+
+      <p n="Three Things Are Needed for Worldly Life">
+        فإنّه يُقال إنّ خلالًا ثلاثًا ينبغي لصاحب الدنيا
+        <lb/>
+
+        أن يقتبسها منها العلم ومنها المال ومنها الرغبة
+        <lb/>
+
+        في المعروف
+      </p>
+
+      <p n="One Should Not Condemn Faults in Others One Has">
+        وليس ينبغي للعالم أن يعتب على رجل
+        <lb/>
+
+        فعل فعلًا يدخل في مثله
+      </p>
+
+      <p n="Reader Is Like a Blind Blaming another Blind">
+        فيكون كالأعمى الذي
+        <lb/>
+
+        يعاير الأعور بعوره
+      </p>
+
+      <p n="No Benefit Should Be Obtained by Harming Others">
+        ولا ينبغي له أن يلتمس صلاحًا
+        <lb/>
+
+        لنفسه بإفساد غيره
+      </p>
+
+      <p n="A Merchant Steals from His Partner">
+        فإنّه من فعل ذلك كان
+        <lb/>
+
+        خليقًا أن يصيبه ما أصاب الرجل الذي يُقال
+        <lb/>
+
+        إنّه كان له ولشريك له سمسم وكان سمسمهما
+        <lb/>
+
+        في بيت واحد غير أنّ الذي كان لكلّ واحد مفرد
+        <lb/>
+
+        عمّا لصاحبه
+      </p>
+
+      <p n="The Merchant Devises a Plot">
+        ففكّر في حيلة يحتال بها لسمسم شريكه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

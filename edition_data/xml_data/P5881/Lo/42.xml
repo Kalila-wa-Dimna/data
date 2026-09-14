@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="42"/>
+
+      <p n="unassigned">
+        فقال دمنة هل رأى الملك شيئًا غير ذلك منه
+      </p>
+
+      <p n="Dimna's Advice Against Abandoning Territory">
+        وإنّه وإن لم يكن ذو عزّة فليس بحقيق أن
+        <lb/>
+
+        يدع وطنه فإنّ التنكّر آفة الضعف والشرّ آفة الصلف والمودّة آفة النميمة
+      </p>
+
+      <p n="Proverb About Not Fearing All Sounds">
+        وفي بعض
+        <lb/>
+
+        الأمثال بيان أنّه ليس كلّ صوت يُهاب
+      </p>
+
+      <p n="Third Subtale of Fox and Drum">
+        ثمّ قال دمنة للأسد زعموا أنّ ثعلبًا مرّ بأجمّة
+        <lb/>
+
+        وهو جائع وفيها طبل معلّق في شجرة فهبّت ريح فجعلت قصبان الشجرة تقرعه
+      </p>
+
+      <p n="Fox's Approach to the Loud Sound">
+        فسمع
+        <lb/>
+
+        صوته فتوجّه إليه ثمّ أتاه
+      </p>
+
+      <p n="Fox Splits Drum Expecting Food">
+        فرآه ضخمًا وسمع صوته فظنّ أنّ ذلك منه لكثرة لحمه وشحمه
+        <lb/>
+
+        فعالجه حتّى شقّه
+      </p>
+
+      <p n="Fox Finds Drum Empty">
+        فلمّا رأى جوفه قال ما أدري لعلّ أفشل الأشياء أعظمها جثّة وأنفذها
+        <lb/>
+
+        صوتًا
+      </p>
+
+      <p n="Dimna's Application of the Parable to the Lion's Situation">
+        وإنّما ضربت لك هذا المثل رجاء أن يكون هذا الصوت الذي ذكرت منه ذلك ولو
+        <lb/>
+
+        قد انتهيت إليه كان أيسر ممّا تظنّ به في نفسك
+      </p>
+
+      <p n="Dimna's Offer to Investigate on the Lion's Behalf">
+        فإن شاء الملك فليبعثْني نحوه وليقم مكانه
+        <lb/>
+
+        حتّى أرجع إليه ببيان ذلك
+      </p>
+
+      <p n="Lion's Agreement to Dimna's Proposal">
+        قال فوافق الأسد كلام دمنة وأعجبه قوله فقال له سِرْ
+        <lb/>
+
+        على بركة الله وعونه
+      </p>
+
+      <p n="Dimna's Departure to Investigate the Sound">
+        قال فانطلق دمنة إلى المكان الذي فيه شتربة مسرعًا
+      </p>
+
+      <p n="Lion's Regret After Dimna's Departure">
+        فلمّا
+        <lb/>
+
+        انفصل دمنة وسار فكّر الأسد في أمره وندم على إنفاذه
+      </p>
+
+      <p n="Lion's Self-Doubt about Trusting Dimna">
+        وقال في نفسه ما أصبت في
+        <lb/>
+
+        إئتماني إلى دمنة وعلى ما وجّهته إليه
+      </p>
+
+      <p n="Lion's Concerns about Suffering, Greedy and Malevolent Courtiers">
+        فإنّ الرجل الذي يحضر السلطان إذا كان قد أطيلت
+        <lb/>
+
+        جفوته غير محترم لذلك أو معروفًا بالحرص والشره وقد أصابه بضيق وضرر وقد احترم
+        <lb/>
+
+        فهو يخاف العقوبة أو قد أوقف على حربة
+      </p>
+
+      <p n="Lion's Concerns about Requistioned and Deposed Courtiers">
+        أو حيل بينه وبين ما في يديه من السلطان أو يلي
+        <lb/>
+
+        عملًا فتعرّق عليه أو تُنقِّص أو أُشرك معه
+      </p>
+
+      <p n="Lion's Concerns about Harshly Punished Courtiers">
+        أو فعل ذلك بهم جميعًا فبلغ منه ما لم يؤت إليه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="238"/>
+
+      <p n="Sailors Depend on Ships and Vice Versa">
+        تنجو السفينة
+      </p>
+
+      <p n="The Cat Puts His Trust in the Rat">
+        فلمّا عرف السنّور مقالة الجرذ عرف أنّه صادق فقال له إنّ
+        <lb/>
+
+        قولك هذا لشبيه بالحقّ وأنا أيضًا راغب فيما أرجو لك ولنفسي به الخلاص ثمّ أنّك
+        <lb/>
+
+        إن فعلت ذلك سأشكرك ما بقيت
+      </p>
+
+      <p n="The Rat Explains the Detail of the Last Rope">
+        قال الجرذ فإنّي سأدنو منك فأقطع
+        <lb/>
+
+        الحبائل كلّها إلّا حبلًا واحدًا أبقيه لأستوثق لنفسي منك
+      </p>
+
+      <p n="The Rat Begins to Cut the Rope">
+        ثمّ أخذ في تقريض حبائله
+      </p>
+
+      <p n="The Foes Leave Frustrated">
+        ثمّ أنّ البوم وابن عرس لمّا رأيا دنوّ الجرذ من السنّور أيسا منه وانصرفا
+      </p>
+
+      <p n="The Cat Deems the Rat's Efforts Slow">
+        ثم أن الجرذ أبطأ على روميّ في قطع الحبائل فقال له ما لي لا أراك مجدًّا في قطع حبائلي
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

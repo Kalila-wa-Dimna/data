@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>B0022</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="250"/>
+
+      <p n="Philosopher Prioritizes Ḥilm">
+        قال الفيلسوف إنّ أعظم ما يحفظ به الملك ملكه ويثبّت به
+        <lb/>
+
+        سلطانه ويكرم به نفسه ويدرك به مصالحه الحلم والعقل لأ
+        <lb/>
+
+        نّهما رأس الأمور وملاكها
+      </p>
+
+      <p n="Philosopher Adds Consultation">
+        وحفظ مناجاة الحكيم الصالح ومداراته مع
+        <lb/>
+
+        مشاورة أهل العلم والرفق والأمانة والحبّ للبريّة في أمورهم
+      </p>
+
+      <p n="Philosopher Adds Good Wife">
+        والعون على ذلك المرأة الصالحة والحلم لاسيّما للملوك
+      </p>
+
+      <p n="Without Advice One Fails">
+        فإنّ الرجل
+        <lb/>
+
+        وإن كان ذا شجاعة كاملة وبراعة شاملة وسخاء كامل إذا لم يكن
+        <lb/>
+
+        مع ذلك حليمًا عاقلًا وعنده ذو مشورة صلح أمره وإن كان مشورته
+        <lb/>
+
+        ضعيف غير عارف ولا لبيب فإنّه يبهظه الأمر اليسير لضعف
+        <lb/>
+
+        رأيه وحمالته وخطأ رأي نصحائه وإن أصاب ظفرًا أو رشدًا لم
+        <lb/>
+
+        يكن كذلك أصل في البقاء وساءت عاقبته ورجعت إلى الندامة
+      </p>
+
+      <p n="Fortunate King">
+        وإن كان الملك على خلاف ذلك من الفضل والعقل
+      </p>
+
+      <p n="Competent Vizier">
+        وكان مشاوره
+        <lb/>
+
+        لبيبًا عاقلًا عارفًا بعواقب الأمور أمينًا على سرّه ناصحًا
+        <lb/>
+
+        لملكه ربّما أعانه ما يكون من غرّة العقل على نظام الأمر والفلاح
+        <lb/>
+
+        فيما يرومه ويحاوره صعب أو مخاصمة بدو
+      </p>
+
+      <p n="Vizier Protects King">
+        وإن هو أراد اتّباع
+        <lb/>
+
+        هواه ربّما ضرّ نفسه وصاحبه ونفع عدوّه وخلص من ذلك
+        <lb/>
+
+        برأي وزرائه وعملهم وظفر بعدوّه وأصاب حاجته
+      </p>
+
+      <p n="King And Vizier Tale Mention">
+        كما
+        <lb/>
+
+        حكي لنا عمّا كان بين شارم ملك <> وامرأته ابراخت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

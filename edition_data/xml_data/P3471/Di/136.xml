@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="136"/>
+
+      <p n="Lion Is Informed by Court Secretary and Ousts Courtier">
+        رأس الجبّارين انطلق شهرج إلى الأسد فأخبره بما سمع
+        <lb/>
+
+        فنقل على الأسد مكان رأس الجبّارين لقدره فعزله عن طعامه
+        <lb/>
+
+        وأمره يُنحي حيث لا يراه
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded, He Is Returned to Prison; End of First Day of Trial">
+        ومكث دمنة موقوفًا فا يُبحث عنه حتّى
+        <lb/>
+
+        مضى من النهار ستّ ساعات وكتب الكاتب ما سمع من منازعة من
+        <lb/>
+
+        خصوص مع من حضر وختمه بخاتم القاضي والنمر فأخذ النمر الكتاب
+        <lb/>
+
+        وأمر بإعادة منه إلى السجن وقام إلى منزله وتفرّقت الجماعة
+      </p>
+
+      <p n="Ruzbeh Is Kalīla's Friend">
+        وانطلق
+        <lb/>
+
+        ابن آوى وكان يُدعى رَوْزَنه كان لكليله صفيًّا وكان من الملك
+        <lb/>
+
+        بمكانٍ خاصٍّ
+      </p>
+
+      <p n="Ruzbeh/Fayruz Tells Dimna of Kalila's Death">
+        فدخل على دمنة وأخبره بموت كليلة فاشتدّ جزعه
+        <lb/>
+
+        وحزنه وبكى طويلًا
+      </p>
+
+      <p n="Dimna Grieves for Kalila">
+        ثمّ قال أُفّ للحياة وتفّ للدنيا إذ أُفردت فيها من
+        <lb/>
+
+        أخي وأُنسي وثقتي
+      </p>
+
+      <p n="Misfortunes Never Come Singly">
+        فإنّه حقّ ما يقال قلّ من ابتلى في الدنيا بمكروهٍ إلّا
+        <lb/>
+
+        تتابعت عليه المكاره وعجبًا لحالي اليوم فيما تواثر عليّ من البلاء في ضيق
+        <lb/>
+
+        السجن وتعاون الخصوم عليّ ظلمًا وانقطاعي من ذوي قرابتي وأصفائي
+      </p>
+
+      <p n="Dimna Asks Ruzbeh to Be His Friend">
+        ولكنّي أحمد الله الذي قبض كليلة وأبقى لي أخًا مثلك أسديه ما أنتلم
+        <lb/>
+
+        من فقده لأنّي قد وثقت باهتمامك بأمري وتشجّعك ما تخشّيت من
+        <lb/>
+
+        لقائي وإنّي أعدل نفسك عندك من الشفقة والمودّة لي والحرص
+        <lb/>
+
+        على ما نفست به عنّي
+      </p>
+
+      <p n="Dimna Has Ruzbeh Fetch Their Belongings">
+        وقد كنت جمعت أنا وكليله بكدّنا وكدحنا شيئًا
+        <lb/>
+
+        كان منه معيشتنا ورفعناه في مكان كذا وكذا فإن رأيت أن تأتيني به
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

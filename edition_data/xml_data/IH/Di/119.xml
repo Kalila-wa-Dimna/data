@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="119"/>
+
+      <p n="Kalīla Had Feared Reprehensions for Being Responsible">
+        |قد جعلا حالي كما تَراهُ ### وليسَ يَشْفينِيَ إلّا اللُه
+      </p>
+
+      <p n="Kalila Dies">
+        |ثمّتَ فاضتْ روحُهُ وماتا ### وامتدَّ قد فارقَ ذي الحَياتا
+      </p>
+
+      <p n="Ruzbeh/Fayruz Tells Dimna of Kalila's Death">
+        |فقامَ في الحالِ وجاءَ دمنَهْ ### وقال باللِه استَعِذْ في المِحنَهْ
+        <lb/>
+
+        |كليلةٌ ماتَ سلِمْتَ يا أخي ### ولا برِحْتَ الدهرَ في عَيْشٍ رَخي
+      </p>
+
+      <p n="Dimna Grieves for Kalila">
+        |حينئِذٍ دمنةُ أبدى الشَّكْوى ### مستعظِمًا حُلولَ هذي البَلْوى
+        <lb/>
+
+        |وقال مِن بعدِ أخي كليلَهْ ### قد أصبحتْ عاقِبَتي وَبيلَهْ
+        <lb/>
+
+        |لقد فقدتُ مِن نُهاهُ عُدَّهْ ### تَخِذْتُها ذُخْرًا لكلِّ شِدَّهْ
+        <lb/>
+
+        |لقد رجوتُ أن أموتَ قَبْلَهْ ### أو أن أموتَ في فِراشي مِثْلَهْ
+      </p>
+
+      <p n="Dimna Asks Ruzbeh to Be His Friend">
+        |لكنّني لستُ لهُ بفاقِدِ ### إذ قد بقيتَ لي نظيرَ ساعِدي
+        <lb/>
+
+        |فأنتَ بعد اللهِ رُكْني والسَّنَدْ ### وأنتَ منذُ الآنِ عَوْني والعَضَدْ
+      </p>
+
+      <p n="Dimna Has Ruzbeh Fetch Their Belongings">
+        |إمضِ إلى البيتِ فخُذْ ما تجِدُهُ ### فأنتَ أولى مِن عدوٍّ يقصِدُهُ
+        <lb/>
+
+        |فلم يزلْ والدهرُ جمٌّ نَكَدُهْ ### يأكلُ مالَ المرءِ مَن لا يَحْمَدُهْ
+      </p>
+
+      <p n="Dimna Gives Ruzbeh Half, Asks Him to Put in Good Word with Lion and Mother and Report Their Words to Him">
+        |حقّي عليكَ يا ابنَ عمّي واجِبُ ### وأنتَ في رَعْيِ الحقوقِ دائِبُ
+        <lb/>
+
+        |ففَتِّشِ الأخبارَ واسألْ عنّيوأَنْهِها إليَّ واكْنِ واعْنِ
+      </p>
+
+      <p n="Ruzbeh Accepts Gift">
+        |فقال سَمْعًا يا أخي وطاعَهْ ### ثمّ مضى مِن وقتِهِ والساعَهْ
+        <lb/>
+
+        |لعِلمِ ما يجرى ببابِ الأَسَدِ ### فلم يزلْ نهارَهُ في الرَّصَدِ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

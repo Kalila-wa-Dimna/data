@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="33"/>
+
+      <p n="Reason Strengthens">
+        فلا شيء أفضل من العقل إذا أعانه الأدب
+      </p>
+
+      <p n="Reason Brings Success">
+        فمن رزقه ومن
+        <lb/>
+
+        رزقه ومنّ به عليه وأعانه بنفسه بالمثابرة على الأدب
+        <lb/>
+
+        والحرص عليه سعد جدّه وأدرك في الدنيا أمله وفي الآخرة
+        <lb/>
+
+        أفضل نصيب
+      </p>
+
+      <p n="Reason Strengthens Kings">
+        والعقل هو المقوّي للملك والمثبّت له والمؤيّد
+        <lb/>
+
+        للملك السعيد والسوقة لا تصلح إلّا عليه وعلى تدبيره
+      </p>
+
+      <p n="Kisra Most Learned King">
+        وقد رزق الله عزّ وجل ملكنا هذا السعيد الجدّ أنوشروان من العقل
+        <lb/>
+
+        أفضل الرزق وأجزله وأعانه عليه بحسن أدبه فلزم
+        <lb/>
+
+        الاستحباب على العلم والتفتيش من غوامض الصواب فبلغ
+        <lb/>
+
+        في ذلك ما لم يبلغه ملك قطّ ممّن مضى ملك قطّ ممّن مضى من الملوك قبله
+      </p>
+
+      <p n="Kisra Hears Of K D">
+        وكان ممّا يقرّ عينه من العلم أنّه بلّغه عن كتاب من الهند عند
+        <lb/>
+
+        ملكهم نفيس محروس عنده
+      </p>
+
+      <p n="K D Book Praise">
+        وهو أفضل أدبهم ورأس علمهم
+        <lb/>
+
+        والدالّ على كلّ منفعة ومفتاح طلب الآخرة والعمل للنجاة من هولها
+        <lb/>
+
+        والمقوّي والمعين لما يحتاج إليه الملوك في تدبير ملكهم وأدب
+        <lb/>
+
+        للسوقة بما يرضون ملكهم ويصلحون به معايشهم وهو
+        <lb/>
+
+        كتاب كليلة ودمنة
+      </p>
+
+      <p n="Kisra Eager To Get K D">
+        فلمّا تيقّن ما بلغه من ذلك وما فيه من المنافع
+        <lb/>
+
+        لم يقرّ حريصًا على استفادته والنظر فيه
+      </p>
+
+      <p n="Burzoy Tells Of Kisras Mission">
+        وأنّه انتدبني وشرّفني
+        <lb/>
+
+        وخصّني باستخراج هذا الكتاب من بلاد الهند ليذيعه في مملكته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="193"/>
+
+      <p n="Judge Orders Leopard and Judge to Return Dimna Before Court">
+        من يومهم إلى البحث عن دمنة فخرجوا لذلك
+      </p>
+
+      <p n="Lion Reads Court Records to Mother">
+        ودعا الأسد أمّه
+        <lb/>
+
+        فأقرأها النسخة
+      </p>
+
+      <p n="Mother Alerts Lion of His Own Benefit and Motivates Her Harsh Words">
+        فرفعت صوتها وقالت إذا أغلظت لك الكلام
+        <lb/>
+
+        فلا تلمني فإنّك لا تعرف المنفعة من المضرّة أوليس قد حذّرتك
+        <lb/>
+
+        أن تغترّ بقول هذا الفاجر المخادع الفاسد ثمّ قامت
+        <lb/>
+
+        مغضبة وخرجت من عنده
+      </p>
+
+      <p n="Ruzbeh Reports Mother's Words to Dimna">
+        وكان روزبة حيث يسمع كلام
+        <lb/>
+
+        الأسد فوعى ما سمع ثمّ خرج مسرعًا مع خروج أمّ الأسد
+        <lb/>
+
+        فأتى دمنة فقصّ عليه القصةّ
+      </p>
+
+      <p n="Men Take Dimna Before Court">
+        فبينما دمنة يستخبره
+        <lb/>
+
+        إذ أتاه من انطلق به إلى الجماعة
+      </p>
+
+      <p n="Head of Court Deems Extant Facts Sufficient">
+        فلمّا أوقف بين يدي
+        <lb/>
+
+        القاضي تكلّم عظيم الجمع فقال أمّا ما نريد من الفحص
+        <lb/>
+
+        عن أمرك يا دمنة فقد أتاني به الثقة من أهل الصدق
+        <lb/>
+
+        والأمانة
+      </p>
+
+      <p n="God Placed Signs of Truth in the World and Prophets to Explain Them">
+        وقد قالت العلماء أنّه إنّما يُعرف الله وأمور الآخرة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

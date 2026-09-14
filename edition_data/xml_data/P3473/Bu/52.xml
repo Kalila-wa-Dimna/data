@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="52"/>
+
+      <p n="Working Without Expecting Reward">
+        العلم وفوقي في المنزلة والمال فلا يقطع ذلك عندي شيئًا
+        <lb/>
+
+        وإنّما اجتهادي واعتنائي فيما أنا عليه وبصدده
+      </p>
+
+      <p n="Burzoy Reflects while Practicing">
+        ففي
+        <lb/>
+
+        بعض الأحايين وقع في نفسي شيء من ذلك وورد عليّ وارد
+        <lb/>
+
+        منه فاستدركت في الحال ما فرط
+      </p>
+
+      <p n="Addressing the Soul to Distinguish Its Benefits and Harms">
+        وأقبلت على نفسي
+        <lb/>
+
+        أخاطبها قائلًا لها يا نفس ألا تعرفين رشدك من غيّك
+        <lb/>
+
+        ونفعك من ضرّك وصلاحك من فسادك ألا تنتهين عن تمنّي
+        <lb/>
+
+        ما لم ينله أحد إلّا قلّ فراغه وكثر عناؤه وطال أمله وساء
+        <lb/>
+
+        عمله واشتدّت المؤنة عليه وعظمت المشقّة عليه بعد فراقه
+        <lb/>
+
+        ما صار إليه
+      </p>
+
+      <p n="Addressing the Soul to Be Ashamed of Its Greed for the Transient">
+        يا نفس ألا تذكرين ما بعد هذه الدار ألا تستحين
+        <lb/>
+
+        من منازعة الجهّال والفجّار ألا ترجعين من عاجلة هذه
+        <lb/>
+
+        الدار
+      </p>
+
+      <p n="Addressing the Soul to Abandon Its Folly">
+        فانظري في عاقبة أمرك وانصرفي عن غيّك وأقبلي
+        <lb/>
+
+        بقوّتك وبما تملكيه على تقديم الخير وإيّاك والتسويف واحذري
+        <lb/>
+
+        من ذلّ التوبيخ ومرارة التعنيف
+      </p>
+
+      <p n="The Body Consists of Harmful Elements">
+        واعلمي أنّ هذا الجسد
+        <lb/>
+
+        القائم معدن الآفات وقد مُلئ من أخلاط فاسدة رديّة
+        <lb/>
+
+        قذرة يجمعها أربع طبائع متضادّة بفقد أحدها تفقدي
+        <lb/>
+
+        الحياة والجسد
+      </p>
+
+      <p n="The Idol That Falls Apart">
+        كالصنم المفصّلة أعضاؤه ثمّ إذا رُكّبت
+        <lb/>
+
+        الأعضاء في مواضعها جمعها مسمار واحد يمسكها بعضها على
+        <lb/>
+
+        بعض فإذا أُخذ المسمار الماسك لذلك تساقطت الأوصال
+      </p>
+
+      <p n="Addressing the Soul: The Friend Passes Away">
+        يا نفس لا تغترّي بصحبة من تحبّيه وتميلي إليه فإنّ آخر الصحبة
+        <lb/>
+
+        الفراق
+      </p>
+
+      <p n="Addressing the Soul: The Family Passes Away">
+        يا نفس لا يحملنّك أهلك وأقاربك على جمع ما تهلكين
+        <lb/>
+
+        به طلبًا لصلتهم
+      </p>
+
+      <p n="Incense Burns">
+        فتكوني كالدخنة الأرجة الطيّبة الرائحة التي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

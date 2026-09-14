@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="158"/>
+
+      <p n="Lion Verifies Jackal's Qualities">
+        فوجده ذا عقلٍ وحجّةٍ ظاهرةٍ فيما هو فيه من طريقته
+        <lb/>
+
+        ولمّا استنطقه الأسد ورأى عقله
+      </p>
+
+      <p n="Lion Offers Viziership">
+        قال له إنّ مُلكي عظيمٌ وحاجتي
+        <lb/>
+
+        إلى ذي الدين والأمانة شديدٌ ولا غنى بي عن مثلك فأنا مولّيك من أمري
+        <lb/>
+
+        جسيمًا ورافعك إلى منزلةٍ شريفةٍ وإلى رتبةٍ عاليةٍ وأخصّصك بي دون
+        <lb/>
+
+        غيري
+      </p>
+
+      <p n="King Must not Impose Service">
+        فقال ابن آوى الملوك أحقّاءٌ باختبار الأعوان فيما يهتمّون
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

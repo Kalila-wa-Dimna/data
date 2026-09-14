@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="198"/>
+
+      <p n="unassigned">
+        يُقال قارب عدوّك بعض المقاربة تنل منه حاجتك ولا
+        <lb/>
+
+        تقاربه كلّ المقاربة فيجترئ عليك بها ويُدلّ لها جندك
+        <lb/>
+
+        ومثل ذلك مثل الخشبة القائمة في الشمس فإن أملتها
+        <lb/>
+
+        قليلًا زاد ظلّها وإن أملتها فجاوزت الحدّ في إمالتها
+        <lb/>
+
+        نقص الظلّ وليس عدوّنا براض عنّا بالدون في المعارضة
+        <lb/>
+
+        فالرأي لنا المحافية والصبر والسلام
+        <lb/>
+
+        قال المَلك للخامس فما رأيك أنت الصلح أم القتال أم الهرب
+        <lb/>
+
+        أم غير ذلك قال أمّا القتال فلا سبيل إلى قتال من لا تفارقه
+        <lb/>
+
+        في القوّة والبطش فإنّه من أقدم على عدوّه استضعافًا له أو اغترّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

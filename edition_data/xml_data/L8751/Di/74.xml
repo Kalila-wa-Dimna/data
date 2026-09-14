@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="74"/>
+
+      <p n="The Lion Wants to Avoid Haste">
+        وأنا متثبّتٌ في أمره ولست بالعاجل عليه ولا بباسط يد السوء إليه حتّى ينكشف لي أمره ويظهر
+        <lb/>
+
+        عندي غدره ولا أشتري ضرّ نفسي باتّباع هوى غيري ممّن لا أدري ما صدقه من كذبه
+      </p>
+
+      <p n="Lion Repeats Question for Mother's Source">
+        فأعلميني من وصفت وسمّي لي هذا الذي ذكرت
+      </p>
+
+      <p n="The Mother Names the Leopard">
+        فقالت أمّ الأسد هو خليلك وأمينك في
+        <lb/>
+
+        مودّتك النمرُ
+      </p>
+
+      <p n="Lion Promises to Act and Dismisses His Mother">
+        فقال الأسد حسبك سترين ما أنا صانعٌ به فانصرفي
+      </p>
+
+      <p n="Kalila Seeks out Dimna in Prison">
+        فلمّا ذهبت هدأةٌ من
+        <lb/>
+
+        الليل بلغ كليلة أنّ دمنة قد حبس واُستوثق منه فجاءه
+      </p>
+
+      <p n="Kalila Weeps when Seeing Dimna">
+        فلمّا رآه بكى
+      </p>
+
+      <p n="Kalila Admits Having Been Harsh on Dimna">
+        وقال له لقد صار
+        <lb/>
+
+        أمرك إلى ما لا أبالي أن أغلظ لك معه في الكلام ولا أستقبلك بما تكره منه ولكن هل تذكر
+        <lb/>
+
+        الذي كنت أقول لك وأشير به عليك به
+      </p>
+
+      <p n="Conceit Caused Dimna's Demise">
+        فلم تلتفت إليه ولم تأخذ به من إعجابك برأيك ودهائك
+        <lb/>
+
+        ويلٌ لذكائك ولفطنتك بزعامتك أشرفت على الهلكة
+      </p>
+
+      <p n="Dimna Cites His Greed as Cause for Not Listening">
+        فقال إنّك لم تزلْ تتكلّم بالحقّ
+        <lb/>
+
+        وتأمر به ولكنّي لم أكنْ أسمع منك ولا أقبل عليك لما كان فيّ من الشره والشهوة لما كنت عليه
+        <lb/>
+
+        من الشقاء ولولا ذلك كان فيما وعظتني به ما مثله ينتهي إليه وتحمد عاقبته
+      </p>
+
+      <p n="Who Ignores Friends’ Advice Comes to Regret">
+        وقد قالت العلماء
+        <lb/>
+
+        الذي لا يسمع من إخوانه ونصحائه يصير أمره إلى الندامة
+      </p>
+
+      <p n="Dimna's Ambition Dominated Him">
+        وقد حلّ ذلك بي ودخل عليّ
+        <lb/>
+
+        ولكن ما عسيتُ أن أصنع فإنّ الحرص وطموح العين يغلبان رأي الحليم ويصيّران العالم
+      </p>
+
+      <p n="Desire for Noxious Food Kills the Patient">
+        كالمريض الذي قد عرف أنّ شهوته من الطعام مضرّةٌ به مشدّدةٌ للوجع عليه ولا يدع تناولها
+        <lb/>
+
+        والإصابة منها فيزداد مرضًا لعلّه يموت منه
+      </p>
+
+      <p n="Dimna Fears for Kalila">
+        ولست أحزن اليوم على نفسي لكن عليك
+        <lb/>
+
+        لأنّي خائفٌ أن تؤخذ بسببي للذي كان بيني وبينك من المودّة والإخاء والقرابة
+      </p>
+
+      <p n="Kalila Will Be Forced to Betray Dimna">
+        فتعذّب
+        <lb/>
+
+        فلا تجد من إطلاعهم على أمري بدًّا فأقتل لتصديقهم إيّاك ولا تنجو أنت من بعدي
+      </p>
+
+      <p n="Kalila Sees Life as Greatest Desire">
+        فقال
+        <lb/>
+
+        كليلة قد فكّرت في هذا وليس بعد الحياة شيءٌ
+      </p>
+
+      <p n="One Lies to Save One's Life">
+        فقد يضطرّ الرجل إذا نزل به البلاء أن
+        <lb/>
+
+        يقذف نفسه بما لم يفعل وعبّر بما عمل رجاء الحياة والتخفيف عنه من العقوبة
+      </p>
+
+      <p n="Kalila Advises Dimna to Confess">
+        وأنا منطلقٌ
+        <lb/>
+
+        قبل أن يدخل أحدٌ إليك فيراني عندك فأنا آمرك أن تعترف بجرمك وتقرّ بذنبك فأنت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

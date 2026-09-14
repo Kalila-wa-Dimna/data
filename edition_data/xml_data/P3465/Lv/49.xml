@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="49"/>
+
+      <p n="Burzoy Invokes Blessing On Kisra">
+        قدر أن يجمع ما بين شرف الدنيا والآخرة لفعل فجزاه الله عنّا أفضل الجزاء
+      </p>
+
+      <p n="Kisra Repeats Question">
+        قال أنوشروان اذكر حاجتك فعليّ ما يسرك
+      </p>
+
+      <p n="Burzoy Wants Bio Chapter">
+        فقال برزويه حاجتي أن يأمر
+        <lb/>
+
+        الملك أعلاه الله تعالى وزيره برزجمهر بن البختكان ويقسم عليه أن يعمل فكره
+        <lb/>
+
+        ويقسم ويجمع ويجتهد طاقته ويفرغ قلبه في نظم تأليف كلام متقن محكم
+        <lb/>
+
+        ويجعله بابًا يذكر فيه أمري ويصف حالي
+      </p>
+
+      <p n="Buzurgmihr To Give His Best">
+        ولا يدع من المبالغة في ذلك
+        <lb/>
+
+        أقصى ما يقدر عليه
+      </p>
+
+      <p n="New Chapters Placement">
+        ويأمره أن استتمّ أن يجعله أولّ الأبواب التي تُقرأ قبل
+        <lb/>
+
+        باب الأسد والثور
+      </p>
+
+      <p n="Burzoy Wants Legacy">
+        فإنّ الملك إذا فعل ذلك فقد بلغ بي وبأهلي غاية
+        <lb/>
+
+        الشرف وأعلى المراتب وابقى لنا ما لا يزول ذكره باقيّا على الأبد حيث
+        <lb/>
+
+        ما قرئ هذا الكتاب
+      </p>
+
+      <p n="Kisra And Nobles Impressed">
+        فلمّا سمع كسرى أنوشروان والعظماء مقاله
+        <lb/>
+
+        وما سمت إليه نفسه من محبة أبقى الذكر فاستحسنوا طلبته واختياره
+      </p>
+
+      <p n="Kisra Deems Request Light">
+        فقال كسرى حبًا وكرامة لك برزويه إنّك أهل أن تسعف بحاجتك
+        <lb/>
+
+        فما أقلّ ما قنعت به وأيسره عندنا وإن كان خطره عندك عظيمًا
+      </p>
+
+      <p n="Kisra Recounts Burzoys Merits">
+        ثمّ أقبل
+        <lb/>
+
+        أنوشروان على وزيره برزجمهر فقال له قد عرفت مناصحة برزويه لنا
+        <lb/>
+
+        وتجشمه المخاوف والمهالك فيما يقرّبه منّا وإتعابه بدنه فيما يسرّنا
+        <lb/>
+
+        وما أتى إلينا من المعروف وما أفادنا على يده من الحكمة والأدب <>
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

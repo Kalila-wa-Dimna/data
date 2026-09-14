@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P2789</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="340"/>
+
+      <p n="A Burglar Breaks Into His House">
+        يجول فوقعت يده على خابية فيها حنطة
+      </p>
+
+      <p n="The Burglar Attempts to Steal the Jar's Contents">
+        فقال السارق المصلحة أن أجد
+        <lb/>
+
+        هذه الحنطة ولا يذهب تعبي باطلًا ثمّ بسط إزارًا كان معه ليصبّ
+        <lb/>
+
+        عليه الحنطة
+      </p>
+
+      <p n="The Pauper Panics">
+        فقال الرجل ليس على هذا صبر يذهب بهذه الحنطة
+        <lb/>
+
+        وليس ورائي سواها فيجتمع عليّ العري والجوع وهذه الخلّتان
+        <lb/>
+
+        متى اجتمعتا على إنسان هلك
+      </p>
+
+      <p n="The Pauper Chases the Burglar Away, Keeps His Garb">
+        ثمّ صاح على السارق وأخذ خشبة
+        <lb/>
+
+        كانت عنده فأومئ بها على السارق فولّى هاربًا منه وترك الإزار
+        <lb/>
+
+        ونجا بنفسه فأخذه الرجل وكسا به عورته
+      </p>
+
+      <p n="One Should Not Abandon Hard Work">
+        وليس ينبغي أن يركن
+        <lb/>
+
+        إلى مثل هذا ويجب ما يجب عليه من الحذر والعمل في مثل هذا
+        <lb/>
+
+        الصلاح لمعاشه
+      </p>
+
+      <p n="The Fortunate Few Are Not the Model">
+        ولا ينظر إلى ما تؤانيه المقادير وتساعده على
+        <lb/>
+
+        غير الالتماس منه فإنّ أولئك في الناس قليل والجمهور منهم من أتعب
+        <lb/>
+
+        نفسه في الكدّ والسعي فيما يصلح أمره وينال به ما أراد
+      </p>
+
+      <p n="One Should Strive for Benefit Not Harm">
+        وينبغي أن
+        <lb/>
+
+        يكون جرمه على ما طاب كسبه حسن نفعه ولا يعرض لما يجب
+        <lb/>
+
+        على العناء والسعي
+      </p>
+
+      <p n="Dove Does Not Learn from Losing Her Chicks">
+        فيكون كالحمامة تفرّخ الفراخ للذبح ولا يمنعها
+        <lb/>
+
+        من ذلك أن تعود فتفرّخ في موضعها وتقيم بمكانها ويُؤخذ الثانية
+        <lb/>
+
+        من مكانها فراخها أيضًا فتُذبح
+      </p>
+
+      <p n="One Should Abide by God's Measures">
+        وقد يقال إنّ اللّه عزّ وجلّ قد
+        <lb/>
+
+        جعل لكلّ شيء سببًا يوفّق من تجاوزت به الأشياء حدّها ويوشك
+        <lb/>
+
+        أن يلحقه التقصير من بلوغها
+      </p>
+
+      <p n="Striving for the Here and the Hereafter">
+        ويقال من كان سعيه لآخرته ودنياه
+        <lb/>
+
+        فحياته له وعليه
+      </p>
+
+      <p n="A Worldly Man Must Fix Three Things">
+        ويُقال في ثلاثة أشياء تجب على صاحب الدنيا
+        <lb/>
+
+        إصلاحها وبذل جهده فيها منها أمر معيشة ومنها ما بينه
+        <lb/>
+
+        وبين الناس ومنها ما يكسبه الذكر الجميل بعده
+      </p>
+
+      <p n="Three Things in a Man Engender Inefficiency">
+        وقد قيل أمور
+        <lb/>
+
+        من كنّ فيه لم يستقم له عمل منها التواني ومنها تضييع العرض ومنها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

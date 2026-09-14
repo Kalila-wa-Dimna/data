@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="8"/>
+
+      <p n="Kisra Reflects On Difficulty">
+        من المؤذيات والحالة شديدة
+      </p>
+
+      <p n="Kisra Wants Kātib Or Physician">
+        ولا بدّ تنتخب من تريد إرساله في ذلك من هذه الصفتين
+        <lb/>
+
+        التي تُجمع عندها جوامع الأدب إمّا من الكُتّاب وإمّا من الأطبّاء
+      </p>
+
+      <p n="Kātibs And Physicians Skills">
+        فإنّ فيهما جوامع الأدب
+        <lb/>
+
+        وفنون العلم وكنوز الحكم ذو أناة وتودّد ونفاد حيلة وكمال مروءة وتحفّظ وكتمان سرّ
+      </p>
+
+      <p n="Kisra Searches Scholar">
+        فلمّا تمّ عزمه ورأيه على البعثة سأل أهل مملكته أن يبحثوا أو يطلبوا له رجلًا من
+        <lb/>
+
+        جميع أهل مملكته قد جُمعت فيه هذه الخصال
+      </p>
+
+      <p n="Kisra Defines Envoy">
+        وليكن من أحد هذه الصفتين إمّا كاتبًا
+        <lb/>
+
+        نحريرًا وإمّا طبيبًا ماهرًا فيلسوفًا عالمًا عاليًا وليكن أديبًا عاقلًا لبيبًا عارفًا بلسان
+        <lb/>
+
+        الفارسيّة والهنديّة كاتبًا بهما جميعًا حريصًا على العلم مجتهدًا في استكمال الأدب
+        <lb/>
+
+        متابعًا على النظر والتفسير بكتب الفلسفة فيُؤتى به
+      </p>
+
+      <p n="The Search For A Scholar">
+        قال فخرج أهل مشورته
+        <lb/>
+
+        وذوي رأيه مسرعين فبحثوا عن الرجل وطلبوا من هذه صفته حتّى وجدوه
+      </p>
+
+      <p n="Burzoy Is Selected">
+        فأُتي
+        <lb/>
+
+        برجل شابّ حسن الوجه كامل العقل والأدب ذي حسب صناعته التي يُعرف بها الطبّ
+        <lb/>
+
+        وكان ماهرًا بالفارسيّة والهنديّة يُسمّى برزويه بن ازدهر وكان من رؤوس أطبّاء
+        <lb/>
+
+        فارس ومن أبناء عماليقها ومرازبتها
+      </p>
+
+      <p n="Burzoy Meets Kisra">
+        فأُدخل على الملك فلمّا مثل بين يديه سجد له ثمّ قام
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

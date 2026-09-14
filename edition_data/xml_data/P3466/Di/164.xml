@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="164"/>
+
+      <p n="Judge Departed from Former Virtue in Dimna's Case">
+        مرضيًّا في حكمك وعلمك وعفافك وفضلك وإنّما البلاء كيف أنسيت
+        <lb/>
+
+        ذلك في أمري
+      </p>
+
+      <p n="Everyone Should Say Only What They Know">
+        أولم يبلغك أنّ العلماء قد قالوا من ادّعى علم ما لا يعلم
+        <lb/>
+
+        وقال لما لا يرى إنّي قد رأيت وشهد على الغيب
+      </p>
+
+      <p n="Dimna's Fourth Subtale of the Falconer Who Falsely Accuses the Marzuban's Wife">
+        أصابه ما أصاب
+        <lb/>
+
+        البازيار
+      </p>
+
+      <p n="Head of Court Requests Tale">
+        قال القاضي وكيف كان ذلك
+      </p>
+
+      <p n="Marzuban Had Wife and Servant">
+        قال دمنة زعموا
+        <lb/>
+
+        أنّه كان في بعض المدن مرزبان مذكور وكانت له امرأة ذات
+        <lb/>
+
+        عقل وكمال وعفاف وكانت له جوارح كثيرة وعندها بازيار
+        <lb/>
+
+        ماهر خبير بسياسة البزاة وعلاجها فكان هذا البازيار عند
+        <lb/>
+
+        المرزبان بمكان مبجّل بحيث أدخله داره وأجلسه مع حرمه
+      </p>
+
+      <p n="Falconer Accosted Wife and Is Rejected">
+        واتّفق
+        <lb/>
+
+        للبازيار يومًا راود امرأة سيّده عن نفسها فأبت عليه وتسخّطت
+        <lb/>
+
+        لذلك وتمعّر وجهها وارْفَضّت عرقًا واحمرّت خجلًا وزاد امتناعها
+        <lb/>
+
+        عليه
+      </p>
+
+      <p n="Falconer Decides to Take Revenge">
+        وحرص هو كلّ الحرص وعمل الحيلة في بلوغ غرضه منها وضاقت
+        <lb/>
+
+        عليه أبواب الحيل
+      </p>
+
+      <p n="Falconer Teaches Parrots False Accusation in Foreign Tongue">
+        فخرج يومًا إلى الصيد على عادته فأصاب
+        <lb/>
+
+        فرخي ببّغاء فأخذهما وجاء بهما منزله وربّاهما فلمّا كبرا فرّق بينهما وجعلهما
+        <lb/>
+
+        في قفصين وقد علّم أحدهما أن يقول رأيت البوّاب مضاجعًا مولاتي
+        <lb/>
+
+        على فراش سيّدي وعلّم الآخر يقول أمّا أنا فلا أقول شيئًا ثمّ
+        <lb/>
+
+        أدّبهما بذلك حتّى حذقاه وأتقناه في مدّة ستّة أشهر
+      </p>
+
+      <p n="Falconer Gives Parrots to Marzuban">
+        فلمّا بلغ
+        <lb/>
+
+        الذي أراد منهما حملهما إلى أستاده فلمّا رآهما أعجباه ونطقا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

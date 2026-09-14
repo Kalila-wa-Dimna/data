@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3478</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="397"/>
+
+      <p n="unassigned">
+        من الثمار دهرًا طويلًا ثمّ إنّه جرب وأخذه من الجرب
+        <lb/>
+
+        ما خشي معه التلف وضعف عن طلب قوته لما كان أصابه
+        <lb/>
+
+        فمرّ به قرد آخر فقال له مالي أراك بهذا الحالة وأيّ
+        <lb/>
+
+        شيء أضارك إلى هذه الهزال والضعف فقال القرد
+        <lb/>
+
+        ما أعرف لما أنا فيه سببًا إلّا القضاء والقدر وما
+        <lb/>
+
+        لأحد من قضاء الله محيص ولا له إلى الهرب منه سبيل
+        <lb/>
+
+        قال القرد الآخر إنّي أعرف قرد آمنًا كان أصابه مثل ما
+        <lb/>
+
+        أصابك فلم يكن له دواء حتّى أوتي بدماغ تنين واستعط
+        <lb/>
+
+        به فإنّ قدرت على دماغ تنّين كان فيه شفاؤك قال القرد
+        <lb/>
+
+        الجرب وكيف لي بدماغ التنّين وأنا أضعف عن طلب
+        <lb/>
+
+        قوتي ورزقي من هذه الأشجار القريبة إلّا ما
+        <lb/>
+
+        تصدّق به على الوحش والسباع بما يقوّيني ولولا
+        <lb/>
+
+        ذلك لهلكت هولًا وضعفًا قال القرد الآخر إنّي قد رأيت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kw</chapter>
+  </chapter>
+</TEI>

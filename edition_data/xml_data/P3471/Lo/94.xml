@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="94"/>
+
+      <p n="The Tyrannical Lion">
+        فاجتمعوا
+      </p>
+
+      <p n="The Animals' Proposal">
+        فيما بينهم وأتوا إلى الأسد فقلن له إنّك لن تصيب منّا
+      </p>
+
+      <p n="unassigned">
+        الدابّة إلّا بعد تعب ومشقّة وقد عنّ لنا رأيٌ فيه كفايتك وحياتنا
+      </p>
+
+      <p n="The Lion's Inquiry">
+        قال الأسد وما ذاك
+      </p>
+
+      <p n="The Bargain">
+        قالوا إن أنت لم تهجمنا وأمّنتنا فنحن نرسل
+        <lb/>
+
+        إليك في كلّ يومٍ منّا دابّة تكون طعامك
+      </p>
+
+      <p n="The Lion Agrees">
+        فرضي بذلك فقام الوحش له بذلك
+        <lb/>
+
+        ووفّوا له
+      </p>
+
+      <p n="The Cunning Rabbit's Turn">
+        ثمّ إنّ أرنبًا أصابتها القرعة وكانت ذات دهاء ومكر
+        <lb/>
+
+        فقالت لهنّ إن أنتنّ رفقتنّ بي فيما لا يضرّك نّ أرحتكنّ من الأسد
+      </p>
+
+      <p n="The Animals' Question">
+        فقلن وما ذاك
+      </p>
+
+      <p n="The Rabbit's Request">
+        فقالت تأمرن من يذهب بحيث أن لا يتبعني
+        <lb/>
+
+        ويتوارى إذا قرب منه حتّى أذهب إليه وحدي وقد أبطأت
+        <lb/>
+
+        عليه فيجوع وأمكر به
+      </p>
+
+      <p n="The Animals Agree">
+        فقلن لك ذلك فانطلقت
+      </p>
+
+      <p n="The Rabbit's Delay">
+        متآنيّةً حتّى تجاوزت
+        <lb/>
+
+        وقت غذاء السبع فجاع وغضب وقام من مربضه وطيشه يمشي
+      </p>
+
+      <p n="The Lion's Confrontation">
+        فلمّا رآها قال من أنت ومن أين جئت وأين غذائي
+      </p>
+
+      <p n="The Rabbit's Lie">
+        قالت الأرنب من
+        <lb/>
+
+        عند الوحش وبعثن معي أرنبًا مثلي فعرض لي في طريقي أسد فانتزعها
+        <lb/>
+
+        منّي
+      </p>
+
+      <p n="The Lie Continues">
+        فقلت له إنّها طعام الملك فشتمك وقال
+      </p>
+
+      <p n="The Usurper's Claim">
+        لي أنا أحقّ بها فأتيتك
+      </p>
+
+      <p n="The Rabbit Reports">
+        لأخبرك
+      </p>
+
+      <p n="The Lion's Rage">
+        فقال انطلقي فأريني هو فانطلقت
+      </p>
+
+      <p n="Leading the Lion to the Well">
+        به إلى بئرٍ فيه ماءٌ صافي
+        <lb/>
+
+        فاطّلعت فيه
+      </p>
+
+      <p n="The Rival's Location">
+        وقالت هاهنا نزل فاطّلع
+      </p>
+
+      <p n="Held by the Lion">
+        الأسد في البئر فرأى ظلّ
+        <lb/>
+
+        نفسه في الماء فضلّه
+      </p>
+
+      <p n="Pointing at the Reflection">
+        فاقتحم في البئر وهو لا يشكّ أنّ ذلك حقّ فهور
+        <lb/>
+
+        في البئر وهلك
+      </p>
+
+      <p n="Kalila's Conditional Approval">
+        فقال كليلة إن قدرت على هلاك شتربة من غير مشقّة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

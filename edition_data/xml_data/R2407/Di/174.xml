@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="174"/>
+
+      <p n="The Mother Quotes the Leopard Anonymously">
+        فأخبرته أمّه بجميع الحديث وما كان عرّفها النمر به
+      </p>
+
+      <p n="Divulging Secrets Is a Punishable Sin">
+        وقالت إنّي لم أجهل قول العلماء في تعظيم العقوبة
+        <lb/>
+
+        وما يدخل من العار في إذاعة الأسرار وما في ذلك من
+        <lb/>
+
+        الإثم
+      </p>
+
+      <p n="The Lion Assembles the Court and Summons Dimna">
+        فلمّا فرغت أمّ الأسد من كلامها أمر بدمنة
+        <lb/>
+
+        فأُدخل على الأسد
+      </p>
+
+      <p n="Dimna Inquires About the Lion's Dejection">
+        فلمّا وقف بين يديه ورأى جلساءه
+        <lb/>
+
+        أيقن بالهلاك والتفت إلى بعض أصحابه وقال سرًّا
+        <lb/>
+
+        هل حدث حديثًا حزن له الملك وما سبب جمعهم
+      </p>
+
+      <p n="The Mother Declares Dimna Responsible">
+        فأجابته أمّ الأسد نعم قد أحزن الملك استبقاءك
+        <lb/>
+
+        طرفة عينٍ وأن يدعك حيًّا
+      </p>
+
+      <p n="Good People Suffer Misfortune Fastest">
+        أجاب دمنة وقال
+        <lb/>
+
+        لها أمّا الرأي الأوّل ترك الآخر مقالًا في شيءٍ من معاريض
+        <lb/>
+
+        الأمور فإنّه يُقال أشدّ الناس من يوقّي الشرور
+      </p>
+
+      <p n="Doubt and Certainty Must Not Be Confused">
+        وقد
+        <lb/>
+
+        قالت العلماء إنّه من صدّق ما ينبغي أن يُكذَّب ويكذّب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

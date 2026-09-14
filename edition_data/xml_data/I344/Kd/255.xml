@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="255"/>
+
+      <p n="Philosopher Adds Consultation">
+        لهم
+      </p>
+
+      <p n="Philosopher Adds Good Wife">
+        والعون على ذلك بالمروءة الصالحة
+      </p>
+
+      <p n="Without Advice One Fails">
+        فإنّ الرجل
+        <lb/>
+
+        وإن كان شجاعًا ماضيًا ثمّ لم يكن له حلم وكان أهل
+        <lb/>
+
+        مشورته أهل نقص وإن شان القدر إليه في ذلك
+        <lb/>
+
+        شيئًا صالحًا وغيّره إلى الشرور والغبطة والظفر
+        <lb/>
+
+        والفرح فإنّه لا بدّ صائر إلى الندامة والهلكة
+      </p>
+
+      <p n="Advice Empowers">
+        فإنّ القدرة
+        <lb/>
+
+        رأس الأمور والمعلّط على الأشياء وأكثر من يغُتبط برأيه
+        <lb/>
+
+        المعلّم المشاور للعلماء
+      </p>
+
+      <p n="Competent Vizier">
+        وإن كان المَلك عالمًا وكان مشاوره
+        <lb/>
+
+        حكيمًا ناصحًا أُعطي الظفر والعقل والفلاح ولم يزل
+        <lb/>
+
+        في خير وسعادة من الجدّ وظفر بعدوّه
+      </p>
+
+      <p n="Vizier Protects King">
+        ولو أراد
+        <lb/>
+
+        أمرًا غَشّا أن يكون له ضاررًا ولعدوّه نافعًا
+        <lb/>
+
+        خلص من ذلك برأي وزرائه وأصحاب حاجته
+      </p>
+
+      <p n="King And Vizier Tale Mention">
+        كالذي كان من المَلك ووزيره في صلبت
+        <lb/>
+
+        امرأته
+      </p>
+
+      <p n="King Requests Story">
+        قال المَلك وكيف كان ذلك والله أعلم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

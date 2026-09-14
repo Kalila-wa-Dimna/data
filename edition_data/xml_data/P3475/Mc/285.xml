@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="285"/>
+
+      <p n="The Huntsman Approaches">
+        إذا هما بالصيّاد قد أقبل من بعيد
+      </p>
+
+      <p n="The Rat Resolves to Cut the Last Rope">
+        قال الجرذ الآن جاء موضع
+        <lb/>
+
+        الجدّ في قطع ما بقي
+      </p>
+
+      <p n="The Rat Fulfills the Pact">
+        فلم يدن الصيّاد منهما حتّى فرغ
+        <lb/>
+
+        من قطع الحبال على سوء ظنّ من السنّور ودهش
+      </p>
+
+      <p n="The Cat and the Rat Escape">
+        فأفلت
+        <lb/>
+
+        السنّور حصرًا إلى الشجرة فصعده وانجحر الجرذ وأخذ
+        <lb/>
+
+        الصيّاد حباله مقطّعة فانصرف خليًّا
+      </p>
+
+      <p n="The Cat Calls Back the Rat">
+        ثمّ إنّ الجرذ خرج
+        <lb/>
+
+        من جحره في ابتغاء ما يأكله فرأى السنّور من بعيد فكره
+        <lb/>
+
+        أن يدنو منه وناداه السنّور أيّها الصديق ذو البلاء
+        <lb/>
+
+        الحسن
+      </p>
+
+      <p n="The Cat Reminds the Rat of their Friendship">
+        ما يحبسك من الدنوّ منّي لأجزيك بأحسن ما
+        <lb/>
+
+        أبليتني هلمّ إليّ ولا تقطع إخائي
+      </p>
+
+      <p n="If One Gives Up a Friend One Loses Out">
+        فإنّه من اتّخذ صديقًا
+        <lb/>
+
+        فأضاع صداقته حُرم ثمرة الإخاء وليس من منفعة
+        <lb/>
+
+        إلّا هي للصديق
+      </p>
+
+      <p n="The Cat Suggests a Reward">
+        ويدك عندي البيضاء
+      </p>
+
+      <p n="The Cat Reassures the Rat">
+        فلا تخافنّ منّي
+        <lb/>
+
+        شيئًا واعلم أنّ ما قبلي لك مبذول ثمّ حلف واجتهد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

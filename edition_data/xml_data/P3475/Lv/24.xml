@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="24"/>
+
+      <p n="Burzoy Befriends Books Owner">
+        فجعل برزويه يهدي إلى الرجل من طُرَف بلاد فارس ممّا كان
+        <lb/>
+
+        حمل معه من بلاد فارس وانقطع به ولاذ به وأنزله بالهنديّ
+        <lb/>
+
+        حاجته ولم يزل برزويه في إكرام الهنديّ وإلطافه
+        <lb/>
+
+        وإجلاله حتّى وقعت بينهما الحِشمة
+      </p>
+
+      <p n="Burzoy Gets K D">
+        فناله كتاب
+        <lb/>
+
+        كليلة ودمنة فلمّا سمع الهندي كلام برزويه وما
+        <lb/>
+
+        طلب إليه من الكتاب لم يجد بُدًّا من إجابته إلى
+        <lb/>
+
+        نسخه
+      </p>
+
+      <p n="Friend Values Burzoy">
+        فقال له الهنديّ قد أوجزت في القول وقصدت
+        <lb/>
+
+        إليّ الحاجة ولم يخف عليّ حين رأيتك لبيبًا عاقلا أديبًا
+        <lb/>
+
+        فاضلا حكيمًا حليمًا كاملا
+      </p>
+
+      <p n="Traits Of Prudence">
+        وإنّما يُعرف فضل الرجل
+        <lb/>
+
+        فى خصال أنا مفسّرها لك إن شاء الله تعالى فاسمع منّي
+        <lb/>
+
+        أمّا واحدة فما يُرى من حكمته ومروءته والثانية تحفّظه
+        <lb/>
+
+        وتحرّزه والثالثة مناصحته وطاعته للملوك
+      </p>
+
+      <p n="Traits Of Secrecy And Speech">
+        والرابعة
+        <lb/>
+
+        استيداعه سرّه من يحفظه عليه من أخلّائه ولا
+        <lb/>
+
+        يذيعه ولكنّه يرعاه ويكتمه ولا يبوح به وإن هُجر وأُقصي
+        <lb/>
+
+        والخامسة أن يغشى أبواب الملوك في هيئة وزينة
+        <lb/>
+
+        وحيلة وطلب علم والسادسة أن يقمع هواه يزجره
+        <lb/>
+
+        عن الكلام فيما لا يعنيه والسابعة أن لا يسقط في مجالس
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="189"/>
+
+      <p n="unassigned">
+        حباله استوحش من الأرض وقال هذه أرض جنّ أو سحرة فرجع موليًّا لا
+        <lb/>
+
+        يلتمس شيئًا ولا يلتفت إليه واجتمع الغراب والظبي والجرذ والسلحفاة إلى
+        <lb/>
+
+        عريشهم سالمين آمنين كأحسن ما كانوا عليه فإذا كان هذا الخلق مع
+        <lb/>
+
+        صغره وضعفه قد قدر على التخلّص من مرابط الهلكة مرّة بعد أخرى بمودّته
+        <lb/>
+
+        وخلوصها وثبات قلبه عليها واستمتاع بعضهم ببعض فالإنسان الذي
+        <lb/>
+
+        قد أُعطي العقل والفهم وأُلهم الخير والشرّ ومُنح التمييز والمعرفة أولى
+        <lb/>
+
+        وأحرى بالتواصل والتعاضد فهذا مثل إخوان الصفا وائتلافهم في الصحبة
+        <lb/>
+
+        انقضى باب الحمامة المطوّقة
+      </p>
+
+      <p n="Chapter Title">
+        باب البوم والغربان
+      </p>
+
+      <p n="The King Understood Previous Chapter">
+        قال ديشلم الملك لبيديا الفيلسوف قد سمعت مثل إخوان الصفا
+        <lb/>
+
+        وتعاونهم
+      </p>
+
+      <p n="The King Asks about Fawning Foes">
+        فاضربْ لي مثل العدوّ الذي لا يُغترّ به وإن أظهر تضرّعًا
+        <lb/>
+
+        وملقًا
+      </p>
+
+      <p n="The Parable of the Owls and the Crows">
+        قال الفيلسوف من اغترّ بالعدوّ الذي لم يزل عدوًّا أصابه
+        <lb/>
+
+        ما أصاب البوم والغربان
+      </p>
+
+      <p n="The King Requests the Parable">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="The Crow Kingdom and the Owl Kingdom">
+        قال بيديا
+        <lb/>
+
+        زعموا أنّه كان في جبل من الجبال شجرة من شجر الدوح فيها وكر ألف غراب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Rd</chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

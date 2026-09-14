@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="162"/>
+
+      <p n="Dimna Gives Ruzbeh Half, Asks Him to Put in Good Word with Lion and Mother and Report Their Words to Him">
+        شطره وقال له أنك على الدخول والخروج على الأسد أقدر من غيرك فتفرّغ
+        <lb/>
+
+        لشأني واصرف اهتمامك إليّ وما أُذكر به عند الأسد إذا رُفع إليه ما يجري
+        <lb/>
+
+        بيني وبين الخصوم وما يبدوا من أمّ الأسد في حقّي وما ترى من متابعة
+        <lb/>
+
+        الأسد لها ومخالفته إيّاها في أمري واحفظْ ذلك كلّه واعرفْه
+      </p>
+
+      <p n="Ruzbeh Accepts Gift">
+        فأخذ
+        <lb/>
+
+        الشعهر ما أعطاه دمنة وانصرف عنه على هذا العهد فانطلق إلى منزله فوضع ذلك
+        <lb/>
+
+        فيه
+      </p>
+
+      <p n="Leopard &amp; Judge Bring Lion the Court Records Who Has Them Copied">
+        ثمّ إنّ الأسد بكّر من الغد فجلس حتّى إذا مضى من النهار ساعتان استأذن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

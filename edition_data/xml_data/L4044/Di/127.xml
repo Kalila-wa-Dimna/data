@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="127"/>
+
+      <p n="Confession Is Better Than a Denial, and Finite Punishment on Earth Better Than Infinite Punishment in Hell">
+        بعد الضدّ منه والاعتراف به خير من المصرّ على ذنبه وأحسن حالًا من الجاحد
+        <lb/>
+
+        له وأنت ميّت لا محالة وإن عُفي عنك فإنّ الذي يصيبك من بعد المضض جزاء
+        <lb/>
+
+        لجرمك فتصبر عليه خير لك من أن تُعذّب في جهنّم التي لا رحمة فيها ولا راحة
+        <lb/>
+
+        ولا انقطاع لعذابها
+      </p>
+
+      <p n="Dimna Agrees with Judge's Rationale">
+        قال دمنة قلتَ أيّها الحاكم قول الأتقياء البررة وصدقت
+        <lb/>
+
+        في مقالك
+      </p>
+
+      <p n="One Must Not Harm One's Soul for the Sake of One's Body">
+        ولكن في كتب الدين أيضًا أنّ السعيد من استطاع أن لا يعمل بجسمه
+        <lb/>
+
+        عملًا يضرّ بروحه
+      </p>
+
+      <p n="One Must Harm One's Body for the Sake of One's Soul">
+        فقد قالت العلماء أيضًا إنّ العاقل من أضرّ بجسمه وتمسّك
+        <lb/>
+
+        بروحه
+      </p>
+
+      <p n="One Must Not Hurt People with Undeserved Words">
+        وليس ينبغي أيضًا أن يُقال لأحد بشيء يكرهه إذا لم يكن له أهل
+      </p>
+
+      <p n="Dimna Despises His Body and Is No Sinner">
+        وإنّي
+        <lb/>
+
+        لم أر لفرقي من الآخرة مهينًا لجسمي ممسكًا بروحي
+      </p>
+
+      <p n="Dimna, Being Innocent, Cannot Confess What He Did Not Do">
+        ولم أقل كلمة كذب قطّ
+        <lb/>
+
+        على أحد فيها مضرّة ولا أذى ولا يستطيع أحد أن يقدم بنظره عليّ فيها
+      </p>
+
+      <p n="Dimna Did Not Commit This Great Sin">
+        فكيف
+        <lb/>
+
+        أكون تعاطيت هذا الذنب الذي هو أعظم الذنوب
+      </p>
+
+      <p n="One Must Not Lie">
+        ووُجد بأقوال الرسل
+        <lb/>
+
+        لا تكذب على أحد ولا تفتري عليه فكيف يفتري الإنسان على نفسه ويقول لما
+        <lb/>
+
+        لم يفعل قد فعلته
+      </p>
+
+      <p n="Scholars Warn Against False Confession">
+        وقد قالت العلماء إنّ الذي تحمله مخافة شديدة أو جهالة
+        <lb/>
+
+        على أن يلزم نفسه عملًا لم يعمله فإنّه لم يسيء إلى نفسه ولا جاعله ذلك في
+        <lb/>
+
+        الآخرة مع قتلة أنفسهم
+      </p>
+
+      <p n="Killing Dimna Would Be Unjust">
+        وإنّي بريء ممّا لُطّخت به فإن قُتلت بهذا القذف
+        <lb/>
+
+        فإنّ ذلك غير ضائري لما ألقاه في معادي من جزيل الثواب
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded and Court's Members Leave for the Day">
+        فكتب القاضي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

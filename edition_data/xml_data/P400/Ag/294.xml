@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="294"/>
+
+      <p n="unassigned">
+        فقال الناسك أنّه لا يعد سعيدًا من احتاج إلى ما لا يجد وليس بمقدور عليه
+        <lb/>
+
+        فتشره إليه نفسه ويقل صبره عمّا لا يصل إليه وتدخل عليه المشقة والمضرّة وأنت عظيم
+        <lb/>
+
+        الحظّ وجزيل الثواب إن قنعت بما رزقت وزهدت فيما لا تظفر به ولا تدرك
+        <lb/>
+
+        طلبيته منك قال الضيف قد وفّقت ورشدت وقد سمعت منك
+        <lb/>
+
+        كلامًا غريبًا فاستحسنته فلو علمتنيه فإنّ لي فيه رغبة وعلى تعليمه حريص وكان
+        <lb/>
+
+        الناسك يتكلّم بالعبرانية قال له الناسك احذر أن يصيبك ما أصاب الغراب مع الحجلة
+        <lb/>
+
+        قال الضيف وكيف كان ذلك قال الناسك زعموا أنّ غرابًا رأى حجلة تدرج فأعجبه
+        <lb/>
+
+        مشيها فطمع في تعلّمها فراض نفسه بمشيها فإذا هو لا يحفظها فبقى حيرانًا مترددًا ولم يدرك طلبه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

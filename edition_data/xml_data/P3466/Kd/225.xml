@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="225"/>
+
+      <p n="King Asks How To Preserve Rule">
+        الأشياء الملك حقيق أن يكرم أهل مملكته ورعيّته
+        <lb/>
+
+        ويثبّت ملكه ويحفظ أرضه بالحلم أم بالمرؤة أم بالشجاعة أم بالجود
+      </p>
+
+      <p n="Philosopher Prioritizes Ḥilm">
+        قال الفيلسوف إنّ أعظم ما يحفظ به الملك ملكه ويثبّت
+        <lb/>
+
+        به سلطانه ويكرم به نفسه ويدرك به صالحه الحلم والعقل
+        <lb/>
+
+        لأنّهما رأس الأمور وملاكها
+      </p>
+
+      <p n="Philosopher Adds Consultation">
+        وحفظ مناجاة الحكيم الصالح ومداراته
+        <lb/>
+
+        مع مشاورة أهل العلم والرفق والأمانة والحبّ للبّر في أمورهم
+      </p>
+
+      <p n="Philosopher Adds Good Wife">
+        والعون على ذلك المرأة الصالحة والحلم لا سيّما للملوك
+      </p>
+
+      <p n="Without Advice One Fails">
+        فإنّ الرجل
+        <lb/>
+
+        وإن كان شجاعًا سخيّا ثمّ لم يكن حليمًا عاقلًا وكان مشاوره
+        <lb/>
+
+        غير لبيب فإنّه يبهظه الأمر اليسير لضعف رأيه وجهالته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

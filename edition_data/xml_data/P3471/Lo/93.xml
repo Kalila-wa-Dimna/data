@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="93"/>
+
+      <p n="unassigned">
+        حفاظًا وكرمًا
+      </p>
+
+      <p n="The Deception Continues">
+        ثمّ أهوى بكلّيّته إلى عنق العجلوم فغمز عليه غمزة
+        <lb/>
+
+        شديدة قتله لوقته فيها ورجع إلى السمك أخبرهنّ بما صار
+        <lb/>
+
+        وإنّما
+      </p>
+
+      <p n="The Crab's Request">
+        ضربت لك هذا المثل لتعلم أنّ الحيلة إذا لم تُحكم كانت ضررًا
+        <lb/>
+
+        على صاحبها ولكن
+      </p>
+
+      <p n="The Jackal's Plan">
+        انطلق فالتمس حليًا فإن ظفرت به فاختطفه وأصحابه
+        <lb/>
+
+        ينظرون إليك ثمّ طر ولا تتوارى عنهم فيقفوا أثرك ولكن ترفّق رويدًا
+        <lb/>
+
+        حتّى يتبعونك ثمّ تأتي به إلى جحر الأسود فتلقيه فإنّهم يحفرون عليه
+        <lb/>
+
+        فيخرج عليهم فيقتلونه ويريحونك منه وأنت آمن ففعل
+      </p>
+
+      <p n="The Crow Snatches the Necklace">
+        الغراب
+        <lb/>
+
+        ذلك وخطف
+      </p>
+
+      <p n="The Lure">
+        حلي امرأة تغسل على سطح منزلها وقد وضعت حليها
+        <lb/>
+
+        إلى جانبها على ثيابها فخطفه وطار واتّبعه الناس حتّى انتهى إلى جحر
+        <lb/>
+
+        الأسود فوضعه على باب الجحر
+      </p>
+
+      <p n="The Plan Succeeds">
+        فبادر الناس فخرج عليهم الأسود فقتلوه
+        <lb/>
+
+        وأخذوا حليهم واستراح الغراب من الأسود بغير مشقّة وإنّما
+      </p>
+
+      <p n="The Moral: Cunning Triumphs">
+        ضربت
+        <lb/>
+
+        لك هذا المثل لتعلم أنّ الحيلة ربما أجزأت أجزاءًا لا يطيقه كثير
+        <lb/>
+
+        من الناس فقال كليلة
+      </p>
+
+      <p n="Kalila's Objection">
+        إنّ شتربة لو كان لا يجمع مع شدّته رأيًا كان
+        <lb/>
+
+        ذلك ولكنّه ذو ا رأي وبطش فقال دمنةإنّ
+      </p>
+
+      <p n="The Rabbit and the Lion Parable">
+        شتربة لعلى ما وصفت
+        <lb/>
+
+        ولكنّه واثقٌ بي وسيرسل إليّ فأنا خليق أن أصرعه كما فعلت الأرنب
+        <lb/>
+
+        بالأسد قال كليلة
+      </p>
+
+      <p n="Kalila Asks for the Story">
+        وكيف كان ذلك فقال زعموا
+      </p>
+
+      <p n="The Tyrannical Lion">
+        أنّ أسدًا كان في أرض كثيرة
+        <lb/>
+
+        الماء والوحوش والمرعى وكان لا ينفعهم ما هم فيه من خوفهم من الأسد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

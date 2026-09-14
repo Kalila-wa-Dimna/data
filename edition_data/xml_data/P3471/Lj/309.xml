@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="309"/>
+
+      <p n="King Understood Previous Chapter">
+        قد سمعت مثل الغدر والموتور الذي لا يُطمأنّ إليه
+      </p>
+
+      <p n="King Asks about Reconciling a Courtier">
+        فاضرب
+        <lb/>
+
+        لي مثل الملوك فيما بينهم وخاصّتهم في مراجعة من يراجع منهم
+        <lb/>
+
+        بعد عقوبة أو جفوة تكون عن ذنب يذنبه أو ظلم يظلمه فيأمر
+        <lb/>
+
+        الملك بعقوبته
+      </p>
+
+      <p n="Philosopher Supports Reconciliation of a Courtier">
+        قال الفيلسوف إنّ الملك لو كان يراجع من أصابته
+        <lb/>
+
+        جفوة أو استحقّ عقوبة عن جرم اجترمه أو ظلم ظلمه إذن لأضرّ
+        <lb/>
+
+        ذلك بالأمور والأعمال
+      </p>
+
+      <p n="King to Consider Value of a Suspect">
+        ولكنّ الملك حقيق بالنظر في أمر من ابتلي بشيء
+        <lb/>
+
+        من ذلك وما عنده من الغنى والذي يرجوه منه من النفع
+      </p>
+
+      <p n="King to Reconcile the Reliable">
+        فإن كان
+        <lb/>
+
+        ممّن كان يُستعان به ويُوثق برأيه وأمانته أو كان ممّن يُرجى عنده
+        <lb/>
+
+        نصيحة كان الملك أحقّ بالحرص على مراجعته والنظر في العفو عنه
+        <lb/>
+
+        والاستبقاء له
+      </p>
+
+      <p n="Aides Are Essential to Rule">
+        فإنّ المُلك لا يُستطاع إلّا بالوزراء والأعوان ولن
+        <lb/>
+
+        يُنتفع بالوزراء والأعوان إلّا بالمودّة والنصيحة ولا المودّة والنصيحة
+        <lb/>
+
+        ولا مع أصالة الرأي والعفاف
+      </p>
+
+      <p n="Kings' Duties Are Many">
+        وأعمال الملوك كثيرة متفرّقة ومن
+        <lb/>
+
+        يحتاجون إليه من المكانفين والمعاونين عليها كثير ومن يجمع منهم
+        <lb/>
+
+        ما وصفت من النصيحة وإصابة الرأي والعفاف قليل
+      </p>
+
+      <p n="King Must Know Everyone">
+        وإنّما الشكل
+        <lb/>
+
+        في ذلك والوجه الذي يستقيم به العمل أن يكون الملك عالمًا بمودّة من
+        <lb/>
+
+        يريد الاستعانة به وأموره وما عند كلّ رجل منهم من الرأي السديد
+        <lb/>
+
+        والعفاف وما فيه من المساوئ والعيوب
+      </p>
+
+      <p n="King Must Choose Suitable People">
+        فإذا استقرّ ذلك عنده
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

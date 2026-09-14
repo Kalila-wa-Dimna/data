@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="165"/>
+
+      <p n="Falconer Gives Parrots to Marzuban">
+        بين يديه فأطرباه إلّا أنّه لا يعلم ذلك لأنّ البازيار كان علّمهما
+        <lb/>
+
+        ذلك بلسان البلخيّة وإنّ المرزبان أعجب بهما إعجابًا عظيمًا
+        <lb/>
+
+        وحظي البازيار عنده لأجلهما حظوة كريمة
+      </p>
+
+      <p n="Marzuban Gives Parrots to Wife">
+        فأمر امرأته بالاحتفاظ
+        <lb/>
+
+        بهما والمراعاة لهما والاحتياط عليهما والتفقّد لشأنهما والتعاهد
+        <lb/>
+
+        لمطعمهما ومشربهما وحسن القيام بمصالحهما ففعلت ذلك
+        <lb/>
+
+        وأحسنت المراعاة لهما لأنّهما أعجباها
+      </p>
+
+      <p n="Marzuban Hosts Foreign Guests">
+        واتّفق بعد مدّة أن
+        <lb/>
+
+        قدم على المرزبان قوم من عظماء أهل بلخ فتفوّق لهم في الطعام
+        <lb/>
+
+        والشراب وجمع من أصناف التحف شيئًا كثيرًا وحضر القوم فلمّا
+        <lb/>
+
+        فرغوا من الطعام وشرعوا في الحديث أشار إلى البازيار أن يأتي
+        <lb/>
+
+        بالببّغائتين فأحضرهما
+      </p>
+
+      <p n="Foreign Guests Understand Parrots">
+        فلمّا صاحتا بين أيديهم وسمع القوم صياحهما
+        <lb/>
+
+        عرفوا ما يقولان فنظر بعضهم إلى بعض ونكّسوا رؤوسهم
+        <lb/>
+
+        حياء ممّا سمعوا
+      </p>
+
+      <p n="Foreigners Ask Whether Marzuban Understands Parrots/He Asks Them">
+        فسألهم المرزبان عمّا قالتا فأنكر بعضهم واعترف
+        <lb/>
+
+        بعض وامتنعوا أن يقولون ما قالتا الببّغائتين فألحّ عليهم المرزبان
+        <lb/>
+
+        وأكثر السؤال لهم عمّا قالتا
+      </p>
+
+      <p n="Foreigners Translate Parrots' Words, Refuse Meal in House of Sin">
+        فقال بعضهم إنّما يقولان
+        <lb/>
+
+        كذا وكذا وليس من شأننا أن نأكل في بيت يُعمل فيه الفجور
+      </p>
+
+      <p n="Marzuban Orders Wife to Be Killed">
+        فلمّا قالوا ذلك تقدّم المرزبان بالمرأة أن تُقتل مكانها
+      </p>
+
+      <p n="Wife Asks Him to Investigate">
+        فأرسلت
+        <lb/>
+
+        المرأة إليه أن لا تعجل في أمري وسل القوم أن يسألوا الببّغائتين عن ما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

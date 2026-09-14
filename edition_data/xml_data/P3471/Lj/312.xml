@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="312"/>
+
+      <p n="King Must not Impose Service">
+        ولا على ما ليس من شأنه فإنّ المكره لا يستطيع المبالغة في العمل
+      </p>
+
+      <p n="Jackal Declines Position">
+        وأنا لعمل السلطان مستقلّ كاره وليست لي به تجربة ولا بالسلطان
+        <lb/>
+
+        رفق
+      </p>
+
+      <p n="Lion Has Eager Candidates">
+        وأنت ملك السباع وعندك من أجناسها عدد كثير وفيهم أهل
+        <lb/>
+
+        نبالة وأصحاب بصائر وقوّة على العمل وحرص ولهم به رفق
+        <lb/>
+
+        وفيما تريد رغبة فإن استعملتهم أغنوا عنك واغتبطوا لأنفسهم
+        <lb/>
+
+        بما أصابوا منك في ذلك
+      </p>
+
+      <p n="Lion Does not Excuse Jackal">
+        قال الأسد فإنّي غير معفيك من العمل
+      </p>
+
+      <p n="Two Kinds Serve Kings">
+        قال ابن آوى إنّما يستطيع صحبة السلطان رجلان لست
+        <lb/>
+
+        بواحد منهما إمّا فاجر بصانع ينال حاجته بفجوره في العاجل
+        <lb/>
+
+        وغدائه في الآجل ويسلم بمصانعته ومداهنته وإمّا رجل مهين
+        <lb/>
+
+        مفضّل لا يحسده أحد
+      </p>
+
+      <p n="Good Advisor Is Hated">
+        قال الأسد دعْ عنك هذا فإنّ من
+        <lb/>
+
+        أراد أن يلزم الملوك ويصحبهم بالصدق والنصيحة والغناء
+        <lb/>
+
+        والصلح وغير ذلك فلا يخلط ذلك بمصانعة ولا اهتمال فقلّ
+        <lb/>
+
+        ما يستقيم وتسلم له صحبتهم لأنّه يجتمع عليه عدوّ السلطان
+        <lb/>
+
+        وصديقه بالعداوة والحسد
+      </p>
+
+      <p n="Threats against Good Advisor">
+        أمّا الصديق فينافسه في منزلته
+        <lb/>
+
+        ويبغي عليه فيها ويعاديه لها وأمّا عدوّ السلطان فيضطغن
+        <lb/>
+
+        عليه لمودّته ونصيحته لسلطانه وغنائه عنه فإذا اجتمع
+        <lb/>
+
+        عليه هذان الصنفان كان تعرّض هلاك
+      </p>
+
+      <p n="Lion Promises Jackal Protection">
+        وقال الأسد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

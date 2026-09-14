@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="234"/>
+
+      <p n="Ill-Timed Harvest">
+        جاني التمر في غير وقته
+      </p>
+
+      <p n="Everything Has Its Time">
+        فإنّ لكلّ عمل حين
+      </p>
+
+      <p n="Bad Timing Brings Failure">
+        وما لم
+        <lb/>
+
+        يكن في حينه فلا عاقبة له
+      </p>
+
+      <p n="The Rat Explains Not Cutting the Last Rope">
+        وأنا قاطع حبالك لحينها
+        <lb/>
+
+        غير أنّي أعرف أنّك مشغول عنّي فيها
+      </p>
+
+      <p n="The Rat Cuts All but One Rope">
+        ففعل ذلك
+      </p>
+
+      <p n="The Huntsman Approaches">
+        حتّى
+        <lb/>
+
+        إذا هما أصبحا أتاهما الصيّاد فحين رأوه مقبلًا من
+        <lb/>
+
+        بعيد
+      </p>
+
+      <p n="The Rat Resolves to Cut the Last Rope">
+        قال الجرذ الآن هذا موضع الجدّ في قطع حبالك
+      </p>
+
+      <p n="The Rat Fulfills the Pact">
+        فلم يقرب إليهما الصيّاد حتّى كان قطع تلك الحبال
+      </p>
+
+      <p n="The Cat and the Rat Escape">
+        فانصرف السنّور إلى الشجرة والجرذ إلى جحره فأخذ
+        <lb/>
+
+        الصيّاد حباله مقطّعة وانصرف خائبًا
+      </p>
+
+      <p n="The Cat Calls Back the Rat">
+        وخرج الجرذ
+        <lb/>
+
+        بعد ذلك من جحره فرأى السنّور من بعيد فكره أن يدنو
+        <lb/>
+
+        منه فناداه السنّور من بعيد أيّها الصديق المحسن
+      </p>
+
+      <p n="The Cat Reminds the Rat of their Friendship">
+        ما يمنعك من الدنوّ منّي لأجازيك بأحسن ما أفلتني منه
+        <lb/>
+
+        هلمّ إليّ ولا تقطع إخائي
+      </p>
+
+      <p n="If One Gives Up a Friend One Loses Out">
+        فإنّه من اتّخذ صديقًا ثمّ
+        <lb/>
+
+        أضاع صداقته حُرم ثمرة إخائه وليس ينفعه من الخلّان
+        <lb/>
+
+        أحد
+      </p>
+
+      <p n="The Cat Suggests a Reward">
+        وأنت لك عندي جميلًا لا يُنسى فيجب أنت أن
+        <lb/>
+
+        تلتمس مكافأة ذلك منّي ومن إخواني
+      </p>
+
+      <p n="The Cat Reassures the Rat">
+        فلا تخفي منّي شيئًا
+        <lb/>
+
+        لأنّ كلّما لي فهو لك مبذول ثمّ حلف له بأيمان عظيمة
+        <lb/>
+
+        واجتهد غاية الجهد
+      </p>
+
+      <p n="The Rat Distinguishes Hidden from Overt Enmity">
+        فأجابه الجرذ إنّ كلّ صداقة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="105"/>
+
+      <p n="The Lion Misses the Ox and Regrets Killing Him">
+        ومواظبته كانت معي وما كنت أستمتع به من رأيه وأسكن إليه من
+        <lb/>
+
+        مشورته ونصيحته
+      </p>
+
+      <p n="Self-Accusation is the Most Damning">
+        قالت له إنّ أقنع ما شهد على امرئ نفسه
+      </p>
+
+      <p n="Killing the Ox Was Wrong">
+        وهذا من
+        <lb/>
+
+        قولك دليل على أنّ قلبك شاهد بأنّك قد أقدمت على الثور بغير علم
+        <lb/>
+
+        ولا وضح يقين بذلك
+      </p>
+
+      <p n="Haste is the Worst Mistake">
+        واعلم أنّ رأس الخطأ العجلة
+      </p>
+
+      <p n="The Lion Should Have Controlled Himself">
+        فلو كنت حين بلغك
+        <lb/>
+
+        عن الثور ما بلغك كففت نفسك وملكت سورة غضبك ثمّ عرضت ما
+        <lb/>
+
+        بلغك عنه على قلبك بحفظ نظر لاكتفيت بقلبك دليلًا على صدق ما
+        <lb/>
+
+        أتاك عنه وكذبه لأن القلوب تتكافأ فيما بينهما
+      </p>
+
+      <p n="The Lion Should Evaluate His Feelings after the Ox's Death">
+        فقسْ أمرك وأمر الثور
+        <lb/>
+
+        بموقع أمره كأنّ نفسك في حياته وموقعه
+      </p>
+
+      <p n="The Lion Reflects about the Ox">
+        قال الأسد لقد
+        <lb/>
+
+        أكثرت التفكّر في ذلك وحرصت على التجنّي عن الثور بعد قتلي
+        <lb/>
+
+        إيّاه وعلى أن أغضب به ذنبًا واحدًا فيما بيني وبينه أقوّي به تهمتي
+        <lb/>
+
+        إيّاه فما تزداد تهمتي إيّاه ولا يزداد ظنّي به في تردادي إلّا حسنًا
+      </p>
+
+      <p n="The Lion Finds no Fault with the Ox">
+        ولست
+        <lb/>
+
+        أتذكّر منه شراسة خلق أقول حملته على أنّه حسدني ولا بغضًا
+        <lb/>
+
+        أتّهمه في طلب مغالبتي ولا أتذكّر منه إليّ سببًا أرى أنّه دعاه
+        <lb/>
+
+        إلى مغالبتي
+      </p>
+
+      <p n="The Lion Wants to Conduct an Investigation">
+        وإنّي لأحبّ أن أفحص عن أمره وأبالغ في الفحص عن شأنه
+      </p>
+
+      <p n="The Lion Seeks an Evaluation of His Action">
+        وإن كنت أعرف أنّ ذلك غير مصلح ما فرط منّي في أمره ولكنّي أحبّ أن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

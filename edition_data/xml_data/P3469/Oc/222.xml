@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="222"/>
+
+      <p n="unassigned">
+        فأيقنت بالسوء فساررت خليلها أن ارفع صوتك فقل
+        <lb/>
+
+        أنا أحبّ إليك مع زوجك فسمع لها خليلها كما أمرته فردّت
+        <lb/>
+
+        عليه أن يا خليلي ما اضطرّك إلى هذه المسألة ألست تعلم
+        <lb/>
+
+        أنّا معشر النساء أنّا بحال الرجال نقضي الشهوة ثمّ لا نلتفت
+        <lb/>
+
+        مع ذلك إلى إحسانهم ولا أخلاقهم فإذا قضينا شهوتنا
+        <lb/>
+
+        منهم صاروا عندنا كغيرهم من الأبعدين فأمّا الزوج فإنمّا هوّ
+        <lb/>
+
+        كالأب والأمّ والأخ والولد فلحا الله امرأة لا يكون زوجها
+        <lb/>
+
+        عندها عَدَل نفسها فلمّا سمع النجار مقالة امرأته رقّ لها وأخذته
+        <lb/>
+
+        لها رحمة وغلبته العَبْرة ووثق منها بالمودّة ولم يبرح مكانه حتّى أصبح
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

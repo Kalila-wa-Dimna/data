@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="94"/>
+
+      <p n="Ox Recounts His Story to Lion">
+        فقصّ عليه شتربة قصّته
+      </p>
+
+      <p n="Lion Invites Ox to Stay">
+        فقال له الأسد الزمني فإنّي مكرمك
+        <lb/>
+
+        ومحسن إليك فدعا له شتربة وأثنى عليه
+      </p>
+
+      <p n="Lion's Growing Trust in Ox">
+        وإنّ الأسد قدّر
+        <lb/>
+
+        شتربة وألطفه وأكرمه وأنس منه رأيًا وعقلًا
+      </p>
+
+      <p n="Lion's Increasing Favor Towards Ox">
+        فائتمنه على أسراره
+        <lb/>
+
+        وشاوره في أموره حتّى صار أخصّ أصحابه عنده
+      </p>
+
+      <p n="Dimna's Jealousy of Ox's Favor">
+        فلمّا رأى دمنة أنّ
+        <lb/>
+
+        الأسد قد اختصّ بشتربة دونه ودون أصحابه كلّهم وإنّه صاحب
+        <lb/>
+
+        رأيه وخلوته حسده حسدًا شديدًا
+      </p>
+
+      <p n="Dimna Complains to Kalila">
+        فشكى إلى أخيه كليلة
+      </p>
+
+      <p n="Dimna's Lament">
+        فقال له يا أخي لا تعجب من عجز رأي وصنيعي بنفسي ونظري فيما
+        <lb/>
+
+        ينفع الأسد وإغفالي عن نفع نفسي
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+      </p>
+
+      <p n="Dimna's Lament">
+        حين خلّيت ثورًا غلبني على منزلتي
+      </p>
+
+      <p n="Kalila Introduces the Ascetic's Parable">
+        قال كليلة أصابك ما أصاب
+        <lb/>
+
+        الناسك
+      </p>
+
+      <p n="Dimna Asks About the Ascetic">
+        قال دمنة وكيف كان ذلك
+      </p>
+
+      <p n="Fourth Subtale of Ascetic and Thief">
+        قال كليلة زعموا أنّ
+        <lb/>
+
+        ناسكًا أصاب من بعض الملوك كسوة فاخرة فبصر به سارق فطمع فيها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

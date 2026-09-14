@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M487</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="105"/>
+
+      <p n="Chapter Read Publicly">
+        بفراغه منه فجمع أنوشروان جميع العلماء والأشراف ومن دونهم قد خلوا
+        <lb/>
+
+        إليه وأمر بزرجمهر بقراءة الكتاب وبرزوية قائم إلى جنبه فابتدأ
+        <lb/>
+
+        بزرجمهر بقراءة مقدّمته
+        <lb/>
+
+        ثمّ أخذ في وصف برزويه حتّى انتهى إلى آخره
+      </p>
+
+      <p n="Bu Chapter Well Received">
+        ففرح الملك بذلك وكلّ
+        <lb/>
+
+        أهل المملكة بما أوتيه بزرجمهر من الحكمة العجيبة والعلم العزيز وما
+        <lb/>
+
+        مدح به برزويه من غير كذب ولا إدّعاء باطل
+      </p>
+
+      <p n="Kisra And Attendees Commend Buzurgmihr">
+        وأثنى الملك وجميع من حضر على
+        <lb/>
+
+        بزرجمهر وشكروا له ذلك ومدحوه بأفضل ما مُدح به أحدًا قبله
+      </p>
+
+      <p n="Kisra Rewards Buzrgmihr">
+        وأمر له الملك
+        <lb/>
+
+        بمال عظيم وكسوة فاخرة وحليّ وأواني فلم يقبل من ذلك شيئًا غير الكسوة فإنّها
+        <lb/>
+
+        كانت من ثياب الملوك وكان يلبسها ويفتخر بها
+      </p>
+
+      <p n="Burzoy Thanks Buzurgmihr">
+        ثمّ شكر له ذلك برزويه وقبّل
+        <lb/>
+
+        يديه
+      </p>
+
+      <p n="Burzoy Thanks Kisra For Chapter">
+        ثمّ أقبل برزويه على الملك وقال أدام الله لك أيّها الملك السرور والكرامة
+        <lb/>
+
+        فقد بلغت غاية التشريف بما أمرت به بزرجمهر من صفة لهذا الكتاب وذكر أمرى وإبقاء ذكري
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

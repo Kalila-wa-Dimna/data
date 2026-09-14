@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="74"/>
+
+      <p n="Eldest Son's Journey and Ox Cart Incident">
+        في طريقه على مكان ذو وحل كثير ومعه عجلة يجرّها ثوران اسم أحدهما
+        <lb/>
+
+        شتربة والآخر تندية
+      </p>
+
+      <p n="Ox Getting Stuck in Mud">
+        فوحل شتربة في ذلك الوحل واستخرجه
+        <lb/>
+
+        الرجل وأعوانه بعد بلوغه الجهد
+      </p>
+
+      <p n="Merchant Leaving a Man to Care for the Ox">
+        وخلّف عنده عونًا من أصحابه
+        <lb/>
+
+        يقوم عليه أيّامًا فإذا رآه قد صلح أتبعه به
+      </p>
+
+      <p n="Description of the Caretaker's Actions">
+        فلمّا كان من الغد أبرم
+        <lb/>
+
+        الرجل بمكانه فترك الثور ولحق بصاحبه وأخبره أنّ الثور <>
+      </p>
+
+      <p n="Ox's Journey to a Lush Meadow">
+        انبعث من مكانه
+        <lb/>
+
+        فلم يزل يدبّ حتّى انتهى إلى مرج مخصب كثير الماء والعشب
+      </p>
+
+      <p n="Ox's Physical Transformation">
+        فأكل وسمن
+        <lb/>
+
+        وبطن وجعل يحكّ برأسه الأرض ويخور خوارًا شديدًا
+      </p>
+
+      <p n="Ox's Encounter with Inevitable Fate">
+        لما قضى عليه
+        <lb/>
+
+        أن يصيبه
+      </p>
+
+      <p n="First Subtable of Man and Wolf (Second Beginning)">
+        فإنّه زعموا أنّ رجلًا كان يجزّ حشيشًا فجلس له ذئبًا
+        <lb/>
+
+        ليأكله فلم يفطن به حتّى دنا منه
+      </p>
+
+      <p n="Man's Escape Attempt from the Wolf">
+        فاشتدّ وجل الرجل فخرج هاربًا
+        <lb/>
+
+        نحو قرية على نهر فلمّا انتهى إلى النهر وجد عليه قنطرة مكسورة ورهقه
+        <lb/>
+
+        الذئب
+      </p>
+
+      <p n="Man's Dilemma at the River">
+        فقال كيف أمتنع منه وقد لحقني والقنطرة مكسورة وأنا
+        <lb/>
+
+        لا أحسن السباحة غير أنّي لا أجد بدًّا من الحيلة لنفسي وإلّا هلكت
+      </p>
+
+      <p n="Man Jumping into the River and Rescue">
+        فرمى نفسه في النهر واضطرب فيه فرآه أهل القرية فأرسلوا
+        <lb/>
+
+        من أتاهم به وقد أشرف على الهلكة
+      </p>
+
+      <p n="Man Resting Against a Wall">
+        فجلس تحت حائط
+      </p>
+
+      <p n="Man Recounting His Experiences">
+        فلمّا أفاق
+        <lb/>
+
+        أخذ يحدّثهم حديثه وما لقي وكيف أخلصه الله عزّ وجلّ من الذئب
+      </p>
+
+      <p n="Wall Collapsing and Killing the Man">
+        فبينما هو في حديثه إذ سقط عليه الحائط فقتله
+      </p>
+
+      <p n="Ox's Physical Transformation and Attitude Change">
+        ثمّ إنّ شتربة
+        <lb/>
+
+        لم يلبث أن تعكّن شحمًا ولحمًا
+      </p>
+
+      <p n="Ox's Loud Bellowing and Behavior">
+        وجعل يحكّ بقرنيه الأرض ويخور خوارًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

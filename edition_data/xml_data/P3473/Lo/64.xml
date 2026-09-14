@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="64"/>
+
+      <p n="unassigned">
+        المحتال بين المتحاببين لم يلبثا أن يتقاطعا ويتدابرا
+        <lb/>
+
+        وعاقبة أمر الخائن المحتال إلى البوار
+      </p>
+
+      <p n="Transition to the Lion and Bull Story">
+        ومن أمثال ذلك
+        <lb/>
+
+        مثل الأسد والثور
+      </p>
+
+      <p n="King's Inquiry About the Story">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="Setting: Wealthy Merchant and His Sons">
+        قال الفيلسوف
+        <lb/>
+
+        زعموا أنّه كان بأرض تُعرف باساتين رجل تاجر مكثرًا
+        <lb/>
+
+        من المال وكان له ثلاثة أولاد بنين
+      </p>
+
+      <p n="Sons' Mismanagement of Wealth">
+        فلمّا أدركوا شرعوا
+        <lb/>
+
+        في إتلاف مال أبيهم ولم يحترفوا حرفة يكتسبون لأنفسهم
+        <lb/>
+
+        خيرًا فلامهم على ذلك ووعظهم
+      </p>
+
+      <p n="Father's Advice: Three Pursuits and Four Necessities">
+        وكان من قوله لهم يا بنيّ إنّ
+        <lb/>
+
+        صاحب الدنيا يطلب ثلاثة أمور لا يدركها إلّا أربعة
+        <lb/>
+
+        أشياء
+      </p>
+
+      <p n="Three Worldly Pursuits">
+        أمّا الثلاثة التي يطلب بها الدنيا فالسعة في المعيشة
+        <lb/>
+
+        والمنزلة في الناس والزاد للآخرة
+      </p>
+
+      <p n="Four Necessities for Achieving Pursuits">
+        وأمّا الأربعة التي يحتاج
+        <lb/>
+
+        إليها فاكتساب المال من أحسن وجهه ثمّ حسن القيام فيما
+        <lb/>
+
+        اكتسب ثمّ في إنفاقه فيما يصلح المعيشة ويرضي الأهل
+        <lb/>
+
+        والإخوان فيعود عليه نفعه في الآخرة
+      </p>
+
+      <p n="Failure to Achieve Goals Without Proper Management">
+        فمن ضيّع شيئًا من هذه
+        <lb/>
+
+        الأحوال لم يدرك ما أراد من حاجته لأنّه لم يكن له مال
+        <lb/>
+
+        يعيش به
+      </p>
+
+      <p n="Consequences of Poor Financial Management">
+        وإن كان ذا مال واكتساب ولم يحسن القيام
+        <lb/>
+
+        به أوشك أن يفنى ويبقى بعدها
+      </p>
+
+      <p n="Rapid Depletion of Poorly Managed Wealth">
+        وإن هو اكتسبه ولم يستثمره
+        <lb/>
+
+        لم ينفعه قلّة الإنفاق من سرعة الذهاب
+      </p>
+
+      <p n="Analogy of Rapidly Depleting Kohl">
+        كالكحل الذي لا
+        <lb/>
+
+        يؤخذ منه إلّا غبار الميل ثمّ هو مع ذلك سريع فناؤه
+      </p>
+
+      <p n="Consequences of Miserliness and Mismanagement">
+        وإن أنفقه في غير وجهه ووضعه في غير موضعه وأخطأ به
+        <lb/>
+
+        مواضع الحقوق صار بمنزلة الفقير الذي لا مال له ثمّ
+        <lb/>
+
+        لم يمنع مع ذلك ماله من التلف بالحوادث والعلل التي تجري عليه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

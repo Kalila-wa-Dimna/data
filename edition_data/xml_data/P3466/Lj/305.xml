@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="305"/>
+
+      <p n="Jackal Requests Investigation">
+        قال الأسد وكيف العفو عن من بالغائلة في نفسي وأهل بيتي قال
+        <lb/>
+
+        ابن آوى يكون ذلك بتكافي حسن الأمور
+      </p>
+
+      <p n="Lion Investigates Plotters">
+        فدعا الأسد
+        <lb/>
+
+        أصحاب تلك السعاية ففرّق بينهم وسألهم وبالغ في الفحص
+        <lb/>
+
+        عنهم وجعل لمن صدقهم الأمان فاعترف بعضهم بالذي كانوا
+        <lb/>
+
+        دبّروا على ابن آوى من المكر والحيلة ثمّ أجمعوا على الاعتراف
+        <lb/>
+
+        فوضح للأسد براءة ابن آوى
+      </p>
+
+      <p n="Mother Reaffirms Intrigue">
+        فلمّا رأت أمّ الأسد أنّ الأسد قد
+        <lb/>
+
+        استبان له براءة ابن آوى قالت للأسد إذا كان قد سبق منك
+        <lb/>
+
+        الأمان لهؤلاء بما لا سبيل إليه
+      </p>
+
+      <p n="Lion Must Reject Slander without Evidence">
+        فسبيلك ألّا تقبل من أحد منهم
+        <lb/>
+
+        سعاية أبدًا إلّا ومعه برهان يغني عن النظر
+      </p>
+
+      <p n="Lion Must Punish Plotters">
+        لئلّا يتّخذوك
+        <lb/>
+
+        مركبًا
+      </p>
+
+      <p n="Lion Must not Underestimate Wrongdoers">
+        ولا تغترر بسلطانك عليهم ولا تحتقرنّ صغيرًا ممّا
+        <lb/>
+
+        يرفع إليك ذو النميمة من معايب أهل ثقتك
+      </p>
+
+      <p n="Grass Rope Ties Elephant">
+        فإنّ الحشيش الضعيف
+        <lb/>
+
+        إذا اجتمع فُتل منه الحبل القويّ فربطه الفيل القويّ
+      </p>
+
+      <p n="Lion Should Reinstate Jackal">
+        فأعِدْ
+        <lb/>
+
+        ابن آوى إلى منزلته ولا يؤيسك من مناصحته ما فرط منك إليه من
+        <lb/>
+
+        الإساءة
+      </p>
+
+      <p n="Some People Should Never Be Cut Off">
+        فإنّ من الناس من لا ينبغي تركه على حال من الأحوال
+      </p>
+
+      <p n="People Who Should Be Kept">
+        من عُرف بالصلاح والكرم والعهد والشكر والوفاء
+        <lb/>
+
+        والمحبّة للناس والسلامة من الحسد والبعد من الأذى والاحتمال
+        <lb/>
+
+        للإخوان والأصحاب وإن ثقلت عليه منهم المؤونة
+      </p>
+
+      <p n="The Vile To Be Cut Off">
+        وأمّا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

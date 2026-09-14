@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="165"/>
+
+      <p n="Judge's Demand of Confession Is False Counsel or Ruse Not Befitting Judges">
+        والمكر ليس من أعمال صالحي القضاة ولا ثقات الولاة
+      </p>
+
+      <p n="A Judge's Speech Becomes a Ruling and Sunna">
+        واعلم أنّ قولك
+        <lb/>
+
+        هذا ممّا يتّخذه الجهّال والأشرار سنّة يقتدون بها لأنّ أمور القضاء يأخذ
+        <lb/>
+
+        بصوابها أهل الصواب وبخطايها أهل الخطأ والباطل والقليلو الورع
+        <lb/>
+
+        وأنا خائف عليك أيّها القاضي من مقالتك هذه أعظم الرزايا والبلايا
+      </p>
+
+      <p n="Judge Departed from Former Virtue in Dimna's Case">
+        وليس من البلاء والمصيبة أنّك لم تزل في نفس الملك والجند والخاصّة
+        <lb/>
+
+        والعامّة فاضلًا في رأيك مقنعًا في عدلك مرضيًّا في حكمك وعفافك
+        <lb/>
+
+        وفضلك وإنّما البلاء كيف أنسيت ذلك في أمري
+      </p>
+
+      <p n="Everyone Should Say Only What They Know">
+        أو ما بلغك عن العلماء
+        <lb/>
+
+        أنّهم قالوا من ادّعى علم ما لا يعلم وشهد على الغيب
+      </p>
+
+      <p n="Dimna's Fourth Subtale of the Falconer Who Falsely Accuses the Marzuban's Wife">
+        أصابه ما أصاب البازيار
+        <lb/>
+
+        القاذف زوجة مولاه
+      </p>
+
+      <p n="Head of Court Requests Tale">
+        قال القاضي وكيف كان ذلك
+      </p>
+
+      <p n="Marzuban Had Wife and Servant">
+        قال دمنة
+        <lb/>
+
+        زعموا أنّه كان في بعض المدن رجل مذكور وكانت له امرأة ذات جمال وعفافٍ
+        <lb/>
+
+        وكانت له جوارح كثيرة وكان له بازيار ماهر خبير بعلاج البزاة
+        <lb/>
+
+        وسياستها وكان هذا البازيار عند هذا الرجل بمكان خليل بحيث
+        <lb/>
+
+        أنّه أدخله داره وأجلسه مع حرمه
+      </p>
+
+      <p n="Falconer Accosted Wife and Is Rejected">
+        فاتّفق أنّ البزيار راود زوجة مولاه
+        <lb/>
+
+        عن نفسها فأبت عليه وتسخّطت لذلك وتمعّر وجهها واحمرت خجلًا
+        <lb/>
+
+        وزاد امتناعها عليه
+      </p>
+
+      <p n="Falconer Decides to Take Revenge">
+        وحرص عليها هو كلّ الحرص وعمل الحيلة في بلوغ غرضه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

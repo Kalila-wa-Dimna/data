@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="115"/>
+
+      <p n="The Lion Wants to Avoid Haste">
+        ينبغي أن يُستهلك إلّا في حجّة وفيما العذر واضح فيه لمن استهلكه
+      </p>
+
+      <p n="The Judge Has Dimna Taken to Prison">
+        ثمّ إنّ
+        <lb/>
+
+        القاضي أمر بدمنة إلى السجن فغُلّظ عليه الوثاق
+      </p>
+
+      <p n="Kalila Seeks out Dimna in Prison">
+        فدخل كليلة له رقّة
+        <lb/>
+
+        وأدركه منه ذمام لقديم الإخاء وطول الصحبة وصافي المودّة التي كانت بينهما
+        <lb/>
+
+        فانطلق إليه مستخفيًا
+      </p>
+
+      <p n="Kalila Weeps when Seeing Dimna">
+        حتّى لقيه في السجن فبكى حين نظر إليه وإلى ما
+        <lb/>
+
+        هو فيه من الضيق والغمّ
+      </p>
+
+      <p n="Kalila Admits Having Been Harsh on Dimna">
+        ثمّ قال له إنّما أنت فيه لكافيك من العظة
+        <lb/>
+
+        ولكن لا بدّ من إذكارك قضائي حقّك في النصيحة لك والتقدمة إليك
+      </p>
+
+      <p n="Withholding Advice Would Have Made Kalila Complicit">
+        فإنّ
+        <lb/>
+
+        لكلّ مقالة موضعًا ولو كنتُ قصّرت في موعظتك حيث احتجتَ إلى ذلك منّي
+        <lb/>
+
+        في حال العافية كنت اليوم شريك في الذنب
+      </p>
+
+      <p n="Conceit Caused Dimna's Demise">
+        ولكنّ الإعجاب دخل منك مدخلًا
+        <lb/>
+
+        فهو الذي رابك وغلبك
+      </p>
+
+      <p n="The Schemer Dies Before His Time">
+        وقد كنت اخترت لك قول العلماء إنّ المحتال يموت
+        <lb/>
+
+        قبل أجله مثلًا
+      </p>
+
+      <p n="Kalila Calls Dimna's Situation Worse Than Death">
+        وليس قولهم يموت قبل أجله بانقطاع الحياة ولكن بدخول
+        <lb/>
+
+        أشياء تفسد الحياة عليه كنحو ما أنت فيه ممّا الموت أروح منه
+      </p>
+
+      <p n="Dimna Cites His Greed as Cause for Not Listening">
+        قال دمنة
+        <lb/>
+
+        لم تزلْ منذ عرفتك تقول بالحقّ جهدك وقد كنت بحقّ إخائي مؤدّيًا تعظني
+        <lb/>
+
+        وتنصحني ولكنّ شره النفس والحرص على طلب المنزلة أرداني ومنعني الانتفاع
+        <lb/>
+
+        بنصحك لي
+      </p>
+
+      <p n="Desire for Noxious Food Kills the Patient">
+        كالمريض المؤلّم بالعظام الذي يعرف مضرّته له فيدع معرفته
+        <lb/>
+
+        انقيادًا لشهوته
+      </p>
+
+      <p n="Evil Sown Sprouts in Its Own Time">
+        وقد عرفت أنّي زرعت البلاء لنفسي ولا ينبت إلّا بإبّانه وزمانه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

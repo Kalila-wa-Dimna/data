@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="257"/>
+
+      <p n="Lion Must Punish Plotters">
+        ولكن يعاقبهم عليه لكيلا يعودوا
+      </p>
+
+      <p n="The Faithless Should Be Given Up">
+        فإنّه لا ينبغي أن <> أمر الكفور
+        <lb/>
+
+        الجاني الجريء على الغدر الزاهد في الآخرة والذي لا يوقن بالآخرة وأنّه
+        <lb/>
+
+        أحرى بعمله
+      </p>
+
+      <p n="The Irascible Should Be Given Up">
+        وقد عرفتَ سرعة الغضب وفرط الهفوة
+      </p>
+
+      <p n="The Irreconcilable Should Be Given Up">
+        ومن سخط باليسير
+        <lb/>
+
+        لم يبلغ رضاه بالكثير
+      </p>
+
+      <p n="Whom to Reinstate">
+        وأنت حقيق بمراجعته بالشكر وحسن العهد
+        <lb/>
+
+        وحبّ السرّ والبغض للإثم وحبّ العامّة والرحمة لهم
+      </p>
+
+      <p n="Jackal Has Been Tested">
+        وقد عرفت ابن
+        <lb/>
+
+        آوى وجرّبته وأنت حقيق بمواصلته
+      </p>
+
+      <p n="Lion Apologizes to Jackal">
+        فدعا الأسد بابن آوى واعتذر إليه
+        <lb/>
+
+        ممّا كان منه ووعده خيرًا وقال إنّي معتذر إليك
+      </p>
+
+      <p n="Lion Wants to Reinstate Jackal">
+        ورادُّك إلى منزلتك
+      </p>
+
+      <p n="Untrue Friends Seek Only Their Own Benefit">
+        فقال ابن آوى إنّ شرّ الأخلّاء من التمس منفعة نفسه بضرّ أخيه
+        <lb/>
+
+        وكان أخوه غير ناظر كنظره وأرضاه بدون الحقّ وكثير ذلك
+        <lb/>
+
+        ما يقع بين الأخلّاء
+      </p>
+
+      <p n="Jackal Is Reluctant to Trust Lion Again">
+        وقد كان الملك أتى ما علم فلا يأخذنّ على نفسه
+        <lb/>
+
+        بما أخبره به
+      </p>
+
+      <p n="King Must not Trust the Wrongfully Punished">
+        فإنّه لا ينبغي لي أن أصحبه فإنّ الملوك لا ينبغي لهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

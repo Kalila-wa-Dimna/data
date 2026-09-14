@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="257"/>
+
+      <p n="Favorite Wears Dress Before King">
+        ذلك اهتاج لها وتجدّد في قلبه حبّها واشتاق إليها
+      </p>
+
+      <p n="King Insults Queen">
+        وقال
+        <lb/>
+
+        لإبراخت لقد كنت جاهلة حين أخذتي الإكليل وتركت الثياب
+        <lb/>
+
+        التي ليس في خزائننا مثلها
+      </p>
+
+      <p n="King Praises Favorite">
+        وإنّ جوزقناه لأحسن منك عقلًا وأكمل
+        <lb/>
+
+        رأيًا وأشبه بنساء الملوك
+      </p>
+
+      <p n="Queen Pours Rice Over King">
+        فلمّا سمعت إبراخت ذلك من قوله
+        <lb/>
+
+        مع ما عاينت من حاله ومدحته جوزقناه وتسفيهه رأيها
+        <lb/>
+
+        أُلبست الغيظ والغضب فضربت بالصحفة التي كانت بيدها
+        <lb/>
+
+        رأس الملك فسال الأرزّ على رأسه ووجهه ولحيته وجسده
+      </p>
+
+      <p n="Fulfillment Of Last Dream">
+        وكان
+        <lb/>
+
+        عبارة الحلم الثامن الذي كان كمابيرون برع بطرف منه
+        <lb/>
+
+        للملك وامتنع من تبينه له
+      </p>
+
+      <p n="King Expresses Anger To Vizier">
+        فدعا الملك بإيلاد فقال يا إيلاد
+        <lb/>
+
+        ألا ترى إلى ملك العالم كيف حقرته هذه المرأة وعملت به ما عملت
+        <lb/>
+
+        هل رأيت ملكًا قطّ مثلي اجترأ عليه مثل هذه الحمقاء حين ركبت منه
+        <lb/>
+
+        مثل ما ترى احتقارًا لي وتصغيرًا لقدري وتهوينًا لأمري
+      </p>
+
+      <p n="King Orders To Execute Queen">
+        فانطلق
+        <lb/>
+
+        بها فاضرب عنقها ولا ترحمها فإنّها ليست لذلك أهلًا ولا تراجعني في
+        <lb/>
+
+        شيء من أمرها ولا تدخلنّ عليّ إلّا بعد قتلك إيّاها
+      </p>
+
+      <p n="Vizier Decides To Spare Queen">
+        فخرج إيلاد بإبراخت
+        <lb/>
+
+        من عند الملك وقال في نفسه ما أنا بقاتلها ولا أممض رأيه فيها
+        <lb/>
+
+        حتّى يسكن غضب الملك
+      </p>
+
+      <p n="Vizier Praises Queen">
+        فإنّها إمراءة لبيبة عاقلة حريصة على
+        <lb/>
+
+        الخير شافعة به تحبّه وأهله سعيدة من الملكات ليس لها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="204"/>
+
+      <p n="The Cat Is the Rat's Worst Enemy">
+        إلّا لحاجة إليه ولا عدوّا أضرّ لي عداوة منك
+      </p>
+
+      <p n="The Rat's Need for Friendship Has Gone">
+        وقد اضطرّتني وإيّاك حاجة ونازل
+        <lb/>
+
+        بلاء ألجأني إلى المصالحة لننتفع بعضنا ببعض فقد ذهب الأمر الذي احتاج كلّ
+        <lb/>
+
+        واحد منّا إلى صاحبه وأخاف أن تعود العداوة إذا ذهب ذلك الأمر
+      </p>
+
+      <p n="The Weak Must Avoid the Strong">
+        ولا خير
+        <lb/>
+
+        للضعيف في قرب العدوّ القويّ العزيز
+      </p>
+
+      <p n="The Cat Desires the Rat for Food">
+        ولا أعلم لك قِبلي حاجة إلّا أن تريد
+        <lb/>
+
+        أكلي
+      </p>
+
+      <p n="The Cautious Weak Is Better Than Deluded Strong">
+        ولا أظنّ بك إلّا شرًّا فيما تدعوني به إلى نفسك من لطيف المنطق ولا
+        <lb/>
+
+        أرى رأيًا في الثقة بك وقد يُقال إنّ الضعيف المحترس بإذن الله من العدوّ
+        <lb/>
+
+        أقرب إلى السلامة من القويّ المغترّ بالضعيف من الأعداء
+      </p>
+
+      <p n="The Intelligent Escapes Forced Friendship">
+        والعاقل يصانع عدوّه
+        <lb/>
+
+        ويظهر ودّه ويريه من نفسه الاسترسال إليه إذا لم يجد من ذلك بدّا ويعجّل
+        <lb/>
+
+        الانصراف عنه إذا صار عنه غنيّا
+      </p>
+
+      <p n="Trusting Quickly Is Risky">
+        واعلم أنّ سريع الاسترسال لا
+        <lb/>
+
+        يكاد يستقيل عثرته
+      </p>
+
+      <p n="The Intelligent Distrusts Forced Friendship">
+        إذا كان يثق من نفسه بالوفاء ولا يثق لها بمثل ذلك
+      </p>
+
+      <p n="The Intelligent Must Leave Forced Friendship">
+        وقد
+        <lb/>
+
+        قالت العلماء إنّه ينبغي للعاقل أن يصالح العدوّ الجريء ويحمل التضرّع إليه
+        <lb/>
+
+        في حسن الحاجة وأن يتجنّبه في حال الغنى عنه ولا يثق به
+      </p>
+
+      <p n="The Best Thing Is Distance From the Enemy">
+        وكان يُقال لا
+        <lb/>
+
+        تؤثر على البعد من عدوّك سالمًا ما استطعت
+      </p>
+
+      <p n="Staying Away from the Enemy is the Best Judgment">
+        ولا شيء من السلامة لي في نفسي
+        <lb/>
+
+        منك ولك بالوفاء بعهدك أحزم من أن أباعد نفسي منك وكذلك لا أرى
+        <lb/>
+
+        لك شيئا أسلم لنفسك من التباعد من الصيّاد في السلامة
+      </p>
+
+      <p n="The Rat Does Not Need a Reward">
+        ولا عليك أن تجازيني
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

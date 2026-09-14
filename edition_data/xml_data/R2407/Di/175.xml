@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="175"/>
+
+      <p n="Doubt and Certainty Must Not Be Confused">
+        ما ينبغي أن يُصدّق
+      </p>
+
+      <p n="Dimna's First Subtale of the Woman Who Mistook Her Servant for Her Lover">
+        لأصابه ما أصاب الإمرأة التي
+        <lb/>
+
+        بذلت نفسها لرجلٍ حتّى فضحها بالاشتباه عليها
+      </p>
+
+      <p n="Lion's Question for Woman's Tale">
+        قال الأسد وكيف كان ذلك
+      </p>
+
+      <p n="A Merchant's Wife Had a Lover">
+        قال دمنة زعموا
+        <lb/>
+
+        أنّه كان في بعض المدائن تاجرٌ وكان له امرأةٌ ذات
+        <lb/>
+
+        خطٍّ من الجمال وكان إلى جانب بيت التاجر مصوّرًا
+        <lb/>
+
+        ماهرًا في عمله وكان المصوّر لإمرأة التاجر أكفأ رجل
+      </p>
+
+      <p n="Woman Asks Lover to Create a Sign">
+        فقالت الإمرأة يومًا إن استطعت أن تحتال بصناعة
+        <lb/>
+
+        أطّلع بها إلى مجيئك إليّ من غير بُدٍّ ولا ارتياب به من
+        <lb/>
+
+        فعلك
+      </p>
+
+      <p n="Painter Suggests Black-and-White Coat to Woman">
+        قال لها المصوّر إن عندي ممّا سألتي من الحيل
+        <lb/>
+
+        ما يقرّ عينك وعمد إلى ملائة وصوّر فيها من كلّ
+        <lb/>
+
+        الصور ولوّن بياضها بالأصباغ والجانب الآخر
+        <lb/>
+
+        تركه أبيضًا يتبيّن بياضه في الظلمة وسوادها
+        <lb/>
+
+        يبدوا في الليل وكان إذا أتاها صديقها المصوّر
+        <lb/>
+
+        يلبس تلك الملائة وإذا علمت بمجيئه تتهيّأ له
+      </p>
+
+      <p n="The Woman's Servant Hears About Coat">
+        فنظرهما
+        <lb/>
+
+        عبدًا كان خليلًا لأمّ المصوّر فتعجّب من ذلك
+      </p>
+
+      <p n="Woman's Servant Borrows Coat In Painter's Absence">
+        وطلب
+        <lb/>
+
+        من المصوّر تلك الملاءة يومًا ليريها بعض أصدقائه
+        <lb/>
+
+        ويسرع ردّها فأعطاه الملائة
+      </p>
+
+      <p n="Servant Tricks Woman">
+        فلبسها وأتى سيّدته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

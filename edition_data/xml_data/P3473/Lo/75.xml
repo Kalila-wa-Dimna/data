@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="75"/>
+
+      <p n="Lion's Concerns about Suffering, Greedy and Malevolent Courtiers">
+        أو كان شرّيرًا لا يحبّ الخير فبلغ منه في العقوبة ما لم
+        <lb/>
+
+        يبلغْ بغيره
+      </p>
+
+      <p n="Lion's Concerns about Courtiers Others Were Preferred Over">
+        أو كان قد أبلى بلاء حسنًا مع نظرائه ففُضّلوا
+        <lb/>
+
+        عليه في المنزلة أو كان ممّن يظهر الدين ويبطن الهوى
+      </p>
+
+      <p n="Lion's Concerns about Impious and Inimical Courtiers">
+        أو
+        <lb/>
+
+        كان الأمر الذي يتوجّه فيه ينتفع به السلطان ويضرّ به أو
+        <lb/>
+
+        كان لعدوّ السلطان مسالمًا ولوليّه معاديًا
+      </p>
+
+      <p n="Advice against Trusting Certain Types of People">
+        كلّ هؤلاء
+        <lb/>
+
+        ليس للسلطان الحازم إرسالهم في أموره الخاصّة ولا الثقة بهم
+        <lb/>
+
+        أصلًا ولا يأتمنهم على سرّه ولا يخلو بأحد منهم مطلقًا
+      </p>
+
+      <p n="Lion's Reflection on Dimna's Character and Past Treatment">
+        وإنّ
+        <lb/>
+
+        دمنة داهية وأديب وكان ببابي مطّرحًا مجفوًّا
+      </p>
+
+      <p n="Lion's Fear of Dimna's Potential Betrayal">
+        فلعلّه قد
+        <lb/>
+
+        احتمل بذلك عليّ ضغنًا ولعلّ ذلك أن يحمله على خيانتي أو إعانة
+        <lb/>
+
+        عدوّي ** صاحب هذا الصوت يكون أقوى منّي سلطانًا فيرغب
+        <lb/>
+
+        فيما عنده ويميل معه عليّ ويدلّه على عواري
+      </p>
+
+      <p n="Lion's Restless Contemplation">
+        فلم يزلْ الأسد
+        <lb/>
+
+        يفكّر في هذا وأشباهه حتّى استخفّه الجزع فقام من مكانه
+        <lb/>
+
+        وجعل يمشي ويتقدّم وينظر إلى الطريق حتّى وقع نظره على
+        <lb/>
+
+        دمنة مقبلًا
+      </p>
+
+      <p n="Lion's Relief Upon Seeing Dimna Alone">
+        فلمّا رآه أنّه وليس معه أحد اطمأنّ قلبه وطابت
+        <lb/>
+
+        نفسه ورجع إلى مكانه خشية من دمنة أن لا يفطن لجزعه
+      </p>
+
+      <p n="Dimna's Return and Lion's Inquiry">
+        فلمّا وصل دمنة إلى الأسد قال له ما رأيت وبماذا أتيت
+      </p>
+
+      <p n="Dimna Reports Seeing a Ox">
+        قال دمنة رأيت ثورًا وهو صاحب هذا الصوت
+      </p>
+
+      <p n="Lion Inquires about Ox's Strength">
+        قال الأسد
+        <lb/>
+
+        فما قوّته
+      </p>
+
+      <p n="Dimna Downplays Ox's Power">
+        قال دمنة لا
+        <lb/>
+
+        شوكة له وذلك إنّي لمّا دنوت منه وحاورته محاورة الأكفاء
+        <lb/>
+
+        فلم يستطيعْ لي عنًّا
+      </p>
+
+      <p n="Lion Warns against Underestimation">
+        فقال الأسد لا يغرّنّك ذلك منه ولا
+        <lb/>
+
+        يصغرنّ عندك أمره
+      </p>
+
+      <p n="Analogy of Wind and Trees">
+        فإنّ الريح الشديدة لا تضرّ بصغير
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

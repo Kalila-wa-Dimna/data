@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="140"/>
+
+      <p n="unassigned">
+        باب الأسد والشعهر
+        <lb/>
+
+        الصوّام وهو باب السلطان وأعوانه
+        <lb/>
+
+        قال الملك للفيلسوف قد سمعت منك باب الذي يدع عمله الذي يعمل ويليق به فاضرب
+        <lb/>
+
+        لي مثل الملوك فيما بينهم وبين قرابتهم وفي مراجعة من يراجع منهم بعد عقوبة أو جفوة
+        <lb/>
+
+        تكون عن غير ذنب يذنبه أو ظلم يظلمه قال الفيلسوف إنّ الملك لو كان لا يراجع من أصابته
+        <lb/>
+
+        جفوة أو عقوبة عن جرم أجرمه أو ظلم ظلمه أضرّ ذلك بالأمور والأعمال ولكنّ
+        <lb/>
+
+        الملك حقيق بالوزراء والأعوان ولا أعوان إلّا بالمال ومن يجمع منهم العمّال والنصيحة
+        <lb/>
+
+        وأصالة الرأي في الوجه الذي يستقيم ولكلّ قوم عمل ومثل ذلك الأسد وابن آوى
+        <lb/>
+
+        قال الملك وكيف كان ذلك قال الفيلسوف زعموا أنّه كان بأرض كني ابن آوى
+        <lb/>
+
+        وكان متألّهًا متعفّفًا في بنات آوى وذئاب وثعالب ولم يكن يصنع كما يصنعون ولا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ks</chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

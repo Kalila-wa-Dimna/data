@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="43"/>
+
+      <p n="One Needs to Check the Veracity of Information">
+        كان حقًّا ولا يتمادى في الخطأ وإذا التبس عليه أمر أن لا يلج
+        <lb/>
+
+        ولا يعود حتّى يستيقن الصواب
+      </p>
+
+      <p n="One Should Not Continue on the Wrong Path">
+        ولا يكون كالرجل الذي حاد
+        <lb/>
+
+        عن الطريق فيتمادى على الضلال ولا يزداد في السير جهدًا إلّا ازداد
+        <lb/>
+
+        من العافية بعدًا
+      </p>
+
+      <p n="Man Rubs Itchy Eye and Loses It">
+        ولا يكون كالرجل الذي تقذى عينه فلا يزال
+        <lb/>
+
+        يحكّها حتّى تذهب
+      </p>
+
+      <p n="The Intelligent Should Believe in Fate">
+        وعلى العاقل أن يصدّق بالقضاء والقدر
+        <lb/>
+
+        ويأخذ بالحزم والأثر
+      </p>
+
+      <p n="Do unto Other as to Oneself">
+        ويحبّ للناس ما يحبّ لنفسه ويكره لهم ما يكره
+        <lb/>
+
+        لها
+      </p>
+
+      <p n="Reader Must Heed the Instructions of the Preface">
+        فمن قرأ هذا الكتاب فليبتدئ بهذا الباب وليقتدي به
+        <lb/>
+
+        فإنّ من عرف ما فيه اكتفى به عن غيره
+      </p>
+
+      <p n="The Translator Added the Preface">
+        فإنَّا لمّا قرأنا هذا الكتاب
+        <lb/>
+
+        وحاولنا نقله من اللسان الفارسيّ إلى اللسان العربيّ أحببنا
+        <lb/>
+
+        أن نلحق فيه بابًا للعربيّة يستبين فيه للمقتبس المتعلّم أمر هذا الكتاب
+        <lb/>
+
+        فهو هذا الباب الذي وصفناه والله الموفّق
+      </p>
+
+      <p n="unassigned">
+        باب بعثة برزويه إلى الهند
+        <lb/>
+
+        ذكروا أنّ أنوشروان بن قتاد الملك في زمن الأعاجم بعث رجلًا
+        <lb/>
+
+        يُقال له برزويه وكان متطبّبًا وكان رئيس الأطبّاء في أهل المملكة مالا يقال
+        <lb/>
+
+        وكان له من الملك مرتبة ومنزلة ومجلس معروف وكان مع ما في يديه من
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>JBE-Hebrew</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="27"/>
+
+      <p n="A Viper Stepped on Once May Not Bite">
+        בו. כי שבע תועבות בלבו.
+      </p>
+
+      <p n="Cool Sandalwood May Become Hot">
+        ואשר היא בר לב הוא כרפואה ששמה בלשון ערב סנדל
+        <lb/>
+
+        והוא קר. והוא לאנשי החרחור טוב ויקר. ואם לחצו אותו בין שני אבנים ויניעוהו מאד.
+        <lb/>
+
+        עד יהם ויצר לבעל החרחור ובלבבו יקד יקוד.
+      </p>
+
+      <p n="Dimna Asks about Lion's Immobility">
+        ויהי היום וישב דמנה עם האריה
+        <lb/>
+
+        יחידים. ואין עמם מן השרים ולא מן העברים. ויאמר מדוע המלך משתאה מחריש.
+        <lb/>
+
+        יושב תחתיו וממקומו לא ימיש.
+      </p>
+
+      <p n="Description of the Loud Bellowing Sound">
+        ויהי הוא טרם כלה לדבר. והנה שנזבה בקול נער.
+        <lb/>
+
+        וירעש האריה. ויהי עומד מרעיד ורותהו תועה.
+      </p>
+
+      <p n="Lion's Explanation of His Immobility">
+        ויאמר הקול הזה הוא אשר הושיבני
+        <lb/>
+
+        והחרידני. ומטרף טרף מנעני. כי שמעתי קול נדול ולא שמעתיו לפנין. ולא ידעתי
+        <lb/>
+
+        אם הוא אם תנין. ואשתומם על הקול בכל עת אשמענו. על כן מפניו אבהל
+        <lb/>
+
+        אתבונן ואפחד ממנו.
+      </p>
+
+      <p n="Lion's Speculation About the Source's Size">
+        כי הקול כפי כח בעליו וכנדל נויתו. כי כאיש נבורתו. ואם
+        <lb/>
+
+        הוא נדל כח כפי מחשבי. הוא יהיה מהריבי.
+      </p>
+
+      <p n="Lion's Concern About Territorial Safety">
+        על כן ארחיק נרוד לתור מושבי.
+      </p>
+
+      <p n="Dimna's Advice Against Abandoning Territory">
+        ויאמר דמנה אין על המלך שיפחד לבבו כמים. להשמעות אונים. ואל
+        <lb/>
+
+        תהי בצפרים אשר יפחידם צל הענף. ורודף אותם קול עלה נדף.
+      </p>
+
+      <p n="Third Subtale of Fox and Drum">
+        ואמרו כי היה שועל
+        <lb/>
+
+        רעב מתהלך בשדה והנה אלה עבתה רעננה נעימה. שפלת קומה. ואצל שרשה
+        <lb/>
+
+        ומחול תחת צלליה. וכרחף הרוח יכה במחול ענפיה ועליה. וישמע ממנו קול נדול.
+      </p>
+
+      <p n="Fox's Approach to the Loud Sound">
+        כשמוע השועל הקול הלך אליו ויירא מירא מחת עבה. ויאמר מזוני אם מעט ואם
+        <lb/>
+
+        הרבה. והנה כד מלאה מן הבית ועד הקיצון. חמאת בקר וחלב צאן.
+      </p>
+
+      <p n="Fox Splits Drum Expecting Food">
+        ויבקע
+        <lb/>
+
+        את המחול והנה הוא מלא בהו. מאפם ותהו.
+      </p>
+
+      <p n="Fox Finds Drum Empty">
+        ויאמר יש נבה קומה במנדל שפל.
+      </p>
+
+      <p n="Dimna's Application of the Parable to the Lion's Situation">
+        אמרתי טוב ממנו הנפל. ויש קול יוצא מניה נדולה. והיא דלה וריקה. בוקה ומבוקה
+        <lb/>
+
+        ומבולקה. ואולי בעל הקול אשר יפחידך. הוא ישקיטך ויכבדך.
+      </p>
+
+      <p n="Dimna's Offer to Investigate on the Lion's Behalf">
+        ואם על המלך
+        <lb/>
+
+        טוב אלכה ואראנו. ובהתבולותי אל בית המלך אביאנו. כי כוות וכיוות יוכלו לעשות
+        <lb/>
+
+        חכמים. ואם לא אביאנו אליך והצאנתיו לפניך והטאתי לך כל הימים.
+      </p>
+
+      <p n="Lion's Agreement to Dimna's Proposal">
+        ויאמר המלך
+        <lb/>
+
+        טוב דברת. לך עשה כאשר אמרת.
+      </p>
+
+      <p n="Dimna's Departure to Investigate the Sound">
+        ויאמר דמנה שב כאהליך. אל נא תמוש מזה עד
+        <lb/>
+
+        בא אליך. וילך דמנה עד מקום שנזבה.
+      </p>
+
+      <p n="Lion's Regret After Dimna's Departure">
+        וינחם הארייה ויאמר נסכלתי. כי לשלח
+        <lb/>
+
+        דמנה הואלתי.
+      </p>
+
+      <p n="Lion's Self-Doubt about Trusting Dimna">
+        ולו הרעותי אליו מבין חבריו. ויחשבני לו כצריו.
+      </p>
+
+      <p n="Lion's Concerns about Suffering, Greedy and Malevolent Courtiers">
+        או אולי חקו נגרע.
+        <lb/>
+
+        והתעוררתי כי מצאו רע. או רצח ובאחד השערים פרץ. ועתה ברח מן הארץ.
+      </p>
+
+      <p n="Lion's Concerns about Courtiers Others Were Preferred Over">
+        או נדלתי כסאות חבריו על כסאו. וישטמני בקנאו. או
+      </p>
+
+      <p n="Lion's Concerns about Impious and Inimical Courtiers">
+        דמה להצר פקיד. או להצר
+        <lb/>
+
+        נגיד. והתבושש ונכלם בנכלו. כאשר לא יכול לו. וכאשר להיטיב לו מאנתי. מדוע
+        <lb/>
+
+        לשלחו האמנתי. עתה יועצו עלי הוא ובעל הקול אשר ממנו חרדתי. ונאספו עלי
+        <lb/>
+
+        והכוני ונשמרתי אני וביתי.
+      </p>
+
+      <p n="Lion's Relief Upon Seeing Dimna Alone">
+        ויהי הוא מדבר אל לבו ברנגוה ובראבה. וישא עיניו ויירא
+        <lb/>
+
+        והנה דמנה בא. ויבט והנה אין עמו כלתו. ולא עמד איש אתו. אני בלבו שמח. ולא
+        <lb/>
+
+        נחם על אשר דמנה שלח. ויבא דמנה.
+      </p>
+
+      <p n="Dimna Downplays Ox's Power">
+        ויאמר יתבשר אדוני המלך כי אין לבעל
+        <lb/>
+
+        הקול לא דעת ולא מח. ולא כה. והוא נדל קומה שנדל קומה. רחוק מדעת
+        <lb/>
+
+        ומחכמה. ואין לו דעת לשאול דבר או להשיב. להרע או להטיב. אני ישבתי
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

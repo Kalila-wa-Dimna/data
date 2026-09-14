@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M618</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="39"/>
+
+      <p n="Friend Fears Secret Spreads">
+        أنّه من الأسرار التي لا تُكتم فلا بدّ أن يفشو أو يظهر حتّى يتحدّث به الناس في المحافل وإذا
+        <lb/>
+
+        فشا وعلا فقد سعيت في هلاك نفسي هلاكًا لا أقدر على الفداء منه بالمال وإن كثر
+      </p>
+
+      <p n="Indian King Is Harsh">
+        وملكنا هذا فظّ غليظ يعاقب على الذنب الصغير أشدّ العقوبة فإذا كان الجرم عنده
+        <lb/>
+
+        مثل هذا الأمر العظيم الذي يحملني عليه الودّ الذي بيني وبينك فأسعفتك بحاجتك لم
+        <lb/>
+
+        يردّ غضبه وعقابه عنّي شيء
+      </p>
+
+      <p n="Scholars Commend Discrete Friend">
+        قال بروزيه إنّ العلماء مدحت الصديق إذا كتم سرّ صديقه
+        <lb/>
+
+        وأجابه في أمره إلى ما يريد
+      </p>
+
+      <p n="Burzoy Entrusts Secret To Friend">
+        فهذا الأمر الذي قدمت له لمثلك ادّخرته وعليك احتسبته
+        <lb/>
+
+        وإليك تعمّدته وإليك أفشيته وبك أرجو بلوغه لأنّه عندي عظيم
+      </p>
+
+      <p n="Burzoy Sure Of Friends Abilities">
+        وأنا واثق بكرم
+        <lb/>
+
+        طاعتك ووفارة عقلك وجميل أخلاقك أن يكون دركي إيّاه على يديك وبك
+        <lb/>
+
+        وإن نالك فيه مشقّة ومعاناة
+      </p>
+
+      <p n="Friend Fears Own Kin">
+        وأنا أعلم أنّك ليس إيّاي تخشى ولا منّي تخاف
+        <lb/>
+
+        أن أبديه ولكنّك تخاف أهل مملكتك المطيعين بالملك فيلقوا ذلك إليه
+      </p>
+
+      <p n="Burzoy Hopes Secret Remains Kept">
+        وأنا أرجو أن لا يشيع لك عندي سرّ ولا يذيع شيء من سرّنا لأنّي أنا ظاعن وأنت
+        <lb/>
+
+        مقيم وها نحن ليس بيننا ثالث وإذا دخلت أمنت نفسك أن يفشيه عليك أحد
+        <lb/>
+
+        فتعاهدا جميعًا فيما بينهما
+      </p>
+
+      <p n="Friend Provides Book">
+        وأجابه الهنديّ إلى ذلك وغيره من كُتُب الهند
+      </p>
+
+      <p n="Burzoys Effort In Translation">
+        فلمّا دفع الهنديّ
+        <lb/>
+
+        الكتاب إلى برزويه أكبّ عليه يفسّره وينقله من الهنديّ إلى الفارسيّ وانكمش ليله
+        <lb/>
+
+        ونهاره أتعب نفسه وأنصب بدنه
+      </p>
+
+      <p n="Burzoy Translates Under Duress">
+        وهو مع ذلك وجل من الملك خائف على نفسه
+        <lb/>
+
+        أن يذكر الكتاب في وقت لا يصيبه في خزانته
+      </p>
+
+      <p n="Burzoy Writes To Kisra">
+        فلمّا فرغ من انتساخ الكتاب كَتَب
+        <lb/>
+
+        إلى أنوشروان يعمله ما لقي من التعب والنصب والخوف والوجل وأنّه قد انتسخ
+        <lb/>
+
+        الكتاب وصار في يده ووجّه بكتابته إليه
+      </p>
+
+      <p n="Kisra Reads Letter">
+        فلمّا وصل كتاب برزويه إلى أنوشروان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

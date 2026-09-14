@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="199"/>
+
+      <p n="Second Vizier Narrates">
+        مشورته إنّ الجاهل الغفل ينخدع باليسير
+      </p>
+
+      <p n="Mention Deceived Carpenter">
+        كالنجّار الذي كذّب
+        <lb/>
+
+        بما رأى وعلم وصدّق بما سمع ولان قلبه واغترّ
+      </p>
+
+      <p n="King O Request Story D C">
+        قال ملك
+        <lb/>
+
+        البوم وكيف كان ذلك
+      </p>
+
+      <p n="Carpenter Learns Of Wifes Affair">
+        قال الوزير زعموا أن النجّار كانت تحبّه
+        <lb/>
+
+        امرأته وكان يحبّها وكان قد علّقها رجل فاطّلع على ذلك بعض
+        <lb/>
+
+        أهل النجّار فأخبره بما رأى من صنيعها
+      </p>
+
+      <p n="Carpenter Wants Proof">
+        فقال النجّار لست مصدّقًا
+        <lb/>
+
+        ذلك حتّى أعاينه وأحبّ النجّار أن يتيقّن ذلك
+      </p>
+
+      <p n="Carpenter Feigns Work Travel">
+        فقال لامرأته ذات
+        <lb/>
+
+        يوم إنّي أريد الذهاب إلى قرية منّا على فراسخ لبعض عمل الأمراء
+        <lb/>
+
+        وإنّي ماكث هناك أيّامًا فاصنعي لي زادًا وأعدّيه
+      </p>
+
+      <p n="Wife Rejoices At Chance">
+        ففرحت المرأة
+        <lb/>
+
+        بذلك وهيّأت له زادًا كثيرًا
+      </p>
+
+      <p n="Wife Sees Carpenter Off">
+        فلّما أمسى خرج من عندها
+        <lb/>
+
+        وقال استوثقي من باب دارك وأغلقيه واحفظي بيتك
+        <lb/>
+
+        حتّى أرجع إليك ثمّ توجّه وهي تنظره حتّى جاوز الباب
+      </p>
+
+      <p n="Carpenter Returns To Hide Under Bed">
+        فلمّا
+        <lb/>
+
+        توارى عنها عطف فدخل من مكان خفيٍّ حتّى وصل إلى بيته
+        <lb/>
+
+        الذي فيه المرأة وفيه سريره وفراشه فدخل تحت السرير
+        <lb/>
+
+        وأرخى ستارة السرير وكمن
+      </p>
+
+      <p n="Wife Summons Lover">
+        فأرسلت المرأة إلى خليلها أن ائتنا
+        <lb/>
+
+        فقد ارتحل النجّار إلى قرية له يغيب فيها عشرون يومًا
+        <lb/>
+
+        فأتاها الرجل
+      </p>
+
+      <p n="Lover Spends The Night">
+        فأطعمته وسقته ثمّ ضاجعها على السرير
+        <lb/>
+
+        فلبثا في شأنهما ليلًا طويلًا
+      </p>
+
+      <p n="Carpenter Falls Asleep">
+        فبينما هما يتحدّثان وهو ينظر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

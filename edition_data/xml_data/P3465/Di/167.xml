@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="167"/>
+
+      <p n="Foreigners Translate Parrots' Words, Refuse Meal in House of Sin">
+        بالفجور
+      </p>
+
+      <p n="Falconer's Training of Parrots Is Discovered">
+        فلمّا قالوا ذلك أمرهم الرجل أن يكلّموا الطيرين بلسان البلخيّة بغير
+        <lb/>
+
+        ما نطقا به ففعلوا ذلك فلم يجدوهما يعرفان غير ما تكلّما به وبان للرجل وللجماعة
+        <lb/>
+
+        حصانة المرأة وبراءتها ممّا رميت به ووضح كذب البازيار
+      </p>
+
+      <p n="Falcon Gouges Out His Eyes">
+        وكان على يده بازٍ
+        <lb/>
+
+        أشهب فصاحت المرأة من داخل البيت أيّها العدوّ لنفسه أنت رأيتني على
+        <lb/>
+
+        ما ذكرت وعلّمت به الببغائين قال نعم أنا رأيتك على مثل ما يقولان فوثب
+        <lb/>
+
+        الباز إلى وجهه ففقأ عينه بمخاليبه
+      </p>
+
+      <p n="Wife Interprets This As God Punishing False Testimony">
+        فقالت المرأة بحقّ أصابك إنّه لجزاء أمر الله
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

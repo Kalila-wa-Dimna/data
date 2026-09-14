@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="147"/>
+
+      <p n="The Leopard Confides in the Lion's Mother">
+        يُسرّ إليها فعاهدته على ذلك فأخبرها بما سمع من كلام كليلة ودمنة
+      </p>
+
+      <p n="The Mother Goes to the Lion and Finds Him Sad">
+        فلمّا
+        <lb/>
+
+        أصبحت دخلت على الأسد فوجدته كئيبًا حزينًا مهمومًا لما ورد عليه من قتل
+        <lb/>
+
+        شتربة
+      </p>
+
+      <p n="The Mother Asks About the Cause of Grief">
+        فقالت له ما هذا الهمّ الذي قد أخذ منك وغلب عليك قال
+      </p>
+
+      <p n="The Lion Misses the Ox and Regrets Killing Him">
+        يحزنني
+        <lb/>
+
+        قتل شتربه إذا تذكّرت صحبته ومواظبته معي وما كنت أسمع من مؤامرته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

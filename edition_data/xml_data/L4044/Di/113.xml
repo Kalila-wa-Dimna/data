@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="113"/>
+
+      <p n="Who Does Not Protect Himself Is Useless to Others">
+        المرء في التماس العذر لنفسه من غيره عار
+      </p>
+
+      <p n="Dimna Calls First Speaker Self-Hating">
+        لقد ظفرت منك بما لم تملكْه من
+        <lb/>
+
+        الحسد والشرّ والبغضاء والعداوة فمثلك لا يصلح أن يكون بباب الملك
+        <lb/>
+
+        أو يعرفه بل ولا ينبغي أن يكون مع دوابّه أيضًا
+      </p>
+
+      <p n="Mother Deems Dimna's Parables Worse Than His Crimes">
+        قال الملك لدمنة ما
+        <lb/>
+
+        الذي سلف من خيانتك ومكرك ودحسك بأعجب منّي ممّا أسمع من
+        <lb/>
+
+        موعظتك وضربك الأمثال لمن تكلّم فيك
+      </p>
+
+      <p n="Dimna Treats His Case as Exemplum">
+        قال دمنة هذا موضع
+        <lb/>
+
+        العظة إن قُبلت وموضع الأمثال إن سُمعت
+      </p>
+
+      <p n="Crimes Should Distract Dimna from Coining Fables">
+        قالت أمّ الأسد أيّها
+        <lb/>
+
+        الغادر الفاجر إنّ فيما قدّمت يداك لشاغلًا لك لو عقلت عن ضرب الأمثال
+      </p>
+
+      <p n="Dimna Defines as Traitor Who Is Ungrateful for Advice and Kills a Defeated Enemy">
+        قال دمنة إنّما الغادر الذي لا يُؤتى بالنصيحة ويُمكَّن من عدوّه ثمّ لا
+        <lb/>
+
+        يشكر ذلك ولا يسرّه والذي يؤمّن عدوّه فإذا استمكن منه قتله بغير
+        <lb/>
+
+        ذنب والذي يعادي من كشف له عداوة أعدائه
+      </p>
+
+      <p n="The Mother Calls Dimna a Liar">
+        قالت أمّ الأسد
+        <lb/>
+
+        شيطانك أيّها الفاجر الغادر ترجو أن ينفعك للمكابرة بالكذب
+      </p>
+
+      <p n="Dimna Defines White Liar and Claims Fulfillment of His Duty">
+        قال
+        <lb/>
+
+        دمنة إنّ الكذوب من كافأ بالإحسان الإساءة وبالخير الشرّ وبالأمن
+        <lb/>
+
+        الخوف فأمّا أنا فقد أنجزت الوعد ووفيت بالعهد
+      </p>
+
+      <p n="The Mother Asks What Duty Dimna Fulfilled">
+        قالت أمّ الأسد
+        <lb/>
+
+        ما وعدك الذي أنجزت وعهدك الذي به وفيت
+      </p>
+
+      <p n="Dimna Cites His Courage to Speak at Court as Proof">
+        قال دمنة الملك
+        <lb/>
+
+        يعلم أنّي لو كنت كاذبًا لم أقل هذه المقالة عنده عن انتحال من انتحل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

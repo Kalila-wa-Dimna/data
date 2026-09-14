@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="207"/>
+
+      <p n="Pack Denounces Jackal">
+        في رأيك الذي أنت عليه مع أنّك إن هلكت لا يغني عنك
+        <lb/>
+
+        ذلك شيئًا وأنت لا تستطيع أن تكون كأحدنا وتصحبنا
+        <lb/>
+
+        ولا تقدر تفعل كفعلنا ثمّ قد كففت عن الدماء وتركت
+        <lb/>
+
+        اللحم
+      </p>
+
+      <p n="Jackal Is not Accountable for Pack's Actions">
+        فقال ابن آوى إنّ صحبتي إيّاكم لا تؤثمني إذا لم
+        <lb/>
+
+        آثم نفسي
+      </p>
+
+      <p n="Sins Depend only on One's Actions">
+        فإنّ الآثام ليست من قِبل الأماكن
+        <lb/>
+
+        والأصحاب ولكنّها من قِبل القلوب والأجسام
+        <lb/>
+
+        والأعمال
+      </p>
+
+      <p n="Sin Is Independent from Place">
+        ولو كان صاحب المكان الخيّر يكون عمله
+        <lb/>
+
+        فيها صالحًا لكان صاحب المكان الشرّ عمله شرّا
+        <lb/>
+
+        إذا كان من قِبل المكان ولا يأمن من احتبك في
+        <lb/>
+
+        معركة القتال اسمًا
+      </p>
+
+      <p n="Jackal's Heart Is Distant from Others">
+        وإنّما صحبتكم لجسمي وبدني
+        <lb/>
+
+        ولم أصحبكم لعملي ولا لقلبي لأنّي أعرف ثمرة
+        <lb/>
+
+        الأعمال
+      </p>
+
+      <p n="Lion Hears of Jackal">
+        وثبت ابن آوى على ذلك واشتهر حاله بالنسك
+        <lb/>
+
+        والعبادة والصلاة حتّى بلغ ذلك أسدًا كان
+        <lb/>
+
+        ملك تلك الناحية فرغب فيه فيما بلغه عنه من الصدق
+        <lb/>
+
+        والأمانة
+      </p>
+
+      <p n="Lion Verifies Jackal's Qualities">
+        فأرسل إليه وكاتبه ولاطفه ثمّ دعاه بعد
+        <lb/>
+
+        ذلك إلى خدمته فلمّا مثل بين يديه
+      </p>
+
+      <p n="Lion Offers Viziership">
+        قال له قد بلغني
+        <lb/>
+
+        عنك ما بلغني وإنّي شغفت بك وإنّ مالي كثير وجاهي
+        <lb/>
+
+        كبير وأعمالي واسعة وأنا إلى الأعوان محتاج وقد
+        <lb/>
+
+        بلغني عنك صيانة وعفاف ثمّ لمّا امتثلت أمري وقدمت
+        <lb/>
+
+        عليّ ازددت فيك رغبة وإليك تقريبًا وإنّي مولّيك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

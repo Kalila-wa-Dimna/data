@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="291"/>
+
+      <p n="The Cat Puts His Trust in the Rat">
+        هذا فانظر الصلح الذي نتخلّص به جميعًا من هذه البليّة
+        <lb/>
+
+        وأرجو إلى ذلك فيه من البقاء فافعله فإنّي أحفظ لك هذه النعمة
+        <lb/>
+
+        إلى الآخر الأبد وسأشكر لك ذلك وأجازيك على ذلك أحسن الجزاء
+      </p>
+
+      <p n="The Rat Explains the Strategy">
+        قال الجرذ دعني أدنو منك فإنّ البومة وابن عرس إذا بصرا
+        <lb/>
+
+        تواريا منك ما تعرفنا به صلحنا انصرفا له عنّا آيسين فإذا أمنت
+        <lb/>
+
+        منهما أقبلت على قرض حبائلك وأنا آمن
+      </p>
+
+      <p n="The Cat Fulfills His Part">
+        ففعل ذلك به السنّور
+        <lb/>
+
+        وأمّنه فلمّا دنا الجرذ من السنّور أخذه فالتزمه
+      </p>
+
+      <p n="The Foes Leave Frustrated">
+        وأبصر ذلك
+        <lb/>
+
+        البومة وابن عرس انصرفا من ذلك المكان خائبين
+      </p>
+
+      <p n="The Rat Begins to Cut the Rope">
+        وأخذ
+        <lb/>
+
+        الجرذ في قرض رباط السنّور فجعل يقطعه سلكًا سلكًا
+      </p>
+
+      <p n="The Cat Deems the Rat's Efforts Slow">
+        فلمّا رأى
+        <lb/>
+
+        السنّور أنّ الجرذ ليس بجادّ في قطع الشرك استبطأه السنّور وقال
+        <lb/>
+
+        له يا خليلي ما أراك جادًّا في قطع رباطي وما الذي يمنعك
+        <lb/>
+
+        من الانكماش والفراغ لعلّ الذي يمنعك من ذلك أنّك قد صرت
+        <lb/>
+
+        بي إلى حاجتك من الأمن فإذا كنت حين ظفرت بحاجتك تبدّلت
+        <lb/>
+
+        وتحوّلت عمّا كنت عليه وتوانيت في أمري وقصّرت في حاجتي
+      </p>
+
+      <p n="The Noble Must Help">
+        فليس هذا من الكريم بُخلق ولا من فعال الصالحين ولا يُجمل بأحد
+        <lb/>
+
+        أو يتوانى أو يقصّر في حاجة صاحبه إذا قدر عليها عند فراغه
+        <lb/>
+
+        من حاجته لنفسه
+      </p>
+
+      <p n="The Cat States the Rat's Duty of Reciprocation">
+        وكان لك في ودّي من عاجل النفع والاستنقاذ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

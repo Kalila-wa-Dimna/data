@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>B0022</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="265"/>
+
+      <p n="Vizier Pretends To Be Cross Eyed">
+        إبزاخت يومئذ شيئًا
+      </p>
+
+      <p n="Intelligence Saves Queen Vizier">
+        ولا قوّة عقل ابزاخت وبلاذ عند الملك
+        <lb/>
+
+        كان أعدمهما
+      </p>
+
+      <p n="King Alternates Nights With Women">
+        قال وكان الملك بعد ذلك يكون ليلة عند ابزاخت
+        <lb/>
+
+        وليلة عند حورفتاه
+      </p>
+
+      <p n="Indian Kings Mostly Eat Rice">
+        وكان من سنّته أن تهيّء له المرأة التي
+        <lb/>
+
+        تكون نوبتها أرزًّا محلّى فيأكله عندها
+      </p>
+
+      <p n="Queen Serves Rice On Her Night">
+        فأتى الملك نوبة
+        <lb/>
+
+        ابزاخت إليها فقامت ابزاخت على رأس الملك وفي يدها
+        <lb/>
+
+        صحفة من الياقوت فيها من ذلك الأرزّ المحلّى وهي تطعم
+        <lb/>
+
+        الملك
+      </p>
+
+      <p n="Favorite Wears Dress Before King">
+        فنظرت حورفتاه إلينا وهو يأكل من يدها فلحقها
+        <lb/>
+
+        الغيرة من قرب ابزاخت بمنزلة الملك فذهبت حورفتاه
+        <lb/>
+
+        ولبست تلك الحلّة الحمراء ومرّت بين يدي الملك ووقفت
+        <lb/>
+
+        إلى جانب إيوانه فأشرق المنزل من نور تلك الحلّة وعظم بهجتها
+        <lb/>
+
+        في أعين الملك
+      </p>
+
+      <p n="King Insults Queen">
+        فنظر إلى ابزاخت وقال لها ألا ترين
+        <lb/>
+
+        حورفتاه كيف أشرق حسنها بلباسها إنّك إذ ذاك لجاهلة
+        <lb/>
+
+        كيف تركت مثل هذا اللباس
+      </p>
+
+      <p n="Queen Pours Rice Over King">
+        فلمّا سمعت قول الملك غضبت
+        <lb/>
+
+        وضربت بالصحفة رأس الملك فسال الأرزّ على تاجه ووجهه ولحيته
+      </p>
+
+      <p n="Fulfillment Of Last Dream">
+        وكان ذلك تفسير الحلم الثامن الذي امتنع كبارايرون من
+        <lb/>
+
+        تفسيره للملك في الوقت الأوّل
+      </p>
+
+      <p n="King Expresses Anger To Vizier">
+        فلمّا رأى الملك ما حلّ به أدعى
+        <lb/>
+
+        بلاذ وقال يا بلاذ انظر كيف خرقت هذه المرأة الحرمة وحقّرت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

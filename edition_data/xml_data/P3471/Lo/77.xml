@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="77"/>
+
+      <p n="Kalila's Advice on Contentment">
+        أن يقنع ويرضى بما قضى الله عزّ وجلّ له وليس لنا من المنزلة
+        <lb/>
+
+        ما يسخط لها الحال التي نحن عليها
+      </p>
+
+      <p n="Dimna's View on Social Mobility">
+        قال دمنة إنّ المنازل مشاعة
+        <lb/>
+
+        مشتركة وصاحب المروّة ترفعه مروءته من المنزلة الوضيعة إلى المنزلة الرفيعة
+        <lb/>
+
+        والذي لا مروءة له تضعه حاله من المنزلة الرفيعة إلى المنزلة الوضيعة
+        <lb/>
+
+        والارتفاع من وضيع المنازل إلى شريفها شديدًا ومؤنة وكلفة
+        <lb/>
+
+        والانحطاط منها إلى الوضيعة هيّن
+      </p>
+
+      <p n="Analogy of Lifting Heavy Objects">
+        وإنّما مثل ذلك مثل الحجر الثقيل
+        <lb/>
+
+        الذي رفعه من الأرض يسير هيّن
+      </p>
+
+      <p n="Aspiration for Higher Status">
+        فنحن أحقّ أن نروم ما فوقنا
+        <lb/>
+
+        من المنزلة ونلتمس ذلك بمروءتنا ولا نقيم على منزلة
+      </p>
+
+      <p n="Ability to Change Circumstances">
+        ونحن نستطيع
+        <lb/>
+
+        التحوّل منها
+      </p>
+
+      <p n="Kalila's Inquiry about Dimna's Plan">
+        قال كليلة فما هذا الرأي الذي تريد أن تجمع عليه
+        <lb/>
+
+        حتّى تفعله
+      </p>
+
+      <p n="Dimna's Strategy to Approach the Lion">
+        قال دمنة أريد أن أتعرّض للأسد عند هذه
+        <lb/>
+
+        الفرصة فإنّ الأسد ضعيف الرأي وهو وجنده قد التبس
+        <lb/>
+
+        عليهم أمرهم ولعلّي على حالي هذه أدنو منه وأصيب مكانًا
+        <lb/>
+
+        وجاهًا
+      </p>
+
+      <p n="Kalila's Doubt about Lion's Confusion">
+        قال كليلة وما يدريك أنّ الأسد قد التبس عليه
+        <lb/>
+
+        أمره
+      </p>
+
+      <p n="Dimna's Confidence in His Judgment">
+        قال دمنة عرفت ذلك بالرأي
+      </p>
+
+      <p n="Dimna's Confidence in Reading the Lion">
+        فإنّ الرجل ربّما عرف
+        <lb/>
+
+        حال صاحبه وباطن أمره بما يظهر له من هيئته
+      </p>
+
+      <p n="Kalila Questioning Dimna's Experience with Rulers">
+        قال كليلة
+        <lb/>
+
+        كيف ترجو المنزلة عند الأسد ولست بصاحب سلطان وليس
+        <lb/>
+
+        لك علم بخدمتهم وإربهم ومداراتهم
+      </p>
+
+      <p n="Dimna's Analogy of Strength and Heavy Burdens">
+        قال دمنة لا يعجز القويّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

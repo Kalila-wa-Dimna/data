@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="40"/>
+
+      <p n="Dimna's Response about His Loyalty">
+        رجاء أن يحضر أمرٌ فأعين الملك عليه
+      </p>
+
+      <p n="Dimna on the Value of Overlooked Individuals">
+        فإنّ باب الملك قد كثرت فيه الأمور الذي
+        <lb/>
+
+        ربّما احتيج فيها إلى من يكون عنده منفعة
+      </p>
+
+      <p n="Analogy of Useful Discarded Objects">
+        فإنّ العود المطروح في الأرض ربّما
+        <lb/>
+
+        احتاج إليه المرء في حكّ أذنه وغير ذلك
+      </p>
+
+      <p n="Comparison to Knowledgeable Beings">
+        والحيوان العالم بالأمور أحرى أن
+        <lb/>
+
+        يكون ذلك عنده
+      </p>
+
+      <p n="Lion's Positive Impression of Dimna">
+        فلمّا سمع الأسد كلام دمنة أعجبه واستظرفه ورجا أن يكون
+        <lb/>
+
+        عنده منفعة ورأي
+      </p>
+
+      <p n="A Noble Man May Be Obscure">
+        فقال الأسد لوزيره إنّ الرجل ذو الفضل والنبل ليكون غامض
+        <lb/>
+
+        الأمر حامل المنزلة تأبى مروءته ألّا تظهر وتستبين
+      </p>
+
+      <p n="Analogy of a Flame's Inevitable Rise">
+        كالشعلة من النار التي يصونها
+        <lb/>
+
+        صاحبها وهي تضيء
+      </p>
+
+      <p n="Dimna Seizing the Opportunity to Impress">
+        قال فلمّا عرف دمنة أنّ الأسد قد أعجب به ووافقه كلامه قال
+        <lb/>
+
+        إنّ رعيّة الملك ومن يحضرهم لجدير أن يعرّفوه ما عندهم من المروءة ويبذلوا له نصيحتهم
+        <lb/>
+
+        ومودّتهم ولا يكتموه شيئًا من مروءتهم أمورهم ولا يرفعهم في المنازل العالية إلّا ذلك
+      </p>
+
+      <p n="Analogy of Hidden Crop's True Value">
+        كالزرع المدفون فإنّ أحدًا لا يعرف فضله إلّا بضعة حتّى يخرج ويظهر على الأرض
+        <lb/>
+
+        فحينئذٍ يعرف قدره
+      </p>
+
+      <p n="Ruler's Responsibility to Recognize Merit">
+        ويحقّ على الملك أن يبلغ بكلّ امرئ مرتبته على قدر رأيه وما يجد
+        <lb/>
+
+        عنده من المنفعة
+      </p>
+
+      <p n="Leaders Must Place Things Properly">
+        وقد قيل في أمر من إنّه لا ينبغي لأحد وإن كان ملكًا أن يجعل شيئًا منهما في
+        <lb/>
+
+        غير مكانه ولا يزيله عن منزلته
+      </p>
+
+      <p n="Analogy of Misplaced Ornaments">
+        فإنّه يُعدّ جاهلًا من جعل على رأسه حلية رجليه وعلى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

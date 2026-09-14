@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="47"/>
+
+      <p n="Burzoy Praises Kisra">
+        وقال أكرم الله تعالى الملك كرامة الدنيا والآخرة وأحسن عنّي ثوابه
+        <lb/>
+
+        وجزاءه
+      </p>
+
+      <p n="Burzoy Wants No Gift">
+        فإنّي بحمد الله مستغن عن المال بما رزقني الله على يديّ الملك السعيد
+        <lb/>
+
+        الجدّ العظيم الملك ولا حاجة لي بالمال
+      </p>
+
+      <p n="Burzoy Honors Kisras Oath">
+        لكن لما كلّفني ذلك وعلمت أنّه يسرّه
+        <lb/>
+
+        أن أمضي إلى الخزائن فآخذ منها طلبًا لمرضاته وامتثالًا لأمره
+      </p>
+
+      <p n="Burzoy Takes Gift">
+        ثمّ قصد
+        <lb/>
+
+        خزانة الثياب فأخذ منها تختًا من طرائف خراسان من ملابس الملوك
+        <lb/>
+
+        فلمّا قبض برزويه ما اختاره ورضيه من الثياب
+      </p>
+
+      <p n="Burzoy Expresses Gratitude">
+        قال أكرم الله
+        <lb/>
+
+        الملك ومدّ في عمره أبد الأبد
+      </p>
+
+      <p n="Favor Merits Gratitude">
+        إنّ الإنسان إذا أُكرم وجب عليه
+        <lb/>
+
+        الشكر وإن كان قد استوجبه تعبًا ومشقة كان فيها رضي الملك
+      </p>
+
+      <p n="Burzoys Toil Repaid By Honor">
+        وأمّا أنا
+        <lb/>
+
+        فما لقيت من عناء وتعب ومشقة لما أعلم أنّ لكم فيه الشرف يا أهل هذا
+        <lb/>
+
+        البيت
+      </p>
+
+      <p n="Burzoy Serves Kisra Gladly">
+        فإنّي لمّا أزل وإلى هذا اليوم تابعًا رضاكم أرى العسير فيه يسيرًا والشاقّ
+        <lb/>
+
+        هينًا والنصب والأذى سرورًا ولذة لما أعلم أنّ لكم فيه رضى وقربة
+        <lb/>
+
+        عندكم
+      </p>
+
+      <p n="Burzoy Announces Request">
+        ولكنّي أسأل أيّها الملك حاجة تسعفني بها وتعطيني فيها سؤالي
+        <lb/>
+
+        فإنّ حاجتي يسيره وفي قضائها فائدة كثيرة
+      </p>
+
+      <p n="Kisra Welcomes Request">
+        قال أنوشروان قلْ فكلّ حاجة
+        <lb/>
+
+        لك قبلنا مقضيّة فإنّك عندنا عظيم ولو طلبت مشاركتنا في ملكنا لفعلنا
+        <lb/>
+
+        ولم يزدد طلبتك فكيف ما سوى ذلك فقلْ ولا تحتشم فإنّ الأمور كلّها مبذولة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

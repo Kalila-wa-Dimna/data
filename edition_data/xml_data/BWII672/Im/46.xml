@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="46"/>
+
+      <p n="Parables Originated with Scholars of India">
+        قال عبد الله ابن المقفّع الغرض في كتاب كليلة ودمنة وهو
+        <lb/>
+
+        ما صنعوه علماء الهند من الأمثال والأحاديث التي أُلهموا بها
+        <lb/>
+
+        وأنّهم دخلوا فيها بأبلغ ما وجدوه من الأقوال والأمثال الذي أرادوها
+      </p>
+
+      <p n="Scholars Desire to Be Understood">
+        ولم تزال العلماء في أهل كلّ ملّة في كلّ زمان يلتمسون أن يُعقل
+        <lb/>
+
+        عنهم ويُقتبس منهم
+      </p>
+
+      <p n="Scholars Put Knowledge in Book of Fables">
+        ويحتالون بذلك في صنوف الحيل ويبتغون
+        <lb/>
+
+        في إخراج ما عندهم من نوادر الأمثال حتى ألّفوا مثل ذلك الكتاب
+        <lb/>
+
+        على ألسن البهائم والطير والوحش
+      </p>
+
+      <p n="Fables Facilitate Many Types of Discourse">
+        فاجتمع لهم بذلك معاني خفيّة
+        <lb/>
+
+        باطنها غير ظاهر وظاهرها غير باطنها وشعوبًا يأخذون منها
+        <lb/>
+
+        المعاني البليغة لهوًا وحكمة فجناه من جنى على قدر أدبه وذوقه
+      </p>
+
+      <p n="Farmer Works Land for Yield Not Weed">
+        وإنّ مثله كالزارع الذي حرث أرضه وعمّرها لابتغاء الزرع لأجل
+        <lb/>
+
+        العشب والكلأ والثمر فنابت فيها الأعشاب بصنوفها
+      </p>
+
+      <p n="Book Is Used for Wisdom, Pleasure, and Knowledge">
+        فاجتنوه
+        <lb/>
+
+        الحكماء لأجل الحكمة والسفهاء للهو والمتعلّمون من الأحداث
+        <lb/>
+
+        فنشطوا في تعليمه وخفّ عليهم قراءته وحفظه
+      </p>
+
+      <p n="Acquired Knowledge Manifests in Adulthood">
+        فإذا احتبو الحدث
+        <lb/>
+
+        وأجمعوا فيه عقولهم وتدبّروا ممّا صار إليه مقتديًا بما في ظهره
+        <lb/>
+
+        وهو ما يدري ما هو فعند ذلك يعرف أنّه قد ظفر من ذلك
+        <lb/>
+
+        بكنوز عظائم
+      </p>
+
+      <p n="Bequeathed Treasure Suffices">
+        ومثله كالرجل الذي لمّا استكمل الرجوليّة
+        <lb/>
+
+        وجد آباءه قد كنزوا له كنزًا واعتقدوا له عقدًا استغنى
+        <lb/>
+
+        بها عن القدح بما يستعمل من معيشته ويحاول دنياه
+        <lb/>
+
+        بما أشرف عليه من الحكم إلى الحاجة بوجوه الأدب
+      </p>
+
+      <p n="Reader Must Decode Parables">
+        فمن قرأ
+        <lb/>
+
+        هذا الكتاب فليعرف الوجوه التي وُضعت له وإلى أيّ غاية
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

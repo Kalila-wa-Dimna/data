@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="24"/>
+
+      <p n="Kisra Orders Rest">
+        ويأتيه بعد ذلك
+      </p>
+
+      <p n="Kisra Holds K D Public Reading">
+        فلمّا كان في اليوم الثامن استدعاه الملك
+        <lb/>
+
+        وأمر أن يحضر العلماء والأشراف من أهل مملكته وأمر بزرجمهر
+        <lb/>
+
+        أن يقرأ الكتاب على رؤوس الأشهاد
+      </p>
+
+      <p n="K D Well Received">
+        فلمّا قرأ الكتاب وسمعوا ما فيه
+        <lb/>
+
+        من الأدب والعلم والأمثال والعجائب التي أُجريت على
+        <lb/>
+
+        لسان الحيوان والطير تعجّبوا منه وشكروا الله تعالى على ما أنعم به
+        <lb/>
+
+        عليهم من العلم والأدب والمعرفة على يدي برزويه
+        <lb/>
+
+        الحكيم وأحسنوا الثناء عليه
+      </p>
+
+      <p n="Kisra Opens Treasury">
+        ثمّ إنّ الملك أمر أن تُفتح لبرزويه
+        <lb/>
+
+        خزائن الأموال والجواهر والكسوة
+      </p>
+
+      <p n="Kisra Urges Burzoy To Take Gifts">
+        وأقسم عليه
+        <lb/>
+
+        الملك أن يأخذ ما أحبّ ويحمل ما أراد
+      </p>
+
+      <p n="Burzoy Praises Kisra">
+        فسجد برزويه
+        <lb/>
+
+        وقال أكرم الله الملك كرامة يُجمع له فيها شرف الدنيا
+        <lb/>
+
+        والآخرة
+      </p>
+
+      <p n="Burzoy Wants No Gift">
+        إنّي قد أغناني الله عزّ وجلّ بحسن رأي الملك عن عرض الدنيا
+        <lb/>
+
+        ولا حاجة لي إلى المال والكسوة
+      </p>
+
+      <p n="Favor Merits Gratitude">
+        وإنّ الإنسان إذا كان ذا
+        <lb/>
+
+        ذا فضل وأدب فأُكرم وأُعطي وأُحسن إليه وجب عليه
+        <lb/>
+
+        شكر لذلك
+      </p>
+
+      <p n="Burzoy Serves Kisra Gladly">
+        وإنّي للملك شاكرًا إن شاء الله دوام السرور
+        <lb/>
+
+        والغبطة في جميع الأمور
+      </p>
+
+      <p n="Burzoy Announces Request">
+        ولكن لي إليك حاجة هي أعظم الحوائج عندي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

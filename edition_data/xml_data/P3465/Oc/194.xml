@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="194"/>
+
+      <p n="The Intelligent Is Never Free from Worry">
+        سطوته أو كان مكثبًا لم يأمنْ وثبته وإن كان وحيدًا لم يأمنْ مكره
+      </p>
+
+      <p n="War Shoud be the Last Resort">
+        والكيّس من الأقوام من لم يلتمسْ الأمر بنشر القتال لأجل النفقة فيه
+      </p>
+
+      <p n="War Brings Loss">
+        فإنّ ما دون
+        <lb/>
+
+        القتال النفقة فيه من الأموال والقول والقتال النفقة فيه من الأنفس والأبدان
+        <lb/>
+
+        فلا يكوننّ القتال من رأيك أيّها الملك للبوم
+      </p>
+
+      <p n="One Should Never Fight the Stronger">
+        فإنّ من قاتل من لا يقوى به فقد
+        <lb/>
+
+        غرّر بنفسه
+      </p>
+
+      <p n="Secritive Wise King Prospers">
+        فإذا كان الملك محصنًا للأسرار متخيّرًا للوزراء مهيبًا في
+        <lb/>
+
+        أعين الناس بعيدًا من أن يُقدر عليه كان خليقًا أن لا يُسلب صحيح ما أُوتي
+        <lb/>
+
+        من الخير
+      </p>
+
+      <p n="Ranks Of Secrets">
+        والأسرار منازل منها ما يدخل فيه الرهط ومنها ما يُستعان فيه
+        <lb/>
+
+        بالقوم ومنها ما يدخل فيه الرجلان
+      </p>
+
+      <p n="Only King C And Spy To Know Secret">
+        ولست أرى لهذا السرّ عند متولّيه
+        <lb/>
+
+        أن يشارَك فيه إلّا من له أذنان ولسانان يخلو به فيستشيره
+      </p>
+
+      <p n="Question On Origin Of Enemity">
+        قال له الملك
+        <lb/>
+
+        هل تعلم بدء عداوة ما بيننا وبين البوم
+      </p>
+
+      <p n="Words Of Crow Were Cause">
+        قال نعم كلمة تكلّم بها غراب
+      </p>
+
+      <p n="unassigned">
+        قال الملك وكيف كان ذلك قال الغراب زعموا أنّ جماعة من الكراكيّ
+        <lb/>
+
+        لم يكن لها ملك فأجمعت أمرها على أن يملّكوا عليهم ملك البوم فبينما هي
+        <lb/>
+
+        في مجمعها إذ وقع لها غراب فقالوا لو جاء هذا الغراب لاستشرناه في
+        <lb/>
+
+        أمرنا فلم يلبثن دون أن جاءهنّ الغراب فاستشرنه فقال لو أنّ الطير
+        <lb/>
+
+        بادت من الأقاليم وفُقد الطاووس والبطّ والنعام والحمام من العالم لما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

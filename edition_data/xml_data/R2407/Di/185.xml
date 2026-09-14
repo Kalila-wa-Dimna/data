@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="185"/>
+
+      <p n="Dimna Calls Courtier Unfit for Court">
+        عن طعامه وعن خدمته
+      </p>
+
+      <p n="Lion Appoints a Secretary to Inform Him about the Trial">
+        وكان الأسد قد رتّب عندهم
+        <lb/>
+
+        سعهر كان في خدمته وجرّب صدقه وأمانته وأمره
+        <lb/>
+
+        أن يسمع ما يُقال في جمعهم وما يكون من بعضهم
+        <lb/>
+
+        على بعضٍ
+      </p>
+
+      <p n="Lion Is Informed by Court Secretary and Ousts Courtier">
+        فقام من عندهم إلى الأسد أخبره بكلّما
+        <lb/>
+
+        جرى وحديث رأس الخنازير فأمر الملك عند ذلك أن
+        <lb/>
+
+        لا يدخل عليه
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded, He Is Returned to Prison; End of First Day of Trial">
+        وأمر بدمنة أن يُحبس فحُبس وكتب
+        <lb/>
+
+        جميع ما جرى وختم بخاتم النمر ورجع كلٍّ منهم إلى
+        <lb/>
+
+        مستقرّه
+      </p>
+
+      <p n="Kalīla Had Feared Reprehensions for Being Responsible">
+        وإن كليله ممّا حمل على قلبه من أمر دمنة
+        <lb/>
+
+        وما يبلغه عنه من الأقاويل مرض
+      </p>
+
+      <p n="Kalila Dies">
+        وانطلق بطنه ومات
+        <lb/>
+
+        من ليلته تلك
+      </p>
+
+      <p n="Ruzbeh Is Kalīla's Friend">
+        وكان سعهر يُسمّى دوبة وكان بين كليله وبينه
+        <lb/>
+
+        إخاء ومودّة
+      </p>
+
+      <p n="Ruzbeh/Fayruz Tells Dimna of Kalila's Death">
+        فانطلق إلى دمنة وأخبره بموت كليله
+      </p>
+
+      <p n="Dimna Grieves for Kalila">
+        فبكاء دمنة بكاء شديد حزنًا على كليله وقال ما أصنع
+        <lb/>
+
+        وقد فارقت الأخ الصدوق
+      </p>
+
+      <p n="Dimna Asks Ruzbeh to Be His Friend">
+        ولكن الحمدلله الذي
+        <lb/>
+
+        فارقني كليله وأبقى لي من ذوي الأقارب أخًا مثلك
+        <lb/>
+
+        وقد علمت رجاء ما أنا فيه وإنّك تحبّ منفعتي كحبّك
+        <lb/>
+
+        لنفسك
+      </p>
+
+      <p n="Dimna Has Ruzbeh Fetch Their Belongings">
+        فانطلق إلى مكان كذا وكذا وانظر إلى
+        <lb/>
+
+        ما جمعت أنا وكليله فأثنى به ففعل السعهر وانطلق لما أمره
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

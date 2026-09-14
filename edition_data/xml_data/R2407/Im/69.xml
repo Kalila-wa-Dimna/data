@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="69"/>
+
+      <p n="One Should Not Continue on the Wrong Path">
+        بطريق ليس هي طريقه ويستقرّ على الضلال فيها فكلّما
+        <lb/>
+
+        ازداد في السير جهدًا ازداد من القصد بعدًا
+      </p>
+
+      <p n="Man Rubs Itchy Eye and Loses It">
+        وكالرجل
+        <lb/>
+
+        الذي يقتذي عينيه فلا يزال يحكّها حتّى ربّما
+        <lb/>
+
+        صار ذلك الحكّ سببًا لذهابها
+      </p>
+
+      <p n="The Intelligent Should Believe in Fate">
+        ويجب على العاقل
+        <lb/>
+
+        أن يصدّق بالقضاء والقدر ويأخذ بالحزم
+      </p>
+
+      <p n="Do unto Other as to Oneself">
+        ويحبّ
+        <lb/>
+
+        للناس ما يحبّه لنفسه ويكره لهم ما يكرهه ولا يلتمس صلاح
+        <lb/>
+
+        ذاته بفساد غيره
+      </p>
+
+      <p n="A Merchant Steals from His Partner">
+        فمن عمل ذلك كان خليقًا أن يصيبه
+        <lb/>
+
+        ما أصاب تاجر الدقيق وذلك أنّه كان رجلان
+        <lb/>
+
+        اشتركا في دقيق واستأجرا حانوتًا تركوه فيه وكان
+        <lb/>
+
+        أحدهم منزله قريبًا من الحانوت والآخر بعيد منه
+      </p>
+
+      <p n="The Merchant Devises a Plot">
+        فأضمر
+        <lb/>
+
+        القريب من الحانوت أن يسرق من أعدال رفيقه عدلًا
+        <lb/>
+
+        ففكّر وقال إن أنا جئت ليلًا ربّما أحمل عدل من أعدالي
+        <lb/>
+
+        ولا أعرفه فيذهب عنائي وتعبي باطلًا ولكنّي أعلّم
+        <lb/>
+
+        علامة لأعرف الذي آخذه
+      </p>
+
+      <p n="The Merchant Executes the Plot">
+        فأخذ رداءه وألقاه على
+        <lb/>
+
+        العدل الذي أضمر أخذه وانصرف إلى منزله
+      </p>
+
+      <p n="The Partner Finds the Garb">
+        وخلّف
+        <lb/>
+
+        رفيقه في الحانوت بعده فلمّا أراد رفيقه الانصراف
+        <lb/>
+
+        قام يصلح أعداله
+      </p>
+
+      <p n="The Partner Moves the Garb">
+        فأبصر رداء صاحبه على أعداله هو
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="274"/>
+
+      <p n="King R Insists on Proceeding">
+        وأن تحرص على تمام هذا الأمر
+      </p>
+
+      <p n="The Vizier Is in Want of a Solution">
+        فلمّا علم الوزير أنّ الملك مشته
+        <lb/>
+
+        لتمام هذا الأمر وكان وجه الحيلة قد اتّجه له قال أنا
+        <lb/>
+
+        أشير بما تحبّ بحسب طاقتي وإنّما قلت ما قلته إلى حيث
+        <lb/>
+
+        انتهينا لعلمي بحكمة الملك وفضله فأمّا أنا فإنّي ناقص
+        <lb/>
+
+        المعرفة
+      </p>
+
+      <p n="The Wise and the Ignorant Think Differently">
+        وقد قالت الحكماء والجهّال يجب على الحكيم أن يستشير
+        <lb/>
+
+        الجاهل فيه لأنّه إذا شاوره وكان ذلك الجاهل يخرجه الجهل
+        <lb/>
+
+        إلى أن يشير بغير الواجب لم يصغي الحكيم إلى جهله ولم يقبل
+        <lb/>
+
+        كلامه ورأيه لكنّ الحكيم يميّز الأمور فيختار أوفقها ويصرف
+        <lb/>
+
+        كلام الجاهل إلى ما يليق ويصلح
+      </p>
+
+      <p n="Consulting the Ignorant">
+        وإنّما شاور الحكيم الجاهل
+        <lb/>
+
+        لسببين منها أنّه ربّما أبدى الجاهل سرًّا لغيره في ذلك
+        <lb/>
+
+        الباب استعان به الحكيم بصبره وربّما أنتجت قريحة الجاهل
+        <lb/>
+
+        شيئًا فيه بعض المؤونة
+      </p>
+
+      <p n="The Vizier Trusts the King Would Take the Advice">
+        والذي قلته في هذا الباب إنّما أتّكل فيه على
+        <lb/>
+
+        معرفة الملك وعقله وأنّه لا يغتاظ عليّ بل يقبله قبولًا حسنًا
+      </p>
+
+      <p n="King R Appreciates the Vizier's Candor">
+        قال الملك كلّ ما قلته في غاية الحسن والصدق وهو كما
+        <lb/>
+
+        قلت إلّا الكلمة الواحدة التي قلت إنّك ناقص المعرفة
+        <lb/>
+
+        فما أنت عندنا ناقص المعرفة بل حكيم كامل
+      </p>
+
+      <p n="The Vizier Values King R's Justice">
+        فلمّا سمع الوزير
+        <lb/>
+
+        هذا من الملك قال لا يشقّ الملك على نفسه فإنّ جميع ما قاله
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

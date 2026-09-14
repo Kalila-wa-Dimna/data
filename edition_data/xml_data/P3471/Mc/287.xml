@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="287"/>
+
+      <p n="Enmity Must Not Stop One from Requesting Help">
+        أو جرّ مرغوب فيه وإعمال الرأي في إحداث المواصلة
+        <lb/>
+
+        والموادجة والموادعة
+      </p>
+
+      <p n="One's Disposition toward Friends and Foes Changes">
+        فإنّه ليس في كلّ حين يكون الصديق صديقًا
+        <lb/>
+
+        وليس في كلّ وقت ينجح الطلب وليس في كلّ ساعة يكون العدوّ
+        <lb/>
+
+        عدوًّا لأنّه إذا رأى الصديق من صديقه كراهة صار منه إلى العداوة
+        <lb/>
+
+        المفرطة وإذا رأى العدوّ من عدوّه منفعته لم يقف على عداوته
+        <lb/>
+
+        بل يرجع منه إلى الصداقة والصفاء
+      </p>
+
+      <p n="The Intelligent Man Could Make Friends or Foes">
+        وكل مودّة تحدث عن الطمع
+        <lb/>
+
+        والاضطرار في عاجل فلن تثبت أن تحوّل وكذلك العداوة عن
+        <lb/>
+
+        اليأس والرجاء والعالم هو يصير عند الاضّطرار إلى مصافاة
+        <lb/>
+
+        أعدائه والذي لا يعلم عند الوجوه في ذلك ولا يعرف لها سببًا
+        <lb/>
+
+        ولا توجّهًا حتّى يهلك في العناء
+      </p>
+
+      <p n="The Resolute Attains His Need">
+        ومن أبصر في ذلك الرأي وأبصر
+        <lb/>
+
+        فيه بالحزم ظفر بحاجته وأدرك طلبته
+      </p>
+
+      <p n="The Parable of the Cat and Rat Is Invoked">
+        ومن المثل في ذلك
+        <lb/>
+
+        الجرذ والسنّور الذين اصطلحا حين كان لهما رأيًا عند وقوعهما
+        <lb/>
+
+        في الورطة والشدّة بمصانعة كلّ واحد منهما صاحبه فكان من ذلك
+        <lb/>
+
+        خلاصهما وصلاحهما جميعًا
+      </p>
+
+      <p n="The King Requests the Full Parable">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        قال الفيلسوف ذكروا أنّه كان بأرض سرنديب
+        <lb/>
+
+        شجرة من النيرود وكانت عظيمة النبات وكان في حواشيها
+        <lb/>
+
+        سباع كثيرة وفي فروعها وكور للطيور وفي أصل تلك الشجرة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

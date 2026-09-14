@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="49"/>
+
+      <p n="A Worldly Man Must Fix Three Things">
+        إصلاحها والابتذال لنفسه فيهيّئ منها أمر معيشته ومنها
+        <lb/>
+
+        ما بينه وبين الناس ومنها ما يكتسب به الذكر الجميل
+      </p>
+
+      <p n="Three Things in a Man Engender Inefficiency">
+        وقد قيل
+        <lb/>
+
+        في أمور من كانت فيه لم يستقم له عمل منها التوانى ومنها
+        <lb/>
+
+        تضييع الفروض ومنها التصديق بكلّ محن
+      </p>
+
+      <p n="Many Are Credulous">
+        فربّ رجل مُحِن
+        <lb/>
+
+        بالشئ لا يقبله عقله ولا يعرف استقامته فيصدّق به
+      </p>
+
+      <p n="One Needs to Keep Desire in Check">
+        فينبغي
+        <lb/>
+
+        للعاقل أن لا يكون لهواه متّهمًا
+      </p>
+
+      <p n="One Needs to Check the Veracity of Information">
+        ولا يقبل من كلّ أحد ولا يتمادى
+        <lb/>
+
+        في الخطأ إذا ألبس عليه أمره
+      </p>
+
+      <p n="One Should Not Continue on the Wrong Path">
+        ولا يكون كالرجل الذي يحود عن
+        <lb/>
+
+        الطريق فيستمرّ على الضلال ولا يزداد في السير إلّا <> بعدًا
+      </p>
+
+      <p n="Man Rubs Itchy Eye and Loses It">
+        أو
+        <lb/>
+
+        كالرجل الذي تقذى عينيه فلا يزال يحكّها حتّى ربّما أودي
+        <lb/>
+
+        إلى هلاكها
+      </p>
+
+      <p n="The Intelligent Should Believe in Fate">
+        ويجب على العاقل أن يُصدق بالقضاء والقدر
+        <lb/>
+
+        ويأخذ الحزم
+      </p>
+
+      <p n="Do unto Other as to Oneself">
+        ويحبّ للناس ما يحبّه لنفسه ويكره لهم ما يكرهه
+        <lb/>
+
+        لها ولا يلتمس صلاح نفسه بإفساد غيرها
+      </p>
+
+      <p n="A Merchant Steals from His Partner">
+        فإنّه من فعل ذلك كان
+        <lb/>
+
+        حقيقًا أن يصيبه ما أصاب الرجل التاجر من رفيقه فإنّه يقال
+        <lb/>
+
+        كان رجلًا له رفيق استأجر حانوتًا فأودعا متاعهما فيه وكان
+        <lb/>
+
+        أحدهما قريبًا من المنزل والآخر بعيدًا منه فأضمر الذي بالقرب
+        <lb/>
+
+        من المنزل أن يأتي ويسرق من أعدال رفيقه عدلًا
+      </p>
+
+      <p n="The Merchant Devises a Plot">
+        وفكّر في الحيلة
+        <lb/>
+
+        فقال إن جئت ليلًا لم آمن أن آخذ من أعدالي عدلًا فيذهب تعبي باطلًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

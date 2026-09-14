@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="112"/>
+
+      <p n="Dimna's Goal: Restoration">
+        أرجو أن تزداد منزلتي عند الأسد عليه ولكن التمس أن يعود عليه حالي
+      </p>
+
+      <p n="The Three Considerations of the Wise">
+        فإنّ أمورًا ثلاثة العاقل جدير بالنظر فيهنّ والاحتيال بجهده في البعد عنهنّ
+      </p>
+
+      <p n="Dimna Concludes the Bull Must Die">
+        وإنّي لمّا نظرت في الأمر الذي أرجو أن يعيد منزلتي لم أجد حيلة ولا وجهًا
+        <lb/>
+
+        إلّا أن آكل الحشيش حتّى يفرّق بيني وبين الحياة
+      </p>
+
+      <p n="Kalila's Disagreement">
+        قال كليلة أمّا ما رأي
+        <lb/>
+
+        الأسد في الثور ورأيه ومنزلته عنده فليس هو عليه بشين ولا ضرر
+      </p>
+
+      <p n="Cunning Over Strength">
+        قال
+        <lb/>
+
+        دمنة لا تنظر إلى صغري وضعفي فإنّ الأمور ليست بالضعف ولا القوّة ولا
+        <lb/>
+
+        الصغر ولا الكبر في الجثّة فربّ صغير ضعيف قد بلغ بحيلته ودهائه
+        <lb/>
+
+        ورأيه وفطنته ما يعجز عنه كثير من الأقوياء
+      </p>
+
+      <p n="The Crow and the Snake Parable">
+        ألم يبلغك أنّ غرابًا ضعيفًا احتال على
+        <lb/>
+
+        الأسود حتّى قتله
+      </p>
+
+      <p n="Kalila Asks for the Story">
+        قال كليلة وكيف كان ذلك
+      </p>
+
+      <p n="The Crow's Predicament">
+        قال دمنة زعموا أنّ كان
+        <lb/>
+
+        لغراب وكر في شجرة على جبل وكان قريبًا منه جحر حيّة أسود فكان
+        <lb/>
+
+        الغراب إذا أفرخ فرخ عمد الأسود إلى فراخه فأكلها فبلغ ذلك من الغراب وأحزنه
+      </p>
+
+      <p n="The Crow Seeks Counsel">
+        فشكا ذلك إلى صديق له من بنات آوى وقال له أريد مشاورتك في أمر قد
+        <lb/>
+
+        عزمت عليه قال وما هو قال الغراب قد عزمت أن أذهب إلى الأسود إذا نام
+        <lb/>
+
+        فأنقر عينه فأفقأها لعلّي أستريح منه
+      </p>
+
+      <p n="The Jackal's Warning">
+        قال ابن آوى بئس الحيلة احتلت
+        <lb/>
+
+        فالتمس أمرًا تصيب فيه بغيتك من الأسود من غير أن تغرّر بنفسك وتخاطر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

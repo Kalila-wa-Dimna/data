@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="58"/>
+
+      <p n="The Procuress's Problematic Slave Girl">
+        فهي لا تريد غيره وأضرّ بتلك المرأة بما تأخذ من أجرة جاريتها فاضطغنت بذلك
+        <lb/>
+
+        على الرجل صديق الجارية الذي عشقته جاريتها
+      </p>
+
+      <p n="The Procuress's Plot">
+        فاحتالت لقتله
+        <lb/>
+
+        وأتاها صديق الجارية ليلة صادفها الناسك
+      </p>
+
+      <p n="The Lover is Drugged">
+        فسقته من الخمر صرفًا
+        <lb/>
+
+        حتّى غلبت الرجل عيناه فنام ونامت الجارية معه
+      </p>
+
+      <p n="The Poisonous Reed Pipe">
+        فلمّا استثقلا نومًا
+        <lb/>
+
+        عمدت المرأة إلى سمّ قد كانت هيّأته فجعلته في قصبة لتنفخه في دبر
+        <lb/>
+
+        الرجل فوضعت القصبة في دبره وفاها على القصبة
+      </p>
+
+      <p n="The Plot Backfires">
+        فبدرتها ريح
+        <lb/>
+
+        خرجت من الرجل فطار ذلك السم في حلق المرأة فوقعت ميّتة
+        <lb/>
+
+        وذلك بعين الناسك
+      </p>
+
+      <p n="The Ascetic Seeks New Lodging">
+        ثمّ أصبح الناسك غاديًا في طلب منزل غير
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="The Ascetic and the Shoemaker">
+        فأضافه رجل إسكاف وقال لامرأته انظري هذا الناسك
+        <lb/>
+
+        فأكرميه وأحسني القيام عليه فإنه قد دعاني بعض أصحاب الشراب
+        <lb/>
+
+        لمنادمته
+      </p>
+
+      <p n="The Shoemaker Departs">
+        فانطلق الإسكاف
+      </p>
+
+      <p n="The Shoemaker's Adulterous Wife">
+        وكانت امرأته قد علقت رجلًا وكان
+        <lb/>
+
+        الرسول فيما بينهما امرأة حجّام
+      </p>
+
+      <p n="The Wife Summons Her Lover">
+        فأرسلت امرأة الإسكاف إلى امرأة الحجّام
+        <lb/>
+
+        وأمرتها أن تأتي خليلها فتأمره يأتيها فإنّ زوجها عند أصحاب له في
+        <lb/>
+
+        الشراب وإنّه لا يرجع إلّا سكران ممسيًا
+      </p>
+
+      <p n="The Lover Waits">
+        فأقبل خليلها عند العشاء
+        <lb/>
+
+        حتّى قعد على الباب ينتظر امرأة الإسكاف
+      </p>
+
+      <p n="The Shoemaker's Suspicion">
+        وانصرف الإسكاف إلى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

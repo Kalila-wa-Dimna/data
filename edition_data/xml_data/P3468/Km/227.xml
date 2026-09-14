@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3468</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="227"/>
+
+      <p n="King W Orders the Hole to Be Blocked">
+        وليضعوا الأسافين والخزندارات مواضعها بحيث
+        <lb/>
+
+        لا يفسد عملهم بعد ذلك وأن يبنوا دكّة عظيمة وجه الثقب
+        <lb/>
+
+        وكندروا على تلك الأحطاب حجارة عظيمة بحيث لا يقذف
+        <lb/>
+
+        الريح الحطب ففعلوا ذلك وأحكموه وامتنعت الرياح من
+        <lb/>
+
+        الخروج وانحسمت مادتها فبقي ذلك البلد جميعه مهموسًا
+        <lb/>
+
+        لم يوجد فيه نسمة هواء وانقطع عنهم الريح بالكلّية
+      </p>
+
+      <p n="A Draught Ensues">
+        فلم يمض عليهم
+        <lb/>
+
+        حول حتّى جفت أشجار ذلك البلد وأنحل وذهب حسنه
+        <lb/>
+
+        وجفّت الأرض إلى نحو مئتي فرسخ وتماوت الحيوان وضجّ
+        <lb/>
+
+        العالم وسئمت الأرواح وغارت العيون والمياه وهلك
+        <lb/>
+
+        من الناس خلق عظيم
+      </p>
+
+      <p n="The People Kill the King and His Court">
+        فلم يزل ذلك بهم إلى أن ضجّ الناس
+        <lb/>
+
+        فوثب من بقي منهم ممّن لهم رمق وهجموا على دار الملك وقتلوه
+        <lb/>
+
+        ووزيره وأهله وولده
+      </p>
+
+      <p n="The People Burn the Wood Blocking the Hole">
+        فلمّا لم يبق من ذرّية الملك أحد
+        <lb/>
+
+        عطفوا على ذلك السدّ فأخربوه وأطلقوا النار في تلك
+        <lb/>
+
+        الأحطاب
+      </p>
+
+      <p n="The People Return Home">
+        فلمّا احتكمت النار وقوي حرّها تراجع الناس
+        <lb/>
+
+        إلى مواضعهم
+      </p>
+
+      <p n="The Winds Spread Annihilating Fire">
+        فلمّا بلغت النار من الحطب منتهاه وجدت
+        <lb/>
+
+        الريح منفسًا فخرجت بحميّة بعد احتباسها فاحتملت
+        <lb/>
+
+        النار معها ودرّتها في ذلك البلد جميعه ونسفت
+        <lb/>
+
+        الريح في تلك الأراضي حتّي لم تدع قرية ولا مدينة إلّا
+        <lb/>
+
+        دمّرتها وهلك من بقي من الحيوان والناس أجمعين
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

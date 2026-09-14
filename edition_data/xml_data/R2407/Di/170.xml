@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="170"/>
+
+      <p n="The King Asks about Dimna's Fate">
+        بالباطل
+      </p>
+
+      <p n="The Philosopher Mentions Dimna's Trial Parable">
+        قال الفيلسوف إنّ الفاجر الغادر
+        <lb/>
+
+        الساعي بالنميمة والكذب تكون عاقبة أمره إلى
+        <lb/>
+
+        ما يكره ومن أمثال ذلك ما كان من دمنة بعد قتل
+        <lb/>
+
+        شتربه وندامة الأسد عليه وحين راجع رأيه
+        <lb/>
+
+        ونظر في أمره واطّلاعه على غدره وما كان
+        <lb/>
+
+        حجّته ومناظرته
+      </p>
+
+      <p n="The King Requests the Parable">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="The Philosopher's Answer About the King's Killing">
+        قال الفيلسوف إنّ الأسد لمّا قتل شتربه ندم على
+        <lb/>
+
+        قتله وذكر صحبته وعقله وحسن رأيه وخدمته
+        <lb/>
+
+        لكونه كان من جملة أصحابه وقريبًا منه
+      </p>
+
+      <p n="A Leopard Was the Lion's Confidant">
+        وكان أيضًا من
+        <lb/>
+
+        جُملة أصحاب الأسد وخاصٌّ عنده نمرٌ وكان أمّنه
+        <lb/>
+
+        على جميع أسراره وكافّة أحواله ومقبول الكلمة عنده
+      </p>
+
+      <p n="The Leopard Overhears Kalila Chastising Dimna">
+        فلمّا كان بعض الأيّام مشى النمر لعند الأسد بعد
+        <lb/>
+
+        قتله الثور وندامته عليه وعاد النمر إلى منزله
+        <lb/>
+
+        آخر وقتٍ فاجتاز على منزل كليله ودمنة عنده
+        <lb/>
+
+        فلمّا انتهى إلى الباب سمع كليله يعاتب دمنة ويلومه
+        <lb/>
+
+        على إقدامه بالنميمة والكذب
+      </p>
+
+      <p n="Kalila's Accusation of Dimna">
+        وكان فيما قال له إنّك
+        <lb/>
+
+        قد ارتكبت ذنبًا عظيمًا ودخلت مدخلًا ضيّقًا وجنيت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

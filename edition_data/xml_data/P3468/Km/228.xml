@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3468</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="228"/>
+
+      <p n="King R Deems Fortune Inevitable">
+        قال ملك الجرذان قد سمعت هذا المثل ولكن يُقال من رام
+        <lb/>
+
+        أمرًا من الامور الصعبة التي يُرجى من عاقبته البلوغ إلى أمر
+        <lb/>
+
+        كبير ثمّ فزع من عارض سوء يلحقه فيه فكفّ عنه لم يرتق إلى
+        <lb/>
+
+        رتبة عالية إلّا أن يتّفق له ذلك اتّفاقًا
+      </p>
+
+      <p n="Fortune Is the Attainment of a Legacy">
+        وإنّ من السعادة وحسن
+        <lb/>
+
+        البحث أن يكون الإنسان في هذا العالم مشهورًا بعمل الخير
+        <lb/>
+
+        وليس يتهيّأ لأحد من الناس أن يحمل معه من هذا العالم
+        <lb/>
+
+        شيئًا ينفعه إلّا ما عمله
+      </p>
+
+      <p n="The Vizier Advises against Causing Disaster">
+        قال الوزير صدقت أيّها الملك ما كلّ
+        <lb/>
+
+        العمل ينتج فائدة وقد قالت الحكماء أيضًا من جلب على نفسه
+        <lb/>
+
+        رائح آفة بيده لم يستأهل أن يخلص منها ومن كان
+        <lb/>
+
+        سببًا لموت نفسه لم يكن له موضع في الجنّة
+      </p>
+
+      <p n="King R Insists on Proceeding">
+        قال الملك أمّا
+        <lb/>
+
+        أنا فأقول إنك ساعدتني في أمور كثيرة وإن أنت أعنتني
+        <lb/>
+
+        في هذا فزنا بما نريد
+      </p>
+
+      <p n="The Vizier Is in Want of a Solution">
+        فلمّا علم الوزير أنّ المَلك لا بدّ من إتمام
+        <lb/>
+
+        ما تكلّم عليه وكان وجه الحيلة قد اتّجه له قال له أمّا أنا
+        <lb/>
+
+        فسأجيب على حسب طاقتي وإنّما قلت ما قلته إلى حيث
+        <lb/>
+
+        انتهينا لعلمي بفضيلة الملك وغزارة علمه وأمّا أنا فإنّي
+        <lb/>
+
+        على نقص من المعرفة ولا يتمّ لي رأي إلّا بسعد الملك وقوّة
+        <lb/>
+
+        جدّه
+      </p>
+
+      <p n="One Could Consult the Wise or the Ignorant">
+        وقد قالت الحكماء والجهّال يجب على الحكيم أن يستشير
+        <lb/>
+
+        الجاهل لأنّه إذا شاوره وكان ذلك الجاهل يخرجه الجهل
+        <lb/>
+
+        إلى أن يشير بغير الواجب لم يصغ الحكيم إلى جهله ولم يقبل كلامه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

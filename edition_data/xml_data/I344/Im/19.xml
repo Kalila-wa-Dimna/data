@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="19"/>
+
+      <p n="One Should Not Abandon Hard Work">
+        ولا ينبغي للقائل أيضًا أن يركن إلى هذا المثل
+        <lb/>
+
+        ويدع ما يجب عليه من الطلب والعمل في إصلاح
+        <lb/>
+
+        معاشه
+      </p>
+
+      <p n="The Fortunate Few Are Not the Model">
+        ولا يقتدي بمن تواتيه المقادير وتساعده
+        <lb/>
+
+        عن غير إلتماس منه لذلك فإنّ أولئك في الناس
+        <lb/>
+
+        قليل وإنّما جمهورهم من يتعب نفسه في السعي
+        <lb/>
+
+        لما يصلح به أمره فينال ذلك ما يريد
+      </p>
+
+      <p n="One Should Strive for Benefit Not Harm">
+        وليحرص
+        <lb/>
+
+        كلّ ذي عقل على أن يكون مكسبه من أطيب
+        <lb/>
+
+        المكاسب وأفضلها وأن يجتنب كلّ ما حدث
+        <lb/>
+
+        منه عدًّا أو نكرًا أو جلب عليه همًّا وغمًّا
+      </p>
+
+      <p n="Dove Does Not Learn from Losing Her Chicks">
+        ولا
+        <lb/>
+
+        يكون كالحمامة التي يُؤخذ فراخها فتُذبح فلا
+        <lb/>
+
+        يمنعها ذلك من أن تعود فتفرّخ في موضعها
+        <lb/>
+
+        وتقيم في مكانها حتّى تُؤخذ ثانية فتُذبح
+      </p>
+
+      <p n="One Should Abide by God's Measures">
+        وقد يُقال إنّ الله تبارك وتعالى جعل لكلّ
+        <lb/>
+
+        شيء حدًّا يُوقف عليه فمن جاوز في الأشياء
+        <lb/>
+
+        حدّها كان كالمقصّر عنها
+      </p>
+
+      <p n="Striving for the Hereafter">
+        ويقال إنّ من كان
+        <lb/>
+
+        سعيه لآخرته كانت حياته له
+      </p>
+
+      <p n="Striving for the Here">
+        ومن كان
+        <lb/>
+
+        سعيه لدنياه كانت حياته عليه
+      </p>
+
+      <p n="Striving for the Here and the Hereafter">
+        ومن كان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

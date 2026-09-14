@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T2281</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="61"/>
+
+      <p n="Reader Must Decode Parables">
+        ذلك لم يقف على أسرار تلك المعاني
+      </p>
+
+      <p n="Hasty Reader Benefits Nothing">
+        ومن غايته إتمام
+        <lb/>
+
+        قراءته إلى آخره دون معرفة أمثاله وحكاياته لم
+        <lb/>
+
+        يستفد منه شيئًا
+      </p>
+
+      <p n="Indiscriminate Reader Benefits Nothing">
+        ومن استكثر من جميع العلوم وقراءة
+        <lb/>
+
+        الكتب في إعمال الرواية دون الدراية
+      </p>
+
+      <p n="Treasure Discovered">
+        فهو خليق
+        <lb/>
+
+        لا يصيب منها إلّا كما يصيب
+      </p>
+
+      <p n="Man Acquires Yellow Folio">
+        الرجل الذي قيل له
+        <lb/>
+
+        طلب العلم الفصيح بموجب الترجيح فأتى صديق له
+        <lb/>
+
+        من العلماء مشهورًا بالفصاحة وسأله أن يتحفه بجزو
+        <lb/>
+
+        يعرف به الفصاحة فرسم له ذلك العالم فصولًا
+        <lb/>
+
+        تتناول دقائق اللغة وتصريف الكلام وكتبها
+        <lb/>
+
+        في صحيفة صفراء
+      </p>
+
+      <p n="Man Memorizes from Yellow Folio">
+        فانصرف الرجل إلى منزله وأخذ في
+        <lb/>
+
+        في الدراسة لألفاظها ولم يعوّل على حلّ معانيها
+        <lb/>
+
+        فزعم أنّه نال بذلك التكرار وصار به فصيحًا فجلس
+        <lb/>
+
+        ذات يوم بين ملإ من أهل العلم والأدب
+      </p>
+
+      <p n="Man Reads from Yellow Folio and Errs">
+        فجاوزهم
+        <lb/>
+
+        ظنًّا منه أنّه عارف فأخطأ فقال له بعض الجماعة أخطأت
+        <lb/>
+
+        فقال له كيف أخطأت وأنا قرأت الصحيفة الصفراء
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

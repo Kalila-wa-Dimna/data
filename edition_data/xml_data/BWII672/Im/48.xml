@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="48"/>
+
+      <p n="Discoverer Loses Treasure">
+        كلّ من حمل شيء اختصّ به لنفسه ولم يبقى له إلّا التعب والنصب
+        <lb/>
+
+        في إخراجه للكنز ورواحه ومجيئه ولم يفكّر في آخر أمره
+      </p>
+
+      <p n="Readers Should Look for Hidden Meaning">
+        وهكذا
+        <lb/>
+
+        كلّ من قرأ كتابًا ولم يتدبّر معانيه ظاهره وباطنه لم ينتفع به شيئًا
+      </p>
+
+      <p n="A Nut Has to Be Cracked">
+        زعموا أنّ رجلًا أُهدي له هديّة من الجوز ولم يكن يعرفه قبل
+        <lb/>
+
+        فشمّه لم يرى له رائحة زكيّة فوضعه في فيه رآه حطب لا يُؤكل فألقاه
+        <lb/>
+
+        في النار وضيّع منفعة ما فيه فلو كسره استلذّ بجوهره وقد قشّره
+      </p>
+
+      <p n="Man Acquires Yellow Folio">
+        وإنّ مثله كالرجل الذي يطلب علم الفصاحة من كلام الناس
+        <lb/>
+
+        فأتى له صديقًا من العلماء فطلب منه أنّه يتعلّم بقصده الفصاحة
+        <lb/>
+
+        فكتب له صديقه العالم في صفيحة صفراء شيء من النظام
+      </p>
+
+      <p n="Man Memorizes from Yellow Folio">
+        فانصرف المتعلّم بها إلى منزله وجعل يكرّرها ولا يقف على
+        <lb/>
+
+        معانيها إلى أن حفظها فجلس ذات يوم في محفل من أهل
+        <lb/>
+
+        الأدب والعلم وهو يظنّ أنّه اكتفى بما قرأه من الصحيفة
+      </p>
+
+      <p n="Man Reads from Yellow Folio and Errs">
+        فأخذ يحاورهم فمرّت له كلمة فأخطأ في معناها فقال له
+        <lb/>
+
+        بعض من حضر إنّك قد أخطأت فيما نطقت به والوجه فيه غير
+        <lb/>
+
+        الذي ذكرته فقال له كيف أكون أخطأت وأنا قرأت الصحيفة
+        <lb/>
+
+        الصفراء وهي في منزلي للآن
+      </p>
+
+      <p n="Using the Yellow Folio Proved His Ignorance">
+        فكانت الصحيفة هي الذي
+        <lb/>
+
+        أوجبت الحجّة عليه وزيادة ذلك نسب إلى الجهل وبعد عن
+        <lb/>
+
+        عن الأدب فلو كان تدبّرها وغاب عنه بعض معانيها فحص
+        <lb/>
+
+        عنه من غيره حتّى تملّكه ما كان أنفقين بين الناس بل كان
+        <lb/>
+
+        عُدّ من العلماء أو الأدباء
+      </p>
+
+      <p n="Intelligent Readers Must Implement Knowledge">
+        فالعالم العاقل إذا فهم معاني هذا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

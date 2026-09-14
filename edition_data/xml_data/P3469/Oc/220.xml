@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="220"/>
+
+      <p n="unassigned">
+        ثمّ إنّ الملك سأل الثالث من وزرائه فقال أرى أن نَستبقيه
+        <lb/>
+
+        ونُحسن إليه فلمّا فرغ الثالث من مقالته وكلامه هذا قال الأوّل
+        <lb/>
+
+        الذي أشار بقتل الغراب أراكم قد خدعكم هذا الغراب برفقه
+        <lb/>
+
+        ومكره وتضرّعه فأنتم تريدون تضييع رأيكم والتغرير
+        <lb/>
+
+        بالأمر الجسيم فمهلًا مهلًا لا تفعلوا وانظروا نظر ذوي الألباب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="174"/>
+
+      <p n="Woman Asks Lover to Create a Sign">
+        لصديقها هل تقدر أن تصنع شيئًا إذا جئت من الليل عرفتك
+        <lb/>
+
+        فخرجت إليك من غير أن تصوّت بي
+      </p>
+
+      <p n="Painter Suggests Black-and-White Coat to Woman">
+        قال نعم أصلح ملحفة
+        <lb/>
+
+        ببياض أو سواد بياضها كبياض القمر وسوادها كسواد
+        <lb/>
+
+        الحدقة فإذا رأيت ذلك فاخرجي فهي العلامة بيننا
+        <lb/>
+
+        فأعجبت المرأة ذلك
+      </p>
+
+      <p n="The Woman's Servant Hears About Coat">
+        وسمع عبدها كلامهما
+      </p>
+
+      <p n="Woman's Servant Borrows Coat In Painter's Absence">
+        فلمّا كان
+        <lb/>
+
+        بعد أيّام انطلق من المصوّر إلى دار الملك ليعمل فيها
+        <lb/>
+
+        وانطلق العبد إلى ولدة المصوّر وكان لها ملاطفًا
+        <lb/>
+
+        فاستعار منها تلك الملحفة فأعطته إياها
+      </p>
+
+      <p n="Servant Tricks Woman">
+        فلبسها
+        <lb/>
+
+        ثمّ انطلق إلى سيّدته ليلًا فلمّا رأت الملحفة خرجت
+        <lb/>
+
+        إليه وظنّت أنّه صديقها فأمكنته من نفسها ولم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

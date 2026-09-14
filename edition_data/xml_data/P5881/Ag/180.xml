@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="180"/>
+
+      <p n="Story Ascetic Guest">
+        مجتهدًا فنزل به ضيف ذات ليلة فقدّم إليه تمرًا فأكل منه
+      </p>
+
+      <p n="Guest Praise Dates">
+        ثمّ أنّ الضيف قال ما أحلى هذا التمر
+        <lb/>
+
+        وأطيبه
+      </p>
+
+      <p n="No Palm Trees At Home">
+        ليت في بلادي نخلًا
+      </p>
+
+      <p n="Enough Good Fruit At Home">
+        مع أنّ فيها من الفواكه ما أكتفي به فإنّه من يقدر على
+        <lb/>
+
+        التين وما أشبهه من حلاوة الفاكهة فإنّها تكفيه وخامة التمر وقّلة موافقته للجسد
+      </p>
+
+      <p n="Dont Seek Unattainable">
+        فقال له الناسك إنّه لا يُعدّ سعيدًا من احتاج إلى ما لا يجد وليس هو بمعدود في
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="Guest Praises Monk">
+        فقال له الضيف قد وُفّقت أيّها الناسك ورشدت للصواب
+      </p>
+
+      <p n="Monk Spoke Hebrew">
+        وقد سمعت منك
+        <lb/>
+
+        كلامًا عبرانيًّا أعجبني فإنّ لي فيه رغبة وأنا على معرفته وعلمه حريصًا
+      </p>
+
+      <p n="Mention Crow Story">
+        قال الناسك أخاف
+        <lb/>
+
+        أن يُصيبك في ذلك ما أصاب الغراب
+      </p>
+
+      <p n="Guest Request Crow Story">
+        قال له الضيف وكيف كان ذلك
+      </p>
+
+      <p n=". Crow Story Intro">
+        قال الناسك
+        <lb/>
+
+        زعموا أنّ غرابًا رأى حجلة تدرج فأعجبه مشيها وطمع في تعليمه ذلك وراض نفسه
+        <lb/>
+
+        في ذلك مرارًا فإذا هو لم يدركها فبقي حيرانًا مترددًا
+      </p>
+
+      <p n=". Crow Lost Original Walk">
+        لا يدرك ما طلب ولم
+        <lb/>
+
+        يحسن ما كان من مشيته الأولى أبدًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

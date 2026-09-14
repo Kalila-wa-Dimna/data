@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="251"/>
+
+      <p n="unassigned">
+        فإنّ الصبر والتأنّي محمود العاقبة مفضّل عند أهل النظر
+        <lb/>
+
+        والرويّة بالأشياء التي يُعرف ضرّها ونفعها
+      </p>
+
+      <p n="Chapter Title">
+        باب الجرذ والسنّور
+      </p>
+
+      <p n="The King Asks about Escaping Enemies">
+        قال المَلك للفيلسوف قد فهمت ما ذكرت من أمر الحكم والعقل
+        <lb/>
+
+        وما لصاحبهما من المنفعة فاضرب لي مثل هذا الرجل إذا كثر أعداؤه
+        <lb/>
+
+        وأشرف على الهلكة فالتمس المخرج بمصالحة بعضهم فسلم ممّا تخوّف ووفى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

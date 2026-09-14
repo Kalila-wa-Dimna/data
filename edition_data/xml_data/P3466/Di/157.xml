@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="157"/>
+
+      <p n="One Wife Blames the Other for Being Naked">
+        إلى هذه الفاعلة التي تمشي عريانة
+      </p>
+
+      <p n="The Man/One Wife Tells Other Wife to Cover Herself First/Mind Her Own Nakedness">
+        قال لها زوجها ويلك ألا
+        <lb/>
+
+        تنظرين إلى نفسك فإنّ جسمك عار كلّه وأنت تطغين في التي
+        <lb/>
+
+        غطّت عورتها
+      </p>
+
+      <p n="Dimna Reviles Courtier">
+        وأنت أيضًا عجب لك أيّها القذر ذو العلامات
+        <lb/>
+
+        الفاضحة حين تدنو من طعام الملك وتقوم بين يديه مع ما بجسمك
+        <lb/>
+
+        من القذر واللؤم والقبح ومع ما تعرفه أنت وغيرك من عيوب
+        <lb/>
+
+        نفسك وتتكلّم في النقيّ الجسم الذي لا عيب فيه
+      </p>
+
+      <p n="Dimna Protected Courtier's Secrets">
+        ولست أنا وحدي
+        <lb/>
+
+        اطّلعت على عيبك لكن جميع من حضر من أهل الرضا قد عرف
+        <lb/>
+
+        ذلك وقد كان يحجزني عن إظهار ذلك الصداقة وكنت أقول ما
+        <lb/>
+
+        يضرّني من تكرمة سيّدي إيّاه
+      </p>
+
+      <p n="Dimna Now Repays Courtier's Hostility">
+        فأمّا الآن فحين كذبت عليّ وبهتّني في
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

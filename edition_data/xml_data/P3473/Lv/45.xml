@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="45"/>
+
+      <p n="Shared Secret Spreads">
+        فإذا صار إلى ثلاثة فقد شاع وذاع حتّى لا يستطيع صاحبه
+        <lb/>
+
+        أن يجحده ويكابر عنه
+      </p>
+
+      <p n="Spread Secrets Like Clouds">
+        كالغيم إذا كان متقطّعًا في السماء فقال
+        <lb/>
+
+        قائل إنّه غيم متقطّع لم يقدر أحد على تكذيبه
+      </p>
+
+      <p n="Friend Is Delighted With Knowing Burzoy">
+        وأمّا أنا فقد داخلني
+        <lb/>
+
+        من محبّتك ومودّتك وإخائك سرورًا لا يبدّله شيء وهذا الأمر
+        <lb/>
+
+        الذي تطلبه منّي
+      </p>
+
+      <p n="Friend Fears Secret Spreads">
+        وأنا أعلم أنّه من الأسرار الذي لا ينكتم ولا بدّ أن
+        <lb/>
+
+        يفشو ويظهر حتّى يتحدّث به الناس فلا آمن على نفسي من الهلاك
+        <lb/>
+
+        لا أقدر أن أفتديها منه بالمال وإن كثر
+      </p>
+
+      <p n="Indian King Is Harsh">
+        فإنّ ملكنا جبّارًا فظًّا
+        <lb/>
+
+        غليظًا يعاقب على الذنب الصغير أشدّ العقاب فكيف بالجرم
+        <lb/>
+
+        العظيم الذي لا يعادله ذنب
+      </p>
+
+      <p n="Scholars Commend Discrete Friend">
+        فقال برزوية إنّ العلماء قد مدحت
+        <lb/>
+
+        الصديق الذي يكتم سرّ صديقه وأعانه على أموره
+      </p>
+
+      <p n="Burzoy Entrusts Secret To Friend">
+        وهذا الأمر الذي
+        <lb/>
+
+        قدمت له لمثلك ادّخرته وعليك وردته وعندك احتبسته
+        <lb/>
+
+        وفيك توسّمته وإليك أفشيته وبك أنزلته راجيًا لبلوغه
+      </p>
+
+      <p n="Burzoy Sure Of Friends Abilities">
+        واثقًا بكرم طباعك ووفور عقلك وجميل أخلاقك وحسن سجيّتك
+      </p>
+
+      <p n="Burzoy Vows Secrecy">
+        فلا تخش من شياع هذا الأمر فلا ثالث لنا
+      </p>
+
+      <p n="Burzoy Hopes Secret Remains Kept">
+        فلمّا سمع الهنديّ
+        <lb/>
+
+        ذلك قال سمعًا وطاعة وتعاهدا جميعًا على كتمان السرّ وتحالفا
+      </p>
+
+      <p n="Friend Provides Book">
+        وتلطّف الهنديّ في تحصيل الكتاب وأحضره من خزانة الملك
+      </p>
+
+      <p n="Joint Translation">
+        واجتمعا على نسخه ونقلاه من اللغة الهنديّة إلى اللغة الفارسيّة
+        <lb/>
+
+        وجهدا في إتمام معانيه وإكمال تفسيره على أتمّ الوجوه وسرّ
+        <lb/>
+
+        برزوية بذلك سرورًا عظيمًا
+      </p>
+
+      <p n="Burzoy Translates Under Duress">
+        ولكن مع مخالطة خوف من الملك
+        <lb/>
+
+        على أنفسهما لئلّا يذكر الكتاب في وقت من الأوقات فلا
+        <lb/>
+
+        يصادفه في خزانته وتمّ الأمر
+      </p>
+
+      <p n="Burzoy Writes To Kisra">
+        فلمّا فرغا من ذلك وغيره من كتب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

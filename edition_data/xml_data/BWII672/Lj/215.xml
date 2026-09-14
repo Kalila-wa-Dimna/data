@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="215"/>
+
+      <p n="Mother Reaffirms Intrigue">
+        عليك بعد ما ظهر من تظافر جندك وأصحابك عليه بعُدوانهم
+        <lb/>
+
+        ومكرهم
+      </p>
+
+      <p n="Lion Must not Tolerate Misdeeds">
+        فإيّاك ترخّص لهم في القصاص لكيلا يعودوا لمثله
+      </p>
+
+      <p n="Grass Rope Ties Elephant">
+        فإنّ العشب إذا كان فيه قوّة فإنّه يُعمل منه الحبل الذي
+        <lb/>
+
+        يُوثق به الفيل المغتلم
+      </p>
+
+      <p n="Lion Must Punish Plotters">
+        وإن سُومحوا بذلك اجترؤا على ما هو
+        <lb/>
+
+        أعظم منه ولكن عاقبْهم عليه وهدّدْهم
+      </p>
+
+      <p n="Lion Should Reinstate Jackal">
+        وارددْ ابن آوى
+        <lb/>
+
+        إلى منزلته التي كان عليها أوّلًا
+      </p>
+
+      <p n="Lion Should Not Fear Jackal's Grudge">
+        ولا تقول في نفسك
+        <lb/>
+
+        إنّي قد أسأت على ابن آوى فما يؤمّنّي غوائلَه إن رجّعته
+      </p>
+
+      <p n="The Wronged Person Need not Be Feared">
+        فإنّ ليس كلّ من أُوذي وخُفس قدره ينقطع الرجاء من
+        <lb/>
+
+        منفعته ولكن من كانت نفسه العفو يوضع الأشياء
+        <lb/>
+
+        مواضعها
+      </p>
+
+      <p n="Whom not to Reinstate">
+        فإنّ من الناس من لا ينبغي مواصلته بعد
+        <lb/>
+
+        مفارقته فمن فارق هذه الأوصاف التي أنا ذاكرها
+        <lb/>
+
+        من الناس فلا ينبغي مفارقته بعد مواصلته
+      </p>
+
+      <p n="The Faithless Should Be Given Up">
+        ولا ينبغي للملك أن يراجع المخزيّ الكفور من لا ودّ له
+        <lb/>
+
+        من لا يتيقّن بالآخرة
+      </p>
+
+      <p n="The Irascible Should Be Given Up">
+        والذي جرى منه سرعة الغضب
+        <lb/>
+
+        وفرط الشهوة هو على قدر زهده في الآخرة
+      </p>
+
+      <p n="The Irreconcilable Should Be Given Up">
+        لأنّه يسخط
+        <lb/>
+
+        باليسير ولم يُبلغ رضاه بالكبير
+      </p>
+
+      <p n="The Hedonistic Should Be Given Up">
+        من دأبه الحرص والخديعة
+        <lb/>
+
+        على الزنا والفسوق والعصيان
+      </p>
+
+      <p n="Whom to Reinstate">
+        فهذا ليس كمن جُرّب
+        <lb/>
+
+        بالعقل والحياء والشكر وحسن العهد وحبّ البرّ والبغض
+        <lb/>
+
+        للإثم وحبّ السلامة والرحمة وحبّ المعاشرة وحسن
+        <lb/>
+
+        الأدب
+      </p>
+
+      <p n="Jackal Has Been Tested">
+        وقد جرّبت ابن أوى بهذه الخصال الحسنة وعرفته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

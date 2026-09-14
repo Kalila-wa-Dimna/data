@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="156"/>
+
+      <p n="Kind Needs Confidant">
+        رأيه
+      </p>
+
+      <p n="Advice To King Like Fuel To Fire">
+        فإنه يزداد برأيه رأيًا كما تزداد النار بالودك ضوءًا
+      </p>
+
+      <p n="How To Give Advice">
+        وعلى المستشير
+        <lb/>
+
+        موافقة المستشار على صواب ما يرى والرفق به مع ذلك في تبصيره خطأ
+        <lb/>
+
+        ما أتاه به وتقليبًا للرأي فيما تلكّأ فيه وأشكل عليهما حتّى يستقيم لهما
+        <lb/>
+
+        رأيهما بتعاونهما
+      </p>
+
+      <p n="Bad Advice Like Misdirected Curse">
+        فإن لم يكنْ المستشار كذلك فهو على المستشير مع عدوّه
+        <lb/>
+
+        كالرجل الذي يرقي الشيطان ليرسله على الإنسان فإذا لم يُحكمْ الرقيّة
+        <lb/>
+
+        كان به يلتبس وإيّاه يأخذه إلّا أن يدفع الله
+      </p>
+
+      <p n="Secritive Wise King Prospers">
+        وإذا كان الملك محصّنًا للأسرار
+        <lb/>
+
+        متخيّر الصالح من الوزراء مهيّبًا في أنفس العامّة من أن يعلم الناس ما في نفسه لا
+        <lb/>
+
+        يضيع ذو بلاء ولا يسلم منه ذو جرم مقدّر ممّا ينفق وما يقتّر كان خليقًا أن
+        <lb/>
+
+        لا يُسلب صالح ما أوتي
+      </p>
+
+      <p n="Ranks Of Secrets">
+        وللأسرار منازل فمن السرّ ما يدخل فيه رهط ومنه
+        <lb/>
+
+        ما يدخل فيه رجلان ومنه ما يُستعان فيه بقوم
+      </p>
+
+      <p n="Only King C And Spy To Know Secret">
+        ولا أرى لهذا السرّ في
+        <lb/>
+
+        مقدار منزلته أن يشترك فيه إلَا لسانان وأربع آذان
+      </p>
+
+      <p n="Question On Origin Of Enemity">
+        فنهض الملك
+        <lb/>
+
+        من ساعته فخلا به فسأله فكان ما سأله عنه أن قال هل تعلم بدء عداوة
+        <lb/>
+
+        ما بيننا وبين البوم
+      </p>
+
+      <p n="Words Of Crow Were Cause">
+        قال نعم أيّها الملك كلمة تكلّم بها غراب
+      </p>
+
+      <p n="unassigned">
+        قال الملك
+        <lb/>
+
+        وكيف كان ذلك قال زعموا أنّ جماعة الطير لم يكنْ لها في بعض
+        <lb/>
+
+        الأمر منه ملك وإنّها اجتمعت على بومة لتملّكها فبينما هي في جمعها إذ وقع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

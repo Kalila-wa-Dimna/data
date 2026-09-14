@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="282"/>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        باب الناسك ضيفه وهو باب من يدع عمله
+        <lb/>
+
+        الذي يثاكله يبتغي غير ذلك من الأعمال فلا يدركه
+        <lb/>
+
+        قال الملك للفيلسوف قد سمعت هذه الاحدوثة
+        <lb/>
+
+        فاضرب لي مثل من يدع عمله الذي يثاكله يبتغي غير ذلك
+        <lb/>
+
+        من الأعمال فلا يدركه والله اعلم بالصواب
+        <lb/>
+
+        قال الفيلسوف ذكروا أنه كان بأرض الكوخ ناسكا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lh</chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

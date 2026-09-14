@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="239"/>
+
+      <p n="unassigned">
+        وحسن النظر أحقّا بالتودّد والتأنّي وترك العجلة
+        <lb/>
+
+        ومواثبة الأشياء لما في ذلك من النفع والرفع ولما في خلافه
+        <lb/>
+
+        من الضرّ والنقص فليعرف المرء اللبيب ذلك وليتحفّظه وليأخذ
+        <lb/>
+
+        بنصيبه من العمل بالتوفيق فيه والاقتصار على أمر الحكماء
+        <lb/>
+
+        بالانتهاء إليه ثمّ وكمل باب الناسك وابن عرس وهذا
+      </p>
+
+      <p n="Chapter Title">
+        باب إيلاد وملك الهند وإبراخت
+        <lb/>
+
+        وهو باب الحكم
+      </p>
+
+      <p n="King Understood Previous Chapter">
+        قال الملك الفيلسوف
+        <lb/>
+
+        قد فهمت ما ذكرت من أمر العجل غير المشايد ولا الناظر
+        <lb/>
+
+        في العواقب
+      </p>
+
+      <p n="King Asks How To Preserve Rule">
+        فأخبرني بأيّ الأشياء أجدر أن يكون الملك
+        <lb/>
+
+        أجدى في حفظ نفسه وملكه وثبات سلطانه والذي إذا
+        <lb/>
+
+        عمل به كرُم على أهل رعيّته وثبّت ملكه وحفظ أرضه
+        <lb/>
+
+        الحلم أم المروّة أم الجود أم الشجاعة
+      </p>
+
+      <p n="Philosopher Prioritizes Ḥilm">
+        قال الفيلسوف
+        <lb/>
+
+        إنّ أحقّ ما حفظ به الملك ملكه وأفضل ما هو مدرك ذلك
+        <lb/>
+
+        به وثبّت به سلطانه وكرّم نفسه العقل ثمّ الحلم
+        <lb/>
+
+        لأنّهما رأس الأمور وملاكهما
+      </p>
+
+      <p n="Philosopher Adds Consultation">
+        وحافظ الحلم والكرم ومادّة
+        <lb/>
+
+        الكرم من مشاورة أهل العقل والعلم والرفق بالعمل
+        <lb/>
+
+        وأفضل الأشياء وخيرها وأنفع ما يستمتع به الإنسان الحلم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Aw</chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

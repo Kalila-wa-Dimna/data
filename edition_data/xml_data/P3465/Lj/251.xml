@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="251"/>
+
+      <p n="Good Advisor Is Hated">
+        فلا يخلط ذلك بمصانعته فقلّ أن يسلم على ذلك لأنّه يجتمع عليه نصيحة سلطانه
+        <lb/>
+
+        ونصيحة ربّه ونصيحة نفسه ونصيحة الرعيّة
+      </p>
+
+      <p n="Threats against Good Advisor">
+        فإذا جمع هذه الأصناف فقد
+        <lb/>
+
+        تعرّض للهلاك
+      </p>
+
+      <p n="Lion Promises Jackal Protection">
+        قال الأسد لا يكون أحد من أصحابي ببينك وبين ما يعرض في نفسك
+        <lb/>
+
+        وأنت معي وأنا أكفيك بعد ذلك وأبلغ في الكرامة همّتك
+      </p>
+
+      <p n="Jackal Wants to Remain Carefree">
+        قال ابن آوى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

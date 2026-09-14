@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="69"/>
+
+      <p n="Kalila's Doubt about Lion's Confusion">
+        الأسد التبس عليه أمره بما ظهر عليه وله في نفسه من التمكّن
+      </p>
+
+      <p n="Kalila Questioning Dimna's Experience with Rulers">
+        وكيف ترجو المنزلة عند الأسد ولست بصاحب سلطان
+        <lb/>
+
+        ولا لك علم بخدمته
+      </p>
+
+      <p n="Dimna's Analogy of Strength and Heavy Burdens">
+        قال دمنة إنّ الرجل الشديد القويّ
+        <lb/>
+
+        لا يعجزه الحمل الثقيل وإن لم تكنْ عادته الحمل
+      </p>
+
+      <p n="The Weak Man with the Burden">
+        والرجل
+        <lb/>
+
+        الضعيف لا يستقلّ به وإن كان عادته ذلك وصناعته
+      </p>
+
+      <p n="Kalila Questioning Dimna's Strategy">
+        قال كليلة فإنّ السلطان صعب ممارسته وهبك
+        <lb/>
+
+        وصلت إليه فما فعلك الذي ترجو به أن تنال المنزلة عنده
+      </p>
+
+      <p n="Dimna will Make the Lion See His Benefit">
+        قال دمنة إن وصلت إلى الأسد وعرفت أخلاقه ترفّقت في
+        <lb/>
+
+        متابعته وبالغت في خدمته وتحذّرت الخلاف عليه
+        <lb/>
+
+        وإذا قصد أمرًا في نفسه وكان ذلك صوابًا زيّنته له وصبّرته
+        <lb/>
+
+        عليه وبصّرته ما فيه وشجّعته حتّى يزداد سرورًا ونشاطًا
+        <lb/>
+
+        لذلك
+      </p>
+
+      <p n="Dimna will Make the Lion See His Harm">
+        وإن كان أمرًا يُخاف عليه منه وعاقبته ضررًا
+        <lb/>
+
+        بصّرته ما فيه من الضرر وسوء العاقبة وما في تركه من
+        <lb/>
+
+        النفع والزين بألطف عبارة وأحسن إشارة
+      </p>
+
+      <p n="Dimna's Hope to Impress the Lion">
+        وأرجو بذلك
+        <lb/>
+
+        له الخير ليرى منّي ما لم يره من غيري
+      </p>
+
+      <p n="Clever Speech Can Twist the Truth">
+        فإنّ الرجل الأديب
+        <lb/>
+
+        إذا شاء أن يبطل حقًّا أو يحقّ باطلًا أحيانًا
+      </p>
+
+      <p n="Analogy of Skilled Painter's Illusions">
+        كالماهر
+        <lb/>
+
+        المصوّر الذي يصوّر في الحائط تصاويرًا كأنّها خارجة منها
+        <lb/>
+
+        وليست بخارجة من الجدار وأخرى كأنّها داخلة وليست
+        <lb/>
+
+        بداخلة
+      </p>
+
+      <p n="Dimna's Expectation of the Lion's Response">
+        فإذا رأى الأسد منّي ذلك وعرف ما عندي له من
+        <lb/>
+
+        النفع كان هو الذي يلتمس قربي إكرامي
+      </p>
+
+      <p n="Kalila's Final Warning about Ruler's Danger">
+        قال كليلة
+        <lb/>
+
+        فأمّا إذا كان هذا رأيك فإنّي أحذّرك من السلطان فإنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

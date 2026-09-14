@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="101"/>
+
+      <p n="Serious Crimes Do Not Allow Secrecy">
+        |كتمانُكِ الأسرارَ نِعم الشيمَهْ ### وعادةٌ حميدةٌ كريمَهْ
+        <lb/>
+
+        |لكنّها جميعَها لا تُستَرُ ### بل بعضُها يُخْفى وبعضٌ يُذكَرُ
+        <lb/>
+
+        |لا سيّما إنْ كان فيهِ فائدَهْ ### فطيُّهُ مِن الخِلالِ الباِرَدْه
+      </p>
+
+      <p n="Hiding a Crime Is Complicity">
+        |لكلِّ شيءٍ فاعرفيهِ قَدْرُ ### كتمانُ سرِّ الغادرينَ غَدْرُ
+        <lb/>
+
+        |مَن كتمَ السلطانَ ذنبَ فاجِرِ ### فقد أتى لِأعظمِ الجَرائِرِ
+        <lb/>
+
+        |وذاك في دينِ الوَفا خيانَهْ ### جزاؤُها التنكيلُ والإهانَهْ
+      </p>
+
+      <p n="The Source Wants to Extricate Himself">
+        |وإنّ مَن قال لكِ المقالا ألقى بهِ عن نفسِهِ الأَثقالا
+        <lb/>
+
+        |أمانةٌ أخرجَها مِن عُنُقِهْ ### محترِزًا بكَيْسِهِ لا حُمُقِهْ
+      </p>
+
+      <p n="The Mother Expects Her Word to Suffice">
+        |قالت له عرفتُ كلّ ذلكا ### ولستُ عندي للصوابِ تارِكا
+        <lb/>
+
+        |أردتُ أن أعرفَ قَدْرَ أَدَبِكْ ### في رأيِ مَن خانَ لكَيْ يلعَبَ بِكْ
+      </p>
+
+      <p n="Without Blaming His Mother the Lion Is Curious">
+        |قال لها ما أنتِ بالظنينَهْ ### عندي بلِ الصادقَةِ الأمينَهْ
+        <lb/>
+
+        |وليس في نفسِيَ منهُ ريبُ ### ولا عليكِ إن ذكرتِ عيبُ
+      </p>
+
+      <p n="The Mother Has Three Reasons for Keeping the Secret">
+        |قالتْ إذا أفشيتُ سرَّ صاحِبْ ### أوحشتُهُ وعاد كالمُحارِبْ
+      </p>
+
+      <p n="The Mother Deems That Divulging Will Harm Her Credibility">
+        |ولم يعُدْ قطُّ لبيبٌ يعقِلُ ### إليَّ في أمورِهِ يسترسِلُ
+        <lb/>
+
+        |وإنّ تفريطي في الأمانَهْ ### يقبُحُ في العقلِ وفي الدِّيانَهْ
+      </p>
+
+      <p n="The Lion Does Not Insist on Knowing His Mother's Source">
+        |قال لها صدقتِ حدّثيني ### بما جرى بالخَبَرِ اليقينِ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="107"/>
+
+      <p n="Lion's Welcoming Inquiry to Ox">
+        الأسد إلى الثور وقرّبه وقال له متى قدمت هذه البلاد وما أقدمكها
+      </p>
+
+      <p n="Ox Recounts His Story to Lion">
+        فقصّ
+        <lb/>
+
+        عليه شتربة قصّته
+      </p>
+
+      <p n="Lion Invites Ox to Stay">
+        فقال له الأسد اصحبني والزمني فإنّي مكرمك فدعا له
+        <lb/>
+
+        الثور وأثنى عليه
+      </p>
+
+      <p n="Lion's Increasing Favor Towards Ox">
+        ثمّ إنّ الأسد قرّب شتربة وأكرمه وأنس به وائتمنه على
+        <lb/>
+
+        أسراره ولم تزده الأيّام إلّا قربًا له
+      </p>
+
+      <p n="Dimna's Jealousy of Ox's Favor">
+        فلمّا رأى دمنة أنّ الثور قد اختصّ بالأسد
+        <lb/>
+
+        دونه ودون أصحابه وأنّه قد صار صاحب رأيه وخلواته ولهوه حسده
+        <lb/>
+
+        حسدًا عظيمًا وبلغ منه غيظه كلّ مبلغ
+      </p>
+
+      <p n="Dimna Complains to Kalila">
+        فشكا ذلك إلى أخيه كليلة
+      </p>
+
+      <p n="Dimna's Lament">
+        وقال له ألا تعجب يا أخي من عجز رأيي وصنعي بنفسي فيما ينفع الأسد وأغفلت نفع
+        <lb/>
+
+        نفسي حتّى جلبت إلى الأسد ثورًا غلبني على منزلتي
+      </p>
+
+      <p n="Kalila Introduces the Ascetic's Parable">
+        قال كليلة قد أصابك
+        <lb/>
+
+        ما أصاب الناسك
+      </p>
+
+      <p n="Dimna Asks About the Ascetic">
+        قال دمنة وكيف كان ذلك
+      </p>
+
+      <p n="Fourth Subtale of Ascetic and Thief">
+        قال كليلة زعموا
+        <lb/>
+
+        أنّ ناسكًا أصاب من بعض الملوك كسوة فاخرة فبصر به سارق فطمع في
+        <lb/>
+
+        الثياب
+      </p>
+
+      <p n="The Thief Deceives the Ascetic">
+        فأتى إلى الناسك فقال له إنّي أريد أن أصحبك وأتعلّم منك وآخذ
+        <lb/>
+
+        عند
+      </p>
+
+      <p n="The Thief Gains the Ascetic's Trust">
+        فأذن له في صحبته فصحبه متشبّهًا به ورفق له في خدمته
+      </p>
+
+      <p n="The Thief Steals the Garment">
+        حتّى وثق
+        <lb/>
+
+        به أخذ الثياب فذهب بها
+      </p>
+
+      <p n="The Ascetic Pursues the Thief">
+        فلمّا فقد الناسك ثيابه علم أنّ صاحبه قد
+        <lb/>
+
+        فتوجّه في طلبه نحو مدينة من المدن
+      </p>
+
+      <p n="The Fighting Rams">
+        فمرّ في طريقه بوعلين يتناطحان
+        <lb/>
+
+        وقد سالت دماؤهما
+      </p>
+
+      <p n="The Fox and the Rams">
+        فجاء ثعلب فبلع من تلك الدماء <>
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

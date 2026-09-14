@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M486</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="6"/>
+
+      <p n="Burzoy Is Selected">
+        من رؤوس أطبّاء فارس وابنًا من أبنائها وكبرائها
+      </p>
+
+      <p n="Burzoy Meets Kisra">
+        فلمّا دخل على كسرى خرّ له ساجدًا وسلّم بسلام
+        <lb/>
+
+        الملوك فقرّبه الملك إليه وأدناه منه وأمره بالجلوس فجلس بين يديه
+      </p>
+
+      <p n="Kisra Explains Choosing Burzoy">
+        فعند ذلك أقبل عليه
+      </p>
+
+      <p n="Books Expected Benefits">
+        دون مساوئها ومعاصيها
+      </p>
+
+      <p n="Kisra Reflects On Difficulty">
+        فلمّا مخّض كسرى الرأي فيما عزم عليه قال في نفسه الأمر
+        <lb/>
+
+        جليل والمشقّة صعبة بعيدة وفيه مدربة وتكلّف من المؤونات والحال شديدة
+      </p>
+
+      <p n="Kisra Wants Kātib Or Physician">
+        ولا بدّ
+        <lb/>
+
+        لنا أن ننتخب من نرسله في ذلك ممّا يبيّن هذه الصنفين إمّا من الكتّاب وإمّا من الأطبّاء
+      </p>
+
+      <p n="Kātibs And Physicians Skills">
+        فإنّ هذين الصنفين يجتمع عندهما من جواهر الأدب وجوامع فنون العلم وكنوز
+        <lb/>
+
+        الفهم وتمام الفضيلة وكمال المروءة والتحفّظ والتحرّز والدهاء والفطنة والسياسة
+        <lb/>
+
+        والتلطّف وكتمان السرّ ومخض الرأي
+      </p>
+
+      <p n="Kisra Searches Scholar">
+        فلمّا أن تمّ عزمه ورأيه على أن يبعث من يُرجى خيره
+        <lb/>
+
+        فسأل أهل مملكته أن يبحثوا ويطلبوا له في جميع مملكته رجلًا قد حوى هذه الخصال
+      </p>
+
+      <p n="Kisra Defines Envoy">
+        وأمر أن يكون من هذين الصنفين إمّا كاتبًا نحريرًا أو طبيبًا فيلسوفًا عارفًا بلسان
+        <lb/>
+
+        فارس والهند
+      </p>
+
+      <p n="The Search For A Scholar">
+        فخرج أهل مشورته وذوو الرأي من خاصّته فبحثوا عن الرجال
+        <lb/>
+
+        والنساء
+      </p>
+
+      <p n="Burzoy Is Selected">
+        حتّى أتوا برجل شابّ جميل جميل الوجه ذو أدب وحسب وكهانة في الطبّ
+        <lb/>
+
+        يعرف بلسان الفرس والهند يُسمّى بروزيه ابن ازدهب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

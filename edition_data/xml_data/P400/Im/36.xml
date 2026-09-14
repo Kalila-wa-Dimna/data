@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="36"/>
+
+      <p n="Burglar Steals and Gets Away">
+        وغلب الرجل النعاس ووافق ذلك فراغ السارق ممّا أراد وحمل
+        <lb/>
+
+        السارق ما معه ثمّ مضى
+      </p>
+
+      <p n="Man Discovers Mishap and Laments">
+        وانتبه الرجل بعد ذلك فوجد السارق
+        <lb/>
+
+        قد مضى بمتاعه فأقبل الرجل يعاتب نفسه ويلومها وقد علم أنّه
+        <lb/>
+
+        لم ينتفع بعلمه إذ لم يستعمله
+      </p>
+
+      <p n="Knowledge Is Complete with Proper Implementation">
+        وكان يُقال إنّ العلم لا يتمّ إلّا
+        <lb/>
+
+        بالعمل
+      </p>
+
+      <p n="Knowledge Is a Tree and Action Is the Fruit">
+        فإنّ العلم هو الشجرة والعمل هو الثمرة
+      </p>
+
+      <p n="Scholar Must Act">
+        وإنّما يطلب صاحب
+        <lb/>
+
+        العلم العلم لينتفع به وإن لم يستعمل ما يعلم فليس ذلك بأفعاله
+      </p>
+
+      <p n="Man Hears about Traveller">
+        وربّ رجل لو قيل له
+      </p>
+
+      <p n="Informed Traveller Takes Risky Road">
+        إنّ رجلًا كان عارفًا بطريق مخوف
+        <lb/>
+
+        ثمّ سلكه وهو عارف به لقُضي عليه بالجهل ولعلّه إن حاسب
+        <lb/>
+
+        نفسه وجدها ترتكب أشياء وتقتحم في أمور هو أشدّ معرفة بها
+        <lb/>
+
+        وتضرّرها بسوء عاقبتهما من ذلك السالك في الطريق المخوف
+        <lb/>
+
+        الذي قد عرفه
+      </p>
+
+      <p n="Desire Impedes Judgement">
+        ومن ركب هواه ورفض ما ينبغي أن يعمل به ولم يعتدّ
+        <lb/>
+
+        بما جرّب وما مضى من عمره
+      </p>
+
+      <p n="Informed Patient Eats Bad Food">
+        كان كالمريض العالم بثقيل الطعام
+        <lb/>
+
+        وخفيفه ويدع استعمال ما هو أقرب له إلى الراحة والعافية
+      </p>
+
+      <p n="Those in the Know Have No Excuse">
+        وأقلّ الناس عذرًا في اجتناب محمود الفعال وارتكاب مذمومه
+        <lb/>
+
+        من أبصر ذلك بعد بصره وتميّزه وعرف فضل بعضه على بعض
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

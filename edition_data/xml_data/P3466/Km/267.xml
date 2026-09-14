@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="267"/>
+
+      <p n="The Donkey Ponders about Phallus">
+        فقال في نفسه هذه العصاة تصلح للفرسان والقتال
+      </p>
+
+      <p n="The Donkey Sees It As a Weapon">
+        ولكن
+        <lb/>
+
+        إيش الفائدة فيها وحدها وليس لي غيرها شيء من أنواع السلاح
+        <lb/>
+
+        والعصا وحدها لا تفي بقتال الناس ومع هذا فليس أنا ماهر
+        <lb/>
+
+        بالفروسيّة ولكن أنا على كلّ حال أنا قادر على أن أطعن بهذه
+        <lb/>
+
+        العصاة وأضرب كلّ من لا يحسن العمل بالسلاح
+      </p>
+
+      <p n="Donkey Imagines Exploits Involving a Spear">
+        وإذا كنت
+        <lb/>
+
+        قادر على هذا فيا ليت شعري إذا اتّفق لي رمح كما أشتهي فإنّي
+        <lb/>
+
+        لا أُرجع من مئة فاية فارس
+      </p>
+
+      <p n="The Donkey Wants to Escape Misery">
+        ولكن سبيلي أن أجتهد في تحصيل
+        <lb/>
+
+        الرمح فإنّي آبائي وأجدادي لو كانوا اجتهدوا في ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

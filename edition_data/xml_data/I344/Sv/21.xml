@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="21"/>
+
+      <p n="Do unto Other as to Oneself">
+        ما يحبّ لنفسه ويكره لهم ما يكره لها
+      </p>
+
+      <p n="Reader Must Heed the Instructions of the Preface">
+        فمن قرأ هذا
+        <lb/>
+
+        الكتاب فلينذر هذا الباب منه وليبدأ به فإنّه
+        <lb/>
+
+        من عرف ما فيه اكتفى به عن غيره إن شاء الله
+        <lb/>
+
+        تعالى
+      </p>
+
+      <p n="The Translator Added the Preface">
+        وأنا لمّا قرأت هذا الكتاب وحاولنا
+        <lb/>
+
+        نقله من اللسان الهنديّ إلى اللسان الفارسيّ
+        <lb/>
+
+        أحببنا أن نلحق فيه بابًا للعربيّة يستبين
+        <lb/>
+
+        فيه للمقتبس المتعلّم أمر هذا الكتاب وهو هذا
+        <lb/>
+
+        الباب الذي وصفنا إن شاء الله تعالى
+      </p>
+
+      <p n="unassigned">
+        باب بعثة الملك برزويه إلى الهند ذكروا
+        <lb/>
+
+        أنّه كان في زمن الأعاجم على عهد أنوشروان
+        <lb/>
+
+        كسرى بن فناذ الملك رجل يُقال له برزويه
+        <lb/>
+
+        وكان متطبّبًا وكان رئيس أطبّاء أهل المملكة
+        <lb/>
+
+        وكانت له من المَلك مرتبة ومنزلة ومجلس معروف
+        <lb/>
+
+        وكان مع ما كان في يديه من صناعة الطبّ
+        <lb/>
+
+        عالمًا حكيمًا فدفع يومًا إلى المَلك كتابًا أنّه يجد
+        <lb/>
+
+        في كتب الحكماء أنّ بأرض الهند جبالًا فيها أشجارًا
+        <lb/>
+
+        وأنواع من النبات إن عرفته فجمعت وخلصت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Sv</chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

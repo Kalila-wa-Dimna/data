@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="283"/>
+
+      <p n="People Fail without Mutual Trust">
+        أن تكون لا يثق بأحد
+      </p>
+
+      <p n="The Rat Promises Faithfulness">
+        ولك عندي الوفاء بما جعلت لك على
+        <lb/>
+
+        نفسي فاقبل منّي واسترسل إليّ ولا تؤخّر الثقة بي
+      </p>
+
+      <p n="The Intelligent Does Not Postpone Action">
+        فإنّ
+        <lb/>
+
+        العاقل لا يؤخّر علمه
+      </p>
+
+      <p n="The Cat Should Desire Common Rescue">
+        ولتطب نفسك ببقائي كما طابت
+        <lb/>
+
+        نفسي ببقائك
+      </p>
+
+      <p n="Sailors Depend on Ships and Vice Versa">
+        فإنّ كلّ واحد منّا ينجو بصاحبه
+        <lb/>
+
+        كالسفينة والركّاب في البحر فالسفينة تنجي الركّاب وهم
+        <lb/>
+
+        منجون السفينة
+      </p>
+
+      <p n="The Cat Puts His Trust in the Rat">
+        فلمّا سمع السنّور مقالة الجرذ عرف
+        <lb/>
+
+        أنّه صادق وسرّه وقال أرى كلامك شبيهًا بالحقّ
+        <lb/>
+
+        والصدق وأنا راغب في هذا الصلح الذي أرجو لنفسي
+        <lb/>
+
+        ولك به الخلاص ثم أشكر ما بقيت وأجزيك به أحسن
+        <lb/>
+
+        الجزاء
+      </p>
+
+      <p n="The Rat Explains the Strategy">
+        قال الجرذ إذا دنوت منك فأبدِ لابن عرس والبومة
+        <lb/>
+
+        ما يعرفان به صلحنا وقد آيسا منّا ثم أقبل على تقريض
+        <lb/>
+
+        حبائلكم
+      </p>
+
+      <p n="The Cat Fulfills His Part">
+        ثمّ دنا الجرذ من السنّور فأخذه والتزمه
+        <lb/>
+
+        وقرّبه منه
+      </p>
+
+      <p n="The Foes Leave Frustrated">
+        فلمّا عاين ابن عرس والبومة ذلك
+        <lb/>
+
+        انصرفا خائبين
+      </p>
+
+      <p n="The Rat Approaches to Cut the Rope">
+        وأخذ الجرذ في تقريض حبائل
+        <lb/>
+
+        السنّور
+      </p>
+
+      <p n="The Cat Deems the Rat's Efforts Slow">
+        قال له السنّور وما أراك جادًّا في قطع رباطي
+        <lb/>
+
+        فإذا كنت أصبت حاجتك تحوّلت كما كنت لي عليه
+        <lb/>
+
+        وتوانيت فيه
+      </p>
+
+      <p n="The Noble Must Help">
+        فليس هذا للكريم بخلق أن يتوانى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

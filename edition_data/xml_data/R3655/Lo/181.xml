@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="181"/>
+
+      <p n="unassigned">
+        أيّها القاضي لا يشتبهنّ عليك فإنّ اللصّ ليس هو سرقني وإنّ الثعلب ليس الوعلان
+        <lb/>
+
+        قتلاه وإنّ البغيّ ليس السمّ قتلها وإنّ امرأة الحجّام ليس زوجها جدع أنفها بل نحن
+        <lb/>
+
+        جميعًا فعلنا ذلك بأنفسنا
+      </p>
+
+      <p n="The Ascetic's Testimony">
+        فسأله القاضي عن التفسير ففسّر له القصّة
+      </p>
+
+      <p n="Dimna Seeks a New Plan">
+        على ما عاينها
+        <lb/>
+
+        وسمعها قال دمنة قد سمعت هذا المثل وهو شبيه بأمري ولعمري ما ضرّني أحد سوى
+        <lb/>
+
+        نفسي ولكن ما الحيلة
+      </p>
+
+      <p n="Kalila Asks for Dimna's Plan">
+        قال كليلة أخبرني أنت عن حالك ورأيك في ذلك
+      </p>
+
+      <p n="Dimna's Goal: Restoration">
+        قال
+        <lb/>
+
+        دمنة أمّا أنا فلست ألتمس اليوم أن تزداد منزلتي فوق ما كانت عليه ولكن ألتمس أن
+        <lb/>
+
+        أعود إلى منزلتي
+      </p>
+
+      <p n="The Three Considerations of the Wise">
+        فإنّ خلالًا ثلاثة العاقل حقيق بالنظر فيها والاحتيال لها
+        <lb/>
+
+        منها النظر فيما مضى من الضرّ والنفع أن يحترس من الضرر الذي أصابه فيما مضى
+        <lb/>
+
+        أن لا يعود إليه ويلتمس النفع الذي سلف ويحتال لمعاودته
+      </p>
+
+      <p n="Managing the Present">
+        ومنها النظر فيما
+        <lb/>
+
+        هو مقيم عليه من المنافع والضرر والحفظ لما ينفع والهرب من ما يضرّ
+      </p>
+
+      <p n="Anticipating the Future">
+        ومنها <>
+        <lb/>
+
+        في منتظر النفع والضرّ وطلب المرجوّ والهرب من المخوف
+      </p>
+
+      <p n="Dimna Concludes the Bull Must Die">
+        وإنّي لمّا نظرت
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="11"/>
+
+      <p n="Kisra Searches Scholar">
+        هذه الخصال
+      </p>
+
+      <p n="Kisra Defines Envoy">
+        وأمر أن يكون من هذين الصنفين إمّا كاتبًا نحريرًا أو طبيبًا
+        <lb/>
+
+        فيلسوفًا عارفًا بلسان فارس والهند
+      </p>
+
+      <p n="The Search For A Scholar">
+        فخرج أهل مشورته وذوو
+        <lb/>
+
+        الرأي من خاصّته فبحثوا عن الرجال
+      </p>
+
+      <p n="Burzoy Is Selected">
+        حتّى أتوا برجل شابّ جميل الوجه ذو أدب
+        <lb/>
+
+        وحسب وكهانة في الطبّ عارف بلسان الفرس والهند يُسمّى برزويه بن ازدهر
+        <lb/>
+
+        من رؤوس أطبّاء فارس وابنًا من أبنائها وكبرائها
+      </p>
+
+      <p n="Burzoy Meets Kisra">
+        فلمّا دخل على كسرى خرّ له
+        <lb/>
+
+        ساجدًا وسلّم بسلام الملوك فقرّبه الملك إليه وأدناه منه وأمره بالجلوس
+        <lb/>
+
+        فجلس بين يديه
+      </p>
+
+      <p n="Kisra Explains Choosing Burzoy">
+        فعند ذلك أقبل عليه الملك وقال له يا برزويه ارفع رأسك
+        <lb/>
+
+        وانظر إلى ما انتدبناك إليه فقد علمنا ما تعانيه من السياسة والاجتهاد
+        <lb/>
+
+        في العلم والأدب وحرصك على طلبته وعقلك
+      </p>
+
+      <p n="Kisra Commissions Burzoy">
+        وأنا مرسلك إلى بلاد الهند لما بلغني
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

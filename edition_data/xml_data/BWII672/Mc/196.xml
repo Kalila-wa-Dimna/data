@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="196"/>
+
+      <p n="The Punishment of Betrayal Comes Swiftly">
+        كفور
+      </p>
+
+      <p n="The Two Kinds of Friends">
+        قال الجرذ إنّ الصديق صديقان صديق طامع
+        <lb/>
+
+        وصديق مضطرّ وكلاهما يلتمس المنافع ويحترص
+        <lb/>
+
+        من الضرّ فأمّا الطامع منهما فالمسترسَل إليه في
+        <lb/>
+
+        كلّ حال
+      </p>
+
+      <p n="Forced Friendship Does Not Last">
+        وأمّا المضطرّ فله أحوال يُسترسل إليه
+        <lb/>
+
+        فيها وأخر يبقى
+      </p>
+
+      <p n="The Intelligent Trades Favors">
+        ولا يزال العاقل مرتهن معه
+        <lb/>
+
+        بعض حاجته لبعض ما بقي
+      </p>
+
+      <p n="Friendship Is Pursued For a Need">
+        وليس عليه التواصل
+        <lb/>
+
+        بعد النجاة إلّا لالتماس عاجل النفع وموجوده
+      </p>
+
+      <p n="The Rat Explains the Reasons for Self-Protection">
+        وأنا وافي لك بما جعلت لك منّي ومحترص في ذلك
+        <lb/>
+
+        أن يصيبني
+      </p>
+
+      <p n="Ill-Timed Harvest">
+        ما أصاب جاني الثمر في غير وقته
+      </p>
+
+      <p n="Everything Has Its Time">
+        فإنّ لكلّ
+        <lb/>
+
+        عمل حينًا
+      </p>
+
+      <p n="Bad Timing Brings Failure">
+        وما لم يكن في حينه فلا عاقبة له
+      </p>
+
+      <p n="The Rat Explains Not Cutting the Last Rope">
+        وأنا
+        <lb/>
+
+        قاطع حبالك لحينها غير أنّي أعرف أنّك عنّي فيها مشغول
+      </p>
+
+      <p n="The Rat Cuts All but One Rope">
+        ففعل ذلك
+      </p>
+
+      <p n="The Huntsman Approaches">
+        حتّى إذا هما أصبحا أتاهما الصيّاد
+      </p>
+
+      <p n="The Rat Resolves to Cut the Last Rope">
+        فحين
+        <lb/>
+
+        رأياه مقبلًا من بعيد قال الجرذ الآن هذا موضع
+        <lb/>
+
+        الجدّ في قطع حبالك
+      </p>
+
+      <p n="The Rat Fulfills the Pact">
+        فلم يقربهما الصيّاد حتّى فرغ
+        <lb/>
+
+        من قطع تلك الحبال على سوء ظنّ من السنّور
+      </p>
+
+      <p n="The Cat and the Rat Escape">
+        فانصرف السنّور إلى الشجرة والجرذ إلى جحره <>
+      </p>
+
+      <p n="The Cat Calls Back the Rat">
+        <> فرأى
+        <lb/>
+
+        السنّور من بعيد فكره أن يدنو منه فنادى السنّور
+        <lb/>
+
+        أيّها الصديق المحسن
+      </p>
+
+      <p n="The Cat Reminds the Rat of their Friendship">
+        ما يمنعك من الدنوّ منّي حتّى
+        <lb/>
+
+        أجازيك بأحسن الجزاء كما أفلتّني من قنّاصي هلمّ
+        <lb/>
+
+        إليّ ولا تقطع أخوّتي
+      </p>
+
+      <p n="If One Gives Up a Friend One Loses Out">
+        فإنّه من اتّخذ صديقًا ثمّ أضاع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

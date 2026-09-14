@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="199"/>
+
+      <p n="Wife Interprets This As God Punishing False Testimony">
+        ير وشهدت عليّ بالزور والباطل
+      </p>
+
+      <p n="A Liar Suffers Punishment in Here and Hereafter">
+        وإنّما ضربت هذا المثل لتعلموا
+        <lb/>
+
+        أن ليس للشاهد بالزور والناطق بالباطل إلّا العقوبة في العاجل
+        <lb/>
+
+        والآجل
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded and Court's Members Leave for the Day">
+        فكُتب ما ذكر دمنة وأُرسل بدمنة إلى السجن وانطلق عظيم
+        <lb/>
+
+        الجمع إلى منزل الملك وتفرّق سائرهم
+      </p>
+
+      <p n="The Court Hears Dimna's Arguments Seven More Days Without Reaching Verdict">
+        وحُبس دمنة
+        <lb/>
+
+        بعد ذلك سبع ليال يتكلّم بعذره ولم يقدروا أن يقرّروه بشيء من ذنبه
+      </p>
+
+      <p n="The Mother Warns the Lion of Leaving Dimna Unpunished">
+        فقالت أمّ الأسد للأسد إذ تبيّن لها جرم دمنة لئن خلّيت
+        <lb/>
+
+        سبيل دمنة مع ما ارتكب من الأمر العظيم
+      </p>
+
+      <p n="Failure to Punish Dimna will Weaken the Lion’s Authority">
+        ليجترئنّ عليك جندك
+        <lb/>
+
+        ولا تخوّف منك أحد عقوبة إن أذنب
+      </p>
+
+      <p n="Lion Orders Dimna to Be Killed">
+        فلمّا كرّرت عليه القول
+        <lb/>
+
+        أمر بدمنة أن يُقذف في حبسه ويضيّق عليه فيه حتّى يموت جوعًا
+        <lb/>
+
+        وعطشًا ففُعل ذلك به فلم يلبث أن مات
+      </p>
+
+      <p n="Commentary That Seeking Others' Harm Will Be Punished">
+        فحقّ لمن نظر في هذا
+        <lb/>
+
+        المثل أنّ من التمس منفعة نفسه بمضرّة غيره وأهلك بالنميمة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

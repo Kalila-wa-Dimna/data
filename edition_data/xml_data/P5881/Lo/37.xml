@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="37"/>
+
+      <p n="Kalila's Warning and Monkey Parable">
+        واعلم أنّ من تكلّم وتكلّف من القول والعمل شيئًا ممّا ليس بشكله أصابه ما
+        <lb/>
+
+        في ذلك ما أصاب القرد
+      </p>
+
+      <p n="Dimna's Inquiry about the Parable">
+        قال دمنة وكيف كان ذلك
+      </p>
+
+      <p n="Second Subtale of Monkey of Carpenter">
+        قال كليلة زعموا أنّ قردًا
+        <lb/>
+
+        رأى نجّارًا ينشر خشبةً وهو راكب عليها وكلّما شقّ منها ذراعًا أدخل فيها
+        <lb/>
+
+        وتدًا
+      </p>
+
+      <p n="Monkey's Misinterpretation">
+        فشبهه مثل أسوار على فرسٍ
+        <lb/>
+
+        وهو مجتهد في عمله يُدلّ عليها بصنعته ومعرفته
+      </p>
+
+      <p n="Monkey's Attempt to Imitate">
+        ثمّ إنّ النشّار قام لبعض حاجته وانطلق
+        <lb/>
+
+        القرد إليها وجعل يتكلّف من ذلك ممّا ليس من شأنه ولا من صناعته
+      </p>
+
+      <p n="Monkey's Positioning on Wood">
+        فركب الخشبة
+      </p>
+
+      <p n="Monkey's Predicament">
+        فتدلّت خصيتاه في شقّها
+      </p>
+
+      <p n="Consequences of Monkey's Actions">
+        وجعل ينزع الأوتاد منها فلمّا انتهى إلى آخرها عضّت عليهما و
+        <lb/>
+
+        عصرتهما فخرّ القرد مغشيًا عليه
+      </p>
+
+      <p n="Carpenter's Return and Punishment">
+        ثمّ إن النشّار أتاه وضربه ضربًا عنيفًا شديدًا فكان ما لقي
+        <lb/>
+
+        منه أشدّ ممّا أصابه أضعافًا كثيرة
+      </p>
+
+      <p n="Dimna's Response and Ambition">
+        قال دمنة قد فهمت ما تقول وسمعت مثلك الذي
+        <lb/>
+
+        ضربت وليس كلّ من يدنو من الملوك يقدر على صحبتهم ويفوز بقربهم وإنّما يفعل ذلك من
+        <lb/>
+
+        يفعله لبطنه فإنّ البطون تحشى بكلّ شيء
+      </p>
+
+      <p n="Superior People Approaching Kings">
+        ولكنّه يلتمس بذلك أن يسرّ الصديق ويسوء العدوّ
+        <lb/>
+
+        وإنّ أدنى الناس الذين يرضون بالقليل ويفرحون به
+      </p>
+
+      <p n="Analogy of Dog and Bone">
+        وإنّما مثلهم في ذلك كالكلب يصيب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="50"/>
+
+      <p n="The Crab Discovers the Truth">
+        من التلّ نظر إلى عظام السمك قد صار كوم عظيم
+      </p>
+
+      <p n="The Crab's Resolve">
+        فقال السرطان في نفسه إنّ العلجوم قد
+        <lb/>
+
+        غدرهنّ فأكلهنّ كلهنّ وهو يرى أن يفعل بي مثل ذلك
+      </p>
+
+      <p n="The Necessity of Fighting">
+        ثمّ إنّه فكّر وقال إذا لقي المرء عدوّه
+        <lb/>
+
+        في المواطن التي يعلم أنّه هالكًا فيها فهو حقيق أن لا يمكنّه من نفسه حتّى يقاتله القتال
+        <lb/>
+
+        الشديد
+      </p>
+
+      <p n="The Heron is Killed">
+        قال وترك السرطان يطلبه حتّى وصل إلى عنق العلجوم فعصره فوقع في الأرض
+        <lb/>
+
+        ميّتًا من ساعته ورجع إلى السمك فأخبرهنّ بذلك
+      </p>
+
+      <p n="The Moral: A Trickster's Downfall">
+        وإنّما ضربت لك هذا المثل لتعلم أنّ بعض الجهل مهلكة للمحتال
+      </p>
+
+      <p n="The Jackal's Plan">
+        ولكن التمـ انطلق
+        <lb/>
+
+        فالتمس حليّا فإذا ظفرت به فاختطفه ثمّ طر به حيث لا تفوتهم فإنّهم يطلبونك
+        <lb/>
+
+        ثمّ انحطّ إلى الأرض قليلًا وارتفع أخرى فإذا رأيت الناس يتبعونك فاطرحه
+        <lb/>
+
+        في حجر الأسود وارمي به عليه فإنّهم يقتلونه ويريحوك منه
+      </p>
+
+      <p n="The Crow Snatches the Necklace">
+        ففعل ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

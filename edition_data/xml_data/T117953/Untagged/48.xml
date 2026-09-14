@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T117953</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="48"/>
+
+      <p n="unassigned">
+        ملكي كلّها فحملت ما أحببت ولا تحتشم ولا تنقبض
+        <lb/>
+
+        من ذلك وإذا فعلت ذلك سرّني وأنت أهل
+        <lb/>
+
+        لذلك فسجد برزويه بين يدي الملك وقال أكرم
+        <lb/>
+
+        الله الملك
+        <lb/>
+
+        كرامة الدنيا والآخرة وأحسن عنّي جزاؤه وثوابه
+        <lb/>
+
+        فإنّي بحمد الله مستغن عن المال بما رزقني الله تعالى على يدك
+        <lb/>
+
+        أيها الملك السعيد الجدّ العظيم الملك ولا لي حاجة
+        <lb/>
+
+        إلى المال لما شرّفتني وأدخلتني وأقسمته أنّ ذلك يسرّك
+        <lb/>
+
+        فسأصير إلى الخزائن وآخذ منها ما أريد طلبًا
+        <lb/>
+
+        لرضاك وامتثالًا لأمرك ثمّ قصد خزائن الثيّاب
+        <lb/>
+
+        فأخذ منها ما يحبّ من طرائف خراسان مما يصلح
+        <lb/>
+
+        للباس الملوك وأراد بذلك السمعة والذكر في الناس
+        <lb/>
+
+        فلمّا قبض برزويه ما اختاره ورضيّ به من الثيّاب
+        <lb/>
+
+        قال للملك أكرم الله الملك ومدّ لنا في عمره أبد الدنيا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

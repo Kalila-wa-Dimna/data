@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="91"/>
+
+      <p n="Dimna Agrees with Judge's Rationale">
+        فقال له دمنة صدقت أيّها القاضي الصالح المشفق الناصح ونطقت بالعدل وهُديت
+        <lb/>
+
+        للصواب وقلت مقالة الحكماء ورأيت رأي العلماء
+      </p>
+
+      <p n="One Must Not Sacrifice Hereafter for Here">
+        ولعمري إنّه من سعادة المرء أن لا يبيع آخرته
+        <lb/>
+
+        بدنياه الفانية المضمحلّة فإنّ هذه الدار زائلة ومتقطّعة
+      </p>
+
+      <p n="Scholars Warn Against False Confession">
+        لكنّي ممّا قُذفت به بريء
+        <lb/>
+
+        وقد قالت العلماء إنّه من يحمل حوالىه على أن يلزم نفسه ذنبًا لم يعمله فإنّه لم يجزم ذلك إلّا
+        <lb/>
+
+        على نفسه ومصيره مع ذلك أي قتل نفسه إلى جهنّم
+      </p>
+
+      <p n="Killing Dimna Would Be Unjust">
+        وأنا أعلم أنّي بريء ممّا قُذفت به
+        <lb/>
+
+        ولُطّخت به فإن أنت قبلت في أمري كلام الأعداء والفجّار والحسّاد فإنّ ذلك لا يضرّني
+        <lb/>
+
+        يوم حكم العدل في الآخرة لأنّي أصير مع المظلومين الذين قُتلوا من غير ذنب وأُقتل أحبّ
+        <lb/>
+
+        إليّ من أن ألزم نفسي ذنبًا لم أعمله وجرمًا لم أجترمه
+      </p>
+
+      <p n="Dimna Want to Spare Court Sin and Regret in Hereafter">
+        وأنا أقول لكن أيّها الجمع اليوم
+        <lb/>
+
+        كما قلت لكم بالأمس اذكروا حساب الآخرة والعرض على الملك الديّان
+      </p>
+
+      <p n="On Judgement Day Every One Will Account for His Actions">
+        وإنّ هذا العالم
+        <lb/>
+
+        خلقوا عراة ويخرجوا عن الدنيا عراة لا ينفعهم مال ولا بنون إلّا ما عملوا من برّ أو خير
+      </p>
+
+      <p n="Everyone Should Say Only What They Know">
+        ولا يتكلّم أحدكم إلّا بما علمه فإنّ الذي يتكلّم بما لا يعلم أنّه قد علمه ثمّ يشهد عليه بالزور
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

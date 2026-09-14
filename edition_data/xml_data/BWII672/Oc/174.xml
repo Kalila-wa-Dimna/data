@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="174"/>
+
+      <p n="Escape Should Be the Recourse">
+        فقال أنا رأيي في هذا الأمر ما قاله الحكيم قال الملك وما
+        <lb/>
+
+        قال قال قال ليس للعدوّ الذي لا يُطاق إلّا الهرب
+      </p>
+
+      <p n="The Crow Kings Asks the Second Crow">
+        قال الملك للثاني ما رأيك أنت
+      </p>
+
+      <p n="Truce for a Tribute Should Be Sought">
+        قال رأيي أن نصالحهم
+        <lb/>
+
+        على خراج نؤدّيه إليهم وندفع به عن أنفسنا البلاء وفساد
+        <lb/>
+
+        الأوطان وخراب البلاد
+      </p>
+
+      <p n="The Crow King Asks the Third Crow">
+        قال الملك للثالث فما رأيك أنت
+      </p>
+
+      <p n="Recourse Is in Finding Allies and Fighting">
+        قال رأيي في ذلك القتال لهنّ والمظافرة عليهنّ وأنّنا
+        <lb/>
+
+        من الطيور نستعطف من يعيننا على محاربتهم
+      </p>
+
+      <p n="The Crow King Asks the Fourth Crow">
+        قال
+        <lb/>
+
+        الملك للرابع فما رأيك أنت
+      </p>
+
+      <p n="Recourse Is in Abandoning Home">
+        قال رأيي في ذلك الحرب
+        <lb/>
+
+        لهم والبعد عن مجاورتهم لأنّي لا أرى للصلح معهم
+        <lb/>
+
+        موضعًا ونبعد عن العدوّ ونأمن من الخضوع
+      </p>
+
+      <p n="The Crow King Asks the Fifth Crow, a Spy">
+        قال
+        <lb/>
+
+        للخامس ما عندك من الرأي
+      </p>
+
+      <p n="The Crow Should Scheme">
+        قال إذا كرهتم القتال وضعفتم عن
+        <lb/>
+
+        الجزية ليس لكم إلّا الحيلة
+      </p>
+
+      <p n="Opinion Counseling">
+        فأجمعوا رأيكم وتشاوروا
+      </p>
+
+      <p n="Advice Outweighs Armies">
+        فإنّ
+        <lb/>
+
+        الرأي الحازم يزداد بالمؤامرة والمشاورة ما لا يزداد
+        <lb/>
+
+        بالجنود وكثرة العدد
+      </p>
+
+      <p n="Spys Open Advice">
+        وكما أننّا لا نرى القتال لا نرى الخضوع
+        <lb/>
+
+        رأي صواب
+      </p>
+
+      <p n="Question On Origin Of Enemity">
+        قال الملك هل تعلم ما كان سبب عداوة
+        <lb/>
+
+        البوم لنا
+      </p>
+
+      <p n="Words Of Crow Were Cause">
+        قال نعم كلمة تكلّمها أحد الغربان
+      </p>
+
+      <p n="unassigned">
+        قال وكيف
+        <lb/>
+
+        كان ذلك قال قال زعموا أنّ جماعة من الطيور لم يكن لهم ملك
+        <lb/>
+
+        فاجتمعوا على أن يؤمّروا عليهم ملك من البوم فبينما هم كذلك
+        <lb/>
+
+        إذ قد حضرهم غراب فقال بعضهم انظروا إلى هذا الغراب نستشيره
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

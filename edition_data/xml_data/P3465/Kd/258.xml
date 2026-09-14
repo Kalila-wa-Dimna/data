@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="258"/>
+
+      <p n="King Must not Trust the Wrongfully Punished">
+        أن يصحبوا من عاقبوه أشدّ العقاب وإنّما ينبغي لهم أن يرفضوه
+      </p>
+
+      <p n="Lion Reinstates Jackal">
+        فلم
+        <lb/>
+
+        يلتفتْ الأسد إلى كلامه وأمر بابن آوى أن يُردّ إلى منزلته
+      </p>
+
+      <p n="Lion Is Pleased with Jackal">
+        ولم تزدْه
+        <lb/>
+
+        الأيّام إلّا تقرّبًا
+      </p>
+
+      <p n="End of Chapter">
+        انقضى باب الأسد وابن آوى
+      </p>
+
+      <p n="Chapter Title">
+        باب بلاد وإيلاد وابراخت
+      </p>
+
+      <p n="King Understood Previous Chapter">
+        قال ديشلم الملك لبيدنا الفيلسوف قد سمعت هذا المثل
+      </p>
+
+      <p n="King Asks How To Preserve Rule">
+        فأخبرني بأيّ
+        <lb/>
+
+        الأشياء أحقّ الملك أن يكرم نفسه ويحفظ سلطانه ويثبّت ملكه
+        <lb/>
+
+        بالحلم أم بالمروءة أم بالشجاعة أم الجود
+      </p>
+
+      <p n="Philosopher Prioritizes Ḥilm">
+        قال بيدنا إنّ أحقّ ما يحفظ الملك
+        <lb/>
+
+        مُلكه بالحلم وبه تثبت السلطنة والحلم رأس الأمر وملاكه
+        <lb/>
+
+        وأجود ما كان في الملوك
+      </p>
+
+      <p n="King And Vizier Tale">
+        كالذي زعموا أنّه كان مَلك يُدعى بلاذ وكان
+        <lb/>
+
+        له وزير يُدعى إيلاد
+      </p>
+
+      <p n="Pious Vizier">
+        وكان متعبّدًا ناسكًا
+      </p>
+
+      <p n="King Dreams">
+        فنام الملك ذات ليلة
+        <lb/>
+
+        فرأى في منامه ثمانية أحلام أفزعته فاستيقظ مرعوبًا
+      </p>
+
+      <p n="King Summons Brahmins">
+        فدعى بالبراهمة
+        <lb/>
+
+        وهم النسّاك
+      </p>
+
+      <p n="King Has Brahmins Interpret Dreams">
+        ليعبّر عليهم رؤياه فلمذا حضروا بين يديه قصّ عليهم ما رأى
+      </p>
+
+      <p n="Brahmins Dramatize Dreams">
+        فقالوا بأجمعهم لقد رأى الملك عجبًا
+      </p>
+
+      <p n="Brahmins Request Delay">
+        فإن أمهلنا سبعة أيّام جئناه
+        <lb/>
+
+        بتأويلها
+      </p>
+
+      <p n="King Grants Delay">
+        قال الملك قد أمهلتكم
+      </p>
+
+      <p n="Brahmins See Chance">
+        فخرجوا من عنده ثمّ اجتمعوا في منزل أحدهم
+        <lb/>
+
+        وائتمروا بينهم وقالوا قد وجدتم علمًا واسعًا تدركون به ثأركم وتنتقمون
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

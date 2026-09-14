@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T117953</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="40"/>
+
+      <p n="unassigned">
+        رجا فيه أن يكون قد ظفر بحاجته قد أعظم النفقة
+        <lb/>
+
+        مع طول الغيبة والتلطّف للإخوان ومجالستهم والتقاء
+        <lb/>
+
+        الثقات منهم فلم يطمئنّ إلى أحد منهم إلى ذلك الصديق
+        <lb/>
+
+        مع كثرتهم واختباره لهم فأمّا ما تكلّم به برزويه
+        <lb/>
+
+        صديقه المختار منهم وردّ عليه صديقه بعد أن
+        <lb/>
+
+        عرف عقله وخبره ووثق به واطمأنّ إليه فقال
+        <lb/>
+
+        له وهما يومان جالسان يا أخي ما أريد أن أكتمك من
+        <lb/>
+
+        أمري فوق الذي قد كتمتك فاعلم أنّي لأمر ما قدمت
+        <lb/>
+
+        بلادكم وهوّ غير الذي يظهر مني والعاقل يكتفي من الرجل
+        <lb/>
+
+        بعلامات من نظره
+        <lb/>
+
+        حتّى يفهم سرّ نفس أخيه وما يكتم قلبه عليه قال
+        <lb/>
+
+        الهنديّ إنّي إن لم أكن بدأتك وأخبرتك لما له قدمت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

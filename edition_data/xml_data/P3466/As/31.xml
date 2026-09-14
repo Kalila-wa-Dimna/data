@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="31"/>
+
+      <p n="unassigned">
+        وتصنيفه فلم يزل على ذلك يملئ وتلميذه يكتب ويغير ويرجع حتّى استقرّ
+        <lb/>
+
+        الكتاب على غاية الاتّفاق والإحكام
+      </p>
+
+      <p n="Number of Chapters and Epistles">
+        وفيه أربعة عشر بابًا
+        <lb/>
+
+        كلّ باب منها قائم بنفسه شرك فيه نفسه بالملك والجواب ليكون
+        <lb/>
+
+        له حطابًا
+      </p>
+
+      <p n="Book Title">
+        ثمّ ضمّن الأبواب كلّها كتابًا واحدًا سمّاه كتاب كليلة
+        <lb/>
+
+        ودمنة
+      </p>
+
+      <p n="Advice on Ethics and Pragmatics">
+        وجعل كلامه على ألسن البهائم والسباع والطير
+        <lb/>
+
+        ليكون ظاهره لهوًا للخواطر وباطنه رياضةً بالغة للخاصّة
+        <lb/>
+
+        وضمّنه أيضًا ما يحتاج إليه الإنسان من أمر دنياه وآخرته ومعيشته
+        <lb/>
+
+        ويخّصه على حسن طاعة الملوك ونصيحتها ومجانبته ما يكون
+        <lb/>
+
+        مجانبته خيرًا له من ذلك
+      </p>
+
+      <p n="Lo">
+        الباب الأوّل
+        <lb/>
+
+        باب الأسد والثور فيه مثل المتحابّين كيف يقطع
+        <lb/>
+
+        بينهما الكذوب الخائن ويحملهما على العداوة
+      </p>
+
+      <p n="Di">
+        الباب الثاني
+        <lb/>
+
+        باب الفحص عن أمر دمنة وهو مثل من يطلب نفع نفسه
+        <lb/>
+
+        بضرّ غيره ويُهلك البريء بالكذب والقذف
+      </p>
+
+      <p n="Rd">
+        الباب الثالث
+        <lb/>
+
+        الحمامة المطوقة وهو مثل إخوان الصفاء كيف يبدأ تواصلهم
+        <lb/>
+
+        وتعاونهم على النوائب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>As</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="176"/>
+
+      <p n="Servant Tricks Woman">
+        على ما كان يأتيها المصوّر فلمّا رأته لم ترتاب أنّه خليلها
+        <lb/>
+
+        فعدلت له نفسها فقضى غرضه منها ثمّ رجع
+      </p>
+
+      <p n="The Lover's Servant Confesses">
+        وأوفى
+        <lb/>
+
+        المصوّر المكان فسمع حديثها وأوعدها بالضرب حتّى
+        <lb/>
+
+        أخبرته بحقيقة الخبر فعمد المصوّر إلى الملائة ومزّقها
+      </p>
+
+      <p n="Dimna Opposes Acting Upon Doubt">
+        وإنّما ضربت لك هذا المثل لتعلمي أنّ الشُبهة كذبٌ
+        <lb/>
+
+        فإنّ الكذب مأثمةٌ لصاحبه
+      </p>
+
+      <p n="First Speaker Leaves Dejected/Is Silenced">
+        فلمّا سمع ذلك النمر
+        <lb/>
+
+        خرج من عند الأسد مستحيًا مفكّرًا
+      </p>
+
+      <p n="The Mother Is Amazed by Dimna's Verbosity">
+        فقالت أمّ الأسد
+        <lb/>
+
+        لقد عجبت أيّها المحتال لقدر صولتك وقبحك بالكلام
+        <lb/>
+
+        وجرأتك أيهّا المحتال
+      </p>
+
+      <p n="Dimna Calls the Mother Biased">
+        فقال دمنة لأمّ الأسد لأيّ
+        <lb/>
+
+        شيء تنظرين بعنٍ وتسمعين بأذن واحدةٍ فمع ذلك
+        <lb/>
+
+        إنّ شقاوة جدّي قد غيّر لي كلّ شيء فصاروا الناس
+        <lb/>
+
+        لا ينظرون أحيانًا في أمري بالحقّ وصار كلّ شيءٍ يدنو
+        <lb/>
+
+        من الاثنين يُنظر بالنميمة
+      </p>
+
+      <p n="The Mother Chastises Dimna's Duplicity">
+        قالت أمّ الأسد انظروا هذا
+        <lb/>
+
+        من عظمة ذنبه أن يجعل نفسه بريئًا كمن لا ذنب له
+      </p>
+
+      <p n="Dimna Enumerates 5 Duplicitous Types">
+        قال دمنة إنّ الذين يعملون غير أعمالهم خمسة الرجل
+        <lb/>
+
+        الذي يلبس لباس المرأة والمرأة التي تلبس لباس الرجل
+        <lb/>
+
+        والضيف الذي يظنّ أنّه صاحب المنزل والذي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

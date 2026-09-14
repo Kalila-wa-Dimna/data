@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M487</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="79"/>
+
+      <p n="Kisra Tells Of Mission">
+        قد استيقنه وقوّى رغبته فيه
+      </p>
+
+      <p n="Kisra Commissions Burzoy">
+        وقال له تجهّز فإنّي مسرّحك إلى أرض الهند فالطف بعقلك وحسن
+        <lb/>
+
+        أدبك لاستخراج ذلك الكتاب من خزائنهم ومن قِبل علمائهم كلامًا تامًّا
+        <lb/>
+
+        مكتوبًا بالفارسيّة تستفيده وتعيدنا إيّاه ومهما قدرت عليه أيضًا
+        <lb/>
+
+        من الكتب الذي عند أهل الهند ممّا ليس في خزائننا
+      </p>
+
+      <p n="Burzoy Given Ample Funds">
+        واحمل معك من
+        <lb/>
+
+        المال ما تريد وعجّل بذلك ولا تقصّر في طلب العلم الذي في ذلك
+        <lb/>
+
+        الكتاب فإنّ كنزه فيه المنفعة فإنّ جميع ما في خزائني مبذول لك في
+        <lb/>
+
+        طلب العلم
+      </p>
+
+      <p n="Astrologers Set Date">
+        ثمّ أمر الملك المنجّمين أن يختارون له يومًا يخرج فيه
+        <lb/>
+
+        بساعة صالحة يتقدّم إلى المسير فيها ففعلوا ذلك
+      </p>
+
+      <p n="Burzoys Stipend">
+        وخرج ومعه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

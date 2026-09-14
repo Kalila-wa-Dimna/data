@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="102"/>
+
+      <p n="The Lion Does Not Insist on Knowing His Mother's Source">
+        |وإن كتمتِ مَن به أتاكِ ### فجائزٌ ذاك إذا أرضاكِ
+      </p>
+
+      <p n="The Mother Quotes the Leopard Anonymously">
+        |فخبّرتْهُ بجميعِ ما جرى ### منه وقالتْ هكذا فما ترى
+        <lb/>
+
+        |نعمْ وما أجهدُ فضلَ الحِلمِ ### والعفوِ عن كلِّ عظيمِ الجُرمِ
+        <lb/>
+
+        |إلّا إذا ما أرهقَ النفوسا ### وخَرَقَ الحِشمةَ والناموسا
+        <lb/>
+
+        |واجْترأَتْ بفعلِهِ الرعيَّهْ ### فعظُمتْ من ذلك البليًّهْ
+      </p>
+
+      <p n="A Ruler Must Not Spare Traitors">
+        |لا ينبغي استبقاءَ ذي خِيانَهْ ### ولا كَذوبٍ ناقصِ الأَمانَهْ
+      </p>
+
+      <p n="Divulging Secrets and Shielding a Criminal Is Harmful">
+        |إنّ الفسادَ من ظهوِر السرِّ ### والهُلْكُ في استِئمانِ أهلِ الغَدْرِ
+      </p>
+
+      <p n="The Lion Is Entitled to Kill Dimna">
+        |دمنةُ عندي خائنٌ في فعلِهْ ### فاقْتُلْهُ لستَ آثِمًا في قَتْلِهْ
+      </p>
+
+      <p n="Dimna Caused the Ox's Killing">
+        |وإنّما غَشّكَ في ما ذَكَرا ### حتّى قتلتَ الثورَ خَيْرَ الوُزرا
+      </p>
+
+      <p n="The Lion Discovered Dimna's Hidden Nature">
+        |وقد عرفتَ الآن كُنْهَ أمرِهْ فجازِهِ بخَتْلِهِ ومكرِهْ
+      </p>
+
+      <p n="Punishing Dimna Brings Comfort">
+        |لتستريحَ أنتَ والجنودُ ### منهُ ويُنهى الناسُ أن يَكيدوا
+      </p>
+
+      <p n="Dimna's Crime Cannot Be Forgiven">
+        |وإن نظرتَ في ثوابِ الحُكْمِ ### فليس مثلَ دمنةَ ذو جُرْمِ
+        <lb/>
+
+        |لأنّه بالَغَ في الوقيعَهْ ### حتّى قتلتَ الثورَ بالخديعَهْ
+        <lb/>
+
+        |وربّما عادَ لمثلِ ذلكْ ### فأفسدَ الجنودَ والممالِكْ
+      </p>
+
+      <p n="The Lion Assembles the Court and Summons Dimna">
+        |وعندما انتهتْ تأكّدَ الأسدْ ### فِعالَ دمنةَ الخبيثِ فارْتَعَدْ
+        <lb/>
+
+        |وجمعَ القوّادَ والمرازِبَهْ ### ومرتعُ البغيِ وخيمُ العاقبَهْ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

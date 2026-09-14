@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>H170</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="46"/>
+
+      <p n="One Should Abide by God's Measures">
+        التقصير عن بلوغها
+      </p>
+
+      <p n="Striving for the Here and the Hereafter">
+        وقال من كان سعيه لآخرته ودنياه فحياته له وعليه
+      </p>
+
+      <p n="A Worldly Man Must Fix Three Things">
+        ويقال في يقال ثلاثة أشياء يجب على صاحب الدنيا إصلاحها ويبذل جهده
+        <lb/>
+
+        فيها منها أمر معيشته ومنها ما بينه وبين الناس ومنها التماس ما يكسبه منه
+        <lb/>
+
+        الذكر الجميل بعده
+      </p>
+
+      <p n="Three Things in a Man Engender Inefficiency">
+        وقد قِيل في أمور <> منها التواني ومنها تضيع الفرص ومنها
+        <lb/>
+
+        التصديق لكلّ مخبر
+      </p>
+
+      <p n="Many Are Credulous">
+        وربّ مخبر بشيء عقله ولا يعرف استقامته فيصدّقه
+      </p>
+
+      <p n="One Needs to Keep Desire in Check">
+        وينبغي للعاقل أن يكون لهواه متّهمًا
+      </p>
+
+      <p n="One Needs to Check the Veracity of Information">
+        ولا يقبل ذلك من كلّ أحد حديثًا ولا
+        <lb/>
+
+        يتمادى في الخطأ إذا التبس عليه أمره حتّى يتبيّن له الصواب ويستوضح الحقيقة
+      </p>
+
+      <p n="One Should Not Continue on the Wrong Path">
+        ولا يكون كالرجل الذي يجوز عن الطريق فيستمرّ على الضلال ولا يزداد في السير إلّا
+        <lb/>
+
+        جهدًا وعن القصد إلّا بعدًا
+      </p>
+
+      <p n="Man Rubs Itchy Eye and Loses It">
+        أو كالرجل الذي تقذى عينيه ولا يزال يحكّها حتّى
+        <lb/>
+
+        ربّما كان ذلك الحكّ سببًا لذهابها
+      </p>
+
+      <p n="The Intelligent Should Believe in Fate">
+        وعلى العاقل أن يصدّق بالقضاء والقدر
+        <lb/>
+
+        ويأخذ بالحزم
+      </p>
+
+      <p n="Do unto Other as to Oneself">
+        ويحبّ للناس ما يحبّ لنفسه ولا يلتمس صلاح نفسه بفساد غيره
+      </p>
+
+      <p n="A Merchant Steals from His Partner">
+        فإنّه من فعل ذلك خليقًا أن يصيبه ما أصاب التاجر من رفيقه فإنّه يقال
+        <lb/>
+
+        أنّه كان رجل تاجر وله شريك فاستأجر حانوتًا وخلّا فيه متاعهما وكان أحدهما
+        <lb/>
+
+        قريب المنزل إلى الحانوت
+      </p>
+
+      <p n="The Merchant Devises a Plot">
+        فأضمر في نفسه أن يسرق علا عدلًا من أعدال
+        <lb/>
+
+        رفيقه وفكّر في الحيلة في ذلك وقال إن أتيت ليلًا لم آمن أن أحمل عدلًا من أعدالي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

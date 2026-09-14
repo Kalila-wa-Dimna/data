@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="270"/>
+
+      <p n="Schemers Claim that Suspicions Are Confirmed">
+        حين سمعت كلامكم وقال آخر لم يخف عليّ أمره وخبثه من أوّل ما رأيته
+        <lb/>
+
+        وقد قلت مرارًا واستشهدت فلانًا أنّ هذا المخادع لا حياء له إلّا الفاحشة
+        <lb/>
+
+        والأمر العظيم
+      </p>
+
+      <p n="Schemers Find False Piety Damning">
+        وقال آخر لئن كان هذا المتألّه المتخشّع فعل هذا وكانت
+        <lb/>
+
+        هذه الخيانة إنّ هذا لمن أعجب العجب
+      </p>
+
+      <p n="Schemer Feigns Objectivity">
+        وقال آخر أنتم أهل العدل والفضل
+        <lb/>
+
+        ولا أستطيع أن أكذّبكم ىسن حقّ هذا أو باطل لو
+      </p>
+
+      <p n="Schemers Urge Quick Investigation">
+        قد أرسل الملك إلى بيت
+        <lb/>
+
+        ابن آوى مفتّش
+      </p>
+
+      <p n="Schemers Say Jackal Will Manipulate Lion">
+        قال آخر إن كان بيت ابن آوى غير مفتّش فغيبته مثبوتة
+        <lb/>
+
+        بكلّ مكان قال آخر قد علمت أنّ ابن آوى لو فُتّش منزله فاطُّلع على
+        <lb/>
+
+        جنايته لاحتال بمكره وخبثه حتّى يشبّه على الملك فيعذره ويكذب عليها الأمر
+      </p>
+
+      <p n="Schemers Incite Lion's Suspicion">
+        فلم يزالوا بمثل هذا الكلام حتّى وقع في نفس الأسد الإيهام لابن آوى
+      </p>
+
+      <p n="Lion Asks Jackal about Meat">
+        فدعا به
+        <lb/>
+
+        فقال ما صنعت باللحم الذي أمرتك أن تحتفظ به فقال دفعته إلى فلان
+        <lb/>
+
+        صاحب الطعام
+      </p>
+
+      <p n="Lion Asks Steward about Meat">
+        وكان ممّن ساعدهم على أمرهم فدعا به الأسد فسأله عن ذلك
+        <lb/>
+
+        فقال ما أعطاني شيئًا
+      </p>
+
+      <p n="Meat Is Found in Jackal's House">
+        فبعث إلى منزل ابن آوى أمينًا ففتّشوه فوجدوا ذلك
+        <lb/>
+
+        اللحم فيه فأتوا به الأسد
+      </p>
+
+      <p n="Wolf Steps In">
+        فدنا منه ذئب لم يكن يتكلّم في شيء من ذلك وكان يظهر له
+        <lb/>
+
+        أنّه من العدول الذين لا ينطقون إلّا فيما استبان لهم
+      </p>
+
+      <p n="Lion Must Punish Jackal">
+        فقال الذئب إذ قد اطّلع
+        <lb/>
+
+        الملك على جناية ابن آوى فلا يعفو عنه فإنّه إن فعل لم يظهره أحد على خيانة
+      </p>
+
+      <p n="Lion Has Jackal Arrested">
+        فأمر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

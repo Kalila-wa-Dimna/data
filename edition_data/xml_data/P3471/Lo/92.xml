@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="92"/>
+
+      <p n="The Heron Explains His Sadness">
+        كانت معيشتي من السمك
+      </p>
+
+      <p n="The Heron's Tale of Fishermen">
+        فلمّا كان اليوم رأيت صيّادين أتيا مكاننا
+        <lb/>
+
+        هذا فقال أحدهما ألا تضرب على ما فيه من السمك مرّة واحدة فقال
+        <lb/>
+
+        الآخر بل نمضي ونرجع إليهنّ ففعل ذلك
+      </p>
+
+      <p n="The Feared Consequence">
+        وأنا أعلم أنّهما لو قد فرغا
+        <lb/>
+
+        من الذي توجّها له انصرفا فلم يدعا سمكة واحدة وفي ذلك هلاكي
+        <lb/>
+
+        وانقطاع مادّتي
+      </p>
+
+      <p n="The Crab Warns the Fish">
+        قال فانطلق السرطان إلى جماعة الحيتان فأخبرهنّ
+        <lb/>
+
+        بقصّة العجلوم
+      </p>
+
+      <p n="The Fish Seek Counsel">
+        فأقبلن إليه وقلن له إنّا أتيناك لنشير عليك
+        <lb/>
+
+        بما فيه صلاح ونجاة من الهلكة وإنّ صلاحك بنا أهون علينا
+        <lb/>
+
+        من هلاكنا كلّنا فاحتل إلى خلاصنا من هذا الموضع إلى غيره فإنّ
+        <lb/>
+
+        العاقل لا يدع مماكن عدوّه إذا كان ذا رأي في الأمور التي هو أخبر
+        <lb/>
+
+        بها وليس لنا بالصيّاد من قوّة ولا طاقة فاحتل ببعض حيلك
+      </p>
+
+      <p n="A Plea for Advice">
+        فقال قد عرفت مكانًا فيه ماء كثير وعشب غزير فقلن فانقلنا إليه
+      </p>
+
+      <p n="The Heron's Deceptive Offer">
+        فقال
+        <lb/>
+
+        وما عييت أن أقدر أن أحمل منكنّ أكثر من ثلاثة قلن فليس نبالي
+      </p>
+
+      <p n="The Fish Ask for Help">
+        فكان
+        <lb/>
+
+        يأخذ منهنّ كلّ يوم ثلاثة فيأكلهنّ على تلّ من التلال
+      </p>
+
+      <p n="The Heron's Promise">
+        ثمّ إنّ
+        <lb/>
+
+        السرطان قال له إنّي قد أشفقت ممّا كنت حذّرتنا منه فانقلني
+      </p>
+
+      <p n="The Fish Agree">
+        حتّى إذا دنا من التلّ نظر فإذا عظام الحيتان فعلم أنّه أكلها
+        <lb/>
+
+        وخاف أن يفعل ذلك به
+      </p>
+
+      <p n="The Heron's Treachery">
+        فقال إذا لقي اللاقي عدوّه في المواضع
+        <lb/>
+
+        التي يعلم أنّه قادر عليه فيها فهو حقيق قاتله ولم يقاتل أن يقاتل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

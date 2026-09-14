@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="50"/>
+
+      <p n="Dimna's Offer to Investigate on the Lion's Behalf">
+        فإن شاء الملك فليبعثْني نحوه ويقيم بمكانه حتّى أرجع إليه ببيان
+      </p>
+
+      <p n="Lion's Agreement to Dimna's Proposal">
+        فوافق الأسد دمنة
+      </p>
+
+      <p n="Dimna's Departure to Investigate the Sound">
+        فانطلق إلى المكان الذي فيه شتربة
+      </p>
+
+      <p n="Lion's Regret After Dimna's Departure">
+        فلمّا ولّى دمنة
+        <lb/>
+
+        فكّر الأسد وندم على إرسال دمنة
+      </p>
+
+      <p n="Lion's Self-Doubt about Trusting Dimna">
+        وقال ما أصبت بائتمانه على ما وجّهته
+        <lb/>
+
+        إليه
+      </p>
+
+      <p n="Lion's Concerns about Suffering, Greedy and Malevolent Courtiers">
+        فإنّ الرجل الذي يحضر باب السلطان إذا كانت قد أُطيلت جفوته
+        <lb/>
+
+        غير محترم وكان قد أصابه ضيق وضرر وربّما كان يخاف العقوبة ولا يرجو الخير
+        <lb/>
+
+        فبقي الغضب في باطنه
+      </p>
+
+      <p n="Lion's Reflection on Dimna's Character and Past Treatment">
+        وإنّ دمنة ذو أدب وكمال وكان ببابي محقورًا مغفولًا
+        <lb/>
+
+        عنه
+      </p>
+
+      <p n="Lion's Fear of Dimna's Potential Betrayal">
+        وربّما حمل عليّ ضغنًا وصادف عند صاحب الصوت عزًّا وراحة
+        <lb/>
+
+        ووجده أعظم منّي شأنًا وأقوى ملكة فيرغب إلى ما عنده ويميل عليّ معه
+      </p>
+
+      <p n="Lion's Restless Contemplation">
+        ثمّ لم يزلْ الأسد يحدّث نفسه بذلك ويراجعها حتّى قام من مجلسه
+        <lb/>
+
+        فجعل يمشي وينظر إلى الطريق
+      </p>
+
+      <p n="Lion's Relief Upon Seeing Dimna Alone">
+        فرأى دمنة مقبلًا وحده فاطمأنّ ورجع
+        <lb/>
+
+        إلى مكانه
+      </p>
+
+      <p n="Dimna's Return and Lion's Inquiry">
+        فلمّا دخل دمنة على الأسد قال له ما صنعت
+      </p>
+
+      <p n="Dimna Reports Seeing a Ox">
+        قال
+        <lb/>
+
+        رأيت ثورًا وهو صاحب الصوت الذي سمعت
+      </p>
+
+      <p n="Lion Inquires about Ox's Strength">
+        قال الأسد ما حاله وكيف
+        <lb/>
+
+        قوّته
+      </p>
+
+      <p n="Dimna Downplays Ox's Power">
+        قال دمنة ليس له قوّة فإنّي حاورته محاورة الأكفّاء
+      </p>
+
+      <p n="Lion Warns against Underestimation">
+        فقال الأسد
+        <lb/>
+
+        لا يغرّك منه ذلك ولا تدعْه على ضعف منه
+      </p>
+
+      <p n="Analogy of Wind and Trees">
+        فإنّ الريح الشديدة
+        <lb/>
+
+        لا تحطم الحشيش وقد تقصف الشجر وكذلك الصيّاد إنّما يصيد بعضها
+        <lb/>
+
+        ببعض
+      </p>
+
+      <p n="Dimna Offers to Bring Ox as Servant">
+        قال دمنة لا يهابنّ الملك أمره ولا يقعْ في نفسه منه شيء
+        <lb/>
+
+        وإن شاء الملك أتيت به سامعًا مطيعًا
+      </p>
+
+      <p n="Lion's Approval of Dimna's Proposal">
+        فلمّا سمع الملك ذلك فرح به
+        <lb/>
+
+        وقال نعم فانطلق دمنة إلى الثور
+      </p>
+
+      <p n="Dimna's Confident Approach to Ox">
+        فقال له غير هائب إنّ الأسد أرسلني
+        <lb/>
+
+        إليك لآتيه بك
+      </p>
+
+      <p n="Dimna's Offer of Safety to Ox">
+        فإن أنت عجّلت الإقبال عليه ضمنت لك أن يؤمّنك
+        <lb/>
+
+        ويعفو عمّا تقدّم من ذنبك في التأخّر عنه والترك للقائه مع ما انضمّ
+        <lb/>
+
+        إلى ذلك
+      </p>
+
+      <p n="Ox's Request for Assurance">
+        وإن أنت أبطأت أسرعت الرجعة إليه وأعلمته بذلك
+      </p>
+
+      <p n="Ox Inquires about Lion's Identity">
+        فقال ومن هو الذي بعثك
+      </p>
+
+      <p n="Dimna Describes Lion as King of Beasts">
+        فقال ملك السباع
+      </p>
+
+      <p n="Ox's Fear Upon Hearing of Lion">
+        فرعب من ذلك
+      </p>
+
+      <p n="Ox's Acceptance of Dimna's Offer">
+        وقال
+        <lb/>
+
+        إن أعطيتني عهدًا أن لا أُضارّ ذهبت معك
+      </p>
+
+      <p n="Dimna Provides Assurance to Ox">
+        فأعطاه دمنة العهد
+      </p>
+
+      <p n="Dimna and Ox Approach Lion Together">
+        ثمّ
+        <lb/>
+
+        سار دمنة وشتربة يتبعه حتّى دخل على الأسد
+      </p>
+
+      <p n="Lion's Welcoming Inquiry to Ox">
+        فأحسن الأسد مسائلة
+        <lb/>
+
+        شتربة متلطّفًا به فقال له متى قدمت هذه البلاد وما نزع بك إليها
+      </p>
+
+      <p n="Ox Recounts His Story to Lion">
+        فقصّ عليه أمره
+      </p>
+
+      <p n="Lion Invites Ox to Stay">
+        فقال الزمْني فإنّي مكرمك ومحسن إليك
+      </p>
+
+      <p n="unassigned">
+        فدعا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

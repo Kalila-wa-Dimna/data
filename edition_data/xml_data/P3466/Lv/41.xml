@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="41"/>
+
+      <p n="Burzoy Came To Steal Indian Knowledge">
+        قدمت له
+      </p>
+
+      <p n="Burzoy Deserves Help">
+        فأنت أهل أن تُسعف بحاجتك وتُشفع بطلبتك
+        <lb/>
+
+        وتُعطى سؤالك
+      </p>
+
+      <p n="Friend Is Afraid">
+        ولكنّ حاجتك التي تطلب قد أذعرت نفسي
+        <lb/>
+
+        وأدخلت الخشية والفرق عليّ
+      </p>
+
+      <p n="Friends Share Everything">
+        ولكن لا شيء أفضل من المودّة
+        <lb/>
+
+        فمن خلصت مودّته كان أهلًا أن يخالطه الرجل بنفسه ولا يذّخر
+        <lb/>
+
+        عنه شيئًا ولا يكتمه سرًّا
+      </p>
+
+      <p n="Discretion Is Vital For The Educated">
+        فإنّ رأس الأدب حفظ السرّ
+      </p>
+
+      <p n="Secret Better Remain Untold">
+        فإذا كان السرّ مودوعًا عند الأمين فقد أُحرز من التضييع
+        <lb/>
+
+        مع أنّه خليق أن لا ينكتم ولا يخفى سرّ بين اثنين قد يعلمانه
+        <lb/>
+
+        وقد تفاوضاه
+      </p>
+
+      <p n="Shared Secret Spreads">
+        فإذا تكلّم بالسرّ فلا بدّ من الثالث من جهة
+        <lb/>
+
+        واحد منهما فإذا صار إلى الثلاثة فقد شاع وذاع حتّى لا
+        <lb/>
+
+        يستطيع صاحبه أن يجحده
+      </p>
+
+      <p n="Friend Is Delighted With Knowing Burzoy">
+        فأمّا أنا فقد دخلني من مودّتك وخلطتك
+        <lb/>
+
+        سرورًا لا يعدله شيء
+      </p>
+
+      <p n="Friend Fears Secret Spreads">
+        وهذا الأمر الذي تطلبه منّي أنا أعلم أنّه من
+        <lb/>
+
+        الأسرار التي لا تنكتم ولا بدّ أن يظهر ويفشو حتّى يتحدّث به الناس
+        <lb/>
+
+        في المحافل فإذا فشا فقد سعيت في هلاك نفسي
+      </p>
+
+      <p n="Indian King Is Harsh">
+        فإنّ ملكنا
+        <lb/>
+
+        يعاقب على الذنب الصغير أشدّ العقاب فإذا كان مثل
+        <lb/>
+
+        هذا الذنب العظيم الذي تحملني المودّة التي بيني وبينك فأسعفك
+        <lb/>
+
+        بحاجتك لم يردّ عقابه عنّي شيء
+      </p>
+
+      <p n="Scholars Commend Discrete Friend">
+        قال برزويه إنّ العلماء قد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

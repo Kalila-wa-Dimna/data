@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="262"/>
+
+      <p n="A Strategy Is Needed to Dispel the Fear">
+        فلم يجدوا فسبيلنا نحن أن نخرج ذلك بسبب ما
+      </p>
+
+      <p n="unassigned">
+        فات
+      </p>
+
+      <p n="Fear Spoils Life">
+        وإن كنّا في نِعم مواترة وخيرات كثيرة غير أنّا بسبب
+        <lb/>
+
+        هذا الخوف وقد صارت حياتنا بلا طعم
+      </p>
+
+      <p n="Exile Is Death">
+        وقد قالت
+        <lb/>
+
+        الحكماء إنّ من فارق بلده وولده ووطنه وزوجته واحتمل
+        <lb/>
+
+        لها أن يلتمس له موضعًا ينام ويقوم فيه وهو خائف فزع
+        <lb/>
+
+        فحياة هذا كموته ومع الأموات ينبغي أن يُعدّ في حياته
+      </p>
+
+      <p n="Two Viziers Praise the Virtues of the Rat King">
+        فلمّا فرغ الملك من هذا المثل قال له شيزع وبغداد
+        <lb/>
+
+        طوبى لنا حيث أنت رئيسنا لأنّك في غاية الفضل والعقل
+        <lb/>
+
+        ومحبّة الناس وإصابة الرأي
+      </p>
+
+      <p n="Praise for the Master Covers the Ignorant Servant">
+        وقد قيل إنّ العبد إذا كان
+        <lb/>
+
+        سيّده حكيمًا وهو جاهل فقد يناله بعض المدح بسبب
+        <lb/>
+
+        أفعال سيّده الجميلة
+      </p>
+
+      <p n="The Viziers Rely on the Wisdom of the King">
+        ونحن المتكلّمون على حكمتك
+        <lb/>
+
+        وحسن تدبيرك ونسأل الله الخيرة أن تبلغ جميع ما تريده
+        <lb/>
+
+        من هذا الأمر
+      </p>
+
+      <p n="The Viziers Are Eager to Support the King">
+        ونحن مستعدّون لأمرك فإنّه سيكون للملك
+        <lb/>
+
+        ولنا فيه أمر عظيم إلى الأبد
+      </p>
+
+      <p n="The Rats Must Work Together">
+        وسبيل جميع الجرذان نحتال
+        <lb/>
+
+        ونجدّ أن نحرص لكي نبلّغ الملك إرادته ولا سيّما هذا الأمر
+        <lb/>
+
+        فقد يجب علينا أن نطرح أنفسنا وأجسادنا طرحًا إلى أن
+        <lb/>
+
+        يتمّ له ما يريد منه
+      </p>
+
+      <p n="The Rat King Chides the Silent Vizier">
+        ولمّا فرغ الوزيران من هذا الخطاب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

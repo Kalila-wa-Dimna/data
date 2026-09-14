@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="37"/>
+
+      <p n="Kisra Most Learned King">
+        ومن العلم أجزله ومن الأمور أجزلها ما لم يبلغه ملك قطّ ممّن
+        <lb/>
+
+        قبله من الملوك
+      </p>
+
+      <p n="Kisra Hears Of K D">
+        حتّى كان فيما طلب وبحث عنه من العلم أن يبلغه
+        <lb/>
+
+        عن كتاب من كتب الهند وفلاسفتها نفيس عند ملوكهم
+        <lb/>
+
+        وعلمائهم
+      </p>
+
+      <p n="K D Book Praise">
+        هو أصل كلّ كتاب والدليل على كلّ منفعة ومعونة
+        <lb/>
+
+        للملوك على تدبير ملكهم يقال له كليلة ودمنة
+      </p>
+
+      <p n="Kisra Eager To Get K D">
+        فلمّا تيقّن
+        <lb/>
+
+        ما بلغه عن ذلك الكتاب لم يقّر ولم يطمئنّ حرصًا على
+        <lb/>
+
+        استنقاذه
+      </p>
+
+      <p n="Kisra Defines Envoy">
+        فأمر أن يُبحث له عن رجل أديب عاقل
+      </p>
+
+      <p n="Burzoy Is Selected">
+        فأُحضر له رجل
+        <lb/>
+
+        أديب معروف بصناعة الطبّ يُقال له برزويه
+      </p>
+
+      <p n="Burzoy Meets Kisra">
+        فلمّا دخل على
+        <lb/>
+
+        الملك خرّ له ساجدًا وكفّر بين يديه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

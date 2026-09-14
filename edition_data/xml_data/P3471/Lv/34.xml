@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="34"/>
+
+      <p n="Burzoy Tells Of Kisras Mission">
+        وتتأدّب به رعيّته وأنا خارج من وقتي هذا في طلبه
+      </p>
+
+      <p n="Burzoys Speech Well Received">
+        فلمّا سمع
+        <lb/>
+
+        أهل المملكة قوله فرحوا فرحًا شديدًا ودعوا للملك بطول البقاء ودوام
+        <lb/>
+
+        النعماء ولبرزويه بحسن السلامة والمعونة على ما طلب
+      </p>
+
+      <p n="Astrologers Set Date">
+        فأمر الملك
+        <lb/>
+
+        للمنجّمين فاختاروا له طالعًا سعيدًا ويومًا محمودًا ففعلوا
+      </p>
+
+      <p n="Burzoys Stipend">
+        وودّع الملك
+        <lb/>
+
+        برزويه وسار وحمل معه من المال ما يحتاج إليه
+      </p>
+
+      <p n="Burzoy Travels To India">
+        وخرج من وقته
+        <lb/>
+
+        ذلك يطوي الأرض طيًّا لا يعرّج على شيء ولا يلوي عليه
+      </p>
+
+      <p n="Burzoy Inquires About Court">
+        حتّى قدم الهند
+        <lb/>
+
+        فطاف بباب الملك وتخلّل مجالس السوقة وسأل عن أقرباء الملك
+        <lb/>
+
+        والأشراف من ملوكهم وعن علمائهم وفلاسفتهم فجعل يغشاهم في
+        <lb/>
+
+        منازلهم ويلقاهم بالتحيّة والمسألة عن حال الملك
+      </p>
+
+      <p n="Burzoy Claim Study Trip">
+        ويخبر أنّه رجل
+        <lb/>
+
+        غريب قدم بلادهم في طلب العلم والأدب وأنّه محتاج إلى معونتهم
+        <lb/>
+
+        على ما طلب من ذلك ويسألهم إرشاده إلى حاجته مع شدّة كتمانه
+        <lb/>
+
+        لما طلب
+      </p>
+
+      <p n="Burzoy Disguises Misson By Study">
+        فلم يزل بذلك زمانًا طويلًا يتأدّب بما هو به ويتعلّم منهم
+        <lb/>
+
+        ما لا يعلمه ويفتّش في السرّ عن بغيته وحاجته
+      </p>
+
+      <p n="Burzoy Mingles With Indians">
+        واتّخذ لطول
+        <lb/>
+
+        إقامته أصدقاء كثيرة من أهل الهند وأشرافهم وسوقتهم وعلمائهم
+        <lb/>
+
+        وأهل كلّ صناعة
+      </p>
+
+      <p n="Burzoy Chooses Friend">
+        وابتغى من كلّ أصدقائه واحدًا كان صاحب
+        <lb/>
+
+        سرّه ومشورته لما ظهر له من أدبه وعلمه وصحّة إخائه
+      </p>
+
+      <p n="Burzoy Hides Mission From Friend">
+        فكان
+        <lb/>
+
+        يشاوره ويستريح إليه في جميع ما يهجم عليه من الأمور إلّا أنّه يكتم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

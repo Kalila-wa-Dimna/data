@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="32"/>
+
+      <p n="The Here Is Not to Be Preferred Over the Hereafter">
+        على أخراه
+      </p>
+
+      <p n="Detachment Eases Death">
+        فإنّ من تعلّق قلبه بالغايات قلّت مسرّته عند مفا
+        <lb/>
+
+        مفارقتها
+      </p>
+
+      <p n="Two Things Suit Everyone">
+        وقد يُقال عن أمرين إنّهما يُحملان بكلّ أحد أحدهما
+        <lb/>
+
+        النسك والآخر المال
+      </p>
+
+      <p n="Two Things Do Not Suit Anyone">
+        وأمرين لا يُحملان بأحد الأوّل مشاركة الملك
+        <lb/>
+
+        في ملكه الثاني مشاركة الرجل في زوجته
+      </p>
+
+      <p n="Fire Consumes Every Log">
+        فالحالان الأوّلان مثلهما
+        <lb/>
+
+        كمثل النار التي تحرق كلّ شيء
+      </p>
+
+      <p n="Fire and Water Do Not Mix">
+        والحالتان الآخرتان مثلهما كمثل النار
+        <lb/>
+
+        والماء التي لا يمكن اجتماعهما
+      </p>
+
+      <p n="God's Blessings Arrive When Least Expected">
+        وليس ينبغي للعاقل أن يغيظ بما ساق
+        <lb/>
+
+        القدر إليه من الأمور من غير صنع منه ولا قصد لذلك وكان غير راج
+        <lb/>
+
+        له وغافلًا عنه
+      </p>
+
+      <p n="Pauper Is in Terrible Hardship">
+        ومن أمثال ذلك أنّه كان رجل به فاقة وعري
+        <lb/>
+
+        شديد فألجأه الحال إلى سؤال أصدقائه وأقاربه فلم يكن
+        <lb/>
+
+        عند أحد منهم فضل يعود به عليه
+      </p>
+
+      <p n="A Burglar Breaks Into His House">
+        فبينما هو ذات يوم في منزله
+        <lb/>
+
+        إذ أبصر سارقًا يجول في منزله فقال والله ما في منزلي شيء
+        <lb/>
+
+        ولا عليّ شيء أخاف عليه من السارق فليجهد جهده فبينما
+        <lb/>
+
+        السارق يدور في البيت إذ وقعت يده على خابية فيها حنطة
+      </p>
+
+      <p n="The Burglar Attempts to Steal the Jar's Contents">
+        فقال والله ما أحسب أن يذهب عنائي وتعبي في هذه الليلة
+        <lb/>
+
+        من غير فائدة ولعلّي أن لا أصل إلى موضع آخر ولكنّي أحمل هذه
+        <lb/>
+
+        الحنطة وأقنع بها فعمد إلى كساء كان عليه فحلّه وبسطه ليصبّ
+        <lb/>
+
+        عليه الحنطة
+      </p>
+
+      <p n="The Pauper Panics">
+        فقال صاحب البيت قد أفرغ اللصّ الحنطة ليس
+        <lb/>
+
+        لي على مثل هذا صبر يذهب هذا بقوتي فيجتمع عليّ العري والجوع
+        <lb/>
+
+        ولا يجتمعان على أحد إلّا أهلكاه
+      </p>
+
+      <p n="The Pauper Chases the Burglar Away, Keeps His Garb">
+        ثمّ صاح بالسارق ووثب
+        <lb/>
+
+        من مكانه وبيده عصا كانت عند رأسه فلم يكن للسارق
+        <lb/>
+
+        إلّا النجاة بنفسه وترك إزاره فأخذه صاحب البيت ولبسه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

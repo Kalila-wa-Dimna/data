@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="49"/>
+
+      <p n="Reader Must Decode Parables">
+        مُفصح ولا مُصرّح من الأفعال التي جعلها أمثالًا فإنّ قارئه متى
+        <lb/>
+
+        لم يفعل ذلك لم يعرف ما أراد بتلك المعاني وأيّ ثمرة يجتني
+        <lb/>
+
+        منه
+      </p>
+
+      <p n="Hasty Reader Benefits Nothing">
+        فإنّه من كان غايته استتمام قراءته إلى آخره دون معرفة
+        <lb/>
+
+        ما يقرأه منه لم يستفد منه شيئًا
+      </p>
+
+      <p n="Indiscriminate Reader Benefits Nothing">
+        ومن استكثر من جميع العلوم
+        <lb/>
+
+        وقراءة الكتب من إعمال الرويّة فيما يقرأه منها
+      </p>
+
+      <p n="Treasure Discovered">
+        فهو خليق أن لا
+        <lb/>
+
+        يصيب منها إلّا كما أصاب الرجل الذي قيل أنّه طلب علم
+      </p>
+
+      <p n="Man Acquires Yellow Folio">
+        الفصيح
+        <lb/>
+
+        فأتى صديقًا له من العلماء بالفصاحة فسأله ذلك فرسم له صديقه
+        <lb/>
+
+        فصيح الكلام وتصاريفه ووجوهه في صحيفة صفراء
+      </p>
+
+      <p n="Man Memorizes from Yellow Folio">
+        فانصرف
+        <lb/>
+
+        المتعلّم بها إلى منزله وجعل يكثر قراءتها ولا يقف على معانيها
+        <lb/>
+
+        ثمّ أنّه جلس ذات يوم في محفل من أهل الأدب وهو يظنّ أنّه
+        <lb/>
+
+        قد اكتفى بها قراءة من تلك الصحيفة
+      </p>
+
+      <p n="Man Reads from Yellow Folio and Errs">
+        فأخذ في محاورتهم فمرّت
+        <lb/>
+
+        له كلمة أخطأ فيها فردّ عليه بعضهم وقال له أخطأت فقال كيف
+        <lb/>
+
+        أخطئ وقد قرأت الصحيفة الصفراء
+      </p>
+
+      <p n="Using the Yellow Folio Proved His Ignorance">
+        فكانت قراءته لها أوجب للحجّة
+        <lb/>
+
+        عليه عند ظنّه وزاده ذلك عند الناس جهلًا وبعدًا من الأدب
+      </p>
+
+      <p n="Intelligent Readers Must Implement Knowledge">
+        ثمّ إنّ على العاقل إذا فهم هذا الكتاب وبلغ غايته أن يعمل به
+        <lb/>
+
+        لينتفع بما علم منه ويجعله مثالًا يعتبر به
+      </p>
+
+      <p n="One Should Always Seek More Knowledge">
+        فإنّه يُقال ينبغي للعاقل
+        <lb/>
+
+        أن يستكثر من العلم
+      </p>
+
+      <p n="Culture Is the Spark of Life">
+        فإنّه يجلو العقل كما تجلو النار الظلمة
+      </p>
+
+      <p n="Culture Advances One's Rank">
+        ويرفع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

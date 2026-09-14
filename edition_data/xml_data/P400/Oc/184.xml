@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="184"/>
+
+      <p n="Causes For Losing Good Fortune">
+        كان الملك ليس بعالم وكان مشاورته جهّالا فإنّه وإن ساق
+        <lb/>
+
+        القدر إليه سلطانًا أو فضلًا أو مساعدة أو ضعفة من عدوّه أو غلبة له
+        <lb/>
+
+        فإنّ ذلك يوشك أن ينقطع ويضمحلّ ويذوب حتّى كأنّه لم يكن
+      </p>
+
+      <p n="Some Matters Need Secrecy">
+        وإنّ من
+        <lb/>
+
+        القول ممّا لا باس بالإعلان به ومنه ما لا يستقيم إلّا لاحقًا له
+      </p>
+
+      <p n="Spys Open Advice">
+        ما به
+        <lb/>
+
+        أشير عليك في الجهر للقتال <>
+      </p>
+
+      <p n="Spy Advises Resolute Action">
+        <> والاستعداد له وترك الهوينا والاتّكال
+        <lb/>
+
+        والاستجداء فإنّ في ذلك العار الشديد والمجازاة الطويلة
+      </p>
+
+      <p n="Glory Of Life Over Span">
+        وإنّ المرء
+        <lb/>
+
+        العالم إذا كان عيشه في حسن ثناء وذكر وإن كان قصير العمر خير
+        <lb/>
+
+        له من طوله في عار ومخزاة
+      </p>
+
+      <p n="Spy Advises Quick Action">
+        ولا أرى <>
+      </p>
+
+      <p n="Spy Moves To Secret Advice">
+        وأمّا أنا ما أنا بقائل لك في السرّ
+        <lb/>
+
+        فإنّي لست أحبّ أن يسمعه أحد
+      </p>
+
+      <p n="Only Two Can Keep Secret">
+        فإنّ سرّ إذا جاوز اثنين ذاع وانتشر
+        <lb/>
+
+        وفشا
+      </p>
+
+      <p n="Who May Discover Secret">
+        وإنّما يأتي ذلك من قبل الملك والمشاورة والبريد والرسول
+      </p>
+
+      <p n="Guarding Secret Beneficial">
+        ومن يكتم سرّه رزق منفعته
+      </p>
+
+      <p n="Kind Needs Confidant">
+        والملك وإن كان أفضل لما يؤمر ممن
+        <lb/>
+
+        يستحدث لذلك قوّة ورأيًا
+      </p>
+
+      <p n="Advice To King Like Fuel To Fire">
+        فإنّ النار ذات ضوء وإذا صُبّ عليها
+        <lb/>
+
+        الودك ازدادت نورًا
+      </p>
+
+      <p n="Deliberations Of Good Vizier">
+        وإنّما ينبغي للوزير الصالح إذا شاور في الأرض
+        <lb/>
+
+        من أن ينظر إلى ما يزيّن الملك فإن كان في منفعة الرعيّة ونفسه واطأه
+        <lb/>
+
+        عليها وإن كان في شكّ منه أوضحه له وإن كان على يقين لفضله زاد فيه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

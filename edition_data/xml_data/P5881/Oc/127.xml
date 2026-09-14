@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="127"/>
+
+      <p n="unassigned">
+        تعطّفه ذلك على النصيحة لك فيكون ذلك دليل على عوراتهنّ ومعينًا لك على ما فيه
+        <lb/>
+
+        هلاكهنّ وتشكر استبقاءك ورحمتك له فإنّ العدوّ الذليل الذي لا شوكة له أهل أن
+        <lb/>
+
+        يُؤمّن ويُجار مع أنّ الرجل عطّفه على عدوّه الأمر اليسير
+      </p>
+
+      <p n="Mention Old Man Wife And Thief">
+        كالتاجر الذي عطف على السارق
+        <lb/>
+
+        بشيء لم يتعمّده فإنّه ذُكر لنا أنّ تاجرًا دخل بيته لصًّا فأثنى عليه لأمر ناله بموافقته
+      </p>
+
+      <p n="King O Requests Old Man Story">
+        قال ملك
+        <lb/>
+
+        البوم وكيف كان ذلك
+      </p>
+
+      <p n="Old Man Has Young Wife">
+        قال له الوزير زعموا أنّ تاجرًا مُكثرًا كانت له امرأة شابّة جميلة
+      </p>
+
+      <p n="Wife Hates Husband">
+        تبغضه وتكره جانبه فكانت تضاجعه في الليل ولا تمكنّه من التزامها وكان كلّما ضمّها تباعدت
+        <lb/>
+
+        منه
+      </p>
+
+      <p n="Thief Breaks In">
+        فبينما هما ذات ليلة إذ دخل عليهما لصّ
+        <lb/>
+
+        فاستيقظت المرأة فلمّا رأته فزعت منه
+      </p>
+
+      <p n="Wife Hugs Old Man">
+        والتزمت زوجها فاستيقظ الرجل من نومه وقال لها ليت
+        <lb/>
+
+        شعري ما الذي عطّفك عليّ ومن أين كانت لي هذه النعمة
+      </p>
+
+      <p n="Old Man Notices Thief">
+        ثمّ رفع الرجل رأسه فإذا هو
+        <lb/>
+
+        باللصّ في البيت فعلم أن خشيتها كانت منه
+      </p>
+
+      <p n="Old Man Rewards Thief">
+        فقال له الرجل أيّها اللصّ قد آتيت إليّ ما أنا
+        <lb/>
+
+        شاكرك عليه إلى الأبد لأنّك أصلحت لي من أنا محبّ وهو عنّي متباعد فخذ من متاع البيت
+        <lb/>
+
+        ما أردت كونك عطّفت عليّ من معانقتي لمن أنا أحبّه وأختار ذلك منه وهو يمتنع منّي
+      </p>
+
+      <p n="King O Asks Third Owl">
+        ثمّ قال ملك البوم للوزير الثالث ما رأيك في هذا الغراب
+      </p>
+
+      <p n="Welcome Estranged Friend Of Foe">
+        فقال له ما الرأي أن نقتله
+        <lb/>
+
+        فإنّ المرء إذا ظفر بصديق عدوّه وقد تيقّن أنّه أسخطه وعذّبه كان باستبقائه جديرًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

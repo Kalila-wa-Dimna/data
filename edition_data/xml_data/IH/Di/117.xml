@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="117"/>
+
+      <p n="One Wife Blames the Other for Being Naked">
+        |عَوْرتَها فقالتِ المكشوفَهْ ### وَهْيَ بهَتْكِ سِتْرِها معروفَهْ
+        <lb/>
+
+        |أما ترى عورتَها تبينُ ### لم يَنْهَها حياؤُها والدِّينُ
+      </p>
+
+      <p n="The Man/One Wife Tells Other Wife to Cover Herself First/Mind Her Own Nakedness">
+        |قال لها لِمْ تترُكينَ أمرَكِ ### مهلًا دَعي الشغلَ بأمرِ غيرَكِ
+        <lb/>
+
+        |فلو نظرتِ أوّلًا لذاتِكِ ### ما كنتِ عِبْتِ في السِّوى صِفاتِكِ
+      </p>
+
+      <p n="Dimna Reviles Courtier">
+        |كذاك أنتَ قد تركتَ ما فيكْ ### وعِبْتَ بالأوصافِ مَن يُدانيكْ
+        <lb/>
+
+        |فيكَ عيوبٌ لو رآها راءِ ### في ليلةٍ مظلمةٍ ليلاءِ
+        <lb/>
+
+        |لقامَ مِن منامِه مُكَدَّرا ### معجبًا ممّا رأى مُحَيَّرا
+      </p>
+
+      <p n="Dimna Protected Courtier's Secrets">
+        |فيك عيوبٌ لم أكنْ أُظهِرُها ### قبلًا ومِن مودّتي أستُرُها
+      </p>
+
+      <p n="Dimna Now Repays Courtier's Hostility">
+        |أمّا وقد قمتُ إلى عداوتي ### مُجاهرًا وناكِرًا صداقتي
+        <lb/>
+
+        |فها أنا مقتصرٌ على الذي ### أعرفُه من كلِّ مكروهٍ بَذي
+      </p>
+
+      <p n="Dimna Says Courtier Deserves Not Even the Lowest Profession">
+        |وإنّهُ فرضٌ على العارِفِ بِكْ ### أن يُطلعَ الَمْلَك على مَعائِبِكْ
+        <lb/>
+
+        |فإنّها إذا درى بها الأَسَدْ ### نفاكَ عن أمرِ الخُوانِ وطَرَدْ
+      </p>
+
+      <p n="Courtier Is Outraged">
+        |قال لهُ إذ ذلك الخنزيرُ ### بغضبٍ يا أيُّها الشرّيرُ
+        <lb/>
+
+        |ألي تقولُ هذه المقالَهْ ### مع ما بها من مُفرطِ الجهالَهْ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

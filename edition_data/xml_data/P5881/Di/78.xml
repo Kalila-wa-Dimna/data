@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="78"/>
+
+      <p n="Leopard Recalls the Lion’s Sorrow for Killing the Ox">
+        فقال سيّد الجميع وهو النمر أيّها الجمع الحاضرون من سائر الوحوش إنّكم قد علمتم أنّ الملك
+        <lb/>
+
+        من يوم قتل الثور مهمومًا مغمومًا حزينًا كئيبًا وقد صحّ عنده أنّه قتل الثور من غير ذنب ولا
+        <lb/>
+
+        جرم كان منه وكلّ ذلك بتحمّل دمنة وكذبه وفجوره وحيلته ومكره وقد أمرني الملك بحضور
+        <lb/>
+
+        القاضي ويجلسوا جميعًا في مجلس القضاء ويبحثون عن أمره وعن شأنه
+      </p>
+
+      <p n="Leopard Calls for Testimony">
+        فليقلْ صغيركم وكبيركم
+        <lb/>
+
+        ما يعلم من دمنة بحضرة جميع من حضر
+      </p>
+
+      <p n="Due Process Will Be Followed">
+        ليكون القضاء في أمره بالتثبّت واليقين ولا يُعمل في
+        <lb/>
+
+        أمره بالعجلة وقلّة النظر
+      </p>
+
+      <p n="Just Kings Do Not Act Hastily">
+        فإنّ الملوك العادلة ليس من شأنهم في أمورهم العجلة والمسابقة
+        <lb/>
+
+        في الهوى
+      </p>
+
+      <p n="Judge Calls for Testimony on Three Accounts">
+        قال القاضي تسمعوا لما يقول لكم الأمين فلا يكتم أحدكم شيئًا علمه حرزًا للتستّر عليه لثلالث خصال
+      </p>
+
+      <p n="Importance of Due Process">
+        أمّا واحدة
+        <lb/>
+
+        فإنّه لا ينبغي لكم أن تكرهوا القضاء على ما يوافقكم أو يخالفكم
+      </p>
+
+      <p n="Punishment of Crime is a Deterrent">
+        والثانية أنّ المجرم إذا نكّل به لم
+        <lb/>
+
+        يبق فيها أحد يجترئ على أشباه ذلك ما بقي تخوّفًا للعقوبة وكان في ذلك صلاح الجند
+      </p>
+
+      <p n="Eliminating Criminals Benefits Society">
+        والثالثة
+        <lb/>
+
+        إذا قتل أهل الفجور والكذب والسعاية والنميمة كان في ذلك راحة للملك وجنده لأن كون بقاءه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

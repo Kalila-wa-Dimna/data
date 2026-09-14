@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>H170</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="44"/>
+
+      <p n="Water-Spring Benefits Only Others">
+        شيء من المنفعة
+      </p>
+
+      <p n="Silk Worm Benefits Only Others">
+        وكدودة القزّ التي تحكم صنعته ولا تنتفع به
+      </p>
+
+      <p n="Instructing Oneself Comes First">
+        فقد ينبغي لمن
+        <lb/>
+
+        طلب العلم أن يبدأ بعظة نفسه ثمّ عليه بعد ذلك أن يقبسه
+      </p>
+
+      <p n="Three Things Are Needed for Worldly Life">
+        فإنّ خلالًا
+        <lb/>
+
+        يبغي لصاحب الدنيا أن يقتبسها
+      </p>
+
+      <p n="One Should Not Condemn Faults in Others One Has">
+        أن لا يعتب أحد بشيء وهو فيه
+      </p>
+
+      <p n="Reader Is Like a Blind Blaming another Blind">
+        فيكون كالأعمى
+        <lb/>
+
+        الذي يعيّر الأعمى بعماه
+      </p>
+
+      <p n="One Must Know When to Halt Pursuit">
+        وينبغي لمن طلب أمرًا ويكون له فيه غاية ونهاية يعمل بها
+        <lb/>
+
+        ويقف عندها ولا يتمادى في الطلب
+      </p>
+
+      <p n="A Pursuit without a Clear Goal Is Treacherous">
+        فإنّه يُقال من سرى إلى غير غاية فيوشك
+        <lb/>
+
+        أن تقطع به مطيّته
+      </p>
+
+      <p n="One Should Not Seek the Unattainable">
+        وأن كان حقيقًا أن لا يعين نفسه على طلب ما لا حدّ له وما
+        <lb/>
+
+        لم ينله أحد قبله لا يتأسّف عليه
+      </p>
+
+      <p n="The Here Is Not to Be Preferred Over the Hereafter">
+        ولا يكون لدنياه مؤثرًا على آخرته
+      </p>
+
+      <p n="Detachment Eases Death">
+        فإنّه من لم يعلق
+        <lb/>
+
+        قلبه بالغايات قلّت حسرته عند مفارقتها
+      </p>
+
+      <p n="Two Things Do Not Suit Anyone">
+        وقد يُقال في أمرين لا يُحملان بكلّ
+        <lb/>
+
+        أحد الملك يشارك في ملكه والرجل أن يشارك في زوجته
+      </p>
+
+      <p n="Fire Consumes Every Log">
+        فالخلّتان الأوّلتان
+        <lb/>
+
+        مثلهما مثل النار الذي تقذف كلّ حطب يقذف فيها
+      </p>
+
+      <p n="Fire and Water Do Not Mix">
+        والخلّتان الأخيرتان
+        <lb/>
+
+        كالماء والنار الذي لا يمكن اجتماعهما
+      </p>
+
+      <p n="God's Blessings Arrive When Least Expected">
+        وليس ينبغي للعاقل أن يغيظ أحدًا
+        <lb/>
+
+        إلّا ساق الله له صنيعًا وكان غير راج منه ذلك
+      </p>
+
+      <p n="Pauper Is in Terrible Hardship">
+        ومن أمثال ذلك
+        <lb/>
+
+        أنّ رجلًا كانت به فاقة وعري فألجأه ذلك إلى أن سأل أقاربه
+        <lb/>
+
+        وأصدقاءه فلم يجد عند أحدهم فضل يعود به عليه
+      </p>
+
+      <p n="A Burglar Breaks Into His House">
+        فبينما هو ذات
+        <lb/>
+
+        ليلة في منزله وإذا بسارق يجول في المنزل فقال والله ما في منزلي شيئًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

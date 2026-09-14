@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="123"/>
+
+      <p n="Judge Deems Court Members' Silent Thoughts to Be Sufficient Proof">
+        خيرًا في الحياة بين ظهراني من يراك بعد استقرار تهمتك في قلوبهم
+      </p>
+
+      <p n="Confessing Crime Has Good Consequences">
+        ولا أرى لك
+        <lb/>
+
+        شيئًا خيرًا لك من أن تقرّ بذنبك فتخرج نفسك من تبعة الآخرة بالتوبة يعود
+        <lb/>
+
+        لك أحسن القول من العامّة لخصلتين إحداهما قوّتك على المخارج
+      </p>
+
+      <p n="Death Deserved Is Better Than Life With Crime">
+        والأخرى
+        <lb/>
+
+        فإنّ الموت فيما يزين خير من الحياة فيما يشين
+      </p>
+
+      <p n="A Judge Must Not Pass Verdict Based on Uncertain Thoughts">
+        قال دمنة مجيبًا له إنّ
+        <lb/>
+
+        صالحي القضاة لا تقضي بظنّة ولا بظنون الخاصّة والعامّة لمعرفتهم بأنّ
+        <lb/>
+
+        الظنّ لا يغني من الحقّ شيئًا
+      </p>
+
+      <p n="Dimna's Knowledge of His Own Innocence Is Certainty">
+        فإن ظننتم جميعًا أنّي صاحب جرم فيما فعلت فإنّي
+        <lb/>
+
+        أعلم بنفسي منكم وعلمي بنفسي يقين لا شكّ فيه
+      </p>
+
+      <p n="Dimna's False Confession Would Take Away His Excuse, Be Unjust to His Soul, and Violate His Faith and Character">
+        وإنّما قبّح أمري في أنفسكم
+        <lb/>
+
+        ظنّكم بي أنّي سعيت بغيري فما عذري عندكم إن سعيت بنفسي كاذبًا عليها
+        <lb/>
+
+        فأسلمتها للقتل على معرفة منّي ببراءتها فنفسي أعظم النفوس عليّ حرمة وأوجبها
+        <lb/>
+
+        عليّ حقًّا ولو فعلت ذلك بأدناكم وأقصاكم لم يسعني ذلك في ديني ولم
+        <lb/>
+
+        يحسن في رأيي وخُلُقي
+      </p>
+
+      <p n="Judge's Demand of Confession Is False Counsel or Ruse Not Befitting Judges">
+        فكُفَّ عن هذه المقالة فإنّها إن كانت منك نصيحة
+        <lb/>
+
+        فقد أخطأت موضعها وإن كانت خديعة فليس الخداع ولا المكر من أخلاق
+        <lb/>
+
+        الصالحين
+      </p>
+
+      <p n="A Judge's Speech Becomes a Ruling and Sunna">
+        واعلم أنّ قولك الصواب ويخطأها أهل الباطل والأدغال
+        <lb/>
+
+        فأنا خائف عليك مقالتك هذه أعظم الوزر
+      </p>
+
+      <p n="Judge Departed from Former Virtue in Dimna's Case">
+        فإنّك لم تزل في أنفس الجند والملك
+        <lb/>
+
+        فاضلًا في رأيك عادلًا في حكمك فتغيّر ذلك منك في أمري
+      </p>
+
+      <p n="Judge Forsook Professional Knowledge and For Acting on Thoughts">
+        وأمرك أمر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

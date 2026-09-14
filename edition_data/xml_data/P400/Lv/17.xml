@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="17"/>
+
+      <p n="Burzoy Claim Study Trip">
+        على ما طلب من ذلك ويسألهم إرشاده إلى حاجته مع شدّة كتمانه
+        <lb/>
+
+        لما قدم لأجله وكنايته عنه
+      </p>
+
+      <p n="Burzoy Disguises Misson By Study">
+        ولم يزل على تلك الحالة زمنًا طويلًا يتأدّب
+        <lb/>
+
+        بما هو أعلم به ويتعلّم من العلم ما هو فيه ويكنّي عن بغيته وحاجته
+      </p>
+
+      <p n="Burzoy Mingles With Indians">
+        ثمّ إنّه لطول مكثه وإقامته اتّخذ له أصدقاء كثيرة من أهل الهند
+        <lb/>
+
+        من الحكماء والرؤساء والأشراف والسوقة وأهل المدينة
+      </p>
+
+      <p n="Burzoy Favorizes Learned Indian">
+        <>
+        <lb/>
+
+        لما اختصّه دونهم بعظم الصداقة وكان يهدي إليهم من طرائف
+        <lb/>
+
+        ما حمل معه
+      </p>
+
+      <p n="Burzoy Takes Pseudonym">
+        وكان برزويه قد غيّر اسمه وتسمّى المظفّر
+      </p>
+
+      <p n="Burzoy Chooses Friend">
+        وكان اسم ذلك
+        <lb/>
+
+        الرجل الهنديّ زويه وكان صاحب سرّه ومشورته لما ظهر له من علمه وصحّة
+        <lb/>
+
+        مودّته وفصاحة منطقه
+      </p>
+
+      <p n="Burzoy Hides Mission From Friend">
+        فكان ذلك الرجل يشاوره في جميع أموره ويستريح
+        <lb/>
+
+        إليه فيما يقضيه إلّا أنّه كان يكتمه الأمر الذي قدم هو لأجله
+      </p>
+
+      <p n="Burzoy Vets Friend">
+        فكان يبتدئه
+        <lb/>
+
+        باللطف لينظر هل يراه موضعًا لاطّلاعه على سرّه فلم يزل كذلك حتّى وثق به
+        <lb/>
+
+        وعلم أنّه استودع السرّ موضعًا وثيقًا وأنّه لما يطلب منه منجزًا وفيما سُئل
+        <lb/>
+
+        مشفّعًا وفيما استعان به مجتهدا فلمّا علم منه ذلك واستوثق به في كتمان سرّه
+      </p>
+
+      <p n="Burzoy Lavishes Gift On Friend">
+        ازداد له لطفًا وكرامة وكان قد أعظم النفقة مع طول الغيبة
+        <lb/>
+
+        إلطاف الأصدقاء ومخالطتهم على الطعام والشراب ومنادمتهم لطلب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

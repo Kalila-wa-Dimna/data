@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="50"/>
+
+      <p n="The Merchant Devises a Plot">
+        ولكنّي أعلّم علامة
+      </p>
+
+      <p n="The Merchant Executes the Plot">
+        فأخذ رداءه فألقاه على عدل من أعدال رفيقه
+        <lb/>
+
+        ثمّ انصرف إلى منزله
+      </p>
+
+      <p n="The Partner Finds the Garb">
+        وخلّف رفيقه بعده في الحانوت فلمّا أراد
+        <lb/>
+
+        الانصراف قام ليصلح أعداله فبصر رداء رفيقه على أعداله
+      </p>
+
+      <p n="The Partner Moves the Garb">
+        فقال هذا والله قد نسيه وما الرأي إلّا أن أدعه على أعداله فإذا
+        <lb/>
+
+        فإذا سبقني إلى الحانوت أخذه ثمّ ألقاه على عدل من أعداله وقفل
+        <lb/>
+
+        وانصرف
+      </p>
+
+      <p n="The Merchant Steals His Own Bale">
+        فلمّا كان بعد وقت من الليل جاء رفيقه ومعه حمّال
+        <lb/>
+
+        ففتح الحانوت والتمس الرداء فوجده على عدل فاحتمله وأخرجه
+        <lb/>
+
+        بعد عناء وتعاون هو الحمّال على حمله حتّى إذا صار به إلى منزله فرمى
+        <lb/>
+
+        بنفسه تعبًا
+      </p>
+
+      <p n="The Merchant Discovers the Error at Home">
+        فلمّا أصبح نظره فإذا هو من أعداله فندم ندامة شديدة
+        <lb/>
+
+        ثمّ أنّ رفيقه بكّر إلى الحانوت ففتحه فوجد عدلًا من أعدال رفيقه
+        <lb/>
+
+        قد فُقد
+      </p>
+
+      <p n="The Partner Fears Accusation (Monologue)">
+        فقال واشُؤْماه من رفيقي الصالح الذي ائتمنني على ماله
+        <lb/>
+
+        ما يكون حالى عنده وقد فقد بعض أعداله وليس أشكّ في تهمته إيّاه
+        <lb/>
+
+        وأنا صاحبه
+      </p>
+
+      <p n="The Partner Fears Accusation (Dialogue)">
+        <> وهو مقيم فسأله عن حاله فقال إنّي افتقدت عدلًا
+        <lb/>
+
+        من أعدالك ولا أعلم سببه
+      </p>
+
+      <p n="The Merchant Admits Treachery">
+        فقال لا تغتمّ يا أخي فإنّ الخيانة لا تؤدي
+        <lb/>
+
+        إلّا الى الأخطر وصاحبها المغرور وربّما عاد وبالها على صاحبها
+        <lb/>
+
+        فإنّي ما أجد من مكر وخدع عاد ذلك عليه
+      </p>
+
+      <p n="The Merchant Explains Events upon Request">
+        قال رفيقه وكيف كان ذلك
+        <lb/>
+
+        فأخبره بأمره وقصّ عليه قصّته
+      </p>
+
+      <p n="The Partner's Parable about the Thief">
+        فقال رفيقه ما أشبه ما نالك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

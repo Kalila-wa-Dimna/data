@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="41"/>
+
+      <p n="Kisra Opens Treasury">
+        عند ذلك أن تّفتح لبرزويه جميع خزائن الأموال والكساوي
+        <lb/>
+
+        والجواهر
+      </p>
+
+      <p n="Kisra Urges Burzoy To Take Gifts">
+        وقال له أقسمت عليك بحياة ملكك وحقّ من حضر
+        <lb/>
+
+        إلّا ما أخذت من جميع ما تجد بلا احتشام ولا تقصير فإنّك
+        <lb/>
+
+        أهل للكرامة والحياء
+      </p>
+
+      <p n="Burzoy Praises Kisra">
+        فشكر الملك وسجد له ثمّ قال أكرم الله الملك
+        <lb/>
+
+        كرامة يحسن بها عنّي جزاؤه
+      </p>
+
+      <p n="Burzoy Wants No Gift">
+        أنا بفضل إنعام الله وإنعام الملك
+        <lb/>
+
+        في جزيل من العطاء ولقد رزقت بسعادة جدّ الملك وفضله
+        <lb/>
+
+        ما لا حاجة لي معه إلى زيادة
+      </p>
+
+      <p n="Burzoy Honors Kisras Oath">
+        ولكنّي أبرّ قسم الملك وأتبع أمره
+        <lb/>
+
+        وآخذ ما أتشرّف به
+      </p>
+
+      <p n="Burzoy Takes Gift">
+        ثمّ عمد إلى خزانة الكسوة فأخذ تختًا من طراز
+        <lb/>
+
+        قوهستان ممّا يصلح للملك أراد بذلك السمعة والذكر وانصرف
+        <lb/>
+
+        ولبس تلك الثياب وافتخر بها على سائر الناس
+      </p>
+
+      <p n="Next Days Gathering">
+        فلمّا كان من
+        <lb/>
+
+        الغد أحضر مجلس الملك وهو مشحون بالناس
+      </p>
+
+      <p n="Burzoy Expresses Gratitude">
+        فقال أكرم الله
+        <lb/>
+
+        الملك إنّي قد أخذت فوق ما أستحقّه لفضل كرمه
+      </p>
+
+      <p n="Favor Merits Gratitude">
+        لأن ذو الفضل
+        <lb/>
+
+        والحلم والخلق الحسن إذ أكرم وأعطى وحيّ فينبغي له أن يشكر
+        <lb/>
+
+        ذلك وإن كان مستحقًا كقصد الغنى والمشقّة
+      </p>
+
+      <p n="Burzoys Toil Repaid By Honor">
+        وإن لم يكن ذلك
+        <lb/>
+
+        شيئًا لما لكم فيه من السرور والمنفعة
+      </p>
+
+      <p n="Burzoy Serves Kisra Gladly">
+        ولم أزل إلى اليوم متجردًا
+        <lb/>
+
+        لرضاكم أرى العسير يسيرًا والشقاق هينًا والنصب
+        <lb/>
+
+        والأذى سرورًا ولذّة
+      </p>
+
+      <p n="Burzoy Announces Request">
+        وأنا أسأل الملك الشريف أن ينصفني
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

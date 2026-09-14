@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="328"/>
+
+      <p n="King Must not Trust the Greedy and Unsatisfied">
+        أفقه
+      </p>
+
+      <p n="Kind Must not Trust the Adversarial">
+        أو كان ممّن يرى في منفعة السلطان ضرًّا وفي ضرّه له نفعًا
+      </p>
+
+      <p n="King Must Consider the Untrustworthy as Foes">
+        كلّ هؤلاء الأصناف السلطان حقيق أن لا يسترسل إليهم
+        <lb/>
+
+        ولا يثق بهم الملك ولا يستريح إليهم فإنّ كلّ هؤلاء الأصناف
+        <lb/>
+
+        حقيق أن يكونوا عليه مع عدوّه
+      </p>
+
+      <p n="Jackal Was Accused despite His Loyalty">
+        وقد صرت اليوم في بادي الرأي عرضًا
+        <lb/>
+
+        لأعداء الملك وليس ما أنا عليه للملك من النصيحة والمودّة بمانع
+        <lb/>
+
+        للملك من اتّهامي وسوء الظنّ بي لأنّي قد نُزّلت منزلة من كان قايد
+        <lb/>
+
+        عدوّ للملك وعونه على ابنه ووزيره على رأيه لما قد سبق منه
+        <lb/>
+
+        فأنا وإن كان قلبي له سليمًا على مثل الذي كان عليه فيما مضى وليس
+        <lb/>
+
+        ما أُظهر له من مودّتي ونصيحتي مراقبته منّي له من غير نيّة منّي
+        <lb/>
+
+        في ذلك
+      </p>
+
+      <p n="Jackal Expects Lion's Mistrust">
+        فلعلّه أن لا يكون يعلم ذات نفسي فلا يثق بي ولا يطمئنّ
+        <lb/>
+
+        إليّ أو يقول أن يجيبني ابن آوى بعد الذي لقي منّي من الهوان
+        <lb/>
+
+        وإنّ الذي يظهر لي ليس بحقيقة ما هو عليه وإنّما هو شيء يتصنّع
+        <lb/>
+
+        به وليس يجد من ذلك بدًّا
+      </p>
+
+      <p n="Jackal Expects Follow Up Schemes">
+        ولست مع ذلك آمنًا من عودة من مَحَل
+        <lb/>
+
+        بي عنده من أعدائي أن يحمّلوا الملك ثانية عليّ بالكذب والباطل
+        <lb/>
+
+        ويوطئوه من أمري عشوة إشفاقًا من مكافأتي لهنّ وحرصًا على أن لا
+        <lb/>
+
+        يستحقّ عنه الملك كذبهم فيما حمّلوه به عليّ
+      </p>
+
+      <p n="Jackal's Inner Struggle about Return">
+        وقد كان من إظنانه إيّاي
+        <lb/>
+
+        ما قد علمت حتّى بلغ ما بلغ فلو ذهبت أحمل على نفسي غير ما تيقّنت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

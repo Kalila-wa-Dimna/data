@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="112"/>
+
+      <p n="Desire for Noxious Food Kills the Patient">
+        |كمُدنفٍ لم يُصْغِ للطبيبِ ### فساقَهُ الداءُ إلى شَعوبِ
+      </p>
+
+      <p n="Dimna's Late Recognition of His Greed Doesn't Help">
+        |وليس بي إلّا الحياءُ والخَجَلْ ### فإنّه لا موتَ إلّا بأَجَلْ
+      </p>
+
+      <p n="Dimna Fears for Kalila">
+        |ثمّ أخافُ بَطْشَهُمْ عليكا ### وأن تدُبَّ شَقْوَتي إليكا
+        <lb/>
+
+        |وكيف لا أخشى وعَدْوى الشرِّ ### يخافُها الناسُ كعَدْوى العَرِّ
+      </p>
+
+      <p n="Kalila Will Be Forced to Betray Dimna">
+        |أخافُ أن تصدُقَ إن عُذِّبْتا ### قال له والله ما كذِبْتا
+        <lb/>
+
+        |قد قال قومٌ قبلنا مَن عُذِّبا ### لِخَبَرٍ أظهرَه وَكَذِبا
+        <lb/>
+
+        |زيادةً عليهِ خوفَ الضرِّ ### فذاك دفعُ شِرَّةٍ بشرِّ
+        <lb/>
+
+        |وها أنا منصرفٌ فإنّني ### أخافُ بعضَ القومِ أن يسمعَني
+      </p>
+
+      <p n="Kalila Advises Dimna to Confess">
+        |والرأي أن تُقِرَّ بالظُّلامَهْ ### فالقتلُ في الدنيا ولا القِيامَهْ
+      </p>
+
+      <p n="Kalila Judges Dimna's Situation Grave and Punishment Imminent">
+        |وأنتَ يا دمنةُ شيخٌ فاني ###
+      </p>
+
+      <p n="Dimna Wants to Await the Verdict">
+        قال لهُ ولَجَّ في العِصْيانِ
+        <lb/>
+
+        |ما دمتُ أسطيعُ مِطالَ الأَجَلِ ### ودفْعَهُ عنّي بلطفِ حِيَلي
+        <lb/>
+
+        |فلستُ بالمعترفِ المُقِرِّ ### لأَدْفَعَنَّ شرَّهُمْ بمَكْري
+      </p>
+
+      <p n="Kalila Goes Home">
+        |فعادَ عنه خائِفًا مِن المَلِكْ ### حيرانَ مِن بعد الذكاءِ مُرتَبِكْ
+      </p>
+
+      <p n="Prisoner Overhears Their Dialogue">
+        |وكان في السجنِ قريبًا منهُما ### فهدٌ سجينٌ سامعٌ سِرَّهُما
+        <lb/>
+
+        |فحفِظَ الحديثَ كيْ يقولا ### قولًا أكيدًا إن غدا مَسْؤولا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

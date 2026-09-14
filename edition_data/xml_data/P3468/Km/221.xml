@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3468</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="221"/>
+
+      <p n="Nature Cannot Be Fended Off">
+        مع الجنس وجه فتركه أصلح ومن قاوم ما يُتوارث في الجنس
+        <lb/>
+
+        فكلّه تعارض فيه وقد أتقن وفرغ منه وربّما أتى الأمر
+        <lb/>
+
+        إلى أحوال من العطب حتّى لا يعود الحال فيه إلى ما كان أوّلًا
+        <lb/>
+
+        وربّما عاد في رحال طويل ما أصاب الملك الذي يُحدَّث
+        <lb/>
+
+        عنه
+      </p>
+
+      <p n="The Rat King Requests the Tale of King W">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="A Kingdom with a Hole in the Mountain">
+        قال الوزير زعموا أنّه
+        <lb/>
+
+        كان على بعض نواحي النيل ملك وكان في يده بناء في جبل
+        <lb/>
+
+        شامخ كثير الأشجار والثمار والماء وكانت الوحوش وسائر
+        <lb/>
+
+        الحيوانات التي في ذلك البلد يعيشون من ذلك الجبل
+      </p>
+
+      <p n="Winds Blow through the Mountain Hole">
+        وكان في ذلك الجبل ثقب يخرج منه هواء من سبعة أجزاء
+        <lb/>
+
+        من سائر الرياح التي تهبّ بالأقاليم الثلاثة ونصف
+        <lb/>
+
+        إقليم المعالم
+      </p>
+
+      <p n="The Palace Is Near the Hole">
+        وبالقرب من ذلك الثقب بيت في غاية
+        <lb/>
+
+        حسن البناء لم يكن له نظير في العالم كلّه وكان الملك وأسلافه
+        <lb/>
+
+        من الملوك يأوون إلى ذلك البيت وكان ربّما أبادتهم
+        <lb/>
+
+        تلك الرياح وكانوا لا يقدرون على الارتحال من ذلك
+        <lb/>
+
+        المكان لحسن البناء وكثرة الثمار وحبّ الوطن
+      </p>
+
+      <p n="King W Consults with the Vizier On Wind Issue">
+        وكان
+        <lb/>
+
+        لذلك الملك وزير يشاوره في الأمور التي تعنيه فاستشاره
+        <lb/>
+
+        يومًا من الأيّام في ذلك وقال له تعلم أنّا بما قد تقدّم من
+        <lb/>
+
+        آبائنا في نِعمة مفيضة وهناءة ورغد عيش غير أنّ هذا
+        <lb/>
+
+        البيت لولا كثرة الرياح حوله لكان شبيهًا بالجنّة
+      </p>
+
+      <p n="King W Wants to Block the Hole">
+        وكان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

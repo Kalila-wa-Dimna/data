@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="154"/>
+
+      <p n="The Mother Calls In Lion's Promise to Act">
+        حين أصبحت على الأسد فقالت له يا سيّد الوحوش حوشيت أن تنسى ما قلت
+        <lb/>
+
+        بالأمس وأنّك أمرت به لوقته وأرضيت به ربّ العباد
+      </p>
+
+      <p n="Pious Acts and Curbing Sin Cannot Wait">
+        وقد قالت العلماء لا ينبغي
+        <lb/>
+
+        للإنسان أن يتوانى في الجدّ للتقوى بل ينبغي أن يدافع بذنب الأثيم
+      </p>
+
+      <p n="Lion Orders Leopard and Judge to Try Dimna">
+        فلمّا سمع الأسد
+        <lb/>
+
+        كلام أمّه أمر أن يُحضر النمر وهو صاحب القضاء فلمّا حضر قال له ولجواش
+        <lb/>
+
+        العادل اجلسا في موضع الحكم وناديا في الجند صغيرهم وكبيرهم أن يحضروا وينظروا
+        <lb/>
+
+        في حال دمنة ويبحثوا عن شأنه ويفصحوا عن ذنبه ويثبتوا قوله
+        <lb/>
+
+        وغدره في كتب القضاء ويرفعا ذلك إليه
+      </p>
+
+      <p n="Leopard and Judge Prepare the Trial">
+        فلمّا سمع النمر
+        <lb/>
+
+        وجواش العادل وكان هذا جواش عمّ الأسد قالا سمعًا لما أمر الملك
+        <lb/>
+
+        وخرجا من عنده فعملا بمقتضى ما تقدّم به إليهما حتّى إذا مضى من يوم
+        <lb/>
+
+        جلسوا فيه ثلاث ساعات أمر القاضي أن يؤتى بدمنة
+      </p>
+
+      <p n="Dimna Is Brought before Court">
+        فأتى به فأقيم
+        <lb/>
+
+        بين يديه والجماعة حضور
+      </p>
+
+      <p n="Leopard Recalls the Lion’s Sorrow for Killing the Ox">
+        فلمّا استقرّ به المكان نادى سيّد
+        <lb/>
+
+        الجمع بأعلى صوته أيّها الجمع إنّكم قد علمتم أن سيّد السباع لم يزل
+        <lb/>
+
+        منذ قتل شتربة خاسر االنفس كثير الهمّ والحزن يرى أنّه قد
+        <lb/>
+
+        قتل شتربة بغير ذنب وأنّه أخذه بكذب دمنة ونميمته وهذا
+        <lb/>
+
+        القاضي قد أمر أن يجلس مجلس القضاء ويبحث عن شأن دمنة
+      </p>
+
+      <p n="Leopard Calls for Testimony">
+        فمن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

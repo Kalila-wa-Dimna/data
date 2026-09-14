@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="43"/>
+
+      <p n="The Poisonous Reed Pipe">
+        استقلّا نومًا عمدت المرأة إلى سمّ كانت هيّأته فجعلته في قصبة لتنفخه في دبر
+        <lb/>
+
+        الرجل والطرف الآخر في فيها
+      </p>
+
+      <p n="The Plot Backfires">
+        فبدرها من قبل أن تنفخ في القصبة بريح خرج من
+        <lb/>
+
+        دبر الرجل وهي لا تعلم فطار السمّ في حلقها فوقعت ميّتة وذلك بعين الناسك
+      </p>
+
+      <p n="The Ascetic Seeks New Lodging">
+        ثمّ أصبح ذا دئبًا في طلب ذلك اللصّ
+      </p>
+
+      <p n="The Ascetic and the Shoemaker">
+        فأضافه رجل اسكاف وقال لامرأته انظري هذا
+        <lb/>
+
+        الناسك فأكرميه وأحسني القيام عليه ولا تقصّرين في أمره فإنّه دعاني بعض أصحابي
+        <lb/>
+
+        إلى دعوة
+      </p>
+
+      <p n="The Shoemaker Departs">
+        فانطلق الإسكاف
+      </p>
+
+      <p n="The Shoemaker's Adulterous Wife">
+        وقد كانت امرأته عشقت رجلًا وكان الرسول فيما
+        <lb/>
+
+        بينهم امرأة رجل حجّام
+      </p>
+
+      <p n="The Wife Summons Her Lover">
+        فأرسلت امرأة الإسكاف إلى امرأة الحجام أن يأتي خليلها
+        <lb/>
+
+        وتخبره أنّ زوجها عند أصحابه وأنّه لا يرجع إلّا سكرانًا ممسيًّا
+      </p>
+
+      <p n="The Lover Waits">
+        فأقبل الرجل عند
+        <lb/>
+
+        العشاء حتّى وقف عند الباب
+      </p>
+
+      <p n="The Shoemaker's Suspicion">
+        وانصرف الإسكاف إلى بيته وهو سكران حين
+        <lb/>
+
+        أمسى فلمّا رأى الرجل قائمًا على باب منزله وكان قد ارتاب به قبل ذلك
+      </p>
+
+      <p n="The Wife is Beaten and Tied Up">
+        غضب ودخل
+        <lb/>
+
+        البيت فأخذ امرأته فضربها ضربًا مبرحًا وأوثقها إلى سارية
+      </p>
+
+      <p n="The Go-Between's Inquiry">
+        فلمّا هدأت العيون
+        <lb/>
+
+        جاءتها امرأة الحجام فقالت قد أطال الرجل القعود على الباب فماذا ترين
+      </p>
+
+      <p n="The Wives Swap Places">
+        قالت
+        <lb/>
+
+        امرأة الإسكاف إن شئت أحسنت إليّ وحللتني وربطت نفسك مكاني حتّى أتي
+        <lb/>
+
+        خليلي وأسرع الكرّة إليك
+      </p>
+
+      <p n="The Swap is Made">
+        فحلّتها امرأة الحجام وربطت نفسها مكانها
+      </p>
+
+      <p n="The Shoemaker Wakes">
+        فاستيقظ
+        <lb/>
+
+        الإسكاف بعد مضيّها فناداها مرارًا باسمها فلم تجبه امرأة الحجام فزاده ذلك
+        <lb/>
+
+        غيظًا وغضبًا
+      </p>
+
+      <p n="The Barber's Wife is Mutilated">
+        فقام إليها بالسكّين واجتزّ أنفها وقال خذي هذا فأتحفي به خليلك
+      </p>
+
+      <p n="The Wives Swap Back">
+        فلمّا انصرفت امرأة الاسكاف وجدت امرأة الحجام مجذوعة الأنف وزوجها نائم
+        <lb/>
+
+        فحلّتها وأوثقت نفسها مكانها
+      </p>
+
+      <p n="The Mutilated Go-Between Flees">
+        وأخذت الأخرى أنفها بيدها وانطلقت إلى بيتها
+        <lb/>
+
+        خائبة وكلّ ذلك بعين الناسك
+      </p>
+
+      <p n="The Wife's Feigned Prayer">
+        ثمّ إنّ امرأة الاسكاف رفعت صوتها تدعوا ربّها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

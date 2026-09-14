@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="122"/>
+
+      <p n="Judge's Demand of Confession Is False Counsel or Ruse Not Befitting Judges">
+        |فإن يكنْ خديعةً وحيلَهْ ### تُوقعُني في وَرْطَةٍ وبيلَهْ
+        <lb/>
+
+        |فالمكرُ ليس للقضاةِ الصالحينْ ### ولا الخِداعُ مِن ِصفاتِ العادلينْ
+        <lb/>
+
+        |وإن تكنْ نصيحةً فلم تُصِبْ ### موضعَها وتَرْكُها كان يَجِبْ
+      </p>
+
+      <p n="Dimna’s False Confession Would Be Sin and Harm of Himself">
+        |هذا عَدا أنّي إذا أَقْرَرْتُ ### بباطلٍ لم آتِهِ أَثَمْتُ
+        <lb/>
+
+        |فلستُ عندَ اللهِ بالظَّنّينِ ### ولا على نفسي بالمُعينِ
+        <lb/>
+
+        |كباحثٍ عن حتفِهِ بظِلْفِهِ ### وفاقِئِ مُقلتَهُ بكَفِّهِ
+      </p>
+
+      <p n="Dimna's Fourth Subtale of the Falconer Who Falsely Accuses the Marzuban's Wife">
+        |كالبازدار في قديمِ الزَّمَنِ ### خانَ وأيُّ صاحبٍ لم يَخُنِ
+      </p>
+
+      <p n="Falconer Accosted Wife and Is Rejected">
+        |أَغْضَبَ سيّدَتُهُ فنفرتْ ### وطَرْدَهُ مِن بيتِها قد قَرَّرَتْ
+      </p>
+
+      <p n="Falconer Decides to Take Revenge">
+        |فمالَ عنها مُفكِّرًا بالشرِّ ### يبحثُ كيْ يُصيبَها بضَرِّ
+      </p>
+
+      <p n="Falconer Teaches Parrots False Accusation in Foreign Tongue">
+        |فصادَ فرخَيْ ببّغا مِن شجرَهْ ### ولم يزلْ يغذوهُما بالثمرَهْ
+        <lb/>
+
+        |وعلّمَ الفرخَيْنِ قولَ الزورِ ### وقذفَها بفاحِشٍ الفُجورِ
+        <lb/>
+
+        |تعلّما ذلكَ مِن لسانِهِ ### وكانَ بلخيًّا لدى امتحانِهِ
+      </p>
+
+      <p n="Marzuban Hosts Foreign Guests">
+        |فضافَ مولاهُ رِجالٌ فشَوَوْا ###
+      </p>
+
+      <p n="Foreign Guests Understand Parrots">
+        ونطقَ الفرخانِ هُجْرًا فوَعَوْا
+        <lb/>
+
+        |قولهُما
+      </p>
+
+      <p n="Foreigners Translate Parrots' Words, Refuse Meal in House of Sin">
+        وأظهروا في السُّكْرِ ### لصاحبِ الدارِ قبيحَ الأمرِ
+      </p>
+
+      <p n="Falconer Confirms Parrots' Accusations">
+        |فسألَ الغلامَ قال قد جرى ### ذاك وأبصرتُ عليها المُنكَرا
+        <lb/>
+
+        |لكنْ سترتُ أمرَها إشْفاقا ### عليكَ أن تَجزيَها الطَّلاقا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

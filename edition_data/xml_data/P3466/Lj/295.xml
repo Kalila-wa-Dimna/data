@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="295"/>
+
+      <p n="unassigned">
+        وشرّ البلاد ليس فيها أمن وأنّه لا أمن ولا طمأنينة لي في
+        <lb/>
+
+        جوارك ثمّ ودّع الملك وطار
+      </p>
+
+      <p n="Chapter Title">
+        باب الأسد والشعهر الصوّام
+      </p>
+
+      <p n="King Understood Previous Chapter">
+        قال ديشلم الملك لبيدنا الفيلسوف قد سمعت ما ذكرت
+      </p>
+
+      <p n="King Asks about Reconciling a Courtier">
+        فاضرب لي مثل الملوك فيما بينهم وبين قرائبهم في مراجعة من يراجعون
+        <lb/>
+
+        منهم بعد عقوبة أو جفوة عن ذنب أو غير ذنب
+      </p>
+
+      <p n="Philosopher Supports Reconciliation of a Courtier">
+        قال الفيلسوف
+        <lb/>
+
+        لو كان الملوك لا يراجعون من أصابته منهم جفوة أو عقوبة على جرم
+        <lb/>
+
+        اجترم أو ظلم ظلمه إذًا لأضرّ ذلك بالأمور والأعمال ولكنّ
+      </p>
+
+      <p n="King to Consider Value of a Suspect">
+        الملك حقيق أن ينظر في أمر من كان كذلك وما يُرجى منه وما عنده من
+        <lb/>
+
+        الغنى والمنافع
+      </p>
+
+      <p n="King to Reconcile the Reliable">
+        فمن كان يستعان به ويوثق برأيه وأمانته كان حقيقًا
+        <lb/>
+
+        بالحرص على مراجعته
+      </p>
+
+      <p n="Aides Are Essential to Rule">
+        فإنّ المُلك لا يُستطاع ضبطه إلّا بالوزراء والأعوان
+        <lb/>
+
+        ولا ينتفع بالوزراء والأعوان إلّا بالمودّة والنصيحة ولا المودّة والنصيحة إلّا مع
+        <lb/>
+
+        أصالة الرأي والعفاف وأصالة الرأي والعفاف كثيرة
+      </p>
+
+      <p n="Kings' Duties Are Many">
+        وأمور الملوك
+        <lb/>
+
+        وأعمالهم كثيرة ومن يحتاجون إليه من العمّال والأعوان كثير ومن يجمع ما
+        <lb/>
+
+        ذكرت من العفاف وأصالة الرأي قليل
+      </p>
+
+      <p n="King Must Reward and Punish">
+        وعلى الملك تعهّد العمّال وتفقّد
+        <lb/>
+
+        أمورهم حتّى لا يخفى عليه إحسان محسن ولا إساءة مسيء ثمّ عليه بعد ذلك
+        <lb/>
+
+        ألّا يترك محسنًا بغير مكافأة لإحسانه ولا مسيء بغير عقوبة بقدر جرمه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kb</chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

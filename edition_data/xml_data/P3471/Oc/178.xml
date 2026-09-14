@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="178"/>
+
+      <p n="Spys Open Advice">
+        فكما أنّي لا أرى القتال كذلك لا أرى الخضوع بالخراج والرضى
+        <lb/>
+
+        بذلّ الدهر
+      </p>
+
+      <p n="Dignity Over Life">
+        فإنّ العاقل يختار الموت كريمًا محافظًا صابرًا على النصب
+        <lb/>
+
+        للقتال
+      </p>
+
+      <p n="Spy Advises Resolute Action">
+        والاستعداد له وترك الهوينا والاتّكال والاستجداء فإنّ
+        <lb/>
+
+        ذلك هو العار الشديد والمخزاة الطويلة
+      </p>
+
+      <p n="Glory Of Life Over Span">
+        وإنّ المرء العالم الحكيم
+        <lb/>
+
+        إذا كان عيشه في حسن الثناء والذكر فهو وإن كان قصير العمر خير له
+        <lb/>
+
+        من طوله في عار وضجرات
+      </p>
+
+      <p n="Spy Advises Quick Action">
+        ولا أرى لك أن تؤخّر النظر في أمرنا ولا يكوننّ
+        <lb/>
+
+        من شأنك التواني ولا العجز ولا التفريط والتهاون والتثبيط
+      </p>
+
+      <p n="Indecision Is Impotence">
+        فإنّ التثبيط والتواني والتفريط رأس العجز وداعية إلى كلّ شرّ وعلّة
+        <lb/>
+
+        ولكلّ خلل ومكروه
+      </p>
+
+      <p n="Spy Moves To Secret Advice">
+        وأمّا ما كان أريد إسراره فسرًّا فليكن
+      </p>
+
+      <p n="Only Two Can Keep Secret">
+        فإنّ
+        <lb/>
+
+        السرّ إذا جاوز اثنين شاع وانتشر وفشا وذاع
+      </p>
+
+      <p n="Victory Requires Guarding Secrets">
+        فإنّه كان يقال
+        <lb/>
+
+        إنّما يصيب الملوك الظفر بالحزم والجزم بأصالة الرأي والرأي
+        <lb/>
+
+        بتحصين الأسرار
+      </p>
+
+      <p n="Who May Discover Secret">
+        وإنّما يُطّلع على السرّ من قبل خمسة من قِبل الملك
+        <lb/>
+
+        صاحب الرأي ومن قبل مشاوريه أو من قبل البرد والرسل المستمعين
+        <lb/>
+
+        للكلام أو من قبل الناظرين في آثار الرأي ومواقع العمل أو من التشبيه
+        <lb/>
+
+        والتظنّي
+      </p>
+
+      <p n="Guarding Secret Beneficial">
+        ومن كتم سرّه رزق منفعته
+      </p>
+
+      <p n="Two Benefits Of Guarding Secret">
+        ووصل إليه من ذلك أمران
+        <lb/>
+
+        إمّا ظَفِر بما يريد وإمّا يسلم من ضرّه وعيبه إن أخطأ ذلك وصار
+        <lb/>
+
+        إلى عين الظفر بحاجته
+      </p>
+
+      <p n="Kind Needs Confidant">
+        ولا بدّ لصاحب السرّ ومن نزلت به نائبته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

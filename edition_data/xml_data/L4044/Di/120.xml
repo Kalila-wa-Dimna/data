@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="120"/>
+
+      <p n="Bodily Marks Are Proof of Character">
+        العقل تعرفون الصالحين بسيماهم وتكتفون بالشيء اليسير من ذلك
+      </p>
+
+      <p n="Dimna’s Character is Visible in His Body">
+        وإنّ أحقّ مَن
+        <lb/>
+
+        لم يسأل عنه العامّة ولم يشكل على الخاصّة أمره لَهذا الخبيث الذي ظهرت فيه
+        <lb/>
+
+        علامات الشرّ وشامات قد مضى رأي العلماء فيها
+      </p>
+
+      <p n="Judge/Investigator/Audience Request Physiognomical Evaluation">
+        قال القاضي
+        <lb/>
+
+        وما تلك العلامات والشامات فإنّا نعرف أمرها أكثر ممّا تعرف
+      </p>
+
+      <p n="Prominent Courtier Diagnoses Dimna as Traitor">
+        قال
+        <lb/>
+
+        المتكلّم وجدنا في كتب العلماء أنّه من كان علاماته أن تكون عينه اليسرى
+        <lb/>
+
+        أصغر من عينه اليمنى وكان مع ذلك كثير اختلاج العين مائل الأنف إلى شقّه
+        <lb/>
+
+        الأيمن متباعد ما بين الحاجبين وكانت منابت شعر جسده ثلاثًا ثلاثًا وإذا
+        <lb/>
+
+        مشى كان أكثر نظرًا إلى الأرض وإذا مشى أدار رأسه حتّى يصير وجهه
+        <lb/>
+
+        خلفه فذلك مستجمع للغدر والبغي على الصالحين وهذه العلامات كلّها في
+        <lb/>
+
+        دمنة
+      </p>
+
+      <p n="Bodily Marks Are Claimed to Predict Deeds">
+        فلمّا أمضى في قوله قال دمنة إنّ حكم الله على خلقه عدل لا
+        <lb/>
+
+        جور فيه وصواب لا خطأ فيه ولو كانت هذه العلامات التي ذكرتها يُصاب
+        <lb/>
+
+        بها وبأشباهها وجه العدل لَما احتاج ولاة أهل الحقّ وحكّامهم معها
+        <lb/>
+
+        إلى البيّنات والحجج
+      </p>
+
+      <p n="Human Action Would Be Meaningless">
+        ولما كان لأحد في الإحسان حمدٌ ولا كان عليه في
+        <lb/>
+
+        الإساءة ذمٌّ لأن ليس أحد يستطيع أن يغيّر شيئًا ممّا به من العلامات التي بها
+        <lb/>
+
+        يعمل ولَما كان جزاء أهل الإحسان ولا جزاء أهل الفجور إلّا على العلامات
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

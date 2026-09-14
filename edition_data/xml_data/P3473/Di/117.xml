@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="117"/>
+
+      <p n="It is Immoral not to Report Crimes">
+        إنّ الكتمان عن أهل الريبة وترك البحث عنهم شعبةٌ من
+        <lb/>
+
+        الريبةٌ وسبيلٌ من الإساءةٌ
+      </p>
+
+      <p n="The Source Wants to Extricate Himself">
+        ولعلّ الذي طرح إليك ذلك
+        <lb/>
+
+        إنّما أراد به إخراج نفسه من الشناعة والحجّة عليه وحذر
+        <lb/>
+
+        التوقّع على ذنبه
+      </p>
+
+      <p n="The Lion Urges His Mother to Disburden Herself">
+        فانصرفي عن هذا الرأي فهو ممّا يلويك عن
+        <lb/>
+
+        الحقّ
+      </p>
+
+      <p n="The Mother Has Two Reasons for Keeping the Secret">
+        قالت أمّ الأسد قد عرفت صواب ما قلت ولكن
+        <lb/>
+
+        أعرف ما يدخل في كشف السرّ وإذاعة وحمله إليك من العيب
+        <lb/>
+
+        وإنّه يجتمع في ذلك خصلتان أحدهما مقت المسرّ إليّ
+        <lb/>
+
+        وإتراك أمري على الخيانة والسخف والأحزان
+      </p>
+
+      <p n="Mother Is Afraid to Lose People's Trust">
+        غيره لن
+        <lb/>
+
+        يثق إليّ في كتمان السرّ بعدها
+      </p>
+
+      <p n="The Lion Wants to Extricate Himself from Error">
+        قال الأسد إنّي لأعرف ما
+        <lb/>
+
+        تقولين وإنّما أحبّ المخرج لنفسي من الخطأ بإدخالك في الغدر
+      </p>
+
+      <p n="The Lion Does Not Insist on Knowing His Mother's Source">
+        فإذا كان من رأيك ألّا تخبرين بإسم المسرّ إليكي وتفشين ما
+        <lb/>
+
+        أخبرك فأطلعيني على جملته
+      </p>
+
+      <p n="The Mother Quotes the Leopard Anonymously">
+        فأخبرته أمّه بجميع الحديث
+        <lb/>
+
+        وما كان عرّفها به النمر وقالت
+      </p>
+
+      <p n="Divulging Secrets Is a Punishable Sin">
+        إنّي لم أجهل قول العلماء في
+        <lb/>
+
+        تعظيم العقوبة ودخول العار عليّ في إذاعته الأسرار وما في
+        <lb/>
+
+        ذلك من الإثم
+      </p>
+
+      <p n="The Lion Assembles the Court and Summons Dimna">
+        فلمّا فرغت أمّ الأسد من كلامها أمر الأسد
+        <lb/>
+
+        بدمنة فدخل عليه
+      </p>
+
+      <p n="Dimna Inquires About the Lion's Dejection">
+        فلمّا وقف بين يديه ورأى حاله
+        <lb/>
+
+        وجلساءه أيقن بالشرّ والتفت إلى بعض أصحابه فقال
+        <lb/>
+
+        له سرًّا خفيًّا هل حدث أمرٌ قد أحزن الملك وما سبب هذا
+        <lb/>
+
+        الجمع
+      </p>
+
+      <p n="The Mother Declares Dimna Responsible">
+        فأجابته أمّ الأسد نعم قد أحزن الملك إبقاؤك حيًّا
+        <lb/>
+
+        طرفة عينٍ
+      </p>
+
+      <p n="Good People Suffer Misfortune Fastest">
+        فأجابها دمنة قائلًا ما ترك الأوّل للآخر مقالًا
+        <lb/>
+
+        في شيءٍ من معاريض الأمور فإنّه يُقال أشدّ الناس في توقّي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

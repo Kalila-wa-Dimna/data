@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="89"/>
+
+      <p n="Dimna Sees Lion's Fear">
+        وعلم دمنة منه ذلك
+      </p>
+
+      <p n="Lion's Explanation of His Immobility">
+        فقال الأسد هذا الصوت هذا الصوت
+        <lb/>
+
+        الذي أسمع
+      </p>
+
+      <p n="Lion's Speculation About the Source's Size">
+        لا أدري ما هو غير أنّه خليق أن تكون الجثّة على قدر
+        <lb/>
+
+        الصوت والشدّة على قدر الجثّة
+      </p>
+
+      <p n="Lion's Concern About Territorial Safety">
+        فإن كان ذلك كذلك فليس
+        <lb/>
+
+        مكاننا هذا بمكان
+      </p>
+
+      <p n="Dimna's Inquiry About Additional Observations">
+        قال دمنة هل راب الملك شيء غير هذا
+        <lb/>
+
+        الصوت
+      </p>
+
+      <p n="Lion's Response to Dimna's Question">
+        قال الأسد لم يربْني غير هذا الصوت
+      </p>
+
+      <p n="Dimna's Advice Against Abandoning Territory">
+        قال دمنة فليس
+        <lb/>
+
+        الملك حقيقًا أن يدع مكانه لأجل هذا الصوت فإنّ السكر الضعيف
+        <lb/>
+
+        آفته الماء والشرف آفته الصلف والمروءة آفتها النميمة والقلب
+        <lb/>
+
+        الضعيف آفته الصوت الشديد
+      </p>
+
+      <p n="Proverb About Not Fearing All Sounds">
+        وفي بعض الأمثال أنّه ليس كلّ
+        <lb/>
+
+        الأصوات بأهل أن تُهاب
+      </p>
+
+      <p n="Lion's Question About Fearless Sounds">
+        قال الأسد وكيف كان
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="Third Subtale of Fox and Drum">
+        قال دمنة زعموا أنّ ثعلبًا جائعًا أتى على أجمة فيها
+        <lb/>
+
+        طبل ملقى إلى جانب شجرة وكلّما هبّت الريح قرعت قضبان
+        <lb/>
+
+        الشجرة ذلك الطبل فيصوّت صوتًا شديدًا هائلًا
+      </p>
+
+      <p n="Fox's Approach to the Loud Sound">
+        فسمع الثعلب ذلك الصوت فتوجّه نحوه فلمّا رآه ضخمًا
+        <lb/>
+
+        ذات صوت شديد أيقن في نفسه بكثرة الشحم
+        <lb/>
+
+        فعالجه أشدّ العلاج حتّى شقّه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

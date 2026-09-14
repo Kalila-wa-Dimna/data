@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="183"/>
+
+      <p n="Queens Advice Saved King">
+        أشارت عليّ بالخير من الرأي فقبلته وأصبت به الخير
+        <lb/>
+
+        والنجاح وأصلح ذلك مملكتي وقوّتي
+      </p>
+
+      <p n="Gift To Be Distributed To All Victims">
+        ثمّ أنّ المَلك دعا جوير
+        <lb/>
+
+        وإياذ وكمال الكاتب ثمّ قال لا ينبغي أن تدخل هذه
+        <lb/>
+
+        الهدايا إلى خزانتي ولكن أقسّمها بينكم أيّها الثقات الذي
+        <lb/>
+
+        طبتم أنفسًا على الموت من أجلي
+      </p>
+
+      <p n="Queen Is Especially Deserving">
+        ولا سيّما إبرخت التي أشارت
+        <lb/>
+
+        عليّ فأعقب مشورتها ما ترون
+      </p>
+
+      <p n="Subjects Dont Expect Reward">
+        فقال إيلاذ إنّه لا ينبغى
+        <lb/>
+
+        لنا معاشر العبيد أن نعجب بما كان منّا في ذلك
+      </p>
+
+      <p n="Subjects Must Sacrifice For King">
+        لا ينبغى لكلّ أحد
+        <lb/>
+
+        منّا يسلّم نفسه للموت دون مَلكه وإنّه متى لم تطب
+        <lb/>
+
+        تطب نفسه بذلك فما وافاه مَلكه حقّه وليس ذلك بإنسان
+        <lb/>
+
+        كامل
+      </p>
+
+      <p n="Vizier Rejects Gift">
+        وأمّا هذه العطيّة فلا ينبغي لنا معاشر العبيد أن
+        <lb/>
+
+        نتقاسمها ولا نطمع فيها فأمّا أمّ جزبر وولدها فإنّ ذلك
+        <lb/>
+
+        لهما بوجه حقٍِّ فلياخذ منهما ما يرى المَلك
+      </p>
+
+      <p n="King Instists Giving Gift">
+        قال المَلك لا
+        <lb/>
+
+        تحملوا الأمر في ذلك على ضدّ ما في نفسي ففى قبول قولي
+        <lb/>
+
+        خيرًا كثيرًا وخذ نصيبك يا إيلاذ تقرّ به عينك
+      </p>
+
+      <p n="Vizier Accepts Gift">
+        فقال
+        <lb/>
+
+        إيلاذ فليكن ما أحبّ المَلك لكن أرى أن يبدأ المَلك
+        <lb/>
+
+        بأخذ ما يختار ثمّ يبدأ بالنساء ويتبع بعد ذلك بمن أراد
+      </p>
+
+      <p n="Men Receive Their Gifts">
+        فأخذ الملَك الفيل الأبيض وأعطى كمالًا الفرس وبعث إلى
+        <lb/>
+
+        الحكيم كىاراىرون ما يصلح له من تحف الملوك وأمر
+      </p>
+
+      <p n="Queen Shall Choose Gift">
+        المَلك
+        <lb/>
+
+        أن تُحمل باقي الهدايا إلى مجلس النساء فحُمل وأُحضر إبرخت
+        <lb/>
+
+        وأمّ جوبر فجلسا بين يديه ثمّ خيّر إبرخت بين الإكليل والكسوة
+        <lb/>
+
+        لتأخذ أيّهما شاءت
+      </p>
+
+      <p n="Hesitating Queen Looks At Vizier">
+        فنظرت إلى إيلاد مسارقة كالمستشيرة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

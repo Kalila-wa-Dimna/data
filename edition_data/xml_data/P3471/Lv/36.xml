@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="36"/>
+
+      <p n="Friend Shuns Confrontation">
+        مُخف
+      </p>
+
+      <p n="Friend Infers Burzoys Secret">
+        فأمّا إذا فتحت الكلام فإنّ مخبرك عن نفسك وسرّك
+        <lb/>
+
+        ومعلمك ما حاجتك الذي قدمت لها
+      </p>
+
+      <p n="Friend Guesses Burzoys Mission">
+        وأنّك قد قدمت لتسلبنا كنوز علومنا
+        <lb/>
+
+        النفيسة فتذهب بها إلى بلادك تسرّ بها ملكك فكان قدومك بالمكر
+        <lb/>
+
+        ومصادقتك بالخديعة
+      </p>
+
+      <p n="Friend Stays Devoted To Burzoy">
+        ولكنّي لمّا رأيت برّك ومواظبتك على طلب
+        <lb/>
+
+        حاجتك والتحفّظ من سقط الكلام مع طول مكثك عندنا بشيء تستدلّ
+        <lb/>
+
+        به على سرّ أمرك ازددْت رغبة في إخائك وعقلك وأحببت
+        <lb/>
+
+        مؤاخاتك
+      </p>
+
+      <p n="Friend Distinguishes Burzoy">
+        فلمّ أر من الرجال رجلًا هو أرضى عقلًا منك ولا أحسن
+        <lb/>
+
+        أدبًا ولا أصبر على طلب حاجة ولا أكتم لسرّ منك ولا سيّما في بلاد الغربة
+        <lb/>
+
+        ومملكته غير مملكتك وعند قوم لم تعرف سيمتهم ولا مذاهبهم
+      </p>
+
+      <p n="Traits Of Prudence">
+        وإنّ
+        <lb/>
+
+        عقل الرجل يستبين في ثلاثة عشر خصلة الأولى اللطف والرفق
+        <lb/>
+
+        ومعرفة النفس وحفظها وإطاعة الملوك واتّباع ما يرضيهم
+      </p>
+
+      <p n="Traits Of Secrecy And Speech">
+        ومعرفة
+        <lb/>
+
+        الرجل موضع سرّه والصبر في جميع أمره وكيف ينبغي أن يطلع على
+        <lb/>
+
+        صديقه وأن يكون على أبواب الملوك أديبًا حلوًا ملق اللسان
+        <lb/>
+
+        وأن يكون حافظًا لسرّه وسرّ غيره وأن يكون قادرًا على لسانه
+        <lb/>
+
+        ولا يتكلّم إلّا بقدر حاجته ولا يرسله إلى غير الثقة ولا يسأل
+        <lb/>
+
+        عمّا لا يُسأل عنه ولم يقل ما لا يتيقنه ولم يُظهر من الأمر ما لم يندم
+        <lb/>
+
+        عليه
+      </p>
+
+      <p n="Traits Ensure Safety">
+        فمن اجتمعت فيه هذه الخصال كان هو الراعي إلى نفسه الربح
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

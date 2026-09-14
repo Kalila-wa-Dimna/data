@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3478</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="415"/>
+
+      <p n="unassigned">
+        الجرذ في البيت يدبّ فسمعه بعض متاع الناسك
+        <lb/>
+
+        فوثب عليه فقتله وأتته الموفّق
+        <lb/>
+
+        وإنّما ضربت لك هذه المثل لأنّه لا ينبغي للعاقل أن يردّ
+        <lb/>
+
+        قول الناصح ولا يستغلظ قول الواعظ فقد قيل إنّ
+        <lb/>
+
+        مثل قول الناصح فيما يستغلظه المنصوح كمثل الدواء
+        <lb/>
+
+        الشنيع الذي يقلع من الجسد الداء فإيّاك أن تغتري
+        <lb/>
+
+        لما تزين من الذكر فإنّك لو قتلته أصبت الراحة
+        <lb/>
+
+        واستبدلت به من الأزواج من هو أقرّ لعينك منه فلمّا
+        <lb/>
+
+        سمعت الأنثى قول المرزم راعها ما هوى به عليها ورغبت
+        <lb/>
+
+        في ما وعدها به من الزوج الجديد الموافق فقالت
+        <lb/>
+
+        له قد فهمت قولك وأنت عندي غير متّهَم ولا مستبطَل وإنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kw</chapter>
+  </chapter>
+</TEI>

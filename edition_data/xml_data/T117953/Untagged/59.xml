@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T117953</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="59"/>
+
+      <p n="unassigned">
+        ومن علم ولم يعمل به لم ينتفع به وكان في ذلك كالرجل
+        <lb/>
+
+        الذي يقال إنّه أحسّ بسارق قد تسوّر عليه ودخل
+        <lb/>
+
+        في منزله وعلم به فقال والله لأمسكنّ عنه حتى أنظر ما
+        <lb/>
+
+        يصنع وأدعه حتى يبلغ مراده فأقوم إليه وأنقض ذلك
+        <lb/>
+
+        عليه وأكدّره وأمسَك عنه فجعل السارق يطوف
+        <lb/>
+
+        البيت ويجمع ما يجده فطال تردّده وتخلّل صاحب
+        <lb/>
+
+        البيت النعاس فنام ففرغ اللصّ مما أراد وأمكنه
+        <lb/>
+
+        حملُه واستيقظ الرجل بعد ذلك فوجد السارق
+        <lb/>
+
+        قد فاز بما أخذ من متاعه فأقبل على نفسه يلومها
+        <lb/>
+
+        ويعاتبها وعرف أنّه لم ينتفع بعلمه باللص إذا
+        <lb/>
+
+        لم يستعمل في أمره ما يجب
+        <lb/>
+
+        وقد يقال إنّ العلم لا يتمّ إلاّ بالعمل والعلم كالشجرة والمعلّم
+        <lb/>
+
+        هوّ الثمرة وأمّا صاحب العلم إنّما يعمل به لينتفع به
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

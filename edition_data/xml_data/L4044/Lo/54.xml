@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="54"/>
+
+      <p n="Lion's Regret After Dimna's Departure">
+        فصل دمنة من عند الأسد فكّر الأسد في أمره فندم على إرسال دمنة حين
+        <lb/>
+
+        أرسله
+      </p>
+
+      <p n="Lion's Self-Doubt about Trusting Dimna">
+        وقال في نفسه ما أصبت في ائتماني دمنة على ما ائتمنته عليه
+      </p>
+
+      <p n="Lion's Concerns about Suffering, Greedy and Malevolent Courtiers">
+        فإنّ
+        <lb/>
+
+        الرجل الذي يحضر باب السلطان إذا كان قد أُطيلت جفوته من غير جرم أو
+        <lb/>
+
+        كان مبغيًّا عليه أو كان معروفًا بالحرص والشره أو كان قد أصابه ضرّ وضيق
+        <lb/>
+
+        فلم ينعشْ أو كان قد اجترم جرمًا فهو يخاف العقوبة أو كان شرّيرًا لا يحبً الخير
+      </p>
+
+      <p n="Lion's Concerns about Requistioned and Deposed Courtiers">
+        أو كان قد حيل بينه وبين ما كان في يده من سلطان أو مال أو كان ولي عملًا
+        <lb/>
+
+        ففُرّق عليه أو نُقص منه أو شُورك بينه وبين أحد
+      </p>
+
+      <p n="Lion's Concerns about Harshly Punished Courtiers">
+        أو قد كان اجترم جرمًا مع نظرائه
+        <lb/>
+
+        فعُفي عنهم فعُوقب أو عُوقبوا جميعًا فبلغ منه في العقوبة ما لم يبلغْ منهم
+      </p>
+
+      <p n="Lion's Concerns about Courtiers Others Were Preferred Over">
+        أو كان
+        <lb/>
+
+        قد أبلى بلاء في نظرائه ففُضّلوا عليه في الجزاء أو كان له عدوّ مشاجر أو نظير ففُضّل
+        <lb/>
+
+        عليه في المنزلة والجاه
+      </p>
+
+      <p n="Lion's Concerns about Impious and Inimical Courtiers">
+        أو قد كان غير موثوق به في الدين أو قد كان يرجو
+        <lb/>
+
+        في شيء ممّا يضرّ السلطان نفعًا أو يخاف في شيء ممّا ينفعه ضرًّا أو قد كان لعدوّ
+        <lb/>
+
+        السلطان مؤاخيًا
+      </p>
+
+      <p n="Advice against Trusting Certain Types of People">
+        فليس السلطان بحقيق أن يعجل بالاسترسال إليه والثقة
+        <lb/>
+
+        به والائتمان له
+      </p>
+
+      <p n="Lion's Reflection on Dimna's Character and Past Treatment">
+        فإن دمنة داهي أريب وكان ببابي مطروحًا مجفوًّا
+      </p>
+
+      <p n="Lion's Fear of Dimna's Potential Betrayal">
+        فلعلّه
+        <lb/>
+
+        احتمل بذلك ضغنًا ولعلً ذلك سيحمله على أن يخونني ويبغي بي سواي ولعلّه
+        <lb/>
+
+        يصادف صاحب الصوت أقوى منّي وأفضل سلطانًا فيرغب فيما عنده فيميل معه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

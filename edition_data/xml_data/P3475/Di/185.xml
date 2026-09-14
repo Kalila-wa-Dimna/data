@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="185"/>
+
+      <p n="Famous Physician Dies or Goes Blind">
+        مدائن السند طبيب وكان عالمًا بالطبّ فلمّا مات ذلك
+        <lb/>
+
+        الطبيب نظروا في كتبه فكانوا يتثقّفون بها ويتعلّمون منها
+      </p>
+
+      <p n="Quack Appears in Town">
+        فأتاهم رجل لا علم له بالطبّ فزعم أنّه طبيب رفيق
+      </p>
+
+      <p n="Pregnant Princess Falls Sick">
+        وكانت لملك
+        <lb/>
+
+        تلك الأرض ابنة كريمة عليه وكانت حبلى فأصابها بطن فجعل
+        <lb/>
+
+        تُرى الدم
+      </p>
+
+      <p n="King Sends in Search of Physician">
+        فبعث الملك في طلب الأطبّاء
+      </p>
+
+      <p n="Blind Physician Prescribes Drug">
+        فأتوا طبيبًا كان عالمًا
+        <lb/>
+
+        وكان منهم على فراسخ فوجدوه قد عمي فوصفوا له وجع الجارية
+        <lb/>
+
+        فأمرهم أن يسقوها دواءً يُسمّى زامهران فرجع الرسول
+        <lb/>
+
+        إلى الملك فأخبره بما وصف الطبيب
+      </p>
+
+      <p n="Quack Ordered to Mix Drug">
+        فأرسل الطبيبُ الملكَ إلى
+        <lb/>
+
+        طبيب يخلط له ذلك الدواء فأتاه الجاهل فأخبره أنّه
+        <lb/>
+
+        طبيب عارف فالأدوية وأخلاطها فأمر الملك بالأسفاط
+        <lb/>
+
+        التي كانت فيها أدوية الطبيب الميّت
+      </p>
+
+      <p n="Quack Confuses Drug with Poison">
+        فوضعت بين يدي الجاهل
+        <lb/>
+
+        فضرب بيده إلى سفط منها فأخذه منها صرّة فيهما سمّ
+        <lb/>
+
+        قاتل فخلط منها ومن غيرها
+      </p>
+
+      <p n="Quack Identifies Drug to King">
+        ثمّ قال هذا زامهران
+      </p>
+
+      <p n="King Rewards Quack">
+        فلمّا رأى
+        <lb/>
+
+        الملك سرعة خلطه للدواء ظنّ أنّه عالم
+      </p>
+
+      <p n="Quack Poisons Princess">
+        ودعا الطبيب
+        <lb/>
+
+        بميسوس فلخلط به الدواء ثمّ سقى الجارية فلمّا وقع
+        <lb/>
+
+        في بطنها قطّع أمعاءها فماتت من ساعتها
+      </p>
+
+      <p n="King Has Quack Drink the Poison Too">
+        فأمر
+        <lb/>
+
+        الملك أن يُسقى الجاهل من الدواء الذي خلط فبقي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

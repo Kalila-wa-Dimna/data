@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="184"/>
+
+      <p n="Dimna Now Repays Courtier's Hostility">
+        منك في حقّي على رؤوس الأشهاد بين هذه الجماعة
+        <lb/>
+
+        من الشنائع والبهتان والكذب والعدوان
+      </p>
+
+      <p n="Dimna Says Courtier Deserves Not Even the Lowest Profession">
+        فإنّي لن
+        <lb/>
+
+        اقتصر عن إظهار ما أعرف من عيوبك على ما يعرفه
+        <lb/>
+
+        من حظر وخفى على من عرفك حقّ المعرفة أن يمنعك
+        <lb/>
+
+        أكل الطعام مع الملك وخدمته بالكليّة
+      </p>
+
+      <p n="Courtier Is Outraged">
+        فقال رأس
+        <lb/>
+
+        الخنازير ولي تقول هذا القول وتعنيني بهذه الإشارة
+      </p>
+
+      <p n="Dimna Calls Courtier Filthy and Leprous and">
+        قال دمنة بحقٍّ أقول فيك أيّها الأعرج الميسور الذي
+        <lb/>
+
+        في أسته الباسور الأفقد الأرجل الأحمق الأدب
+        <lb/>
+
+        المتدلّي الخصيتين العظيم البطن الأفلج اليدين
+      </p>
+
+      <p n="Courtier Is Reduced to Tears">
+        فلمّا قال دمنة هذا المقال تغيّر لون رأس القرود
+        <lb/>
+
+        ورأس الخنازير واستحى واعتقل لسانه واستكّت أسنانه
+      </p>
+
+      <p n="Dimna Calls Courtier Unfit for Court">
+        فقال دمنة حين رأى انكساره ينبغي لك أن تهتمّ
+        <lb/>
+
+        لعملك وعلمك والملك لو رأى قدرك وعيبك عزلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

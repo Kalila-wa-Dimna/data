@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="241"/>
+
+      <p n="Young Cattle Only Nurse for a While">
+        انقطع ذلك انصرفت عنها
+      </p>
+
+      <p n="Enmity Turns into Friendship in Times of Need">
+        فأمّا العداوة التي أحدثت الصداقة فالحاجة
+        <lb/>
+
+        تحمل على ذلك
+      </p>
+
+      <p n="Trusting Quickly Is Risky">
+        واعلم أنّ صريع الاسترسال لا تُقال عثرته
+      </p>
+
+      <p n="The Intelligent Distrusts Forced Friendship">
+        والعاقل يبقي
+        <lb/>
+
+        لمن صالحه من عدوّه بقيّة من نفسه ولا يثق به كلّ الثقة
+      </p>
+
+      <p n="The Best Thing Is Distance From the Enemy">
+        ولا يأمنه على
+        <lb/>
+
+        نفسه مع القرب منه والبعد عنه ما استطاع
+      </p>
+
+      <p n="The Rat Will Love the Cat from Afar">
+        وأنا أودّك من بعد
+      </p>
+
+      <p n="The Rat Does Not Need a Reward">
+        ولا
+        <lb/>
+
+        عليك أن تجازيني على صنيعي
+      </p>
+
+      <p n="The Last Verdict Is No Reunion">
+        إذا لا سبيل إلى اجتماعنا
+      </p>
+
+      <p n="The Ending of the Chapter">
+        انقضى باب الجرذ والسنّور
+      </p>
+
+      <p n="unassigned">
+        باب المَلك والطائر فنزة
+        <lb/>
+
+        قال ديشلم المَلك لبيدبا الفيلسوف قد سمعت هذا المثل فاضرب لي مثل
+        <lb/>
+
+        التراة الذي لا بدّ لبعضهم من لقاء بعض قال بيدبا زعموا أنّ مَلكًا من ملوك
+        <lb/>
+
+        الهند يُقال له بردين وكان له طائر يُقال له فنزة وكان له فرخ وكان
+        <lb/>
+
+        هذا الطائر وفرخه ينطقان بأحسن منطق وكان المَلك بهما معجبًا فأمر
+        <lb/>
+
+        بهما أن يُجعلا عند امراته وأمرها بالمحافظة عليهما واتّفق أنّ امرأة
+        <lb/>
+
+        المَلك ولدت غلامًا فقالت قد أربّي ابني وكلاهما يلعبان جميعًا
+        <lb/>
+
+        وكان فنزة يأتي يذهب إلى الجبل فيأتي بفاكهة لا تُعرف فيطعم ابن المَلك شطرها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+    <chapter>Kb</chapter>
+  </chapter>
+</TEI>

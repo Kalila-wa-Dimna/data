@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>KWD-Englisch</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="1"/>
+
+      <p n="The Intelligent Must Verify Statements">
+        Chapter
+      </p>
+
+      <p n="unassigned">
+        2
+      </p>
+
+      <p n="Dimna's Deed Makes the Intelligent Reflect">
+        BEGINNING OF THE SECOND CHAPTER.
+        <lb/>
+
+        THE KING SPEAKS FIRST.
+        <lb/>
+
+        The king said again to the philosopher, "Tell me how,
+      </p>
+
+      <p n="unassigned">
+        things turned out for that Ichnelates after the killing of the,
+      </p>
+
+      <p n="Kalila's Accusation of Dimna">
+        bull.
+      </p>
+
+      <p n="One Must Avoid Bad People">
+        And the philosopher replied:
+      </p>
+
+      <p n="A Leopard Was the Lion's Confidant">
+        After the killing of the bull, a leopard, who was the lion's",
+      </p>
+
+      <p n="unassigned">
+        teacher and his faithful adviser, came out and went to Ich-",
+        <lb/>
+
+        nelates's gate one night. He found Stephanites taking him to",
+      </p>
+
+      <p n="Dimna is Evil and to Be Shunned">
+        task for what he had caused to happen to the bull, and tell-",
+        <lb/>
+
+        ing him that he would not escape the lion's clutches if the",
+      </p>
+
+      <p n="unassigned">
+        latter discovered the trick he had contrived. When the leop-",
+      </p>
+
+      <p n="The Leopard Confides in the Lion's Mother">
+        ard heard this, he went to the lion's mother and told her",
+      </p>
+
+      <p n="unassigned">
+        what he had heard.",
+      </p>
+
+      <p n="The Mother Goes to the Lion and Finds Him Sad">
+        At daybreak, she went to the lion. When she saw him",
+        <lb/>
+
+        looking sad, dejected, and regretful over the slaughter of the",
+        <lb/>
+
+        bull, she said, "My child, regret and anxiety accomplish",
+        <lb/>
+
+        nothing, except wasting away the body and darkening the",
+        <lb/>
+
+        mind. So speak up, do not conceal it in your mind, so that we both,
+        <lb/>
+
+        may know, although I am aware, even before you speak, that
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

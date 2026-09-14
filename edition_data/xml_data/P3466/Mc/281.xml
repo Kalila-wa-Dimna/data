@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="281"/>
+
+      <p n="Situations Do Not Blind the Intelligent">
+        أمره وينبغي لي أن أستعمل عقلي
+      </p>
+
+      <p n="The Rat Decides on a Pact with the Cat">
+        ثمّ قال لا أرى في حيلة
+        <lb/>
+
+        أفضل من التماس صلح السنّور فإنّ السنّور قد نزل به من البلاء ما لا
+        <lb/>
+
+        يستطيع أحد أن يخلّصه غيري ولعلّه لو قد قد سمع منّي ما أكلّمه به من
+        <lb/>
+
+        الكلام الصادق الذي لا خداع فيه أن يفهم عنّي ويطمع في
+        <lb/>
+
+        معونتي فيصالحني لنفع نفسه فيكون لي وله في ذلك خلاص
+      </p>
+
+      <p n="The Cat Acknowledges Being Trapped">
+        فقال له كيف أنت قال كالذي تهوى من الضنك والضيق
+      </p>
+
+      <p n="The Rat Points Out Their Common Problem">
+        قال
+        <lb/>
+
+        الجرذ إنّي أحدّثك حديثًا لا أكذب فيه لعمري قد كنت أوّلًا يسرّني ما ساءك وأرى ما ضيّق
+        <lb/>
+
+        عليك لي سعة ولكنّي اليوم قد شاركتك في البلاء وقد نزل بي من
+        <lb/>
+
+        الضنك ما لا يسرّنى به موتك فأنا شريكك ولست أرجو خلاصًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="71"/>
+
+      <p n="The Helpless Fish is Caught">
+        صيدت
+      </p>
+
+      <p n="The Lion Doubts Shatraba's Betrayal Due to His Kindness">
+        قال الأسد قد فهمت ما قلت ولكن لا أظنّ الثور يغشّني ويبغي
+        <lb/>
+
+        لي الغوائل مع حسن بلائي عنده وكيف يفعل ذلك ولم ير منّي سوءًا قطّ
+      </p>
+
+      <p n="Dimna Argues Shatraba's Ambition Stems from His Promotion">
+        قال
+        <lb/>
+
+        دمنة إنّه لا يحمله على ذلك إلّا أنّه لم ير منك سوءًا قطّ ولم تدع خيرًا إلّا صنعته
+        <lb/>
+
+        به ولا مرتبة إلّا أبلغته إيّاها ولم تبق مرتبة يسمو إليها إلّا مرتبتك
+      </p>
+
+      <p n="The Maxim of the Base Man's Ambition">
+        فإنّ اللئيم
+        <lb/>
+
+        العاجز لا يزال ناصحًا نافعًا حتّى يرتفع إلى المنزلة التي ليس لها بأهل فإذا
+        <lb/>
+
+        بلغها منّته نفسه ورغب عمّا هو عليه فعاد نصحه غشًّا ومنافعه خيانة
+        <lb/>
+
+        وضرًّا والتمس ما فوقها بالغشّ والخيانة والفجور
+      </p>
+
+      <p n="The Maxim of the Dog's Tail: A Base Man's True Nature">
+        لأنّ اللئيم الكفور
+        <lb/>
+
+        لا يخدم السلطان ولا ينصح له إلّا عن فرق أو حاجة فإذا استغنى وذهبت
+        <lb/>
+
+        الهيبة عاد إلى جوهره كذنب الكلب العقد الذي يُربط ليستقيم فلا
+        <lb/>
+
+        يزال مستقيمًا ما دام مربوطًا فإذا أُطلق عاد إلى انحنائه واعوجاجه
+      </p>
+
+      <p n="The Parable of the Patient and the Doctor">
+        واعلم أيّها الملك أنّه من لم يقبل من نصحائه ما يُنقل إليه ممّا
+        <lb/>
+
+        ينصحون له فيه لم يُحمد عن رأيه كالمريض الذي يدع ما ينعت له الطبيب
+        <lb/>
+
+        فيعمد إلى ما تشتهيه نفسه
+      </p>
+
+      <p n="The Duty of a Vizier">
+        وحقّ على مؤازر السلطان أن يبلّغ الحقيقات
+        <lb/>
+
+        له على ما ينفعه ويزيّنه والكفّ له عمّا يضرّه ويشينه
+      </p>
+
+      <p n="Aphorisms on the 'Best of' Things">
+        وخير الإخوان
+        <lb/>
+
+        أقلّهم مصانعة في النصيحة وخير الأعمال أحلاها عاقبة وخير الثناء ما كان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

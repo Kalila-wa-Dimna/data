@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="296"/>
+
+      <p n="King Must Reward and Punish">
+        ولا يقرّ عاجز على العجز والإساءة
+      </p>
+
+      <p n="Lack of Assessment Damages">
+        فإنّه إن فعل ذلك تهاون المحسن
+        <lb/>
+
+        واجترئ المسيء وفسدت الأمور وساء أدب الرعيّة وضاعت
+        <lb/>
+
+        الأعمال
+      </p>
+
+      <p n="Philosopher Mentions Parable">
+        والمثل في ذلك مثل الأسد وابن آوى قال الملك
+        <lb/>
+
+        وكيف كان ذلك
+      </p>
+
+      <p n="Philosopher Tells of Pious Jackal">
+        قال الفيلسوف زعموا أنّه كان في
+        <lb/>
+
+        أرض من أرض الهند ابن آوى وكان يتألّه ويتعفّف وكان
+        <lb/>
+
+        يكون مع بنات آوى والذئاب والثعالب ولا يصنع كما يصنعن
+        <lb/>
+
+        ولا يغير كما يغِرن ولا يظلم كما يظلمن ولا يأكل لحمًا ولا يهرق دمًا
+        <lb/>
+
+        ولا يخيف نفسًا
+      </p>
+
+      <p n="Pack Denounces Jackal">
+        فثقل ذلك على من كان يصحبه من السباع وأبغضنه
+        <lb/>
+
+        وقلن له ليس نرضى نسير بسيرتك ولا برأيك مع أنّ تألّهك هذا لا يغني
+        <lb/>
+
+        عنك شيئًا ولا ينفعك وأنت لا تستطيع إلّا أن تكون معنا
+        <lb/>
+
+        ولا تصبر عن صحبتنا
+      </p>
+
+      <p n="Jackal Is not Accountable for Pack's Actions">
+        قال ابن آوى إنّ صحبتي إيّاكنّ على الألفة
+        <lb/>
+
+        والاقتراب لا تؤثمني إذا أنا لم أؤثم نفسي
+      </p>
+
+      <p n="Sins Depend only on One's Actions">
+        فإنّ الآثام ليست من
+        <lb/>
+
+        قِبل الأماكن والأصحاب ولكنّها من قِبل القلوب والأعمال
+      </p>
+
+      <p n="Sin Is Independent from Place">
+        فإنّه لو كان صاحب المكان الصالح يكون عمله فيه صالحًا لكان
+        <lb/>
+
+        من قتل النسّاك في المساجد لم يأثم ولو كان صاحب المكان
+        <lb/>
+
+        السيّئ يكون عمله فيه سببًا لكان إذًا من استحيا في معركة القتال آثم
+      </p>
+
+      <p n="Jackal's Heart Is Distant from Others">
+        وإنّي أنا إنّما أصحبكم ببدني ولا أصحبكم بقلبي وعملي لأنّي أعرف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

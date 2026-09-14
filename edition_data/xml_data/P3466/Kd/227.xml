@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="227"/>
+
+      <p n="Brahmins Request Delay">
+        ونأتيك في اليوم السابع فنخبرك به ولعلّنا أن نستطيع دفع
+        <lb/>
+
+        هذا الشرّ عنك
+      </p>
+
+      <p n="King Grants Delay">
+        قال الملك انطلقوا
+      </p>
+
+      <p n="King Order Brahmins Counsel">
+        وانظروا فيها
+        <lb/>
+
+        واعملوا آرائكم فيما تعلمون أنّه يوافقني
+      </p>
+
+      <p n="Brahmins Promise Good">
+        فقالوا نعم أيّها الملك
+      </p>
+
+      <p n="Brahmins See Chance">
+        ثم خرجوا من عنده فاجتمعوا وائتمروا بينهم وقالوا لم نطل
+        <lb/>
+
+        العهد منذ قتل هذا الملك منذ قتل هذا الملك منّا إثني عشر
+        <lb/>
+
+        ألفًا وقد تمكّنا منه إذ أفضى إلينا بسرّه وعرفنا فرقة
+        <lb/>
+
+        من رؤياه
+      </p>
+
+      <p n="Brahmins Plan Revenge">
+        فلعلّنا أن ننتقم منه إن نحن غلّظنا له في القول وخوّفناه
+        <lb/>
+
+        فيحمله الخوف على أن يتابعنا على ما نريد
+      </p>
+
+      <p n="Brahmins Will Order Killings">
+        فنأمره أن يدفع إلينا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

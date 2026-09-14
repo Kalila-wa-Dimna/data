@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="194"/>
+
+      <p n="The Rat Points Out Their Common Problem">
+        ولا أرجو من ذلك خلاصًا ولكنّ عقلي أمرني بخلاصك
+        <lb/>
+
+        وإنّني قادر على ذلك بحول الله وقوّته فهو الذي
+        <lb/>
+
+        عطّف قلبي عليك
+      </p>
+
+      <p n="The Rat Proves His Sincerity">
+        وستعرف مقالتي أنّ ما فيها كذب
+        <lb/>
+
+        ولا خلل ولا خديعة وقد ترى مكان ابن عرس كيف
+        <lb/>
+
+        كامنًا لي والبومة على الشجرة تريد اختطافي وكلاهما
+        <lb/>
+
+        عدوّان لي فإن رأيت أن تجعل لي عهدًا وميثاقًا إن
+        <lb/>
+
+        أنا دنوت منك كي أقرض حبالك وأخلّصك تؤمنّي على
+        <lb/>
+
+        نفسي فننجوا بذلك منهما وأخلّصك ممّا أنت فيه من الضنك
+        <lb/>
+
+        فاسمع منّي واطمئنّ إليّ بما ذكرته لك وثق به منّي
+      </p>
+
+      <p n="People Fail without Mutual Trust">
+        فإنّه
+        <lb/>
+
+        ليس أحد أحسن من اثنين منزلتهما واحدة وأجناسهما
+        <lb/>
+
+        مختلفة أحدهما من لا يُؤمن به والآخر ممّا لا
+        <lb/>
+
+        يثق به
+      </p>
+
+      <p n="The Rat Promises Faithfulness">
+        ولك الوفاء عندي بما جعلت من نفسي فاقبل
+        <lb/>
+
+        منّي وأصغي إلى كلامي ولا تؤخّر ذلك لأنّ في تأخيرك
+        <lb/>
+
+        هلاكك وهلاكي أيضًا
+      </p>
+
+      <p n="The Intelligent Does Not Postpone Action">
+        فإنّ العاقل لا يؤخّر عمله
+      </p>
+
+      <p n="The Cat Should Desire Common Rescue">
+        ولتطب
+        <lb/>
+
+        نفسك ببقائي كما طابت نفسي ببقائك
+      </p>
+
+      <p n="Sailors Depend on Ships and Vice Versa">
+        فإنّ كلّ
+        <lb/>
+
+        واحد منّا لا ينجو إلّا بالآخر كالسفينة والركّاب
+        <lb/>
+
+        في البحر فنجاة الركّاب بالسفينة ونجاة السفينة
+        <lb/>
+
+        بالركّاب
+      </p>
+
+      <p n="The Cat Puts His Trust in the Rat">
+        فلمّا سمع السنّور كلام الجردون وما بذله
+        <lb/>
+
+        من النصيحة والودّ علم أنّه صادق بقوله فقال أعلم
+        <lb/>
+
+        أنّ قولك شبيه بالحقّ وأنا عارفه منك وأرجو لك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

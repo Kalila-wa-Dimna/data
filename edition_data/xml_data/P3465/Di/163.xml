@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="163"/>
+
+      <p n="Leopard &amp; Judge Bring Lion the Court Records Who Has Them Copied">
+        عليه أصحابه فأذن لهم فدخلوا عليه ووضعوا الكتاب بين يديه
+      </p>
+
+      <p n="Lion Reads Court Records to Mother">
+        فلمّا
+        <lb/>
+
+        عرف قولهم وقول دمنة دعا بأمّه فقرأ عليها ذلك
+      </p>
+
+      <p n="Mother Alerts Lion of His Own Benefit and Motivates Her Harsh Words">
+        فلمّا سمعت ما في الكتاب
+        <lb/>
+
+        نادت بأعلى صوتها إن أنا أغلظت في القول فلا تلمني فإنّك لست تعرف ضرّك
+        <lb/>
+
+        من نفعك أليس هذا ممّا كنت أنهاك عن سماعه لأنّه كلام هذا المجرم المسئ إلينا الغادر
+        <lb/>
+
+        بذمّتنا ثمّ أنّها خرجت مغضبة
+      </p>
+
+      <p n="Ruzbeh Reports Mother's Words to Dimna">
+        وذلك بعين الشعهر الذي آخاه دمنة وبسمعه جميع
+        <lb/>
+
+        ما قالت أمّ الأسد فخرج في إثرها مسرعًا حتّى أتى دمنة فحدّثه بالحديث
+      </p>
+
+      <p n="Men Take Dimna Before Court">
+        فبينما
+        <lb/>
+
+        هو عنده إذا جاء فيج فانطلق بدمنة إلى المجمع عند الأسد
+      </p>
+
+      <p n="Head of Court Deems Extant Facts Sufficient">
+        فلمّا مثل بين يدي القاضي
+        <lb/>
+
+        استفتح سيّد المجلس فقال يا دمنة قد أنبأني بخبرك الأمين الصادق وليس
+        <lb/>
+
+        ينبغي لنا أن نفحص عن شأنك أكثر من هذا
+      </p>
+
+      <p n="God Placed Signs of Truth in the World and Prophets to Explain Them">
+        لأنّ العلماء قالوا إنّ الله تعالى جعل
+        <lb/>
+
+        الدنيا سببًا ومصداقًا للآخرة لأّنها دار الرسل والأنبياء الدالّين على الخير
+        <lb/>
+
+        الهادين إلى الجنّة الداعين إلى معرفة الله تعالى
+      </p>
+
+      <p n="King's Mercy Permitted Investigation Despite Convincing Testimony">
+        وقد ثبت شأنك عندنا وأُخبرنا
+        <lb/>
+
+        عنك من وثقنا بقوله إلّا أنّ سيّدنا أمرنا بالعود في أمرك والفحص عن شأنك
+        <lb/>
+
+        وإن كان عندنا ظاهرًا بيّنًا
+      </p>
+
+      <p n="Dimna Accuses Head of Court of Ignoring Facts">
+        فقال دمنة أراك أيّها القاضي لم تتعوّد العدل
+        <lb/>
+
+        في القضاء وليس في عدل الملوك الدفع بالمظلومين ومن لا ذنب له بل المخاصمة
+        <lb/>
+
+        عنهم والردّ
+      </p>
+
+      <p n="After Three Days Dimna's Guilt Is Unproven">
+        فكيف تردّ أن تقبل فيّ ولم أخاصمْ وتجعل ذلك موافقة لهواك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

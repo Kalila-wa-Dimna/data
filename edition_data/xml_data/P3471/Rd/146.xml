@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="146"/>
+
+      <p n="Commentary That Seeking Others' Harm Will Be Punished">
+        أهل التفكير والبصر بالأمور في هذا المثل وأشباهه وليعلموا
+        <lb/>
+
+        أنّه من يلتمس منفعة نفسه ويردّ هلكة غيره ظلمًا له بخديعةٍ أو مكرٍ
+        <lb/>
+
+        أو ضلالةٍ وإن كان ذا حيلةٍ عالمًا بصيرًا رفيقًا بالخارج فإنّه
+        <lb/>
+
+        غير منفلت من وباله وعاقبته ومعيشته وأنّه مكافؤٌ به ومُجزًى بما
+        <lb/>
+
+        عمل منه عاجلًا وآجلًا وصائرًا إلى البوار والهلكة والدمار على كلّ حالٍ
+      </p>
+
+      <p n="End of Chapter">
+        انقضى باب الفحص عن أمر دمنة
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+    <chapter>Rd</chapter>
+  </chapter>
+</TEI>

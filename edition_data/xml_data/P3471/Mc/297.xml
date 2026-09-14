@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="297"/>
+
+      <p n="The Rat Departs to Safety">
+        الذين كانوا حوله يرصدونه
+      </p>
+
+      <p n="The Philosopher Comments on the Rat's Foresight">
+        ثمّ قال الفيلسوف
+        <lb/>
+
+        للمَلك فالجرذ على صغره وضعفه نظر في أمره حين نزل البلاء
+        <lb/>
+
+        فصادق عدوّه وعدوّ عدوّه وصالحه وعمل في ذلك عملًا
+        <lb/>
+
+        رفيقًا نجا به من سائر أعداءه المطلقة عليه القادرة على
+        <lb/>
+
+        الفرصة فيه وخلص به من صالح عدوّه من البلاء الذي كان
+        <lb/>
+
+        وقع فيه
+      </p>
+
+      <p n="The Philosopher Comments on Human Foresight">
+        فكيف بالإنسان الكامل الذي إذا نظر في مثل ذلك
+        <lb/>
+
+        واقتدى به وعمل بالذي يلزمه وينجيه من حسن النظر في
+        <lb/>
+
+        مثله ما كان أعظم حظّه فيه أوفى نصيبه منه في عاجل الأمور
+        <lb/>
+
+        وآجلها
+      </p>
+
+      <p n="The Ending of the Chapter">
+        ثمّ وكمل باب الجرذ والسنّور
+        <lb/>
+
+        والله المستعان
+      </p>
+
+      <p n="unassigned">
+        وهذا هو باب المَلك
+        <lb/>
+
+        الطير قتره وهو باب أهل الحراث
+        <lb/>
+
+        والمخلفات واتّقاء بعضهم بعضًا قال
+        <lb/>
+
+        المَلك للفيلسوف قد سمعت ما ذكرت من أمر الرجل الذي يحتضره
+        <lb/>
+
+        عدوّه ويحيط به فيستظهر ببعضهم ويصالحه حتّى يخلص بذلك
+        <lb/>
+
+        ممّا يخاف ويحاذر منهم وقد وفى لمن عاهد منهم وعاقد وسلم
+        <lb/>
+
+        وممّا ضربت في ذلك من المثل فاضرب لي إن رأيت مثل أهل التراث
+        <lb/>
+
+        والذي ينبغي لبعضهم من الاتّقاء لبعض وكيف ينبغي للذي وثره
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+    <chapter>Kb</chapter>
+  </chapter>
+</TEI>

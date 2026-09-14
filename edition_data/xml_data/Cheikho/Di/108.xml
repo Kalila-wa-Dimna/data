@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="108"/>
+
+      <p n="Only God Rewards Justly">
+        لأنّه ليس أحدٌ يجزي بالخير خيرًا إلّا الله فأمّا من دونه فقد تجري أمورهم
+        <lb/>
+
+        على فنونٍ شتّى مع ذلك في أكثرها الخطأ
+      </p>
+
+      <p n="The King Is Most Deserving of the Truth/Good Attributes">
+        وما أحدٌ بأحقّ بإصابة الصواب
+        <lb/>
+
+        من الملك الموفّق الذي لا يُصانع أحدًا لحاجةٍ به إليه ولا لعاقبةٍ يتخوّفها
+        <lb/>
+
+        منه
+      </p>
+
+      <p n="A King's Advisors Deserve Recognition/A King's Subjects Desire Good Character and Deeds">
+        وإن كان أحقّ من ذلك ما عظمت فيه رغبة الملوك من محاسن
+        <lb/>
+
+        الصواب فمكافأة أهل البلاء الحسن عندهم وما بلاءٌ أبين حسنًا من
+        <lb/>
+
+        نصيحةٍ
+      </p>
+
+      <p n="Dimna Had Nothing to Do with the Ox">
+        ولقد علم وعلمت وعلم جميع من حضر أنّه لم يكن بيني وبين الثور
+        <lb/>
+
+        أمرٌ أضطغن عليه فيه حقدًا ولا أبغي له غائلةً وما كان بذلك من ضرٍّ ولا
+        <lb/>
+
+        نفعٍ
+      </p>
+
+      <p n="Dimna Claims to Be a Victim of Scheme">
+        ولكنّي نصحت الملك فيه وأعلمته ما اطّلعت عليه من أمره
+        <lb/>
+
+        حتّى أبصر مصداق ما ذكرت له وكان فيه أفضل رأيًا وأشدّ حزمًا وعزمًا
+        <lb/>
+
+        ولقد أعرف أنّه قد تخوّف مثلها منّي غيرُ واحدةٍ من أهل الغشّ والعداوة
+        <lb/>
+
+        فنصبوا نصبي وأجمعوا على طلب هلاكي
+      </p>
+
+      <p n="Dimna Feels Ill-Rewarded for Warning the King">
+        وما كنت أتخوّف أن يكون
+        <lb/>
+
+        جزائي على النصيحة وحسن البلاء أن يحزن الملك على تركه إيّاي حيًّا
+      </p>
+
+      <p n="The Lion Orders an Investigation">
+        فلمّا سمع الأسد قول دمنة قال أخرجوه عنّي وادفعوه إلى القضاة
+        <lb/>
+
+        فليفتّشوا عن أمره فإنّي لست أحبّ أن أحكم على محسنٍ ولا مسيءٍ إلّا
+        <lb/>
+
+        بتظاهر وجه الحقّ والعدل
+      </p>
+
+      <p n="Judge Deems Investigation Useful">
+        فسجد دمنة للأسد ثمّ قال أيّها الملك إنّه ليس أكشف للعمى
+        <lb/>
+
+        ولا أوضح للشبهة ولا أشدّ استخراجًا لغامضات الأشياء من الاجتهاد والمبادرة
+        <lb/>
+
+        فيما يصاب به ذلك
+      </p>
+
+      <p n="Hidden Fire Is Extracted Only with List/Labor">
+        وقد علمت أيّها الملك أنّ النار تكون مستكمنة في
+        <lb/>
+
+        الشجر والحجارة فلا تخرج ولا تصاب منفعتها إلّا بالعمل والطلب
+      </p>
+
+      <p n="If Guilty Dimna Would Prefer No Investigation">
+        ولو
+        <lb/>
+
+        كنت مجرمًا لتخوّفت التكشّف عن جرمي كما قد أصبحت لعلمي ببراءتي
+        <lb/>
+
+        أرجو أن يخرج الفحص والتكشّف صحّة أمري
+      </p>
+
+      <p n="Stirred Up Mud Stinks">
+        وكذلك كلّ شيءٍ طابت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

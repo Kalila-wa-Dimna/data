@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="128"/>
+
+      <p n="Dimna's Testimony Is Recorded and Court's Members Leave for the Day">
+        ذلك كلّه من قول دمنة ثمّ دفعه إلى الأسد
+      </p>
+
+      <p n="The Lion Shows the Records to His Mother Who Warns of Dimna’s Past and Future Crimes">
+        فنظر فيه ودعا أمّه وعرضه عليها
+        <lb/>
+
+        فقالت حين تدبّرت كلام دمنة أيّها الملك لقد صار اهتمامي بأن يحتال عليك
+        <lb/>
+
+        دمنة بمكره ودهائه حتّى يقتلك أو ينقض عليك أمرك أعظم من اهتمامي بما
+        <lb/>
+
+        سلف من ذنبه إليك من الغشّ لك والسعاية بوزيرك وضيفك حتّى قتلته بغير
+        <lb/>
+
+        ذنب
+      </p>
+
+      <p n="Lion Moved by Mother's Words">
+        فوقع قولها في نفسه
+      </p>
+
+      <p n="The Lion Asks His Mother for Testimony about Dimna’s Guilt">
+        فقال لها أخبريني عن الذي أخبرك عن دمنة بما أُخبِرَ
+        <lb/>
+
+        فيكون حجّة لي في قتله
+      </p>
+
+      <p n="Mother Wants to Keep Source Secret">
+        فقالت إنّي لأكره إفشاء سرّ استُكتمته ولا يهنأني سروري
+        <lb/>
+
+        بقتل دمنة إذا تذكّرت أنّي استُظهرت عليه بركوب ما نهت عنه العلماء من
+        <lb/>
+
+        كشف الأسرار
+      </p>
+
+      <p n="Mother Will Request Source's Leave to Pass on Testimony">
+        ولكنّي طالبة إلى الذي استودعنيه أن يحلّلني من ذكره أو يقوم بإعلامك
+        <lb/>
+
+        ما سمع
+      </p>
+
+      <p n="Mother Persuades Leopard to Testify">
+        ثمّ انصرفت فأرسلت إلى النمر وذكرت له ما يحقّ عليه من تزيين الأسد
+        <lb/>
+
+        ويلزمه من حسن معاملته ومعاونته على الحقّ وإخراج نفسه من الشهادة
+        <lb/>
+
+        التي لا يكتمها مثله مع ما يحقّ عليهما من نصرة المظلوم وتثبيت حجّة أهل الحقّ
+        <lb/>
+
+        في الحياة والممات
+      </p>
+
+      <p n="Withholding Testimony About a Deceased Is Sin">
+        فإنّ العلماء قد قالت من كتم حجّة ميّت أخطأ حجّته يوم القيامة
+      </p>
+
+      <p n="Leopard Testifies on Mother's Order">
+        فلم تزل به حتّى قام فشهد على دمنة بما سمع من إقراره فيما كان من توبيخ كليلة
+        <lb/>
+
+        إيّاه بدخوله بين الأسد والثور
+      </p>
+
+      <p n="Fellow Prisoner Testifies">
+        فلمّا شهد النمر على دمنة بما سمع منه أرسل
+        <lb/>
+
+        السبع المسجون الذي سمع قول كليلة لدمنة ليلة دخل عليه في السجن وما كان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

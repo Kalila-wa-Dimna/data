@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>VAF298</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="133"/>
+
+      <p n="The Outcome Is Uncertain">
+        قال الوزير أيّها الملك أقول إنّ هذا الأمر لا يتمّ وأنا أشير عليك لا تطلبه
+        <lb/>
+
+        فلست تدري كيف تكون العاقبة فيه
+      </p>
+
+      <p n="A Donkey Loses His Ears">
+        وأخشى أن يلحقنا فيه ما لحق العير
+        <lb/>
+
+        الذي ظنّ أن ينبت له قرنان فأهلك أذنيه
+      </p>
+
+      <p n="King W Requests the Tale of the Donkey">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="The Donkey Becomes Cocky">
+        قال الوزير
+        <lb/>
+
+        زعموا أنّ عيرًا كان لبعض الناس وكان سمينًا
+      </p>
+
+      <p n="The Donkey Sees a Jenny">
+        فساقه صاحبه يومًا
+        <lb/>
+
+        ليسقيه فأبصر بأتان فأرسل إحليله ونهق وجعل يجدّ ساقيه ويحرص
+        <lb/>
+
+        على الانقلاب فاشتدّ على سائقه فشدّه في شجرة خوف عليه أن يفلت وأمر
+        <lb/>
+
+        أن يُبعد عنه الأتان
+      </p>
+
+      <p n="The Donkey Ponders about Phallus">
+        فلمّا نظر الحمار إلى شدّة قوّته وخصب يديه وما قد
+        <lb/>
+
+        استرسل منه تفكّر في نفسه وقال يا نفس اعلمي أنّ هذه الهراوة هي بعض
+        <lb/>
+
+        السلاح ممّا يتّخذ الناس للحرب
+      </p>
+
+      <p n="The Donkey Sees It As a Weapon">
+        ولكنّني كنت أريد معها شيئًا آخر أستعين
+        <lb/>
+
+        به على القتال فإنّ هذه الهراوة لا تفعل فعلًا واحدًا لعلّي أُرزق شيئًا من الصلاح
+        <lb/>
+
+        فأتعاطى الفروسيّة
+      </p>
+
+      <p n="Donkey Imagines Exploits Involving a Spear">
+        وما كان يغلبني أحد ولو لقيني مئة بالفروسيّة لقهرتهم
+        <lb/>
+
+        وما بقوا بموايتي
+      </p>
+
+      <p n="The Donkey Wants to Escape Misery">
+        وأريد الآن أن أحتال بحيلة لطيفة وأتخلّص من التعب
+        <lb/>
+
+        والنصب في هذه الحياة الشقيّة
+      </p>
+
+      <p n="A Stag Comes to the River">
+        فبينما العير مفكرًا وإذا بأيّل لبعض الأشراف
+        <lb/>
+
+        قد ساقه إلى الموردة ليسقيه وكان له قرنان عاليان
+      </p>
+
+      <p n="The Stag Impresses the Donkey">
+        فرآه العير فأعجبه
+        <lb/>
+
+        قرناه واشتهى أن يكون له مثلهما ليتمّ له ما يفكّر فيه
+      </p>
+
+      <p n="The Donkey Wants to Serve the Stag">
+        فقال في نفسه أعلم
+        <lb/>
+
+        أنّ هذا الأيل لا شكّ من سائر السلاح وهو بصير بالفروسيّة فإن
+        <lb/>
+
+        استوى لي الهرب إليه والاتّصال به فعلت واستفدت شهور حتّى يتمّ لي
+        <lb/>
+
+        ما قد عزمت عليه وأكون قد تعلّمت القتال فإذا رأى حرصي ونشاطتي
+        <lb/>
+
+        في خدمته وهب لي سلاحًا أنتفع به
+      </p>
+
+      <p n="The Donkey Intrigues the Stag">
+        والأيّل في ذلك ينظر إليه وإلى قبيح ما يأتيه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="175"/>
+
+      <p n="King Understood Previous Chapter">
+        قال المَلك للفيلسوف قد سمعت هذا المثل
+      </p>
+
+      <p n="King Asks How To Preserve Rule">
+        فاضرب لي
+        <lb/>
+
+        ما أحقّ الأشياء للملَك أن يلزم بها نفسه ويحفظ مُلكه ويثبّت
+        <lb/>
+
+        سلطانه ويكون ذلك رأس أمره وملاكه
+      </p>
+
+      <p n="Philosopher Prioritizes Ḥilm">
+        قال الفيلسوف
+        <lb/>
+
+        ينبغي للمَلك أن يلزم نفسه بالحلم
+      </p>
+
+      <p n="Philosopher Adds Consultation">
+        ومشاورة العلماء والفضلاء
+        <lb/>
+
+        وأجود الأشياء لكلّ أحد الحلم ولا سيّما للملوك ذوو القوّة
+        <lb/>
+
+        والقدرة
+      </p>
+
+      <p n="Without Advice One Fails">
+        ثمّ أنّ الرجل إذا كان شجاعًا ولم يكن له حكيمًا يشاوره
+        <lb/>
+
+        ويرفعه عن مثال أهل النقص فإنّ أمره صائر إلى ندامة
+      </p>
+
+      <p n="Competent Vizier">
+        وينبغي أن يكون وزير المَلك عاقلًا أمينًا على الأسرار ناصحًا
+        <lb/>
+
+        للملوك في سائر الأمور فيعطي المَلك الظفر على قدر خصمائه وا
+        <lb/>
+
+        والغلبة على أعدائه برأي وزيره
+      </p>
+
+      <p n="King And Vizier Tale Mention">
+        كما ذُكر من شأن مَلك الهند
+      </p>
+
+      <p n="King Requests Story">
+        قال الفيلسوف وكيف كان ذلك
+      </p>
+
+      <p n="King And Vizier Tale">
+        قال الفيلسوف زعموا أنّ رجلًا
+        <lb/>
+
+        كان يُدعى إيلاذ ورجلًا يُدعى بلاد
+      </p>
+
+      <p n="Pious Vizier">
+        وكان رجلّا ناسكًا مجتهدًا
+        <lb/>
+
+        في العبادة حسن الخلق
+      </p>
+
+      <p n="King Dreams">
+        فبينما المَلك نائم في غرفة له كانت وفي
+        <lb/>
+
+        ذات يوم إذ قام المَلك من منامه مرعوبًا مذعورًا فَزِعًا
+        <lb/>
+
+        ثمّ عاد إلى نومه ثمّ قام كذلك مرارًا وهو أنّه رأى في منامه ثلاثة
+        <lb/>
+
+        أحلام
+      </p>
+
+      <p n="King Summons Brahmins">
+        فلمّا استيقظ جمع الحكماء البراهمة
+      </p>
+
+      <p n="King Has Brahmins Interpret Dreams">
+        وقصّ عليهم ما رآه
+        <lb/>
+
+        وقال لقد رأيت شيئًا منكرًا عجيبًا لم يسمع أحد بمثله وإنّي
+        <lb/>
+
+        أحبّ أن تفسّروا لي
+      </p>
+
+      <p n="Brahmins Request Delay">
+        فقالوا أمهلنا سبعة أيّام لنجتمع ونفكّر
+        <lb/>
+
+        فيما طلبت ونأتيك بتأويل ذلك
+      </p>
+
+      <p n="King Grants Delay">
+        فأمرهم بالانصراف وأنظرهم
+      </p>
+
+      <p n="Brahmins See Chance">
+        فمضوا واجتمعوا وقالوا قد وجدتم علمًا وسعيا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

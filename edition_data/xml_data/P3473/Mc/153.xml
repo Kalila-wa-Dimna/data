@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="153"/>
+
+      <p n="The Rat Proves His Sincerity">
+        إلى ما ذكرت لك وثق به منّي فإنّه ليس أحد يخشى من اثنين
+        <lb/>
+
+        منزلهما واحد وأجناسهما مختلفة أحدهما من لا يُؤمّن به
+        <lb/>
+
+        والآخر من لا يُوثق به إلّا تمسّك بما بمن مالت نفسه إليه
+        <lb/>
+
+        منهما
+      </p>
+
+      <p n="The Rat Promises Faithfulness">
+        وقد بذلت لك ما عندي من الوفاء وقرنت حياتي بحياتك
+        <lb/>
+
+        فاقبل منّي واسترسل إلى قولي ولا تؤخّر ذلك
+      </p>
+
+      <p n="The Intelligent Does Not Postpone Action">
+        فإنّ العاقل لا
+        <lb/>
+
+        يؤخّر عمله
+      </p>
+
+      <p n="The Cat Should Desire Common Rescue">
+        ولتطب نفسك ببقائي كما طابت نفسي ببقائك
+        <lb/>
+
+        فإنّ كلّ واحد منّا لا ينجو إلّا بصاحبه
+      </p>
+
+      <p n="Sailors Depend on Ships and Vice Versa">
+        كالسفينة والركّاب
+        <lb/>
+
+        في البحر فنجاة الركّاب بالسفينة ونجاة السفينة
+        <lb/>
+
+        بالركّاب
+      </p>
+
+      <p n="The Cat Puts His Trust in the Rat">
+        فلمّا سمع السنّور كلام الجرذ وما بذله من الودّ
+        <lb/>
+
+        علم أنّه صادق
+        <lb/>
+
+        قال السنّور اعلم أنّ قولك شبيهًا بالحقّ وأنا عارف ذلك
+        <lb/>
+
+        وأرجو لك ما أرجوه لنفسي من الخلاص ثمّ سأشكر لك
+        <lb/>
+
+        ذلك ما بقيت وأجزيك أحسن الجزاء
+      </p>
+
+      <p n="The Rat Explains the Strategy">
+        قال الجرذ فإذا دنوت
+        <lb/>
+
+        منك ورأى ابن عرس والبومة قد تحقّقا صلحنا فتفرّقا
+        <lb/>
+
+        عنّا فتحالفا على الصلح
+      </p>
+
+      <p n="The Rat Approaches to Cut the Rope">
+        وأقبل الجرذ على تقريض الحبال عن السنّور
+      </p>
+
+      <p n="The Foes Leave Frustrated">
+        فلمّا عاين ابن عرس والبومة ذلك منهما آيسا منهما وانصرفوا
+        <lb/>
+
+        خآئبين
+      </p>
+
+      <p n="The Rat Begins to Cut the Rope">
+        وأخذ الجرد في تقريض الحبال
+      </p>
+
+      <p n="The Cat Deems the Rat's Efforts Slow">
+        فاستبطأه السنّور
+        <lb/>
+
+        وقال له مالي أراك غير مجدّ في قطع حبالى رباطي فإن كنت
+        <lb/>
+
+        قد ظفرت بحاجتك وتبدّلت عمّا كنت فيه وتوانيت في
+        <lb/>
+
+        حاجتي
+      </p>
+
+      <p n="The Noble Must Help">
+        فليس هذا فعل الكريم الوفيّ ولا الخليل الصادق
+      </p>
+
+      <p n="The Cat States the Rat's Duty of Reciprocation">
+        ولقد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

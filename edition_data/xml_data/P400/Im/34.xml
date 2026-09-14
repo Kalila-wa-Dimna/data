@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="34"/>
+
+      <p n="One Should Always Seek More Knowledge">
+        لا ينبغي للعاقل أن يستكثر من العلم ماله وإن كثر وعظم
+      </p>
+
+      <p n="Culture Is the Spark of Life">
+        فإنّ
+        <lb/>
+
+        العلم يجلو العقل كما يجلو الودك ظلمة النار ويزيدها ضوءًا
+      </p>
+
+      <p n="Culture Advances One's Rank">
+        والأدب يرفع منزلة صاحبه
+      </p>
+
+      <p n="Culture Shields from Danger">
+        والعلم يحيي من استعمله
+      </p>
+
+      <p n="Man Notices Burglar but Feigns Sleep">
+        ومن علم ثمّ لم يستعمل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

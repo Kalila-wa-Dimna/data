@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="179"/>
+
+      <p n="The Morning in the Battle Aftermath">
+        فلمّا رأى ما لقي اهتمّ وحزن
+      </p>
+
+      <p n="The Crow King Evaluates the Damage">
+        ثمّ فكّر في أمره وعاد عظماء أصحابه
+        <lb/>
+
+        فاستشارهم وذكر لهم الذي أصابه
+      </p>
+
+      <p n="The Crow King Fears Recurring Aggression">
+        وما يتخوّف من كثرتهم
+        <lb/>
+
+        بمثلها وأشدّ منها عليهنّ
+      </p>
+
+      <p n="Input from the Five Wise Crows is Sought">
+        وكان فيهنّ خمس غربان ذوي رفق وتجربة
+        <lb/>
+
+        وعلم بالأمور ونظر ومكر وخداع وحيل فخلا بهنّ وسألهنّ عن
+        <lb/>
+
+        رأيهم فيما أصابهم
+      </p>
+
+      <p n="The Crow King Asks the First Crow">
+        وقال لأصغرهم ماذا تشير به <> فإنّه <>
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

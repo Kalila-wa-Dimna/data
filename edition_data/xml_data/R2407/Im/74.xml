@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="74"/>
+
+      <p n="The Youngest Brother Shares His Wealth">
+        أرباحهما والاكتساب فعادا إلى ما كانا عليه من
+        <lb/>
+
+        حالهما
+      </p>
+
+      <p n="The Reader Must Always Come Back to the Book">
+        وكذلك يجب على قارئ هذا الكتاب أن
+        <lb/>
+
+        يديم النظر فيه والتفتيش على معانيه
+      </p>
+
+      <p n="The Book Is Not about Animals">
+        ولا يظنّ
+        <lb/>
+
+        أنّ الذي قُصد فيه الإخبار عن بهيمتين أو محاورة
+        <lb/>
+
+        سبع وثور فيجوز بذلك عن غرضه المقصود إليه
+      </p>
+
+      <p n="A Fisher Finds an Empty Shell">
+        ويكون مثله كمثل الصيّاد الذي كان في بعض الخلجان
+        <lb/>
+
+        يصيد في زورق فبصر ذات يوم في قاع الماء صدفة
+        <lb/>
+
+        تتلألأ حسنًا فتوهّمها شيء له ثمن كثير
+      </p>
+
+      <p n="The Fisher Abandons His Catch for the Shell">
+        وكان قد
+        <lb/>
+
+        ألقى شبكته فوقعت على سمكة كانت قوت يومه
+        <lb/>
+
+        فخلّاها وقذف نفسه إلى الماء ليأخذ الصدفة
+        <lb/>
+
+        فلمّا أخرجها وجدها فارغة ممّا ظنّ فندم على تركه
+        <lb/>
+
+        ما كان حصل بيده وتأسّف على ما فاته
+      </p>
+
+      <p n="The Fisher Misses the Pearl">
+        فلمّا كان
+        <lb/>
+
+        اليوم الثاني تنحّى عن ذلك الموضع ورمى بشبكته فأصاب
+        <lb/>
+
+        حوتًا صغيرًا فحاول أخذها فنظر في ذلك الموضع
+        <lb/>
+
+        صدفة فلم يلتفت إليها وساء ظنّه بها فتركها
+      </p>
+
+      <p n="Another Fisher Wins the Pearl">
+        فجاء صيّاد آخر غيره فأخذها فوجد فيها درّة بلغت
+        <lb/>
+
+        أموالًا كثيرة فازداد حسرة وندامة على تركها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

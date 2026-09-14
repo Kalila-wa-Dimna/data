@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>H170</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="42"/>
+
+      <p n="unassigned">
+        إلّا العناء والتعب لأنّه لم يفتكر في آخر أمره
+      </p>
+
+      <p n="Readers Should Look for Hidden Meaning">
+        وكذلك من قرأ هذا الكتاب ولم يعلم علم عرضه
+        <lb/>
+
+        ظاهرًا وباطنًا لم ينتفع بما بدا له من خطّه نفسه
+      </p>
+
+      <p n="A Nut Has to Be Cracked">
+        كما أنّ رجلًا لو قُدّم له جوز صحيح لم
+        <lb/>
+
+        ينتفع به إلّا أن يكسره وينتفع بما فيه
+      </p>
+
+      <p n="Man Acquires Yellow Folio">
+        وكان كالرجل الذي طلب العلم الفصيح فرسم
+        <lb/>
+
+        له بعض أصدقائه فصيحة فيها فصيح الكلام وتصاريفه ووجوهه
+      </p>
+
+      <p n="Man Memorizes from Yellow Folio">
+        فانصرف المتعلّم
+        <lb/>
+
+        إلى منزله وجعل يكثر قراءتها فلا يقف على معانيها ولا يعرف ما فيها ثمّ إنّه جلس ذات
+        <lb/>
+
+        يوم في محفل من أهل العلم والأدب والفطنة وهو يظنّ أنّه قد اكتفى بما قرأه من تلك
+        <lb/>
+
+        الصحيفة
+      </p>
+
+      <p n="Man Reads from Yellow Folio and Errs">
+        فأخذ في محاورتهم فجرت له كلمة أخطأ فيها فقال له بعضهم قد أخطأت فيها
+        <lb/>
+
+        والوجه غير ما تكلّمت به فقال كيف أخطئ وقد قرأت الصحيفة الصفراء وهي في منزلي
+      </p>
+
+      <p n="Using the Yellow Folio Proved His Ignorance">
+        فكان مقالته أوجبت الحجّة عليه وزاده ذلك قربًا من الجهل وهذا من الأدب
+      </p>
+
+      <p n="Intelligent Readers Must Implement Knowledge">
+        ثمّ
+        <lb/>
+
+        إنّ العاقل إذا فهم هذا الكتاب وعمله وبلغ نهاية علم ما فيه ينبغي له أن يعمل بما علم
+        <lb/>
+
+        منه لينتفع به ويجعله مثالًا لا يحيد عنه فإذا لم يفعل ذلك
+      </p>
+
+      <p n="Man Notices Burglar but Feigns Sleep">
+        كان مثله مثل الرجل الذي
+        <lb/>
+
+        إنّ سارقًا تسوّر عليه وهو نائم في منزله فعلم به فقال والله لأسكتنّ حتّى أنظر ما
+        <lb/>
+
+        يصنع ولا أذعره ولا أعلمه أنّي قد علمت به فإذا بلغ مراده قمت إليه فنغّصت ذلك
+        <lb/>
+
+        عليه ثمّ أمسك عنه
+      </p>
+
+      <p n="Burglar Steals and Gets Away">
+        وجعل السارق يطوف فطال تردّده على الرجل في جمعه ما يجده
+        <lb/>
+
+        فغلبه النعاس فنام وفرغ اللصّ ممّا أراد وأمكنه الذهاب واستيقظ
+      </p>
+
+      <p n="Man Discovers Mishap and Laments">
+        الرجل فوجد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

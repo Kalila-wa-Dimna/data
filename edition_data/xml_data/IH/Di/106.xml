@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="106"/>
+
+      <p n="They plot to steal wares">
+        |في الحالِ يُلقي الخازنُ البضائِعا ### من كوّةٍ ينظرُ منها الشارِعا
+        <lb/>
+
+        |ثُمّتَ خافا أن يراهما أحدْ ### يَكشفُ ما هما عليه في البلَدْ
+      </p>
+
+      <p n="Magazine keeper asks painter to create a sign">
+        |فقال للمصوّرِ اجْعلَ حيلَهْ ### تُنفَى بها العاقبةُ الوبيلَهْ
+      </p>
+
+      <p n="Painter suggests black-and-white coat to magazine keeper">
+        |فقال لي ملاءةٌ مصوّرَهْ ### مليحةُ نقوشُها كالحَبَرَهْ
+        <lb/>
+
+        |إذا أنا لبِستُها فبادِرِ ### للطرحِ لا تَخْشَ رِقابَ ناظرِ
+      </p>
+
+      <p n="Painter's servant hears about coat">
+        |درى بذاك خادمُ المصوّرِ ### فرامَ أن يربَحَ من ذا المتجَرِ
+      </p>
+
+      <p n="Painter's servant borrows coat">
+        |فلبسَ الحُلّةَ ثمّ جاءَ ###
+      </p>
+
+      <p n="Servant tricks keeper">
+        ففاز بالمتاعِ ثمّ فاءَ
+      </p>
+
+      <p n="Painter realizes keeper was tricked">
+        |ثمّ أتى سيّدُهُ في الحالِ ### فقال لِمْ عُدتَ على استِعْجالِ
+        <lb/>
+
+        |ألم تكنْ ويحَكَ عندي الساعَهْ ### وقد أخذتَ سائِرَ البِضاعَهْ
+        <lb/>
+
+        |فهالَهُ مقالُهُ وراعَهْ ### وهمَّهُ فأظهرَ ارتِياعَهْ
+        <lb/>
+
+        | وعادَ من ساعتِهِ وقد فطِنْ ### فأحرقَ الحلّةَ غيظًا وحَزِنْ
+      </p>
+
+      <p n="Dimna Opposes Acting Upon Doubt">
+        |وإنّ ما ضربتُ مِن ذا المثلِ ### يُحذّرُ اللبيبَ عُقبى العَجَلِ
+        <lb/>
+
+        |والملِكُ النَّدْبُ بحمدِ اللهِ ### مَن ليس عن مصلحةٍ بساهي
+        <lb/>
+
+        |موفّقٌ في عقِدِه والحلِّ ### فاقَ الورى بعلمِهِ والفَضْلِ
+      </p>
+
+      <p n="Dimna Applies the Tale's Deception to Ox to Justify His Killing">
+        |سعى بِيَ الأشرارُ لا الخِيارُ ### فلْيتأمّلْ ولهُ الخِيارُ
+        <lb/>
+
+        |وقد رأى برهانَ صدقي ظاهِرا ### لمّا غدا الثورُ عليه ثائِرا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

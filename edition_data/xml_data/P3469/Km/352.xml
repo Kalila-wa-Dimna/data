@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="352"/>
+
+      <p n="The Vizier Is in Want of a Solution">
+        وغزارة علمه وأمّا أنا فإنّي على نقص من المعرفة ولا يتمّ لي
+        <lb/>
+
+        رأي إلّا بسعد الملك وقوّة جدّه
+      </p>
+
+      <p n="The Wise and the Ignorant Think Differently">
+        وقد قالت الحكماء والجهّال
+        <lb/>
+
+        يجب على الحكيم أن يستشير الجاهل لأنّه إذا شاوره
+        <lb/>
+
+        وكان ذلك الجاهل يخرجه الجهل إلى أن يشير بغير الواجب
+        <lb/>
+
+        لن يسمع الحكيم إلى جهله ولن يقبل كلامه ورأيه لكنّ
+        <lb/>
+
+        الحكيم يميّز الأمور فيختار أرفقها ويصرف كلام الجاهل
+        <lb/>
+
+        إلى ما يليق
+      </p>
+
+      <p n="Consulting the Ignorant">
+        وإنّما يشاور الحكيم الجاهل ليستبين منها
+        <lb/>
+
+        أنّه ربّما أبدى الجاهل سرّ غيره في ذلك الباب فليستعين
+        <lb/>
+
+        الحكيم على كتمه بمشاورته ليضيره وربّما أنتجت قريحة
+        <lb/>
+
+        الجاهل شيئًا فيه بعض الماونة
+      </p>
+
+      <p n="The Vizier Trusts the King Would Take the Advice">
+        والذي قلته في هذا
+        <lb/>
+
+        الباب إنّما أتّكل فيه على معرفة الملك وأنّه لا يغضب
+        <lb/>
+
+        عليّ بل يقبله منّي قبولًا حسنًا
+      </p>
+
+      <p n="King R Appreciates the Vizier's Candor">
+        قال الملك كلّ ما قلت
+        <lb/>
+
+        في غاية الحسن وهو عليّ حقيقته إلاّ الكلمة الواحدة
+        <lb/>
+
+        التي قلت إنّك ناقص المعرفة فما أنت عندي بناقصها
+        <lb/>
+
+        وإنّك لذو معرفة والفضيلة الكاملة عندي أفضّلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

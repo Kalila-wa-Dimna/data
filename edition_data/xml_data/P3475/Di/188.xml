@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="188"/>
+
+      <p n="Dimna's Third Subtale of Plower Who Told His Wife to Cover Herself First">
+        لمثالب الناس ونقيضهم
+      </p>
+
+      <p n="Prominent Courtier Requests Tale">
+        قال رأس الخنازير وكيف كان دمنة
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="A Man and His Two Wives Become War Captives">
+        قال دمنة زعموا أنّها كانت مدينة يُقال لها برزجين
+        <lb/>
+
+        أغار عليها العدوّ فقتلوا مقاتليها وسبوا باقي أهلها
+        <lb/>
+
+        فلمّا اقتسموا فيهم وقع في حصّة رجل منهم امرأتان كانتا
+        <lb/>
+
+        لرجل من الأكّارين والرجل أيضًا وقع في حصّة هذا الرجل المذكور
+        <lb/>
+
+        وكان شحيحًا فأجاعهم وأعراهم وأمرهم أن يؤدّوا إليه
+        <lb/>
+
+        ضريبة مُسمّاة
+      </p>
+
+      <p n="One Wife Blames the Other for Being Naked">
+        فخرج الأكّار مع امرأتيه ليحتطب فلحقت أحد
+        <lb/>
+
+        امرأتيه خرقة فأخذتها فسترت بها عورتها فنادت
+        <lb/>
+
+        صاحبتها الأكّار وقالت انظر إلى هذه الفاجرة لا تستحي
+        <lb/>
+
+        تمشي عريانة
+      </p>
+
+      <p n="The Man/One Wife Tells Other Wife to Cover Herself First/Mind Her Own Nakedness">
+        فقال لها زوجها لو بدأت بالنظر في نفسك
+        <lb/>
+
+        فرأيت عُريك لم تعتري من سترتْ عورتها
+      </p>
+
+      <p n="Dimna Reviles Courtier">
+        وكذلك
+        <lb/>
+
+        أنت أيّها الغادر ذو العلامات القبيحة والعيب الشديد
+        <lb/>
+
+        والعجب من جرأتك على الدنوّ من طعام الملك وخدمته
+        <lb/>
+
+        وأنت تعرض من عيوبك ما تعرّفك
+      </p>
+
+      <p n="Dimna Protected Courtier's Secrets">
+        ولست أنا وحدي
+        <lb/>
+
+        المطّلع على عيبك ولكن جمع من حضرنا وقد كان يحجزني
+        <lb/>
+
+        عن إظهار ما اطّلعت عليه منك الصداقة التي كانت
+        <lb/>
+
+        بيني وبينك وإنّ ضرر ذلك لم يكن يعدوك
+      </p>
+
+      <p n="Dimna Now Repays Courtier's Hostility">
+        فأمّا الآن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

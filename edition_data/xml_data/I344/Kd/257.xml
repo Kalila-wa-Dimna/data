@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="257"/>
+
+      <p n="King Summons Brahmins">
+        فلمّا انتبه المَلك دعا قومًا من أهل ملّة
+      </p>
+
+      <p n="King Had Killed Brahmins">
+        قد كان أفناهم
+        <lb/>
+
+        وتتبّع أهلها حتّى أبادهم فأتوه بعد طلب منه لهم شديد
+        <lb/>
+
+        فدخلوا عليه وكان نفاهم من بلادهم وقتلهم يُقال
+        <lb/>
+
+        لهم البرهميّون
+      </p>
+
+      <p n="King Has Brahmins Interpret Dreams">
+        وكان المَلك قد اغتمّ وذعر وكثرت
+        <lb/>
+
+        فكرته فيما رأى في منامه فسألهم أن يفسّروا له رؤياه
+      </p>
+
+      <p n="Dreams">
+        بالنار ورأى طيرًا أبيضًا ينقر رأسه بمنقاره
+        <lb/>
+
+        والله تعالى أعلم بالصواب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

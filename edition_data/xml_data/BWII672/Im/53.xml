@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="53"/>
+
+      <p n="A Merchant Steals from His Partner">
+        منزله قريبًا من الحانوت والآخر بعيدًا
+      </p>
+
+      <p n="The Merchant Devises a Plot">
+        عنه فأضمر
+        <lb/>
+
+        الذي قريب من الحانوت أن يسرق من أعدال رفيقه عدلًا
+        <lb/>
+
+        ثمّ إنّه فكّر في وجه الحيلة وقال إن أنا جئت ليلًا لم آمن
+        <lb/>
+
+        أن أحمل عدل من أعدالي ولا أعرفه لحلوك الدجى فيذهب
+        <lb/>
+
+        تعبي وعنائي باطلًا ولكنّي أعلّم العلامة لكي أعرف الذي
+        <lb/>
+
+        آخذه
+      </p>
+
+      <p n="The Merchant Executes the Plot">
+        ثمّ إنّه أخذ رداءه وطرحه على إحدى أعدال رفيقه الذي
+        <lb/>
+
+        أضمر أخذه ثمّ انصرف إلى منزله وخلّف رفيقه في الحانوت
+        <lb/>
+
+        بعده
+      </p>
+
+      <p n="The Partner Finds the Garb">
+        فلمّا أراد رفيقه الانصراف جعل يصلح أعداله فأبصر
+        <lb/>
+
+        رداء رفيقه على إحدى أعداله
+      </p>
+
+      <p n="The Partner Moves the Garb">
+        فقال والله هذا رداء رفيقي
+        <lb/>
+
+        وأظنّه نسيه وما الرأي أن آخذه بل الرأي أن أدعه ها هنا
+        <lb/>
+
+        على أعداله فعساه أن يعود للحانوت فيجده على إحدى
+        <lb/>
+
+        أعداله ثمّ إنّه ألقاه على إحدى أعداله أي أعدال رفيقه
+        <lb/>
+
+        وقفل حانوته وانصرف
+      </p>
+
+      <p n="The Merchant Steals His Own Bale">
+        فلمّا دجا الليل جاء رفيقه صاحب
+        <lb/>
+
+        الرداء ومعاه رجل آخر قد أوصاه على ما عزم عليه
+        <lb/>
+
+        وضمن له جعلًا يدفعه له من ماله فوصلا إلى الحانوت
+        <lb/>
+
+        ففتح ولحمس على الرداء في الظلمة فوجده على عدل فحمل العدل
+        <lb/>
+
+        الذي الرداء عليه وأخرجاه بعد جهد جهيد وصارا هو
+        <lb/>
+
+        ورفيقه يتناوبان في حمل العدل حتّى وصلا به إلى منزله
+        <lb/>
+
+        فقد حصل له تعبًا بليغًا
+      </p>
+
+      <p n="The Merchant Discovers the Error at Home">
+        فلمّا كان من الغد وأشرق النهار
+        <lb/>
+
+        وإذ العدل هو عدله فندم حدّ الندامة ثمّ انطلق نحو الحانوت
+        <lb/>
+
+        فوجد شريكه قد سبقه إليه وتفقّد الأعدال فوجد عدل شريكه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="319"/>
+
+      <p n="Mother Warns of Conspiracy">
+        لتحميل من يحلّ به من أهل الشرارة وسوء الرؤية من وزرائك
+      </p>
+
+      <p n="Kings Must not Delegate Their Own Duties">
+        وإنّ الملك إذا أغفل من أمره ما هو حقيق بمباشرته وألزم نفسه
+        <lb/>
+
+        مباشرة ما ينبغي تفويضه إلى الكفاءة دخل عليه من مضرّة ذلك
+        <lb/>
+
+        ما يكره عاقبة إذا نظر في مغيبها واستبان له خطل رأيه فيه
+        <lb/>
+
+        وضاعت أموره ودعا العار إلى نفسه
+      </p>
+
+      <p n="Kings Should Investigate in Various Ways">
+        والملوك يحتاجون إلى النظر
+        <lb/>
+
+        في وجوه شتّى من الأمور فإذا آثروا النظر في بعض تلك الوجوه
+        <lb/>
+
+        على بعض لم يأمنوا أخطاء البصر وزال الرأي
+      </p>
+
+      <p n="Deliberateness Prevents Regret">
+        ومن لم يستبان في
+        <lb/>
+
+        أمره ويتأنّ فيه كان ثمرة جناية الندامة
+      </p>
+
+      <p n="Vision Alone May Deceive">
+        ومن لم ينظر فيه نظر
+        <lb/>
+
+        متفكّر معتبر أصابه منه الضرّ الشديد مع ما يلحقه منه العار
+        <lb/>
+
+        والمنقصة
+      </p>
+
+      <p n="King Must Investigate Thoroughly">
+        فالواجب على الملوك أن لا يدعوا شيئًا يليه غيرهم
+        <lb/>
+
+        ممّا يصل إليهم فما سواه إلّا التمسوا معرفة ذلك واختبروه بتثبّت
+        <lb/>
+
+        وإتقان
+      </p>
+
+      <p n="Meat Is Tested with Three Senses">
+        كاللحم الذي لا ينبغي أن يُرضى بحسن منظره دون معرفة
+        <lb/>
+
+        رائحته وطعمه فإنّه ربّما حال منه اللون فلا يكون طعمه ورائحته
+        <lb/>
+
+        موافقًا للونه
+      </p>
+
+      <p n="Wine Is Tested with Three Senses">
+        وكصاحب الخمرة الذي إذا أراد اشتراءها احتاج
+        <lb/>
+
+        إلى اختبار لونها وطعمها وريحها فإن هو آثر بالاختبار بعض ذلك
+        <lb/>
+
+        لم يأمن الغبن والخسران
+      </p>
+
+      <p n="Imaginary Hair in Eye Taken for Real">
+        وكالرجل الذي يكون في عينيه ريح السمادير
+        <lb/>
+
+        فخُيّل إليه لها أنّ بينهما كهيئة الشعرة المعلّقة ولا يتثبّت في القضاء
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

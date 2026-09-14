@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="15"/>
+
+      <p n="Informed Traveller Takes Risky Road">
+        كان عارفًا بطريق مخوفة ثمّ سلكها وهو عالم
+        <lb/>
+
+        بها لقُضي عليه بالجهل ولعلّه إن حاسب نفسه
+        <lb/>
+
+        وجدها ترتكب أشياء وتقتحم في أمور هو أشدّ
+        <lb/>
+
+        معرفة بها وبضررها وسوء عاقبتها من ذلك
+        <lb/>
+
+        السارق في الطريق المخوف الذي قد عرفه
+      </p>
+
+      <p n="Desire Impedes Judgement">
+        ومن
+        <lb/>
+
+        ركب هواه ورفض ما ينبغي له أن يعمل به ولم
+        <lb/>
+
+        يقتد بما جرّب فيما مضى من عمره
+      </p>
+
+      <p n="Informed Patient Eats Bad Food">
+        كان كالمريض
+        <lb/>
+
+        العالم بثقيل الطعام وخفيفه ثمّ يغلبه الشره
+        <lb/>
+
+        وتحمله الشهوة على أكل الثقيل ويدع استعمال
+        <lb/>
+
+        ما هو أقرب له إلى الراحة والعافية
+      </p>
+
+      <p n="Those in the Know Have No Excuse">
+        وأقلّ
+        <lb/>
+
+        الناس عذرًا في اجتناب محمود الفعال وارتكاب
+        <lb/>
+
+        مذمومها من أبصر ذلك وميّزه وعرفه
+        <lb/>
+
+        وعرف فضل بعضه على بعض
+      </p>
+
+      <p n="A Sighted and a Blind Fall into a Ditch">
+        كما أنّه لو أنّ رجلين
+        <lb/>
+
+        أحدهما بصير والآخر أعمى ساقهما الأجل
+        <lb/>
+
+        إلى حفرة فوقعا فيها فهلكا فكانا فيها إذا
+        <lb/>
+
+        صارا جميعًا إلى قعرها بمنزلة واحدة في الهلكة
+      </p>
+
+      <p n="The Sighted Man Has No Excuse">
+        غير أنّ البصير أقلّ عذرًا عند الناس إذ كانت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

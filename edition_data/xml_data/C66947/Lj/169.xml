@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>C66947</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="169"/>
+
+      <p n="Lion Reassures Jackal">
+        فلا تخف ممّا أراك تذكره فإنّه
+        <lb/>
+
+        لا بدّ من الاستعانة بك على كلّ
+        <lb/>
+
+        حال
+      </p>
+
+      <p n="Jackal Gives Conditions for Service">
+        قال ابن آوى إذا
+        <lb/>
+
+        كان ولا بدّ فليجعل لي الملك
+        <lb/>
+
+        عهدًا أنّه لا يسمع عليّ كلامًا من
+        <lb/>
+
+        أحد لا من خاصّته ولا عامّته
+        <lb/>
+
+        ولا عدوّ
+      </p>
+
+      <p n="Jackal Vows Devotion on His Terms">
+        أنا أقبل أمره وأدخل تحت إرادته مع أنّي كاره لذلك لكنّي أفعله إطاعة للملك
+      </p>
+
+      <p n="Lion Commits to Conditions">
+        قال له الملك أنا على ما بيني وبينك من العهود فطب نفسًا وقرّ عينًا
+      </p>
+
+      <p n="Jackal Excels in Position">
+        ثمّ
+        <lb/>
+
+        إنّ الأسد استخار الله تعالى وولّاه أعماله وسلّم إليه مفاتيح الخزائن وأدناه
+        <lb/>
+
+        وقرّبه دون أصحابه وأنزله المنزلة الرفيعة وكان يخلو معه في كلّ ساعة وإنّ
+        <lb/>
+
+        الأسد ازداد به في أيّام صحبته إعجابًا وأكرمه كرامة عظيمة وفوّض إليه جميع أموره
+        <lb/>
+
+        صغيرها وكبيرها
+      </p>
+
+      <p n="Jackal's Status Stirs Jealousy">
+        قال فلمّا فعل الأسد بابن آوى ذلك عظم على
+        <lb/>
+
+        حاشيته وأهل مملكته وقرابته وذوي رأيه ووزرائه فحسدوه واجتمعوا
+        <lb/>
+
+        على حسده وهلكه
+      </p>
+
+      <p n="Schemers Frame Jackal">
+        فدسّوا له لحمًا للملك للغذاء كان الملك قد استطابه وكان قد
+        <lb/>
+
+        أمر ابن آوى بالاحتفاظ به ثمّ سرقوه فخبّؤوه بمكان لم يطّلع عليه ابن آوى وكان
+        <lb/>
+
+        ابن آوى قال للطبّاخ اذهب خذ اللحم اصنعه للملك فأخذه وتحالفوا عليه
+        <lb/>
+
+        الجميع
+      </p>
+
+      <p n="Scheme Triggers Lion's Rage">
+        فلمّا كان من الغداء أدعى الأسد بغدائه فلم يجده وغاب ابن آوى
+        <lb/>
+
+        في بعض أشغال الملك وخدمته ثمّ إنّ الذين مكروا بابن آوى اجتمعوا
+        <lb/>
+
+        وحضروا فلمّا عملوا المكيدة غضب الملك وانتهى به الجوع فنظر بعضهم إلى
+        <lb/>
+
+        بعض
+      </p>
+
+      <p n="Schemers to Impart Difficult News">
+        وقالوا نخبر الملك بما كان
+      </p>
+
+      <p n="Schemers Accuse Jackal">
+        وإنّ ابن آوى ذهب باللحم إلى مسكنه وفضّل نفسه
+        <lb/>
+
+        على الملك ثمّ أخبروا الملك بذلك
+      </p>
+
+      <p n="Schemers Say Jackal Is Unlikely to Steal">
+        قال أحدهم ما أظنّ ابن آوى يفعل شيء من
+        <lb/>
+
+        ذلك ولكن افحصوا عن ذلك فحصًا بيّنًا
+      </p>
+
+      <p n="Schemers Suggest Searching Jackal's House">
+        فقال بعض أهل السوء لا يخفى ذلك
+        <lb/>
+
+        واكشفوا عن قضيّة الأمر يبان لكم نتيجته فإن وُجد اللحم في منزل ابن آوى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

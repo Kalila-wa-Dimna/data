@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="174"/>
+
+      <p n="Peace Is Worth the Tribute">
+        الملك من عدوّه أمر لا يقوى عليه واشتدّت شوكته وخاف على
+        <lb/>
+
+        نفسه ورعيّته الهلكة والفساد على بلادهم والعطب
+        <lb/>
+
+        على رعيّتهم أن يجعلوا الأموال جُنّة للملك والرعيّة
+      </p>
+
+      <p n="Peace Should Come Sooner than Later">
+        وتعجيل ما أشرت
+        <lb/>
+
+        به عليك أفضل من تأخيره
+      </p>
+
+      <p n="The Crow King Asks the Fourth Crow">
+        قال الملك للرابع ما رأيك في هذا
+        <lb/>
+
+        الصلح الذي ذكر
+      </p>
+
+      <p n="Recourse Is in Abandoning Home">
+        قال لا أراه رأيًا بل نترك أوطاننا والاصطبار
+        <lb/>
+
+        على الغربة وشدّة المعيشة أحبّ إلينا من وضع أحسابنا والخضوع
+        <lb/>
+
+        لأعدائنا الذي نحن أشرف منه وأكرم
+      </p>
+
+      <p n="Paying Tributes Is Debasing">
+        ومتى أدّينا إليهم الخراج
+        <lb/>
+
+        كان في ذلك صغار ومذلّة
+      </p>
+
+      <p n="The Owls Would Overdemand">
+        مع أنّي قد عرفت أنّا لو عرضنا ذلك عليهم
+        <lb/>
+
+        لم يرضوا إلاّ الاشتطاط
+      </p>
+
+      <p n="Accepting Oppression Aids Foes">
+        وقد قيل من أقرّ بالذلّ والاستخدام ووضع
+        <lb/>
+
+        نفسه فقد أعان عليها وجعل ذلك ذريعة له إليها
+      </p>
+
+      <p n="Foes Should Be Kept at the Right Distance">
+        وقد قيل
+        <lb/>
+
+        قارب عدوّك بعض المقاربة تنل حاجتك منه ولا تقاربه كلّ المقاربة
+        <lb/>
+
+        فيجترئ عليك بها ويضعف جندك وتذلّ نفسك
+      </p>
+
+      <p n="Gauging Distances Is Like Maximizing Shadows">
+        ومثل ذلك
+        <lb/>
+
+        مثل الخشبة المنصوبة في الشمس إن أملتها قليلًا زاد ظلّها
+        <lb/>
+
+        وإن جاوزت الحدّ في إمالتها نقص الظلّ
+      </p>
+
+      <p n="The Owls Will Not Accept the Pact">
+        وليس عدوّنا براض منا بالدون
+        <lb/>
+
+        من المقاربة
+      </p>
+
+      <p n="The Crows Should Be Wary and Prepared">
+        وقد ينبغي أن نكون على حذر وتأهّب فإن هنّ أقبلن
+        <lb/>
+
+        لقتالنا جاوزناهم إيّاه ونصبنا لهنّ فيه وصبرنا لعلّ الله يظفّرنا
+        <lb/>
+
+        بهنّ وينصرنا عليهنّ
+      </p>
+
+      <p n="Recourse Is in Fighting the War and Enduring">
+        فالرأي لنا المحاربة والصبر
+      </p>
+
+      <p n="The Crow King Asks the Fifth Crow, a Spy">
+        قال الملك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

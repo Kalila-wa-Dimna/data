@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="7"/>
+
+      <p n="Discoverer Hires Help">
+        نفسه إن أنا أخذت الآن في نقل ما ها هنا ألقيت لنفسي عملا طويلا ولم أحرز
+        <lb/>
+
+        منه في أيّام إلّا يسيرًا ولكنّنى أستأجر رجالًا يحملونه
+      </p>
+
+      <p n="Helpers Take Treasure">
+        ففعل ذلك وجاء بالرجال فحمل كلّ
+        <lb/>
+
+        واحد منهم ما أطاق وانطلق فيما زعم الى منزله فلم يزل بعد الفراغ
+      </p>
+
+      <p n="Discoverer Loses Treasure">
+        فلم يجد منه شيئًا ووجد
+        <lb/>
+
+        كلّ رجل منهم قد حاز ما حمل لنفسه ولم يكن له إلّا العناء في استخراجه
+      </p>
+
+      <p n="Readers Should Read Carefully and Reflect">
+        فليس ينبغي أن يجاوز
+        <lb/>
+
+        شيئًا إلى غيره حتّى يُحكمه ويتثبّت فيه وفي قراءته وإحكامه فعليه بالفهم لمّا يقرأه والمعرفة
+        <lb/>
+
+        له حتّى يضع كلّ شيء موضعه وينسبه إلى معناه
+      </p>
+
+      <p n="Readers Should Look for Hidden Meaning">
+        ولا يعرض في نفسه أنّه إذا أحكم القراءة
+        <lb/>
+
+        عرف ظاهر القول فقد فرغ ممّا سعى له أن يعرفه منه ولكن ليعرف أنّ له باطنًا لم يعرفه لم
+        <lb/>
+
+        ينتفع بظاهره
+      </p>
+
+      <p n="A Nut Has to Be Cracked">
+        كما أنّ رجلًا لو أُتي بجوز كثير صحاح في قشوره لم ينتفع به حتّى يكسره ويستخرج
+        <lb/>
+
+        ما فيه
+      </p>
+
+      <p n="Readers Should Extract Hidden Meaning">
+        فعليه أن يعلم أنّ له خفيّات أن يلتمس علم ذلك
+      </p>
+
+      <p n="Man Acquires Yellow Folio">
+        ولا يكن كالرجل الذي بلغني أنّه طلب
+        <lb/>
+
+        شيئًا من علم الفصاحة فأتى صديقًا له ومعه صحيفة صفراء فسأله أن يكتب له فيها أصل العربيّة
+        <lb/>
+
+        فكتب له في الصحيفة
+      </p>
+
+      <p n="Man Memorizes from Yellow Folio">
+        فانطلق الرجل بها الي منزله فجعل يقرأها لا يدري ما يقرأ فظنّ أنّه قد أحكم
+        <lb/>
+
+        ما في الصحيفه
+      </p>
+
+      <p n="Man Reads from Yellow Folio and Errs">
+        فتكلّم بكلمة أخطأ فيها في بعض المجالس وفيه جماعة من أهل الفصاحة والأدب
+        <lb/>
+
+        فقال له بعض القوم لحنت فقال أنا ألحن والصحيفة الصفراء في منزلي
+      </p>
+
+      <p n="Intelligent Readers Must Implement Knowledge">
+        ثمّ عليه إذا فهمه وعلمه وعرف
+        <lb/>
+
+        غايته أن ينتفع بما عرف منه وأن يتأدّب بما رأى فيه من الآداب
+      </p>
+
+      <p n="Culture and Death Are Not to Be Disregarded">
+        فإنّه يُقال في أمرين لا ينبغي لأحد
+        <lb/>
+
+        أن يستكبر عنها كثر الأدب والموات
+      </p>
+
+      <p n="Culture Is the Spark of Life">
+        ويُقال إنّ الأدب يجلو العقل كما يجلو الودك النار ويزيد به
+        <lb/>
+
+        ضوء
+      </p>
+
+      <p n="Culture Advances One's Rank">
+        والأدب يرفع منزلة صاحبه
+      </p>
+
+      <p n="Culture Shields from Danger">
+        والعلم ينجّي من استعمله
+      </p>
+
+      <p n="Man Notices Burglar but Feigns Sleep">
+        ومن عمل ولم يستعمل علمه لم ينتفع بعمله مثل
+        <lb/>
+
+        الرجل الذي بلغني أنّ سارقًا دخل عليه في منزله فاستيقظ به الرجل فقال في نفسه لأسكتنّ حتّى أنظر
+        <lb/>
+
+        غاية ما يصنع ولأتركنّه حتّى إذا فرغ ممّا يأخذ قمت إليه فنغّصته ذلك وكدّرت عليه وهو في فراشه
+      </p>
+
+      <p n="Burglar Steals and Gets Away">
+        وجعل السارق يطوف في البيت ويجمع ما قدر عليه فطال تطوافه وترداده حتّى غلب الرجل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

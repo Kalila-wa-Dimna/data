@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="21"/>
+
+      <p n="The Merchant Steals His Own Bale">
+        فأخذ نصفه وأعطى صاحبه النصف الآخر
+      </p>
+
+      <p n="The Merchant Notices the Error in the Shop">
+        فلمّا أصبح جاء هو وشريكه فدخلا البيت فرأى
+        <lb/>
+
+        السمسم الذي ذهب به إنّما هو سمسمه ورأى سمسم صاحبه موفرًا على حاله فدعا بالويل
+        <lb/>
+
+        والثبور وعرف أنّ الذي أخذ ذلك الرجل غير الذي صرّ رداءه عليه
+      </p>
+
+      <p n="The Merchant Keeps Silent about His Betrayal">
+        وكره أن يذكر شيئًا
+        <lb/>
+
+        من ذلك لئلّا يعرف بذلك شريكه فيكون ذلك أشدّ عليه من ذهاب سمسمه
+      </p>
+
+      <p n="One Must Know When to Halt Pursuit">
+        فينبغي لمن طلب
+        <lb/>
+
+        أمرًا أن يكون له غاية ونهاية يعتمد عليها
+      </p>
+
+      <p n="He Who Strives Aimlessly Fails">
+        فإنّه يُقال من جرى ولم تكن له غاية يجري إليها
+        <lb/>
+
+        خاب رجاؤه
+      </p>
+
+      <p n="A Pursuit without a Clear Goal Is Treacherous">
+        ومن أجرى دابّته إلى غير غاية يوشك أن تنقطع به دابّته
+      </p>
+
+      <p n="One Should Not Seek the Unattainable">
+        كان حقيقًا
+        <lb/>
+
+        أن لا يعنّي نفسه بما لا حدّ له ولا ييأس ممّا يكون ويوجد
+      </p>
+
+      <p n="The Here Is Not to Be Preferred Over the Hereafter">
+        وأن يكون لآخرته مؤثرًا على دنياه
+      </p>
+
+      <p n="Detachment Eases Death">
+        فإنّه من قلّ نفعه في الدنيا قلّت حسرته عند فراقها
+      </p>
+
+      <p n="Two Things Suit Everyone">
+        ويُقال في أمرين يجملان بكلّ أحد منها
+        <lb/>
+
+        النسك ومنها المال
+      </p>
+
+      <p n="Fire Consumes Every Log">
+        وإنّما مثل ذلك مثل النار المتأجّجة التي يوافقها كلّ حطب وليس من حطب
+        <lb/>
+
+        يُقذف فيها إلّا قبلته
+      </p>
+
+      <p n="God's Blessings Arrive When Least Expected">
+        فلا ينبغي للعاقل أن يقنط ولا ييأس فربّما ساق الله تعالى إلى عبده رزقًا
+        <lb/>
+
+        وهو عنه غافل وله غير راج
+      </p>
+
+      <p n="Pauper Is in Terrible Hardship">
+        ومن أمثال ذلك أنّ رجلًا كانت به فاقة وحاجة شديدة
+        <lb/>
+
+        فشكا ذلك إلى بعض أصدقائه وذوي قرابته وطلب منهم أن يعطوه شيئًا فلم يكن عند واحد
+        <lb/>
+
+        منهم فضل يعود به عليه
+      </p>
+
+      <p n="A Burglar Breaks Into His House">
+        فبينما هو ذات ليلة في منزله إذ نظر إلى سارق يجول في منزله
+        <lb/>
+
+        فقال في نفسه والله ما في منزلي شيئًا يأخذه السارق
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

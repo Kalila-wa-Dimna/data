@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="72"/>
+
+      <p n="unassigned">
+        بهذه الحلاوة القليلة الذي يرى الإنسان ويطعم ويشرب
+        <lb/>
+
+        ويشمّ ويذوق ويلمس فيشغله ذلك عن نفسه ويلهيه عن
+        <lb/>
+
+        مصيره ويصدّه عن سبيل نجاته حتّى يهلك
+      </p>
+
+      <p n="Burzoy‘s Contentment and Hope for Future Guidance">
+        فصار أمري إلى الرضا
+        <lb/>
+
+        بحالي وإصلاح ما استطعت أن أصلح من عملي لعلّي أن أصادف
+        <lb/>
+
+        فيما أواخي زمانًا أصيب فيه دليلًا على هداي ورشدي وسلطانًا
+        <lb/>
+
+        على نفسي وأعوانًا على أمري فأقمت على هذه الحالة
+      </p>
+
+      <p n="Burzoy Returns from India with Books inc. KD">
+        وانصرفت
+        <lb/>
+
+        من بلد الهند وقد انتسخت من كُتُبها كتاب كليلة ودمنة
+      </p>
+
+      <p n="Chapter Title">
+        وأوّله باب الأسد والثور
+      </p>
+
+      <p n="Introduction to the Story's Theme">
+        وهو باب المتحابّين
+        <lb/>
+
+        يقطع بينهما الكذوب المحال بخبثه وكذبه قال
+      </p>
+
+      <p n="Frame dialogue">
+        ديسلم
+        <lb/>
+
+        ملك الهند لتنديا الفيلسوف رأس فلاسفته اضرب لي مثال المتحابّين
+        <lb/>
+
+        يقطع بينهما الكذوب الخائن ويحملهما على العداوة والشنآن قال
+        <lb/>
+
+        الحكيم الفيلسوف إذا ابتلى الرجلان المتحابّان بأن يدخل بينهما
+        <lb/>
+
+        الكذوب بالكذب تقاطعًا وتهاجرًا وفسادًا بينهما ورجع ذلك
+        <lb/>
+
+        على من سعى بينهما فمن أمثال ذلك أنّه كان بأرض الهند موضع
+        <lb/>
+
+        يقال له أرض سندباد وكان سندباد رجلًا تاجرًا كثير المال له
+        <lb/>
+
+        بنون فلمّا كبروا أسرعوا إلى مال أبيهم ولم يحترفوا حرفة
+        <lb/>
+
+        يكسبون بها مالًا فلامهم أبوهم على ذلك ووعظهم وكان فيما قال لهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

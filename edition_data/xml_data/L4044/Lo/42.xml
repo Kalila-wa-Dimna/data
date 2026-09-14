@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="42"/>
+
+      <p n="Analogy of Overflowing Water Reservoir">
+        إن لم يكن له مخرج ومغيض يخرج منه الماء بقدر الذي يدخل انبجس وسال
+        <lb/>
+
+        من نواحي كثيرة وربما انبثق البثق العظيم فذهب ماؤه ضياعًا
+      </p>
+
+      <p n="Sons' Acceptance of Father's Advice">
+        ثمّ
+        <lb/>
+
+        إنّ بني التاجر اتّعظوا وأخذوا بأمر أبيهم
+      </p>
+
+      <p n="Eldest Son's Journey and Ox Cart Incident">
+        فانطلق أحدهم متوجّهًا نحو
+        <lb/>
+
+        أرض يُقال لها سورقان فمرّ في طريقه على مكان فيه وحل شديد
+        <lb/>
+
+        ومعه عجلة يجرّها ثوران أحدهما يُسمّى شتربة والآخر بيدنة
+      </p>
+
+      <p n="Ox Getting Stuck in Mud">
+        فوحل
+        <lb/>
+
+        شتربة في ذلك المكان فعالجه الرجل وأعوانه حتّى استخرجه بعد ما
+        <lb/>
+
+        بلغه الجهد
+      </p>
+
+      <p n="Merchant Leaving a Man to Care for the Ox">
+        وخلّف التاجر عنده رجلًا وأمره أن يقوم عليه أيّامًا فإذا
+        <lb/>
+
+        رآه قد صلح أتبعه
+      </p>
+
+      <p n="Description of the Caretaker's Actions">
+        فلمّا كان من الغد برم الرجل بمكانه وترك الثور ولحق
+        <lb/>
+
+        بالرجل فأخبره أنّ ثوره قد مات
+      </p>
+
+      <p n="Ox's Journey to a Lush Meadow">
+        ثمّ إنّ الثور انبعث من مكانه فلم يزل
+        <lb/>
+
+        يدبّ حتّى انتهى إلى مرج مخصب كثير العشب
+      </p>
+
+      <p n="Ox's Encounter with Inevitable Fate">
+        فدخل في موضع خوف أن
+        <lb/>
+
+        يصيبه في ذلك المكان من العراض الذي لم يكن ليخطئه
+      </p>
+
+      <p n="First Subtable of Man and Wolf (Second Beginning)">
+        مثل ذلك فإنّهم
+        <lb/>
+
+        زعموا أنّ رجلًا كان يجزّ حشيشًا فاغتاله ذئب ليأكله فلم يفطن
+        <lb/>
+
+        له حتّى دنا منه
+      </p>
+
+      <p n="Man's Escape Attempt from the Wolf">
+        فلمّا رآه اشتدّ وجله منه وخرج هاربًا نحو قرية على
+        <lb/>
+
+        شاطئ نهر فلمّا انتهى إلى النهر وجد عليه قنطرة منكسرة ورهقه الذئب
+      </p>
+
+      <p n="Man's Dilemma at the River">
+        فقال في نفسه كيف أصنع وهذا الذئب يتلوني والنهر عميق والقنطرة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3478</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="400"/>
+
+      <p n="unassigned">
+        العلجومة للمودّة التي بينهما انتهى
+        <lb/>
+
+        فقال المرزم وما استئذاني العلجوم الذكر في ذلك وما
+        <lb/>
+
+        هو أولى بذلك الموضع منّى وإنّما هو غدير مباح نحن
+        <lb/>
+
+        وذكرك فيه سواء ولكن أنطلق إلى الغدير فإن كان فيه
+        <lb/>
+
+        خصبة وعزلة وكثرة المرافق على ما ذكرتي مضيت حتّى
+        <lb/>
+
+        أتّخذ فيه عشًّا فإن نازعني زوجك أعلمته أنّه لم يصل
+        <lb/>
+
+        إلى ذلك الموضع عن وراثة من آبائه ولا هو أحقّ بالموضع
+        <lb/>
+
+        منّي قالت الأنثى إنّ ذلك ذلك على ما وصفت ولكنّي أحببت
+        <lb/>
+
+        قربك والأنس بك ومتى كان مسيرك إلى هناك عن مخالفة
+        <lb/>
+
+        منك لصاحبي واعتراض عليه ولم آمن أن يُولّد ذلك بينك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kw</chapter>
+  </chapter>
+</TEI>

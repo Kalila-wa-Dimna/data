@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="155"/>
+
+      <p n="Acting upon Suspicion is Wrong">
+        وإنّما ضربت لكم هذا المثل لتعلموا ما يدخل على القائل من الزلّة والشبهة
+        <lb/>
+
+        والحرج والخروج عن الحدّ
+      </p>
+
+      <p n="Dimna Interprets the Tale">
+        فإن خرج أحد منكم عن حدّه أصابه
+        <lb/>
+
+        ما أصاب ذلك الطبيب الجاهل ونفسه الملومة وقد قالت العلماء ربّما
+        <lb/>
+
+        جُزي المتكلّم بقوله والكلام بين أيديكم فانظروا لأنفسكم
+      </p>
+
+      <p n="Prominent Courtier/Head of Court Suggests Physiognomy">
+        فتكلّم
+        <lb/>
+
+        سيّد الخنازير لإدلاله ومكانته عند الأسد فقال أيّها الأشراف
+        <lb/>
+
+        والعلماء اسمعوا مقالتي وعوا بأحلامكم كلامي
+      </p>
+
+      <p n="Bodily Marks Are Proof of Character">
+        فإنّ العلماء قد قالوا في
+        <lb/>
+
+        آيات الصالحين وآثارهم أنّهم يُعرفون بسيماهم وصورهم ويخبرون الشيء
+        <lb/>
+
+        اليسير بالشيء الكثير
+      </p>
+
+      <p n="Dimna’s Character is Visible in His Body">
+        وها هنا علامات وأسباب تدلّ على هذا
+        <lb/>
+
+        الشقيّ دمنة وتخبر عنه على ظاهر جسمه لتستيقنوا أو تسكنوا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

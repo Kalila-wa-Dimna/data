@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="228"/>
+
+      <p n="Brahmins See Chance">
+        وقَدْ اسْتَمكَنّا مِنْه إذا أفضَى إلَينَا سِرُّه وَعَرفنَا فَرقه من رُؤياه
+      </p>
+
+      <p n="Brahmins Plan Revenge">
+        ولَعلّنَا نَنْتَقِم مِنْه إنْ نَحْن أغلظنَا علَيه في القَول فحَمله الخوف على أنْ
+        <lb/>
+
+        يتبعنَا ما نُريد
+      </p>
+
+      <p n="Brahmins Will Order Killings">
+        فنأمُرُه أنْ يَدفع إلينا مَن يكرم عليه من أهله وَوُزرائِه
+        <lb/>
+
+        ونقول له إنّا قد نظرنَا في كتُبِنَا فلم نَجده صَرف مَا رَأيت إلا قتل مَنْ
+        <lb/>
+
+        يَنْتمي لك
+      </p>
+
+      <p n="Kings Anticipated Question">
+        فإنّ قال من تُريدُون
+      </p>
+
+      <p n="Brahmins List Of Victims">
+        قلنا إيلاذ امرَأتكم وابنهَا حوىر وَابن
+        <lb/>
+
+        أخيك وبلار صَاحب أمرِك فإنّه ذو حيلَة وَعلم <> وَكَاتبك وَلسَانك
+        <lb/>
+
+        وسمعك والفِيل الأبيَض الذي تُقاتِل عَلَيه والفيلَين العَظِيميْن
+        <lb/>
+
+        والفَرس الذي تَركبُه والبخْتِيّ الذي تَسِير عليه وكىناىرون
+        <lb/>
+
+        العالم
+      </p>
+
+      <p n="King Shall Bath In Blood">
+        فنجعل دمائهم في المدن وتقعد فيه
+      </p>
+
+      <p n="unassigned">
+        فإذا أردنا أن نخرج منه
+        <lb/>
+
+        اجتمعنا معشر البرهميين من الآفاق الأربعة فرقيناك وسبّحنا
+        <lb/>
+
+        عنك وغسلناك بالماء والدهن الطيّب ثمّ صيّرناك إلى مجلسك
+        <lb/>
+
+        فيذهب الله عنك ما تحذر ممّا رأيت فإن أنت صبرت على هذا وطبت
+        <lb/>
+
+        به نفسًا خلصت ونجوت من البلاء العظيم الذي قد رهقك
+        <lb/>
+
+        وأشرف عليك وستخلف مكانهم مثلهم فإن أنت لم تفعل
+        <lb/>
+
+        فإنّا نتخوّف عليك أن يعقب ملكك وينزع منك وتهلك ويستأصل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

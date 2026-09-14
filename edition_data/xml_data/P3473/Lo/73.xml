@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="73"/>
+
+      <p n="Animals Are Treated according to Their Benefit">
+        نافر فإذا صار نافعًا قُرّب وكُرّم
+      </p>
+
+      <p n="Dimna's Observation of the Lion's Behavior">
+        فلمّا فرغ دمنة من مقالته
+        <lb/>
+
+        ازداد الملك به إعجابًا وأحسن الردّ عليه
+      </p>
+
+      <p n="Ruler Must Not Undervalue the Noble">
+        وكان فيما قاله
+        <lb/>
+
+        للجلساء بحضرته ينبغي للسلطان أن لا يلحّ في تضييع حقوق
+        <lb/>
+
+        ذوي الحقوق ووضع منزلة ذوي المروءة
+      </p>
+
+      <p n="Ruler Must Correct Former Neglect">
+        وأن يستدرك
+        <lb/>
+
+        رأيه في ذلك
+      </p>
+
+      <p n="A Neglected Person May Be Favoured Anew">
+        ولا يضرّ المفعول به أن يرى من صاحبه
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="A Viper Stepped on Once May Not Bite">
+        فإنّ الناس في ذلك رجلان رجل طبعه الشراسة
+        <lb/>
+
+        وهو كالحيّة التي إن وطئها الواطئ لم تلدغْه لا يحمله ذلك
+        <lb/>
+
+        أن يعود لوطئها ثانيًا فتلدغه
+      </p>
+
+      <p n="Cool Sandalwood May Become Hot">
+        ورجل أصل طباعه السهولة
+        <lb/>
+
+        فهو كالصندل البارد إذا أُفرط في حكّه صار حارًّا مؤذيًا
+      </p>
+
+      <p n="Dimna Asks about Lion's Immobility">
+        ثمّ إنّ دمنة لمّا حصل له من الأنس بالأسد قال له ذات
+        <lb/>
+
+        يوم وقد خلا به إنّي رأيت الملك منذ زمان قد أقام في مكان
+        <lb/>
+
+        لا يبرح منه ولا يتزحزح عنه فلِمَ ذلك
+      </p>
+
+      <p n="Lion's Hesitation to Appear Cowardly">
+        قال الأسد وقد كره
+        <lb/>
+
+        أن يرى منه دمنة جبنًا لم يكنْ ذلك لسوء
+      </p>
+
+      <p n="Description of the Loud Bellowing Sound">
+        فبينما هما في المنادمة
+        <lb/>
+
+        أخار الثور شنزبة خوارًا شديدًا منكرًا فهجّ الأسد من
+        <lb/>
+
+        صوته الذي لم يسمع مثله قطّ وخشي من دمنة
+      </p>
+
+      <p n="Dimna Sees Lion's Fear">
+        فلمّا رأى
+        <lb/>
+
+        منه ما حلّ على الأسد من الصوت ولم يدري ما هو سكت
+      </p>
+
+      <p n="Lion's Explanation of His Immobility">
+        قال الأسد إنّ هذا الصوت قطّ ما سمعته
+      </p>
+
+      <p n="Lion's Speculation About the Source's Size">
+        فإن كانت
+        <lb/>
+
+        جثّة صاحبه عظيمة على قدر صوته
+      </p>
+
+      <p n="Lion's Concern About Territorial Safety">
+        فليس مكاننا هذا بمكان
+        <lb/>
+
+        لنا
+      </p>
+
+      <p n="Dimna's Inquiry About Additional Observations">
+        قال دمنة هل راب الملك شيئًا غير هذا الصوت
+      </p>
+
+      <p n="Lion's Response to Dimna's Question">
+        قال
+        <lb/>
+
+        الأسد ما رابني غير ذلك
+      </p>
+
+      <p n="Dimna's Advice Against Abandoning Territory">
+        فقال دمنة لحقيق بالملك أن يلزمه
+        <lb/>
+
+        مكانه ولا يتركه لأجل الصوت فإنّ المسكن والوطن فراقه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

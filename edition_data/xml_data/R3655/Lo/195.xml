@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="195"/>
+
+      <p n="The Most Resolute Fish Escapes Immediately">
+        ** الذي كان الماء يدخل فيه إلى الغدير من النهر
+      </p>
+
+      <p n="The Wise Fish Procrastinates and Finds the Exit Blocked">
+        وأمّا الكيّسة فثبتت حتّى جاء الصيّادان
+        <lb/>
+
+        فرأتهما وعرفت ما يريدان ووجدتهما قد سدّا ذلك المخرج
+      </p>
+
+      <p n="The Wise Fish Laments Her Delay but Resolves to Use Her Wits">
+        فقالت فرّطت وهذه
+        <lb/>
+
+        عاقبة التفريط فكيف الحيلة على هذه الحال وقلّما تنجح حيلة العجلة والإرهاق
+        <lb/>
+
+        ولكنّ العاقل لا يفرّط على حال ولا يدع الرأي
+      </p>
+
+      <p n="The Wise Fish Escapes by Playing Dead">
+        ثمّ إنّها تماوتت فجعلت تطفو على رأس
+        <lb/>
+
+        الماء منقلبة على ظهرها فأخذها الصيّاد بحساب أنّها ميّتة فوضعها على الأرض بين الغدير
+        <lb/>
+
+        والنهر فوثبت في النهر ونجت من الصيّاد
+      </p>
+
+      <p n="The Helpless Fish is Caught">
+        وأمّا العاجزة فلم تزل في إقبال
+        <lb/>
+
+        وإدبار حتّى صيدت
+      </p>
+
+      <p n="The Lion Doubts Shatraba's Betrayal Due to His Kindness">
+        قال الأسد قد فهمت قولك ولكن لا أظنّ الثور
+        <lb/>
+
+        يغشّني ولا يبغيني الغوائل وكيف يفعل ذلك ولم ير منّي سوءًا قطّ
+      </p>
+
+      <p n="Dimna Argues Shatraba's Ambition Stems from His Promotion">
+        قال
+        <lb/>
+
+        دمنة ألا إنّه لم يحمله على ذلك إلّا أنّه لم ير منك سوءًا
+      </p>
+
+      <p n="The Maxim of the Base Man's Ambition">
+        فإنّ اللئيم الفاجر
+        <lb/>
+
+        لا يزال ناصحًا حتّى يُرفع إلى المنزلة التي ليس هو لها بأهل فإذا بلغها التمس ما
+        <lb/>
+
+        فوقها ولا سيّما أهل
+      </p>
+
+      <p n="The Maxim of the Dog's Tail: A Base Man's True Nature">
+        الخيانة والغدر فإنّ اللئيم الكفور لا يخدم السلطان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

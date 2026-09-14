@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="321"/>
+
+      <p n="Without Advice One Fails">
+        إليه صارت عاقبة أمره فيه إلى ندامة
+      </p>
+
+      <p n="Fortunate King">
+        وإذا كان على خلاف ذلك من
+        <lb/>
+
+        الفضل ومن قبل الوزير ثمّ أعانه القضاء أصاب الفَلح على من خاصمه
+        <lb/>
+
+        والغلبة لمن ناوأه والسرور لمن أخبر به
+      </p>
+
+      <p n="King And Vizier Tale Mention">
+        كما زعموا أنّه كان بين إبلاد
+        <lb/>
+
+        ملك الهند وبراخت امرأته وبلاذ صاحب سرّه ورأيه
+      </p>
+
+      <p n="King Requests Story">
+        قال
+        <lb/>
+
+        الملك وكيف كان ذلك
+      </p>
+
+      <p n="Pious Vizier">
+        قال فيلسوف ذُكر لنا أنّ بلاذ كان ناسكًا
+        <lb/>
+
+        مجتهدًا حسن الخلق لبيبًا حليمًا عاقلًا كاملًا
+      </p>
+
+      <p n="King Dreams">
+        فبينا الملك
+        <lb/>
+
+        نائمًا ذات ليلة في غرفة له إذ رأى تسعة أحلام ينتبه عند
+        <lb/>
+
+        آخر كلّ حلم منها
+      </p>
+
+      <p n="King Summons Brahmins">
+        فلمّا أصبح دعا البرهميّين وهم النسّاك
+      </p>
+
+      <p n="King Has Brahmins Interpret Dreams">
+        وقصّها عليهم وأمرهم أن يعبّروها
+      </p>
+
+      <p n="Brahmins Dramatize Dreams">
+        فقالوا له قد رأيت أيّها الملك
+        <lb/>
+
+        أمرًا مقطَعًا منكرًا لم يسمع بمثله فيما مضى
+      </p>
+
+      <p n="Brahmins Request Delay">
+        فإن أحببت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

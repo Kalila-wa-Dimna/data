@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="116"/>
+
+      <p n="The Mother Goes to the Lion and Finds Him Sad">
+        فلمّا أصبحت أمّ الأسد دخلت عليه فوجدته حزينًا كئيبًا
+      </p>
+
+      <p n="The Mother Asks About the Cause of Grief">
+        فقالت يا ولدي ما هذا الغمّ الذي غلب عليك وأحزنك
+      </p>
+
+      <p n="The Lion Misses the Ox and Regrets Killing Him">
+        قال لها كلّ ذلك أسفًا على ما فرط منّي في أمر شتربه وقتله
+        <lb/>
+
+        وكلّما ذكرت حسن صحبته وخدمته ومناصحته وما كنت
+        <lb/>
+
+        أستمع به من منادمته ورأيه وأسكن إليه من مشورته ونصحه
+      </p>
+
+      <p n="Self-Accusation is the Most Damning">
+        قالت أمّ الأسد إنّ أشدّ ما مرّ على نفسي هذا الأمر
+      </p>
+
+      <p n="Killing the Ox Was Wrong">
+        وعجبت
+        <lb/>
+
+        من وهن رأيك إذ أنّك قدمت على قتل الثور بغير علمٍ ولا خبرٍ يقينٍ
+        <lb/>
+
+        واعلم أنّ ذلك كان الخطأ كلّه
+      </p>
+
+      <p n="The Lion Should Have Controlled Himself">
+        ولو كنت حين بلغك عنه ما
+        <lb/>
+
+        بلغ ثبت قلبك بحسن رويّةٍ ونظرٍ وكففت سورة رأيك
+        <lb/>
+
+        وعرضت وبلغك عنه على قلبك لاكتفيت بمواقع أمره
+      </p>
+
+      <p n="The Lion Should Evaluate His Feelings after the Ox's Death">
+        كافئ
+        <lb/>
+
+        أسفك على حياته وبعد موته
+      </p>
+
+      <p n="The Lion Reflects about the Ox">
+        قال الأسد لقد أكثرت في أمر
+        <lb/>
+
+        الثور فكري وحرصت على البحث عليه بعد قتلي إيّاه على
+        <lb/>
+
+        أن أصيب له ذنبًا واحدًا فيما بيني وبينه أقوّي به سلوته
+        <lb/>
+
+        وأغري به نفسي عنه فلا أجد لذلك أثرًا
+      </p>
+
+      <p n="The Lion Finds no Fault with the Ox">
+        ولست أتذكّر منه
+        <lb/>
+
+        سوء أدبٍ ولا شراسةٍ في خلقٍ ولا أمرًا سيّئًا أقول دعا
+        <lb/>
+
+        ذلك إلى عدواتي
+      </p>
+
+      <p n="The Lion Wants to Conduct an Investigation">
+        وإنّي أحبّ أن أفحص عن أمره فحصًا شديدًا
+      </p>
+
+      <p n="The Mother Alludes to Her Secret Knowledge">
+        قالت أمّ الأسد قد بلغني خبرًا استُكتمته ولولا ما
+        <lb/>
+
+        قالت العلماء في إذاعة السرّ من الإثم والشرّ لذكرته لك ولا
+        <lb/>
+
+        ولأخبرتك به
+      </p>
+
+      <p n="Scholars Say Various Things">
+        قال الأسد إنّ أقوال العلماء كثيرةٌ ومعانيها
+        <lb/>
+
+        مختلفة وأجزاء لا يتصرّف إليها الرأي ولذوي العقول العمل
+        <lb/>
+
+        ببعضها والترك لبعضها على مقتضى الحال
+      </p>
+
+      <p n="It is Immoral not to Report Crimes">
+        وقد قالت العلماء
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

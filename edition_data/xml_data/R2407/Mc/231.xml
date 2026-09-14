@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="231"/>
+
+      <p n="The Rat Decides on a Pact with the Cat">
+        لي إلّا صلح السنّور فإنّه قد نزل به من البلاء مثل الذي
+        <lb/>
+
+        نزل بي ولعلّه لو سمع كلامي الذي أكلّمه من القول
+        <lb/>
+
+        الصحيح الصادق الذي لا خداع فيه أن يفهم عنّي
+        <lb/>
+
+        وأن يطمع في معونتي ويستبشر بصلحي ولعلّه أن
+        <lb/>
+
+        يكون لي وله في ذلك خلاص ممّا نحن فيه
+      </p>
+
+      <p n="The Rat Comes Up to the Cat">
+        ثمّ إنّه دنا
+        <lb/>
+
+        من السنّور وقال له كيف حالك
+      </p>
+
+      <p n="The Cat Acknowledges Being Trapped">
+        قال كالذي تحبّ
+        <lb/>
+
+        من الصيّاد
+      </p>
+
+      <p n="The Rat Points Out Their Common Problem">
+        قال الجرذ ولا أكذب إنّي كلّما أراه ضُيّق
+        <lb/>
+
+        عليك فهو لي سعة وراحة لكنّني اليوم شريكًا في البلاء
+        <lb/>
+
+        ولا أرجو من ذلك لنفسي خلاصًا إلّا الذي أرجو لك من
+        <lb/>
+
+        الخلاص فهو الذي عطّفني
+      </p>
+
+      <p n="The Rat Proves His Sincerity">
+        وستعرف مقالتي إن يكون
+        <lb/>
+
+        فيها كذب وخديعة وقد ترى مكان ابن عرس كامنًا
+        <lb/>
+
+        لي والبومة على الشجرة تريد اختطافي وكلاهما عدوّان
+        <lb/>
+
+        لي ولك فإن رأيت أن تجعل لي ذمامًا إن أنا دنوت
+        <lb/>
+
+        منك أن تؤمّنّي فأنجو بذلك منهما وأنا قاطع حبالك
+        <lb/>
+
+        ومخلّصك ممّا أنت فيه فاطمئنّ إلى ما ذكرت لك وثق
+        <lb/>
+
+        به منّي
+      </p>
+
+      <p n="People Fail without Mutual Trust">
+        فإنّه ليس أحد أحسن من اثنين منزلتهما واحدة
+        <lb/>
+
+        وأجناسهما مختلفة أحدهما لا يُؤمن به والآخر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

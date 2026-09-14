@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="300"/>
+
+      <p n="Schemers Frame Jackal">
+        استطابه وأمر بوضعه في خزانته فسرقوه وخبّئوه في منزل
+        <lb/>
+
+        ابن آوى مخبأ لم يطّلع عليه أحد
+      </p>
+
+      <p n="Scheme Triggers Lion's Rage">
+        فلمّا كان من الغد اجتمعوا
+        <lb/>
+
+        عند غداء الأسد فطلبوا ذلك اللحم فلم يوجد وغاب ابن آوى
+        <lb/>
+
+        في حوائجه وأشغاله وحضر القوم الذين أجمعوا ليكيدوه فلمّا
+        <lb/>
+
+        اشتدّ الأسد في طلب اللحم نظر بعضهم إلى بعض
+      </p>
+
+      <p n="Schemers to Impart Difficult News">
+        ثمّ قال
+        <lb/>
+
+        أحدهم قول المخبر الناصح إنّه لا ينبغي لنا أن نخفي عن الملك
+        <lb/>
+
+        ما علمنا به من أمره فيما يضرّه وينفعه وإن شقّ ذلك على من
+        <lb/>
+
+        شقّ عليه
+      </p>
+
+      <p n="Schemers Accuse Jackal">
+        أن بلغني أنّ ابن آوى هو الذي ذهب باللحم إلى منزله
+      </p>
+
+      <p n="Schemers Say Jackal Is Unlikely to Steal">
+        قال آخر ما أراه يكون فعل ذلك ولكن افحصوا
+      </p>
+
+      <p n="Character Is Difficult to Know">
+        فإنّ
+        <lb/>
+
+        معرفة الخلائق شديدة
+      </p>
+
+      <p n="Schemers Suggest Searching Jackal's House">
+        قال آخر لعمري ما تكاد السرائر أن تعرف
+        <lb/>
+
+        ولكنّكم إن فحصتم عن هذا الأمر وجدتم ذلك اللحم في
+        <lb/>
+
+        منزل ابن آوى وكلّ شيء كان يُذكر لنا من عيوبه وخيانته حقّ
+        <lb/>
+
+        فنحن أحقّ أن نصدّق بما كان يُقال عنه
+      </p>
+
+      <p n="Schemers Say Trickery Is always Exposed">
+        قال آخر
+        <lb/>
+
+        ما ينبغي لأحد أن يغترّ بما يعلم من نفسه من المخاتلة فإنّ المخاتلة
+        <lb/>
+
+        لا يسلم صاحبها ولا يخفى بصاحبها قال آخر وكيف
+        <lb/>
+
+        يسلم من خاتل السلطان وكيف يخفى ذلك ومخاتلة
+        <lb/>
+
+        الأصحاب لا تخفى فكيف تخفى مخاتلة السلطان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

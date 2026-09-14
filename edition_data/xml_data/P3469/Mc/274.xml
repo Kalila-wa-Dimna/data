@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="274"/>
+
+      <p n="unassigned">
+        في قطع الحبائل وقال مالي أراك كأنّك لست بجاد في قطع رباطي
+        <lb/>
+
+        فإن كنت إذا ظفرت بحاجتي تغيّرت مما كنت عليه وتوانيت في
+        <lb/>
+
+        حاجتي فما ذلك من فعل الصالحين ولا من أخلاق أهل الكرم ولا من
+        <lb/>
+
+        صنيع أهل الوفاء وقد كان لك في عاجل مودّتي من النفع والخلاص
+        <lb/>
+
+        من الهلكة ما قد رأيت وإنّه حقيق أن تكافئني بذلك ولا تذكر
+        <lb/>
+
+        سالفة العداوة بيننا فإنّ الذي جرى بيني وبينك من الصلح أهلا
+        <lb/>
+
+        لأن ينسيك ذلك مع ما في الوفاء من الفضل والأجر وما في الغدر
+        <lb/>
+
+        من عاجل العقوبة فإنّ الكريم لا يكون إلاّ شكورًا غير حقود وقد تنسيه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

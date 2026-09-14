@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="336"/>
+
+      <p n="King Orders To Execute Queen">
+        بها فاضرب عنقها ولا ترحمها
+      </p>
+
+      <p n="Vizier Decides To Spare Queen">
+        فخرج بلاذ بإبرخت من عند الملك وقال
+        <lb/>
+
+        ما أنا بنفسه ما أنا بقاتلها حتّى يسكن غضب الملك
+      </p>
+
+      <p n="Vizier Praises Queen">
+        فإنّها إمرأة
+        <lb/>
+
+        عاقلة من الملكات ليس لها في النساء مثل في العقل والفهم
+      </p>
+
+      <p n="King Will Miss Queen">
+        وليس الملك
+        <lb/>
+
+        بصابر عنها وقد خلّص الله بها إلى اليوم ناسكًا كثيرًا من الموت
+        <lb/>
+
+        وعملت أعمالا صالحة ورجاؤنا فيها لليوم
+      </p>
+
+      <p n="Vizier Fears Risk Of Rush">
+        ولست آمن أن يقول
+        <lb/>
+
+        الملك أما استطعت أن تُؤخّر قتلها
+      </p>
+
+      <p n="Viziers Action Depends On King">
+        فلست قاتلها حتّى أنظر
+        <lb/>
+
+        ما يكون من رأي الملك فيها فإن ندم على قتلها وحزن جئته
+        <lb/>
+
+        بها حيّة
+      </p>
+
+      <p n="Vizier Reflects On Benefits">
+        وكنت قد عملت ثلاثة أعمال عظام أنجيت براخت من القتل
+        <lb/>
+
+        وسلّيت حزن الملك وافتخرت بذلك عن الناس
+      </p>
+
+      <p n="Vizier Might Execute Order">
+        وإن لم يذكرها
+        <lb/>
+
+        ولم يشتق إليها أمضيت أمره فيها
+      </p>
+
+      <p n="unassigned">
+        فانطلق بلاذ سرًّا إلى منزله
+        <lb/>
+
+        فوكّل بها رجلين وأمر أهله بحفظها والاستيصاء بها وإكرامها
+        <lb/>
+
+        حتّى ينظر كيف يكون آخر أمرها ثم خضّب بلاذ سيفه بالدّم
+        <lb/>
+
+        ودخل على الملك كئيبًا حزينًا وقال للملك إنّي قد أمضيت
+        <lb/>
+
+        أمرك في ابراخت فلم يلبث أن سكن غضبه
+        <lb/>
+
+        ففكّر في جمال ابراخت ورأيها وعظم عنايتها
+        <lb/>
+
+        وجسيم منفعتها واشتدّ حزنه وجعل يقوّي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

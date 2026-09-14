@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="155"/>
+
+      <p n="The Rat Fulfills the Pact">
+        سوء ظنّ من السنّور ودهش منه ومن خوفه من الصيّاد
+      </p>
+
+      <p n="The Cat and the Rat Escape">
+        فلمّا فرغ من ذلك وثب السنّور إلى الشجرة والجرذ إلى
+        <lb/>
+
+        جحره فأخذ الصيّاد حباله مقطّعة ورجع خائبًا
+      </p>
+
+      <p n="The Cat Calls Back the Rat">
+        وخرج
+        <lb/>
+
+        الجرذ بعد ذلك من جحره فرأى السنّور من بعيد فكره أن يدنو
+        <lb/>
+
+        منه وناداه السنّور أيّها الصديق الذي أبذل جهده بالإحسان
+      </p>
+
+      <p n="The Cat Reminds the Rat of their Friendship">
+        ما يمنعك من الدنوّ منّي لأجازيك بأحسن ما أنلتني هلمّ إليّ
+        <lb/>
+
+        ولا تقطع إخائي
+      </p>
+
+      <p n="If One Gives Up a Friend One Loses Out">
+        فإنّه من اتّخذ صديقًا ثمّ أضاع صداقته
+        <lb/>
+
+        حُرم ثمرة إخائه وليس ممّن ينال من منفعة الإخوان
+      </p>
+
+      <p n="The Cat Suggests a Reward">
+        وإنّ لك عندي يد لا تُنسى وأنت حقيق أن تلتمس مكافأة
+        <lb/>
+
+        ذلك منّي ومن إخواني وألزامي
+      </p>
+
+      <p n="The Cat Reassures the Rat">
+        فلا تخافنّ منّي شيئًا واعلم أنّ
+        <lb/>
+
+        كلّما قبلي فهو لك مبذول ثمّ حلف له أيمانًا مغلّظًا وا
+        <lb/>
+
+        واجتهد غاية الاجتهاد
+      </p>
+
+      <p n="The Rat Distinguishes Hidden from Overt Enmity">
+        فأجابه الجرذ إنّ كلّ صداقة
+        <lb/>
+
+        ظاهرة باطنها عداوة فهي أشدّ من العداوة الظاهرة
+      </p>
+
+      <p n="Riding an Elephant's Tusk">
+        ومن
+        <lb/>
+
+        لم يحترس منها فهو كالرجل الذي ركب على ناب الفيل
+        <lb/>
+
+        فغلبه النعاس
+      </p>
+
+      <p n="An Enemy Is Befriended in Times of Need">
+        ثمّ إنّ الصداقة لما يُرجى نفعه من العدوّ
+        <lb/>
+
+        الذي يُخاف ضرّه إنّما تكون في حينها والعاقل إذا رجا نفع
+        <lb/>
+
+        العدوّ واضطرّ إليه بذل له الصداقة وإن خاف ضرّ
+        <lb/>
+
+        الصديق واستغنى عنه أظهر له العداوة
+      </p>
+
+      <p n="Young Cattle Only Nurse for a While">
+        ألا ترى تتبّع البهائم
+        <lb/>
+
+        لأمّهاتها رجاء ألبانها فإذا انقطع ذلك رجعت عنها
+      </p>
+
+      <p n="Clouds and Rain Come and Go">
+        وكما أنّ
+        <lb/>
+
+        السحاب يتهيّأ ساعة وينقطع أخرى
+      </p>
+
+      <p n="The Intelligent Adapts">
+        كذلك الصديق يتكوّن
+        <lb/>
+
+        مع الأمور على اختلاف أحوال الأصحاب فينشط مرّة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

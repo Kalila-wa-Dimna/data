@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="198"/>
+
+      <p n="Heated Water Cools Down">
+        إلى أصلها
+      </p>
+
+      <p n="The Cat Is the Rat's Worst Enemy">
+        فلا عذر لي
+      </p>
+
+      <p n="The Rat's Need for Friendship Has Gone">
+        وقد اضّرّني وإيّاك حاجة وانقضى
+        <lb/>
+
+        ذلك الأمر وأخاف أن يكون مع ذهابه عود العداوة
+      </p>
+
+      <p n="The Weak Must Avoid the Strong">
+        ولا
+        <lb/>
+
+        خير للضعيف في قرب العدوّ القويّ
+      </p>
+
+      <p n="The Cat Desires the Rat for Food">
+        ولا أعلم لي إليك حاجة
+        <lb/>
+
+        ولا لك لي حاجة إلّا أن تريد أكلي
+      </p>
+
+      <p n="The Prudent Rat">
+        ولا أدري الثقة
+        <lb/>
+
+        بك
+      </p>
+
+      <p n="The Cautious Weak Is Better Than Deluded Strong">
+        فإنّي قد علمت أنّ الضعيف هو أقرب إلى أن يستأمن
+        <lb/>
+
+        العدوّ القويّ إذا حرس نفسه واحترز منه ولا يقربه
+        <lb/>
+
+        واسترسل إليه
+      </p>
+
+      <p n="The Intelligent Escapes Forced Friendship">
+        وإلّا العاقل يصالح عدوّه إذا
+        <lb/>
+
+        اضطرر إليه ويظهر له ودّه ويريه من نفسه الاسترسال
+        <lb/>
+
+        ولا يكاد يسلم إذا لم يجد من ذلك بدًّا
+      </p>
+
+      <p n="Trusting Quickly Is Risky">
+        واعلم
+        <lb/>
+
+        أنّ صريع الاسترسال من صرعه
+      </p>
+
+      <p n="The Intelligent Distrusts Forced Friendship">
+        والعاقل يبقى
+        <lb/>
+
+        لمن صالح بما جمع له من جعل المواثيق بذلك من نفسه
+        <lb/>
+
+        ولا يثق بذلك من أحد
+      </p>
+
+      <p n="The Best Thing Is Distance From the Enemy">
+        ولا يؤثر على البعد من عدوّه
+        <lb/>
+
+        ما استطاع
+      </p>
+
+      <p n="Staying Away from the Enemy is the Best Judgment">
+        والبعد لك من الصيّاد كالبعد لك منّي هو أحزم
+        <lb/>
+
+        الرأي
+      </p>
+
+      <p n="The Rat Will Love the Cat from Afar">
+        وأنا أودّك من بعيد
+      </p>
+
+      <p n="The Rat Does Not Need a Reward">
+        ولا عليك أن تجازيني بمثل
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="The Last Verdict Is No Reunion">
+        ولا سبيل إلى اجتماعنا والسلام
+      </p>
+
+      <p n="The Ending of the Chapter">
+        انقضى باب السنّور والجرذ
+      </p>
+
+      <p n="unassigned">
+        الباب الثامن
+        <lb/>
+
+        باب الملك وطائر قنبره
+        <lb/>
+
+        وهو مثل الأهل الذي ينبغي لبعضهم أن يحترص من بعض
+        <lb/>
+
+        ويمتنع من الثقة والسكون إليه قال الملك ديشلم إلى بيديا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+    <chapter>Kb</chapter>
+  </chapter>
+</TEI>

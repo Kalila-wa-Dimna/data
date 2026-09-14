@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="46"/>
+
+      <p n="Burzoy Writes To Kisra">
+        الحكمة وردّ الهنديّ الكتاب إلى خزانة الملك واطمأنّ قلبه
+        <lb/>
+
+        كتب بروزيه إلى الملك أنوشروان بصورة الحال وبلوغ الآمال
+      </p>
+
+      <p n="Kisra Reads Letter">
+        <> سُرّ أيضًا بذلك سرورًا عظيمًا
+      </p>
+
+      <p n="Kisra Fears Fate">
+        وخاف من عاجلة المقادير أن يُنغّص
+        <lb/>
+
+        عليه ما استنقذه له برززية من ذلك
+      </p>
+
+      <p n="Kisra Praises Burzoys Achievement">
+        فبادر بردّ جوابه بمدحه
+        <lb/>
+
+        والثناء عليه
+      </p>
+
+      <p n="Burzoy Confirmed His Excellence">
+        ويذكر فضله على أهل مملكته
+      </p>
+
+      <p n="Kisra And Subjects Thankful To God">
+        وشكر الله سبحانه
+        <lb/>
+
+        على ما منحه به وأعانه عليه وما أفاده على يديه
+      </p>
+
+      <p n="Kisra Calls Burzoy Back">
+        وأن يعجّل بحضوره
+        <lb/>
+
+        ولا يتأخّر غير مسافة الطريق
+      </p>
+
+      <p n="Kisra Dispatches Letter">
+        وختم الكتاب وسيّره إليه
+      </p>
+
+      <p n="Burzoy Returns To Persia">
+        فلمّا
+        <lb/>
+
+        وافاه جواب الملك عجّل في الحضور وصحبته الكتاب
+      </p>
+
+      <p n="Burzoy Rejoins Kisra">
+        وحضر بين
+        <lb/>
+
+        يدي الملك أنو شروان على
+      </p>
+
+      <p n="Burzoys Exhaustion Shows">
+        ما هو فيه من التعب والنصب والخوف
+        <lb/>
+
+        عظّمه الملك ورفع من شأنه وخطابه بالإكرام
+      </p>
+
+      <p n="Kisra Announces Reward">
+        وقال أيّها الحكيم
+        <lb/>
+
+        الفاضل والعالم الناصح الذي سيأكل ثمرة غرسه ونتيجة نصحه
+        <lb/>
+
+        أطيب ما يرومه اشرح صدرًا وقرّ عينًا فإنّك ممّا أوجبت
+        <lb/>
+
+        علينا الشكر وأنا مشرّفك وبالغ بك أفضل منزلة وأرفع درجة
+      </p>
+
+      <p n="Kisra Orders Rest">
+        وأمره أن يقيم في منزله سبعة أيّام لراحته ثمّ يدخل على الملك
+        <lb/>
+
+        إذا استراح ورجعت إليه نفسه
+      </p>
+
+      <p n="Kisra Holds K D Public Reading">
+        فلمّا كان في اليوم الثامن أمر
+        <lb/>
+
+        الملك باجتماع خواصّ الدولة وأكابر المملكة والعلماء والحكماء
+        <lb/>
+
+        وجلس لهم مجلسًا ظاهرًا كسرويًّا فلمّا اجتمعوا أُحضر برزوية
+        <lb/>
+
+        بين يدي الملك وأعرض الكتب التي قدم بها وفُتحت وقرأ
+        <lb/>
+
+        كتاب كليلة ودمنة أوّلًا
+      </p>
+
+      <p n="K D Well Received">
+        فلمّا سمعوا ما فيها من عجائب الحكم وغرائب
+        <lb/>
+
+        العلوم المرتّبة على ألسنة الحيوانات تعجّبوا من أمثاله المضروبة
+        <lb/>
+
+        وحكمه المرتّبة وبالغوا في شكر بروزيه وضجّ المجلس وماج من السرور
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

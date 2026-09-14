@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="39"/>
+
+      <p n="Kalila's Warning about Dangers of Serving Rulers">
+        صاحبه منه
+      </p>
+
+      <p n="Dimna will Make the Lion See His Benefit">
+        ولو قد دنوت من الأسد وعرفت أخلاقه لطفِقت في متابعته وقلّة
+        <lb/>
+
+        الخلاف عليه فإذا أراد أمرًا زيّنته له وشجّعته عليه حتّى يعمل به وينفذ رأيه
+      </p>
+
+      <p n="Dimna will Make the Lion See His Harm">
+        وإذا
+        <lb/>
+
+        همّ بما خاف ضرّه عليه بصّرته ما فيه بأرفق ما أجد وأبينه
+      </p>
+
+      <p n="Dimna's Hope to Impress the Lion">
+        فأرجو أن يرى منّي في ذلك
+        <lb/>
+
+        أفضل مما يرى من غيري
+      </p>
+
+      <p n="Clever Speech Can Twist the Truth">
+        فإنّ الرجل الحازم الذي يبطل الحقّ ويحقّ الباطل أحيانًا يفعل ذلك
+      </p>
+
+      <p n="Analogy of Skilled Painter's Illusions">
+        كالماهر الذي يصوّر في الحائط تماثيل كأنّها خارجة وأخرى كأنّها داخلة وليست كذلك
+      </p>
+
+      <p n="Dimna's Expectation of the Lion's Response">
+        فإذا هو عرف نبلي وكمال ماعندي وحسن مشورتي كان هو الذي يلمس إكرامي ويُقرّبني
+        <lb/>
+
+        إليه
+      </p>
+
+      <p n="Kalila's Final Warning about Ruler's Danger">
+        قال كليلة أمّا إذا كان رأيك هذا فإنّي أحذّرك السلطان لعظم خطره
+      </p>
+
+      <p n="Three Risky Endeavors According to Scholars">
+        وقد قالت
+        <lb/>
+
+        العلماء في أمور ثلاثة لا يجترئ عليها إلّا أهوج منها صحبة السلطان وإئتمان النساء على
+        <lb/>
+
+        الأسرار وشرب السمّ للتجربة
+      </p>
+
+      <p n="Analogy of Ruler to a Dangerous Mountain">
+        وإنّما شبه صحبتهم كالجبل الوعر الذي فيه الثمار الطيّبة
+        <lb/>
+
+        والأنهار الجارية وفيها السباع والصعود إليه شديد والمقام فيه أفظع وأهول
+      </p>
+
+      <p n="Dimna's Persistence Despite Warnings">
+        قال دمنة قد فهمت ما ذكرت وصدقت فيما وصفت ولكنّي أعرف أنّه من لم يركبْ الهول
+        <lb/>
+
+        من الأمور لم ينلْ الرغائب ومن ترك الأمر الذي لعلّه أن يبلغ حاجته منه هيبةً له
+        <lb/>
+
+        وشفقةً منه لم يصبْ ولم يبلغْ شرفًا
+      </p>
+
+      <p n="Three Challenging Pursuits Requiring Courage">
+        وقد قيل في أمور لا يستطيعها إلّا بمعونة من
+        <lb/>
+
+        ارتفاع همّة وعظم ضعف خطر منها وهي عمل السلطان وتجارة البحر ومناجزة
+        <lb/>
+
+        العدوّ
+      </p>
+
+      <p n="Two Proper Places for Noble Man">
+        وقيل أيضًا إنّه لا ينبغي للرجل ذي المروءة أن يرى إلّا في مكانين إمّا مع الملوك
+        <lb/>
+
+        مكرّمًا وإمّا مع النسّاك متبتّلًا
+      </p>
+
+      <p n="Two Places for Elephant’s Splendor">
+        كالفيل الذي يتبخطر إنّما جماله وبهاؤه في مكانين
+        <lb/>
+
+        إمّا في البرّيّة وحشًا وإمّا مركبًا للملوك
+      </p>
+
+      <p n="Kalila's Blessing for Dimna's Decision">
+        فقال كليلة خار اللّه لك فيما عزمت عليه
+      </p>
+
+      <p n="Dimna Approaching the Lion">
+        ثمّ إنّ دمنة انطلق مسرعًا حتّى أتى إلى الأسد فسلّم عليه وقبّل الأرض بين يديه
+      </p>
+
+      <p n="Lion Inquiring About Dimna's Identity">
+        وقال الأسد من هذا
+      </p>
+
+      <p n="Identification of Dimna">
+        فقال له وزيره هذا ابن فلان
+      </p>
+
+      <p n="Lion Recognizing Dimna's Father">
+        فقال قد كنت أعرف أباه
+      </p>
+
+      <p n="Lion Questioning Dimna's Whereabouts">
+        ثمّ قال له الأسد أين كنت
+      </p>
+
+      <p n="Dimna's Response about His Loyalty">
+        فقال دمنة لم أزلْ بباب الملك مواظبًا وله ملازمًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

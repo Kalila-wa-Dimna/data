@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T117953</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="57"/>
+
+      <p n="unassigned">
+        المال وإحرازه قليلًا قليلًا طال عليّ ذلك وقطعني
+        <lb/>
+
+        الشغل بنقله وإحرازه عن اللذّة بما أصيب منه ولكن
+        <lb/>
+
+        أستأجر قومًا ينقلوه إلى منزلي ثمّ أكون آخرهم فلا يبقى
+        <lb/>
+
+        شيئًا يشعل فكري ففعل ذلك فجاء الحمّالين فجعل كلّ ما
+        <lb/>
+
+        يحمل ما يطيق وينطلق به إلى منزل نفسه
+        <lb/>
+
+        ويختصّ به حتى لم يبق منه شيئًا اتبعهم فلم يجد في منزله
+        <lb/>
+
+        قليلًا ولا كثيرًا ووجد كلًّا منهم قد جاز ممّا حمل لنفسه ولم
+        <lb/>
+
+        يبق له إلاّ التعب والعناء في إخراجه لأنه لم يفكّر
+        <lb/>
+
+        في آخر أمره فمن قرأ هذا الكتاب ولم يفهم معانيه
+        <lb/>
+
+        ولم يعلم غرضه وباطنه لم ينتفع بما ظهر له منه
+        <lb/>
+
+        كما أنّ رجلًا لو قُدّم له جوز صحيح لم ينتفع به حتّى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

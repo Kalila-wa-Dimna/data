@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="94"/>
+
+      <p n="Happpy End and Moral of Falconer's Tale">
+        قال فأمر الرجل عند ذلك بانصراف البازدار من خدمته وأبعده وحظيت
+        <lb/>
+
+        المرأة عنده وكمل سروره بها ورجع البغي بصاحبه
+      </p>
+
+      <p n="A Liar Suffers Punishment in Here and Hereafter">
+        وإنّما ضربت لكم هذا المثل
+        <lb/>
+
+        أنّه لا يكون للذي شهد بالكذب خير في الدنيا ولا في الآخرة
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded and Court's Members Leave for the Day">
+        قال وكتب القاضي
+        <lb/>
+
+        على ما قيل لدمنة وما قال وردّه إلى السجن
+      </p>
+
+      <p n="The Court's Hostility Has Continued for a Third Day">
+        وأقام ثلاثة أيّام يتكلّم بعذره فلم يُقبل
+        <lb/>
+
+        منه ذلك
+      </p>
+
+      <p n="The Mother Warns the Lion of Leaving Dimna Unpunished">
+        ثمّ قالت أمّ الأسد للأسد لئن أنت خليت سبيل دمنة بعد أن ارتكب من
+        <lb/>
+
+        الذنب العظيم
+      </p>
+
+      <p n="Failure to Punish Dimna will Weaken the Lion’s Authority">
+        اجترأ عليك جميع جندك فلا يخافونك ولا يطيعك أحد منهم
+        <lb/>
+
+        وتذهب هيبتك وإذا علموا أنّك لا تعاقب أهل الدنيا ولا تجازي أصحاب الغدر
+        <lb/>
+
+        والمكر ازدادوا عليك جرأة فيضرّك ذلك في ملكك ويضعف سلطانك ومن ضعف
+        <lb/>
+
+        سلطانه فالموت خير له من الحياة
+      </p>
+
+      <p n="Lion Orders Dimna to Be Killed">
+        قال فلمّا سمع ذلك من أمّه واطّلع على كذب دمنة
+        <lb/>
+
+        وفجوره وخدعه ومكره وتماديه على ضلالته وما ثبت من فعله ومن ذنبه أمر الملك
+        <lb/>
+
+        بقتله وبصلبه قال فقُتل دمنة أشرّ قتلة ومُثّل به أعجب مثلة وصلب دمنة فوق
+        <lb/>
+
+        جذع عالي
+      </p>
+
+      <p n="Herald Announces Dimna's Punishment">
+        ونادى منادٍ في جميع الجنود وأصناف الوحوش هذا جزاء من يسعى بين
+        <lb/>
+
+        الملوك بالنميمة والفساد ويعين على خراب البلاد وسفك دم العباد
+      </p>
+
+      <p n="Commentary That Seeking Others' Harm Will Be Punished">
+        وهذا
+        <lb/>
+
+        ما كان من خبر دمنة على التمام والكمال وهو منتهًى خيرٌ مِن طلب نجاة نفسه بهلاك
+        <lb/>
+
+        غيره وعاقبة الخديعة والغدر والمكر ومصير أهل الشرّ
+      </p>
+
+      <p n="End of Chapter">
+        تمّ باب الفحص عن أمر دمنة
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+    <chapter>Rd</chapter>
+  </chapter>
+</TEI>

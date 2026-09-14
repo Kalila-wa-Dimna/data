@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="7"/>
+
+      <p n="unassigned">
+        باب اللبؤة والإسوار وهو مثل من همّ بإدخال الضرر على الناس
+        <lb/>
+
+        حتّى ناله ضرره ثمّ انصرف عن ذلك فكان ذلك له واعظ زاجر
+        <lb/>
+
+        عن ارتكاب الظلم والعدوان من غيره وفي هذا الباب
+        <lb/>
+
+        زجر عن التماس الضرر للناس وإدخال المكروه عليهم
+        <lb/>
+
+        الباب الخامس عشر
+        <lb/>
+
+        باب الناسك والضيف وهو مثل أهل الصنائع يتحوّلون من
+        <lb/>
+
+        صنائعهم التي تليق بهم ويلتقون بها والتي كانت لهم منها المنفعة
+        <lb/>
+
+        والمعيشة إلى غيرها فيضيّعون ما كانوا يحسنون ممّا يتكلّفون
+        <lb/>
+
+        وفي هذا الباب داعية لحملهم على ذلك ومنعهم التحويل
+        <lb/>
+
+        والتثقّل فهذا شرح الخمسة عشر بابًا وبالله التوفيق
+      </p>
+
+      <p n="Chapter Title First Risala">
+        ذكر الرسالة الأولى
+      </p>
+
+      <p n="Chapter Abstract">
+        وهي بعثة أنوشروان برزويه المتطبّب إلى بلاد الهند في
+        <lb/>
+
+        طلب كتاب كليلة ودمنة وهذا أوّلها
+      </p>
+
+      <p n="Hamdala For Gods Wisdom">
+        الحمد للّه
+        <lb/>
+
+        الذي بيده مفاتيح كلّ شيء ومنتهى كلّ شيء وغايته الدالّ على
+        <lb/>
+
+        الخير كفاعله المسبّب فضيلة الملهم عباده ما يقرّبهم من نوغ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

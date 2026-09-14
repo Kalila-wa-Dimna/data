@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="39"/>
+
+      <p n="Burzoy Entrusts Secret To Friend">
+        وأرجو أن تدّخر به عندي مكرمة ويدًا وإن دخلت عليك
+        <lb/>
+
+        فيه مشقّة
+      </p>
+
+      <p n="Burzoy Hopes Secret Remains Kept">
+        وأرجو أن لا يشيع سرّه ولا يفشو لأنّني كاغر
+        <lb/>
+
+        وأنت مقيم وليس بيننا ثالث
+      </p>
+
+      <p n="Friend Provides Book">
+        فشفعه الهندي وأعطاه حاجته
+        <lb/>
+
+        من الكتب
+      </p>
+
+      <p n="Burzoys Effort In Translation">
+        فلمّا حصل برزويه في نسخ الكتاب فأقام فيه زمانًا
+        <lb/>
+
+        طويلًا أتعب فيه بدنه وأسهر ليله وأفنى نهاره
+      </p>
+
+      <p n="Burzoy Translates Under Duress">
+        على فراق الملك
+        <lb/>
+
+        من نفسه
+      </p>
+
+      <p n="Burzoy Writes To Kisra">
+        فلمّا فرغ من ذلك الكتاب وغيره وأحكم ما أراد كتب
+        <lb/>
+
+        إلى أنوشروان يعلمه بما لقي من الخوف والكمد وأنّه قد حصل له ما أحبّ
+      </p>
+
+      <p n="Burzoy Dispatches Letter">
+        وسرّح الكتاب إلى الملك مع رسول قبله في البرية خفية فسار
+        <lb/>
+
+        الرسول حتّى وافى باب الملك فاستأذن فأذن له فدخل بكتاب
+        <lb/>
+
+        برزويه إلى الملك
+      </p>
+
+      <p n="Kisra Reads Letter">
+        ففضّه وقرأه وفرح فرحًا شديدًا ببلوغه
+        <lb/>
+
+        ما أراد
+      </p>
+
+      <p n="Kisra Fears Fate">
+        فثمّ متخوّف معالجة المقادير أن تنغّصه فرحه بما استفاد
+        <lb/>
+
+        برزويه <> وأنّه قد فضّله في المملكة قبل خروجه إلى الهند
+      </p>
+
+      <p n="Kisra Praises Burzoys Achievement">
+        فكتب
+        <lb/>
+
+        إليه يعلمه بسروره بالكتب الذي أفادها
+      </p>
+
+      <p n="Kisra And Subjects Thankful To God">
+        وأهل مملكته قد شكروا
+        <lb/>
+
+        الله على ما أعانه عليه ممّا أفادوا على يديه وأنّهم يرجون أن يصيبوا
+        <lb/>
+
+        أفضل من ذلك وأن يتمّ الله عليهم جلّ ذكره أملهم فيه
+      </p>
+
+      <p n="Kisra Calls Burzoy Back">
+        فإذا قرأت
+        <lb/>
+
+        كتابي هذا فعجّل القدوم ما استطعت وبادر الأجل فإنّه يفتك
+        <lb/>
+
+        ونحن على وجل إلى أن تقدم علينا ونغتبط بما وصلت إليه من الكتب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

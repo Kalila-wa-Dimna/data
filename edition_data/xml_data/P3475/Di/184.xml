@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="184"/>
+
+      <p n="Leopard Calls for Testimony">
+        أمر دمنة علم فليعلمنا ولينطلق به
+      </p>
+
+      <p n="Due Process Will Be Followed">
+        فلنرفعه إلى الملك فإنّ الملك لا
+        <lb/>
+
+        يقبل أحد إلّا بعد الفحص والمسألة واليقين وليس يقتل أحدًا لهوى
+        <lb/>
+
+        نفسه ولا هوى غيره ولا محاباته
+      </p>
+
+      <p n="Judge Calls for Testimony on Three Accounts">
+        ثمّ قال القاضي للجمع اذكروا ما تكلّم
+        <lb/>
+
+        به الأمير فاتّبعوه ولا تكتموا منه شيئًا علمتموه بخلال
+      </p>
+
+      <p n="Importance of Due Process">
+        أمّا إحداهن
+        <lb/>
+
+        فلا ينبغي أن تكرهوا وقوع القضاء موقعه على ما أحببتم أو كرهتم
+      </p>
+
+      <p n="Consequences of Taking Evil Deeds Lightly">
+        ولا يصغر فإنّ الصغير الحق عظيم وأعظم منه عند الله أن يُقتل
+        <lb/>
+
+        بريء بغير جرم لنميمة فاجر كذّاب
+      </p>
+
+      <p n="Punishment of Crime is a Deterrent">
+        والثالثة أنّ المذنب إذا
+        <lb/>
+
+        عوقب لم يجترئ أحد على ارتكاب ما ركب خوف العقوبة ويحجرهم
+        <lb/>
+
+        ذلك عنه ويكون صلاحًا للجند
+      </p>
+
+      <p n="Eliminating Criminals Benefits Society">
+        والثالثة إذا قُتل ذو
+        <lb/>
+
+        الفجور والكذب والنميمة كان فيه راحة للملك وجنوده
+        <lb/>
+
+        فإنّ كينونته بينهم بلاء عظيم وشرّ لازم لهم
+      </p>
+
+      <p n="Judge Reiterates the Call for Testimony">
+        فلينطلقْ
+        <lb/>
+
+        كلّ امرئ منكم بعمله ولا تكتموا الملك حقًّا ولا تنطقوا بباطل
+      </p>
+
+      <p n="All Attendees are Silent">
+        فلمّا
+        <lb/>
+
+        فرغ القاضي من قوله نظر الجند بعضهم إلى بعض ثمّ أنصتوا
+      </p>
+
+      <p n="Dimna Challenges All Only to Say What They Know">
+        قال دمنة ما لكم سكوتًا ليتكلّم كلّ امرئ منكم بعلمه
+      </p>
+
+      <p n="Dimna's Second Subtale of Ignorant Physician">
+        واعلموا
+        <lb/>
+
+        أنّ لكل قوم جوابًا فمن زعم أنّه قد رأى ما لم ير وعلم ما لم
+        <lb/>
+
+        يعلم خليق أن يصيبه ما أصاب الطبيب الجاهل
+      </p>
+
+      <p n="Judge Request Tale">
+        قال
+        <lb/>
+
+        القاضي وكيف كان ذلك
+      </p>
+
+      <p n="Famous Physician Dies or Goes Blind">
+        قال دمنة كان في مدينة من
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="39"/>
+
+      <p n="The Merchant Keeps Silent about His Betrayal">
+        أشدّ عليه من ذهاب السمسم
+      </p>
+
+      <p n="One Must Know When to Halt Pursuit">
+        فينبغي لمن طلب أمرًا أن يكون له غاية ونهاية
+        <lb/>
+
+        يعتمد فيها ويقف عندها ولا يتمادى في الطلب
+      </p>
+
+      <p n="A Pursuit without a Clear Goal Is Treacherous">
+        فإنّه يُقال من جرى إلى غير غاية
+        <lb/>
+
+        أوشك أن ينقطع به مطيّته
+      </p>
+
+      <p n="One Should Not Seek the Unattainable">
+        وكان حقيقًا أن لا يعنّي نفسه بطلب ما لا حدّ له وما لم ينله
+        <lb/>
+
+        أحد قبله ولا ييأس بما لا يكون ويوجد
+      </p>
+
+      <p n="The Here Is Not to Be Preferred Over the Hereafter">
+        وأن يكون لآخرته مؤثرًا على دنياه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

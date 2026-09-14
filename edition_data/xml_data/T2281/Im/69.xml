@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T2281</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="69"/>
+
+      <p n="The Book Is Not about Animals">
+        موضع الصواب ويتجاوز غرض هذا الكتاب
+      </p>
+
+      <p n="A Fisher Finds an Empty Shell">
+        ويكون
+        <lb/>
+
+        مثله كمثل الصيّاد الذي كان من شأنه يصيد
+        <lb/>
+
+        في الخلجان في زورق له فبصر ذات يوم بصدفة في
+        <lb/>
+
+        في قعر الماء فتوهّم أنّه شيء له قيمة وقدر
+      </p>
+
+      <p n="The Fisher Abandons His Catch for the Shell">
+        وكان
+        <lb/>
+
+        قد أرمى شبكته وحصل له سمكة تنفعه لقوته
+        <lb/>
+
+        يومه وغد فتركها ونزل إلى الماء واستخرج الصدفة
+        <lb/>
+
+        وفتحها فإذا هي فارغة فندم
+      </p>
+
+      <p n="The Fisher Misses the Pearl">
+        على تفريطه وإهماله لأخذ
+        <lb/>
+
+        السمكة وكيف طاوع الطمع فندم فلمّا كان في اليوم
+        <lb/>
+
+        الثاني رمى شبكته فأصاب حوتًا صغيرًا فحاود عنه
+        <lb/>
+
+        وبصر بصدفة كبيرة غير الأولى فلم يلتفت إليها
+        <lb/>
+
+        وساء بيها ظنّه وقطع أنّها مثل الأولى فتركها
+      </p>
+
+      <p n="Another Fisher Wins the Pearl">
+        فجاوزها
+        <lb/>
+
+        صيّاد غيره فنزل إليها واستخرجها وشقّها وإذا فيها درّة
+        <lb/>
+
+        سمينة فازداد ذلك الصيّاد حسرة ندامة
+      </p>
+
+      <p n="The Superficial Readers Miss the Meaning">
+        وكذلك
+        <lb/>
+
+        الجاهل نبذ التفكير ونسي التدبير
+      </p>
+
+      <p n="The Reader Needs Stamina and Focus">
+        فينبغي لطالب العلم
+        <lb/>
+
+        أن يبذل جهده ويستفرغ جدّه في مطالب ما يجب لمثله
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

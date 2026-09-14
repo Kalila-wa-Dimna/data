@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="166"/>
+
+      <p n="Dimna's Hope to Impress the Lion">
+        لي الأسد بذلك خيرًا ويرى منّي ما لم ير من غيري
+      </p>
+
+      <p n="Clever Speech Can Twist the Truth">
+        فإنّ الرجل الأديب الرفيق لو شاء أن
+        <lb/>
+
+        يبطل الحقّ ويحقّ الباطل فعل
+      </p>
+
+      <p n="Analogy of Skilled Painter's Illusions">
+        كالمصوّر الماهر الذي يصوّر في الجدار تصاوير كأنّها
+        <lb/>
+
+        خارجة من الجدار وليست بخارجة وأخرى كأنّها داخلة وليست بداخلة
+      </p>
+
+      <p n="Dimna's Expectation of the Lion's Response">
+        فإذا أبصر الأسد
+        <lb/>
+
+        فعلي وعرف ما عندي كان هو الذي يلتمس تقريبي وإكرامي
+      </p>
+
+      <p n="Kalila's Final Warning about Ruler's Danger">
+        قال كليلة أمّا إذا كان هذا
+        <lb/>
+
+        رأيك فإني أحذّرك السّلطان فإنّ صحبة السلطان خطر عظيم
+      </p>
+
+      <p n="Three Risky Endeavors According to Scholars">
+        وقد قالت العلماء في ثلاثة
+        <lb/>
+
+        أمور لا يجترئ عليها إلّا أهوج ولا يسلم منها إلّا القليل صحبة السلطان وائتمان
+        <lb/>
+
+        النساء على الأسرار وشرب السمّ للتجربة
+      </p>
+
+      <p n="Analogy of Ruler to a Dangerous Mountain">
+        وإنما شبّه العلماء السلطان بالجبل
+        <lb/>
+
+        الصعب الذي فيه الثمّار الطيّبة وهو معدن السباع والارتفاع إليه شديد والمقام فيه أشدّ
+      </p>
+
+      <p n="Dimna's Persistence Despite Warnings">
+        قال دمنة قد صدقت فيما وصفت غير أنّه من لم يركبْ الأهوال لم ينلْ الرغائب ومن ترك
+        <lb/>
+
+        الأمر الذي لعلّه أن يبلغ فيه حاجته هيبة ومخافة لما لعلّه أن يتوقّاه فليس بتابع جسيمًا
+      </p>
+
+      <p n="Three Challenging Pursuits Requiring Courage">
+        وقد قيل ثلاثة لن يستطيعها أحد إلّا بعلوّ همّة ومخافة لما لعلّه أن يتوقّاه منها عمل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

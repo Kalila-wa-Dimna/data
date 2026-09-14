@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="93"/>
+
+      <p n="Man Jumping into the River and Rescue">
+        ورأى الذئب قد أدركه فألقى نفسه في الماء وهو لا يحسن السباحة وكاد
+        <lb/>
+
+        أن يغرق لولا أن بصر به قوم من أهل القرية فتواقعوا لإخراجه فأخرجوه وقد
+        <lb/>
+
+        أشرف على الهلاك
+      </p>
+
+      <p n="Man's Temporary Safety">
+        فلمّا حصل الرجل عندهم وأمن على نفسه من عائلة الذئب
+      </p>
+
+      <p n="Man Entering an Isolated House">
+        رأى على شطّ الوادي بيتًا مفردًا فقال أدخل هذا البيت فاستغيث به
+      </p>
+
+      <p n="Encounter with Thieves in the House">
+        فلمّا
+        <lb/>
+
+        دخله وجد فيه جماعة من اللصوص قد قطعوا الطريق على رجل من التجّار وهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

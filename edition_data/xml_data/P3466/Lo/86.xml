@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="86"/>
+
+      <p n="Dimna Approaching the Lion">
+        ثمّ إنّ دمنة انطلق حتّى دخل على الأسد وسلّم عليه
+      </p>
+
+      <p n="Lion Inquiring About Dimna's Identity">
+        فقال الأسد
+        <lb/>
+
+        لقرائبه من هذا
+      </p>
+
+      <p n="Identification of Dimna">
+        قالوا له ابن فلان
+      </p>
+
+      <p n="Lion Recognizing Dimna's Father">
+        قال الأسد قد كنت أعرف
+        <lb/>
+
+        أباه وكان نحريرًا كيّسًا
+      </p>
+
+      <p n="Lion Questioning Dimna's Whereabouts">
+        ثمّ سأله أين كنت تكون
+      </p>
+
+      <p n="Dimna's Response about His Loyalty">
+        قال لم أزل بباب
+        <lb/>
+
+        الملك مرابطًا رجاء أن يحضر أن أمر أغني فيه عن الملك بنفسي
+        <lb/>
+
+        ورأيي
+      </p>
+
+      <p n="Dimna on the Value of Overlooked Individuals">
+        فإنّ أبواب الملوك تكثر فيها الأمور التي ربّما احتيج فيها إلى
+        <lb/>
+
+        من لا يُؤبه إليه له وليس أحد يصغر أمره إلّا وقد يكون عنده بعض الغنى
+        <lb/>
+
+        والمنافع على قدره
+      </p>
+
+      <p n="Analogy of Useful Discarded Objects">
+        حتّى أنّ العود المنبوت في الأرض ربّما نفع يأخذه
+        <lb/>
+
+        الرجل فيحكّ به أذنه
+      </p>
+
+      <p n="Comparison to Knowledgeable Beings">
+        والحيوان الذي يعرف النفع والضرّ أحرى
+        <lb/>
+
+        أن ينتفع به
+      </p>
+
+      <p n="Lion's Positive Impression of Dimna">
+        فلمّا سمع الأسد كلام دمنة أعجبه وظنّ أنّ عنده رأيًا
+        <lb/>
+
+        ونصيحة
+      </p>
+
+      <p n="A Noble Man May Be Obscure">
+        وأقبل على قرائبه فقال لهم إنّ الرجل ذا الرأي والعلم
+        <lb/>
+
+        والمروءة ليكون خامل الأمر خافض المنزلة وتأبى منزلته إلّا أن
+        <lb/>
+
+        تستبين وتُعرف
+      </p>
+
+      <p n="Analogy of a Flame's Inevitable Rise">
+        كالشعلة من النار التي يصونها صاحبها وتأبى
+        <lb/>
+
+        إلّا ارتفاعًا
+      </p>
+
+      <p n="Dimna Seizing the Opportunity to Impress">
+        فلمّا عرف دمنة أنّ الأسد قد أعجب به قال إنّ رعيّة
+        <lb/>
+
+        الملك ومن يحضر بابه جدراء أن يعرّفون الملك ما عندهم من الرأي
+        <lb/>
+
+        والنصيحة فإنّ الملك لا ينتفع بهم ولا ينزلهم منازلهم دون أن
+        <lb/>
+
+        يعرفهم بأخلاقهم
+      </p>
+
+      <p n="Analogy of Hidden Crop's True Value">
+        كالزرع المدفون في الأرض من الحنطة والشعير
+        <lb/>
+
+        لا يستطيع أحد أن يعرفه حتّى يكون هو الذي يظهر ويخرج
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

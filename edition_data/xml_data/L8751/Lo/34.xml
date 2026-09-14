@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="34"/>
+
+      <p n="Sons' Mismanagement of Wealth">
+        ولم يحترفوا حرفة يصيبوا فيها مالًا فلامهم أبوهم ووعظهم
+      </p>
+
+      <p n="Father's Advice: Three Pursuits and Four Necessities">
+        فكان من عظتهم أن
+        <lb/>
+
+        قال يا بنيّ إنّ صاحب الدنيا يطلب ثلاثة أمور لا يدركها إلا بأربعة أشياء
+      </p>
+
+      <p n="Three Worldly Pursuits">
+        أمّا
+        <lb/>
+
+        الثلاثة التي يطلب فالسعة في المعيشة والمنزلة عند الناس والبلغة إلى الآخرة
+      </p>
+
+      <p n="Four Necessities for Achieving Pursuits">
+        وأمّا الأربعة التي لا تصاب الثلاثة إلّا بها فاكتساب المال من معروف وجهه
+        <lb/>
+
+        ثمّ حسن القيام على ما اكتسب منه والتثمير له بعد اكتسابه ثمّ إنفاقه فيما يصلح به معيشته
+        <lb/>
+
+        ويرضي به الأهل والإخوان ويعود عليه في الآخرة نفعه
+      </p>
+
+      <p n="Importance of Avoiding Calamities">
+        ثمّ التوقّي لجميع الآفات
+        <lb/>
+
+        جهده
+      </p>
+
+      <p n="Failure to Achieve Goals Without Proper Management">
+        فمن أضاع شيئًا من هذه الخلال الأربع لم يدرك ما أراد لأنّه لم يكتسب ولم يكن
+        <lb/>
+
+        ذا مال لم يعش ولم يُعش به
+      </p>
+
+      <p n="Consequences of Poor Financial Management">
+        وإن كان ذا مال واكتساب ولم يصلح له ويحسن القيام
+        <lb/>
+
+        عليه أوشك أن ينفد ويقابلا مال
+      </p>
+
+      <p n="Rapid Depletion of Poorly Managed Wealth">
+        وإن هو أنفقه ولم يثمّره لم يمنعه قلّة الإنفاق من
+        <lb/>
+
+        سرعة النّفاد
+      </p>
+
+      <p n="Analogy of Rapidly Depleting Kohl">
+        كالكحل الذي لا يؤخذ منه مثل الغبار ثمّ هو مع ذلك سريع نفاذه
+      </p>
+
+      <p n="Consequences of Miserliness and Mismanagement">
+        وإن
+        <lb/>
+
+        هو اكتسب وأصلح وأثمر ثمّ أمسك عن إنفاقه في وجوهه ومواضعه كان ممّن يُعدّ
+        <lb/>
+
+        فقيرًا لا مال له ثمّ لا يمنع ذلك ماله من أن يفارقه ويذهب حيث لا يريد بالمقادير والعلل
+      </p>
+
+      <p n="Analogy of Overflowing Water Reservoir">
+        كمستأجر الماء الذي لا تزال المياه تنصبّ فإن لم يكن له مفيض ومخرج يخرج منه بقدر
+        <lb/>
+
+        ما يفضل عنه انبثق البثق الذي لا يقادر وذهب الماء ضياعًا وفسادًا
+      </p>
+
+      <p n="Sons' Acceptance of Father's Advice">
+        ثمّ إنّ بنى
+        <lb/>
+
+        التاجر أيقظوا وأخذوا بأمر أبيهم
+      </p>
+
+      <p n="Eldest Son's Journey and Ox Cart Incident">
+        فانطلق كبيرهم في تجارة متوجهًا إلى أرض يُقال
+        <lb/>
+
+        لها منود فمرّ في طريقه ذلك بمكان فيه وحل شديد ومعه عجلة يجرّها ثوران
+        <lb/>
+
+        يُقال لأحدهما شتربة والآخر نندبة
+      </p>
+
+      <p n="Ox Getting Stuck in Mud">
+        فوحل شتربة في ذلك الوحل فعاجله الرجل
+        <lb/>
+
+        وأعوانه حتّى إذا أخرجوه بعد ما بلغه الجهد لم يطق حراكًا
+      </p>
+
+      <p n="Merchant Leaving a Man to Care for the Ox">
+        فخلف التاجر عنده
+        <lb/>
+
+        رجلًا وأمره أن يقوم عليه فإذا رآه قد صلح اتّبعه به
+      </p>
+
+      <p n="Description of the Caretaker's Actions">
+        فلمّا كان من الغد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

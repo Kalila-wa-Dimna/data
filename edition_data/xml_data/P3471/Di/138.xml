@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="138"/>
+
+      <p n="Judge Orders Leopard and Judge to Return Dimna Before Court">
+        وادعوا بدمنة فاسمعا منه ومن خصمائه ومن أحضر له ثمّ ارفعوا إلى
+        <lb/>
+
+        ما يكون من قولهم فيه وغدره في ذلك
+      </p>
+
+      <p n="Mother Alerts Lion of His Own Benefit and Motivates Her Harsh Words">
+        فلمّا سمعت ما فيها قالت بأعلى
+        <lb/>
+
+        صوتها أيّها الملك أنا إن أغلطت لك في القول فلا تلمني فقد
+        <lb/>
+
+        حشمني ذلك قال لا أفعل بل أقبل منك فإن غلظ قولك الناصح
+        <lb/>
+
+        محتمل القبول قالت بأنّك أيّها الملك قليل المعرفة بضرّك من نفعك
+        <lb/>
+
+        وإنّك مغرورٌ بقول هذا الفاجر المحال وقد كنت أنهاك عن الاستماع
+        <lb/>
+
+        منه وإن تغيّر بما تسمع من منطقه وإنّك إن اشتقيته مرّةً لك الباطل
+        <lb/>
+
+        وأتاك بالبهتان وأفسد عليك جندك وفرّق ملأهم فإنّه لن يقدر أحدٌ
+        <lb/>
+
+        عليّ بخصمه ولا يكسر حجّته وما النظر إلّا لك وما أريد بقتله إلّا إصلاح
+        <lb/>
+
+        مُلكك واجتماع كلمة جندك ورعيّتك فإذا لم تفعل فأنت ورأيك أعلم
+        <lb/>
+
+        ثمّ خرجت من عنده مغضبةً
+      </p>
+
+      <p n="Ruzbeh Reports Mother's Words to Dimna">
+        وكان ذلك الشهرج المواطئ لدمنة
+        <lb/>
+
+        قريبٌ يسمع كلام أمّ الأسد وبقي كلّما تكلّمت به فخرج خفيًّا مسرعًا
+        <lb/>
+
+        عند خروج أمّ الأسد حتّى أتى دمنة فاقتصّ عليه ما قالت أمّ الأسد
+      </p>
+
+      <p n="Men Take Dimna Before Court">
+        فبينما هو في الحديث إذ أتاه صاحب السجن فانطلق بدمنة إلى جهنّم
+      </p>
+
+      <p n="Head of Court Deems Extant Facts Sufficient">
+        فلمّا قدم دمنة إلى القاضي افتتح النمر الكلام فقال أمّا ما تريد الفحص
+        <lb/>
+
+        عنه من أمرك فقد أتاني به الثقة من أهل الأمانة والصدق فليس
+        <lb/>
+
+        ينبغي لنا أن نفحص عن أمرك أكثر ممّا فحصنا
+      </p>
+
+      <p n="God Placed Signs of Truth in the World and Prophets to Explain Them">
+        فقد قالت العلماء إنّما تعرف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

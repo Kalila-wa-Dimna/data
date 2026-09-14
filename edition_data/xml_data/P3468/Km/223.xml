@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3468</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="223"/>
+
+      <p n="The Outcome Is Uncertain">
+        من خير أو شرّ فذلك خفيّ عن الناس صعب الإدراك
+      </p>
+
+      <p n="A Donkey Loses His Ears">
+        فلذلك ينبغي أن تمعن النظر فيه لئلّا يلحقك ما لحق
+        <lb/>
+
+        الحمار الذي ذهب أن يلتمس من يثبت له قرنين فقُطعت
+        <lb/>
+
+        أذناه
+      </p>
+
+      <p n="King W Requests the Tale of the Donkey">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="The Donkey Becomes Cocky">
+        قال الوزير زعموا
+        <lb/>
+
+        أنّ إنسانًا كان عنده حمار وكان يوسع عليه في العلف
+        <lb/>
+
+        فسمن وكَلِب وهاج
+      </p>
+
+      <p n="The Donkey Sees a Jenny">
+        فقاده يومًا إلى نهر ليسقيه فرأى أتانة فشبق وهاج وأدلى وشهق فلمّا رأى صاحبه
+        <lb/>
+
+        هيجانه خشي أن ينفلت منه فربطه إلى شجرة كانت
+        <lb/>
+
+        على شاطئ النهر وذهب إلى صاحب الأتانة فقال له
+        <lb/>
+
+        ارددْ أتانك لئلّا يضرّها حماري ففعل وذهب بها
+      </p>
+
+      <p n="The Donkey Ponders about Phallus">
+        وبقي
+        <lb/>
+
+        الحمار يدور حول الشجرة وهو في شدّة من الشبق وكثر
+        <lb/>
+
+        هيجانه فبينما هو يدور إذ طأطأ رأسه فنظر إلى إحليله
+        <lb/>
+
+        وشدّة توتّره فقال في نفسه إن هذه لحليلة تصلح للفرسان
+        <lb/>
+
+        والقتال
+      </p>
+
+      <p n="The Donkey Sees It As a Weapon">
+        ولكن لا فائدة فيها وحدها وليس لي غيرها شيء
+        <lb/>
+
+        من أنواع السلاح ومع هذا فليس أنا ماهر في الفروسية
+        <lb/>
+
+        ولكن على كلّ حال أنا قادر على أن أطعن بهذه العصى وأضرب
+        <lb/>
+
+        كلّ من لا يحسن الفروسيّة
+      </p>
+
+      <p n="Donkey Imagines Exploits Involving a Spear">
+        فإذا كنت قادرًا على هذا فيا ليت
+        <lb/>
+
+        شعري إذا اتّفق لي رمح كما أشتهي فإنّي لا أُردّ من مائة
+        <lb/>
+
+        فارس ولا أبالي بهم
+      </p>
+
+      <p n="The Donkey Wants to Escape Misery">
+        ولكن سبيلي أنّني أجتهد في تحصيل رمح
+        <lb/>
+
+        فإنّ آبائي وأجدادي لو اجتهدوا في ذلك لكانوا أكفوني
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

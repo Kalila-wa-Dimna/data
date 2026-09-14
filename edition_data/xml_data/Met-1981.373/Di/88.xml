@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="88"/>
+
+      <p n="Dimna Has a Bad Reputation">
+        محَقّ وليس يخفى على أحد حاله والذي ذكر ذلك الأمين المصدّق
+      </p>
+
+      <p n="The Mother Tells the Lion Not to Debate Dimna">
+        فاسترحْ
+        <lb/>
+
+        منه ولا تناظره
+      </p>
+
+      <p n="The Lion Tells the Mother to be Silent">
+        فقال الأسد اسكتي عنّي فإنّي ناظر في أمره وفاحص
+        <lb/>
+
+        عنه
+      </p>
+
+      <p n="The Lion Praises Dimna">
+        فإنّه لبيب داهية عالم فطن
+      </p>
+
+      <p n="The Lion Wants to Avoid Haste">
+        وأنا متثبّت في أمره غير عاجل عليه
+        <lb/>
+
+        ولا أشتري ضرّ نفسي باتّباع هوى غيري ممّن لا يُدرى صدقه من كذبه
+      </p>
+
+      <p n="Lion Repeats Question for Mother's Source">
+        فأعلميني مَن الذي وصفت وسمّيتيه لي
+      </p>
+
+      <p n="The Mother Names the Leopard">
+        فقالت أمّ الأسد هو خليلك
+        <lb/>
+
+        وأمينك النمر
+      </p>
+
+      <p n="Lion Promises to Act and Dismisses His Mother">
+        فقال الأسد حسبك سترين ما أصنع فانصرفي
+        <lb/>
+
+        فانصرفت
+      </p>
+
+      <p n="Kalila Seeks out Dimna in Prison">
+        ولمّا ذهب جزء من الليل بلغ كليلة أنّ دمنة قد حُبس واُستوثق
+        <lb/>
+
+        منه فانطلق إليه
+      </p>
+
+      <p n="Kalila Weeps when Seeing Dimna">
+        فلمّا رآه بكى بكاء شديدًا
+      </p>
+
+      <p n="Kalila Admits Having Been Harsh on Dimna">
+        وقال لا أغلظ لك في القول
+        <lb/>
+
+        ولا أستقبلك بما تكره ولكن تذكّرْ الآن الذي كنت أقول لك وأشير
+        <lb/>
+
+        به عليك
+      </p>
+
+      <p n="Conceit Caused Dimna's Demise">
+        فلم تلتفت إليه ولم تأخذْ به لإعجابك برأيك ودهائك وفطنتك
+        <lb/>
+
+        كيف نُزعت منك وأشرفت على الهلكة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

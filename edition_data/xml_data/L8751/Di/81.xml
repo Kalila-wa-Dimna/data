@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="81"/>
+
+      <p n="Marzuban Hosts Foreign Guests">
+        لهم طعامًا وشرابًا فلمّا أصابوا من ذلك دعا لهم بتلك الببّغين ليعجبهم به
+      </p>
+
+      <p n="Foreign Guests Understand Parrots">
+        فلمّا سمعوا صياحهما
+        <lb/>
+
+        نظر بعضهم إلى بعضٍ ونكّسوا رؤوسهم حياءً منه
+      </p>
+
+      <p n="Foreigners Ask Whether Marzuban Understands Parrots/He Asks Them">
+        ثمّ قالوا له هل تعلم ما يقولان فقال
+        <lb/>
+
+        لا غير أنّ ذلك لي معجبٌ فقال بعضهم لا تجد علينا إن عرّفناك بما يقولانه قال لا
+      </p>
+
+      <p n="Foreigners Translate Parrots' Words, Refuse Meal in House of Sin">
+        قالوا
+        <lb/>
+
+        إنّ أحدهما يزعم بلسان أهل بلخ أن بوّابك يفجر بامرأتك وأمّا الآخر فيقول أمّا أنا
+        <lb/>
+
+        فلست قائلًا شيئًا وإنّ من سنّتنا أن لا نصيب في بيت امرئٍ فاجر المرأة طعامًا
+        <lb/>
+
+        ولا شرابًا
+      </p>
+
+      <p n="Falconer Confirms Parrots' Accusations">
+        فقال البازيار من خارج وأنا أشهد على مقالتهما أنّها حقٌّ وقد رأيت ذلك
+        <lb/>
+
+        غير مرّةٍ
+      </p>
+
+      <p n="Marzuban Orders Wife to Be Killed">
+        فأمر المرزبان بقتل امرأته
+      </p>
+
+      <p n="Wife Asks Him to Investigate">
+        فأرسلت إليه أن افحص عمّا ذُكر لك فسيبدوا
+        <lb/>
+
+        لك من الفاجر الكذّاب ومُرْ هؤلاء العظماء فليسألوا الببّغين ولينظروا هل يعلمان من
+        <lb/>
+
+        كلام أهل بلخ غير هاتين الكلمتين
+      </p>
+
+      <p n="The Parrots Will Turn Out to Be Trained">
+        وإنّ هذا من رأي بازيارك لأنّه راودني عن نفسي
+        <lb/>
+
+        فامتنعت منه
+      </p>
+
+      <p n="Falconer's Training of Parrots Is Discovered">
+        ففعل المرزبان ذلك فكلّموا العلماء الببّغين فلم يجدوهما يحسنان غير
+        <lb/>
+
+        الكلمتين
+      </p>
+
+      <p n="Falcon Gouges Out His Eyes">
+        قال وجاءت امرأة المرزبان إلى البازيار فقالت له ويلك أنت رأيت أو اطّلعت
+        <lb/>
+
+        على ما قذفتني به قال نعم فوثب عليه بازي كان في يده ففقأ عينيه بمخالبه
+      </p>
+
+      <p n="Wife Interprets This As God Punishing False Testimony">
+        فقالت
+        <lb/>
+
+        له لقد عجّل الله لك النكال والعقوبة بكذبك فإنّك زعمت أنّك رأيت وشهدت عليّ بزورٍ
+        <lb/>
+
+        وباطلٍ
+      </p>
+
+      <p n="A Liar Suffers Punishment in Here and Hereafter">
+        ثمّ قال دمنة وإنّما ضربت لك هذا المثل لتعلموا أنّه من عمل بمثل ما زعم البازيار
+        <lb/>
+
+        وشهد به من الافتراء والبهتان كان جزاؤه العقوبة في العاجل والآجل
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded and Court's Members Leave for the Day">
+        ثمّ إنّ
+        <lb/>
+
+        القاضي كتب ما قيل له وما أجاب به فيه ثمّ أرسل به إلى السجن وانطلق عظماء الجند إلى
+        <lb/>
+
+        منزل الملك وتفرّق سائرهم
+      </p>
+
+      <p n="The Court Hears Dimna's Arguments Seven More Days Without Reaching Verdict">
+        وحبس دمنة بعد ذلك سبع ليالٍ يتكلّم بعذره فلم يقرّره أحدٌ
+        <lb/>
+
+        بشيءٍ من ذنبه ولا يخصمه فيه
+      </p>
+
+      <p n="The Mother Warns the Lion of Leaving Dimna Unpunished">
+        ثمّ إنّ أمّ الأسد قالت لئن خلّيت سبيل هذا الفاجر
+        <lb/>
+
+        دمنة بعد الذي ارتكب من الأمر العظيم
+      </p>
+
+      <p n="Failure to Punish Dimna will Weaken the Lion’s Authority">
+        ليجترئنّ عليك جندك ولا يتخوّف أحدٌ منهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

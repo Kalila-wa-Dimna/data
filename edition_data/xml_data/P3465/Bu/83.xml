@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="83"/>
+
+      <p n="Passage 2">
+        وأردت
+      </p>
+
+      <p n="unassigned">
+        الثبوت على حالتي التي كنت عليها
+      </p>
+
+      <p n="Weighs World Vs Asceticism">
+        ثمّ بدا لي أن أقاسي ما أخاف منه أن لا
+        <lb/>
+
+        أصبر على الأذى والضيق والخشونة في النسك وما يصيب صاحب الدنيا من البلاء
+        <lb/>
+
+        وكان عندي أنّه ليس شيء من شهوات الدنيا ولذّاتها إلّا وهو متحوّل إلى الأذى
+        <lb/>
+
+        ومولّد للحزن
+      </p>
+
+      <p n="Salt Water Increases Thirst">
+        فالدنيا كالماء الملح الذي لا يزداد شاربه شربًا إلّا ازداد عطشًا
+      </p>
+
+      <p n="Dog Gnaws Bone In Vain">
+        وهي كالعظم الذي يصيبه الكلب فيجد فيه ريح اللحم فلا يزال يطلب ذلك
+        <lb/>
+
+        اللحم حتّى يُدمي فاه
+      </p>
+
+      <p n="Kite Looses Meat">
+        وكالحدأة التي تظفر بقطعة من اللحم فيجتمع عليها الطير
+        <lb/>
+
+        فلا تزال تدور وتدأب حتّى تعيا وتعطب فإذا تعبت ألقت ما معها
+      </p>
+
+      <p n="Honey Contains Poison">
+        وكالكوز
+        <lb/>
+
+        من العسل الذي في أسفله السمّ الذي يذاق منه حلاوة عاجلة وآخره موت
+        <lb/>
+
+        ذعاف
+      </p>
+
+      <p n="Happy Dreams Pass">
+        أو كأحلام النائم الذي يفرح به الإنسان في نومه فإذا استيقظ
+        <lb/>
+
+        من النوم ذهب الفرح
+      </p>
+
+      <p n="Warns Soul Of Hesitation">
+        فلمّا فكّرت في هذه الأمور رجعت إلى
+        <lb/>
+
+        طلب النسك وهزّني الاشتياق إليه ثمّ خاصمت نفسي إذ هي في شرورها
+        <lb/>
+
+        سارحة قد لا تثبت على أمر تعزم عليه
+      </p>
+
+      <p n="Judge Of Marw">
+        كقاض سمع من خصم واحد
+        <lb/>
+
+        فحكم له حكمًا كغير الخصم الثاني عاد الأوّل فقضى عليه
+      </p>
+
+      <p n="Weighs Here Hereafter">
+        ثمّ نظرت سبب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

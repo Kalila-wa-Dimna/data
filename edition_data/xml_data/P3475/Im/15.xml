@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="15"/>
+
+      <p n="Kisra Reflects On Difficulty">
+        همّ به قال في نفسه الأمر جليل والشقّة بعبده والمرزيّة فيه
+        <lb/>
+
+        والتكلّف من المؤونات والمال شديد
+      </p>
+
+      <p n="Kisra Wants Kātib Or Physician">
+        ولا بدّ لنا من أن ننتخب من
+        <lb/>
+
+        نريد أن نسأله في ذلك من هذين الصنفين من الكتّاب
+        <lb/>
+
+        أو من الأطبّاء
+      </p>
+
+      <p n="Kātibs And Physicians Skills">
+        فإنّ أهل هذين الصنفين من الكتّاب
+        <lb/>
+
+        أو من الأطبّاء يجتمع عندهما جوامع العلم من بحور الأدب
+        <lb/>
+
+        وكنوز العلم في أناءة وتؤدة ونفاذ وحيلة وجمال ومروءة
+        <lb/>
+
+        وتحفّظ وتحرّز ودهاء وفطنة وحِلم وأدب وسياسة
+        <lb/>
+
+        ولطف وكتمان سرٍّ وصنع
+      </p>
+
+      <p n="Kisra Searches Scholar">
+        فلمّا أن تمّ رأيه على البعثة
+        <lb/>
+
+        اختار من مملكته وانتخب من غلمانه
+      </p>
+
+      <p n="Burzoy Is Selected">
+        فلم يجد على نحو
+        <lb/>
+
+        ما وصفت الأطبّاء إلّا برزويه بن أدرهرمذ رئيس
+        <lb/>
+
+        أطبّاء فارس وهو من أبناء مقاتلتها ومرازبتها
+      </p>
+
+      <p n="Kisra Explains Choosing Burzoy">
+        فدعاه
+        <lb/>
+
+        كسرى ابن قباد ليأمره بالمضيّ لانتساخ الكتاب
+        <lb/>
+
+        المشار إليه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

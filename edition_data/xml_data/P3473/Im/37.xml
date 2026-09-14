@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="37"/>
+
+      <p n="The Youngest Brother Shares His Wealth">
+        التجارات ففعلا وعادا إلى أحسن الحالات وغاية اليسار
+      </p>
+
+      <p n="The Reader Must Always Come Back to the Book">
+        وكذلك
+        <lb/>
+
+        يجب على قارئ هذا الكتاب أن يديم النظر فيه من غير ضجر ويلتمس
+        <lb/>
+
+        جواهر معانيه
+      </p>
+
+      <p n="The Book Is Not about Animals">
+        ولا يظنّ أنّ نتيجته الإخبار عن حيلة بهيمتين
+        <lb/>
+
+        أو محاورة سبع لثور فيصرف بذلك عن الغرض المقصود
+      </p>
+
+      <p n="A Fisher Finds an Empty Shell">
+        ويكون مثله
+        <lb/>
+
+        مثل الصيّاد الذي كان في بعض الخلجان يصيد فيه الأسماك
+        <lb/>
+
+        بزورق فرأى في ذات يوم في أرض الماء صدفة تتلألأ حسنًا
+        <lb/>
+
+        فتوهّمها جوهرًا له مقدار وقيمة
+      </p>
+
+      <p n="The Fisher Abandons His Catch for the Shell">
+        وكان قد ألقى شبكته ووقع فيها
+        <lb/>
+
+        سمكة تقوم بقوت يومه فتركها وألقى بنفسه في الماء لأخذ ذلك
+        <lb/>
+
+        فلمّا أخرجها بعد جهد عظيم وجدها فارغة ممّا ظنّ فندم على ما فاته
+        <lb/>
+
+        من قوته بتركه السمكة وعلى ما ناله من المشقّة في إخراج ذلك
+      </p>
+
+      <p n="The Fisher Misses the Pearl">
+        فلمّا كان في اليوم الثاني تنحّى عن ذلك الموضع ورمى شبكته فأصاب
+        <lb/>
+
+        حوتًا صغيرًا فحاول أخذها ونظر في الماء في ذلك الموضع فوجد
+        <lb/>
+
+        صدفة أخرى تشبه الأولى فلم يلتفت إليّها وساء ظنّه بها فتركها
+        <lb/>
+
+        واشتغل بالسمكة وتخليصها
+      </p>
+
+      <p n="Another Fisher Wins the Pearl">
+        فجاء صيّاد آخر فرأى الصدفة فنزل
+        <lb/>
+
+        إليها وأخرجها فوجد فيها درّة بلغت أموالًا فازداد حسرة وندامة
+        <lb/>
+
+        على تركها واشتغاله بالسمكة الصغيرة وما فاته من الغنى والراحة
+      </p>
+
+      <p n="The Superficial Readers Miss the Meaning">
+        وكذلك الجهّال في إغفال أمر النظر والاحتراز في أمر هذا الكتاب
+        <lb/>
+
+        وترك الوقوف على أسرار معانيه والأخذ بظاهره دون علم باطنه
+      </p>
+
+      <p n="Humor Seeking Readers">
+        فإنّ العلماء قد قالت إنّ مثل الذي يظفر بعلم الفلسفة ويدعها
+        <lb/>
+
+        ويصرف همّته إلى النظر في أبواب الهزل
+      </p>
+
+      <p n="A Gardner Neglects His Harvest">
+        كرجل أصاب أرضًا
+        <lb/>
+
+        حرّة طيّبة رحبًّا صحيحًا فزرعها وسقاها حتّى إذا أدرك خير ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

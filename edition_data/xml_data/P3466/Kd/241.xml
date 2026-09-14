@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="241"/>
+
+      <p n="Queen Shall Choose Gift">
+        اللباس فإنّه يصلح للنساء فقال لبلاذ خذ الإكليل والثياب
+        <lb/>
+
+        فاحملها واتبعني بها إلى مجلس النساء ودعا الملك ابراخت
+        <lb/>
+
+        وحورفتاه فجلستا بين يديه فقال لبلاذ دع الكسوة والإكليل
+        <lb/>
+
+        بين يدي ابراخت لتأخذ أيّها شاءت
+      </p>
+
+      <p n="Hesitating Queen Looks At Vizier">
+        فلمّا رأت ابراخت أنّ كليهما
+        <lb/>
+
+        معجب نظرت إلى ابراخت بلاذ بمؤخر عينها ليريها أيّها تأخذ
+      </p>
+
+      <p n="Vizier Shows Dress King Notices">
+        فأراها بلاذ الثياب وأشار عليها بأخذها وحانت من الملك
+        <lb/>
+
+        التفاتة فنظر أيّما بلاذ حين غمزها بعينه
+      </p>
+
+      <p n="Queen Chooses Crown">
+        فرأت ابراخت أنّ الملك
+        <lb/>
+
+        قد ابصر أيّما بلاذ إليها بعينه وفطن لذلك فخافت على نفسها
+        <lb/>
+
+        وعلى بلاذ من القتل فتركت الثياب التي أراها بلاذ وأخذت
+        <lb/>
+
+        الإكليل لئلّا يظنّ الملك أنّه أراها شيئًا
+      </p>
+
+      <p n="Vizier Pretends To Be Cross Eyed">
+        وعاش بلاذ بعد ذلك
+        <lb/>
+
+        أربعين سنة كلمّا دخل على الملك كسر عينه حتّى لا يظنّ الملك
+        <lb/>
+
+        أنّه أرى ابراخت يومئذ شيئًا
+      </p>
+
+      <p n="Intelligence Saves Queen Vizier">
+        ولولا عقل ابراخت وعقل بلاذ
+        <lb/>
+
+        لم ينج واحد منهما من القتل
+      </p>
+
+      <p n="King Alternates Nights With Women">
+        وكان الملك يكون ليلة عند ابراخت
+        <lb/>
+
+        وليلة عند حورفتاه
+      </p>
+
+      <p n="Indian Kings Mostly Eat Rice">
+        وكان من سنّة الملك أن تهيئ له الامرأة
+        <lb/>
+
+        التي يكون عندها في ليلتها أرزًا بحلاوة فتطعمه إيّاه
+      </p>
+
+      <p n="Queen Serves Rice On Her Night">
+        فأتي
+        <lb/>
+
+        الملك ابراخت في ليلتها وقد صنعت له أرزًا والإكليل على رأسها
+        <lb/>
+
+        فدخلت على الملك وفي يدها صحفة من ذهب فيها أرز والإكليل على
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

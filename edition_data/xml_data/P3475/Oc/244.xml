@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="244"/>
+
+      <p n="The Spy Expresses Fear">
+        بنا
+      </p>
+
+      <p n="The Intelligent Is Never Free from Worry">
+        فإنّ الحازم لا يأمن عدوّه على حال وإن كان بعيدًا لم يأمنْ
+        <lb/>
+
+        معاودته وإن كان قريبًا لم يأمنْ مواثبته وإن رآه منكشفًا
+        <lb/>
+
+        لم يأمنْ استطراده ومكره
+      </p>
+
+      <p n="War Shoud be the Last Resort">
+        وأكيس القوم من لم يطلبْ الأمور
+        <lb/>
+
+        ويلتمسها بالقتال ما وجد إلى غيره سبيلًا
+      </p>
+
+      <p n="War Brings Loss">
+        فإنّ القتال إنّما
+        <lb/>
+
+        النفقة فيه من الأنفس وسائر النفقات من المال فلا يكوننّ
+        <lb/>
+
+        قتال البوم من رأيكم
+      </p>
+
+      <p n="The Crow King Asks for Alternatives">
+        قال الملك أمّا إذا كرهت القتال فما ترى
+      </p>
+
+      <p n="Advice Outweighs Armies">
+        قال إنّ الملك المشاور يصيب في مداولته نصحائه من ذوي الرأي
+        <lb/>
+
+        والعقل من الظفر ما لا يصيب بالجنود والكثرة
+      </p>
+
+      <p n="Advice To King Like Rivers To Sea">
+        والملك الحازم
+        <lb/>
+
+        يزداد بالرأي والمشورة كما يزداد البحر من موادّ مياه الأنهار
+      </p>
+
+      <p n="Resolute King Keeps Reflecting">
+        ولا يخفى على الحازم قدر أمر عدوّه وفرصة قتاله ومواضع حربه
+        <lb/>
+
+        ومكيدته ولا ينفكّ يعرض الأمور على نفسه أمرًا بعد
+        <lb/>
+
+        أمر ويروّي في التقدّم على ما يريد منها وفي الأعوان الذي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

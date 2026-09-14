@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="60"/>
+
+      <p n="The Wife Claims a Miracle">
+        قد أعاد أنفي صحيحًا
+      </p>
+
+      <p n="The Husband is Deceived">
+        قال الإسكاف ما هذا الكلام يا ساحرة ثمّ قام
+        <lb/>
+
+        وأوقد نارًا فلمّا نظر إلى أنفها صحيحًا
+      </p>
+
+      <p n="The Husband's Apology">
+        تاب من الذنب إلى ربّه واعتذر إليها
+        <lb/>
+
+        وسألها أن ترضى عليه
+      </p>
+
+      <p n="The Barber's Wife's Dilemma">
+        فلمّا أتت امرأة الحجّام إلى بيتها قلّبت الحيل وقالت
+        <lb/>
+
+        ما عذري عند زوجي وعند غيره من الناس في جدع أنفي
+      </p>
+
+      <p n="The Barber Wakes">
+        فلمّا كان
+        <lb/>
+
+        السحَر استيقظ الحجّام
+      </p>
+
+      <p n="The Barber Asks for His Tools">
+        وقال لامرأته ائتيني بمتاعي فإنّي أريد أن أدلج إلى
+        <lb/>
+
+        بعض الأشراف
+      </p>
+
+      <p n="The Barber's Wife's Ruse">
+        فلم تأته المرأة من متاعه شيئًاً إلّا بموسى فقال لها هلمّ
+        <lb/>
+
+        متاعي كلّه فعادت المرأة بتلك الموسى ** فرمى فرمت المرأة بنفسها إلى الأرض
+        <lb/>
+
+        وولّت وقالت أنفي أنفي
+      </p>
+
+      <p n="The Barber is Taken to the Judge">
+        فلم تزل تصيح وتنادي حتّى جاءها أقرباؤها فأخذوا
+        <lb/>
+
+        زوجها فانطلقوا به إلى القاضي
+      </p>
+
+      <p n="The Barber's Trial">
+        فقال القاضي للحجّام ما حملك على جدع
+        <lb/>
+
+        أنف امرأتك فلم يجد حجّة يحتجّ بها
+      </p>
+
+      <p n="The Judge's Verdict">
+        فأمر القاضي بالحجّام أن يُعاقب
+      </p>
+
+      <p n="The Ascetic Intervenes">
+        فلمّا
+        <lb/>
+
+        قُدّم للعقوبة وافاه الناسك فتقدّم إلى القاضي فقال لا يشتبهنّ عليك إنّ اللصّ
+        <lb/>
+
+        ليس هو سرقني وإنّ الثعلب ليس الوعلان قتلاه وإنّ المرأة ليس السمّ قتلها
+        <lb/>
+
+        وإنّ امرأة الحجّام ليس زوجها جدع أنفها بل نحن جميعًا فعلنا ذلك بأنفسنا
+      </p>
+
+      <p n="The Ascetic's Testimony">
+        فسأل القاضي الناسك عن تفسير ذلك فأخبره الخبر
+      </p>
+
+      <p n="Dimna Seeks a New Plan">
+        قال دمنة
+        <lb/>
+
+        قد سمعت هذا المثل وهو شبيه بأمري لعمري ما ضرّ بي سوى نفسي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

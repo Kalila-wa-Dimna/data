@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="273"/>
+
+      <p n="Changing Governors Harm">
+        فيه مضرّ بالملوك والتماس من أهل الطبقة السفلى مراتب أهل الطبقة العليا
+        <lb/>
+
+        وانتشار من الأمر وفساد من الأدب ومنازعة من اللئيم للكريم
+      </p>
+
+      <p n="Wrong Ambitions Ruin Society">
+        ثمّ من الأشياء
+        <lb/>
+
+        في ذلك تجري على مثال حتّى تنتهي إلى الخطر الجسيم من مضرّة الملك
+      </p>
+
+      <p n="Chapter End">
+        انقضى
+        <lb/>
+
+        باب الناسك والضيف
+      </p>
+
+      <p n="End Back To Frame Dialoge">
+        فلمّا انتهى المنطق بالملك
+        <lb/>
+
+        والفيلسوف إلى باب الناسك والضيف سكت الملك
+      </p>
+
+      <p n="Philosopher Wishes Glory For King">
+        فقال الفيلسوف
+        <lb/>
+
+        أيها الملك عشت ألف سنة ومُلّكت الأقاليم السبعة وأعطيت من كل شيء
+        <lb/>
+
+        سببًا وبلغة في سرور منك برعيتك وقرّة عين منهم بك ومساعدة من القضاء
+        <lb/>
+
+        والقدر لك
+      </p>
+
+      <p n="Philosopher Praises Kings Wisdom">
+        فإنّه قد كمل فيك الحلم والعلم وزكي منك العقل وحفظ
+        <lb/>
+
+        وتمّ فيك البأس والجود واتّفق منك العقل والقول والنيّة فلا يوجد في رأيك
+        <lb/>
+
+        نقص ولا في قولك سقط ولا في فعلك عيب وجمعت القوّة واللين فلا توجد
+        <lb/>
+
+        جبانًا عند اللقاء ولا ضيّق الصدر فيما ينوبك من الأشياء
+      </p>
+
+      <p n="Philosopher Motivates Book">
+        وقد شرحت لك
+        <lb/>
+
+        الأمور ولخّصت لك جواب ما سألتني عنه منها واجتهدت لك في ذلك
+        <lb/>
+
+        كلّه رأيي ونظري ومبلغ فطنتي التماس قضى حقّك فاقض حقّي بحسن
+        <lb/>
+
+        النيّة منك بإعمال فكرك وعقلك فيما وصفت لك
+      </p>
+
+      <p n="Advisor Is Not Superior">
+        مع أنّه ليس الآمر
+        <lb/>
+
+        بالخير بأسعد به من المطيع له فيه ولا الناصح أولى بالنصيحة من المنصوح
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

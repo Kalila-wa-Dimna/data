@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="315"/>
+
+      <p n="Schemers Suggest Searching Jackal's House">
+        فقال آخر أجَلْ لعمري بإنكاد السرائر يُطّلع عليها ولكنّكم إن كشفتم
+        <lb/>
+
+        عن هذا الأمر وفحصتم فوجدتم ذلك اللحم في منزل ابن آوى
+        <lb/>
+
+        كان ذلك دليلًا على غيرته وكلّ شيء يُذكر لنا من عيوبه وخياناته
+        <lb/>
+
+        حقّ ونحن حذرًا أن نحذره ونصدّق بكلّ شيء يُقال عنه وفيه
+      </p>
+
+      <p n="Schemers Say Trickery Is always Exposed">
+        قال
+        <lb/>
+
+        آخر وكيف يسلم من خاتل السلطان أو كيف يخفى ذلك عليه وله
+        <lb/>
+
+        ومحتال الأصحاب لا يخفى
+      </p>
+
+      <p n="Schemers Claim that Suspicions Are Confirmed">
+        قال آخر إن كان ابن آوى فعل
+        <lb/>
+
+        ذلك لقد اجترأ على أمر عظيم قال آخر لقد أخبرني مخبر عن
+        <lb/>
+
+        ابن آوى بأمر عظيم ما وقع في نفسي حتّى سمعت كلامكم فيه قال آخر
+        <lb/>
+
+        لكنّي لم يخف عليّ أمره وخِبّه أوّل ما رأيته وقد قلت مرارًا ذلك
+        <lb/>
+
+        وأشهدت فلانًا أنّ هذا هو المخادع المتخشّع المتنسّك ولن
+        <lb/>
+
+        يفتشي إلّا عن خيانة فاحشة وذنب
+      </p>
+
+      <p n="Schemers Find False Piety Damning">
+        عظيم قال آخر لئن كان هذا
+        <lb/>
+
+        المتألّه المتخشّع الذي يرينا أنّ عمله الذي يلي بلاء عليه ومصيبته
+        <lb/>
+
+        له خان هذه الخيانة إنّ ذلك لمن أعجب العجب
+      </p>
+
+      <p n="Schemers Say Jackal Is an Ungrateful Traitor">
+        قال آخر لئن وُجد
+        <lb/>
+
+        هذا حقًّا ما هي بالخيانة فقط بل مع الخيانة كفر النعمة والجرأة على
+        <lb/>
+
+        الذنوب
+      </p>
+
+      <p n="Schemer Feigns Objectivity">
+        قال آخر أنتم أهل العدل والفضل والصدق فلن
+        <lb/>
+
+        أستطيع أكذّبكم ولكن نستبين صدق هذا وحقّه من باطله
+      </p>
+
+      <p n="Schemers Urge Quick Investigation">
+        أو قد
+        <lb/>
+
+        أرسل الملك إلى بيت ابن آوى وفتّشه قال آخر إن كان منزل ابن آوى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

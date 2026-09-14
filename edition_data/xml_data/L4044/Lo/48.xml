@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="48"/>
+
+      <p n="Dimna's Hope to Impress the Lion">
+        لي الأسد بذلك حبُّا منّي ما لم ير من غيري
+      </p>
+
+      <p n="Clever Speech Can Twist the Truth">
+        فإنّ الرجل الأريب الرفيق ربّما
+        <lb/>
+
+        أبطل الحقّ وحقّق الباطل
+      </p>
+
+      <p n="Analogy of Skilled Painter's Illusions">
+        كالمصوّر الماهر الذي يصوّر في
+        <lb/>
+
+        الجدار تصاوير كأنّها خارجة من الجدار وليست خارجة وأخرى كأنّها
+        <lb/>
+
+        داخلة وليست بداخلة
+      </p>
+
+      <p n="Dimna's Expectation of the Lion's Response">
+        فإذا أبصر الأسد فضلي وعرف ما عندي كان
+        <lb/>
+
+        هو الذي يلتمس بقربي إكرامي
+      </p>
+
+      <p n="Kalila's Final Warning about Ruler's Danger">
+        قال كليلة أمّا إذا كان
+        <lb/>
+
+        هذا رأيك فإنّي أحذّرك السلطان فإنّ في صحبة السلطان خطر
+      </p>
+
+      <p n="Three Risky Endeavors According to Scholars">
+        وقد قالت العلماء في أمور ثلاثة لا يجترئ عليها إلّا أهوج ولا يسلم
+        <lb/>
+
+        منها إلّا قليل منها صحبة السلطان ومنها ائتمان النساء على الأسرار
+        <lb/>
+
+        ومنها شرب السمّ للتجربة
+      </p>
+
+      <p n="Analogy of Ruler to a Dangerous Mountain">
+        وإنّما شبّه العلماء السلطان بالجبل الصعب
+        <lb/>
+
+        الوعر المسلك الذي فيه الثمار الطيّبة وهو معدن الأسود والنمور
+        <lb/>
+
+        وكلّ سبع مخوف ضاري فالارتقاء إليه شديد والمقام فيه أشدّ
+      </p>
+
+      <p n="Dimna's Persistence Despite Warnings">
+        قال دمنة قد صدقت فيما وصفت غير أنّه من لم يرتكبْ الأهوال
+        <lb/>
+
+        لم ينلْ الرغائب ومن ترك الأمر الذي لعلّه أن يبلغ فيه حاجته هيبة
+        <lb/>
+
+        له ومخافة لها لعلّه يتوقّاها فليس جسيمًا أمره
+      </p>
+
+      <p n="Three Challenging Pursuits Requiring Courage">
+        وقد قيل في أعمال
+        <lb/>
+
+        ثلاثة لا يستطيع أحد بلوغها إلّا بمعرفة وارتفاع همّة وعظم خطر منها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

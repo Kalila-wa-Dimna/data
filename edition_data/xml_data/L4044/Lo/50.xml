@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="50"/>
+
+      <p n="A Noble Man May Be Obscure">
+        مروءته إلّا أن تستبين وتُعرف
+      </p>
+
+      <p n="Analogy of a Flame's Inevitable Rise">
+        كالشعلة من النار التي يضعها
+        <lb/>
+
+        صاحبها وتأبى إلّا ارتفاعًا
+      </p>
+
+      <p n="Dimna Seizing the Opportunity to Impress">
+        فلمّا عرف دمنة أنّ الأسد أعجب به قال
+        <lb/>
+
+        إنّ رعيّة الملك ومن يحضره بابه أحقّاء أن يعرّفوا الملك ما عندهم
+        <lb/>
+
+        من علم أو مروءة ويبذلوا له الرأي والنصيحة فإنّ الملك لا يعرفهم بحالاتهم
+        <lb/>
+
+        ولا ينزلهم منازلهم دون أن يعرفهم بحالاتهم
+      </p>
+
+      <p n="Analogy of Hidden Crop's True Value">
+        كالزرع المدفون في الأرض
+        <lb/>
+
+        من الحنطة والشعير لا يستطيع أحد أن يعرفه وينزله منزلته حتّى يكون
+        <lb/>
+
+        هو الذي يخرج ويظهر
+      </p>
+
+      <p n="Duty of Courtiers to Share Their Knowledge">
+        وحقّ على من حضر السلطان أن يطلعه على ما
+        <lb/>
+
+        عنده من المنفعة والأدب
+      </p>
+
+      <p n="Ruler's Responsibility to Recognize Merit">
+        ومن الحقّ على السلطان أن يبلغ كلّ امرئ
+        <lb/>
+
+        مرتبته على قدر رأيه ونصيحته وما يجد عنده من المنفعة والرأي والأدب
+      </p>
+
+      <p n="Leaders Must Place Things Properly">
+        فإنّه قد كان يُقال شيئان لا ينبغي لأحد وإن كان ملكًا أن يضع شيئًا
+        <lb/>
+
+        منهما غير موضعه ولا أن يزيل عن منزلته أحدهما حلية الرِجْل والآخر
+        <lb/>
+
+        حلية الرأس
+      </p>
+
+      <p n="Analogy of Misplaced Ornaments">
+        فإنّه يُعدّ جاهلًا من عقد على رأسه حلية رجليه وعلى
+        <lb/>
+
+        رجليه حلية رأسه
+      </p>
+
+      <p n="Analogy of Comparing Precious Stones to Lead">
+        ومن صبّب الياقوت واللؤلؤ بالرصاص فليس ذلك
+        <lb/>
+
+        ينقص الياقوت واللؤلؤ ولكنّه يجهل من يفعل ذلك
+      </p>
+
+      <p n="Advice against Associating with the Ignorant">
+        ولذلك يُقال
+        <lb/>
+
+        لا تصاحبنّ صاحبًا لا يعرف ليمينه من شماله موضعهما
+      </p>
+
+      <p n="Importance of Associating with the Wise">
+        وإنّما يستخرج ما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

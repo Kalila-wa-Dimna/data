@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>C66947</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="174"/>
+
+      <p n="King Must not Trust Someone Denied Honor">
+        ذلك ولم يُؤت إليه ما هو أهله
+      </p>
+
+      <p n="King Must not Trust the Unrewarded">
+        ومتى عُرف بحسن الرأي والقدرة ولم يوصَل
+        <lb/>
+
+        إليه
+      </p>
+
+      <p n="King Must not Trust One Singled out for Punishment">
+        أو كان في أناس فأُنعم عليهم عند ذنب اجترموه وعوقب من بينهم ولم
+        <lb/>
+
+        يفعل به مثل ما أتى إليهم
+      </p>
+
+      <p n="King Must not Trust Someone Denied Justice">
+        أو كان مظلومًا ولم ينظر في أمره ولا فيما ارتُكب منه
+      </p>
+
+      <p n="King Must not Trust Someone Denied Pardon">
+        أو كان أذنب ذنبًا يسيرًا لم يستحقّ فيه
+      </p>
+
+      <p n="King Must not Trust the Greedy and Unsatisfied">
+        عقوبة أو كان من أهل الطمع والشره فلم
+        <lb/>
+
+        يصيب بعض ما يرجوه ولا ما يوافقه
+      </p>
+
+      <p n="King Must Consider the Untrustworthy as Foes">
+        فأولئك الأصناف لا يتّخذهم الملك
+        <lb/>
+
+        ولا يسرع إليهم
+      </p>
+
+      <p n="Jackal Expects Lion's Mistrust">
+        ثمّ قال ابن آوى للملك قد نُزّلت منزلة من كان مثلهم
+        <lb/>
+
+        فإن كان قلبي سليمًا فلعلّه أن يكون يعلم بذات نفسي فلا يثق فيّ ولا يطمئنّ
+        <lb/>
+
+        إليّ ويقول إنّ ابن آوى لا ينسى الذي لقيه من الهوان وإنّ الذي يبين لي منه
+        <lb/>
+
+        ليس له حقيقة
+      </p>
+
+      <p n="Jackal Fears Renewed Schemes">
+        فأنا ما في قلبي من الملك إلّا الخير وإنّما خوفي أن يفعلوا بي ذلك
+        <lb/>
+
+        مرّة أخرى ويجرّدوا عليّ الملك سيوفهم فإنّ الأعداء والحسّاد كثير فلينظر الملك فيما
+        <lb/>
+
+        ذُكر
+      </p>
+
+      <p n="Jackal Gives Conditions for Return">
+        فإن كان الملك على نيّة حسنة لي وردّني إلى منزلتي التي كنت عليها وأن
+        <lb/>
+
+        يعود إليّ ما كان لي عليه من الطمأنينة ولا يصدّق عليّ أقاويل الأعداء ولا يقبل
+        <lb/>
+
+        فيّ كلام الفجرة فليرى الملك رأيه في ذلك فأنا عند حسن ظنّي به وأملي فيه
+        <lb/>
+
+        محقَّق
+      </p>
+
+      <p n="If Unsure, Lion Must Excuse Jackal">
+        وإن كان الملك يتخوّف نفسه منّي أو كان غير واثق بي فإعفاؤه عنّي
+        <lb/>
+
+        وتركي أفضل والسلام
+      </p>
+
+      <p n="Lion Says He Tested Jackal">
+        قال له الأسد قد بلوتك وجرّبتك وجرّبت
+        <lb/>
+
+        أمانتك وصحّ عندي صدقك ووقارك واتّباعك الواجب ونفورك من الباطل
+        <lb/>
+
+        وتحقّقت كذب من سعى فيك عندي
+      </p>
+
+      <p n="Lion Vows to Disregard Future Slander">
+        فلست بعد ذلك مصدّق عليك قول قائل
+        <lb/>
+
+        ولو حدّثتني نفسي عليك من كرامتك ومن الإحسان إليك ومن الإساءة
+        <lb/>
+
+        حتّى يتبيّن لك ولجميع جندي وأهل مملكتي منزلتك عندي فطب نفسًا
+        <lb/>
+
+        وقرّ عينًا واشرح صدرًا ولا يداخلك منّي خوف ولا إساءة ولا جزع وهذا
+        <lb/>
+
+        أماني وعهدي
+      </p>
+
+      <p n="Lion Keeps His Promise">
+        وتمادى الأسد على تأدية الأمانة ووفاء العهد
+      </p>
+
+      <p n="Philosopher Comments">
+        ثمّ قال
+        <lb/>
+
+        الفيلسوف للملك فإذا كان هذا الأسد ينظر في مراجعة أمره ورأيه
+        <lb/>
+
+        والنظر في مصالحه ورأيه هذا النظر وهو حيوان ووزيره يجيبه إلى ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

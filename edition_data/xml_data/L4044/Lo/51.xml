@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="51"/>
+
+      <p n="Importance of Associating with the Wise">
+        عند الرجال ولاتهم وما عند الجند قادتهم وما في الدين من تأويل علماؤه
+      </p>
+
+      <p n="Three Things with Varying Degrees of Excellence">
+        وقد قيل في أشياء ثلاثة فضل ما بينهما متفاوت فضل المقاتل على المقاتل
+        <lb/>
+
+        والفيل على الفيل والعالم على العالم
+      </p>
+
+      <p n="Value of Quality over Quantity in Allies">
+        فإنّ كثرة الأعوان إذا لم
+        <lb/>
+
+        يكونوا خبيرين مضرّة بالعمل فإنّ العمل ليس فائدته كثيرة بكثرة
+        <lb/>
+
+        الأعوان ولكن بصالح الأعوان
+      </p>
+
+      <p n="Analogy of Carrying Heavy Stone vs. Valuable Gem">
+        ومثل ذلك كالرجل الذي يحمل الحجر
+        <lb/>
+
+        الثقيل فيثقل به نفسه ولا يجد به ثمنًا والذي يحمل الياقوت لا يثقل عليه
+        <lb/>
+
+        حمله وهو يجد به حاجته
+      </p>
+
+      <p n="Importance of Appropriate Tools for Tasks">
+        والعمل الذي يُحتاج فيه إلى الجذع لا يجديه
+        <lb/>
+
+        القصب وإن كثر
+      </p>
+
+      <p n="Ruler's Duty to Recognize Merit Regardless of Status">
+        والوالي حقيق أن لا يحقّر مروءة يجدها عند رجل
+        <lb/>
+
+        صغير المنزلة فإنّ الصغير ربّما عظم
+      </p>
+
+      <p n="Analogy of Repurposing Animal Sinew for Royal Use">
+        كالعصب يُؤخذ من الميتة فإذا عُملت
+        <lb/>
+
+        به القوس أُكرم فقبض عليه الملك واحتاج إليه في لهوه وبأسه
+      </p>
+
+      <p n="Dimna's Desire for Recognition Based on Merit">
+        وأحبّ دمنة أن ينال من كرامة الأسد ما ناله والقوم يعلمون أنّ
+        <lb/>
+
+        ذلك ليس بمعرفة بأبيه فقط ولكنّه لرأي دمنة ومروءته
+      </p>
+
+      <p n="Ruler's Criteria for Appointing Officials">
+        فقال إنّ
+        <lb/>
+
+        السلطان لا يقرّب الرجال على قرب آبائهم ولا يبعدهم لبعدهم ولكنّه
+        <lb/>
+
+        ينزلهم على قدر كلّ امرئ منهم ما ينتفع به
+      </p>
+
+      <p n="Bodily Health Is Most Important">
+        فإنّه لا أحد أقرب إلى الرجل
+        <lb/>
+
+        من جسده فمن جسده ما يدوى عليه حتّى يداويه ولا يدفع ذلك عنه
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

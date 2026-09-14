@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="200"/>
+
+      <p n="Carpenter Wants Proof">
+        لست أصدّق عليها شيئًا حتّى أعاينه
+      </p>
+
+      <p n="Carpenter Feigns Work Travel">
+        فقال لها ذات يوم إنّي أريد أن أعالج
+        <lb/>
+
+        السلطان عملا على رأس فرسخ فاصنعي لي زادًا
+      </p>
+
+      <p n="Wife Rejoices At Chance">
+        ففعلت
+      </p>
+
+      <p n="Carpenter Returns To Hide Under Bed">
+        فلمّا خرج من عندها
+        <lb/>
+
+        رجع فتحيّل حتّى دخل منزله فكمن تحت سريره وظنّت أنّه قد انطلق
+      </p>
+
+      <p n="Wife Summons Lover">
+        فأرسلت إلى
+        <lb/>
+
+        صديقها فأعلمته ذهابه وأنّه غير راجع أيّامًا
+      </p>
+
+      <p n="Lover Spends The Night">
+        فبات عندها
+      </p>
+
+      <p n="Carpenter Falls Asleep">
+        فبينما هما
+        <lb/>
+
+        يتحدّثان وبعينه كلّما يفعلان وإنّه نام ومدّ رجلاه فخرجتا
+        <lb/>
+
+        من تحت السرير
+      </p>
+
+      <p n="Wife Prompts Question From Lover">
+        فنظرت المرأة إلى رجليه وساررت صديقها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

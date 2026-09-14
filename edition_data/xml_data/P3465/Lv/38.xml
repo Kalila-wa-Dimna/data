@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="38"/>
+
+      <p n="God Equipped Humans">
+        به استنقاذ أرواحهم من العذاب في الآخرة
+      </p>
+
+      <p n="Reason Is Gods Best Gift">
+        وأفضل ما رزقهم الله
+        <lb/>
+
+        تعالى ومنّ به عليهم العقل الذي هو الدعامة لجميع الأشياء والذي لا يقدر
+        <lb/>
+
+        أحد في الدنيا على إصلاح معيشة ولا احتراز نفع ولا دفع ضرر إلّا به
+        <lb/>
+
+        وكذلك طالب الآخرة المجتهد في العمل المنجي به روحه ولا يقدر على إتمام
+        <lb/>
+
+        عمله إلّا بالعقل
+      </p>
+
+      <p n="Reason Is Basis Of Every Good">
+        الذي هو سبب كلّ خير ومفتاح كلّ سعادة
+        <lb/>
+
+        فليس لأحد غنى عن العقل والعقل مكتسب بالتجارب والأدب
+      </p>
+
+      <p n="Reason Like Hidden Fire">
+        وله غريزة
+        <lb/>
+
+        مكنوّنة في الإنسان كامنة كالنّار في الحجر فلا يرى ضوءها ولا إظهارها
+        <lb/>
+
+        حتى يقدحها قادح من الناس فإذا قُدحت ظهرت طبيعتها
+      </p>
+
+      <p n="Adab And Experience Kindle Reason">
+        وكذلك العقل
+        <lb/>
+
+        فطرة في الإنسان لا تظهر حتى يظهره الأدب وتقوّيه التجارب
+      </p>
+
+      <p n="Reason Brings Success">
+        ومن رُزق
+        <lb/>
+
+        العقل ومن به عليه وأعين بصدق فريحة الأدب حرص على طلب سعيه
+        <lb/>
+
+        جدّ وأبذل في الدنيا أمله وجاز في الآخرة ثواب الصالحين
+      </p>
+
+      <p n="Kisra Most Learned King">
+        وقد رزق الله
+        <lb/>
+
+        الملك السعيد أنوشوران من العقل أفضله ومن العلم أجزله ومن المعرفة
+        <lb/>
+
+        بالأمور أصومها وسدّده من الأفعال أشدّها ومن البحث عن الأصول
+        <lb/>
+
+        والفروع أنفعها وبلغه على الفنون اختلاف العلم وبلوغ منزلة الفلسفة
+        <lb/>
+
+        ما لم يبلغه ملكًا قط ممن مضى من الملوك قبله
+      </p>
+
+      <p n="Kisra Hears Of K D">
+        حتّى كان فيما طلب وبحث عنه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

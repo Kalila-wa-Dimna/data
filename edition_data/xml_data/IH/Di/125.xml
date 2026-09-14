@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="125"/>
+
+      <p n="Fellow Prisoner Explains Invalidity of His Single Testimony">
+        |فيُفسدُ الجندَ بلطفِ مكرِهِ ### عليك أو يُعْديهِمِ مِن شَرِّهِ
+        <lb/>
+
+        |ويَطمَعُ الجهّالُ والأوغادُ ### فيظهرُ الخَبالُ والفسادُ
+      </p>
+
+      <p n="Lion Orders Dimna to Be Killed">
+        |قال لها لأجعلنَّ دمنَهْ ### إذا نِكالًا للورى فإنَّهْ
+        <lb/>
+
+        |منّي بما يُكرَهُهُ جديرُ ### فقد بدا لي جُرْمُهُ يُنيرُ
+        <lb/>
+
+        |حينئِذٍ قال اقْتلوه جوعًا ### وعذبِّوه هكذا أُسْبوعًا
+        <lb/>
+
+        |ثمّ اقتلوه قَتْلَةً أليمَهَ ### بهذه الجريمَةِ العظيمَهْ
+      </p>
+
+      <p n="Commentary That Seeking Others' Harm Will Be Punished">
+        |كذاك عُقْبي البَغْيِ والفسادِ ### والسَّعْيِ في متالِفِ العبادِ
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

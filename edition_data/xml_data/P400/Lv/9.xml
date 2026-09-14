@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="9"/>
+
+      <p n="Kisra Surpasses Prior Kings">
+        الفكر
+      </p>
+
+      <p n="Subjects And Kings Obey Kisra">
+        وكان الله عزّ وجلّ اختصّه بهذه الخصال وزيّنه بزينة
+        <lb/>
+
+        الكرامة وتوّجه بهذه النعمة إذا استوثقت له الرعيّة وصفت
+        <lb/>
+
+        له البلاد وأذعنت له العباد وانقادت له الملوك فركنوا
+        <lb/>
+
+        إلى طاعته ومناصحته وذلك من الله تعالى نعمة سابغة قسمها
+        <lb/>
+
+        له في دولته وحباه مملكته
+      </p>
+
+      <p n="Kisra Hears Of Indian Book">
+        فبينما هو في عزّ شأنه ونهاية
+        <lb/>
+
+        سلطانه إذ بلغه أنّ بالهند كتاب من تأليف الحكماء
+      </p>
+
+      <p n="The Book Has Animals">
+        قد رُتّبت
+        <lb/>
+
+        أبوابه وأيقنت عجائبه على أفواه البهائم والطيور والوحوش
+        <lb/>
+
+        والسباع والأنام والهوامّ وسائر حرشة الأرض
+      </p>
+
+      <p n="Kings Need The Book">
+        فيما يحتاج
+        <lb/>
+
+        إليه الملوك في سياسة المملكة وبيعة أحلافها ورأفتها
+        <lb/>
+
+        ورحمتها
+      </p>
+
+      <p n="Kisra Desires The Book">
+        وكذلك لم يدع كسرى أنوشروان اقتناء هذا الكتاب
+        <lb/>
+
+        الذي بلغه عنه ببلاد الهند والعمل بحسن تدبيره وعجائبه ممّا يقرّب
+        <lb/>
+
+        إلى الله عزّ وجلّ ويزجر عن معاصيه
+      </p>
+
+      <p n="Kisra Ponders Who To Assign">
+        فلمّا أن عزم على ما أراد من
+        <lb/>
+
+        أمره وهمّ باقتناء ذلك الكتاب يعني كتاب كليلة ودمنة وطلب
+        <lb/>
+
+        من يبعثه في انتساخه قال في نفسه لمن هذا الأمر العظيم والأدب
+        <lb/>
+
+        الجسيم الذي يختصّون به ملوك الهند دون ملوك فارس
+      </p>
+
+      <p n="Kisra Keen For Indian Book">
+        وقد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

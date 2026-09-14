@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="60"/>
+
+      <p n="Chapter Title">
+        غرض الكتاب ترجمة عبدالله بن المقفّع كتاب
+        <lb/>
+
+        كليلة ودمنة
+      </p>
+
+      <p n="Parables Originated with Scholars of India">
+        وهو ما صنعه علماء الهند من الأمثال والأحاديث
+        <lb/>
+
+        التي أُلهموا بها وأن يُدخلوا فيها أبلغ ما وجدوا من
+        <lb/>
+
+        القول في الذي أرادوا
+      </p>
+
+      <p n="Scholars Desire to Be Understood">
+        ولم تزال العلماء في كلّ ملّة
+        <lb/>
+
+        وكلّ مكان يلتمسون أن يُعقل عنهم ويُقتبس منهم
+      </p>
+
+      <p n="Scholars Put Knowledge in Book of Fables">
+        ويحتالون
+        <lb/>
+
+        لذلك بصنوف الحيل ويبتغون إخراج ما عندهم
+        <lb/>
+
+        من العلل حتى كان من تلك العلل وضع ذلك الكتاب
+        <lb/>
+
+        على ألسن البهائم والطير
+      </p>
+
+      <p n="Fables Facilitate Many Types of Discourse">
+        فاجتمع لهم بذلك خلال
+        <lb/>
+
+        أمامهم فوجدوا مصرفًا في القول وشعبًا يأخذون
+        <lb/>
+
+        فيها وأمّا الكتاب فجمع أن يكون لهوًا وحكمة فاجتناه <>
+      </p>
+
+      <p n="Farmer Works Land for Yield Not Weed">
+        <> مثله في ذلك مثل الزارع الذي إنّما يبرّ أرضه
+        <lb/>
+
+        ويعمّرها ابتغاء للزرع لا ابتغاء العشب وهي لا محالة
+        <lb/>
+
+        نابت العشب فيها وصنوفه
+      </p>
+
+      <p n="Book Is Used for Wisdom, Pleasure, and Knowledge">
+        فالحكماء اجتنوه لحكمته
+        <lb/>
+
+        والسفهاء اجتنوه للهو والمتعلّمون الأحداث
+        <lb/>
+
+        تنشّطوا في تعليمه وخفّ عليهم قراءته وحفظه
+      </p>
+
+      <p n="Acquired Knowledge Manifests in Adulthood">
+        فإذا احتنك الحدث وأجمع عقله دبّر ما كان في
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

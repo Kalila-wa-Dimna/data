@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="196"/>
+
+      <p n="Dimna Want to Spare Court Sin and Regret in Hereafter">
+        الندامة
+      </p>
+
+      <p n="Dimna's Fourth Subtale of the Falconer Who Falsely Accuses the Marzuban's Wife">
+        وتصيبكم ما أصاب القائل بما لا علم له به ولم يحط
+        <lb/>
+
+        به خيرًا
+      </p>
+
+      <p n="On Judgement Day Every One Will Account for His Actions">
+        فإنّ أحدًا لن يذهب إلى الآخرة بشيء قلّ أو كثر
+        <lb/>
+
+        إلّا بعمله من قوله وفعاله خيرًا كان أو شرًّا فإنّه يصحبه حيث
+        <lb/>
+
+        ما كان
+      </p>
+
+      <p n="Head of Court Requests Tale">
+        قال عظيم الجمع وما ذلك
+      </p>
+
+      <p n="Falconer Accosted Wife and Is Rejected">
+        قال دمنة زعموا أنّ بازيابرًا
+        <lb/>
+
+        أراد مولاته بالفجور فلم تُطِعْه وامتنعت عليه وعرض
+        <lb/>
+
+        لها مرارًا فأعرضت عنه ولم تلتفت إليه وكان زوجها
+        <lb/>
+
+        مرزبان
+      </p>
+
+      <p n="Falconer Decides to Take Revenge">
+        فلمّا رأى عبده البازيار ذلك منها طلب
+        <lb/>
+
+        فضيحتها
+      </p>
+
+      <p n="Falconer Teaches Parrots False Accusation in Foreign Tongue">
+        فخرج إلى الصيد في بعض الأيّام فصاد فرخَيْ
+        <lb/>
+
+        ببّغاء فربّاهما وجعل يعلّم أحدهما إنّي رأيت البوّاب
+        <lb/>
+
+        مضاجعًا لمولاتي وعلّم الآخر أمّا أنا فلست قائلًا
+        <lb/>
+
+        شيئًا فتعلّما ذلك في أشهر بلسان البلخيّة ولم يكن أهل
+        <lb/>
+
+        ذلك البلد يعرفون ذلك اللسان
+      </p>
+
+      <p n="Falconer Gives Parrots to Marzuban">
+        فبينما المرزبان يومًا
+        <lb/>
+
+        يشرب عند امرأته إذ أتاه البازيار بالببّغاوين فصاحا
+        <lb/>
+
+        بلسان أعجبه صياحهما من غير أن يفهم ما يقولان
+      </p>
+
+      <p n="Marzuban Gives Parrots to Wife">
+        فأمر امرأته بالاحتفاظ بهما والإحسان إليهما
+        <lb/>
+
+        ففعلت فمكثا عندها أشهرًا
+      </p>
+
+      <p n="Marzuban Hosts Foreign Guests">
+        ثمّ قدم على المرزبان
+        <lb/>
+
+        ناس من أهل بلخ فصنع لهم طعامًا فأكلوا ودعا بشراب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

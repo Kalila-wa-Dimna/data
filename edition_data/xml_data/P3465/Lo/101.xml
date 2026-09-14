@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="101"/>
+
+      <p n="Dimna Approaching the Lion">
+        فسلّم عليه
+      </p>
+
+      <p n="Lion Inquiring About Dimna's Identity">
+        فقال الأسد لبعض جلسائه من هذا
+      </p>
+
+      <p n="Identification of Dimna">
+        فقال فلان ابن فلان
+      </p>
+
+      <p n="Lion Recognizing Dimna's Father">
+        قال
+        <lb/>
+
+        قد كنت أعرف أباه
+      </p>
+
+      <p n="Dimna's Response about His Loyalty">
+        قال لم أزلْ مرابطًا بباب الملك رجاء
+        <lb/>
+
+        أن يحضر أمر فأعين الملك فيه بنفسي ورأيي
+      </p>
+
+      <p n="Dimna on the Value of Overlooked Individuals">
+        فإنّ الملوك تكثر فيها الأمور التي لا يحتاج فيها
+        <lb/>
+
+        إلّا الذي لا يؤبه له وليس أحد يصغر أمره إلّا وقد يكون عنده بعض الغنى والمنافع
+        <lb/>
+
+        على أنّ القدرة
+      </p>
+
+      <p n="Analogy of Useful Discarded Objects">
+        كشبه العود المنبوت في الأرض وربّما يقع به الرجل فيأخذه فتكون
+        <lb/>
+
+        عدّته عند الحاجة إليه
+      </p>
+
+      <p n="Lion's Positive Impression of Dimna">
+        فلمّا سمع الأسد قول دمنة أعجبه وظنّ أنّ عنده نصيحة
+        <lb/>
+
+        ورأيًا
+      </p>
+
+      <p n="A Noble Man May Be Obscure">
+        فأقبل على من حضر فقال إنّ الرجل ذا العلم والمروءة يكون خامل الذكر
+        <lb/>
+
+        خافض المنزلة فتأبى منزلته إلّا أن تشبّ وترتفع
+      </p>
+
+      <p n="Analogy of a Flame's Inevitable Rise">
+        كالشعلة من النار يضربها
+        <lb/>
+
+        صاحبها وتأبى إلّا ارتفاعًا
+      </p>
+
+      <p n="Dimna Seizing the Opportunity to Impress">
+        فلمّا عرف دمنة أنّ الأسد قد عجب منه قال إنّ رعيّة
+        <lb/>
+
+        الملك تجوز باب الملك رجاء أن يعرف ما عندها من علم وافر
+      </p>
+
+      <p n="Three Things with Varying Degrees of Excellence">
+        وقد يقال إنّ الفضل في
+        <lb/>
+
+        أمرين فضل المقاتل على المقاتل والعالم على العالم
+      </p>
+
+      <p n="Value of Quality over Quantity in Allies">
+        وإنّ كثرة الأعوان إذا
+        <lb/>
+
+        لم يكونوا متخبّرين بما يكون مضرّة على العمل فإنّ العمل ليس رجاؤه بكثرة الأعوان
+        <lb/>
+
+        ولكن بصالحي الأعوان
+      </p>
+
+      <p n="Analogy of Carrying Heavy Stone vs. Valuable Gem">
+        ومثل ذلك مثل الرجل الذي يحمل الحجر الثقيل فيقتل به
+        <lb/>
+
+        نفسه ولا يجد له ثمنًا
+      </p>
+
+      <p n="Importance of Appropriate Tools for Tasks">
+        والرجل الذي يحتاج إلى الجذوع لا يجزيه القصب وإن
+        <lb/>
+
+        كثر
+      </p>
+
+      <p n="Ruler's Duty to Recognize Merit Regardless of Status">
+        وأنت الآن أيّها الملك حقيق ألّا تحقّر مروءة وأنت تجدها عند رجل صغير
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

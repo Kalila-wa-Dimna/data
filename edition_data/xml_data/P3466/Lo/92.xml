@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="92"/>
+
+      <p n="Lion's Relief Upon Seeing Dimna Alone">
+        دمنة أنّ شيئًا استخفّه
+      </p>
+
+      <p n="Dimna's Return and Lion's Inquiry">
+        فلمّا دخل دمنة على الأسد
+        <lb/>
+
+        قال له ما صنعت وما رأيت
+      </p>
+
+      <p n="Dimna Reports Seeing a Ox">
+        قال له رأيت ثورًا هو صاحب الصوت
+        <lb/>
+
+        الذي سمعت
+      </p>
+
+      <p n="Lion Inquires about Ox's Strength">
+        قال فما قوّته وشدّته
+      </p>
+
+      <p n="Dimna Downplays Ox's Power">
+        قال لا شوكة له قد دنوت منه
+        <lb/>
+
+        وحاورته محاورة الأكفاء فلم يستطعْ لي شيئًا
+      </p>
+
+      <p n="Lion Warns against Underestimation">
+        قال الأسد لا
+        <lb/>
+
+        يغرّنك ذلك منه ولا يصغرنّ عندك
+      </p>
+
+      <p n="Analogy of Wind and Trees">
+        فإنّ الريح الشديدة لا
+        <lb/>
+
+        تضرّ بضعيف الحشيش ولكنّها تحطم عظام الدوح وطوال النخل
+        <lb/>
+
+        وكذلك الصناديد إنّما يعضد بعضها بعضًا
+      </p>
+
+      <p n="Dimna Offers to Bring Ox as Servant">
+        قال دمنة لا تهابنّ
+        <lb/>
+
+        أيّها الملك منه شيئًا ولا يكثرنّ في نفسك أمره فأنا آتيك به
+        <lb/>
+
+        حتّى يكون لك عبدًا سامعًا مطيعًا
+      </p>
+
+      <p n="Lion's Approval of Dimna's Proposal">
+        ففرح الأسد بقوله وقال
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

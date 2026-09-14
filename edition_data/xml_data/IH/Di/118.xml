@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="118"/>
+
+      <p n="Dimna Calls Courtier Filthy and Leprous and">
+        |أجابه عندئِذٍ دمنةُ قدْ ### بدا عليه ما بدا مِن الحَرَدْ
+        <lb/>
+
+        |إيّاكَ أعني أيّها المكسورُ ### من بانَ في وَرِكِهِ الناسورُ
+        <lb/>
+
+        |فأنتَ مشقوقُ الشفاهِ أَفْلَجُ ### مُنفَّخُ البطنِ كريهٌ أَعْرَجُ
+        <lb/>
+
+        |وأنتَ فظُّ الطبع جِلْفٌ أَقْرَعُ ### آدَرُ والأَدَرْ عيبٌ مُفْظِعُ
+        <lb/>
+
+        |وأنتَ غِمْرٌ جاهلٌ لن تصلُحا ### لعملٍ وإن يكنْ مستَقْبَحا
+        <lb/>
+
+        |لذاك لستَ صالحًا بالأَحْرى ### لأن تكونَ تخدُمَ الهِزبرا
+      </p>
+
+      <p n="Courtier Is Reduced to Tears">
+        |فأطرقَ الخبّازُ لمّا سمِعا ### ذلك مِن مقالِهِ وخَضَعا
+      </p>
+
+      <p n="Leopard &amp; Judge Bring Lion the Court Records Who Has Them Copied">
+        | فكتبَ الكاتِبُ كلَّ ما جرى واستشهدَ القاضِيَ ثمّ النمِرا
+        <lb/>
+
+        |ثمّ أعادوا دمنةَ لحَبسِهِ ### وانصرفوا ويومُهُ كأَمسِهِ
+        <lb/>
+
+        |وعرضوا مكتوبَهُمْ على الأَسَدْ ### فقال روحوا واحْضَروا بُكرةَ غَدْ
+      </p>
+
+      <p n="Lion Is Informed by Court Secretary and Ousts Courtier">
+        |وصرفَ الخنزيرَ عن طعامِهِ ### لقُبح ما بُلِّغَ مِن أَسْقامِهِ
+      </p>
+
+      <p n="Ruzbeh Is Kalīla's Friend">
+        |وكان بينَ أصدقا كليلَهْ ### صديقُ صدقٍ ماهِرٌ ذو حيلَهْ
+        <lb/>
+
+        |له نفوٌذ في بلاطِ الأَسَدِ ### وإسمُهُ رَوْزَبَةٌ ذو الرَّشَدِ
+      </p>
+
+      <p n="Kalīla Had Feared Reprehensions for Being Responsible">
+        |فجاءَ يومًا قاصِدًا زيارَهْ ### كليلةَ مستَقصِيًا أخبارَهْ
+        <lb/>
+
+        |وجدَهُ ملازمًا فِراشَهْ ### والداءُ من شدّتِهِ أَطاشَهْ
+        <lb/>
+
+        |فقال ماذا قال دائي والوَجَلْ ### على شقيقي دمنةَ مِنَ الأَجَلْ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

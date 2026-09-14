@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="372"/>
+
+      <p n="Lion Does not Excuse Jackal">
+        دع هذا عنك فإنّي غير معفيك من العمل
+      </p>
+
+      <p n="Two Kinds Serve Kings">
+        قال ابن آوى إنّما يستطيع
+        <lb/>
+
+        صحبة السلطان رجلان لست واحدًا منهما إمّا فاجر ينال حليته بفجوره
+        <lb/>
+
+        وإمّا رجل مهين غافل
+      </p>
+
+      <p n="Good Advisor Is Hated">
+        فأمّا من أراد أن يصحب الملوك بالصدق
+        <lb/>
+
+        والنصيحة والعفاف لا يخلط ذلك بغيره فقلّ ما تستقيم له صحبتهم
+        <lb/>
+
+        ﻷنّه يجتمع عليه عدوّه وصديقه بالعداوة والحسد
+      </p>
+
+      <p n="Threats against Good Advisor">
+        أمّا الصديق
+        <lb/>
+
+        فينافسه في منزلته ويبغي عليه فيها ويعاديه لها وأمّا المغفّل
+        <lb/>
+
+        السلطان فيضطغن عليه بنصيحته لسلطانه وغنائه عنه
+        <lb/>
+
+        فإذا اجتمع عليه هذان الصنفان كان قد تعرّض للهلاك
+      </p>
+
+      <p n="Lion Promises Jackal Protection">
+        قال
+        <lb/>
+
+        الأسد لا يكوننّ بغي أصحابي عليك وحسدهم لك ممّا يُعرض
+        <lb/>
+
+        في قلبك فكأنّي كافيك ذلك وبالغ بك في الكرامة والإحسان
+        <lb/>
+
+        بهمّتك
+      </p>
+
+      <p n="Jackal Wants to Remain Carefree">
+        قال ابن آوى إن كان الملك يريد الإحسان
+        <lb/>
+
+        فيّ فليتركني أعيش في هذه البرّيّة آمنًا من أن أحسد
+        <lb/>
+
+        فإنّي قليل الهمّ راض بمعيشتي من المال الخسيس
+      </p>
+
+      <p n="Kings' Advisors Suffer">
+        وقد علمت أنّ صاحب السلطان يصل إليه
+        <lb/>
+
+        في ساعة واحدة من الأذى والخوف ما لا يصل
+        <lb/>
+
+        إلى غيره طول الدهر
+      </p>
+
+      <p n="Peace over Wealth">
+        وأنّ قليل العيش في أمن
+        <lb/>
+
+        وطمأنينة خير من كثيره في خوف ونصب
+      </p>
+
+      <p n="Lion Reassures Jackal">
+        قال الأسد قد سمعت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

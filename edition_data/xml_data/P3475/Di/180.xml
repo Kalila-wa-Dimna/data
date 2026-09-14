@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="180"/>
+
+      <p n="The Mother Calls Dimna a Liar">
+        أيّها الكذّاب أترجو أن تنجو من ذنبك العظيم
+      </p>
+
+      <p n="Dimna Claims Truthfulness">
+        قال دمنة الكذّاب الذي يقول
+        <lb/>
+
+        ما لم يكنْ وما لم يفعل
+      </p>
+
+      <p n="The Lion's Silence Makes the Mother Doubt">
+        فلمّا رأت أمّ الأسد أنّ الأسد لا ينطق بشيء شكّت
+        <lb/>
+
+        في أمره وقالت لعلّه مكذوب عليه بريء ممّا رُمي به
+      </p>
+
+      <p n="Who King and Court Listen to in Silence Appears Truthful">
+        قالت إنّ
+        <lb/>
+
+        المعتذِر عند الملك بحضرة الجند لا يرَدّ عليه بشيء من
+        <lb/>
+
+        منطقه لشبيه أن يكون معذرًا صادقًا لما نطق بل كذلك
+        <lb/>
+
+        براءة الجند
+      </p>
+
+      <p n="Lion Hands Dimna Over to Judge for Investigation">
+        فأمر الأسد عند ذلك بدمنة فقُذفت في عنقه
+        <lb/>
+
+        جامعة وأمر به إلى السجن وأمر بالنظر في أمره والمسألة
+        <lb/>
+
+        عنه
+      </p>
+
+      <p n="The Mother Knows about Dimna's Infamy">
+        فقالت أمّ الأسد بلغني عن هذا الفاجر الكذّاب شرّ
+        <lb/>
+
+        ما يقال في أحد
+      </p>
+
+      <p n="Dimna Has a Bad Reputation">
+        وقد تتابعت عليه الألسن وهو لذلك
+        <lb/>
+
+        محتمِل ليس يشكّك أمره على أحد وقد ذكر إليّ الأمين المصدّق
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

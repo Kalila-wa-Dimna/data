@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="353"/>
+
+      <p n="King R Appreciates the Vizier's Candor">
+        على كافّة جندي
+      </p>
+
+      <p n="The Vizier Values King R's Justice">
+        فلمّا سمع الوزير ذلك من الملك قال
+        <lb/>
+
+        لم يبق الملك على نفسه فجميع ما قاله فيّ إنّما هوّ من كبير رأفته
+        <lb/>
+
+        وبرّه وترتيبه
+      </p>
+
+      <p n="King R Consults the Viziers in Reverse Order">
+        ثمّ إنّ الملك بدأ يشاور وزراءه الثلاثة
+        <lb/>
+
+        بالعكس يعني من فوق إلى أسفل إلى فوق
+      </p>
+
+      <p n="King R Asks the Youngest Vizier">
+        فقال
+        <lb/>
+
+        للأدنى منهم ما تقول أنت أيّها الوزير في هذا الأمر
+        <lb/>
+
+        وما الذي يجب أن نصنع
+      </p>
+
+      <p n="The Youngest Viziers Proposes to Bell the Cats">
+        قال له ذلك الوزير الذي
+        <lb/>
+
+        عندي من الرأي أن تحضر جلاجلًا كثيرة وتعلّق
+        <lb/>
+
+        كلّ جلجل منها في عنق سنّور ليكون كلّما ذهب
+        <lb/>
+
+        وجاز سمعنا صوت الجلجل فنحذر منه ونأوي
+        <lb/>
+
+        إلى أجحارنا
+      </p>
+
+      <p n="King R Runs the Idea by the Second Vizier">
+        قال الملك للوزير الثاني ما الذي عندك
+        <lb/>
+
+        أيّها الوزير في هذا الأمر الذي أشار به صاحبك
+      </p>
+
+      <p n="The Second Vizier Rejects Belling the Cats">
+        قال لست بحامد مشورته هيّنًا أحضر لنا الجلاجل
+        <lb/>
+
+        فمن يقدر منّا أن يعلّق واحد واحد منها على أصغر
+        <lb/>
+
+        السنانير فضلًا أن يتقدّم إلى ضواريها
+      </p>
+
+      <p n="The Second Viziers Proposes Self-Imposed Exile">
+        والرأي عندي
+        <lb/>
+
+        أن نخرج بأجمعنا بهذه المدينة ونقيم في البريّة سنة واحدة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

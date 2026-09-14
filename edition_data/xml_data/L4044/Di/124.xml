@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="124"/>
+
+      <p n="Judge Forsook Professional Knowledge and For Acting on Thoughts">
+        القضاة وما يحقّ عليهم من الكفّ عن سقيط الناس واستدراجهم وانصرفت
+        <lb/>
+
+        إلى العمل بالظنون بي التي تختلف بها الحالات والأمور
+      </p>
+
+      <p n="Everyone Should Say Only What They Know">
+        أما بلغك ما قالت
+        <lb/>
+
+        العلماء من أنّه من ادّعى علم ما لم يعلم وقال ما لم يره وشهد عليه
+      </p>
+
+      <p n="Dimna's Fourth Subtale of the Falconer Who Falsely Accuses the Marzuban's Wife">
+        أصابه
+        <lb/>
+
+        ما أصاب البازيار القاذف لمولاته التي زعم أنّه رآها مع رجل تفجر وتعمل
+        <lb/>
+
+        ما لا ينبغي
+      </p>
+
+      <p n="Head of Court Requests Tale">
+        قال القاضي وكيف كان ذلك
+      </p>
+
+      <p n="Marzuban Had Wife and Servant">
+        قال دمنة
+        <lb/>
+
+        زعموا أنّه كان بمدينة كذا رجل مذكور وكان له امرأة ذات عقل وحسب
+        <lb/>
+
+        وحسن وعفاف وكان للرجل بازيار ماهر بسياسة البزاة ومعالجتها كريم
+        <lb/>
+
+        على مولاه
+      </p>
+
+      <p n="Falconer Accosted Wife and Is Rejected">
+        وكان قد راود امرأة سيّده فأبت عليه
+      </p>
+
+      <p n="Falconer Decides to Take Revenge">
+        فحرص على سبّها وكان
+        <lb/>
+
+        يكثر في ذلك الأقاويل فاستُخفّ بقوله فلمّا رأى أنّه لا يبلغ بشيء من
+        <lb/>
+
+        ذلك ما أراد من فضيحتها اضطغن عليها وأجمع الحيلة في هتكها
+      </p>
+
+      <p n="Falconer Teaches Parrots False Accusation in Foreign Tongue">
+        واغتدى في طلب الصيد فأصاب فرخي ببّغاء فربّاهما وفرّق بينهما وعلّم
+        <lb/>
+
+        أحدهما قذفًا لمولاته وهو إنّي رأيت البوّاب مضاجعًا مولاتي على فراش
+        <lb/>
+
+        سيّدي ولقّن الآخر أن يقول أمّا أنا فلا أقول شيئًا فأدّب الفرخين بذلك
+        <lb/>
+
+        وحذقا به في ستّة أشهر وبلغا ما أراد وكانت لغة الفرخين بلسان
+        <lb/>
+
+        البلخيّ
+      </p>
+
+      <p n="Falconer Gives Parrots to Marzuban">
+        فذهب بهما إلى مولاه ووضعهما بين يديه فصاحا فأعجبه حلاوة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

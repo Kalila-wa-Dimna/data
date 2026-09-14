@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="99"/>
+
+      <p n="Kalila Questioning Dimna's Strategy">
+        عنده الذي ترجو أن تنال به المنزلة عنده والحظوة لديه
+      </p>
+
+      <p n="Dimna will Make the Lion See His Benefit">
+        قال دمنة لو قد دنوت
+        <lb/>
+
+        منه وعرفت أخلاقه فرفقت في متابعته وقلّة الخلاف عليه وإذا أراد أمرًا
+        <lb/>
+
+        هو في نفسه صواب زيّنته له وصبّرته عليه وعرّفته بما فيه وشجّعته عليه
+        <lb/>
+
+        وعلى الوصول إليه حتّى يزداد به سرورًا
+      </p>
+
+      <p n="Dimna will Make the Lion See His Harm">
+        وإذا أراد أمرًا يُخاف عليه ضرّه وشينه
+        <lb/>
+
+        بصّرته بما فيه من الضرّ والشين وما في تركه من النفع والزين بحسب ما أجد إليه
+        <lb/>
+
+        السبيل
+      </p>
+
+      <p n="Dimna's Hope to Impress the Lion">
+        وأنا أرجو أن أزداد بذلك عند الأسد مكانة ويرى منّي ما لا يراه من
+        <lb/>
+
+        غيري
+      </p>
+
+      <p n="Clever Speech Can Twist the Truth">
+        فإنّ الرجل الأديب الرفيق لو شاء أم يبطل حقًّا ويحقّ باطلًا لفعل
+      </p>
+
+      <p n="Analogy of Skilled Painter's Illusions">
+        كالمصوّر الماهر الذي يصوّر في الحيطان صورًا كأنّها خارجة وليست
+        <lb/>
+
+        بخارجة وأخرى كأنّها داخلة وليست بداخلة
+      </p>
+
+      <p n="Kalila's Final Warning about Ruler's Danger">
+        فقال كليلة أمّا إن قلت هذا
+        <lb/>
+
+        أو قلت هذا فإنّي أخاف عليك من السلطان فإنّ صحبته خطرة
+      </p>
+
+      <p n="Three Risky Endeavors According to Scholars">
+        وقد قالت العلماء
+        <lb/>
+
+        إنّ أمورًا ثلاثة لا يجترئ عليهنّ إلّا أهوج ولا يسلم منهنّ إلّا القليل صحبة
+        <lb/>
+
+        السلطان وائتمان النساء على الأسرار وشرب السمّ للتجربة
+      </p>
+
+      <p n="Analogy of Ruler to a Dangerous Mountain">
+        وإنّما شبّه العلماء
+        <lb/>
+
+        السلطان بالجبل الصعب المرتقى الذي فيه الثمار الطيّبة والجواهر النفيسة والأدوية
+        <lb/>
+
+        النافعة وهو مع ذلك معدن السباع والنمور والذئاب وكلّ ضارّ مخوف
+        <lb/>
+
+        فالارتقاء إليه شديد والمقام فيه أشدّ
+      </p>
+
+      <p n="Dimna's Persistence Despite Warnings">
+        قال دمنة صدقت فيما ذكرت ومن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="50"/>
+
+      <p n="Informed Patient Eats Bad Food">
+        ومثله زعموا أنّ عالم مرض فالواجب عليه الحمية لأنّها رأس
+        <lb/>
+
+        الحكمة فجعل يأكل جيّد الطعام ورديئه ويأخذه الشره إلى
+        <lb/>
+
+        الرديء دون الجيّد فيدع الذي فيه النجاة ويتناول ما فيه
+        <lb/>
+
+        الهلكة فتراكمت علّته إلى أن أهلكته
+      </p>
+
+      <p n="Those in the Know Have No Excuse">
+        وأقلّ الناس عذرًا من
+        <lb/>
+
+        يجتنب المحمود ويفعل المذموم وسُمّي من الجهّال
+      </p>
+
+      <p n="A Sighted and a Blind Fall into a Ditch">
+        ومثاله زعموا
+        <lb/>
+
+        كرجلين أعمى وبصير جاء بهما الأجل إلى حفرة فوقعا معًا
+        <lb/>
+
+        فلمّا صارا في قعر الحفرة كانوا بمنزلة واحدة في الهلكة
+      </p>
+
+      <p n="The Sighted Man Has No Excuse">
+        غير أنّ
+        <lb/>
+
+        البصير أقلّ عذرًا من الضرير عند الناس إذ له عينان يبصر
+        <lb/>
+
+        بهما دون الضرير
+      </p>
+
+      <p n="Scholar Must Discipline Himself">
+        فالعالم يردع نفسه عن الهلكات دون
+        <lb/>
+
+        الجاهل لأنّ ربّما إذا العالم ردع نفسه وردّها بعلمه ارتدع
+        <lb/>
+
+        الجاهل معه
+      </p>
+
+      <p n="Water-Spring Benefits Only Others">
+        فمثالها زعموا أنّ العين التي يُشرب ماؤها
+        <lb/>
+
+        وليس فيها شيء من المنفعة
+      </p>
+
+      <p n="Silk Worm Benefits Only Others">
+        أو كدود القزّ الذي يحكم صنعته ولا ينتفع
+        <lb/>
+
+        منها بشيء أصابه نهاية الجهل
+      </p>
+
+      <p n="Instructing Oneself Comes First">
+        فالعالم يعظ نفسه قبل أن يعظ
+        <lb/>
+
+        غيره
+      </p>
+
+      <p n="Three Things Are Needed for Worldly Life">
+        وعلامة العالم يكون مقتني ثلاثة أشياء العلم على وثيقة والمال
+        <lb/>
+
+        من كدّ حلال واتّخاذ المعروف
+      </p>
+
+      <p n="One Should Not Condemn Faults in Others One Has">
+        ولا ينبغي للعالِم أن يعتب على أحد
+        <lb/>
+
+        من الناس في أمر يرجع الملامة عليه
+      </p>
+
+      <p n="Reader Is Like a Blind Blaming another Blind">
+        فيكون مثاله كالأعمى الذي
+        <lb/>
+
+        عيّر الأعمى بالعمى
+      </p>
+
+      <p n="One Must Know When to Halt Pursuit">
+        وينبغي لمن طلب أمرًا يكون يعرف نهايته
+        <lb/>
+
+        ولا يفاحش في الطلب
+      </p>
+
+      <p n="One Should Not Seek the Unattainable">
+        فيطمّع نفسه بما لا يجد إليه وصول
+      </p>
+
+      <p n="Detachment Eases Death">
+        لأنّه
+        <lb/>
+
+        إن تعلّق قلبه بالغايات قلّت مسرّته عند آخر مفرقها فإذا
+        <lb/>
+
+        الرجل طمع في أمور المحال يكون من أكبر الجهّال
+      </p>
+
+      <p n="Two Things Do Not Suit Anyone">
+        هل يطمع أحد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

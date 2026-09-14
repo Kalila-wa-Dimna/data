@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="55"/>
+
+      <p n="The Thief Eyes Jar">
+        في بعض نواحيه فلمّا خرج التا جر لبعض مهمّاته
+      </p>
+
+      <p n="The Thief Takes the Grain">
+        خرج اللصّ من
+        <lb/>
+
+        مكمنه ليحمل الخابية التي فيها الورق فغلط فحمل الخابية
+        <lb/>
+
+        التي فيها البرّ ولم يزل في كلّ وتعب حتّى وصل إلى منزله
+        <lb/>
+
+        ففتح الخابية وعلم ما فيها فندم حيث لا ينفعه الندم
+      </p>
+
+      <p n="The Merchant Forfeits Trust">
+        فقال
+        <lb/>
+
+        له رفيقه الخائن والله ما أبعدت في المثل ولا تجاوزت
+        <lb/>
+
+        القياس وقد اعترفت بذنبي وخطائي معك وإنّ النفس
+        <lb/>
+
+        الرديئة تأمر صاحبها بالفحشاء فقبل شريكه عذره وقد
+        <lb/>
+
+        أعرض عن توبيخه
+      </p>
+
+      <p n="The Reader Should Examine the Parables Carefully">
+        فينبغي للناظر في كتابنا هذا أن يجعل
+        <lb/>
+
+        غاية التفحّص على معاني أمثاله حتّى يعي ما فيه ويتدبّره لينال
+        <lb/>
+
+        فائدته
+      </p>
+
+      <p n="The Reader Should Discern the Aim">
+        ويقف عند كلّ مثل ويقلّب روايات معناها ليتملّى
+        <lb/>
+
+        بفحواها ويمحّص فكره ويروّق ذهنه ويكتال في لطائف
+        <lb/>
+
+        معانيه وأسراره الخفيّة فإن فعل ذلك
+      </p>
+
+      <p n="Two Brothers Waste Bequeathed Wealth">
+        يكون مثاله كمثل
+        <lb/>
+
+        الإخوان الثلاثة زعموا أنّ رجل توفّي وخلّف ثلاثة أولاد
+        <lb/>
+
+        ذكور وخلّف من المال ثلاثين ألف كيس فكلاّ أخذ نصيبه
+        <lb/>
+
+        من إرث والده فأمّا الكبير كان متعلّق على شرب المنكر
+        <lb/>
+
+        والأوسط كان متعلّق على محبّة الصغار لا زال في غفلتهما
+        <lb/>
+
+        حتّى ذهب كلّ ما بأيديهما
+      </p>
+
+      <p n="The Youngest Brother Weighs the Situation">
+        وأمّا الصغير كان دأبه البيع
+        <lb/>
+
+        والشراء والمتاجر والأخذ والعطاء والشراكات فلمّا نظر ما
+        <lb/>
+
+        جرى على إخواته من إسرافهما وذهاب أموالهما أقبل
+        <lb/>
+
+        على نفسه يشاورها ويأمرها بفعل المعروف
+      </p>
+
+      <p n="The Youngest Reflects on Wealth">
+        ثمّ قال لها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

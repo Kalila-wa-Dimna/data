@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="124"/>
+
+      <p n="Mother Persuades Leopard to Testify">
+        ثمّ انصرفت فأرسلت إلى النمر فأتاها فذكرت له فضل منزلته عند
+        <lb/>
+
+        الأسد وما يحقّ عليه من تربيته وحسن معاونته على الحقّ وإخراج نفسه
+        <lb/>
+
+        من الشهادة التي لا يكتمها مثله معما يحقّ عليه من نصرة المظلوم ومعاونته
+        <lb/>
+
+        على تثبيت حجّته يوم القيامة فلم تزل به
+      </p>
+
+      <p n="Leopard Testifies on Mother's Order">
+        حتّى جاء فشهد على دمنة بما سمع
+        <lb/>
+
+        من كلامه وكلام كليلة
+      </p>
+
+      <p n="Fellow Prisoner Testifies">
+        ولمّا شهد النمر على دمنة بذلك أرسل السبع المسجون الذي سمع قول
+        <lb/>
+
+        كليلة لدمنة ليلة دخل عليه في السجن أنّ عندي شهادةً فأخرجوني لها
+        <lb/>
+
+        فبعث إليه الأسد فشهد على دمنة بما سمع من قول كليلة وتوبيخه إيّاه
+        <lb/>
+
+        بدخوله بين الأسد والثور بالكذب والنميمة حتّى قتله الأسد وإقرار دمنة
+        <lb/>
+
+        بذلك
+      </p>
+
+      <p n="Lion Inquires Why Fellow Prisoner Had Withheld Testimony">
+        قال له الأسد فما منعك أن تكون أعلمتنا شهادتك عن دمنة حين
+        <lb/>
+
+        سمعت ذلك منه
+      </p>
+
+      <p n="Fellow Prisoner Explains Invalidity of His Single Testimony">
+        قال السبع منعني من ذلك أنّ شهادتي وحدي لم تكن توقع
+        <lb/>
+
+        حكمًا ولا تحجّ خصمًا فكرهت القول في غير منفعةٍ
+        <lb/>
+
+        فاجتمعت على دمنة شهادتان
+      </p>
+
+      <p n="Lion Orders Dimna to Be Killed">
+        فأرسلها الأسد إلى دمنة فبكّتاه في
+        <lb/>
+
+        وجهه بمقالته فأمر به الأسد فغُلّظ عليه الوثاق ثمّ تُرك في السجن حتّى مات
+        <lb/>
+
+        جوعًا وعطشًا
+      </p>
+
+      <p n="Commentary That Seeking Others' Harm Will Be Punished">
+        فهذا ما صار إليه أمر دمنة وكذلك تكون عواقب
+        <lb/>
+
+        البغي ومواقع أهل الحسد والكذب
+      </p>
+
+      <p n="End of Chapter">
+        كمل باب البحث عن دمنة
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

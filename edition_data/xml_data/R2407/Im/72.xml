@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="72"/>
+
+      <p n="The Merchant Forfeits Trust">
+        فقال له رفيقه الخائن والله ما أبعدت المثل
+        <lb/>
+
+        ولا تجاوزت القياس وقد اعترفت بذنبي وخطائي
+        <lb/>
+
+        عليك غير أنّ النفس الرديئة تأمرنا هكذا بالفحشاء
+        <lb/>
+
+        فقبل الرجل معذرته وأضرب عن توبيخه وندم
+        <lb/>
+
+        الخائن عندما عاين من سوء فعله
+      </p>
+
+      <p n="The Reader Should Examine the Parables Carefully">
+        وقد ينبغي للناظر
+        <lb/>
+
+        في كتابنا هذا أن يجعل غايته التصفّح لتزويقه
+        <lb/>
+
+        والإشراف على ما تضمّن من أمثاله حتّى يأتي على آخره
+      </p>
+
+      <p n="The Reader Should Discern the Aim">
+        ويقف عند كلّ مثل منه وكلمة فيعمل رويّته في معناها
+        <lb/>
+
+        ويعرف فحواها والغرض الذي أريد به
+      </p>
+
+      <p n="Two Brothers Waste Bequeathed Wealth">
+        فيكون مثله
+        <lb/>
+
+        في ذلك مثل الإخوان الثلاثة اللذين خلّف لهم أبوهم
+        <lb/>
+
+        المال الكثير فتنازعوا فيما بينهم فأمّا الكبيران
+        <lb/>
+
+        فإنّهما أسرعا في تلف المال وإنفاقه في غير وجهه
+      </p>
+
+      <p n="The Youngest Brother Weighs the Situation">
+        وأمّا الأصغر عندما نظر ما صار إليه أمرهما من إسرافهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

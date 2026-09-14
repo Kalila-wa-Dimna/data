@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="91"/>
+
+      <p n="Speaking Ignorantly to Please Others Is Wrong">
+        أنّه لا ينبغي لأحد أن يتكلّم بما لا يعلم رضاء لغيره
+      </p>
+
+      <p n="Dimna Interprets the Tale">
+        فإنّما يُجازى كلّ امرئ منكم
+        <lb/>
+
+        بعمله وأنا بريء ممّا لُطّخت به وأنا بين أيديكم فاتّقوا الله ما استطعتم
+      </p>
+
+      <p n="Prominent Courtier/Head of Court Suggests Physiognomy">
+        فقال
+        <lb/>
+
+        فقال رئيس الخبّازين لثقته بمنزلته من الملك اسمعوا أيّها الجند وفكّروا
+        <lb/>
+
+        فيما أقول لكم
+      </p>
+
+      <p n="Bodily Marks Are Proof of Character">
+        فإنّ العالم لم يدع شيئًا من الآيات والعلامات إلّا وقد بيّنها
+      </p>
+
+      <p n="Dimna’s Character is Visible in His Body">
+        وإنّ علامات الفجور في هذا الشقيّ ظاهرة وقد ظهر مع ذلك لنا سوءه
+      </p>
+
+      <p n="Judge/Investigator/Audience Request Physiognomical Evaluation">
+        فقال
+        <lb/>
+
+        عظيم الجند لرئيس الخبّازين قد سمعنا ذلك وقليل من يعرفه فـأعلمنا
+        <lb/>
+
+        ما الذي رأيت في هذا البائس
+      </p>
+
+      <p n="Prominent Courtier Diagnoses Dimna as Traitor">
+        فقام رئيس الخبّازين فأخذ بيد دمنة فقال
+        <lb/>
+
+        إنّا نجد في كتب العلماء أنّ من كانت عينه اليسرى صغيرة كثيرة الاختلاج
+        <lb/>
+
+        وأنفه مائل إلى شقّه الأيمن وما بين حاجبيه من الشعر متباعد وإذا مشى
+        <lb/>
+
+        نكّس رأسه ولا يزال ملتفتًا وراه فإنّه صاحب نميمة وغدر وهذه
+        <lb/>
+
+        الآثار كلّها في هذا الشقيّ ظاهرة
+      </p>
+
+      <p n="Bodily Marks Are Claimed to Predict Deeds">
+        فقال دمنة نحن كلّنا تحت السماء
+        <lb/>
+
+        ولسنا فوقها وأنتم ذو الحلم والعلم بالكلام وقد فهمتم ما قال هذا
+        <lb/>
+
+        فاسمعوا منّي كأنّه لا يضرّ أحدًا فإنّه إن كان ما ذكر من العلامات حقًّا
+      </p>
+
+      <p n="Human Action Would Be Meaningless">
+        فلا يسع
+        <lb/>
+
+        أحد يقدر أن يعمل خيرًا ولا شرًّا إلّا بها وإنّما تجازون بذلك وتثابون عليه
+        <lb/>
+
+        أو تعاقبون وليس من أمري إلى رأيه شيئًا فليس بمجتهد وإن حرص على
+        <lb/>
+
+        الخير فليس بنافعه ولا مسيء إن أذنب بضارّه
+      </p>
+
+      <p n="If the Physique Makes People Traitors, Dimna Is Innocent and Excused">
+        وقد سمعت أنا أيضًا بالعلامات
+        <lb/>
+
+        التي ذكرت وأعوذ بالله أن تكون فيّ ولو كان أمر الناس إليهم لجعلوا فيهم
+        <lb/>
+
+        أفضل ما يقدرون عليه من الآيات والعلامات ولم يكن منّي غير العافية
+        <lb/>
+
+        ولم أركب غير الحقّ
+      </p>
+
+      <p n="Courtier's Argument Shows His Foolishness">
+        وقد استبان لمن حضر قلّة عقلك وقلّة علمك بالأمور
+        <lb/>
+
+        ونظرك لها
+      </p>
+
+      <p n="Dimna's Third Subtale of Plower Who Told His Wife to Cover Herself First">
+        وقد قال رجل لامرأته احفظي نفسك واطّلعي على
+        <lb/>
+
+        غيرك وأصلحي عيوبك التي أنت بها أعرف ولذلك مثل
+      </p>
+
+      <p n="Prominent Courtier Requests Tale">
+        قال رئيس
+        <lb/>
+
+        الخبّازين وكيف كان هذا المثل
+      </p>
+
+      <p n="A Man and His Two Wives Become War Captives">
+        قال دمنة زعموا أنّ مدينة تدعى بأهر
+        <lb/>
+
+        أغار عليها العدوّ فقتلوا الرجال وسبوا النساء والذرّيّة فأصاب رجل منهم
+        <lb/>
+
+        في القسمة رجلًا حرّاثًا وامرأتين فكان يسيئ إليهم ويضربهم ويجيّعهم
+      </p>
+
+      <p n="One Wife Blames the Other for Being Naked">
+        فانطلق الرجل ذات يوم وامرأتاه يحتطبون فوجدت إحداهما خرقة بالية
+        <lb/>
+
+        فسترت بها عورتها فقالت الأخرى لزوجها ألا تنظر إلى هذه الزانية عرياء
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

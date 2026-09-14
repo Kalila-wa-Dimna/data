@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T117953</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="37"/>
+
+      <p n="unassigned">
+        فقال له الملك يا برزويه إنّي قد اخترتك لما بلغني
+        <lb/>
+
+        من فضل علمك وعقلك وأدبك وحرصك على
+        <lb/>
+
+        طلب العلم حيث كان فإنّه قد بلغني عن كتاب بالهند
+        <lb/>
+
+        مخزون في خزائنهم وقصّ عليه كما بلغه عنه فيما
+        <lb/>
+
+        قد استيقنه وقوّى رغبته فيه وقال له تجهّز
+        <lb/>
+
+        فإنّي مسرّحك إلى أرض الهند فالطف بعملك وحسّن
+        <lb/>
+
+        أدبك وتأيّد لاستخراج ذلك الكتاب من خزائنهم
+        <lb/>
+
+        على العلم مجتهدًا في استكمال الأدب صابرًا على الطلب
+        <lb/>
+
+        والتفتيش على كتب الفلسفة فأُتيّ برجل أديب شاب
+        <lb/>
+
+        جميل عاقل كامل الأدب معروف بصناعة الطبّ ماهر
+        <lb/>
+
+        بلسان الفارسيّة والهنديّة يقال له برزويه الطبيب
+        <lb/>
+
+        فلمّا دخل على الملك كسرى سجد له وأقام مفكّرًا بين يديه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

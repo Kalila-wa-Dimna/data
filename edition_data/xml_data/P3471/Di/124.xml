@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="124"/>
+
+      <p n="The Mother Criticizes Lion's Grieving">
+        فيه معتبرًا
+      </p>
+
+      <p n="Love and Hate Are Reciprocal">
+        فإنّه كان يُقال إنّ امرءًا لا يودّ أحدًا ولا يبغضه إلّا وجد
+        <lb/>
+
+        له في نفسه مِثل ذلك
+      </p>
+
+      <p n="The Mother Asks About the Lion's Feelings Toward the Ox">
+        فأعلمني كيف كانت نفسك قبل قتله وبعده
+      </p>
+
+      <p n="The Lion Finds no Fault with the Ox">
+        قال الأسد ما زلت له سليم الصدر واثقًا به معجبًا برأيه مستريحًا
+        <lb/>
+
+        إليه وما أنكرت من نفسي له قبل قتلي إيّاه
+      </p>
+
+      <p n="The Lion's Remorse for Killing the Ox">
+        ولا بعده وإنّي لنادمٌ
+        <lb/>
+
+        على قتله موجعٌ
+      </p>
+
+      <p n="The Lion Finds the Ox's Innocence Hard to Bear">
+        وما أشكل على ذي رأيٍ أنّه كان بريئًا ممّا لُطّخ به
+        <lb/>
+
+        صحيح الأديم غير مُتّهمٍ
+      </p>
+
+      <p n="The Lion Feels Misguided by a Schemer">
+        ولكنّه حمّلني على ما صنعتُ به الفاجر
+        <lb/>
+
+        وزخرفته الكلام الكاذب الذي لم يكن شتربه خليفًا له ولا به
+        <lb/>
+
+        حريًّا
+      </p>
+
+      <p n="The Lion Asks Whether His Mother Has Any News">
+        ولكن أعلميني هل سمعتي شيئًا أو حدّثكي أحدًا فإنّه
+      </p>
+
+      <p n="Accounts Must Be Confirmed by a Trusted Source">
+        إن كان
+        <lb/>
+
+        الرأي موافقًا للأخبار الموثوق بها كان أنفذ للبصيرة وأبلج
+        <lb/>
+
+        للصدر وأحرى أن يُقدّم المرء نفسه على غير الشبهة والشكّ
+      </p>
+
+      <p n="The Mother's Source Attributes Dimna's Act to Envy of the Ox">
+        قالت أمّ الأسد أخبرني الأمين بأنّ دمنة لم يركب من شتربه
+        <lb/>
+
+        الذي ركب من تحمّلك عليه إلّا لحسده إيّاه على منزلته منك ومكانه
+        <lb/>
+
+        عندك
+      </p>
+
+      <p n="Lion Asks for Source but Mother Wants to Keep It Secret">
+        قال الأسد ومن أخبرك بذلك قالت استحفظته والمتكتّم
+        <lb/>
+
+        مؤتمنٌ
+      </p>
+
+      <p n="Sharing Entrusted Secrets Betrays Trust">
+        ومن أفشى سرًّا استودعه فقد خان أمانته ومن فعل ذلك
+        <lb/>
+
+        نزل بشرّ المنازل في المعاد
+      </p>
+
+      <p n="Serious Crimes Do Not Allow Secrecy">
+        قال الأسد لعمري قد صدقت وإنّ ذلك
+        <lb/>
+
+        لعلى ما وصفت ولكن ليس هذا ممّا يُكتم بل ينبغي أن يُعلن ويُثبت
+        <lb/>
+
+        الشهادة عليه ويستكمل الأجر ولا يكتم حقًّا عليه ولا يظلّ دم مظلومٍ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="42"/>
+
+      <p n="Burzoy Announces Request">
+        بحاجتي ويعطيني سؤلي فإنّ حاجتي يسيرة عنده عظيمة
+        <lb/>
+
+        عندي وعند عقبي
+      </p>
+
+      <p n="Kisra Welcomes Request">
+        فقال أنوشروان سل تعطى واشفع
+        <lb/>
+
+        تُشفع فإنّ جزاءك عندي عظيم ولو أردت مشاركتنا في ملكنا
+        <lb/>
+
+        لا أعطيناك فكيف ما سوى ذلك فقل ولا تحتشم فسائر ما لنا لك
+        <lb/>
+
+        مبذول
+      </p>
+
+      <p n="Burzoy Expects No Reward">
+        فقال برزويه أكرم الله الملك لا تنظر إلى عنائي وتعبي
+        <lb/>
+
+        وإنّما أنا عبد من عبيدك ولو لم أكافأ لم يكن عجبًا
+      </p>
+
+      <p n="Burzoys House Elevated By Kisra">
+        ولكن فضل
+        <lb/>
+
+        حكمكم وسعادة جدّكم وحسن نظركم يأبى إلّا مراعاة وحفظًا
+        <lb/>
+
+        فحفظتني في نفسي
+      </p>
+
+      <p n="Burzoy Invokes Blessing On Kisra">
+        فجزاك الله من ملك خيرًا وجعل روحك مخلّدًا
+      </p>
+
+      <p n="Kisra Repeats Question">
+        قال الملك أذكر حاجتك يا برزويه
+      </p>
+
+      <p n="Burzoy Wants Bio Chapter">
+        فقال حاجتي أن يأمر الملك
+        <lb/>
+
+        أعلى الله أمره بزرجمهر بن البختكان ويعزم عليه أن يُجهد
+        <lb/>
+
+        نفسه في وضعه بابًا يذكر فيه أمري وحالي
+      </p>
+
+      <p n="Buzurgmihr To Give His Best">
+        ويُبالغ في ذلك
+        <lb/>
+
+        بأفضل ما يقدر عليه من الكلام ويرتّبه أحسن ترتيب ويؤلّفه
+        <lb/>
+
+        أحسن التأليف وينظم أحسن النظام ولا يغادر من أمري شيئًا
+      </p>
+
+      <p n="New Chapters Placement">
+        ويأمره الملك أن يجعل هذا الباب في أوّل الأبواب التي أُتيت
+        <lb/>
+
+        بها من الهند
+      </p>
+
+      <p n="Burzoy Wants Legacy">
+        فإذا فعل ذلك فقد بلغ بي وبأهل بيتي من
+        <lb/>
+
+        التشريف ومن التعظيم وعلوّ الذكر ما لا يزال ذكره قائمًا مؤيّدًا أبدًا
+        <lb/>
+
+        أحييت ما قُرئ هذا الكتاب
+      </p>
+
+      <p n="Kisra And Nobles Impressed">
+        فلمّا سمع الملك والعظماء قوله
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

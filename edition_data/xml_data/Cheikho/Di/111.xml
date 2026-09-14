@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="111"/>
+
+      <p n="Dimna Opposes Acting Upon Doubt">
+        وإنّما ضربت لك هذا المثل أيّها الملك لتعلم أنّ الشبهة كذب وأنّ
+        <lb/>
+
+        الكذب يعيب صاحبه
+      </p>
+
+      <p n="Lion Should not Kill Dimna Based on Slander">
+        ولست أيّها الملك حقيقًا بقتل البريء ذي الصحّة
+        <lb/>
+
+        بالسقيم ذي اللطف الذي لم ير له حرمةٌ ولم ترَ منه منقصةٌ إلّا في وشي
+        <lb/>
+
+        الوشاة وتحميل الخونة
+      </p>
+
+      <p n="Dimna Denies Fear of Death">
+        ولست أقول أيّها الملك هذا كراهة للموت فإنّه وإن
+        <lb/>
+
+        كان كريهًا فلا منجى منه وكلّ حيٍّ ميّتٌ
+      </p>
+
+      <p n="Dimna Would Die for Lion">
+        ولو كانت لي مائة نفسٍ وأعلم
+        <lb/>
+
+        أنّ رضي الملك في تلفهنّ لطبت له بهنّ نفسًا فإن ظننت أيّها الملك أنّ
+        <lb/>
+
+        لك بقتلي رَوْحًا وفرجًا
+      </p>
+
+      <p n="The Sinner Who Accepts Death Is Saved in Hereafter">
+        فإنّ العلماء قد قالوا من أصاب خطيئةً أو ذنبًا فأسلم
+        <lb/>
+
+        نفسه للقتل مكان الصالحين فإنّه مجزيٌّ بذلك العفو وناجٍ به من الشرّ في
+        <lb/>
+
+        الآخرة
+      </p>
+
+      <p n="Dimna Asks Lion Not to Hurry Without Investigation">
+        فإنّي وإن كنت أعلم أنّ الله قد باعد الملك من الجور
+        <lb/>
+
+        والاعتداء وإهلاك النفس البريئة بوشي الأشرار وتحميل الفجّار وإنّي أحبّ
+        <lb/>
+
+        أن لا يعجل الملك بأمرٍ دون الفحص والتروية
+      </p>
+
+      <p n="Man Strives for the Good as Best He Can">
+        وقد قالت العلماء إنّه لا
+        <lb/>
+
+        يزال الرجل يستفيد من الخير ويرى الكبير من أمره والصغير من الرأي
+        <lb/>
+
+        ما يعرّفه الخير ويباعده من الآثام ما لم يبلغ أرذل كذا عمره
+      </p>
+
+      <p n="First Speaker Accuses Dimna of Self-Interest">
+        فبينما دمنة يقول معذرته إذ عرض له عارضٌ من بعض جلساء الملك
+        <lb/>
+
+        فقال أيّها الملك إنّ دمنة ليس ما يقول تعظيمًا لحقّ الملك ولا توفيرًا لفضله
+        <lb/>
+
+        ولكنّه يريد أن يدفع عن نفسه ما قد نزل به من سوء عمله
+      </p>
+
+      <p n="Dimna Claims Right to Self-Defense">
+        قال دمنة وهل ويلك على امرئ في العذر لنفسه عيبٌ
+        <lb/>
+
+        وهل أحدٌ أقرب إلى الانسان من نفسه فإذا لم يلتمس لها العذر فمن
+        <lb/>
+
+        يلتمسه لها ومن أحقّ بنصيحتي من نفسي أو من أحقّ أن أنصح عنه منها
+      </p>
+
+      <p n="Who Does Not Protect Himself Is Useless to Others">
+        وقد قالت العلماء إنّ المستهين لنفسه المبغض لها لغيرها أقطع وأبغض
+        <lb/>
+
+        ولمن سواها أغشّ وارفض
+      </p>
+
+      <p n="Dimna Calls First Speaker Self-Hating">
+        وقولك هذا ممّا يستدلّ به من حضر على
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

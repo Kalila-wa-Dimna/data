@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="351"/>
+
+      <p n="King R Deems Fortune Inevitable">
+        قد سمعت هذا المثل ولكن يُقال من رام أمرًا من الأمور
+        <lb/>
+
+        الصعبة الذي يُرجى من عاقبته البلوغ إلى أمر كبير ثمّ فرغ
+        <lb/>
+
+        من عارض سواء يلحقه فيه فكفّ عنه لم يرتقي إلى رتبة
+        <lb/>
+
+        عالية إلى أن يتّفق له ذلك اتفاقًا
+      </p>
+
+      <p n="Fortune Is the Attainment of a Legacy">
+        وإنّ من السعادة وحسن
+        <lb/>
+
+        البخت أن يكون الإنسان في هذا العالم مشهور بعمل
+        <lb/>
+
+        الخير وليس يتهيّأ لأحد من الناس أن يعمل معه في هذا
+        <lb/>
+
+        العالم شيئًا ينفعه إلّا ما عمله
+      </p>
+
+      <p n="The Vizier Advises against Causing Disaster">
+        قال الوزير صدقت
+        <lb/>
+
+        أيّها الملك ما كلّ العمل ينتج فائدة وقد قالت الحكماء أيضًا
+        <lb/>
+
+        من جلب على نفسه رايح آفة بيده لم يستأهل أن تخلّصه
+        <lb/>
+
+        منها ومن كان سببًا لموت نفسه لم يكن له موضع
+        <lb/>
+
+        في الجنّة
+      </p>
+
+      <p n="King R Insists on Proceeding">
+        قال الملك أمّا أنا فأقول إنّك ساعدتني في
+        <lb/>
+
+        أمور كثيرة وإن أنت أعنت في هذه قرنًا بما تريد
+      </p>
+
+      <p n="The Vizier Is in Want of a Solution">
+        فلمّا
+        <lb/>
+
+        علم الوزير أنّ الملك لا بدّ من إتمام ما تكلّم عليه وكان وجه
+        <lb/>
+
+        الحيلة قد اتّجه له قال له أمّا أنا فسأجيب على حسب طاقتي
+        <lb/>
+
+        وإنّما قلت ما قلته إلى حيث انتهينا بعلمي بفضيلة الملك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

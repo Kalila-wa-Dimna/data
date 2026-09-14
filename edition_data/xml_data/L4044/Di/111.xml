@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="111"/>
+
+      <p n="Painter Suggests Black-and-White Coat to Woman">
+        بضوءه وسوادها يبدو لك في الليلة المقمرة وأنا ألبسها إذا أردت إيتاءك
+        <lb/>
+
+        فإذا رأيت ذلك فاعلمي أنّي صاحبك فأتيني من غير أن أدعوك فكان
+        <lb/>
+
+        إذا أتى المرأة لبس تلك الملاءة فعلمت المرأة مكانه ففرحت بذلك وتعجّبت
+        <lb/>
+
+        منه وكان يأتيها إذا أرادها
+      </p>
+
+      <p n="The Woman's Servant Hears About Coat">
+        ففطن عبد التاجر لذلك
+      </p>
+
+      <p n="Woman's Servant Borrows Coat In Painter's Absence">
+        فلمّا كان بعد
+        <lb/>
+
+        ذلك بأيّام وكان العبد لأمة المصوّر خليلًا طلب إلى أمة المصوّر
+        <lb/>
+
+        أن تعطيه الملاءة المصوّرة ليريها صديقًا له ويسرع ردّها فأعطته الملاءة
+      </p>
+
+      <p n="Servant Tricks Woman">
+        فلبسها وأتى سيّدته على نحو ما كان يأتيها المصوّر فلمّا رأت لم ترتب
+        <lb/>
+
+        بشيء من شأنه وحسبته خليلها فبذلت نفسها له وقضى منها حاجته ورجع
+        <lb/>
+
+        العبد بالملاءة إلى الأمة فوضعتها موضعها
+      </p>
+
+      <p n="Lover Realizes She Was Tricked">
+        وكان المصوّر في بيته غائبًا فلمّا
+        <lb/>
+
+        مضى من الليل هدأة رجع المصوّر إلى بيته فلبس الملاءة فأتى المرأة فلمّا
+        <lb/>
+
+        رأت الملاءة دنت منه فقالت ما شأنك أسرعت الرجعة وقد قضيت حاجتك
+        <lb/>
+
+        فلمّا سمع المصوّر ذلك خبت نفسه
+      </p>
+
+      <p n="The Lover's Servant Confesses">
+        ورجع نحو منزله ودعا والدته فتوعّدها
+        <lb/>
+
+        بالضرب حتّى أخبرته بالأمر على وجهه فأحرق المصوّر الملاءة
+      </p>
+
+      <p n="Dimna Opposes Acting Upon Doubt">
+        وإنّما ضربت
+        <lb/>
+
+        لك هذا المثل لتعلم أنّ التشبيه كذب
+      </p>
+
+      <p n="Dimna Applies the Tale's Deception to Ox to Justify His Killing">
+        وأنت أيّها الملك والحمد لله الفاضل
+        <lb/>
+
+        الرأي العظيم الحلم والعالم بالأمور وقد رأى الملك من تشبيههم ما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="83"/>
+
+      <p n="Kalila Predicts Dimna's Doom">
+        وأنّه معاقبه ومهلكه
+      </p>
+
+      <p n="The Leopard Confides in the Lion's Mother">
+        فلمّا سمع ذلك انصرف فدخل على أمّ الأسد
+        <lb/>
+
+        فحدّثها به
+      </p>
+
+      <p n="The Mother Goes to the Lion and Finds Him Sad">
+        فانطلقت حتّى أتت ابنها فرأته حزينًا كئيبًا فلمّا عاينت
+        <lb/>
+
+        ذلك منه عرفت أنّ ذلك ليس إلّا على شتربة
+      </p>
+
+      <p n="The Mother Says Grief is Weakening">
+        فقالت إنّ الأسف والهمّ
+        <lb/>
+
+        لا يردّان شيئًا وهما يُنحلان الجسم ويذهبان القوّة ويضعفانهما
+      </p>
+
+      <p n="The Mother Criticizes Lion's Grieving">
+        فأعلمني ما شأنك فإن كان ممّا ينبغي لك أن تحزن له فلست ولا أحدًا
+        <lb/>
+
+        من جندك يخلو من ذلك وإن كان إنّما هو لقتلك شتربة فقد استبان
+        <lb/>
+
+        لك ولنا أنّك ركبت ذلك منه ظلمًا على غير ذنب ولا جرم ولا غشّ
+        <lb/>
+
+        ولا مخالفة ولو كنت فكّرت في أمره وقست ما له في نفسك كان
+        <lb/>
+
+        في ذلك معتبرًا
+      </p>
+
+      <p n="Love and Hate Are Reciprocal">
+        فإنّه يُقال إنّ الرجل لا يودّ أحدًا ولا يبغض
+        <lb/>
+
+        أحدًا أو يبغضه إلّا وجد له قبل قلبه مثل ما عنده بعينه والله أعلم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

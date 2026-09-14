@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="35"/>
+
+      <p n="The Merchant Discovers the Error at Home">
+        والإزار واغتمّ لذلك غمًّا شديدًا
+      </p>
+
+      <p n="The Partner Fears Accusation (Dialogue)">
+        فوافاه رفيقه وهو على
+        <lb/>
+
+        أعظم ما يكون من الفكر والهمّ فسأله عن حاله فقال له يا أخي إنّي
+        <lb/>
+
+        فقدت عدلًا من أعدالك وإنّي لا أعلم سببه ولا أشكّ أنّك
+        <lb/>
+
+        تتّهمني به وقد وطّنت نفسي على غرامته لك
+      </p>
+
+      <p n="The Merchant Admits Treachery">
+        فقال صاحب الجريمة
+        <lb/>
+
+        يا أخي قرّ عينًا فإنّ الخيانة شرّ ما استعملها الإنسان والمكر
+        <lb/>
+
+        والخديعة لا يؤدّيان بصاحبهما إلى خير وربّما عاد وبال البغي على
+        <lb/>
+
+        صاحبه وأنا ممّن مكر واحتال وخادع ولم يصب طائلًا
+      </p>
+
+      <p n="The Merchant Explains Events upon Request">
+        فقال
+        <lb/>
+
+        له رفيقه وكيف ذلك فأخبره بالأمر وقصّ عليه القصّة وكيف
+        <lb/>
+
+        أخذ العدل وما لقي من الجهد وما حلّ به من الرعب
+      </p>
+
+      <p n="The Partner's Parable about the Thief">
+        فقال له رفيقه
+        <lb/>
+
+        ما أشبه ما نالك بما نال اللصّ والتاجر قال وكيف كان ذلك
+      </p>
+
+      <p n="The Thief Who Mistakes Grain for Gold">
+        قال زعموا أنّ لصًّا جاور لتاجر كان في حانوته جرّتان أحدهما
+        <lb/>
+
+        مملوءة ورقًا والأخرى برًّا
+      </p>
+
+      <p n="The Thief Eyes Jar">
+        فترقّب غفلة التاجر فلمّا أمكنه ذلك
+        <lb/>
+
+        وتمكّن من الحانوت
+      </p>
+
+      <p n="The Thief Takes the Grain">
+        قصد جرّة الورق فغلط وأخذ الذي فيها
+        <lb/>
+
+        البرّ واحتملها ولم يزل في جهد ونصب حتّى صار بها إلى منزله ففتح
+        <lb/>
+
+        الجرّة فرأى البرّ فندم حيث لا ينفعه الندم
+      </p>
+
+      <p n="The Merchant Forfeits Trust">
+        فقال له رفيقه الخائن
+        <lb/>
+
+        قد ضربت لي مثلًا موافقًا ولم تجاوز فيه القياس وإنّي معترف
+        <lb/>
+
+        بذنبي ومستغفر من خطئي فإنّ النفس تأمر بالفحشاء
+      </p>
+
+      <p n="The Reader Should Examine the Parables Carefully">
+        وقد ينبغي
+        <lb/>
+
+        للناظر في كتابنا هذا أن لا يجعل غاية حظّه وجلّ قصده تصحّفه
+        <lb/>
+
+        لرونق ظاهره والاستشراف على ما تضمّن من أمثاله حتّى يأتي على
+        <lb/>
+
+        آخره
+      </p>
+
+      <p n="The Reader Should Discern the Aim">
+        بل يقف عند كلّ مثل وكلمة فيعمل رويّته في معناها ويعرف
+        <lb/>
+
+        فحواها والغرض الذي أُريد به ليقف بفكره على معاني لطيفة وا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

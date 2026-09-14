@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="240"/>
+
+      <p n="The Cat Reminds the Rat of their Friendship">
+        بأحسن ما أسديت إليّ هلمّ إليّ ولا تقطع إخائي
+      </p>
+
+      <p n="If One Gives Up a Friend One Loses Out">
+        فإنّه من اتّخذ صديقًا
+        <lb/>
+
+        وقطع إخاءه وأضاع صداقته حُرم ثمرة إخائه
+      </p>
+
+      <p n="The Cat Suggests a Reward">
+        واعلم أنّ ما قبلي لك
+        <lb/>
+
+        مبذول
+      </p>
+
+      <p n="The Rat Distinguishes Hidden from Overt Enmity">
+        فناداه الجرذ رُبّ صداقة ظاهرة باطنها عداوة كامنة وهي
+        <lb/>
+
+        أشدّ من العداوة الظاهرة
+      </p>
+
+      <p n="Riding an Elephant's Tusk">
+        التي موقعها موقع الرجل الذي يركب ناب الفيل المغتلم
+        <lb/>
+
+        ثمّ يغلبه النعاس فيطيح ويهلك
+      </p>
+
+      <p n="An Enemy Is Befriended in Times of Need">
+        وإنّما سُمّي الصديق صديقًا لما يُرجى
+        <lb/>
+
+        من نفعه وسُمّي العدوّ عدوًّا لما يُخاف من ضرره والعاقل إذا رجا
+        <lb/>
+
+        نفع العدوّ أظهر له الصداقة
+      </p>
+
+      <p n="Young Cattle Only Nurse for a While">
+        ألا ترى تتابع البهائم أمّهاتها رجاء ألبانها فإذا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

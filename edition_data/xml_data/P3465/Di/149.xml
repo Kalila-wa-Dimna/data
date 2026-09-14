@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="149"/>
+
+      <p n="Good People Suffer Misfortune Fastest">
+        ما ترك الأوّل للأخير شيئًا لأنّه يُقال أشدّ الناس في توقّي الشرّ يصيبه
+        <lb/>
+
+        الشرّ قبل المستسلم
+      </p>
+
+      <p n="Who Keeps Bad Company Does Not Escape Evil">
+        فلا يكون الملك وخاصّته وجنوده المثل السوء وقد
+        <lb/>
+
+        علمت أن قد قيل من صحب الأشرار وعلم علمهم أذاه من نفسه
+      </p>
+
+      <p n="Ascetics Shun People's Company">
+        ولذلك انقطعت
+        <lb/>
+
+        النسّاك بأنفسها عن الخلق واختارت الوحدة على المخالطة وحبّ العمل لله على حبّ
+        <lb/>
+
+        الدنيا وأهلها
+      </p>
+
+      <p n="Only God Rewards Justly">
+        ومن يجزى بالخير خيرًا وبالإحسان إحسانَا إلّا الله ومن
+        <lb/>
+
+        طلب الجزاء على الخير من الناس كان حقيقًا أن يحظى بالحرمان إذ يخطىء
+        <lb/>
+
+        الصواب في خلوص العمل لغير الله وطلب الجزاء من الناس
+      </p>
+
+      <p n="A King's Advisors Deserve Recognition/A King's Subjects Desire Good Character and Deeds">
+        وإنّ أحقّ ما رغبت
+        <lb/>
+
+        فيه رعيّة الملك هو محاسن الأخلاق ومواقع الصواب وجميل السير
+      </p>
+
+      <p n="Doubt and Certainty Must Not Be Confused">
+        وقد
+        <lb/>
+
+        قالت العلماء من صدّق ما ينبغي أن يكذّب وكذّب ما ينبغي أن يصدّق
+      </p>
+
+      <p n="Dimna's First Subtale of the Woman Who Mistook Her Servant for Her Lover">
+        أصابه
+        <lb/>
+
+        ما أصاب المرأة التي بذلت فرجها لعبدها حتّى فضحها بالتلبيس عليها
+      </p>
+
+      <p n="Lion's Question for Woman's Tale">
+        قال الأسد
+        <lb/>
+
+        وكيف كان ذلك
+      </p>
+
+      <p n="A Merchant's Wife Had a Lover">
+        قال دمنة زعموا أنّه كان في بعض المدن تأجر
+        <lb/>
+
+        وكانت له أمرأة ذات حسن وجمال وكان إلى جنب التاجر مصوّر ماهر وكان هو
+        <lb/>
+
+        لامرأة التاجر خليلًا
+      </p>
+
+      <p n="Woman Asks Lover to Create a Sign">
+        فقالت له يومًا إن استطعت أن تحتال بحيلةٍ أعلم بها
+        <lb/>
+
+        مجيئك من غير نداء ولا إيماء ولا ما يُرتاب به من فعلك وفعلى
+      </p>
+
+      <p n="Painter Suggests Black-and-White Coat to Woman">
+        قال المصوّر
+        <lb/>
+
+        عندي من الحيلة ما سألت ما يسرّك ويقرّ عينك إنّ عندي ملأةً فيها من تهاويل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

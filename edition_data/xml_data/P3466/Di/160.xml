@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="160"/>
+
+      <p n="Ruzbeh Is Kalīla's Friend">
+        شعهرًا كان يُقال له روزبة وكان بينه وبين كليلة إخاء ومودّة
+        <lb/>
+
+        وكان عند الأسد متوجّهًا وعليه كريمًا
+      </p>
+
+      <p n="Kalīla Had Feared Reprehensions for Being Responsible">
+        وكان كليلة لمّا خرج عن
+        <lb/>
+
+        دمنة فكّر في نفسه وقال أنا المأخوذ بسبب دمنة والمسؤول
+        <lb/>
+
+        عن شأنه فإن أخبرت بأمره كنت عونًا على هلاكه وإن أنا
+        <lb/>
+
+        سكتّ عوقبت بسببه فأخذه قلق وتحيّر
+      </p>
+
+      <p n="Kalila Dies">
+        فاستطلق بطنه فمات
+      </p>
+
+      <p n="Ruzbeh/Fayruz Tells Dimna of Kalila's Death">
+        فانطلق الشعهر إلى دمنة فأخبره بموت كليلة
+      </p>
+
+      <p n="Dimna Grieves for Kalila">
+        فحزن وبكى
+        <lb/>
+
+        وقال ما أصنع بالدنيا بعد مفارقة الأخ الصفيّ وبعد
+      </p>
+
+      <p n="Dimna Asks Ruzbeh to Be His Friend">
+        فَقَدْ
+        <lb/>
+
+        وثقت بنعمة الله وإحسانه إليّ فيما رأيت من اهتمامك ومراعاتك
+        <lb/>
+
+        لي وقد علمت أنّك رجائي وركني وتحبّ خلاصي ممّا أنا فيه
+      </p>
+
+      <p n="Dimna Has Ruzbeh Fetch Their Belongings">
+        فأريدك تنطلق إلى مكان كذا وتنظر إلى ما جمعته أنا وأخي كليلة
+        <lb/>
+
+        بحيلتنا وسعينا فتأتيني به ففعل الشعهر ما أمره دمنة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

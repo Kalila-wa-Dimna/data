@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="76"/>
+
+      <p n="Wife Asks About Wealth">
+        قالت المرأة أخبرني أيّها الرجل فلعمري ما بقربنا أحد يسمع كلامنا
+        <lb/>
+
+        فقال أفإنّي مخبرك أنّي لم أجمع هذه الأموال إلّا من السرقة قالت وكيف
+        <lb/>
+
+        كان ذلك وما كنت تصنع
+      </p>
+
+      <p n="Husband Explains Spell">
+        قال ذلك لعلم أصبته في السرقة وكان الأمر
+        <lb/>
+
+        عليّ يسيرًا وأنا آمن من أن يتّهمني أحد أو يرتاب بي قالت فاذكر لي ذلك
+        <lb/>
+
+        قال كنت أذهب في الليلة المقمرة أنا وأصحابي حتّى أعلو دار بعض
+        <lb/>
+
+        الأغنياء مثلنا فأنتهي إلى الكوّة التي يدخل منها الضوء فأرقي بهذه الرقية
+        <lb/>
+
+        وهي شولم شولم سبع مرّات وأعتنق الضوء فلا يحسّ بوقوعي أحدًا فلا أدع مالًا
+        <lb/>
+
+        ولا متاعًا إلّا أخذته ثمّ أرقي بتلك الرقية سبع مرّات وأعتنق الضوء
+        <lb/>
+
+        فيجذبني فأصعد إلى أصحابي فنمضي سالمين آمنين
+      </p>
+
+      <p n="Burglars Cheer At Spell">
+        فلمّا سمع اللصوص
+        <lb/>
+
+        ذلك قالوا قد ظفرنا الليلة ما نريد من المال
+      </p>
+
+      <p n="Husband Explains Execution">
+        ثمّ إنّهم أطالوا المكث حتّى ظنّوا
+        <lb/>
+
+        أنّ صاحب الدار وزوجته قد هجعا ناموا فقام قائدهم إلى مدخل الضوء وقال
+        <lb/>
+
+        شولم شولم سبع مرّات ثمّ اعتنق الضوء لينزل إلى أرض المنزل فوقع على
+        <lb/>
+
+        أمّ رأسه منكّسًا
+      </p>
+
+      <p n="Deceived Burglar Is Caught">
+        فوثب إليه الرجل بهراوته وقال له من
+        <lb/>
+
+        أنت
+      </p>
+
+      <p n="Comment On Burglar's Credulity">
+        قال أنا المصدّق المخدوع المغترّ بما لا يكون أبدًا وهذه ثمرته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

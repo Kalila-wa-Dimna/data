@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="252"/>
+
+      <p n="Jackal Wants to Remain Carefree">
+        إن كان الملك يريد الإحسان إليّ فليدعني في هذه البرّيّة أعيش آمنًا قليل
+        <lb/>
+
+        الهمّ أرضى بعيشي من الماء والحشيش
+      </p>
+
+      <p n="Kings' Advisors Suffer">
+        فإنّي قد علمت أنّ صاحب السلطان يصل إليه
+        <lb/>
+
+        من الأذى والخوف في ساعة واحدة ما لا يصل إلى غيره في طول عمره
+      </p>
+
+      <p n="Peace over Wealth">
+        وأنّ
+        <lb/>
+
+        قليل العيش في أمن وطمأنينة خير من كثير في خوف ونصب
+      </p>
+
+      <p n="Lion Reassures Jackal">
+        قال الأسد
+        <lb/>
+
+        قد سمعت مقالتك فلا تخف شيئًا ممّا أراك تخاف منه ولست أجد بدًّا من الاستعانة بك
+        <lb/>
+
+        في أمري
+      </p>
+
+      <p n="Jackal Gives Conditions for Service">
+        قال ابن آوى أمّا إذ قد أبى الملك فليجعل لي عهدًا إن بغى عليّ أحد من أصحابه
+        <lb/>
+
+        ممّن هو فوقي يخافني على منزلته أو من هو دوني يخافني وينازعني على منزلتي
+        <lb/>
+
+        فذكرني عند الملك ذكرًا بلسانه أو على لسان غيره ممّن يريد تحميل الملك عليّ
+        <lb/>
+
+        أن لا يعجل في أمري ويتثبّت فيما يُرفع إليه ويُذكر عنده من ذلك ويفحص عنه
+        <lb/>
+
+        ثمّ ليصنع ما بدا له
+      </p>
+
+      <p n="Jackal Vows Devotion on His Terms">
+        فإذا وثقت منه بذلك أعنته بنفسي فيما يحبّ
+      </p>
+
+      <p n="Lion Commits to Conditions">
+        قال له لك
+        <lb/>
+
+        ذلك وزيادة
+      </p>
+
+      <p n="Jackal Excels in Position">
+        ثمّ ولّاه خزائنه واختصّ به دون أصحابه وزاد في كرامته
+      </p>
+
+      <p n="Jackal's Status Stirs Jealousy">
+        فلمّا
+        <lb/>
+
+        رأى أصحاب الأسد ذلك غاظهم وساءهم
+      </p>
+
+      <p n="Schemers Frame Jackal">
+        فأجمعوا كيدهم وكان الأسد قد أعدّ
+        <lb/>
+
+        لحمًا استطابه ثمّ استطرفه فأخذوه من موضعه وحملوه إلى بيت ابن آوى
+        <lb/>
+
+        فخبّؤوه فيه ولا علم له به
+      </p>
+
+      <p n="Scheme Triggers Lion's Rage">
+        ثمّ حضروا يكذّبوه إن جرّب في ذلك حال فسأل عن اللحم
+        <lb/>
+
+        وشدّد فيه وفي المسألة عنه ثمّ نظر بعضهم إلى بعض
+      </p>
+
+      <p n="Schemers to Impart Difficult News">
+        فقال أحدهم قول المخبر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

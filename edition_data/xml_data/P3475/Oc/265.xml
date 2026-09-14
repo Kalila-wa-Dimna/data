@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="265"/>
+
+      <p n="Carpenter Waits Till Wife Awakens">
+        أنّ خليل امرأته قد خرج ثمّ خرج من تحت السرير فقعد عند
+        <lb/>
+
+        رأسها يروّحها
+      </p>
+
+      <p n="Carpenter Forgives Wife">
+        فلمّا انتبهت قال يا حبيبتي نامي فقد كنت
+        <lb/>
+
+        البارحة سهرانة ولولا حفظ قلبك لخاصمت الرجل وإنّما
+      </p>
+
+      <p n="Carpenters Story Motivation">
+        ضربت لك هذا المثل إرادة أن لا تكونوا مثل ذلك التاجر
+        <lb/>
+
+        الذي كذّب بما رأى وصدّق بما سمع من الكذب
+      </p>
+
+      <p n="Suspect A Fawning Foe">
+        فلا تصدّقوا
+        <lb/>
+
+        الغراب في مقالته واذكروا أنّ كثيرًا من الأعداء لا يُستطاع
+        <lb/>
+
+        ضرّه إلّا بالمقاربة
+      </p>
+
+      <p n="Objector Became Fearful Of Crows">
+        وإنّي لم أخف الغربان قطّ خوفهم البوم
+        <lb/>
+
+        وخاصّة مذ رأيت هذا الغراب
+      </p>
+
+      <p n="King O Ignores Objector">
+        فلم يلتفت الملك وسائر
+        <lb/>
+
+        وزرائه إلى كلام هذا البوم الذي كان أشار بقتل الغراب
+      </p>
+
+      <p n="Advice Mistrust Spy">
+        فقال للملك إن لم تقتل هذا الغراب فاحذره واحترس
+        <lb/>
+
+        منه فإنّه ذو مكر وحيلة ولا أراه فعل هذا إلّا
+        <lb/>
+
+        ليهلكنا
+      </p>
+
+      <p n="Everyone Trusts Spy">
+        فآنسوا بالغراب وأطلعوه على سرّهم
+      </p>
+
+      <p n="unassigned">
+        فقال
+        <lb/>
+
+        الغراب ليتني صرت بومة فأنتقم من أعدائي قال البوم
+        <lb/>
+
+        الذي أشار بقتله إنّك كالخمرة الطيبة فيها السمّ
+        <lb/>
+
+        فكيف تترك طبعك وجوهرك كالفأرة التي وجلت
+        <lb/>
+
+        من الأزواج الشمس والسحاب والريح والجبل فتركت
+        <lb/>
+
+        ذلك كلّه وتكجت جرذًا قال المَلك وكيف كان ذلك قال
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

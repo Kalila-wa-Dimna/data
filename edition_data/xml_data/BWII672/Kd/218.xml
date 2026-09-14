@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="218"/>
+
+      <p n="Competent Vizier">
+        عدوّه برأي وزيره
+      </p>
+
+      <p n="King And Vizier Tale Mention">
+        كما ذكر منسان مَلك الهند
+      </p>
+
+      <p n="King Requests Story">
+        قال المَلك وكيف
+        <lb/>
+
+        كان ذلك
+      </p>
+
+      <p n="King And Vizier Tale">
+        قال الفيلسوف زعموا أنّ رجلًا يُدعى بإيلاد
+        <lb/>
+
+        ورجلًا آخر يُدعى ببيلاد وكانا من حكماء الزمان
+      </p>
+
+      <p n="Pious Vizier">
+        إلّا
+        <lb/>
+
+        أنّ إيلاد كان رجل ناسكًا زاهدًا مجتهدًا في العبادة
+        <lb/>
+
+        حسن الخلقة والخلق وكان عند المَلك جليل القدر عالي الذكر
+      </p>
+
+      <p n="King Dreams">
+        فبينما المَلك ذات ليلة نائم في غرفته فانتهض من منامه
+        <lb/>
+
+        مرعوبًا فزعًا ثمّ تعوّذ ونام فرأى احتلام آخر ثمّ تكرّر
+        <lb/>
+
+        ذلك مرارًا وكان رأى في منامة ثلاثة أحلام أراعته
+      </p>
+
+      <p n="King Summons Brahmins">
+        فلمّا استيقظ جمع البراهمة والعلماء
+      </p>
+
+      <p n="King Has Brahmins Interpret Dreams">
+        فقصّ عليهم ما رأى
+        <lb/>
+
+        وقال لهم رأيت منامًا عجيبًا وما أظن أحدًا رأى مثله
+        <lb/>
+
+        وأنًي جمعتكم لتفسّره لي ثمّ قصّ عليهم أحلامه
+      </p>
+
+      <p n="Brahmins Dramatize Dreams">
+        فقال كبيرهم
+        <lb/>
+
+        أيّها المَلك الرفيع الشأن إنّ منامك هائل الأحلام
+      </p>
+
+      <p n="Brahmins Request Delay">
+        وإنّنا
+        <lb/>
+
+        نريد منك المهلة سبعة أيام لنأتيك بتفسيره على وثيقة
+        <lb/>
+
+        لعلّنا نجد تفسير يدفع عنك ذلك الشرّ العظيم
+      </p>
+
+      <p n="King Grants Delay">
+        فرضي المَلك
+        <lb/>
+
+        بقولهم
+      </p>
+
+      <p n="Brahmins See Chance">
+        فانطلقوا ليجمعوا رأيهم ثمّ اجتمعوا البراهميّين
+        <lb/>
+
+        وقالوا إلى بعضهم قد وجدتم دربًا وسعيًا تدركون
+        <lb/>
+
+        فيه هلاك هذا المَلك عدوّكم وتنتقمون منه بأخذ ثأركم
+      </p>
+
+      <p n="Brahmins Plan Revenge">
+        فخاطِبوه بأغلظ الأقوال ودبّروا أقوال له يكون آخر
+        <lb/>
+
+        أمرها هلاك المَلك فلم يقدر إلان يخالفكم على ما تقولون
+        <lb/>
+
+        فقالوا له وكيف يكون ذلك
+      </p>
+
+      <p n="Brahmins Will Order Killings">
+        فقال لهم نقول له ادفع لنا خواصّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

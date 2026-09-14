@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="104"/>
+
+      <p n="Fox Finds Drum Empty">
+        فلمّا رآه أجوف لا شيء فيه قال لا أدري لعلّ أفشل الأشياء أجوفها وأعظمها
+        <lb/>
+
+        صوتًا
+      </p>
+
+      <p n="Dimna's Application of the Parable to the Lion's Situation">
+        وإنّما ضربت لك هذا المثل لتعلم أنّ هذا الصوت الذي راعنا لو قد وصلنا
+        <lb/>
+
+        إليه لوجدناه أيسر ممّا في أنفسنا
+      </p>
+
+      <p n="Dimna's Offer to Investigate on the Lion's Behalf">
+        فإن شاء الملك بعثني وأقام بمكانه حتّى آتيه ببيان
+        <lb/>
+
+        هذا الصوت
+      </p>
+
+      <p n="Lion's Agreement to Dimna's Proposal">
+        فوافق الأسد قوله فأذن له بالذهاب نحو
+        <lb/>
+
+        الصوت
+      </p>
+
+      <p n="Dimna's Departure to Investigate the Sound">
+        فانطلق دمنة نحو المكان الذي فيه شتربة
+      </p>
+
+      <p n="Lion's Regret After Dimna's Departure">
+        فلمّا فصل دمنة من عند الأسد فكّر الأسد في أمره
+        <lb/>
+
+        وندم على إرسال دمنة حيث أرسله
+      </p>
+
+      <p n="Lion's Self-Doubt about Trusting Dimna">
+        وقال في نفسه ما أصبت في ائتماني
+        <lb/>
+
+        دمنة وقد كان ببابي مطروحًا
+      </p>
+
+      <p n="Lion's Concerns about Suffering, Greedy and Malevolent Courtiers">
+        فإنّ الرجل إذا كان يحضر باب الملك وقد أُبطلت
+        <lb/>
+
+        حقوقه من غير جرم كان منه متعيّنًا عند سلطانه أو كان عنده معروفًا
+        <lb/>
+
+        بالشره والحرص أو كان قد أصابه ضرّ وضيق فلم ينعشْه أو كان قد اجترم جرمًا
+        <lb/>
+
+        فهو خاف العقوبة منه
+      </p>
+
+      <p n="Lion's Concerns about Impious and Inimical Courtiers">
+        أو كان يرجو في شيء يضرّ الملك وله منه نفع أو يخاف
+        <lb/>
+
+        في شيء ممّا ينفعه ضرًّا أو كان لعدوّ الملك سلمًا ولسلمه حربًا
+      </p>
+
+      <p n="Lion's Reflection on Dimna's Character and Past Treatment">
+        وإنّ
+        <lb/>
+
+        دمنة داهية أديب وقد كان ببابي مطروحًا مجفوًّا
+      </p>
+
+      <p n="Lion's Fear of Dimna's Potential Betrayal">
+        ولعلّه قد احتمل عليّ
+        <lb/>
+
+        بذلك طعنًا ولعلّ ذلك يحمله على خيانتي وإعانة عدوّي ونقيصتي عنده
+        <lb/>
+
+        ولعلّه صادق وصاحب الصوت أقوى سلطانًا منّي فرغب إليه عنّي ويميل
+        <lb/>
+
+        معه عليّ
+      </p>
+
+      <p n="Lion's Restless Contemplation">
+        ثمّ قام من مكانه فمشى غير بعيد
+      </p>
+
+      <p n="Lion's Relief Upon Seeing Dimna Alone">
+        فبصر بدمنة مقبلًا نحوه فطمأنّت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

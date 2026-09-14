@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="33"/>
+
+      <p n="Discoverer Loses Treasure">
+        في إخراجه
+      </p>
+
+      <p n="Readers Should Read Carefully and Reflect">
+        وقد يجب على العاقل إذا قرأ هذا الكتاب أن يتثّبت في قراءته
+        <lb/>
+
+        ويعلم أنّ له باطنًا فإذا لم يعرف ذلك لم ينتفع بما ظهر له
+      </p>
+
+      <p n="A Nut Has to Be Cracked">
+        كما لو أنّ رجلًا
+        <lb/>
+
+        لو أُتي بجوز صحاح في قشرها لم ينتفع بها حتّى يكسرها ويستخرج ما فيها
+      </p>
+
+      <p n="Man Acquires Yellow Folio">
+        ولا يكون كالرجل الذي كان يُقال إنّه كان يطلب علم الفصاحة
+        <lb/>
+
+        فأتى صديقًا له من العلماء فكتب له في صفيحة صفراء حدود الكلام
+        <lb/>
+
+        وتصاريفه في وجوهه
+      </p>
+
+      <p n="Man Memorizes from Yellow Folio">
+        فانطلق بها المتعلّم الى منزله فقرأها ودرسها
+        <lb/>
+
+        وهو لا يدري معانيها ولا تأويل ما فيها حتّى استظهرها ماهرًا بقراءتها
+        <lb/>
+
+        جاهلًا بتأويلها ثمّ إنّه قعد مع بعض أهل العلم والنظر وظنّ أنّه
+        <lb/>
+
+        قد كافأهم في علمهم ومبلغ ما بلغوا
+      </p>
+
+      <p n="Man Reads from Yellow Folio and Errs">
+        فتكلّم بكلمة أخطأ فيها فقال
+        <lb/>
+
+        له بعض أصحابه إنّك قد أخطأت والوجه فيما قلت إنّه كذا
+        <lb/>
+
+        وكذا فقال وكيف أخطئ وقد قرأت ما في الصحيفة الصفراء
+        <lb/>
+
+        فاستقرأه فقرأ ما فيها ظاهرًا ماهرًا
+      </p>
+
+      <p n="Using the Yellow Folio Proved His Ignorance">
+        وكانت قراءته إيّاها ولم يعرف ما فيها
+        <lb/>
+
+        أوجب للحجّة عليه وأقرب له عند الناس من الجهل وأبعد من الأدب
+        <lb/>
+
+        والعلم
+      </p>
+
+      <p n="Intelligent Readers Must Implement Knowledge">
+        ثم إنّ الرجل إذا فهمه وعرفه وبلغ غايته منه أن يعمل به وينتفع
+        <lb/>
+
+        بما عرف من فضله ويجعله بما لا يعتبر به
+      </p>
+
+      <p n="One Should Always Seek More Knowledge">
+        فإنّه يُقال
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

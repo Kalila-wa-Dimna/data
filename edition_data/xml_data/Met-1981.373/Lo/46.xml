@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="46"/>
+
+      <p n="Kalila's Final Warning about Ruler's Danger">
+        قال كليلة أمّا إذا كان هذا رأيك فإنّي لأحذّرك هو لعِظم
+        <lb/>
+
+        خطره
+      </p>
+
+      <p n="Three Risky Endeavors According to Scholars">
+        وقد قالت العلماء ثلاثة أمور لا يجترئ عليها إلّا الأهوج ولا يسلم
+        <lb/>
+
+        فيها إلّا العاقل صحبة السلطان وائتمان النساء على الأسرار وشارب
+        <lb/>
+
+        السمّ للتجربة
+      </p>
+
+      <p n="Analogy of Ruler to a Dangerous Mountain">
+        وإنما يشبّهون مقارنتهم بالجبل الصعب الوعر الذي
+        <lb/>
+
+        فيه الثمار الطيّبة والسباع الضارية والصعود إليها مخوف شديد
+        <lb/>
+
+        والمقام فيه أفظع وأهول
+      </p>
+
+      <p n="Dimna's Persistence Despite Warnings">
+        قال دمنة قد فهمت ما ذكرت ولكن اعلمْ أنّه
+        <lb/>
+
+        من لم يركبْ الأهوال لم ينلْ الرغائب ولم يعدّ من الرجال ومن ترك الأمر
+        <lb/>
+
+        الذي لعلّه بالغ حاجته منه لم ينلْ مرامًا ولم يبلغْ شرفًا
+      </p>
+
+      <p n="Three Challenging Pursuits Requiring Courage">
+        وقد قيل ثلاثة
+        <lb/>
+
+        أمور لا يستطيعها أحد من الناس إلّا بمعونة من ارتفاع همّة وعظم خطر
+        <lb/>
+
+        صحبة السلطان وتجارة البحر ومناجزة العدوّ
+      </p>
+
+      <p n="Two Proper Places for Noble Man">
+        وقيل أيضًا لا ينبغي
+        <lb/>
+
+        للرجل ذي المروءة أن يُرى إلّا في مكانين إمّا في البرّيّة موحشًا وإمّا مع
+        <lb/>
+
+        العظماء مصطحبًا
+      </p>
+
+      <p n="Kalila's Blessing for Dimna's Decision">
+        قال كليلة خار الله لك فيما عزم لك عليه
+      </p>
+
+      <p n="Dimna Approaching the Lion">
+        ثمّ إنّ دمنة
+        <lb/>
+
+        انطلق حتّى جاء إلى باب الأسد
+      </p>
+
+      <p n="Dimna Seeking Permission to Enter">
+        فاستأذن عليه فأُذن له
+      </p>
+
+      <p n="Dimna Entering the Lion's Presence">
+        فدخل دمنة
+      </p>
+
+      <p n="Dimna Noticing Another Lion">
+        فرأى عنده أسدًا آخر فسلّم عليه
+      </p>
+
+      <p n="Lion Inquiring About Dimna's Identity">
+        فقال الأسد لقرابته من هذا
+      </p>
+
+      <p n="Identification of Dimna">
+        فقالوا
+        <lb/>
+
+        فلان بن فلان
+      </p>
+
+      <p n="Lion Recognizing Dimna's Father">
+        فقال الأسد كنت أعرف أباه
+      </p>
+
+      <p n="Lion Questioning Dimna's Whereabouts">
+        ثمّ قال له أين
+        <lb/>
+
+        كنت
+      </p>
+
+      <p n="Dimna's Response about His Loyalty">
+        فقال لم أزلْ بباب الملك مواظبًا رجاء أن يحضر أمر أعينه
+        <lb/>
+
+        فيه بنفسي ورأيي
+      </p>
+
+      <p n="Dimna on the Value of Overlooked Individuals">
+        فإنّه قد يُجمع الكمال فيمن لا يؤبه له وربّما
+        <lb/>
+
+        كان عند من صغرت منزلته منفعة
+      </p>
+
+      <p n="Analogy of Useful Discarded Objects">
+        فإنّ العود المطروح ربّما استُرفق
+        <lb/>
+
+        به في حوادثه وغير ذلك
+      </p>
+
+      <p n="Lion's Positive Impression of Dimna">
+        فلمّا سمع الأسد ذلك أعجبه واستظرفه
+        <lb/>
+
+        ورجا أن يكون قِبله نصيحة ورأي
+      </p>
+
+      <p n="A Noble Man May Be Obscure">
+        فقال لقرابته إنّ الرجل
+        <lb/>
+
+        ذا الفضل والنبل يكون خامل الذكر والمنزلة في الغالب وإنّه ليصير
+        <lb/>
+
+        متى عُرف
+      </p>
+
+      <p n="Analogy of a Flame's Inevitable Rise">
+        كالشعلة التي يستضيء بها صاحبها عند الحاجة
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

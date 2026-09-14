@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="189"/>
+
+      <p n="Kalila's Objection">
+        مع شدّته ذو رأي فما تستطيع له
+      </p>
+
+      <p n="The Rabbit and the Lion Parable">
+        قال دمنة إنّ الثور كما ذكرت ولكنّه مغترّ
+        <lb/>
+
+        بي فأنا خليق أن أصرعه كما صرعت الأرنب الأسد
+      </p>
+
+      <p n="Kalila Asks for the Story">
+        قال كليلة وكيف كان ذلك
+      </p>
+
+      <p n="The Tyrannical Lion">
+        قال دمنة زعموا أنّ أسدًا كان في أرض كثيرة الماء والعشب فكان ما بتلك الأرض
+        <lb/>
+
+        من الوحش في سعة من الماء والمرعى إلّا أنّ ذاك لم يكن ينفعها مع خوف الأسد
+      </p>
+
+      <p n="The Animals' Proposal">
+        فائتمرت تلك الوحوش واجتمعت إلى الأسد فقالت له إنّك لا تصيب منّا الدابّة إلّا بعد
+        <lb/>
+
+        تعب شديد وإنّا قد رأينا رأيًا لك
+      </p>
+
+      <p n="The Bargain">
+        ولنا صلاح فإن أنت آمنتنا ولم تخفنا فلك علينا
+        <lb/>
+
+        في كلّ يوم دابّةً نرسل بها إليك عند غدائك
+      </p>
+
+      <p n="The Lion Agrees">
+        فرضي الأسد بذلك
+      </p>
+
+      <p n="The Agreement is Kept">
+        وصالحهنّ عليه
+        <lb/>
+
+        وأقمن ذلك له
+      </p>
+
+      <p n="The Cunning Rabbit's Turn">
+        ثمّ إنّ أرنبًا أصابتها القرعة فقالت لهنّ إن أنتم رفقتم فيما لا
+        <lb/>
+
+        يضرّكم لعلّي أن أريحكنّ من الأسد
+      </p>
+
+      <p n="The Animals' Question">
+        فقالوا وما تكلّفينا من ذلك
+      </p>
+
+      <p n="The Rabbit's Request">
+        قالت تأمرون من
+        <lb/>
+
+        ينطلق معي أن أبطئ على الأسد حتّى يتأخّر غذاؤه
+      </p>
+
+      <p n="The Animals Agree">
+        ففعلن ذلك فانطلقت الأرنب متباطئة
+        <lb/>
+
+        حتّى جاوزت الساعة التي كان الأسد يأكل فيها ثمّ تقدّمت وحدها تدبّ رويدًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

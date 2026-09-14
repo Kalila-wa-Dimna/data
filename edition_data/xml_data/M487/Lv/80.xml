@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M487</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="80"/>
+
+      <p n="Burzoys Stipend">
+        المال وجملة ذلك خمسين جرابًا في كلّ جراب عشرة آلاف دينار
+      </p>
+
+      <p n="Burzoy Inquires About Court">
+        فلمّا قدم بروزيه الحكيم إلى بلاد الهند طاف بباب الملك وجالس السوقة
+        <lb/>
+
+        وسأل عن بوّاب المَلك والأشراف والعلماء والفلاسفة وجعل يغشاهم في
+        <lb/>
+
+        مجالستهم ومنازلهم ويتلقّاهم بالتحيّة بباب الملك
+      </p>
+
+      <p n="Burzoy Claim Study Trip">
+        ويخبرهم أنّه رجل
+        <lb/>
+
+        غريب قدم بلادهم لطلب العلم والأدب وأنّه محتاج إلى معاونتهم على ما يطلب
+        <lb/>
+
+        من ذلك وسألهم التوفير على معونته في استفادة الأدب والحكمة مع شدّة
+        <lb/>
+
+        كتمانه لما قدم له
+      </p>
+
+      <p n="Burzoy Disguises Misson By Study">
+        ولم يزل كذلك يتأدّب زمانًا طويلًا بين علماء الهند بما هو
+        <lb/>
+
+        عالم بجميعه ويظهر كأنّه لا يعلم شيئًا منه وهو ممّا بين ذلك سافر في السرّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

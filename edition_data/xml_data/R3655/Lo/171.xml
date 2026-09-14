@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="171"/>
+
+      <p n="Bodily Health Is Most Important">
+        فلا يدفع ذلك إلّا الدواء الذي يأتيه من بعد
+      </p>
+
+      <p n="Animals Are Treated according to Their Benefit">
+        كالجرذ الذي في البيت مجاورًا فمن أجل
+        <lb/>
+
+        إضراره اتُّقي والبازيّ وحشيّ غريب فلمّا صار نافعًا اقتُني واتُّخذ
+      </p>
+
+      <p n="Dimna's Observation of the Lion's Behavior">
+        قال فلمّا فرغ دمنة من مقالته ازداد به الأسد إعجابًا وأحسن عليه الردّ
+      </p>
+
+      <p n="Ruler Must Not Undervalue the Noble">
+        وكان
+        <lb/>
+
+        فيما قال لجلسائه أن قال ينبغي للسلطان أن لا يلحّ في تضييع حقّ
+        <lb/>
+
+        ذي الحقّ ووضع منزلة ذي المروءة وإزرائه في ذلك في ذلك
+      </p>
+
+      <p n="A Neglected Person May Be Favoured Anew">
+        ولا يغرّه أن يرى
+        <lb/>
+
+        من صاحبه المفعول ذلك به رضى وإقرارًا
+      </p>
+
+      <p n="A Viper Stepped on Once May Not Bite">
+        فإنّ الناس في ذلك رجلان رجل
+        <lb/>
+
+        أصل طباعه الشراسة فهو كالحيّة التي إن وطئها الواطئ فلم تلدغْه لم
+        <lb/>
+
+        يكن جديرًا أن يغرّه ذلك فيعود لوطئها ثانية
+      </p>
+
+      <p n="Cool Sandalwood May Become Hot">
+        ورجل أصل طباعه السهولة فهو
+        <lb/>
+
+        كالصندل البارد الذي إذا أُفرط في حكّه عاد حارًّا يؤذي
+      </p>
+
+      <p n="Dimna Asks about Lion's Immobility">
+        ثمّ أنّ دمنة
+        <lb/>
+
+        لمّا استأنس بالأسد قال له وخلا به رأيت الملك وقد أقام منذ زمان بمكان
+        <lb/>
+
+        واحد لا يبرح فمِمَّ ذلك
+      </p>
+
+      <p n="Lion's Hesitation to Appear Cowardly">
+        قال الأسد وكره أن يرى منه دمنة فشلًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

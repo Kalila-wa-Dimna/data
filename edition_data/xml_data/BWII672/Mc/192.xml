@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="192"/>
+
+      <p n="The King Asks about Escaping Enemies">
+        فسلم من الخوف ووفا لمن صالح منهم واحترص في موضع الصلح
+        <lb/>
+
+        وكيف يُلتمس ذلك
+      </p>
+
+      <p n="The Philosopher Responds that Emotions Change">
+        قال بيديا الفيلسوف إنّ العداوة والموالاة
+        <lb/>
+
+        والمودّة والبغض ليس كلّها تثبت وتدوم وكثيرًا من
+        <lb/>
+
+        من المحبّة تتحوّل بغضة من حوادث العلل والأمور والتجارب
+      </p>
+
+      <p n="The Intelligent Adapts to Situations">
+        وذوي الرأي لكلّ ما يحدث وإن كان من الطمع
+        <lb/>
+
+        بما قبل العداوة التماس بما عند الصديق
+      </p>
+
+      <p n="Enmity Must Not Stop One from Requesting Help">
+        ولا يمنع
+        <lb/>
+
+        ذوي العقل عداوة كانت لنفسه نافعة مقارنة
+        <lb/>
+
+        والتماس ذلك من العدوّ إذا طمع منه في دفع مخوف
+        <lb/>
+
+        أو حذر أو حذر من خوف
+      </p>
+
+      <p n="The Resolute Attains His Need">
+        ومن عمل في ذلك الحزم
+        <lb/>
+
+        ظفر بحاجته
+      </p>
+
+      <p n="The Parable of the Cat and Rat Is Invoked">
+        ومن أمثال ذلك مثل الجردون والسنّور
+        <lb/>
+
+        الذين اصطلحا حين وقعا في ورطة وكان لهما رأي
+        <lb/>
+
+        في خلوصهما جميعًا من ذلك الورطة الشديدة
+      </p>
+
+      <p n="The King Requests the Full Parable">
+        قال
+        <lb/>
+
+        الملك وكيف كان ذلك قال الفيلسوف
+      </p>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        زعموا أنّه
+        <lb/>
+
+        كان في أرض الريّ شجرة من التين وكان في أصلها
+        <lb/>
+
+        جحر لسنّور يُقال له رومي وقريب منه جحر جردون
+        <lb/>
+
+        يُقال له أفريدون
+      </p>
+
+      <p n="The Cat Is Caught">
+        وكانوا الصيّادين يتناوبون ذلك
+        <lb/>
+
+        المكان لصيد الوحش والطير وأنّ أحد الصيّادين نصب
+        <lb/>
+
+        حباله ذات يوم فوقع فيها السنّور الرومي
+      </p>
+
+      <p n="The Rat Seeks Food">
+        وخرج الجردون
+        <lb/>
+
+        ليسعى على رزقته وهو يبتغي ما يأكل وهو مع ذلك
+        <lb/>
+
+        حذرًا يتلفّت يمينًا وشمالًا فلمّا رأى السنّور في قبضة الصيّاد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

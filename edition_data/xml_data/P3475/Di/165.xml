@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="165"/>
+
+      <p n="unassigned">
+        نص ملئ فراغ
+        <lb/>
+
+        نص ملئ فراغ
+        <lb/>
+
+        نص ملئ فراغ
+        <lb/>
+
+        نص ملئ فراغ
+        <lb/>
+
+        نص ملئ فراغ
+      </p>
+
+      <p n="Chapter Title">
+        باب البحث عن أمر دمنة
+      </p>
+
+      <p n="On Seeking One's Benefit by Others' Harm">
+        وهو باب من
+        <lb/>
+
+        أراد منفعته بضرّ غيره
+        <lb/>
+
+        إلى من يصير عاقبة أمره
+      </p>
+
+      <p n="The King Asks about Dimna's Fate">
+        قال ديشلم الملك لبيدبا
+        <lb/>
+
+        الفيلسوف أخبرني ما الذي كان من اعتذار دمنة حين
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

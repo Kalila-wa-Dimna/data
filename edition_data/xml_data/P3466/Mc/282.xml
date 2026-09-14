@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="282"/>
+
+      <p n="The Rat Points Out Their Common Problem">
+        إلاّ بالذى أرجو لك فيه الخلاص فذلك هو الذي عطّفنى عليك
+        <lb/>
+
+        وأنت أيضًا فليس أحد أقدر على معونتك وتخليصك من هذه
+        <lb/>
+
+        الورطة منّي
+      </p>
+
+      <p n="The Rat Proves His Sincerity">
+        وستعرف صدق مقالتي وأنّه ليس فيها كذب ولا
+        <lb/>
+
+        مخادعة قد ترى مكان ابن عرس كامنًا لي ومكان البومه تريد
+        <lb/>
+
+        اختطافي وكلاهما لي عدوّ وهما يخافاك ويتّقيانك فإن أنت
+        <lb/>
+
+        أمّنتني وعاهدتني ألّا تقتلني دنوت منك وقطعت حبالك
+        <lb/>
+
+        وخلّصتك ممّا أنت فيه ونجوت بذلك فاطمئنّ إلى ما ذكرت
+        <lb/>
+
+        وثق به منّي
+      </p>
+
+      <p n="People Fail without Mutual Trust">
+        فإنّه ليس أحد أبعد من الخير من اثنين منزلتهما واحدة
+        <lb/>
+
+        وصفتهما مختلفة أحدهما من لا يثق بأحد والآخر من لا يثق
+        <lb/>
+
+        به أحد
+      </p>
+
+      <p n="The Rat Promises Faithfulness">
+        ولك عندي الوفاء بما جعلت لك من نفسي فاقبل ذلك
+        <lb/>
+
+        منّي واسترسل إليّ ولا تؤخّر الأمر ما استطعت
+      </p>
+
+      <p n="The Intelligent Does Not Postpone Action">
+        فإنّ العاقل لا
+        <lb/>
+
+        يؤخّر عمله في حينه
+      </p>
+
+      <p n="The Cat Should Desire Common Rescue">
+        فلتطِبْ نفسك ببقائي كما طابت نفسي ببقائك
+        <lb/>
+
+        فإنّ كلّ واحد منّا إنّما ينجو بصاحبه
+      </p>
+
+      <p n="Sailors Depend on Ships and Vice Versa">
+        كالسفينة في البحر إنّما تنجو
+        <lb/>
+
+        بالركّاب وبالسفينة ينجو الركّاب
+      </p>
+
+      <p n="Cooperation Ensures Delivery for Both">
+        كذلك أيضًا بالتعاون منّي
+        <lb/>
+
+        ومنك نرجو الخلاص من هذه البليّة
+      </p>
+
+      <p n="The Cat Puts His Trust in the Rat">
+        فلمّا سمع السنّور كلام الجرذ عرف
+        <lb/>
+
+        أنّه صادق فسرّه ذلك ووثق بقوله وقال للجرد أرى قولك هذَا
+        <lb/>
+
+        شبيهًا بالحقّ والصدق فأنا قابل هذا الصلح الذي أرجو لنفسي ولك به الخلاص
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

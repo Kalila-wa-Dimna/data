@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="157"/>
+
+      <p n="King Asks about Reconciling a Courtier">
+        منهم بعد العقوبة والجفاء
+      </p>
+
+      <p n="Philosopher Supports Reconciliation of a Courtier">
+        فقال الفليلسوف إنّ الملك لو كان لا يراجع
+        <lb/>
+
+        من أصابته جفوة أو عقوبة عن جرم اجترمه أو ظلم ظلمه لأضرّ ذلك بالأمور والأعمال
+      </p>
+
+      <p n="King to Consider Value of a Suspect">
+        ولكنّ الملك حقيق أن ينظر في أمر من يكون كذلك وما عنده
+      </p>
+
+      <p n="King to Reconcile the Reliable">
+        فإن كان
+        <lb/>
+
+        ممّن يُستعان به ويُوثق برأيه وأمانته كان الملك أحقّ بالحرص على مراجعته
+        <lb/>
+
+        منه بذلك
+      </p>
+
+      <p n="Aides Are Essential to Rule">
+        فإنّ الملك لا غنى له عن الوزراء والأعوان ولا تنفع إلّا الوزراء إلّا بالمودّة
+        <lb/>
+
+        والنصيحة ولا مودّة إلّا مع الرأي والعفاف
+      </p>
+
+      <p n="Kings' Duties Are Many">
+        وأعمال الملوك كثيرةٌ ومن
+        <lb/>
+
+        يحتاجون إليه كثيرون ومن يجمع منهم كلّما ذكرت من النصيحة والعفاف
+        <lb/>
+
+        قليلٌ
+      </p>
+
+      <p n="King Must Choose Suitable People">
+        وربّما احتيج إلى الرجل في الوجه ولا مروءة له فينبغي للملك أن يتحفظّ
+        <lb/>
+
+        من أن يُصيّر من لا مروءة له في الأمر الذي يحتاج فيه إلى ذي المروءة وأن يُصيّر ذا
+        <lb/>
+
+        المروءة فيما يحتاج فيه إلى الشجاعة أو ذا الشجاعة فيما يحتاج فيه إلى المروءة والتدبير
+        <lb/>
+
+        فإنّ ذلك الضرر البيّن في العمل
+      </p>
+
+      <p n="King Must Reward and Punish">
+        ثمّ على الملوك بعد ذلك تعّهد أعمالهم وتفقّد
+        <lb/>
+
+        أمورهم حتّى لا يخفى عليهم إحسان محسنٍ ولا إساءة مسيءٍ فلا يتركوا مُحسنًا بغير
+        <lb/>
+
+        جزاءٍ ولا مسيئًا بغير عقوبةٍ
+      </p>
+
+      <p n="Lack of Assessment Damages">
+        وإلّا تهاون المحسن واجترأ المسيء وفسدت الأمور
+        <lb/>
+
+        وضاعت الأعمال
+      </p>
+
+      <p n="Philosopher Mentions Parable">
+        والمثل في ذلك مَثل الأسد وابن آوى قال الملك
+        <lb/>
+
+        للفيلسوف وكيف كان ذلك
+      </p>
+
+      <p n="Philosopher Tells of Pious Jackal">
+        قال زعموا أنّه كان ببعض أراضي الهند ابن
+        <lb/>
+
+        آوى وكان متعفّفًا متألّهًا ومع كونه مع الوحوش الكاسرة كان لا يسلك
+        <lb/>
+
+        مسلكها من العسف والظلم ولا يريق دمًا ولا يذوق لحمًا ولا يقارف إثمًا
+      </p>
+
+      <p n="Pack Denounces Jackal">
+        فخاصمته السباع وقلن له لا نرضى سيرتك إلّا أن تكون كأحدنا تصحبنا وتنشأ
+        <lb/>
+
+        معنا وتترك اللحم اتركْ صحبتنا وإلّا على ما نحن عليه فاصحبنا
+      </p>
+
+      <p n="Jackal Is not Accountable for Pack's Actions">
+        فقال
+        <lb/>
+
+        إن صحبتكم لا تُكسبني إثمًا ما لم أُكسبه لنفسي
+      </p>
+
+      <p n="Sins Depend only on One's Actions">
+        فإن الآثام ليست من قبل
+        <lb/>
+
+        الأماكن والأصحاب إنّما هي من قبل الأعمال والنيّات
+      </p>
+
+      <p n="Sin Is Independent from Place">
+        وإلّا لكان ساكن المسجد
+        <lb/>
+
+        إذا قتل قتيلًا غير آثمٍ ومن كفّ نفسه عن القتال في المعركة آثمٌ وليس كذلك
+      </p>
+
+      <p n="Jackal's Heart Is Distant from Others">
+        فإنّي إنّما صحبتكم بظاهري ولم يصحبكم منّي قلبٌ ولا عملٌ ولا نيّةٌ لمعرفتي بثمرة
+        <lb/>
+
+        الأعمال
+      </p>
+
+      <p n="Lion Hears of Jackal">
+        ولم يزل ابن آوى ثابتًا على هذه الحالة حتّى اشتهر بالنسك والتألّه والعبادة
+        <lb/>
+
+        والتماسك عن جميع ما يأتونه ويفارقونه حتّى بلغ ذلك أسدًا كان ملك السباع
+        <lb/>
+
+        بتلك الأرض فرغب فيه
+      </p>
+
+      <p n="Lion Verifies Jackal's Qualities">
+        وأرسل إليه فأتى به بعد أن بحث عن حاله وكلّمه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

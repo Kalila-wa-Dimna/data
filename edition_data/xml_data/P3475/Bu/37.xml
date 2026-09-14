@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="37"/>
+
+      <p n="unassigned">
+        ابتغاء الزرع لا ابتغاء العشب ثمّ هي لا محالة نابت فيها
+        <lb/>
+
+        أنواع العشب
+      </p>
+
+      <p n="Burzoy Practices Medicine Without Pay or Envy of Colleagues">
+        فأقبلت على مداواة المرضى رجاء
+        <lb/>
+
+        أجر الآخرة ولم أدع مريضًا أرجو له البرء وآخر
+        <lb/>
+
+        لا أرجو له البرء إلّا أنّي أطمع له في خفّة الوجع
+        <lb/>
+
+        والأذى إلّا بلغت في مداواته جهدي من
+        <lb/>
+
+        قدرت على القيام له قمت عليه ومن لم
+        <lb/>
+
+        أقدر على القيام عليه وصفت له وأمرته
+        <lb/>
+
+        وأعطيته ما يحتاج إليه من الدواء
+      </p>
+
+      <p n="Working Without Expecting Reward">
+        ولم أرد ممّن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

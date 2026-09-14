@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="91"/>
+
+      <p n="Consequences of Poor Financial Management">
+        معدمًا
+      </p>
+
+      <p n="Rapid Depletion of Poorly Managed Wealth">
+        وإن هو وضعه ولم يستثمر لم تمنعه قلّة الإنفاق من سرعة الذهاب
+      </p>
+
+      <p n="Analogy of Rapidly Depleting Kohl">
+        كالكحل الذي لا يؤخذ منه إلّا غبار الميل ثمّ هو مع ذلك سريع فناءه
+      </p>
+
+      <p n="Consequences of Miserliness and Mismanagement">
+        وإن
+        <lb/>
+
+        أنفقه في غير وجهه ووضعه في غير موضعه وأخطأ به مواضع استحقاقه
+        <lb/>
+
+        صار بمنزلة الفقير الذي لا مال له ثمّ لم يمنع ماله من التلف بالحوادث والعلل التي
+        <lb/>
+
+        تجري عليه
+      </p>
+
+      <p n="Analogy of Overflowing Water Reservoir">
+        كمخيّس الماء الذي لا تزال المياه تنصبّ فيه فإن لم يكن له مخرج
+        <lb/>
+
+        ومغيض ومتنفّس يخرج الماء منه بقدر ما ينبغي خرب وسال وترّ من نواحي كثيرة
+        <lb/>
+
+        وربّما انبثق البثق العظيم فيذهب الماء ضياعًا
+      </p>
+
+      <p n="Sons' Acceptance of Father's Advice">
+        ثمّ إنّ بني الشيخ اتّعظوا بقول
+        <lb/>
+
+        أبيهم وأخذوا به وعلموا أنّ فيه الخير وعملوا عليه
+      </p>
+
+      <p n="Eldest Son's Journey and Ox Cart Incident">
+        فانطلق أكبرهم نحو أرض
+        <lb/>
+
+        يقال لها ميون فأتى في طريقه على مكان في وحل وكان معه عجلة
+        <lb/>
+
+        يجرّها ثوران يقال لأحدهما شتربة والآخر بندبة
+      </p>
+
+      <p n="Ox Getting Stuck in Mud">
+        فوحل شتربة بذلك
+        <lb/>
+
+        المكان فعالجه الرجل وأصحابه حتّى بلغهم الجهد فلم يقدروا على إخراجه
+      </p>
+
+      <p n="Merchant Leaving a Man to Care for the Ox">
+        فذهب التاجر وخلّف عنده رجلًا لا يشارفه لعلّ الوحل ينشف ويتبعه بالثور
+      </p>
+
+      <p n="Description of the Caretaker's Actions">
+        فلمّا بات الرجل بذلك المكان تبرّم به واستوحش فترك الثور والتحق
+        <lb/>
+
+        بالتاجر فأخبره أنّ الثور قد مات
+      </p>
+
+      <p n="Caretaker's Philosophical Reflection on Fate">
+        وقال له إنّ الإنسان إذا انقضت مدّته
+        <lb/>
+
+        وحانت منيّته فهو وإن اجتهد في التوقّي من الأمور التي يخاف فيها على نفسه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

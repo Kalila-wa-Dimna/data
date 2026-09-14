@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M618</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="44"/>
+
+      <p n="Invocation For Kisras Elevation">
+        الرتبة التي لم يبلغها أحد من الملوك قبلك
+      </p>
+
+      <p n="Burzoy Buzurgmihr Exit">
+        ثمّ خرج برزويه وبزرجمهر من بين يدي الملك
+        <lb/>
+
+        وانصرف أهل المجلس إلى منازلهم
+      </p>
+
+      <p n="Buzurgmihr Begins Composition">
+        فأخذ بزرجمهر في وضعه الباب الذي أمره الملك
+        <lb/>
+
+        به
+      </p>
+
+      <p n="Contents Of Bu Chapter">
+        ووصف برزويه من أوّل ما أسلمه أبوه إلى التعلّم إلى أن مضى إلى الهند في طلب
+        <lb/>
+
+        الكتاب ونظمه بأحسن نظام على ما قد كان عرف من أدب برزويه وحكمته وما
+        <lb/>
+
+        ظهر منه في استهانته بالدنيا وقلّة اكتراثه بها
+      </p>
+
+      <p n="Buzurgmihr Omits Nothing">
+        فلم يدع شيئًا من خلائق برزويه
+        <lb/>
+
+        ومذاهبه إلّا نسّقه وجابه بأجود ما يكون من الشرح الطويل
+      </p>
+
+      <p n="Chapter Read Publicly">
+        ثمّ أعلم الملك بفراغه
+        <lb/>
+
+        منه وأنّه جعله في أوّل باب في ذلك الكتاب يبتدئ به في قراءة الكتاب فجمع أنوشروان
+        <lb/>
+
+        جميع العظماء والأشراف ومن دونهم فدخلوا إليه وأمر بزرجمهر بقراءته حتّى ينتهي
+        <lb/>
+
+        إلى آخره
+      </p>
+
+      <p n="Bu Chapter Well Received">
+        ففرح الملك وجميع أهل المملكة بما أُوتي برزجمهر من الحكمة العزيزة وما
+        <lb/>
+
+        مدح به برزويه من غير كذب منه وادّعاء باطل
+      </p>
+
+      <p n="Kisra And Attendees Commend Buzurgmihr">
+        وأثنى الملك وجميع من حضر
+        <lb/>
+
+        على برزجمهر وشكر له ذلك ومدحوه بأفضل ما مُدح به أحد قبله
+      </p>
+
+      <p n="Kisra Rewards Buzrgmihr">
+        وأمر له
+        <lb/>
+
+        الملك بمال كثير عظيم وكسوة فاخرة وحليّ وأواني فلم يقبل من ذلك شيئًا
+        <lb/>
+
+        غير الكسوة فإنّها كانت من ثياب الملك وكان يفاخر بها أهل زمانه
+      </p>
+
+      <p n="Burzoy Thanks Buzurgmihr">
+        وشكر له
+        <lb/>
+
+        برزويه وقبّل يديه
+      </p>
+
+      <p n="Burzoy Thanks Kisra For Chapter">
+        ثمّ أقبل برزويه على الملك فقال أدام الله لك أيّها الملك السلامة
+        <lb/>
+
+        والكرامة فقد بلغني غاية الشرف والرتب بما أمرت به برزجمهر من صنعه
+        <lb/>
+
+        هذا
+      </p>
+
+      <p n="Attendees Pleased With Historical Day">
+        ثمّ انصرف جميع من أحضره الملك وقد أبقى برزويه لنفسه ذكرًا
+        <lb/>
+
+        جيّدًا ما اختلف الجديدان
+      </p>
+
+      <p n="unassigned">
+        قال بزرجمهر بن التختكان الحمد لله الذي
+        <lb/>
+
+        خصّنا ببرهان العقل وفضّلنا بفرقان الجهل وألهمنا صحّة الفكر والتمييز
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

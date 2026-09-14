@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="176"/>
+
+      <p n="Advice against Trusting Certain Types of People">
+        السلطان حقيقًا أن يعجّل إليهم بالاسترسال أو الثقة بهم والائتمان لهم
+      </p>
+
+      <p n="Lion's Reflection on Dimna's Character and Past Treatment">
+        وإنّ
+        <lb/>
+
+        دمنة داهي أريب وكان ببابي مطّرحًا مجفوًّا
+      </p>
+
+      <p n="Lion's Fear of Dimna's Potential Betrayal">
+        فلعلّه قد احتمل بذلك ضغنًا ولعلّ
+        <lb/>
+
+        ذلك سيحمله على أن يخونني ويبغيني سوءًا ولعلّه يصادف صاحب الصوت أقوى
+        <lb/>
+
+        منّي وأفضل سلطانًا فيرغب فيما عنده ويميل عليّ معه ويدلّه على عورتي
+      </p>
+
+      <p n="Lion's Restless Contemplation">
+        ولم
+        <lb/>
+
+        يزل الأسد يفكّر في أمره وجعل يمشي ويقعد وينظر إلى الطريق حتّى رفع له
+        <lb/>
+
+        دمنة مقبلًا
+      </p>
+
+      <p n="Lion's Relief Upon Seeing Dimna Alone">
+        فلمّا رآه قد أقبل ليس معه غيره اطمأنّت نفسه ورجع إلى مكانه
+        <lb/>
+
+        إرادة أن لا يظنّ دمنة أنّ شيئًا استخفّه
+      </p>
+
+      <p n="Dimna's Return and Lion's Inquiry">
+        فلمّا دخل دمنة على الأسد قال له ما صنعت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

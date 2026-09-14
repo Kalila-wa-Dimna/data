@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="213"/>
+
+      <p n="King to Be Aware of Schemes">
+        والمسيئين ومن لم يفعل كان مآله إلى الندامة في الأمور
+        <lb/>
+
+        سريعًا
+      </p>
+
+      <p n="Jackal Has Shown Integrity">
+        وليس ينبغي للملك يعدّ قتل ابن آوى معروف فإنّما
+        <lb/>
+
+        فقده إيّاه خطأ ويتذكّر ما فيه من المناصحة والفضل
+        <lb/>
+
+        ويندم على ما يعمل في أمره والملك منذ استخدمه
+        <lb/>
+
+        للآن لم يطّلع منه على خيانة ولم يظهر منه إلّا الوفاء
+        <lb/>
+
+        والنصيحة والأمان
+      </p>
+
+      <p n="Lion Tested and Praised Jackal">
+        وبعده ما كان من ثبات الأمر عليه
+      </p>
+
+      <p n="Mother Warns of Conspiracy">
+        حتّى يفعل به ذلك ومن أجل اللحم يتحمّل عليه كلام أهل
+        <lb/>
+
+        البغي والحسد
+      </p>
+
+      <p n="Kings Must not Delegate Their Own Duties">
+        وإنّ صاحب السلطان لا ينبغي له
+        <lb/>
+
+        أن يكون مباشرًا بنفسه كلّ الأعمال ولا بعضها
+        <lb/>
+
+        ومتى وكّل بعضها إلى غيره أخطأ وكان الواجب من
+        <lb/>
+
+        الملك إذا حدث أمر مثل هذا أن يباشره بنفسه لا يورثه
+        <lb/>
+
+        عليه ندامة بعد ذلك ويضعف رأيه
+      </p>
+
+      <p n="Courtiers Must Avoid Mistakes">
+        والواجب أيضًا أنّ
+        <lb/>
+
+        أصحاب الملك ينبغي لهم أن يتعاهدوا كلّ أمر مؤذي
+        <lb/>
+
+        لئلّا يعقب الملك ندامة فيستقصّ منهم ويحدث فيهم
+        <lb/>
+
+        حادث لا يقدروا على ردّه
+      </p>
+
+      <p n="Meat Is Tested with Three Senses">
+        لأنّ أمر الفساد كالحجر الذي
+        <lb/>
+
+        لا يُعرف طعمها إلّا بعد كسرها وحكّها وذوقها فإنّه
+        <lb/>
+
+        ربّما جاد من الذوق تغيّر الطعم
+      </p>
+
+      <p n="Imaginary Hair in Eye Taken for Real">
+        كالرجل الذي يكون
+        <lb/>
+
+        في عينيه ريح السَبَل ويرى من نفسه كالشعرة وإذا
+        <lb/>
+
+        نظر بعقله عرف أنّها لو كانت شعرة رآها غيره ممّن
+        <lb/>
+
+        ينظر إليه كما رآه هو في غيره
+      </p>
+
+      <p n="Firefly Is Mistaken for Fire">
+        وكالبعوضة التي تُرى في
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

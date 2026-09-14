@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="53"/>
+
+      <p n="A Fisher Finds an Empty Shell">
+        شيء له قدره وثمن
+      </p>
+
+      <p n="The Fisher Abandons His Catch for the Shell">
+        وكان قد ألقى شبكته فاشتملت على سمكة
+        <lb/>
+
+        هي قوت يومه فخلاها ونزل الماء قاصد الصدفة فلمّا أخذها
+        <lb/>
+
+        وجدها فارغة فندم على ترك ما كان في يده للطمع
+      </p>
+
+      <p n="The Fisher Misses the Pearl">
+        فلمّا كان في اليوم
+        <lb/>
+
+        الثاني رمي شبكته فأصاب حوتًا صغيرًا فحاول أخذه فبصر
+        <lb/>
+
+        بصدفة تشبه تلك الصدفة فلم يلتفت وساء بها ظنّه فتركها
+      </p>
+
+      <p n="Another Fisher Wins the Pearl">
+        واجتاز بها غيره فاستخرجها فوجدها درّة فازداد الصيّاد
+        <lb/>
+
+        حسرة وندامة
+      </p>
+
+      <p n="The Superficial Readers Miss the Meaning">
+        وكذلك الجهّال في أمر التفكّر وإغفالهم عنه أعني هذا
+        <lb/>
+
+        الكتاب وترك الوقوف على أسراره ومعانيه
+      </p>
+
+      <p n="The Reader Needs Stamina and Focus">
+        وينبغي لطالب
+        <lb/>
+
+        العلم استعمال الجدّ والتشمير وإفراغ البال وخلوّ الذرع وإظهار
+        <lb/>
+
+        الحرص وقوّة الهمّة والصبر فإنّه من لم يكن كذلك لم ينتفع بما طلب
+        <lb/>
+
+        ولم يفد من أغراضه إلّا ما تعب به نفسه
+      </p>
+
+      <p n="The Preface Is for Explaining the Target Audience">
+        وإنّما قدّمت هذه المقدّمة
+        <lb/>
+
+        لئلّا يظنّ ظانّ أنّ فلاسفة الهند وضعت هذا الكتاب
+        <lb/>
+
+        لظاهره دون علم باطنه وإنّها إنّما وضعته للرعيّة دون الملوك
+        <lb/>
+
+        والأصاغر دون الأكابر
+      </p>
+
+      <p n="The Book Has Four Aims">
+        وما ينبغي للناظر فيه ويقتنيه أن يقسّم
+        <lb/>
+
+        إلى أربعة أغراض
+      </p>
+
+      <p n="The First Aim Is to Attract the Youth">
+        الأوّل منها ما وضع في قصد الكتاب على ألسن
+        <lb/>
+
+        الحيوان غير الناطقة ليسارع إلى قرأته أهل الهزل فيُستمال به قلوبهم
+        <lb/>
+
+        من التعجّب لطريق النوادر من حيل الحيوان
+      </p>
+
+      <p n="The Second Aim Is to Please Kings">
+        والغرض الثاني إظهار
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

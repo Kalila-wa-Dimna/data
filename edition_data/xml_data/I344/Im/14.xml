@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="14"/>
+
+      <p n="Man Discovers Mishap and Laments">
+        فانتبه الرجل بعد ذلك فوجده قد نجا بمتاعه
+        <lb/>
+
+        فأقبل الرجل يلوم نفسه ويعاتبها وعلم أنّه لم ينتفع
+        <lb/>
+
+        بعمله إذ لم يستعمله
+      </p>
+
+      <p n="Knowledge Is Complete with Proper Implementation">
+        وقد يُقال إنّ العلم لا يتمّ
+        <lb/>
+
+        إلّا بالعمل
+      </p>
+
+      <p n="Knowledge Is a Tree and Action Is the Fruit">
+        وإنّ العلم هو الشجرة والعمل الثمر
+      </p>
+
+      <p n="Scholar Must Act">
+        وإنّما
+        <lb/>
+
+        يطلب صاحب العلم العلم لينتفع به وإن لم يستعمل
+        <lb/>
+
+        ما يعلم فليس ذلك له
+      </p>
+
+      <p n="Man Hears about Traveller">
+        وربّ رجل لو قيل له
+      </p>
+
+      <p n="Informed Traveller Takes Risky Road">
+        إنّ رجلًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

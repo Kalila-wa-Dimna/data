@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="146"/>
+
+      <p n="The Philosopher's Answer About the King's Killing">
+        صحبته وجسيم خدمته وأنّه كان أكرم أصحابه عليه وأخصّهم منزلة لديه
+        <lb/>
+
+        وأقربهم وأدناهم إليه وكان يوصل به المشورة دون أصحابه
+      </p>
+
+      <p n="A Leopard Was the Lion's Confidant">
+        وكان خواصّه
+        <lb/>
+
+        من أخصّ أصحابه عنده بعد الثور النمر فاتّفق أنّه أمسى النمر ذات ليلة
+        <lb/>
+
+        عند الأسد
+      </p>
+
+      <p n="The Leopard Overhears Kalila Chastising Dimna">
+        فخرج من عنده جون الليل يريد منزله فاجتاز على منزل
+        <lb/>
+
+        كليلة ودمنة فلمّا انتهى إلى الباب سمع كليلة يعاتب دمنة على ما كان
+        <lb/>
+
+        منه ويلومه في النميمة واستعمالها مع الكذب والبهتان في حقّ الخاصّة
+        <lb/>
+
+        وعرف النمر عصيان دمنة وترك القبول له فوقف يستمع ما يجري بينهما
+      </p>
+
+      <p n="Kalila's Accusation of Dimna">
+        فكان
+        <lb/>
+
+        فيما قال كليلة لدمنة لقد ارتكبت مركبًا صعبًا ودخلت مدخلًا
+        <lb/>
+
+        ضيّقًا وجنيت على نفسك جنايةً موبقةً وعاقبةً وخيمةً وسوف
+        <lb/>
+
+        يكون مصرعك شديدًا إذا انكشف للأسد أمرك واطّلع عليه وعرف غدرك
+        <lb/>
+
+        ومحالك وبقيت لا ناصر لك فيجتمع عليك الهوان والقتل مخافة شرّك وحذرًا
+        <lb/>
+
+        من غوائلك
+      </p>
+
+      <p n="Kalila Rejects Dimna as Friend">
+        فلست بمتّخذك بعد اليوم خليلًا ولا مفش إليك سرًّا
+      </p>
+
+      <p n="One Must Avoid Bad People">
+        لأنّ العلماء
+        <lb/>
+
+        قد قالوا تباعد ممن لا رغبة فيه
+      </p>
+
+      <p n="Dimna is Evil and to Be Shunned">
+        وأنا جدير بمباعدتك والتماس الخلاص لي
+        <lb/>
+
+        ولك ممّا وقر في نفس الأسد من هذا الأمر
+      </p>
+
+      <p n="The Leopard Confides in the Lion's Mother">
+        فلمّا سمع النمر هذا من كلامهما ذهب
+        <lb/>
+
+        راجعًا فدخل على أمّ الأسد فأخذ عليها العهود والمواثيق أنّها لا تفشي بما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

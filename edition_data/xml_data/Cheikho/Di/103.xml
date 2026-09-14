@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="103"/>
+
+      <p n="The Leopard Overhears Kalila Chastising Dimna">
+        قد أقبل على دمنة يعذله ويقبّح له رأيه وفعله ويعظم له جرمه ويوبّخه
+        <lb/>
+
+        بغدره
+      </p>
+
+      <p n="Kalila's Accusation of Dimna">
+        وكان فيما أثبته به أن قال إنّ الذي هيّجت بين الأسد والثور
+        <lb/>
+
+        من العداوة بعد المودّة والفرقة بعد الألفة والشحناء بعد السلامة بسخافة
+        <lb/>
+
+        عقلك وقلّة وفائك لمظهرٌ أمرك ومطلعٌ طلعه ولازمك من بغته
+        <lb/>
+
+        بغيه ما تستوبل عاقبته وتستمرّ مذاقته
+      </p>
+
+      <p n="Betrayals Lead to Perdition">
+        فإنّ الغدر وإن لان عاجله
+        <lb/>
+
+        واستُحليَت فروعه مُرّ العاقبة بعيد المهواة وخيم المزلقة
+      </p>
+
+      <p n="Kalila Rejects Dimna as Friend">
+        وإنّي باجتنابك وترك
+        <lb/>
+
+        مقارنتك والاقتداء بك لحقيقٌ فلست بآمنٍ على نفسي من معرّتك
+        <lb/>
+
+        وشرهك وغدرك
+      </p>
+
+      <p n="One Must Avoid Bad People">
+        وقد قالت العلماء اجتنب أهل الريبة لئلّا تكون
+        <lb/>
+
+        مريبًا
+      </p>
+
+      <p n="Dimna is Evil and to Be Shunned">
+        فإنّي تاركٌ مقارنتك ومتباعدٌ منك ومغتربٌ عنك لسوء أخلاقك
+      </p>
+
+      <p n="Kalila Accuses Dimna of Causing the Ox's Killing">
+        التي بها أنشبت العداوة بين الملك ووزيره الناصح المأمون فلم تزل
+        <lb/>
+
+        بتشبيهك وتمويهك بالباطل حتّى حملته على القسوة وأورطته الورطة فقتلته
+        <lb/>
+
+        مظلومًا بريئًا
+      </p>
+
+      <p n="Dimna Admits His Guilt">
+        قال دمنة قد وقع من الأمر ما لا مردّ له فدع تضييق الأمور عليّ
+        <lb/>
+
+        وعلى نفسك واعمل في التغييب عن موقع الأمر كذا في نفس الأسد
+        <lb/>
+
+        فقد كرهت ما مضى منّي والحسد والحرص حملاني على ما صنعت
+      </p>
+
+      <p n="The Leopard Confides in the Lion's Mother">
+        فلمّا سمع النمر ذلك من كلاهما انصرف خفيًّا مسرعًا حتّى دخل
+        <lb/>
+
+        على أمّ الأسد فأخذ عليها عهدًا ألّا تفشي سرّه إلى الأسد ولا إلى غيره
+        <lb/>
+
+        فجعلت ذلك له فأخبرها بالقصّة على وجهها من قول كليلة وإقرار دمنة
+      </p>
+
+      <p n="The Mother Goes to the Lion and Finds Him Sad">
+        فلمّا أصبحت أمّ الأسد أقبلت حتّى دخلت على الأسد فوجدته مكتئبًا
+        <lb/>
+
+        حزينًا
+      </p>
+
+      <p n="The Mother Says Grief is Weakening">
+        فقالت إنّ حزنك غير رادٍّ عليك مدبرًا ولا سائقٌ إليك نفعًا وأنت
+        <lb/>
+
+        غنيٌّ عن أن تجعله للبلاء عونًا عليك تضعف به فؤادك وتنهك به جسمك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

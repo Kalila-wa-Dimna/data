@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="264"/>
+
+      <p n="King to Consider Value of a Suspect">
+        وما عنده وما يُرجى منه
+      </p>
+
+      <p n="King to Reconcile the Reliable">
+        فإذا كان ممّن يُستعان به ويُوثق برأيه وأمانته
+        <lb/>
+
+        كان هو أحقّ بالحرص على مراجعته
+      </p>
+
+      <p n="Aides Are Essential to Rule">
+        فإنّ المُلك لا يُستطاع إلّا بالوزراء
+        <lb/>
+
+        والأعوان ولا ينتفعون بالمودّة والنصيحة إلّا مع الرأي والعفاف
+      </p>
+
+      <p n="Kings' Duties Are Many">
+        وأعمال الملوك كثيرة متفرّقة وما يحتاج إليه من المكلّفين والإخوان
+        <lb/>
+
+        كثير ومن يجمع منهم ما وصفت قليل
+      </p>
+
+      <p n="King Must Know Everyone">
+        وإنّما الشكل في ذلك الوجه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

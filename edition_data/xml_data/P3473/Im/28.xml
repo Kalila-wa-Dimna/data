@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="28"/>
+
+      <p n="Ibn al-Muqaffa' Describes the Book">
+        مداخلة الخير والشرّ عليه من صديقه وعدوّه وعلى التخلّص
+        <lb/>
+
+        من حبالة ذوي الحيل والتوصّل إلى قصده بلطائف الأمثال
+      </p>
+
+      <p n="Parables Originated with Scholars of India">
+        وهو
+        <lb/>
+
+        ممّا وضعته علماء الهند وحكماؤها لملوكها مثالًا
+      </p>
+
+      <p n="Scholars Desire to Be Understood">
+        يقتبسون منه
+        <lb/>
+
+        أنواع السياسة للمُلك ويستخرجون منه أنواع الحيل في إيصال
+        <lb/>
+
+        المنفعة إلى الأصدقاء والمضرّة والهلاك إلى الأعداء بلطائف
+        <lb/>
+
+        الحيل
+      </p>
+
+      <p n="Scholars Put Knowledge in Book of Fables">
+        ومن حيث لا يعلمون كيف موارد ذلك ومصادره على
+        <lb/>
+
+        ألسنة الحيوانات والبهائم والسباع والطير
+      </p>
+
+      <p n="Fables Facilitate Many Types of Discourse">
+        مشحونة بالحكم
+        <lb/>
+
+        ليرغب فيه الغرّ تلهيًّا بظاهره والعاقل تمتّعًا بباطنه
+      </p>
+
+      <p n="Farmer Works Land for Yield Not Weed">
+        وإنّ مثله
+        <lb/>
+
+        في ذلك ومثل واضعيه كمثل الزارع إنّما يصلح أرضه ويعمّرها
+        <lb/>
+
+        ابتغاء لمنفعة ما يزرعه لا لابتغاء العشب ثمّ هي لا محالة نابت
+        <lb/>
+
+        فيها صنوف العشب
+      </p>
+
+      <p n="Book Is Used for Wisdom, Pleasure, and Knowledge">
+        فاجتناه الحكماء لحكمته والسفهاء للهوه والمتعلّمون
+        <lb/>
+
+        من الأحداث فنشطوا في تعليمه وخفّ عليهم قراءته وحفظه
+      </p>
+
+      <p n="Acquired Knowledge Manifests in Adulthood">
+        فإذا
+        <lb/>
+
+        احتنك الحدث واجتمع له عقله فتدبّر ما كان في حفظه من ذلك ممّا
+        <lb/>
+
+        صار إليه ويتحقّق أنّه قد ظفر من ذلك بكنوز عظام
+      </p>
+
+      <p n="Bequeathed Treasure Suffices">
+        وكان كالرجل الذي
+        <lb/>
+
+        استكمل الرجوليّة فوجد آباءه قد كنزوا له كنوزًا وعقدوا له عقودًا
+        <lb/>
+
+        ليستغني بها عن الكدح والسعي والسؤال
+      </p>
+
+      <p n="Reader Must Decode Parables">
+        فمن قرأ هذا الكتاب
+        <lb/>
+
+        فليعرف الوجوه التي وُضعت له إلى أيّ غاية يجري فيه مؤلّفه
+        <lb/>
+
+        عندما نسبه إلى البهائم وأضافه إلى غير مستنصح من الأفعال التي
+        <lb/>
+
+        جعلها أمثالًا فإنّ قارئه متى لم يفعل ذلك لم يعرف ما أراد بتلك
+        <lb/>
+
+        المعاني أيّ ثمرة يجتني منه وأيّ نتيجة تحصل له من مقدّمات ما
+        <lb/>
+
+        ضمّنه
+      </p>
+
+      <p n="Hasty Reader Benefits Nothing">
+        وإنّه وإن كان بغيته استتمام قراءته إلى آخره دون معرفة ما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="244"/>
+
+      <p n="Situations Do Not Blind the Intelligent">
+        ولا يستسلمون للشرّ والبلاء في الشدائد
+      </p>
+
+      <p n="The Rat Decides on a Pact with the Cat">
+        وقد نظرت فلا أعلم
+        <lb/>
+
+        حيلة في هذا الشرّ ولا نجاة ممّا أنا فيه إلّا مصالحة هذا السنّور
+        <lb/>
+
+        فإنّه قد أصابه من الشرّ ما لا يستطيع أحدًا أن يقدر يخلّصه
+        <lb/>
+
+        منه غيري فلعلّ السنّور أن يصالحني لنفع نفسه فأتخلّص منه أيضًا
+        <lb/>
+
+        من هذا الشرّ الذي أنا فيه ومشرف عليه
+      </p>
+
+      <p n="The Rat Comes Up to the Cat">
+        ثمّ نادى السنّور
+        <lb/>
+
+        وقال كيف أنت أيّها السنّور
+      </p>
+
+      <p n="The Cat Acknowledges Being Trapped">
+        فقال السنّور ها أنت ترى
+        <lb/>
+
+        ما أنا فيه من الضيق فما موضع مسلكك إيّاي
+      </p>
+
+      <p n="The Rat Points Out Their Common Problem">
+        قال الجرذ
+        <lb/>
+
+        لا أكذب فإنّ الكذب مكروه ولربّما كنت أحبّ أن يضيق
+        <lb/>
+
+        عليك أمرك ويقرب منك أجلك ولكنّه قد نزل بي من الشرّ
+        <lb/>
+
+        ما لا يسرّني معه ضيق مكانك وليس أحد أقدر على تخليصي
+        <lb/>
+
+        من هذه الأمور الذي أنا فيه ومن الهول الذي أشرفت
+        <lb/>
+
+        عليه منك وأنت أيضًا ليس أحد هو أقدر على تخليصك
+        <lb/>
+
+        من هذا المكان منّي
+      </p>
+
+      <p n="The Rat Proves His Sincerity">
+        وأنا على شرف حذر من ابن عرس
+        <lb/>
+
+        والبومة فإنّهما يرصدان وأنا ضعيف لا أطيق دفعها
+        <lb/>
+
+        فإن كنت أنت أمنتني من نفسك وضمنت لي الخلاص من غيرك
+        <lb/>
+
+        ممّن قد اكتنفني ورصدني أنقذتك ممّا أنت فيه وخلّصتك
+        <lb/>
+
+        من وثاقك فانتهز ذلك وعاونّي على خلاصك وخلاص
+        <lb/>
+
+        نفسي
+      </p>
+
+      <p n="Sailors Depend on Ships and Vice Versa">
+        وكما أنّ نجاة الناس من البحر بالسفن ونجاة السفن
+        <lb/>
+
+        بالناس
+      </p>
+
+      <p n="Cooperation Ensures Delivery for Both">
+        فكذلك ترجو أن نصير إليه بالتعاون إلى الخلاص
+        <lb/>
+
+        جميعًا من هذه البليّة
+      </p>
+
+      <p n="The Cat Puts His Trust in the Rat">
+        فلمّا سمع السنّور ذلك من الجرذ علم
+        <lb/>
+
+        أنّه صدق وقال له صدقت وقلت بالحقّ فانظر في الخلاص
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

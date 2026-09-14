@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="96"/>
+
+      <p n="The Ascetic Lodges with a Procuress">
+        ومضى الناسك حتّى دخل المدينة فلم يجدْ بها مأوى إلّا بيت
+        <lb/>
+
+        امرأة خمّار صاحبة بغايا فنزل عليها وكان للمرأة
+        <lb/>
+
+        جارية تؤاجرها
+      </p>
+
+      <p n="The Procuress's Problematic Slave Girl">
+        وكانت الجارية قد علقت رجلًا هي لا تريد
+        <lb/>
+
+        غيره وأضرّ ذلك بها في كسب جاريتها
+      </p>
+
+      <p n="The Procuress's Plot">
+        فاصطنعت على الرجل
+        <lb/>
+
+        صنعًا تريد قتله في تلك الليلة التي ضافت فيها الناسك
+      </p>
+
+      <p n="The Lover is Drugged">
+        فسقت الرجل من الخمر صرفًا حتّى أسكرته ونام مع الجارية
+      </p>
+
+      <p n="The Poisonous Reed Pipe">
+        فلمّا استثقلا نومًا عمدت مولاتها إلى سمّ كانت أعدّته في قصبة
+        <lb/>
+
+        لتنفخه في دبر الرجل
+      </p>
+
+      <p n="The Plot Backfires">
+        فوضعت القصبة على دبر الرجل وفاها
+        <lb/>
+
+        على طرف القصبة لتنفخه في دبر الرجل فبذرها قبل أن تنفخ ريح
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="205"/>
+
+      <p n="unassigned">
+        خلف من ذلك كلّه ولا يجد من النفس خلفًا وشرّ المال ما لا
+        <lb/>
+
+        يُنفق منه وشرّ الأزواج الذي لا توفّي البعل حقّه وشرّ الولد
+        <lb/>
+
+        العاصي وشرّ الإخوان الخاذل وشرّ الملوك الذي تشره نفسه
+        <lb/>
+
+        لما في يد رعيّته وشرّ البلاد بلادًا ليس فيها آمن وإنّه
+        <lb/>
+
+        لا أمن لي ولا طمأنينة لنفسي في جوارك ثمّ ودّع الملك وطار
+        <lb/>
+
+        انتهى باب الملك وطير فترة وما جرى بينهما والله الموفّق للصواب
+      </p>
+
+      <p n="Chapter Title">
+        الباب التاسع
+        <lb/>
+
+        باب الأسد وابن آوى
+      </p>
+
+      <p n="Chapter Function">
+        وهو مثل الملوك فيما بينهم ومراجعة من راجعوه منهم بغير
+        <lb/>
+
+        عقوبة أو جفوة لذنب أذنبه
+      </p>
+
+      <p n="King Understood Previous Chapter">
+        قال الملك ديشلم ملك الهند
+        <lb/>
+
+        لبيدبا الفيلسوف قد سمعت مثل الملك وطير فترة
+      </p>
+
+      <p n="King Asks about Reconciling a Courtier">
+        فاضرب
+        <lb/>
+
+        لي مثل الذي يراجع أحدًا من وزراءه أو أعوانه عن جفوته أو
+        <lb/>
+
+        عقوبته أو جرم أجرمه أو ظلم ظلمه
+      </p>
+
+      <p n="Philosopher Supports Reconciliation of a Courtier">
+        <> إذًا لأضرّ ذلك بالأعمال
+      </p>
+
+      <p n="King to Consider Value of a Suspect">
+        ولكنّ الملوك حقيق أن تنظر في حال من ابتُلي بشيء من ذلك
+        <lb/>
+
+        وما عنده من العناء وما يرجونه من الانتفاع به
+      </p>
+
+      <p n="King to Reconcile the Reliable">
+        فإن كان ممّن
+        <lb/>
+
+        يُستعان به ويُثق برأيه وأمانته كان الملك حقيقًا عليه
+        <lb/>
+
+        الحرص على مراجعته ولم يؤاخذه بذلك
+      </p>
+
+      <p n="Aides Are Essential to Rule">
+        لأنّ المُلك لا يُستطاع
+        <lb/>
+
+        إلّا مع ذوي الرأي من الوزراء والأعيان والأعوان ولا يُنتفع
+        <lb/>
+
+        بالوزراء إلّا بذوي المودّة منهم والرأي الصائب والنصيحة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kb</chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="360"/>
+
+      <p n="unassigned">
+        بما ليس فيك تكلّم فيك في غضبه بما ليس فيك ومن نمّ لك
+        <lb/>
+
+        فقد نمّ عليك فإنّ في ذلك العدل وفي العدل رضا الله سبحانه
+        <lb/>
+
+        وتعالى ورضا الناس تمّ وكمل باب اللبؤة والأسوار
+        <lb/>
+
+        والشفر
+      </p>
+
+      <p n="Chapter Title">
+        وهذا باب الناسك والضيف
+      </p>
+
+      <p n="Chapter Abstract">
+        وهو باب من ترك عملًا يحسنه وتعاطى عملًا
+        <lb/>
+
+        غيره فلم يضبطه ثمّ رجع إلى عمله وقد نسيه قال الملك
+        <lb/>
+
+        للفيلسوف قد فهمت ما
+      </p>
+
+      <p n="King Ask Seek Wrong Work">
+        ذكرت من أمر من يدع ضرّ غيره لضرّ يصيبه
+        <lb/>
+
+        أو بليّة تدخل عليه فأخبرني عمّن يدع عمله الذي يليق به
+        <lb/>
+
+        ويشاكله ويطلب سواه فلا يدركه فراجع الذي
+      </p>
+
+      <p n="Story Ascetic Guest">
+        كان في
+        <lb/>
+
+        يديه فلا يقدر عليه فيبقى حيران متردّد قال الفيلسوف
+        <lb/>
+
+        زعموا أنّه كان في أرض الكيرج ناسك مجتهد فنزل به في ذلك
+        <lb/>
+
+        الزمان ذات يوم ضيف
+      </p>
+
+      <p n="Guest Praise Dates">
+        فدعا الناسك لضيفه بثمر ليطرفه
+        <lb/>
+
+        إيّاه فأكلا منه جميعًا ثمّ إنّ الضيف قال للناسك ما أحلى
+        <lb/>
+
+        هذا الثمر وأطيبه
+      </p>
+
+      <p n="No Palm Trees At Home">
+        وليت في بلادي التي أسكن فيها نخلًا
+      </p>
+
+      <p n="Enough Good Fruit At Home">
+        مع
+        <lb/>
+
+        أنّه إذا لم يكن فإنّ فيها من الثمار ما أكتفي به وأستغني به عن
+        <lb/>
+
+        الثمر وما حاجته من يقدر على التين وما أشبهه من حلو الفاكهة
+        <lb/>
+
+        إلى الثمر فإنّه يجزيه ويقضي به حاجته مع وخامة الثمر وثقله
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lh</chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

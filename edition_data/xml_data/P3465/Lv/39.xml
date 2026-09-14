@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="39"/>
+
+      <p n="Kisra Hears Of K D">
+        من العلم أن يبلغه عن كتاب بالهند
+      </p>
+
+      <p n="K D Book Praise">
+        علم أنّه أصل كلّ أدب ورأس كلّ علم
+        <lb/>
+
+        والدليل على كلّ منفعة ومفتاح عمل الآخرة وعلمها ومعرفة النجاة من
+        <lb/>
+
+        هولها فأمر
+      </p>
+
+      <p n="Kisra Defines Envoy">
+        الملك وزيره برزجمهر أن يبحث له عن رجل أديب عاقل من أهل مملكته
+        <lb/>
+
+        بصير بلسان الفارسيّة ماهر بكلام الهند ويكون بليغًا
+        <lb/>
+
+        باللسانين جميعًا حريصًا على طلب العلم مجتهدًا في استعمال الأدب
+        <lb/>
+
+        مبادرًا في طلب العلم والبحث عن كتب الفلسفة
+      </p>
+
+      <p n="Burzoy Is Selected">
+        فأتاه برجل أديب
+        <lb/>
+
+        كامل العقل والأدب معروف بصناعة الطبّ ماهر بالفارسيّة
+        <lb/>
+
+        والهنديّة يقال له برزويه
+      </p>
+
+      <p n="Burzoy Meets Kisra">
+        فلمّا دخل عليه كفّر له وسجد بين يديه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

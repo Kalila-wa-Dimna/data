@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="167"/>
+
+      <p n="The Leopard Confides in the Lion's Mother">
+        سمع منهما
+      </p>
+
+      <p n="The Mother Goes to the Lion and Finds Him Sad">
+        فانطلقت أمّ الأسد حين أصبحت فدخلت على ابنها
+        <lb/>
+
+        فلمّا رأت حزنه على الثور واهتمامه
+      </p>
+
+      <p n="The Mother Says Grief is Weakening">
+        قالت إنّ الحزن والهمّ لا يردّان
+        <lb/>
+
+        شيئًا لأنّهما يُنحلان الجسم ويُذهبان القوّة ويُضعفان العقل
+      </p>
+
+      <p n="The Mother Criticizes Lion's Grieving">
+        فأعلمني
+        <lb/>
+
+        ما همّك وحزنك فإن كان ممّا ينبغي لك أن تهتمّ به وتحزن له
+        <lb/>
+
+        فلست أنا ولا أحد من جندك يخلو من ذلك وأمّا إن كان ذلك لقتلك
+        <lb/>
+
+        الثور فقد استبان لنا ولك أنّك قتلته ظلمًا على غير جرم كان منه ولا
+        <lb/>
+
+        ذنب ولا إحداث حدث ولا مخالفة لك ولا مظاهرة عليك ولو كنت
+        <lb/>
+
+        فكرّت في أمره قبل قتله وقست ما لك في نفسه ممّا تجد له في نفسك كان
+        <lb/>
+
+        في ذلك معتَبر
+      </p>
+
+      <p n="Love and Hate Are Reciprocal">
+        فإنّه يقال إنّ امرءًا لا يودّ امرءًا ولا يبغضه إلّا وجد له صاحبه في نفسه
+        <lb/>
+
+        مثل ذلك
+      </p>
+
+      <p n="The Mother Asks About the Lion's Feelings Toward the Ox">
+        فأعلمني كيف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

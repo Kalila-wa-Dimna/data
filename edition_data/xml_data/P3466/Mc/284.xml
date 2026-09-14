@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="284"/>
+
+      <p n="The Punishment of Betrayal Comes Swiftly">
+        كان يُقال إنّ أعجل العقوبة عقوبة الغدر واليمين الكاذبة
+        <lb/>
+
+        ومن إذا تضرّع إليه الملهوف أو سأله المذنب العفو والتجاوز
+        <lb/>
+
+        لم يعف ولم يغفر وهو يجد إلى ذلك سبيلًا وإنّه ليس بحافظ
+        <lb/>
+
+        أخلاق الصالحين من لا يعمل أعمالهم
+      </p>
+
+      <p n="The Rat Must Fulfill the Pact">
+        وكما أسرعت أنا في خلاصك
+        <lb/>
+
+        ومعونتك فكذلك أنت حقيق بالاجتهاد في خلاصي من
+        <lb/>
+
+        هذا الوثاق
+      </p>
+
+      <p n="The Two Kinds of Friends">
+        قال الجرذ إنّ الصديق صديقان طائع
+        <lb/>
+
+        ومضطرّ وكلاهما يلتمس المنافع ويحترس من المضارّ فأمّا الطائع
+        <lb/>
+
+        منهما فليسترسل إليه ويؤمن على كل حال
+      </p>
+
+      <p n="Forced Friendship Does Not Last">
+        وأمَّا المضطرّ فإنّ
+        <lb/>
+
+        له حالان يُسترسل اليه فيها وحالان يُتّقى فيها
+      </p>
+
+      <p n="The Intelligent Trades Favors">
+        فلا يزال العاقل
+        <lb/>
+
+        يرتهن منه بعض حاجته ببعض ما يبقي ويخاف
+      </p>
+
+      <p n="Friendship Is Pursued For a Need">
+        وليس عامّة التواصل
+        <lb/>
+
+        والتحابب بين الناس إلاّ لالتماس عاجل النفع ومرجوّه
+      </p>
+
+      <p n="The Rat Explains the Reasons for Self-Protection">
+        وأنا
+        <lb/>
+
+        واف لك بما قلته ومحترس مَع ذلك من أن يصيبني منك ما
+        <lb/>
+
+        هو ألجأني إلى صلحك وألجأك إلى قبول ذلك منّي
+      </p>
+
+      <p n="Everything Has Its Time">
+        فإنّ لكلّ عمل
+        <lb/>
+
+        حينًا
+      </p>
+
+      <p n="Bad Timing Brings Failure">
+        وما لم يكن في حينه فلا عاقبة له
+      </p>
+
+      <p n="The Rat Explains Not Cutting the Last Rope">
+        وأنا قاطع حبائلك كلّها
+        <lb/>
+
+        غير أنّي تارك عقدة واحدة أرتهنك بها فلا أقطعها إلاّ في الساعة
+        <lb/>
+
+        التي أعلم أنّك فيها عنّي مشغول لا تستطيع إدراكي إذا نجوت
+        <lb/>
+
+        من الوثاق
+      </p>
+
+      <p n="The Rat Cuts All but One Rope">
+        ففعل ذلك
+      </p>
+
+      <p n="The Huntsman Approaches">
+        فلمّا أصبحا إذا هما بالصيّاد قد أقبل من بعد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

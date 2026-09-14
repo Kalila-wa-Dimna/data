@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="74"/>
+
+      <p n="Dimna's Advice Against Abandoning Territory">
+        شديد وآفة المسكن الضعيف قلّة الماء والكلأ وآفة المسكن
+        <lb/>
+
+        الخصب الخوف
+      </p>
+
+      <p n="Proverb About Not Fearing All Sounds">
+        لأنّ العلماء قالت إنّه ليس من كلّ الأصوات تجب
+        <lb/>
+
+        الهيبة وأنا أضرب للملك مثلًا
+      </p>
+
+      <p n="Lion's Question About Fearless Sounds">
+        قال الأسد وهو مرتاع وما
+        <lb/>
+
+        ذلك المثل
+      </p>
+
+      <p n="Third Subtale of Fox and Drum">
+        قال دمنة زعموا أنّ ثعلبًا جائعًا مرّ على أجمة
+        <lb/>
+
+        فيها طبل كبير معلّق إلى جانب شجرة وكلّما هبّت الريح جعلت
+        <lb/>
+
+        قضبان الشجرة تضرب على الطبل فيصوّت صوتًا مهولًا شديدًا
+      </p>
+
+      <p n="Fox's Approach to the Loud Sound">
+        فلمّا سمع الثعلب ذلك الصوت توجّه نحوه قاصدًا
+      </p>
+
+      <p n="Fox Splits Drum Expecting Food">
+        فلمّا أتاه
+        <lb/>
+
+        وجده ضخمًا مع عظم صوت فأيقن بنفسه بكثرة الشحم واللحم
+        <lb/>
+
+        فعالجه أشدّ معالجة حتّى شقّه
+      </p>
+
+      <p n="Fox Finds Drum Empty">
+        فوجده أجوفًا فقال لا أدري
+        <lb/>
+
+        لعلّ أفشل الأشياء أعظمها جثّة وأشدّها صوتًا
+      </p>
+
+      <p n="Dimna's Application of the Parable to the Lion's Situation">
+        وإنّما
+        <lb/>
+
+        ضربت لك هذا المثل رجاء أن يكون هذا الصوت الذي راعنا
+        <lb/>
+
+        لو انتهينا إليه لوجدناه أيسر ممّا في أنفسنا
+      </p>
+
+      <p n="Dimna's Offer to Investigate on the Lion's Behalf">
+        وإن شاء الملك
+        <lb/>
+
+        بعثني نحوه وهو يقيم مكانه لأرجع إليه بتبيان ما يحتاج
+        <lb/>
+
+        إليه من علم هذا الصوت
+      </p>
+
+      <p n="Lion's Agreement to Dimna's Proposal">
+        فوافق قوله لما في خاطر الأسد
+        <lb/>
+
+        فأذن له في الذهاب
+      </p>
+
+      <p n="Dimna's Departure to Investigate the Sound">
+        فانطلق دمنة مسرعًا إلى المكان الذي فيه
+        <lb/>
+
+        شنزبة
+      </p>
+
+      <p n="Lion's Regret After Dimna's Departure">
+        فلمّا فصل من عند الأسد فكّر في نفسه وندم حيث
+        <lb/>
+
+        أرسل دمنة
+      </p>
+
+      <p n="Lion's Self-Doubt about Trusting Dimna">
+        وقال في نفسه ما أصبت في ائتماني دمنة على ما
+        <lb/>
+
+        ائتمنته عليه
+      </p>
+
+      <p n="Lion's Concerns about Suffering, Greedy and Malevolent Courtiers">
+        فإنّ الرجل الذي يحضر باب السلطان إذا
+        <lb/>
+
+        كان قد أُضيعت حقوقه من غير جرم كان معيّنًا عليه أو
+        <lb/>
+
+        كان قد أصابه ضرّ وضيق فلم ينعشْه أو كان قد أذنب
+        <lb/>
+
+        فهو يخاف منه أو كان عنده شره وحرص فهو يعمل لذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

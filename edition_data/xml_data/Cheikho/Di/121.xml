@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="121"/>
+
+      <p n="A Man and His Two Wives Become War Captives">
+        مرّةً فقتلوا ممّن كان فيها عالمًا وسبوا نساءهم فاقتسموا السبي فأصاب رجلٌ
+        <lb/>
+
+        من العدوّ رجلًا حرّاثًا مع امرأتين له فكان ذلك الرجل يعرّيهم من الكسوة
+        <lb/>
+
+        ويصوّمهم عن المطعم والمشرب
+      </p>
+
+      <p n="One Wife Blames the Other for Being Naked">
+        فانطلق الحرّاث يومًا من الأيّام مع الرجل
+        <lb/>
+
+        وامرأتيه وهم عراةٌ إلى الجبل ليحتطبوا فوجدت احدى امرأتيه خرقةً فغطّت
+        <lb/>
+
+        عورتها فقالت الأخرى لبعلها ألا تنظر إلى هذه كيف تمشي عريانة
+      </p>
+
+      <p n="The Man/One Wife Tells Other Wife to Cover Herself First/Mind Her Own Nakedness">
+        فقال
+        <lb/>
+
+        زوجها ويلك ألا تبصري تبصرين نفسك فتسترين فتستري من
+        <lb/>
+
+        عورتك مثل ما سترت من عورتها ثمّ تكلّمي
+      </p>
+
+      <p n="Dimna Reviles Courtier">
+        فأمرك أنت أعجب فيما قد عرفت من قذارة جسمك ونجاستك
+        <lb/>
+
+        وجرأتك على ذلك من الدنوّ إلى طعام الملك والقيام عليه وبين يديه كالبريء
+        <lb/>
+
+        من العيب والنقيّ من الدنس
+      </p>
+
+      <p n="Dimna Protected Courtier's Secrets">
+        ولستُ بالمطّلع على عيبك دون أهل العقل من
+        <lb/>
+
+        أهل المجلس ولم يمنعني من إبداء عيبك قبل اليوم إلّا مودّةً كانت بيني
+        <lb/>
+
+        وبينك فكرهت أن أكون أنا المنفرد بإباحته دون الحستة كذا
+      </p>
+
+      <p n="Dimna Now Repays Courtier's Hostility">
+        فأمّا
+        <lb/>
+
+        إذا قد طعنت عليّ وابتدأتني بالظلم لما انطويت عليه من عداوتي وقذفتني
+        <lb/>
+
+        على غير علم بالباطل بمحضر الجند
+      </p>
+
+      <p n="Dimna Says Courtier Deserves Not Even the Lowest Profession">
+        فإنّي قائلٌ بما أعلم من عيبك مبدي
+        <lb/>
+
+        الذي أخفيت من دنسك الذي لم يكن معه داعٍ أن تخدم الملك ولا أن تخدم
+        <lb/>
+
+        الذي تحته
+      </p>
+
+      <p n="Courtier Is Outraged">
+        قال صاحب المائدة ما عسيت أن تعيبني به أيّها الشقي
+      </p>
+
+      <p n="Dimna Calls Courtier Filthy and Leprous and">
+        فقال دمنة إنّي لا أعيبك إلّا بما فيك أعيبك ببرص عجانك
+        <lb/>
+
+        وبقذر رجليك وداء خصيتك
+      </p>
+
+      <p n="Courtier and Audience Are Silenced">
+        فلمّا سمع صاحب المائدة ذلك من دمنة كفّ وكفّ جميع من حضر
+        <lb/>
+
+        الجمع عن القول في شيء من أمره
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded, He Is Returned to Prison; End of First Day of Trial">
+        حتّى أمرت به القضاة فصُرف إلى السجن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

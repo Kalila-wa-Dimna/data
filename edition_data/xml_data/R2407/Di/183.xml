@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="183"/>
+
+      <p n="Dimna's Third Subtale of Plower Who Told His Wife to Cover Herself First">
+        تورّده من هذا الأمر مَثَل رجلٍ قال لامرأته انظري إلى
+        <lb/>
+
+        عورتكي واتركي عورة غيرك
+      </p>
+
+      <p n="Prominent Courtier Requests Tale">
+        قالوا كيف كان ذلك
+      </p>
+
+      <p n="A Man and His Two Wives Become War Captives">
+        قال دمنة زعموا أنّ مدينةً غار عليها العدوّ ونهبها
+        <lb/>
+
+        وأسر من كان بها وفي جملة من أخذوه رجلٌ حرّاثٌ وكان له
+        <lb/>
+
+        امرأتان عريانتان وكان محسنٌ إليهما في الطعام والشراب
+        <lb/>
+
+        والكسوة
+      </p>
+
+      <p n="One Wife Blames the Other for Being Naked">
+        فذهب يومًا ليحطب فرأى الإمرأتين عريانتين
+        <lb/>
+
+        وأصابت إحدتهما خرقة بالية في الفلاة فأخدتها
+        <lb/>
+
+        وسترت بها عورتها فقالت الأخرة القاعدة ألا
+        <lb/>
+
+        ترى هذه التي لا تستحي أن تمشي عريانةً
+      </p>
+
+      <p n="The Man/One Wife Tells Other Wife to Cover Herself First/Mind Her Own Nakedness">
+        فقال زوجها
+        <lb/>
+
+        ويلك لو بدأت بالنظر إلى نفسك فواريتي عورتك فإنّ
+        <lb/>
+
+        جسمك كلّه عريانًا وتنظرين صاحبتك قد
+        <lb/>
+
+        غطّت عورتها
+      </p>
+
+      <p n="Dimna Reviles Courtier">
+        ثمّ إنّك أيّها المفسود القذر القبيح
+        <lb/>
+
+        تعرف من عيوبك نفسك ما يعرفه كلّ أحد
+      </p>
+
+      <p n="Dimna Protected Courtier's Secrets">
+        ولست أنا وحدي
+        <lb/>
+
+        أعرف عيوبك لكن وجميع من حضر يعرف ويعلم ذلك
+        <lb/>
+
+        وقد كان يحجزني عن ذلك وإظهاره ما كان يظهر لي منك و
+        <lb/>
+
+        من الصداقة التي كانت بيني وبينك ولم يكن لي في إظهاره
+        <lb/>
+
+        ولا منفعة واحدة وكنت ساتره كرمًا
+      </p>
+
+      <p n="Dimna Now Repays Courtier's Hostility">
+        فأمّا الآن قد بدا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M487</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="90"/>
+
+      <p n="Kisra Reads Letter">
+        بذلك سرورًا عظيمًا
+      </p>
+
+      <p n="Kisra Fears Fate">
+        وخاف من عاجلة المقادير أن ينغّص عليه ما استعدّ له
+        <lb/>
+
+        وزيره
+      </p>
+
+      <p n="Kisra Praises Burzoys Achievement">
+        فبادر بردّ الجواب إليه يمدحه ويثني عليه
+      </p>
+
+      <p n="Burzoy Confirmed His Excellence">
+        ويذكر فضله على سائر أهل
+        <lb/>
+
+        مملكته
+      </p>
+
+      <p n="Kisra And Subjects Thankful To God">
+        وشكر الله سبحانه على ما أعانه عليه وما أفاد الله على يديه من هذا
+        <lb/>
+
+        الكتاب وأهل مملكته يزدادون له شكرًا
+      </p>
+
+      <p n="Kisra Calls Burzoy Back">
+        وأنا أرجو أن يكمل الله آمالنا بما
+        <lb/>
+
+        وهب الله لنا على يديك فإذا قرأت الكتاب فعجّل القدوم ولا تتأخّر ساعة
+        <lb/>
+
+        واحدة وأسرع بقدومك فإنّي على وجل واعمل بعقلك في ذلك
+      </p>
+
+      <p n="God Loves The Intelligent">
+        فإنّ الله
+        <lb/>
+
+        يحبّ من عباده العقلاء
+      </p>
+
+      <p n="Experience Makes Reason Complete">
+        والعقل لا يتمّ إلّا بالتجربة والصبر والعزم والاجتهاد
+      </p>
+
+      <p n="Kisra Dispatches Letter">
+        وختم الكتاب وسرّحه مع بريد
+      </p>
+
+      <p n="Messanger To Be Vigilant">
+        وأمره بالسير على غير الجادّة ليأمن من يطّلع
+        <lb/>
+
+        فيطّلع على أمره فيفشو سرّه ويذهب عناؤه وعلمه بالذي أصابه باطلًا
+      </p>
+
+      <p n="Burzoy Returns To Persia">
+        فلمّا انتهى الرسول إلى برزويه ودفع إليه الكتاب سرًّا فقرأه ولم يلبث
+        <lb/>
+
+        أن توجّه نحو كسرى من ساعته والكتاب بصحبته
+      </p>
+
+      <p n="Burzoy Rejoins Kisra">
+        فلمّا وافى برزويه باب
+        <lb/>
+
+        الملك
+      </p>
+
+      <p n="Burzoys Exhaustion Shows">
+        رأى ما قد لحقه ومسّه من التعب والنصب والتخوّف
+      </p>
+
+      <p n="Kisra Announces Reward">
+        قال له أيّها
+        <lb/>
+
+        العبد الفاضل الناصح الذي يأكل من ثمرة ما قد غرس طيّبًا أبشر وقرّ عينًا
+        <lb/>
+
+        فإنّك ممّن قد أوجب علينا الشكر وأنا مشرّفك وبالغ بك أرفع درجة
+      </p>
+
+      <p n="Kisra Orders Rest">
+        وأمره
+        <lb/>
+
+        أن يقيم في منزله سبعة أيّام ويدخل على الملك إذا استراح ورجعت إليه نفسه
+      </p>
+
+      <p n="Kisra Holds K D Public Reading">
+        فلمّا كان في اليوم السابع أمر الملك أن يجمع إليه الأشراف والعلماء من سائر الناس
+        <lb/>
+
+        فلمّا اجتمعوا وحضروا عند الملك أمر بالكتب التي قدّم برزويه ففُتحت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

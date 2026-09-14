@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="345"/>
+
+      <p n="A Donkey Loses His Ears">
+        من ينبت له قرنين فقُطعت أذناه
+      </p>
+
+      <p n="King W Requests the Tale of the Donkey">
+        قال الملك وكيف كان
+        <lb/>
+
+        الو ذلك
+      </p>
+
+      <p n="The Donkey Becomes Cocky">
+        قال الوزير زعموا أنّ إنسانًا كان عنده حمار وكان
+        <lb/>
+
+        يوسّع عليه في العلف فسمن وكلب وهاج
+      </p>
+
+      <p n="The Donkey Sees a Jenny">
+        فقاده يومًا إلى
+        <lb/>
+
+        نهر ليسقيه فرأى أتانة فسق وهاج وأدلى ونهق فلمّا
+        <lb/>
+
+        رأى صاحبه هيجانه خشي أن ينقلب منه فربطه إلى شجرة
+        <lb/>
+
+        كانت على شاطئ النهر وذهب إلى صاحب الأتانة قال
+        <lb/>
+
+        له ارددْ أتانتك لئلا يضرّها حماري ففعل وذهب
+        <lb/>
+
+        بها
+      </p>
+
+      <p n="The Donkey Ponders about Phallus">
+        فبقي الحمار يدور حول رأسه الشجرة وهو في شدّة
+        <lb/>
+
+        من الشقّ وكثر هيجانه فبينما هوّ يدور إذ طأطأ رأسه
+        <lb/>
+
+        فنظر إلى إحليله وشدّة توتيره فقال في نفسه هذه تصلح
+        <lb/>
+
+        للفرسان والقتال
+      </p>
+
+      <p n="The Donkey Sees It As a Weapon">
+        ولكن لا فائدة فيها وحدها
+        <lb/>
+
+        وليس لي شيء غيرها من أنواع السلاح ومع هذا فليس
+        <lb/>
+
+        أنا ماهر في الفروسيّة
+      </p>
+
+      <p n="Donkey Imagines Exploits Involving a Spear">
+        فإذا كنت قادرًا على هذا فيا ليت
+        <lb/>
+
+        شعري إذا اتّفق لي رمح كما أشتهي فإنّي لا أُردّ من مائة
+        <lb/>
+
+        فارس ولا أبالي بهم
+      </p>
+
+      <p n="The Donkey Wants to Escape Misery">
+        ولكنّ سبيلي أن أجتهد في تحصيل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

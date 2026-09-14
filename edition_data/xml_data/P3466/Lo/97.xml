@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="97"/>
+
+      <p n="The Plot Backfires">
+        خرجت من دبر الرجل فطار السمّ في حلق البغي فوقعت ميّتة
+        <lb/>
+
+        وكلّ ذلك يسمع الناسك وبصره
+      </p>
+
+      <p n="The Ascetic Seeks New Lodging">
+        فلمّا أصبح الناسك مضى متوجّهًا
+        <lb/>
+
+        نحو منزل غير ذلك
+      </p>
+
+      <p n="The Ascetic and the Shoemaker">
+        فأضافه رجل إسكاف فقال
+        <lb/>
+
+        الإسكاف لامرأته انظري هذا الناسك فأكرميه
+        <lb/>
+
+        وأحسني إليه واخدميه فقد دعاني بعض إخواني
+        <lb/>
+
+        إلى
+      </p>
+
+      <p n="The Shoemaker Departs">
+        الشرب عنده وانطلق الإسكاف
+      </p>
+
+      <p n="The Shoemaker's Adulterous Wife">
+        وكانت
+        <lb/>
+
+        امرأته قد علقت رجلًا وكان الرسول بينهما امرأة
+        <lb/>
+
+        حجّام
+      </p>
+
+      <p n="The Wife Summons Her Lover">
+        فأرسلت امرأة الإسكاف إلى امرأة الحجّام
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

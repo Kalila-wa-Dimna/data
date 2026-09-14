@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="122"/>
+
+      <p n="Leopard &amp; Judge Bring Lion the Court Records Who Has Them Copied">
+        فلمّا أصبح الأسد من الغد دخل عليه القاضي وطائفةٌ من وجوه
+        <lb/>
+
+        أصحابه بكتاب ما قال دمنة في مغاديره معاذيره فقبض الأسد ذلك
+        <lb/>
+
+        الكتاب وأمرهم بالانصراف عنه
+      </p>
+
+      <p n="Lion Reads Court Records to Mother">
+        ثمّ أرسل إلى أمّه فقرأ عليها ذلك الكتاب
+      </p>
+
+      <p n="Mother Alerts Lion of His Own Benefit and Motivates Her Harsh Words">
+        فشقّ عليها وقالت إن أنا
+        <lb/>
+
+        أغلظت لك أيّها الملك فلا تغضب
+        <lb/>
+
+        قال الأسد لست أغضب فقولي ما أحببت
+        <lb/>
+
+        قالت ما أراك تعرف ما يضرّك ممّا ينفعك وإنّي لأحسب دمنة في
+        <lb/>
+
+        طول تصريفك النظر في أمره سيهيج عليك ما لا تقعد له ولا تقوم
+        <lb/>
+
+        ثمّ قامت فخرجت وهي غضبانة
+      </p>
+
+      <p n="Men Take Dimna Before Court">
+        فلمّا كان في الغد بعث القاضي إلى
+        <lb/>
+
+        دمنة فأخرجه
+      </p>
+
+      <p n="Judge Consults Scholars on Kalila">
+        وشاور عليه العلماء فلم يقولوا فيه شيئًا
+      </p>
+
+      <p n="Judge Deems Court Members' Silent Thoughts to Be Sufficient Proof">
+        فقال له القاضي إنّه وإن سكت جميع من حضرك فلم يقولوا شيئًا فإنّ
+        <lb/>
+
+        ظنونهم قد اجتمعت على أنّك مجرمٌ ولا خير لك في الحياة بعد استقرار
+        <lb/>
+
+        تهمتك في قلوبهم
+      </p>
+
+      <p n="Judge Enjoins Dimna to Confess">
+        فلا أرى شيئًا خيرًا لك من الإقرار بذنبك
+      </p>
+
+      <p n="Confessing Crime Has Good Consequences">
+        فتخرج
+        <lb/>
+
+        لعتقك من تبعة الآخرة ويعود لك حسن قولٍ في أمرك لخصلتين إحداهما
+        <lb/>
+
+        قوّتك على المخارج وافتعال المغادير المعاذير التي تدفع عن نفسك
+        <lb/>
+
+        والأخرى إقرارك بذنبك اختيارًا للسلامة في الآخرة عن سلامة الدنيا
+      </p>
+
+      <p n="Death Deserved Is Better Than Life With Crime">
+        فإنّ
+        <lb/>
+
+        العلماء قد قالت إنّ الموت فيما يجمل خيرٌ من الحياة فيما يقبح
+      </p>
+
+      <p n="A Judge Must Not Pass Verdict Based on Uncertain Thoughts">
+        فأجابه دمنة فقال إنّ القضاة لا تقضي بظنونها ولا بظنون العامّة ولا
+        <lb/>
+
+        الخاصّة وقد علمت أنّ الظنّ لا يغني من الحقّ شيئًا
+      </p>
+
+      <p n="Dimna's Knowledge of His Own Innocence Is Certainty">
+        فإنّي وإن ظننتم جميعًا
+        <lb/>
+
+        أنّي صاحب هذا الجرم فإنّي أعلم بنفسي منكم وعلمي بنفسي يقين لا شكّ
+        <lb/>
+
+        فيه
+      </p>
+
+      <p n="Dimna's False Confession Would Take Away His Excuse, Be Unjust to His Soul, and Violate His Faith and Character">
+        وإنّما قبح أمري في أنفسكم إن كنتم كذلك لأنّكم ظننتم أنّي سعيت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

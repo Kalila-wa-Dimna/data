@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="261"/>
+
+      <p n="The City Is Ruled by a Rat King">
+        في تلك المدينة جرذ يُسمّى مهرار وكان متملّكًا على جميع الجرذان
+        <lb/>
+
+        التي في تلك المدينة ورساتيقها
+      </p>
+
+      <p n="The Rat King Has Three Viziers">
+        وكان له ثلاث وزراء
+        <lb/>
+
+        يشاورهم في أموره يُسمّى أحدهم زودليد وكان ذو
+        <lb/>
+
+        عقل وحكمة وكان الملك معتزًّا بفضله ويُسمّى الآخر
+        <lb/>
+
+        شيرع والثالث بغداد
+      </p>
+
+      <p n="They Discuss the Threat of the Cats">
+        فحضروا يومًا وتفاوضوا في أشياء
+        <lb/>
+
+        كثيرة إلى أن انتهى بهم الكلام إلى أن قالوا هل في استطاعنا
+        <lb/>
+
+        أن نزيل عنّا ما قد توارثناه من أسلافنا من الفزع والخوف
+        <lb/>
+
+        من السنانير أم لا يمكن ذلك
+      </p>
+
+      <p n="One Should Leave the Past and Act for the Future">
+        فبدأ الملك وقال سمعت
+        <lb/>
+
+        من الحكماء أنّه ينبغي للإنسان أن ينظر في نفسه وولده وأهله في
+        <lb/>
+
+        أمرين ويستشير النصحاء فأمّا أحدهما لا يفكّر فيما مضى
+        <lb/>
+
+        وفات من المنافع والمضارّ ولا يفكّر فيما يسلف منها والثاني
+        <lb/>
+
+        أن لا يكون يخشى أن يتمسّك بما يناله من المنافع ويحتال في
+        <lb/>
+
+        دفع المضارّ عنه
+      </p>
+
+      <p n="Cats Are the Only Concern">
+        ونحن بما قد سلف من أفعال آبائنا وأسلافنا
+        <lb/>
+
+        الجميلة في نِعم سابغة وراحة دائمة وما لنا إّلا غمّ واحد
+        <lb/>
+
+        وهو لعمري أشدّ من غمّ وهمّ وهو ممّا يدخل علينا من المضارّ
+        <lb/>
+
+        والخوف من السنانير
+      </p>
+
+      <p n="A Strategy Is Needed to Dispel the Fear">
+        ولكنّ سبيلنا أن نحتال له بحيلة
+        <lb/>
+
+        ما فات من أسلافنا وإن كانوا قد طلبوا لذلك حيلًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

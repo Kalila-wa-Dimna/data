@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="56"/>
+
+      <p n="The Maxim of the Unknown Guest">
+        ولا تعرف أخلاقه فلا تأمنه على نفسك أن يصل إليك منه أو بسببه ضرر كما أصاب القملة
+        <lb/>
+
+        من ضيافة البرغوث
+      </p>
+
+      <p n="The Lion Asks for the Tale of the Louse">
+        قال له الأسد وكيف كان ذلك
+      </p>
+
+      <p n="The Story Begins: The Louse on the Rich Man's Bed">
+        قال له دمنة زعموا أنّ قملة لزمت
+        <lb/>
+
+        فراش رجل زمانًا فكانت تصيب منه كلّ يوم قوتها لأنّها كانت تدبّ عليه دبيبًا رفيقًا فأقامت
+        <lb/>
+
+        على ذلك زمانًا
+      </p>
+
+      <p n="The Louse Invites a Flea to Stay">
+        فاستضافها برغوث ذات ليلة فقالت له القملة بتّ الليلة عندي
+        <lb/>
+
+        في مكان طيّب وفراش ليّن
+      </p>
+
+      <p n="The Flea Bites the Man Sharply">
+        فأقام البرغوث عندها حتّى نام الرجل على فراشه
+        <lb/>
+
+        فلمّا نام وثب عليه البرغوث فلدغه لدغة شديدة فآلمت الرجل واستيقظ
+        <lb/>
+
+        من منامه فزعًا مرعوبًا
+      </p>
+
+      <p n="The Flea Escapes and the Louse is Killed">
+        وأمر زوجته أن تفتّش الإزار الذي كان نائمًا فيه فهرب
+        <lb/>
+
+        البرغوث ونجا بنفسه وبقيت القملة فأخذوها وقتلوها
+      </p>
+
+      <p n="Dimna Applies the Parable's Moral: The Danger of Bad Company">
+        وإنّما ضربت لك
+        <lb/>
+
+        هذا المثل لتعلم أنّ صاحب الشرّ لا يسلم أحد من شرّه وإن كنت لا تخف من الثور فخف
+        <lb/>
+
+        من غيره من جندك الذين قد حملهم على عدواتك وجرّأهم عليك فلا تأمنه ولا
+        <lb/>
+
+        تكل أمرك إلى غيرك
+      </p>
+
+      <p n="The Lion is Convinced by Dimna">
+        قال فوقع في قلب الأسد كلام دمنة وعظم ذلك
+      </p>
+
+      <p n="The Lion Asks for Dimna's Counsel">
+        فقال
+        <lb/>
+
+        له الأسد ماذا ترى وماذا تشير عليّ به
+      </p>
+
+      <p n="Dimna's Advice: Remove the Threat Like a Bad Tooth">
+        قال له دمنة إنّ صاحب الضرس المأكول
+        <lb/>
+
+        المألوم لا يزال صاحبه في أذىً منه حتّى يقلعه وكذلك الطعام الذي تغثا منه النفس
+        <lb/>
+
+        فإنّ راحتها في قذفه وكذلك العدوّ المخوف دواؤه
+      </p>
+
+      <p n="The Lion Decides to Confront Shatraba">
+        قال الأسد لقد تركتني يا دمنة
+        <lb/>
+
+        كارهًا في صحبة الثور لكنّي أرسل له وأذكر له بعض ما وقع في نفسي وآمره باللحوق
+        <lb/>
+
+        حيث أراد
+      </p>
+
+      <p n="Dimna Fears His Plot Will Be Exposed If They Talk">
+        قال فكره دمنة ذلك منه وعلم أنّ الأسد إن هو كلّم الثور بذلك ربمّا
+        <lb/>
+
+        فسد عمله وذهبت حيلته
+      </p>
+
+      <p n="Dimna Advises Against Confronting Shatraba">
+        فقال له دمنة ما أرى لك أيّها الملك في ذلك حزمًا
+        <lb/>
+
+        ولا رأيًا فإنّه لا يزال من رأيك الخيار ما دام أنّه لا يعلم أنّ أمره قد وصل إليك
+      </p>
+
+      <p n="Dimna Warns Confrontation Will Give Shatraba an Advantage">
+        فإنّه إن علم بذلك خفيت عليك أنّه يكاسرك بمكيدة أو حيلة فإن قاتلك قاتلك
+        <lb/>
+
+        وهو مستعدّ وإن فارقك فارقك وهو مقتدر على ذلك
+      </p>
+
+      <p n="The Maxim of Secret vs. Public Punishment">
+        مع أنّ ذوي الرأي
+        <lb/>
+
+        من الملوك لا يعملون العقوبة إلّا لمن ظهر ذنبه ولكلّ ذنب عقوبة لذنب السرّ عقوبة
+        <lb/>
+
+        ولذنب العلانيّة عقوبة
+      </p>
+
+      <p n="The Lion's Concern About Punishing on Suspicion">
+        قال له الأسد إنّ الملك إذا عاقب أحدًا أو أهانه من غير
+        <lb/>
+
+        يقين فإنّما عاقب نفسه وأهانها
+      </p>
+
+      <p n="Dimna's Advice: Be Prepared for Shatraba's Visit">
+        قال دمنة أمّا أنا أشير عليك أن لا تدع الثور
+        <lb/>
+
+        يدخل عليك بعد اليوم إلّا وأنت مستعدّ له ولا تريه أنّك قد ارتبت منه
+      </p>
+
+      <p n="Dimna Describes the Signs of Shatraba's Treachery">
+        فإنّي لا
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

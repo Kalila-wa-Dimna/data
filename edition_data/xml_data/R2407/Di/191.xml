@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="191"/>
+
+      <p n="Mother Persuades Leopard to Testify">
+        ومعاونته على الحقّ
+      </p>
+
+      <p n="Withholding Testimony About a Deceased Is Sin">
+        فإنّ العلماء قد قالوا من كتم
+        <lb/>
+
+        حجّة ميّتٍ أخطأ حجّته يوم القيامة
+      </p>
+
+      <p n="Leopard Testifies on Mother's Order">
+        ولم تزل به
+        <lb/>
+
+        حتّى قام من ساعته ودخل على الأسد وشهد
+        <lb/>
+
+        على دمنة بما سمع من أقذاره
+      </p>
+
+      <p n="Fellow Prisoner Testifies">
+        فلمّا شهد النمر بذلك أرسل
+        <lb/>
+
+        إلى الذي كان سمع حديثه في الحبس وكليله يعاتبه
+        <lb/>
+
+        وتوبّخه على مشيه بين الأسد والثور بالنميمة والزور
+        <lb/>
+
+        فشهد بما سمع من إقراره وما تكلّم به دمنة واعترافه
+      </p>
+
+      <p n="Lion Inquires Why Fellow Prisoner Had Withheld Testimony">
+        فقال لهم الأسد ما منعكما أن تقوما بشهادتكما وقد
+        <lb/>
+
+        عرفتم البحث عن أمره
+      </p>
+
+      <p n="Fellow Prisoner Explains Invalidity of His Single Testimony">
+        فقالوا إنّ شهادة الواحد
+        <lb/>
+
+        لا توجب حُكمًا وكلّ واحدٍ منّا شهد بما سمع بانفراد
+        <lb/>
+
+        في غير وقتٍ واحدٍ
+      </p>
+
+      <p n="Lion Orders Dimna to Be Killed">
+        فقبل الأسد مقالتهما وما شهدا
+        <lb/>
+
+        به وأمر بدمنة أن يُقتل في مجلسه جوعًا وعطشًا
+        <lb/>
+
+        فمات أشرّ موتة
+      </p>
+
+      <p n="End of Chapter">
+        والله أعلم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

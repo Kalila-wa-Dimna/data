@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="65"/>
+
+      <p n="The Merchant Forfeits Trust">
+        ولا تجاوزت القياس وقد اعترفت بذنبي وخطائي عليك وعزيز عليّ أن يكون
+        <lb/>
+
+        هذا كهذا غير أنّ النفس الرديئة تأمر بالفحشاء فقبل الرجل معذرته وأضرب عن
+        <lb/>
+
+        توبيخه وعن الثقة به وندم هو عند ما عاين من سوء فعله وتقديم جهله
+      </p>
+
+      <p n="The Reader Should Examine the Parables Carefully">
+        وقد ينبغي للنّاظر في كتابنا هذا أن لا تكون غايته التصفّح لتزاويقه بل يتشرّف
+        <lb/>
+
+        على ما يتضمّن الأمثال حتّى يأتي على آخره
+      </p>
+
+      <p n="The Reader Should Discern the Aim">
+        ويقف عند كلّ مثل وكلمة فيعمل فيها
+        <lb/>
+
+        رويّته
+      </p>
+
+      <p n="Two Brothers Waste Bequeathed Wealth">
+        ويكون مثله كالإخوة الثلاثة الذين خلّف لهم أبوهم المال الكثير فتنازعوا
+        <lb/>
+
+        بينهم فأمّا الاثنان الكبيران فإنّهما أسرعا في إتلافه وإنفاقه في غير وجهه
+      </p>
+
+      <p n="The Youngest Brother Weighs the Situation">
+        وأمّا الصغير فإنّه عندما نظر ما صار إليه أخواه من إسرافهما وتخلّيهما
+        <lb/>
+
+        من المال أقبل على نفسه يشاورها
+      </p>
+
+      <p n="The Youngest Reflects on Wealth">
+        وقال يا نفس إنّما المال يطلبه صاحبه ويجمعه
+        <lb/>
+
+        من كلّ وجه لبقاء حاله وصلاح معاشه ودنياه وشرف منزلته في أعين الناس
+        <lb/>
+
+        واستغنائه عمّا في أيديهم وصرفه في وجهه من صلة الرحم والإنفاق على الولد
+        <lb/>
+
+        والإفضال على الإخوان إذ لم يتولّده
+      </p>
+
+      <p n="Allocating Wealth Poorly is Poverty">
+        فمن كان له مال ولا ينفقه في حقوقه كالذي
+        <lb/>
+
+        يعدّ فقيرًا وإن كان موسرًا
+      </p>
+
+      <p n="A Wealth Well Spent Brings Praise">
+        وإن هو أحسن إمساكه والقيام عليه لم يعدم الأمرين
+        <lb/>
+
+        جميعًا من دنيا تبقي عليه وحمد انضاف إليه
+      </p>
+
+      <p n="False Spending Brings Regret">
+        ومتى قصد بإنفاقه على
+        <lb/>
+
+        الوجوه التى حدّت لم يلبث أن يتلفه ويبقى عليه حسرة عظيمة
+      </p>
+
+      <p n="The Youngest Brother Decides To Help">
+        عنّ الرأي فأنا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

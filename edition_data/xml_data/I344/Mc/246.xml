@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="246"/>
+
+      <p n="The Two Kinds of Friends">
+        وماله
+      </p>
+
+      <p n="Forced Friendship Does Not Last">
+        وأمّا الخليل الذي اضطرّ إلى مودّة صاحبه فربّما
+        <lb/>
+
+        تمّت المودّة بينهما وكثيرًا ما تنفسخ فلا تهنأ ولا تتمّ
+      </p>
+
+      <p n="The Intelligent Protects Himself">
+        ولكن ينبغي للعاقل أن يحفظ لسانه وإنّ الذي يصالح
+        <lb/>
+
+        العدوّ ويثق العدوّ ويعمل عمله ولا يحفظ نفسه منه
+      </p>
+
+      <p n="Trusting a Foe Is Like Eating Bad Food">
+        يكون صلحه ذلك كالذي يأكل العظام فيتبع هوى
+        <lb/>
+
+        نفسه فتضعف عن هضمه قوّته وحقدته
+      </p>
+
+      <p n="The Rat Acknowledges His Remaining Obligation">
+        وقد فضّلت
+        <lb/>
+
+        عملي وبقي عليّ
+      </p>
+
+      <p n="Everything Has Its Time">
+        ولكلّ عمل حين ينبغي أن يُعمل فيه
+      </p>
+
+      <p n="Bad Timing Brings Failure">
+        ومن لم
+        <lb/>
+
+        يعمل العمل في حينه لم ينتفع بثمرة عمله
+      </p>
+
+      <p n="The Rat Explains Not Cutting the Last Rope">
+        وأنا قاطع
+        <lb/>
+
+        وثاقك وتاركًا سلكًا واحدًا لا أقطعه أرتهنك به
+        <lb/>
+
+        لتقطعه أنت حتّى لا تستطيع إدراكي إذا أفلتّ من
+        <lb/>
+
+        الوثاق
+      </p>
+
+      <p n="The Huntsman Approaches">
+        فلمّا أصبحا وجاء الصيّاد إلى ذلك المكان
+      </p>
+
+      <p n="The Cat Expects to Die">
+        استقبل
+        <lb/>
+
+        السنّور
+      </p>
+
+      <p n="The Cat Breaks from the Last Rope">
+        ونظر إلى الجرذ وقد ترك السلك الواحد فلم
+        <lb/>
+
+        يقطعه فجذب الشرك الواحد وهو لا يطمع في قطعه
+        <lb/>
+
+        فانقطع السلك
+      </p>
+
+      <p n="The Cat and the Rat Escape">
+        ونجوا جميعًا فصعد السنّور في الشجرة
+        <lb/>
+
+        ودخل الجرذ في الجحر وانطلق الصيّاد ممّا هنالك
+      </p>
+
+      <p n="The Cat Calls Back the Rat">
+        ثمّ إنّ الجرذ أراد الخروج من الجحر فرأى السنّور
+        <lb/>
+
+        فلم يقربه فصاح به السنّور
+      </p>
+
+      <p n="The Cat Reminds the Rat of their Friendship">
+        لم لا تدنو منّي يا خليلي
+        <lb/>
+
+        المنعم عليّ
+      </p>
+
+      <p n="The Cat Suggests a Reward">
+        فإنّي أحبّ أن أكافئك على إحسانك إليّ
+        <lb/>
+
+        وأطعمك ثمرة عملك فادن منّي
+      </p>
+
+      <p n="The Cat Reassures the Rat">
+        ولا تخف فما نفسي بأعزّ
+        <lb/>
+
+        عليّ من نفسك وحلف له أن لا يبغيه شرّ
+      </p>
+
+      <p n="The Treatment of Friends or Foes">
+        قال الجرذ إنّ الذي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

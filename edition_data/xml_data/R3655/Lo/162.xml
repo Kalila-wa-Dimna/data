@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="162"/>
+
+      <p n="Dimna's Response and Ambition">
+        تُحشى بكلّ مكان
+      </p>
+
+      <p n="Superior People Approaching Kings">
+        ولكنّه يلتمس أن يسرّ الصديق ويسوء العدوّ
+        <lb/>
+
+        فأدنى الناس وأضعفهم مروءة هم الذين يرضون بالقليل ويفرحون به
+      </p>
+
+      <p n="Analogy of Dog and Bone">
+        كالكلب الذي يصيب عظمًا يابسًا فيفرح به
+      </p>
+
+      <p n="Contrast Between Ambitious and Content">
+        فأمّا أهل المروءة والفضل
+        <lb/>
+
+        فلا يغنيهم القليل ولا يفرحون به دون أن تسموا أنفسهم إلى ما هم له
+      </p>
+
+      <p n="Lion's Hunting Behavior Analogy">
+        كالأسد الذي يفترس الأرنب فإذا رأى العنز ترك الأرنب وطلب
+        <lb/>
+
+        العنز
+      </p>
+
+      <p n="Contrast Between Dog and Elephant Behavior">
+        ألا ترى الكلب يبصبص بذنبه مرارًا حتّى تُلقى له الكسرة وأنّ
+        <lb/>
+
+        الفيل المغتلم تُعرف قوّته وفضله فإذا قُدّم إليه علفه مكرّهًا لم يأكله
+        <lb/>
+
+        حتّى يُمسح ويُتملّق له
+      </p>
+
+      <p n="Life Perspectives on Success and Failure">
+        فمن عاش ما عاش غير خامل المنزلة ذا فضل على نفسه وأصحابه
+        <lb/>
+
+        فهو وإن قلّ عمره طويل العمر ومن كان عيشه في وحدة وضيق وقلّة خير
+        <lb/>
+
+        على نفسه والناس فهو وإن طال عمره قليل العمر
+      </p>
+
+      <p n="Definition of True Misery">
+        فإنّه يُقال البائس
+        <lb/>
+
+        من طال عمره في ضرّ
+      </p>
+
+      <p n="Comparison to Animals">
+        ويُقال لَيُعدّ من الغنم والبقر من لم تكن له همّة إلّا بطنه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

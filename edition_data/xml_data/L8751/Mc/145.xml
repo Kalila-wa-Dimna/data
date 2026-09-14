@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="145"/>
+
+      <p n="Good Deeds Erase Bad Deeds">
+        الإحسان الخلال الكثيرة من الإساءة
+      </p>
+
+      <p n="The Punishment of Betrayal Comes Swiftly">
+        وأعجل العقوبة عقوبة الغدر في الأيمان
+        <lb/>
+
+        الكاذبة ومن إذا تُضرّع إليه وسُئل العفو لم يعف
+      </p>
+
+      <p n="The Two Kinds of Friends">
+        قال الجرذ إنّ الصديق
+        <lb/>
+
+        صديقان طائع ومضطرّ وكلاهما يلتمس المنافع ويحترس من المضارّ فأمّا الطائع منهما
+        <lb/>
+
+        فيُسترسل إليه ويُعمل له على كلّ حال
+      </p>
+
+      <p n="Forced Friendship Does Not Last">
+        وأمّا المضطرّ فإنّ له حالات يُسترسل إليه فيها
+        <lb/>
+
+        وحالات تبقى فيها
+      </p>
+
+      <p n="The Intelligent Trades Favors">
+        ولا يزال العاقل يرتهن منه بعض حاجته ببعض ما قد تبقّى ويخاف
+      </p>
+
+      <p n="Friendship Is Pursued For a Need">
+        وليس
+        <lb/>
+
+        التواصل والتحابب بين الخلق إلّا لالتماس عاجل النفع أو
+      </p>
+
+      <p n="The Rat Explains the Reasons for Self-Protection">
+        مؤخّره وأنا أوافي لك بما
+        <lb/>
+
+        جعلت لك ومحترس من ذلك أن يصيبني منك ما ألجأني إلى صُلحك
+      </p>
+
+      <p n="Everything Has Its Time">
+        فإنّ لكلّ عمل حينًا
+      </p>
+
+      <p n="Bad Timing Brings Failure">
+        وما لا يكن في حينه فلا عاقبة له
+      </p>
+
+      <p n="The Rat Explains Not Cutting the Last Rope">
+        وأنا قاطع حبائلك لحينها غير أنّي تارك عقدة
+        <lb/>
+
+        أرتهنها منك فلا أقطعها إّلا في الساعة التي أعلم أنّك عنّي فيها مشغول
+      </p>
+
+      <p n="The Rat Cuts All but One Rope">
+        ففعل ذلك
+      </p>
+
+      <p n="The Huntsman Approaches">
+        فلمّا أصبحا إذا هما بالصيّاد قد أقبل من بعيد
+      </p>
+
+      <p n="The Rat Resolves to Cut the Last Rope">
+        فقال الجرذ الآن جاء موضع الجدّ في قطع
+        <lb/>
+
+        حبائلك
+      </p>
+
+      <p n="The Rat Fulfills the Pact">
+        فلم يدنو الصيّاد حتّى فرغ الجرذ على سوء ظنّ من السنّور ودهش
+      </p>
+
+      <p n="The Cat and the Rat Escape">
+        فلمّا فرغ عدا
+        <lb/>
+
+        إلى الشجرة وصعدها وانجحر الجرذ وأخد الصيّاد حبائله مقطوعة
+      </p>
+
+      <p n="The Cat Calls Back the Rat">
+        وخرج الجرذ بعد
+        <lb/>
+
+        ذلك من حجره فرأى السنّور من بعيد فكره أن يدنو منه فناداه السنّور أيّها الصديق
+        <lb/>
+
+        ذي البلاء الحسن
+      </p>
+
+      <p n="The Cat Reminds the Rat of their Friendship">
+        ما يمنعك من الدنوّ لأجزيك بأحسن ما بليتني هلمّ إليّ ولا تقطع إخائي
+      </p>
+
+      <p n="If One Gives Up a Friend One Loses Out">
+        فإنّه من اتّخذ صديقًا وأضاع صداقته حُرم ثمرة الإخاء وأيس من نفعه الإخوان
+      </p>
+
+      <p n="The Cat Suggests a Reward">
+        وإنّ يدك عندي اليد التي لا تُنسى وأنت حقيق أن تلتمس مكافأة ذلك منّي ومن
+        <lb/>
+
+        صداقتي
+      </p>
+
+      <p n="The Cat Reassures the Rat">
+        فلا تخافنّ شيئًا واعلم أنّ ما قِبلي لك مبذول ثمّ حلف واجتهد على أن يصدّقه
+        <lb/>
+
+        بما قال
+      </p>
+
+      <p n="The Rat Distinguishes Hidden from Overt Enmity">
+        فأجابه الجرذ إنّه ربّ عداوة باطنة ظاهرها صداقة وهي أشدّ من العداوة الظاهرة
+      </p>
+
+      <p n="Riding an Elephant's Tusk">
+        ومن لم يحترس منها وقع في موقع الرجل الذي يركب ناب الفيل المغتلم ثمّ يغلبه النعاس
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

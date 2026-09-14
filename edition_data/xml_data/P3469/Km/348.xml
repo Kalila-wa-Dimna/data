@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="348"/>
+
+      <p n="The Stag's Owner Chases the Donkey Away">
+        يأخذ هذا الحمار وقال إن أنا أخذته اقتتلا ولا أقدر على
+        <lb/>
+
+        ضبطهما معًا فردّ الحمار على الأريل فراغ روغة
+      </p>
+
+      <p n="The Donkey Approaches Again">
+        ثمّّ عاد إلى
+        <lb/>
+
+        الأيل يماشيه والتفت صاحب الأريل وجد الحمار وقد
+        <lb/>
+
+        عاد فضربه بعصا كانت في يده فهرب ثمّ عاد وطرده
+        <lb/>
+
+        مرارًا وهو يعود إليه
+      </p>
+
+      <p n="The Donkey Bites the Stag's Owner">
+        ثمّ إنّ الحمار قال ما يمنعني عن مصاحبة
+        <lb/>
+
+        الأريل والمشي معه إلّا هذا الرجل وما تمّ إلّا أن أقتله
+        <lb/>
+
+        عنه ليرى الأريل فروسيّتي ويرغب في خدمتي وكدمه
+        <lb/>
+
+        فضربه الرجل بالعصا ضربة وجيعة
+      </p>
+
+      <p n="The Stag's Owner Cuts the Donkey's Ears">
+        وقال إن أنا أخذته
+        <lb/>
+
+        لم آمن من بليّة هيجانه ولكنّي أعمل فيه علامة حتى إذا رأيته
+        <lb/>
+
+        مع صاحبه طالبته بثأري فأخرج سكين معه وقطع بها
+        <lb/>
+
+        أذني الحمار
+      </p>
+
+      <p n="The Donkey Is Punished upon Return">
+        فلمّا رأى ما حلّ به وكيف خسر ذلّ وفرّ من
+        <lb/>
+
+        الرجل هاربًا إلى دار صاحبه وكان الذي نزل به من
+        <lb/>
+
+        صاحبه أشدّ من الذي من الذي أصابه من
+      </p>
+
+      <p n="unassigned">
+        قطع أذنيه
+      </p>
+
+      <p n="The Donkey Recognizes His Ancestors' Wisdom">
+        فحاش فكرّ الحمار وقال كان آبائي أسبق إلى هذا الأمر
+        <lb/>
+
+        ولكن خافوا من سوء عاقبته وصبروا على ما صبروا عليه من المهانة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

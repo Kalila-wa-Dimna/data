@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="63"/>
+
+      <p n="The Crow Seeks Counsel">
+        شكا ذلك إلى صديق له من بنات آوى فقال أردت أن أستأمرك في
+        <lb/>
+
+        شيء هممت به إن أنت واطأتني عليه قال وما ذلك قال أريد أن
+        <lb/>
+
+        آتي الأسود وهو نائم فأنقر عينيه لعلّي أفقأهما
+      </p>
+
+      <p n="The Jackal's Warning">
+        قال ابن آوى ليست
+        <lb/>
+
+        الحيلة هذه والتمس حيلة تظفر بها من الأسود في غير الهلاك لنفسك
+        <lb/>
+
+        بغير مخاطرة
+      </p>
+
+      <p n="The Heron and the Crab Parable">
+        وإيّاك أن يكون مثلك مثل المكّاء الذي أراد قتل السرطان
+        <lb/>
+
+        فقتل نفسه
+      </p>
+
+      <p n="The Crow Asks for the Story">
+        قال الغراب وكيف كان ذلك
+      </p>
+
+      <p n="The Old Heron's Dilemma">
+        قال ابن آوى
+        <lb/>
+
+        كان المكّاء معشعشًا في أجمة مخصبة كثيرة السمك فعاش هنالك ما
+        <lb/>
+
+        عاش ثمّ هرم فلم يستطع صيدًا فأصابه جهد وجوع
+      </p>
+
+      <p n="The Crab Approaches the Heron">
+        فالتمس الحيل فقعد
+        <lb/>
+
+        متحزّنًا ذات يوم فرآه السرطان من بعيد فلمّا رأى حاله وعرف الحزن فيه
+        <lb/>
+
+        دنا منه
+      </p>
+
+      <p n="The Crab's Inquiry">
+        وقال إنّي أراك قد علتك كآبة
+      </p>
+
+      <p n="The Heron Explains His Sadness">
+        قال المكّاء وكيف لا تعلوني كآبة
+        <lb/>
+
+        وإنّما كانت معيشتي إلى اليوم أنّي كنت أصيد ممّا هاهنا في اليوم سمكة أو
+        <lb/>
+
+        سمكتين فكنت أعيش بذلك وكان ذلك لا ينقص السمك شيئًا
+      </p>
+
+      <p n="The Heron's Tale of Fishermen">
+        وإنّي رأيت
+        <lb/>
+
+        اليوم صيّادان أتيا هذا المكان فقال أحدهما لصاحبه أرى هاهنا
+        <lb/>
+
+        سمكًا كثيرًا أفلا نصيدهنّ فقال صاحبه إنّي قد عرفت فيما أمامنا
+        <lb/>
+
+        مكانًا فيه سمك والرأي أن نبدأ بما ثمّ فإذا فرغنا منه انصرفنا إلى ما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

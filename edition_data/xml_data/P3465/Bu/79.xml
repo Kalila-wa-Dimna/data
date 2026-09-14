@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="79"/>
+
+      <p n="unassigned">
+        فقال لها كيف أمضي وقد خلّطت عليّ وذكرت الجبّ وليس هناك فلم يزل
+        <lb/>
+
+        على مثل هذه الحال حتّى دخل ربّ البيت جوزها فأخذه وأوجعه ضربًا ورفعه إلى
+        <lb/>
+
+        السلطان فلمّا خفت من التردّد والتحوّل رأيت ألّا أتعرّض لما أتخوّف منه المكروه
+        <lb/>
+
+        وأن أقتصر على عمل تشهد الأنفس أنّه يوافق كلّ الأديان فككفت يدي عن القتل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

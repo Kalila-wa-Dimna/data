@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="161"/>
+
+      <p n="The Rat Refuses the Call">
+        فقال له الجرذ لا سبيل لي على الدّنو منك
+      </p>
+
+      <p n="The Cat Reminds the Rat of their Friendship">
+        قال له السنّور ومالذي يمنعك منّي حتّى
+        <lb/>
+
+        أجازيك بما صنعت معي فلا تقطع ما بيني وبينك من الصداقة والمودّة
+      </p>
+
+      <p n="If One Gives Up a Friend One Loses Out">
+        فإنّه من اتّخذ
+        <lb/>
+
+        صديقًا ثمّ أضاعه حُرم ثمرة الإخاء ورفضوه أهل مودّته
+      </p>
+
+      <p n="The Cat Suggests a Reward">
+        فأنت الذي لا تُنسى مودّتك
+        <lb/>
+
+        وفضلك وأنت حقيق أن تلتمس مكافأتك
+      </p>
+
+      <p n="The Cat Reassures the Rat">
+        فلا تخاف منّي واعلم أنّ جميع ما لي مبذولا لك
+        <lb/>
+
+        ثمّ حلف السنّور وأشهد على نفسه الله سبحانه وتعالى على ذلك
+      </p>
+
+      <p n="The Rat Distinguishes Hidden from Overt Enmity">
+        فقال له الجرذ ربّ
+        <lb/>
+
+        عداوة باطنة ظاهرها صداقة وهي أشدّ ضرًّا من العداوة الظاهرة
+      </p>
+
+      <p n="Riding an Elephant's Tusk">
+        فمن لم يحترس منها
+        <lb/>
+
+        وقع موقع الرجل الذي يركب ناب الفيل ثمّ يغلبه النعاس فيسقط من عليه
+      </p>
+
+      <p n="An Enemy Is Befriended in Times of Need">
+        وإنّما سُمّي الصديق
+        <lb/>
+
+        صديقا لما يُرجى من نفعه والعدوّ عدوًّا لما يُخاف من ضرّه والعاقل إذا رجا نفع العدوّ
+        <lb/>
+
+        أبدى له الصداقة وإذا خاف العدوّ أبدى له العداوة
+      </p>
+
+      <p n="Young Cattle Only Nurse for a While">
+        أولا ترى أولاد البهائم يتّبعها
+        <lb/>
+
+        بنوها رجاء منها ألبانها فإذا انقطع ذلك اللبن انصرفت عنها وتركتها
+      </p>
+
+      <p n="Clouds and Rain Come and Go">
+        وكما أنّ السحاب
+        <lb/>
+
+        يتهيّأ ساعة وينقطع ساعة أخرى ويمطر مرّة ويمسك مرة أخرى
+      </p>
+
+      <p n="The Intelligent Adapts">
+        فكذلك العاقل تتغيّر أحواله
+        <lb/>
+
+        مع متلوّنات الأمور على اختلاف أخلاق الأصحاب فيرضى مرّة ويسخط أخرى ويتجلّد مرّة
+        <lb/>
+
+        ويشتكي أخرى
+      </p>
+
+      <p n="Enmity Turns into Friendship in Times of Need">
+        وربّما قطع المرء على صديقه بعض ما كان يصله به وربّما أحدث صداقة
+        <lb/>
+
+        لعدوّه لحاجة حملها عليه فإذا ذهب المرء الأمر الذي كان منه تحوّل صفاؤه عداوة فعاد إلى
+        <lb/>
+
+        أصل أمره
+      </p>
+
+      <p n="Heated Water Cools Down">
+        كالماء الذي يُسخّن بالنار فإذا رُفع عنها عاد باردًا كما كان
+      </p>
+
+      <p n="The Cat Is the Rat's Worst Enemy">
+        فلا شيء أعدى إليّ منك
+      </p>
+
+      <p n="The Rat's Need for Friendship Has Gone">
+        وقد كان اضطرّتني وإيّاك الحاجة وهي التي أحدثت بيني وبينك هذه الصداقة وقد مضى الأمر
+        <lb/>
+
+        الذي احتجت فيه إليّ واحتجت فيه إليك وأنا أخاف على روحي منك ومن عداوة ما بيني
+        <lb/>
+
+        وبينك
+      </p>
+
+      <p n="The Weak Must Avoid the Strong">
+        فلا خير للضعيف في قرب العدوّ القويّ
+      </p>
+
+      <p n="The Cat Desires the Rat for Food">
+        ولا أعلم إن بقي لك حاجة قبلي إلّا أكلي
+      </p>
+
+      <p n="The Prudent Rat">
+        فلا
+        <lb/>
+
+        أطمئنّ إليك أبدًا
+      </p>
+
+      <p n="The Intelligent Escapes Forced Friendship">
+        فالعاقل يصالح عدوّه ويصانعه إذا اضطرّ إليه ويظهر له ودّه ويريه
+        <lb/>
+
+        من نفسه الثقة إذا لم يجد من ذلك كلّه بدًّا ويعجّل الانصراف عنه والترك إذا وجد إلى ذلك
+        <lb/>
+
+        سبيلًا
+      </p>
+
+      <p n="The Rat Will Love the Cat from Afar">
+        وأنا أودّك من بعيد
+      </p>
+
+      <p n="The Last Verdict Is No Reunion">
+        ولا سبيل إلى اجتماعنا أبدًا
+      </p>
+
+      <p n="The Philosopher Comments on the Rat's Foresight">
+        ثمّ قال الفيلسوف للملك والجرذ على
+        <lb/>
+
+        صغره وضعفه نظر في عواقب الأمور حيث نزل به البلاء صادق عدوّه وصديقه وعمل
+        <lb/>
+
+        في ذلك عملا رفيقًا نجّاه من عدوّه المقبل عليه القادر على الفرصة منه وخلص له من صلح من
+        <lb/>
+
+        عدوّه الأمن النجاة من البلاء الذي وقع فيه
+      </p>
+
+      <p n="The Philosopher Comments on Human Foresight">
+        فكيف بالإنسان لو اقتدى بذلك وعمل فيه
+        <lb/>
+
+        بالذي يلزمه من حسن النظر في ذلك ما كان أعظم خطره وأجلّ قدره ويأخذ بأوفى نصيب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

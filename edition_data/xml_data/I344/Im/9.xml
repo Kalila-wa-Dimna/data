@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="9"/>
+
+      <p n="Bequeathed Treasure Suffices">
+        طلب المعيشة
+      </p>
+
+      <p n="Reader Must Decode Parables">
+        فمن قرأ هذا الكتاب فليعرف
+        <lb/>
+
+        الوجه الذي وُضع عليه فإنّه من لم يعرف ذلك
+        <lb/>
+
+        لم يدر إلى أيّ غاية يجري فيه ولا أيّ شيء يجتني منه
+        <lb/>
+
+        وما أرادوا الحكماء وأهل العقول بما نسبوا إليه من
+        <lb/>
+
+        أمثالهم الموصوفة فيه
+      </p>
+
+      <p n="Reader Must Read Well and Reflect">
+        وإنّما ينبغي لمن قرأ هذا الكتاب
+        <lb/>
+
+        وأحبّ الاقتداء بمن كان قبله من أهل الحكمة والفضل
+        <lb/>
+
+        أن يبتدئ بجودة قراءته وحسن التفهّم له
+      </p>
+
+      <p n="Hasty Reader Benefits Nothing">
+        وأن
+        <lb/>
+
+        لا يكون عليه بلوغ آخره دون معرفة بما يقرأ منه
+        <lb/>
+
+        فإنّه من كانت غايته استتمام قراءته من غير تفهّم
+        <lb/>
+
+        منه له ولا عناية بما فيه فليس ينتفع بقراءته
+        <lb/>
+
+        ولا يفيد منه شيئًا يعود به على نفسه
+      </p>
+
+      <p n="Reading Without Implementation Is Labour Lost">
+        ومن ألزم نفسه
+        <lb/>
+
+        الأشياء جمّة في طلب العلم والمثابرة على دراسة الكتب
+        <lb/>
+
+        من غير إلزام منه لنفسه فالعمل بالصواب والاتّباع
+        <lb/>
+
+        للحقّ فليس له من ثمرة ما جمع إلّا الكدّ والعناء
+      </p>
+
+      <p n="Treasure Discovered">
+        وكان
+        <lb/>
+
+        كالرجل الذي ذكرت العلماء أنّه مرّ في بعض
+        <lb/>
+
+        المفاوز فظهر له فيها كنز لا عهد له بمثله
+        <lb/>
+
+        فلمّا فتحه ونظر إليه رأى كنزًا عظيمًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

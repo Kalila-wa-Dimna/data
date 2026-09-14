@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="159"/>
+
+      <p n="Dimna Calls Courtier Unfit for Court">
+        انكساره وبكاءه ابك ما شئت فإنّه ينبغي أن يطول بكاؤك إذا اطّلع
+        <lb/>
+
+        الملك على عيوبك وقذرك فعزلك عن طعامه وحال بينك
+        <lb/>
+
+        وبين خدمته وبعّدك عن حضرته
+      </p>
+
+      <p n="Courtier's Argument Shows His Foolishness">
+        أحسبت أنّ الكلام لك وحدك
+        <lb/>
+
+        حين شهدت عليّ بما لا علم لك به
+      </p>
+
+      <p n="Bodily Marks Are Claimed to Predict Deeds">
+        فإن كان الأمر على ما تقول
+      </p>
+
+      <p n="Human Action Would Be Meaningless">
+        فحينئذ قد استبان للجماعة أنّه لا يستطيع أحد أن يعمل خيرًا ولا شرًّا
+        <lb/>
+
+        إلّا بما وُسم به من العلامات فمن وُسم بعلامات شرّ لا يستطيع
+        <lb/>
+
+        إلّا أن يعملها ومن وُسم بعلامات خير لا يستطيع أن يفعل غيرها
+        <lb/>
+
+        فحينئذ لا ثواب ولا عقاب فإنّه لا يستطيع أحد أن يجعل في جسمه
+        <lb/>
+
+        علامات شرّ ولا علامات خير
+      </p>
+
+      <p n="If the Physique Makes People Traitors, Dimna Is Innocent and Excused">
+        فإن كنت أنا قد فعلت الذي
+        <lb/>
+
+        كذبت به عليّ وعملته فما ذنبي في ذلك إذ كان في جسمي علامات
+        <lb/>
+
+        هي خجلتني إليه ودعتني إلى العمل به
+      </p>
+
+      <p n="Lion Appoints a Secretary to Inform Him about the Trial">
+        ثمّ إنّ شعهرًا كان عند الأسد
+        <lb/>
+
+        قد جرّبه فوجد فيه أمانة وصدقًا فأمره أن يحفظ جميع ما يجري
+        <lb/>
+
+        بينهم ويطلعه عليه
+      </p>
+
+      <p n="Lion Is Informed by Court Secretary and Ousts Courtier">
+        فقام الشعهر فدخل على الأسد فحدّثه
+        <lb/>
+
+        بالحديث كلّه على وجهه فأوّل ما أمر به الأسد أن يُعزل سيّد
+        <lb/>
+
+        الخنازير عن عمله وتقدّم أن لا يدخل إليه ولا يرى له وجهًا
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded, He Is Returned to Prison; End of First Day of Trial">
+        وأمر
+        <lb/>
+
+        بدمنة أن يُحبس فحُبس وقد مضى النهار وكَتَب جميع ما جرى وختمه
+        <lb/>
+
+        بخاتم النمر ورجع كلّ واحد منهم إلى منزله وجاء الليل
+      </p>
+
+      <p n="Ruzbeh Is Kalīla's Friend">
+        ثمّ إنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

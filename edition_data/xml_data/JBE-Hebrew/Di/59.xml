@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>JBE-Hebrew</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="59"/>
+
+      <p n="Lion Orders Dimna to Be Killed">
+        צורת דמנה נהרג וההורג אותו
+      </p>
+
+      <p n="Commentary That Seeking Others' Harm Will Be Punished">
+        ויאמר דוד חכמות למלך יאות לאנשי התבונה. העושים מעשיהם באמונה.
+        <lb/>
+
+        שישמרו לנפשותם שלא יבקשו מועילם. ממקום שיצר לאדם בעולם. אם במרמה
+        <lb/>
+
+        אם באיבה. ואם בעקבה. כי איש תרמית. יהא אחריתו להכרית. אחת דתו להמית.
+        <lb/>
+
+        וישוב בראשו עמלו. ואם יתמהמה חכה לו.
+      </p>
+
+      <p n="End of Chapter">
+        נשלם שער חקור דברי דמנה
+        <lb/>
+
+        צורת המלך ודוד חכמות
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

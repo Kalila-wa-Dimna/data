@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="235"/>
+
+      <p n="unassigned">
+        في أمره بل يفعل أغراضه بالسرعة والعجلة
+        <lb/>
+
+        انقضى باب الناسك وابن عرس
+      </p>
+
+      <p n="Chapter Title">
+        باب الجرذ والسنّور
+      </p>
+
+      <p n="The King Asks about Escaping Enemies">
+        قال دبيشلم الملك لبيدبا الفيلسوف قد سمعت هذا المثل فاضرب لي مثل رجل
+        <lb/>
+
+        كثر أعداؤه وأحدقوا به من كلّ جانب فأشرف معهم على الهلاك فالتمس النجاة
+        <lb/>
+
+        والمخرج بموالاة بعض أعدائه ومصالحته فسلم من الخوف وأمن ثمّ وفى لمن صالحه
+        <lb/>
+
+        منهم
+      </p>
+
+      <p n="The Philosopher Responds that Emotions Change">
+        قال الفيلسوف إنّ المودّة والعداوة لا يثبتان على حالة واحدة أبدًا وربّما
+        <lb/>
+
+        حالت المودّة إلى العداوة وصارت العداوة ولاية ولهذا حوادث وعلل وتجارب
+      </p>
+
+      <p n="The Intelligent Adapts to Situations">
+        وذو الرأي يحدث لكلّ ما يحدث رأيًا جديدًا أمّا من قبل العدوّ فبالبأس
+        <lb/>
+
+        وأمّا من قبل الصديق فبالاستئناس
+      </p>
+
+      <p n="Enmity Must Not Stop One from Requesting Help">
+        ولا تمنع عداوة ذا العقل من عاداه بالاستنجاد
+        <lb/>
+
+        به على دفع مخوف أو جرّ مرغوب
+      </p>
+
+      <p n="The Resolute Attains His Need">
+        ومن عمل في ذلك بالحزم ظفر
+      </p>
+
+      <p n="unassigned">
+        بحاجته
+      </p>
+
+      <p n="The Parable of the Cat and Rat Is Invoked">
+        ومثل ذلك مثل الجرذ والسّنور حين وقعا في الورطة فنجيا باصطلاحهما
+        <lb/>
+
+        جميعًا من الورطة الشديدة
+      </p>
+
+      <p n="The King Requests the Full Parable">
+        قال الملك وكيف كان ذلك قال بيذبا
+      </p>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        زعموا أنّ شجرة عظيمة كان في أصلها جحر سنّور يُقال له روميّ وقريبًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Aw</chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

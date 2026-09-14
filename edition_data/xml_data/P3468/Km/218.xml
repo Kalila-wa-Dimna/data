@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3468</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="218"/>
+
+      <p n="The King Requests the Parable">
+        كان ذلك
+      </p>
+
+      <p n="A Prosperous City">
+        قال بيدنا زعموا أنّه كان في أرض البراهمة بقعة
+        <lb/>
+
+        تُسمّى دوران مسافتها ألف فرسخ وكان في وسط تلك
+        <lb/>
+
+        البقعة مدينة تُسمّى ايدزيتون وكان عليها خيرات
+        <lb/>
+
+        كثيرة وكان أهلها يتصرّفون في معائشهم كما يحبّون
+      </p>
+
+      <p n="The City Is Ruled by a Rat King">
+        وكان
+        <lb/>
+
+        في تلك المدينة جرذ يُسمّى مهراز وكان متملّكًا على جميع الجرذان
+        <lb/>
+
+        التي في تلك المدينة ورساتيقها
+      </p>
+
+      <p n="The Rat King Has Three Viziers">
+        وكان له ثلاثة وزراء يشاورهم
+        <lb/>
+
+        في الأمور يُسمّى أحدهم زودامة وكان ذا عقل وحكمة
+        <lb/>
+
+        وكان الملك معترفًا بفضله وكان يُسمّى الثاني سيرع
+        <lb/>
+
+        ويُسمّى الثالث بغداد
+      </p>
+
+      <p n="They Discuss the Threat of the Cats">
+        فحضروا يومًا وتفاوضوا في أشياء
+        <lb/>
+
+        كثيرة إلى أن انتهى بهم الكلام إلى أن قالوا هل في استطاعنا
+        <lb/>
+
+        أن نزيل عنّا ما قد توارثناه من أسلافنا من الفزع والخوف
+        <lb/>
+
+        من السنانير أو لا
+      </p>
+
+      <p n="One Should Leave the Past and Act for the Future">
+        فبدأ الملك وقال سمعت من الحكماء
+        <lb/>
+
+        يقولون إنّه ينبغي للإنسان أن ينظر في نفسه وولده
+        <lb/>
+
+        وأهله في أمرين ويستشير النصحاء فأمّا أحدهما لا يفكّر فيما
+        <lb/>
+
+        مضى وفات من المنافع والمضارّ ولا يفكّر فيما سلف
+        <lb/>
+
+        منها والثاني أن لا يكون يخشى أن يتمسّك بما يناله من
+        <lb/>
+
+        المنافع والمضارّ ويحتال في دفع المضارّ عنه
+      </p>
+
+      <p n="Cats Are the Only Concern">
+        ونحن بما
+        <lb/>
+
+        سلف من أفعال آبائنا وأسلافنا الجميلة في نِعم سابغة
+        <lb/>
+
+        وراحة دائمة وما لنا إّلا غمّ واحد وهو لعمري أشدّ من غمّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

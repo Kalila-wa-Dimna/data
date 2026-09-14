@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="172"/>
+
+      <p n="The Mother Goes to the Lion and Finds Him Sad">
+        دخلت عليه فوجدته كئيبًا حزينًا
+      </p>
+
+      <p n="The Mother Asks About the Cause of Grief">
+        فقالت له ما هذا الغمّ
+        <lb/>
+
+        الذي غلب عليك وأحزنك
+      </p>
+
+      <p n="The Lion Misses the Ox and Regrets Killing Him">
+        فقال لها كلّ ذلك أسفًا
+        <lb/>
+
+        على ما فرّطت في أمر شتربه وقتله وكلّما تذكّرت حُسن
+        <lb/>
+
+        صحبته وحديثه وخدمته ومناصحته وما كنت أسمع
+        <lb/>
+
+        منه من رأيه وعشرته
+      </p>
+
+      <p n="Self-Accusation is the Most Damning">
+        قالت أمّ الأسد ما مرّ على نفسي
+        <lb/>
+
+        أمره هذا
+      </p>
+
+      <p n="Killing the Ox Was Wrong">
+        وعجبت من وهن رأيك إذ قدمت على الثور
+        <lb/>
+
+        بغير علمٍ ولا وُضح يقين فاعلم أنّ ذلك كان خطأ
+        <lb/>
+
+        كلّه
+      </p>
+
+      <p n="The Lion Should Have Controlled Himself">
+        ولو كنت حين بلغك عنه ما بلغك تثبّتت قلبك
+        <lb/>
+
+        بحسن رأيٍ ونظرٍ وكففت سورة غيظك لاكتفيت
+        <lb/>
+
+        مواقع أمره
+      </p>
+
+      <p n="The Lion Reflects about the Ox">
+        قال الأسد لقد أكثرت في أمر الثور فكري
+        <lb/>
+
+        وحرصت على قتلي له تجنّي أن أصيب له ذنبًا واحدًا فيما
+        <lb/>
+
+        بيني وبينه أتقوّى به على سلوته وأُعزّي نفسي عنه فلم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

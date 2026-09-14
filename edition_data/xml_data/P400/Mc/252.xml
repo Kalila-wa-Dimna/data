@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="252"/>
+
+      <p n="The King Asks about Escaping Enemies">
+        لمن صالحه وأخبرني عن موضع الصلح كيف يكون محال
+      </p>
+
+      <p n="The Philosopher Responds that Emotions Change">
+        فقال الفيلسوف
+        <lb/>
+
+        إنّ العداوة والولاية ليس كلّها تدوم وتثبت وكثير من المودّة
+        <lb/>
+
+        تتحوّل بغضًا وكثير من البغض يتحوّل مودّة عن حوادث العلل والأمور
+      </p>
+
+      <p n="The Intelligent Adapts to Situations">
+        فذو الرأي يتحرّك لكلّ ما يطرأ عليه من ذلك عملًا من الطبع فيما قبل
+        <lb/>
+
+        العدوّ
+      </p>
+
+      <p n="The Parable of the Cat and Rat Is Invoked">
+        ومن المثل في ذلك مثل السنّور والجرذ الذين اصطلحا حين وقعا
+        <lb/>
+
+        في الورطة والشدّة فكان في ذلك من صلحهم ما فيه حياتهما
+      </p>
+
+      <p n="The King Requests the Full Parable">
+        فقال
+        <lb/>
+
+        المَلك وكيف كان ذلك
+      </p>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        قال الفيلسوف زعموا
+        <lb/>
+
+        أنّه كان بأرض سرنديب شجرة في أصلها جرذ يُسمّى فريدون وإلى
+        <lb/>
+
+        جانبها جحر سنّور يُسمّى روميّ
+      </p>
+
+      <p n="The Cat Is Caught">
+        فكان القنّاص ربّما التمسوا صيد الوحوش
+        <lb/>
+
+        والطير فرىها وأنّ رجلًا من الصيّادين نصب حباله ذات يوم فوقع
+        <lb/>
+
+        في السنّور
+      </p>
+
+      <p n="The Rat Seeks Food">
+        وخرج الجرذ يدبّ في ابتغاء ما يأكل وهو يلتفت وينطر
+        <lb/>
+
+        فلمّا رأى السنّور في الحبال فرح لذلك
+      </p>
+
+      <p n="Foes Surround the Rat">
+        ثمّ نظر خلفه فإذا هو بابن عرس
+        <lb/>
+
+        قد اتّبعه فكمن له ونظر فوق الشجرة فإذا هو ببومة ترصده فخاف
+        <lb/>
+
+        إن هو انصرف أن يثب عليه ابن عرس وإن ذهب يمينًا وشمالًا أن تخطفه البومة
+        <lb/>
+
+        وإن هو تقدّم أن يأخذه السنّور
+      </p>
+
+      <p n="The Rat Weighs His Predicament">
+        فقال هذه بلايا اكتنفتني وشرور قد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

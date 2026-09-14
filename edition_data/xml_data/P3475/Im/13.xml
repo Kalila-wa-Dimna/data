@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="13"/>
+
+      <p n="God Inspired Books Import">
+        أرض الهند إلى مملكة فارس إلهام الله تعالى أنوشروان كسرى
+        <lb/>
+
+        بن قباد أن يبعثه في نقله ونسخه
+      </p>
+
+      <p n="Kisra Wisest King">
+        لأنّه كان أفضل ملوك فارس
+        <lb/>
+
+        حكمًا ورأيًا وأبحثهم لمكان العلم والأدب وأحرصهم
+        <lb/>
+
+        على الخير وما يقرّبهم من الله تعالى في معلاهم وأسرعهم
+        <lb/>
+
+        إلى اقتناء ما يزيّنه بزينة الحكمة من طالبي الأدب وطالبي العلم
+        <lb/>
+
+        وفي معرفة الخير من الشّر والنفع من الضرّ والصديق من
+        <lb/>
+
+        العدوّ
+      </p>
+
+      <p n="God Made Kisra Superior">
+        ولم يكن يعرف ذلك إلّا بقول الله عزّ وجلّ
+      </p>
+
+      <p n="Kisra Surpasses Prior Kings">
+        فكسرى
+        <lb/>
+
+        بن قباد كان المزيّن بزينة البهاء الفاضل العالم الماجد
+        <lb/>
+
+        الأروع الذي لم يعدله أحد ممّن مضى قبله من ملوك
+        <lb/>
+
+        فارس الناقد البصير الكامل الأديب المُعينة له نفسه
+        <lb/>
+
+        على طلب الأدب وفروع الحكمة المستضيء بنور العقل
+      </p>
+
+      <p n="Kisra Hears Of Indian Book">
+        فكان
+        <lb/>
+
+        فيما بلغه أنّ بالهند كتابًا من تأليف الحكماء وتصنيف
+        <lb/>
+
+        العلماء وتبيين النقباء
+      </p>
+
+      <p n="The Book Has Animals">
+        قد مُيّزت أبوابه وأُحكمت عجائبه
+        <lb/>
+
+        على أفواه الطير والبهائم والسباع والوحش والأيّام
+        <lb/>
+
+        والهوامّ وسائر خرشة الأرض وذباباتها فيما
+      </p>
+
+      <p n="Kings Need The Book">
+        يحتاج
+        <lb/>
+
+        إليه الملوك في سياستها وتدبيرها وإقامة أود
+        <lb/>
+
+        قرباتها ورعيّتها الذين لا قوام لهما إلّا بحسن سياسة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

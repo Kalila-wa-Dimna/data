@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="177"/>
+
+      <p n="unassigned">
+        ففعل ذلك الظبي والغراب فتبعه القانص قليلًا ثمّ انصرف
+        <lb/>
+
+        وقد قطع الجرذ وثاق السلحفاة فرجع القانص إلى حباله فرآها مقطوعة
+        <lb/>
+
+        ففكّر في الظبي المتطالع والغراب الواقع عليه كأنّه يأكل منه
+        <lb/>
+
+        وليس بفاعل وتقريض حباله قبل ذلك استوحش وقال إنّ أهل هذه
+        <lb/>
+
+        الأرض سحرة أو جنّ فرجع موليًّا لا يلتمس شيئًا ولا يلتفت إليه
+        <lb/>
+
+        واجتمع الظبي والغراب والجرذ والسلحفاة إلى عريشهنّ
+        <lb/>
+
+        ثمّ قال الفيلسوف للمَلك فإذا بلغت حيلة أضعف
+        <lb/>
+
+        الدوابّ وأهونها في معونة بعضهم بعضًا وتوانسهنّ فيما بينهنّ ووفائهنّ
+        <lb/>
+
+        وصبرهنّ على ما خلصا به من أعظم البلايا وأهولها وأفظعها
+        <lb/>
+
+        فكيف بالناس لو فعلوا مثل ذلك وترافدوا فيه
+      </p>
+
+      <p n="Chapter Title">
+        باب الغربان والبوم
+      </p>
+
+      <p n="The King Understood Previous Chapter">
+        قال الملك للفيلسوف قد فهمت ما ذكرت
+        <lb/>
+
+        من أمر الإنجاء وعظم المنفعة
+      </p>
+
+      <p n="The King Asks If Foes Can Become a Friends">
+        فيها فأخبرني عن العدوّ هل يرجع صديقًا
+        <lb/>
+
+        وهل يُوثق بشيء من أمره
+      </p>
+
+      <p n="The King Asks about Fawning Foes">
+        وكيف العداوة وما ضرّها وكيف ينبغي للملك
+        <lb/>
+
+        إذا جاءه أمر من عدوّه <>
+      </p>
+
+      <p n="The Philosopher Answers, Foes Cannot be Trusted">
+        الذي يتخوّفه على نفسه وجنده وإن كان ملتمس الأمان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Rd</chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

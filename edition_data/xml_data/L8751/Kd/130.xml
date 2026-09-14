@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="130"/>
+
+      <p n="King Appreciates Wise Man">
+        وتبيّن لي أيضا علم كنان ابرون وصَدق قوله
+      </p>
+
+      <p n="Gift To Be Distributed To All Victims">
+        ثم دعا الملك جوير وإيلاد وقال لهم أنّه لَاينبغي
+        <lb/>
+
+        أن ندخل هذه الهَدايا خزائننا ولكنّي قاسمها بينكم لأنّكم وطئتم أنفسكم عَلى الموت
+        <lb/>
+
+        بسببي
+      </p>
+
+      <p n="Queen Is Especially Deserving">
+        وبين ابراحت الذي أشارت عليّ بالرّأي الذي انتفعت به في بقاء ملكي والذي
+        <lb/>
+
+        ترون من الفرح والسّرور
+      </p>
+
+      <p n="Subjects Dont Expect Reward">
+        فقال إيلاد إنّه لَا ينبغي لنا معَاشر العبيد أن ندنوا منهما
+      </p>
+
+      <p n="Vizier Rejects Gift">
+        فأمّا
+        <lb/>
+
+        جوبر ابنكم فهو لها أَهل فليأخذ ما أعطيتموه
+      </p>
+
+      <p n="King Instists Giving Gift">
+        فقال الملك إنّه قد شاع لنا في هذا ثناء حسن
+        <lb/>
+
+        وخير كثير فلا تحتشمنّ إيلاد وخذ نصيبك وقرّ به عينا
+      </p>
+
+      <p n="Vizier Accepts Gift">
+        فقال إيلاد ليكن مَا أحبّ
+        <lb/>
+
+        الملك أن يبدأ بأخذ مَا يريد فليفعل
+      </p>
+
+      <p n="Men Receive Their Gifts">
+        فأخذ الملك الفيل الأبيض وأعَطى جوير أحد الفرسين
+        <lb/>
+
+        وأعَطى إيلاد السّيف الخالص الحديد وأعَطى كامل الفرس الآخر وبعث إلى كان ابرون
+        <lb/>
+
+        بالّلباس الذي يلبس الملوك
+      </p>
+
+      <p n="Queen Shall Choose Gift">
+        وَأمَّا الإكليل وسائر اللباس ممّا كان يصلح للنّساء قال
+        <lb/>
+
+        لإيلاد خذ الإكليل والثياب فاحملها معي واتبعني إلى النساء ففعل ذلك وحمل الجميع معه إلى
+        <lb/>
+
+        النساء فدعى الملك إبراحت وكورفيا فجلستا بين يديه قال يا إيلاد ضع الكسوة بين
+        <lb/>
+
+        يدي إبراحت فلتأخذ أيّها شاءت
+      </p>
+
+      <p n="Hesitating Queen Looks At Vizier">
+        فلما نظرت إبراحت إلى الإكليل وعجبه نظرت إلى إيلاد
+        <lb/>
+
+        بمؤخر عينها ليريَها أيّهما أفضل
+      </p>
+
+      <p n="Vizier Shows Dress King Notices">
+        فأراهَا إيلاد الثّياب وأشار عليها بأخذها فحانت من الملك
+        <lb/>
+
+        لحظه فرأى إيلاد فلمّا رأت إبراحت أنّ الملك قد رأى إيلاد أبصر إيمائه إليها بعينه
+      </p>
+
+      <p n="Queen Chooses Crown">
+        تركت الذي أراهَا ايلاد وأخذت الإكليل
+      </p>
+
+      <p n="Vizier Pretends To Be Cross Eyed">
+        فعاش إيلاد بعد ذلك أربعين سنة كُلّما
+        <lb/>
+
+        دخَل على الملك كسر عينه لأن لا يفطن الملك أنّه أراها بعينه شيئا
+      </p>
+
+      <p n="Intelligence Saves Queen Vizier">
+        ولولَا عقل إبراحت
+        <lb/>
+
+        وعقل إيلاد لم ينج واحد منهما من الموت
+      </p>
+
+      <p n="King Alternates Nights With Women">
+        وكان الملك يكون ليلة عند إبراحت وَليلة
+        <lb/>
+
+        عند كورفيا
+      </p>
+
+      <p n="Queen Serves Rice On Her Night">
+        فأتى الملك إبراحت في ليلتها وقد صَنعت له أرزًا فدخلت على الملك وفي
+        <lb/>
+
+        يَدها صَحفة من ذهب والإكليل على رَأسها فقامت على رَأس الملك بالصّحفة وهو يَطعم منها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

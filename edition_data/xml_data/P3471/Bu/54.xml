@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="54"/>
+
+      <p n="The Second Aim Is to Please Kings">
+        صور الحيوان بأصناف الأصباغ والألوان لتكون قلوب نساء الملوك
+        <lb/>
+
+        أسرع <> أشدّ عليه
+      </p>
+
+      <p n="The Third Aim Is to Benefit Craftsmen">
+        والثالث أن يكون اتّخاذ الملوك
+        <lb/>
+
+        له من دونهم فيكثر بذلك نسخه عندهم ولا تبطيل ولا تخلّق
+        <lb/>
+
+        على الأيّام وينتفع بذلك الصبّاغ من قبل الصور
+      </p>
+
+      <p n="The Fourth Aim Is Directed at Philosophers">
+        والرابع
+        <lb/>
+
+        الأقصى وذلك محظور الفيلسوف خاصّة
+      </p>
+
+      <p n="The Ending of the Preface">
+        كمل غرض الكتاب
+        <lb/>
+
+        باب بزرجمهير المتطبّب
+      </p>
+
+      <p n="Burzurgmihr's Introduction">
+        ترجمه برزجمهير بن البختكان
+        <lb/>
+
+        قال برزويه رأس أطباء فارس وهو الذي تولّى انتساخ هذا الكتاب
+        <lb/>
+
+        وترجمته من كتب الهند
+      </p>
+
+      <p n="Burzoy's Parents">
+        إنّ أبي كان من المعامله وأفخر من بيوت عظماء
+        <lb/>
+
+        الرمازمه
+      </p>
+
+      <p n="Burzoy Studies Medicine">
+        وكان فيما ابتدأني به ربي من نعمة على أننّي كنت أكرم عظماء
+        <lb/>
+
+        ولد أبويّ عليهما وكان أبي أشدّ احتفاظًا بي من سائر إخوتي حتّى
+        <lb/>
+
+        حتّى إذا بلغت سبعًا أسلمني إلى المكتب
+      </p>
+
+      <p n="Burzoy Consults His Soul About Its Ambitions">
+        فلمّا حدقت ذلك وعرفته شكرت
+        <lb/>
+
+        أبويّ على ما أوصاني إليه من العلم ثمّ كان أوّل ما برأت به علم الطبّ
+        <lb/>
+
+        وحرصت عليه حرصًا شديدًا فلمّا أؤتمنت على مداواة المرضى وهمت
+        <lb/>
+
+        بذلك أمرت نفسي وخيّرتها من الأمور الأربعة التي إيّاها تطلب
+        <lb/>
+
+        الناس وإليها يسعون
+      </p>
+
+      <p n="The Four Objects of Human Pursuit">
+        فقلت أي هذه الحالة ينبغي لي في مثل علمي أن
+        <lb/>
+
+        أطلب وأيّها أحرى بي فأدرك منه حاجتى المال أم اللذّات
+        <lb/>
+
+        أم الذكر أم أمر الآخرة
+      </p>
+
+      <p n="Seeks the Reward of the Hereafter">
+        فاستدلّلت على الخيار في ذلك فإنّي وجدت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="321"/>
+
+      <p n="Jackal's Superiority Causes Envy">
+        فاضل الحلم ذا حظّ من لبّ وأمانة ودين
+      </p>
+
+      <p n="Investigation Would Clear Jackal">
+        وعسى بك إن
+        <lb/>
+
+        فحصت عن أمره أن يستبين لك من برائته ممّا لطّخ به أهل
+        <lb/>
+
+        المكر والجهل والفجور الذي محلوا به وتمايلوا عليه وكانوا خصماءه
+      </p>
+
+      <p n="Jackal's Foes Perhaps Hid Meat">
+        فإنّهم هم الذين ذهبوا باللحم إلى بيته وخبّؤوه في داره بغير
+        <lb/>
+
+        علمه ولا درايته ولا معرفته بذلك ولا بشيء منه
+      </p>
+
+      <p n="Kite's Booty Attracts Competitors">
+        فإنّ الحدأة إذا
+        <lb/>
+
+        أصابت بضعة من اللحم فأخذته في مخاليبها نافسها كثير من
+        <lb/>
+
+        الطير على ذلك وأقبلن عليها ينازعنها
+      </p>
+
+      <p n="Dog's Bone Attracts Competitors">
+        والكلب إذا كان في فيه
+        <lb/>
+
+        العظم تعاوى عدّة من الكلاب حتّى يكون بينهم ما يكون
+      </p>
+
+      <p n="Schemers Pursue Only Own Benefit">
+        وإنّ
+        <lb/>
+
+        أعداء ابن آوى بغوا عليه ولم يروا فيما يدخلونه عليك بسببه
+        <lb/>
+
+        كي تضرّه ولم يستبْقَوه لعاجل منفعة أنفسهم
+      </p>
+
+      <p n="King Must Protect Himself">
+        فلا تنقادنّ لهم
+        <lb/>
+
+        فيما تدعو أنت به الضرر إلى نفسك ولا تمالئهم عليه فانظر لنفسك
+        <lb/>
+
+        ولا تلتفت إليهم فيما يشينك
+      </p>
+
+      <p n="Lack of Good Advisors Is Damaging">
+        فإنّ أعظم الأشياء ضررًا على الناس
+        <lb/>
+
+        عامّة وعلى السلطان خاصّة خلّتان ينبغي لهم أن يعدّوها
+        <lb/>
+
+        من أعظم ما يكون من المصائب دخول البليّة عليهم ومفارقة
+        <lb/>
+
+        أهل الصلاح والعلم والرفق بالعمل وأن يكون وزراؤهم وإخوانهم
+        <lb/>
+
+        غير ذوي مروءة ولا غناء في عمل ولا في رأي غير مأمون خوفهم
+      </p>
+
+      <p n="Jackal does not Need Lion">
+        ولم يزل
+        <lb/>
+
+        غناء ابن آوى عنك عظيمًا
+      </p>
+
+      <p n="Lion Benefited from Jackal">
+        وقربه منك لك نافعًا
+      </p>
+
+      <p n="King's Kindness Is Scholar's Merit">
+        لأنّ العالم إذا صحب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

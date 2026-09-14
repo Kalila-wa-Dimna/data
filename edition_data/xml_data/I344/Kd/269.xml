@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="269"/>
+
+      <p n="King Will Miss Queen">
+        إن بقيت
+      </p>
+
+      <p n="Vizier Fears Risk Of Rush">
+        ولست آمنًا لائمة المَلك على عجلتي بقتلتها
+      </p>
+
+      <p n="Viziers Action Depends On King">
+        فلست بقاتلها
+        <lb/>
+
+        حتّى أستطيع رأي المَلك فإن ندم وحزن على ما صنع رددتها إليه
+        <lb/>
+
+        وإن تمّ رأيها رأيه على قتلها أنفذت رأيه فيها
+      </p>
+
+      <p n="Vizier Reflects On Benefits">
+        وإنّي إن أنفذتها
+        <lb/>
+
+        من القتل عملت ثلاثة أعمال منها أن أنجي هلبت من القتل
+        <lb/>
+
+        ومنها أن أفخر بها على الناس ومنها أن أردّ بها العجلة على المَلك
+        <lb/>
+
+        في مثل هذا فيعلم أنّه لا ينبغي له أن يعجل
+      </p>
+
+      <p n="unassigned">
+        فانطلقت بلاد
+        <lb/>
+
+        وهلبت إلى منزله فوكّل بها رجلين من أمناء المَلك على نسائه
+        <lb/>
+
+        وأمر أهله بحفظها وصيانتها وإكرامها حتّى يطّلع رأي المَلك
+        <lb/>
+
+        منها ثمّ خضّب بلاد سيفه بالدم ودخل عليه حزينًا كئيبًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="79"/>
+
+      <p n="Dimna will Make the Lion See His Harm">
+        ما يكون وما أقدر عليه وألينه
+      </p>
+
+      <p n="Dimna's Hope to Impress the Lion">
+        وأنا أرجو أن يرى منّي أفضل مما يرى
+        <lb/>
+
+        من غيري وأن يزداد لي بذلك خيرًا
+      </p>
+
+      <p n="Clever Speech Can Twist the Truth">
+        فإنّ الرّجل الأديب الرفيق
+        <lb/>
+
+        لو شاء أن يبطل الحقّ ويحقّ الباطل أحيانًا لفعل
+      </p>
+
+      <p n="Analogy of Skilled Painter's Illusions">
+        كالمصوّر الماهر
+        <lb/>
+
+        الذي يصوّر في الجدار تصاوير كأنّها خارجة منه وليست بخارجة
+        <lb/>
+
+        وتصاوير كأنّها داخلة وليست بداخلة
+      </p>
+
+      <p n="Dimna's Expectation of the Lion's Response">
+        فإذا أبصر الأسد فعلي
+        <lb/>
+
+        وعرف ما عندي كان هو الذي يلتمس قربي وإكرامي
+      </p>
+
+      <p n="Kalila's Final Warning about Ruler's Danger">
+        قال كليلة
+        <lb/>
+
+        أمّا إذا كان هذا رأيك فإنّي أحذّرك السلطان فإنّ في صحبته خطرًا
+        <lb/>
+
+        عظيمًا وغرورًا كثيرًا
+      </p>
+
+      <p n="Three Risky Endeavors According to Scholars">
+        وقالت العلماء في أمور ثلاثة لا يجترئ عليها
+        <lb/>
+
+        إلّا الأ هوج ولا يسلم منها إلّا المهذّب صحبة السلطان وائتمان النساء
+        <lb/>
+
+        على الأسرار وشرب السمّ للتجربة
+      </p>
+
+      <p n="Analogy of Ruler to a Dangerous Mountain">
+        وإنما شبّهت العلماء السلطان
+        <lb/>
+
+        بالجبل الصعب المرتقى الذي فيه الثمار الطيّبة والجواهر النفيسة
+        <lb/>
+
+        والأدوية النافعة وهو معدن ذلك والأسد والذئاب وكلّ سبع
+        <lb/>
+
+        مخوف والارتقاء إليه شديد والمنام فيه أشدّ
+      </p>
+
+      <p n="Dimna's Persistence Despite Warnings">
+        قال دمنة صدقت
+        <lb/>
+
+        فيما ذكرت غير أنّه من لم يركبْ الأهوال لم ينلْ من الرغائب ومن ترك الأمر
+        <lb/>
+
+        الذي لعلّه أن يبلغ فيه حاجته هيبة ومخافة لعلّه أن يتوقّاه
+        <lb/>
+
+        فليس يبلغ جسيمًا
+      </p>
+
+      <p n="Three Challenging Pursuits Requiring Courage">
+        وقد قيل خصال ثلاثة ليس يستطيعها أحد
+        <lb/>
+
+        إلّا بمعرفة ارتفاع همّة وعظم خطر منها عمل السلطان وتجارة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

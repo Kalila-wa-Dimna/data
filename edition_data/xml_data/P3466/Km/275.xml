@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="275"/>
+
+      <p n="The Vizier Values King R's Justice">
+        في عبده إنّما قاله على الحقيقة حسب عدله ورأفته
+      </p>
+
+      <p n="King R Consults the Viziers in Reverse Order">
+        ثمّ إنّ
+        <lb/>
+
+        الملك بدأ يشاور الثلاثة الوزراء بالعكس أعني من أسفل
+        <lb/>
+
+        إلى فوق
+      </p>
+
+      <p n="King R Asks the Youngest Vizier">
+        فقال لأصغر من عنده ما تقول أنت في هذا الأمر
+        <lb/>
+
+        وما الذي يجب أن نصنع
+      </p>
+
+      <p n="The Youngest Viziers Proposes to Bell the Cats">
+        قال قال له ذلك الوزير الذي
+        <lb/>
+
+        عندي أن تحضر جلاجلًا كثيرة ويُعلّق كلّ جلجل منها في عنق
+        <lb/>
+
+        سنّور ليكون كلّما ذهب وجاز سمعنا صوت الجلجل فحذرنا منه
+      </p>
+
+      <p n="King R Runs the Idea by the Second Vizier">
+        قال الملك للوزير الثاني ما الذي عندك فيما أشار به
+        <lb/>
+
+        صاحبك
+      </p>
+
+      <p n="The Second Vizier Rejects Belling the Cats">
+        قال أنا غير حامد لمشورته فهبنا قد أحضرنا جلاجل
+        <lb/>
+
+        كثيرة فمن منّا يقدر يتقدّم على السنّور حتى يعلّقه في عنقه
+      </p>
+
+      <p n="The Second Viziers Proposes Self-Imposed Exile">
+        والرأي عندي أن نخرج بأجمعنا من هذه المدينة ونقيم في
+        <lb/>
+
+        البرّيّة سنة واحدة إلى أن نعلم أنّ أهل المدينة قد استغنوا
+        <lb/>
+
+        بغيبتنا عن السنانير فمنهم من يقتلهم ومنهم من يطردونه
+        <lb/>
+
+        فيتفرّقون في كلّ ناحية فيهلك منهم ما يهلك وما يحصل
+        <lb/>
+
+        في البرّيّة يصير وحشيًّا لا يُستأنس فإذا هلكوا عدنا نحن بأجمعنا
+        <lb/>
+
+        إلى المدينة كما كنّا
+      </p>
+
+      <p n="King R Runs the Idea by the Third Vizier">
+        قال المَلك للوزير الثالث ما الذي
+        <lb/>
+
+        عندك فيما قال صاحبك
+      </p>
+
+      <p n="The Third Vizier Rejects Self-Imposed Exile">
+        قال الوزير أنا غير حامد له
+        <lb/>
+
+        وذلك أنّا لو خرجنا من المدينة إلى البرّيّة وأقمنا فيها سنة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="44"/>
+
+      <p n="Kalila's Warning and Monkey Parable">
+        واعلم أنّ من تكلّف من الفعل والقول ما ليس من شأنه أصابه ما أصاب
+        <lb/>
+
+        القرد
+      </p>
+
+      <p n="Dimna's Inquiry about the Parable">
+        قال دمنة وكيف كان ذلك
+      </p>
+
+      <p n="Second Subtale of Monkey of Carpenter">
+        قال كليلة
+        <lb/>
+
+        زعموا أنّ قردًا رأى نجّارًا يشقّ خشبة على وتدين
+      </p>
+
+      <p n="Monkey's Misinterpretation">
+        راكبًا عليهما
+      </p>
+
+      <p n="Carpenter's Actions">
+        كلّما شقّ منها ذراعًا أدخل فيها وتدًا فشبّهه بإسوار
+      </p>
+
+      <p n="Monkey's Attempt to Imitate">
+        ثمّ إنّ النجار قام
+        <lb/>
+
+        لبعض حاجته فانطلق القرد يتكلّف ما ليس من صنعته ولا من شأنه
+      </p>
+
+      <p n="Monkey's Positioning on Wood">
+        فركب الخشبة وجعل ظهره قِبل مشقّ الخشبة ووجهه قِبل الوتد
+      </p>
+
+      <p n="Monkey's Predicament">
+        فتدلّت
+        <lb/>
+
+        خصيتاه في ذلك الشقّ
+      </p>
+
+      <p n="Monkey Removing Wedges">
+        ونزع الوتد
+      </p>
+
+      <p n="Consequences of Monkey's Actions">
+        فلمّا نزعه لجّجت خصيتاه في مشقّ
+        <lb/>
+
+        الخشبة حين انضمّت فخرّ مغشيًّا عليه
+      </p>
+
+      <p n="Carpenter's Return and Punishment">
+        وكان أشدّ من ذلك ما لقي
+        <lb/>
+
+        من النجّار من الضرب
+      </p>
+
+      <p n="Dimna's Response and Ambition">
+        قال دمنة قد سمعت مثلك وفهمت
+        <lb/>
+
+        ما ذكرت ولكن اعلمْ أنّه ليس من يدنو من الملوك إنّما يدنو لبطنه
+        <lb/>
+
+        فإنّ البطون تُحشى بكلّ ما كان
+      </p>
+
+      <p n="Superior People Approaching Kings">
+        ولكنّ من تقرّب من الملوك قد يلتمس
+        <lb/>
+
+        الرفعة والمنزلة ليسرّ به الصديق ويسمو به على العدوّ فأمّا أدنى الناس
+        <lb/>
+
+        الذين يرضون بالقليل ويفرحون به
+      </p>
+
+      <p n="Analogy of Dog and Bone">
+        فمثلهم كمثل الكلب الذي يصيب
+        <lb/>
+
+        عظمًا يابسًا فيفرح به
+      </p>
+
+      <p n="Contrast Between Ambitious and Content">
+        فأمّا أهل المروءة والفضل فلا يغنيهم القليل ولا
+        <lb/>
+
+        يرضون به دون أن تسمو همّتهم إلى ما هو أعظم ممّا يستحقّون
+      </p>
+
+      <p n="Lion's Hunting Behavior Analogy">
+        كالأسد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="153"/>
+
+      <p n="Due Process Will Be Followed">
+        الأصحاب على الباطل
+      </p>
+
+      <p n="Judge Calls for Testimony on Three Accounts">
+        فعندها قال القاضي أيّها الجمع اسمعوا
+        <lb/>
+
+        قول سيّدكم ولا تكتموا ما عرفتم من أمر دمنة وأحضروا
+        <lb/>
+
+        في الستر عليه ثلاث خصال
+      </p>
+
+      <p n="Consequences of Taking Evil Deeds Lightly">
+        أمّا أحداهنّ وهي أفضلهنّ ألّا
+        <lb/>
+
+        تزدروا فعله ولا تعدّوه يسيرًا ومن أعظم الرزايا قتل من لا
+        <lb/>
+
+        ذنب له بالكذب ومن علم من أمر هذا الكذّاب الذي
+        <lb/>
+
+        أسلم البريء الذي لا ذنب له إلى القتل بالكذب والنميمة شيئًا فستر
+        <lb/>
+
+        عليه فهو شريكه في الإثم والعقوبة
+      </p>
+
+      <p n="Confession May Lead to Pardon">
+        والثانية إذا اعترف
+        <lb/>
+
+        المذنب بذنبه كان أسلم له وأحرى بالملك وجنده أن يعفو
+        <lb/>
+
+        عنه ويصفحوا
+      </p>
+
+      <p n="Eliminating Criminals Benefits Society">
+        والثالثة ترك مراعاة أهل الدم والفجور
+        <lb/>
+
+        وقطع أسبابهم وموادّتهم عن الخاصّة والعامّة
+      </p>
+
+      <p n="Judge Reiterates the Call for Testimony">
+        فمن علم من
+        <lb/>
+
+        أمر هذا المحتال شيئًا فليتكلّمْ به على رؤوس الأشهاد ممّن
+        <lb/>
+
+        حضر ليكون ذلك حجّة وذريعة وقد قيل إنّه من كتم شهادة
+        <lb/>
+
+        ميّت أُلجم بلجام من نار يوم القيامة فليقل كلّ واحد منكم
+        <lb/>
+
+        بما علم
+      </p>
+
+      <p n="All Attendees are Silent">
+        فلمّا سمع ذلك الجمع كلامه أمسكوا عن القول
+      </p>
+
+      <p n="Dimna Challenges All Only to Say What They Know">
+        فقال دمنة ما يسكتكم تكلّموا بما علمتم واعلموا أنّ لكلّ كلمة
+        <lb/>
+
+        قرينة جوابًا
+      </p>
+
+      <p n="Dimna's Second Subtale of Ignorant Physician">
+        وقد قالت العلماء إنّ من يشهد بما لم ير ويقول
+        <lb/>
+
+        ما لا يعلم يصيبه ما أصاب الطبيب الجاهل الذي قال
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="170"/>
+
+      <p n="Jackal Is Reluctant to Trust Lion Again">
+        غير واثق به وإنّه لا ينبغي إليّ أن أصحبه بعد ما كان
+      </p>
+
+      <p n="King Must not Trust the Wrongfully Punished">
+        فإنّ
+        <lb/>
+
+        الملوك ينبغي لهم أن لا يثقوا بمن عاقبوه والملوك أحقّ
+        <lb/>
+
+        أن يرفضوا ذلك
+      </p>
+
+      <p n="King Must not Trust the Deposed">
+        وكذلك من عزلوه عن عمل كان فيه
+        <lb/>
+
+        واحتاجوا إلى مسالمته
+      </p>
+
+      <p n="King Must not Trust Someone Denied Honor">
+        ولا من كان مستحقًّا للكرامة وا
+        <lb/>
+
+        وللطف فلم يُكرم ولم يُلطف به ونُقص عمّا كان عليه من
+        <lb/>
+
+        الكرامة والإلطاف ثمّ صحبوه بالنقص له من غير استحقاق
+        <lb/>
+
+        لذلك
+      </p>
+
+      <p n="King Must not Trust the Unrewarded">
+        ولا من قُدّم عليه من كان من نظرائه وأكرموه وو
+        <lb/>
+
+        وفضّلوه عليه
+      </p>
+
+      <p n="Kind Must not Trust the Adversarial">
+        ولا من كانت منزلته ضرًّا للملك ونفعًا
+        <lb/>
+
+        له
+      </p>
+
+      <p n="King Must not Trust the Greedy and Unsatisfied">
+        ولا المعروف بالشره والحرص
+      </p>
+
+      <p n="Jackal Gives Lion the Choice">
+        فلينظر الملك فيما ذكرت
+        <lb/>
+
+        وليتدبّره
+      </p>
+
+      <p n="Lion Says He Tested Jackal">
+        فأجابه الملك إنّي قد بلوت أمانتك وعقلك
+        <lb/>
+
+        ووفاءك وعرفت كلّ من كان يحمّل عليك
+      </p>
+
+      <p n="Lion Vows to Disregard Future Slander">
+        ولست بمتحامل
+        <lb/>
+
+        ولا بمصدّق فيك
+      </p>
+
+      <p n="Lion Reinstates Jackal">
+        ثمّ أمر بردّه إلى منزلته
+      </p>
+
+      <p n="Lion Punishes Schemers">
+        وانتقم من
+        <lb/>
+
+        أعدائه
+      </p>
+
+      <p n="End of Chapter">
+        انتهى الباب الحادي عشر
+      </p>
+
+      <p n="unassigned">
+        الباب الثاني عشر باب الإسوار واللبوة
+        <lb/>
+
+        قال الملك قد سمعت هذا المثل فحدّثني عمّن ترك ضرّ غيره
+        <lb/>
+
+        لضرّ نفسه واتّعظ بذلك وانصرف عن ضرّ الناس قال
+        <lb/>
+
+        الفيلسوف أنّ من يظلم الناس ويهمل أمورهم ولا يبالي
+        <lb/>
+
+        لإصابة معشبة فقد هلك وهُلك وهو من أهل الجهالة
+        <lb/>
+
+        ومن لم يفكّر في العواقب لم يأمن المصائب وحقيق
+        <lb/>
+
+        أن لا يسلم من المعاطب وإنّي مخبرك بذلك قال الملك
+        <lb/>
+
+        وكيف كان ذلك قال الفيلسوف زعموا أنّ لبوة كانت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+    <chapter>Lh</chapter>
+  </chapter>
+</TEI>

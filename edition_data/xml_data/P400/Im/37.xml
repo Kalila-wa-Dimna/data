@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="37"/>
+
+      <p n="A Sighted and a Blind Fall into a Ditch">
+        كما أنّه لو أنّ رجلين أحدهما أعمى والآخر بصيرًا حينهما مع الأجل
+        <lb/>
+
+        فوقعا في كوّة فهلكا جميعًا كانا في الهلكة سواء إذ صارا في
+        <lb/>
+
+        قعر البئر
+      </p>
+
+      <p n="The Sighted Man Has No Excuse">
+        غير أنّ البصير أقلّ عذرًا عند الناس إذ كان له عينان
+        <lb/>
+
+        يبصر بهما من الأعمى الذي هو بما صار إليه جاهل
+      </p>
+
+      <p n="Scholar Must Discipline Himself">
+        وعلى العالم أن
+        <lb/>
+
+        يبتدئ بنفسه فيعظها بعلمه ولا يكون غايته أن يفيد عليه غيره
+        <lb/>
+
+        وينسى أن يعاهد نفسه بما عليه
+      </p>
+
+      <p n="Water-Spring Benefits Only Others">
+        فيكون كالعين الذي يشرب
+        <lb/>
+
+        الحيوان ماءها وينتفعون بها وليس لها من منفعة ذلك شيء
+      </p>
+
+      <p n="Giving Advice Is Conditioned upon Mastery">
+        ثمّ
+        <lb/>
+
+        إذا أحكم ما أراد أن يُحكم من نفسه فتشه غيره وأفاده من
+        <lb/>
+
+        طلبه
+      </p>
+
+      <p n="Three Things Are Needed for Worldly Life">
+        فإنّه يُقال إنّ خصالًا ثلاثًا ينبغي لصاحب الدنيا أن يقتبسها
+        <lb/>
+
+        منها العلم ومنها المال ومنها الرغبة في المعروف
+      </p>
+
+      <p n="One Should Not Condemn Faults in Others One Has">
+        وليس ينبغي لعالم أن يعتب على رجل فعلًا يدخل هو في مثله
+      </p>
+
+      <p n="Reader Is Like a Blind Blaming another Blind">
+        فيكون كالأعمى الذي يعيّر الأعور بعوره
+      </p>
+
+      <p n="No Benefit Should Be Obtained by Harming Others">
+        ولا ينبغي له أن يلتمس
+        <lb/>
+
+        صلاحًا لنفسه بإفساد غيره
+      </p>
+
+      <p n="A Merchant Steals from His Partner">
+        فإنّه من فعل ذلك كان خليقًا أن
+        <lb/>
+
+        يصيبه ما أصاب الرجل الذي يُقال إنّه كان له ولشريكه سمسم
+        <lb/>
+
+        وكان سمسمهما في بيت واحد غير أنّ الذي لكلّ واحد منهما مفردًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

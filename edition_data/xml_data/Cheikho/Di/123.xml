@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="123"/>
+
+      <p n="Dimna's False Confession Would Take Away His Excuse, Be Unjust to His Soul, and Violate His Faith and Character">
+        بغيري فما عذري عندكم إذا سعيت بنفسي كاذبًا عليها فأسلمتها لتقتل على
+        <lb/>
+
+        معرفةٍ ببراءتها فهي أعظم الأنفس عليّ جرمةً حرمةً وأكرمها عليّ حقًّا ولو
+        <lb/>
+
+        فعلت ذلك بأدناكم أو أقصاكم لم يسعني ذلك في ديني ولم يجمل بي في
+        <lb/>
+
+        خُلُقي
+      </p>
+
+      <p n="Judge's Demand of Confession Is False Counsel or Ruse Not Befitting Judges">
+        فاكففْ عنّي هذه المقالة فإن كانت منك نصيحةٌ فقد أخطأت موضعها
+        <lb/>
+
+        وإن كانت منكم خديعة فإنّ أقبح الخدع ما فطن له وليس الخدع ولا المكر
+        <lb/>
+
+        من أخلاق صالح القضاة
+      </p>
+
+      <p n="A Judge's Speech Becomes a Ruling and Sunna">
+        وإلّا فاعلم أنّ قولك هذا حكم منك وسنّة لأنّ
+        <lb/>
+
+        كلّ أمرٍ أمرت به القضاة القضلة فهو حكمٌ وسنّةٌ ما أخذ بصوابه أهل الصواب
+        <lb/>
+
+        ويصير خطأه عدلًا لأهل الأدغال
+      </p>
+
+      <p n="Judge Departed from Former Virtue in Dimna's Case">
+        وإنّ من شقاء جدّي أيضًا أنّك لم تزل في
+        <lb/>
+
+        أنفس الناس فاضلًا في رأيك وفي حكمك حتّى يعيّر كذا ذلك منك
+        <lb/>
+
+        في أمري
+      </p>
+
+      <p n="Judge Forsook Professional Knowledge and For Acting on Thoughts">
+        فتركت علم القضاة وانصرفت إلى العمل بالظنون التي تختلف بها
+        <lb/>
+
+        الحالات في الأمور
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded and Court's Members Leave for the Day">
+        فكتبوا ذلك كلّه ورفعوه إلى الأسد
+      </p>
+
+      <p n="The Lion Shows the Records to His Mother Who Warns of Dimna’s Past and Future Crimes">
+        فنظر فيه ودعا أمّه فأعرض فعرض
+        <lb/>
+
+        ذلك عليها فكان من قولها أن قالت لقد صار اهتمامي بأن يحتال لك
+        <lb/>
+
+        دمنة بمكره ودهائه حتّى يقتلك أو ينقص ينقض عليك أمرك أعظم من
+        <lb/>
+
+        اهتمامي بما سلف من ذنبه إليك في الغشّ والسعاية بوزيرك وصفيّك
+        <lb/>
+
+        حتّى قتلته بغير ذنبٍ
+      </p>
+
+      <p n="Lion Moved by Mother's Words">
+        فوقع قولها في نفس الأسد
+      </p>
+
+      <p n="The Lion Asks His Mother for Testimony about Dimna’s Guilt">
+        فقال لها أخبريني عن الذي أخبرك
+        <lb/>
+
+        بما سمع من كلام كليلة ودمنة فإن قلته فذلك حجّةٌ لي من قبل دمنة
+      </p>
+
+      <p n="Mother Wants to Keep Source Secret">
+        قالت إنّي أكره أن أفشي سرًّا اُستُظهرتُ عليه بركوب ما نهت عنه
+        <lb/>
+
+        العلماء من كشف الأسرار
+      </p>
+
+      <p n="Mother Will Request Source's Leave to Pass on Testimony">
+        ولكنّي سأطلب إلى الذي ذكر لي ذلك أن يحلّلني
+        <lb/>
+
+        من ذكره لك أو أن يقوم له بعلمه وما سمع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

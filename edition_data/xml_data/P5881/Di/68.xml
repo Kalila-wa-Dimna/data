@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="68"/>
+
+      <p n="The Intelligent Must Verify Statements">
+        والنميمة فإنّه من أحزم الرأي وأسعد السعادة وأحمد في عواقب الأمور
+      </p>
+
+      <p n="The King Asks about Dimna's Fate">
+        قال
+        <lb/>
+
+        ديشلم لبيدبا رأس الفلاسفة أخبرني عن الواشي المحتال الماهر في الخيانة كيف يفسد
+        <lb/>
+
+        الودّ الثابت بين المتحابّين وحدّثني كيف كان غدر دمنة للأسد حتّى قتل الثور
+        <lb/>
+
+        وما كانت حجّته عنده إلى ما صار إليه أمره وكيف اطّلع على فعله وسوء تدبيره وحيله
+        <lb/>
+
+        ومكره
+      </p>
+
+      <p n="The Philosopher's Answer About the King's Killing">
+        قال إنّه لمّا قتل الأسد الثور ندم على قتله وعلى عجلته في أمره وتذكّر خدمته له
+        <lb/>
+
+        ونصيحته إيّاه وما كان يطيل حديثه مع أصحابه ليقطع عنه ما يداخله من الحزن والكآبة
+        <lb/>
+
+        على قتل الثور
+      </p>
+
+      <p n="A Leopard Was the Lion's Confidant">
+        قال وكان من جنود الأسد ووزرائه نمر وكان من أكرم أصحابه عنده
+        <lb/>
+
+        وأطولهم به خلوة وكان لا يفارقه ليلًا ولا نهارًا وكان معلّم الأسد
+      </p>
+
+      <p n="The Leopard Overhears Kalila Chastising Dimna">
+        فخرج الأسد النمر ذات
+        <lb/>
+
+        ليلة متوجّهًا إلى منزله فاضطرّه المشي إلى بيت كليلة ودمنة وكان البيت على طريقه
+        <lb/>
+
+        فلمّا انتهى النمر إلى الباب سمع كليلة يعاتب دمنة ويعذله في فساده بين الأسد والثور
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

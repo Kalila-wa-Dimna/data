@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="123"/>
+
+      <p n="unassigned">
+        باب الأسد والثور والله سبحانه تعالى
+      </p>
+
+      <p n="Chapter Title">
+        باب
+        <lb/>
+
+        الفحص عن أمر دمنة
+      </p>
+
+      <p n="On Seeking One's Benefit by Others' Harm">
+        وهو باب من أراد منفعة
+        <lb/>
+
+        نفسه بضرّ غيره إلى ما يصير عاقبة أمره
+      </p>
+
+      <p n="The King Asks about Dimna's Fate">
+        قال الملك الفيلسوف
+        <lb/>
+
+        أخبرني ما كان عذر دمنة حين أمر الملك فقتله
+      </p>
+
+      <p n="The Philosopher's Answer About the King's Killing">
+        قال الفيلسوف
+        <lb/>
+
+        بلغنا أنّ الأسد لمّا قتل شتربة ومضى لذلك أيّامًا
+      </p>
+
+      <p n="A Leopard Was the Lion's Confidant">
+        خرج النمر ذات
+        <lb/>
+
+        ليلةٍ وكان يُدعى معجب الوشي وكان معلّم الأسد ومعينه
+      </p>
+
+      <p n="The Leopard Overhears Kalila Chastising Dimna">
+        يطلب
+        <lb/>
+
+        قبسًا من بيت كليله فلمّا انتهى إلى الباب إذا هو بكليله
+        <lb/>
+
+        يلوم دمنة ويعدله عن صنيعه وما ارتكبه من الثور عن غير ذنبٍ
+      </p>
+
+      <p n="Kalila Predicts Dimna's Doom">
+        ويُعلمه أنّه غير ناجٍ من نميمته وكذبه وأنّه معاقبه ومهلكه
+      </p>
+
+      <p n="The Leopard Confides in the Lion's Mother">
+        فلمّا سمع
+        <lb/>
+
+        بذلك النمر انطلق حتّى دخل على أمّ الأسد فحدّثها بما سمع وجرى
+      </p>
+
+      <p n="The Mother Goes to the Lion and Finds Him Sad">
+        فانطلقت أمّ الأسد حين أصبحت إلى ابنها فرأته حزينًا فلمّا رأت
+        <lb/>
+
+        ذلك منه علمت أنّه ليس إلّا على شتربة حزنه
+      </p>
+
+      <p n="The Mother Says Grief is Weakening">
+        فقالت إنّ الهمّ والأسف
+        <lb/>
+
+        لا يزِدان شيئًا وهما يُنحلان البدن ويذهبان العقل والقوّة
+      </p>
+
+      <p n="The Mother Criticizes Lion's Grieving">
+        فأعلمني
+        <lb/>
+
+        ما شأنك فإن كان ممّا ينبغي أن يُحزن له فلست ولا واحدًا من جندك
+        <lb/>
+
+        يخلوا من مكانٍ وإن كان إنّما هو لقتل شتربه فقد استبان لك
+        <lb/>
+
+        ولنا أنّك ركبت ذلك منه ظلمًا عن غير جرمٍ ولا حدثٍ ولا غشٍّ ولا مخالفةٍ
+        <lb/>
+
+        ولو كنت فكّرت في أمره وقست ذلك في نفسه بما تجد في نفسك له لكان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

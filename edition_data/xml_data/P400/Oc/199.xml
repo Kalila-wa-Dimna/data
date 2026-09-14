@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="199"/>
+
+      <p n="Man Goes To Sleep">
+        البقرة وأصاب من الطعام
+      </p>
+
+      <p n="Thiefs Concerns">
+        فقال اللصّ لعلّ الشيطان إذا بدأ
+        <lb/>
+
+        بخنقه صاح فيجتمع الناس فلا أقدر على سرقة البقرة فقال انتظرني
+        <lb/>
+
+        حتّى <> ثمّ دونكه
+      </p>
+
+      <p n="Demons Concerns">
+        وقال الشيطان مثل ذلك
+      </p>
+
+      <p n="Thief And Demon Shout">
+        ولم يزالا في مثل هذا
+        <lb/>
+
+        الكلام وأشباهه يختصمان حتّى نادى اللصّ إنّ هذا الشيطان
+        <lb/>
+
+        يريد خنقك ونادى الشيطان يريد أن يذهب ببقرتك
+      </p>
+
+      <p n="Owl Comments On Thief And Demon Story">
+        وإنّما
+        <lb/>
+
+        ضربت لك هذا المثل لأنّ الرجل حقيق أن يصطنع صديق عدوّه
+        <lb/>
+
+        إذا نابذه وخالفه وسُخط عليه فربّما أعظم المنفعة له فيه وأراه
+        <lb/>
+
+        عورته ودلّه على فرصته
+      </p>
+
+      <p n="Objectors Deems Owls Misled">
+        فقال الأوّل من أهل مشورة البوم
+        <lb/>
+
+        للآخر منهم إنّي أراه قد غرّكم قول الغراب حتّى اطمأننتم إليه
+        <lb/>
+
+        واسترسلتم
+      </p>
+
+      <p n="Objector Advises Death">
+        وإنّي أرى لكم أيّها الملك لن تقتله فإنّي أخاف
+        <lb/>
+
+        عاقبة كينونته بيننا
+      </p>
+
+      <p n="Foes Cant Fool The Wise">
+        فإنّ الحليم العاقل لا يعطّفه الكلام
+        <lb/>
+
+        على عدوّه وإنّ الجاهل المغفّل ينخدع باليسير
+      </p>
+
+      <p n="Mention Deceived Carpenter">
+        كالنجّار
+        <lb/>
+
+        الذي كان بما سمع أشدّ تصديقًا منه بما رأى
+      </p>
+
+      <p n="King O Request Story D C">
+        فقال
+        <lb/>
+
+        ملك البوم وكيف كان ذلك مثل
+      </p>
+
+      <p n="Carpenter Learns Of Wifes Affair">
+        فقال زعموا أنّ نجّارًا
+        <lb/>
+
+        كانت له امرأة فعلّقها جار له ففطن أهله بذلك
+      </p>
+
+      <p n="Carpenter Wants Proof">
+        فقال
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

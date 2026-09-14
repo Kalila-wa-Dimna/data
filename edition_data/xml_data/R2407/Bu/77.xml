@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="77"/>
+
+      <p n="The First Aim Is to Attract the Youth">
+        فتستمال به قلوبهم من التعجّب بصنوف الأصباغ والألوان
+        <lb/>
+
+        وليكون قلوب نساء الملوك أميل وحرصهم عليه أشدّ
+        <lb/>
+
+        لتطريق النوادر من حيل الحيوان
+      </p>
+
+      <p n="The Second Aim Is to Please Kings">
+        والغرض الثاني أن
+        <lb/>
+
+        يظهر تحقيق صور الحيوان وتحسّنه بصنوف الألوان
+        <lb/>
+
+        من الأصباغ والصناعة المحسّنة الصورة
+      </p>
+
+      <p n="The Third Aim Is to Benefit Craftsmen">
+        والغرض
+        <lb/>
+
+        الثالث أن يكون اتّخاذ الملوك لهم ومن دونهم ويكثروا
+        <lb/>
+
+        بذلك نسخه فلا يبطل ولا يخلق على الأيّام وتنتفع
+        <lb/>
+
+        الصنّاع من ناقل ومصوّر
+      </p>
+
+      <p n="The Fourth Aim Is Directed at Philosophers">
+        والغرض الرابع الإفضاء
+        <lb/>
+
+        وذلك بحضور الفيلسوف خاصّة
+      </p>
+
+      <p n="The Ending of the Preface">
+        كمل غرض هذا الكتاب والله الموفّق للصواب وإليه المآب
+      </p>
+
+      <p n="unassigned">
+        قال برزوية رأس أطبّاء فارس وهو الذي تولّى
+        <lb/>
+
+        انتساخ هذا الكتاب وترجمته من كتب الهند إنّ أبي
+        <lb/>
+
+        كان من المقابلة وأمّي من عظماء الزمازمة وكان ممّا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

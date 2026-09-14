@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="118"/>
+
+      <p n="Good People Suffer Misfortune Fastest">
+        الشرور والحذر منها أجراهم أن يصيبه الشرّ من الملك والخاصّة
+        <lb/>
+
+        والجند
+      </p>
+
+      <p n="Ascetics Shun People's Company">
+        فلذلك انقطعت العلماء لأنفسها واختارت العمل
+        <lb/>
+
+        بما يرضي الله في الدنيا والآخرة
+      </p>
+
+      <p n="Doubt and Certainty Must Not Be Confused">
+        وقد قالت العلماء إنّه من
+        <lb/>
+
+        صدق ما ينبغي أن يُكذّب ومن كذّب لا ينبغي أن يُصدّق
+      </p>
+
+      <p n="Dimna's First Subtale of the Woman Who Mistook Her Servant for Her Lover">
+        ومن
+        <lb/>
+
+        فعل ذلك يصيبه ما أصاب المرأة التي بذلت نفسها لرجلٍ
+        <lb/>
+
+        حتّى فضحها بالاشتباه عليها والتلبّس
+      </p>
+
+      <p n="Lion's Question for Woman's Tale">
+        قال الأسد وكيف
+        <lb/>
+
+        كان ذلك
+      </p>
+
+      <p n="A Merchant's Wife Had a Lover">
+        قال دمنة زعموا أنّه كان في بعض المدائن تاجرًا
+        <lb/>
+
+        وكانت له امرأة ذات حظٍّ من الجمال والحسن وكان إلى
+        <lb/>
+
+        جانب بيت التاجر مصوّرًا ماهرًا في صنعته وكان المصوّر
+        <lb/>
+
+        لامرأة التاجر آلفًا وخلًّا
+      </p>
+
+      <p n="Woman Asks Lover to Create a Sign">
+        فقالت له المرأة يومًا إن استطعت
+        <lb/>
+
+        أن تحتال بصناعةٍ أطّلع بها على مجيئك إلى عندي من غير
+        <lb/>
+
+        كلامٍ ولا نداءٍ ولا ارتيابٍ به من فعلك
+      </p>
+
+      <p n="Painter Suggests Black-and-White Coat to Woman">
+        قال لها المصوّر عندي
+        <lb/>
+
+        ذلك فعمد إلى ملاءةٍ وصوّر فيها من كلّ الصور ولوّن بياضها
+        <lb/>
+
+        بألوان الأصباغ فكان يبدو بياضها في الليلة الظلماء
+        <lb/>
+
+        كضوء القمر وسوادها كسواد الحدقة وكان إذا أتاها ليلًا
+        <lb/>
+
+        المصوّر لبس تلك الملاءة ولوّح بها فتخرج إليه ويجتمعان
+      </p>
+
+      <p n="The Woman's Servant Hears About Coat">
+        فبصر
+        <lb/>
+
+        به عبدٌ كان للتاجر كان خليلًا لأمّ المصوّر فتعجّب
+        <lb/>
+
+        من ذلك
+      </p>
+
+      <p n="Woman's Servant Borrows Coat In Painter's Absence">
+        فغاب المصوّر بعض الليالي عند أصحابه فطلب العبد
+        <lb/>
+
+        من أمّ المصوّر تلك الملاءة لينظر فيها ويسرع بردّها فأعطته
+      </p>
+
+      <p n="Servant Tricks Woman">
+        فلبسها وأتى سيّدته على ما كان يأتيها المصوّر فلمّا رأته
+        <lb/>
+
+        لم تشكّ أنّه خليلها فأمكنته من نفسها فقضى العبد حاجته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

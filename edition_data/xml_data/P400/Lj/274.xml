@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="274"/>
+
+      <p n="Lion Should Reinstate Jackal">
+        عندك
+      </p>
+
+      <p n="Whom not to Reinstate">
+        فإنّ الإخوان ليسوا سواء منهم من مواصلته ضرّ وبلاء وفتنة
+      </p>
+
+      <p n="The Faithless Should Be Given Up">
+        ومنهم الكفور للحسنى الزاهد في الخير ومنهم الجريء على ركوب الإثم
+        <lb/>
+
+        المنزوع منه الرحمة فلا يرجو لعمله ثوابًا ولا يتخوّف عليه عقابًا
+        <lb/>
+
+        ولا يؤمن بالبعث والحساب والجزاء
+      </p>
+
+      <p n="The Irascible Should Be Given Up">
+        ومنهم السريع الغضب
+        <lb/>
+
+        الشره النفس الشديدة الحرص التابع لشهوته وهواه المتتابع عند المعروف
+        <lb/>
+
+        بالخديعة والخلابة
+      </p>
+
+      <p n="The Hedonistic Should Be Given Up">
+        ومنهم صاحب لذّات وشهوات وشرب ومنهم
+      </p>
+
+      <p n="The Faithful Should Be Kept">
+        أهل الصدق والوفاء فأولئك أهل دين ولبّ وشكر ووفاء وعهد
+        <lb/>
+
+        وحسن خليقة وابن عرمكة لا يبطرهم الغنى ولا يغبطهم الفقر لاستقامة
+        <lb/>
+
+        طريقتهم فَوَفوا لإخوانهم وقلّ حدّهم وعرفوا حقّ الله عليهم فاحتلبوا
+        <lb/>
+
+        كلّ ما فيه
+      </p>
+
+      <p n="Keeping the Virtuous Is Beneficial">
+        مأثم أولئك حقّ مؤاخاتهم رشد ومؤاخاتهم علم يُقتبس الخير
+        <lb/>
+
+        منهم ويُلتمس عندهم
+      </p>
+
+      <p n="Jackal Has Been Tested">
+        وإنّ ابن آوى كان من أولئك وقد كنت جرّبت ذلك
+        <lb/>
+
+        منه واختبرته من رأيه
+      </p>
+
+      <p n="Lion Apologizes to Jackal">
+        فلمّا سمع الأسد ذلك من قول أمّه دعا ابن آوى فاعتذر إليه
+        <lb/>
+
+        ممّا كان صنع به وأوعده خيرًا
+      </p>
+
+      <p n="Lion Wants to Reinstate Jackal">
+        وقال له إنّي معيدك على الذي كنت عليه
+        <lb/>
+
+        ومولّيك الذي أنت أهله ومؤتمنك وجاعلك عندي بأفضل المنازل
+      </p>
+
+      <p n="Untrue Friends Seek Only Their Own Benefit">
+        فقال ابن آوى إنّ شرّ الأخلّاء من التمس منفعة نفسه بضرّ أخيه وكان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="186"/>
+
+      <p n="King Has Quack Drink the Poison Too">
+        منه فمات
+      </p>
+
+      <p n="Speaking Ignorantly to Please Others Is Wrong">
+        وإنّما ضربت لك هذا المثل لكيلا تتكلّموا بما لا تعلمون
+        <lb/>
+
+        التماس رضى غيركم
+      </p>
+
+      <p n="Dimna Interprets the Tale">
+        فإنّه إنّما يُجزى كلّ امرئ بعمله وأنا بريء
+        <lb/>
+
+        ممّا لطّخت به قائم بين أيديكم
+      </p>
+
+      <p n="Prominent Courtier/Head of Court Suggests Physiognomy">
+        فقال رأس الخنازير لثقته
+        <lb/>
+
+        بمنزلته من الملك اسمعوا أيّها الجمع وفكّروا فيما أقول
+      </p>
+
+      <p n="Bodily Marks Are Proof of Character">
+        إنّ العلماء لم يدعوا شيئًا من آيات الأشرار والأخيار وعلاماتهم
+        <lb/>
+
+        في أجسادهم إلّا يبيّنوه
+      </p>
+
+      <p n="Dimna’s Character is Visible in His Body">
+        وعلامات الأشرار في هذا الشقيّ
+        <lb/>
+
+        بينّة وقد طار له مع ذلك ثناء سوء
+      </p>
+
+      <p n="Judge/Investigator/Audience Request Physiognomical Evaluation">
+        فقال عظيم الجمع
+        <lb/>
+
+        لرأس الخنازير قد سمعت ذلك وقليل من يعرفه فأعلمنا
+        <lb/>
+
+        ما رأيت في هذا الشقيّ
+      </p>
+
+      <p n="Prominent Courtier Diagnoses Dimna as Traitor">
+        فأخذ بيد دمنة وقال في كتب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

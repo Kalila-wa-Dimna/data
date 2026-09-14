@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="254"/>
+
+      <p n="Wolf Steps In">
+        يستبين له
+      </p>
+
+      <p n="Lion Must Punish Jackal">
+        فقال بعد أن اطّلع الملك على خيانة ابن آوى فلا يعفو عنه
+        <lb/>
+
+        فإنّه إن عفا عنه لم يطّلع الملك بعدها على خيانة خائن ولا ذنب مذنب
+      </p>
+
+      <p n="Lion Has Jackal Arrested">
+        فأمر الأسد بابن آوى أن يُخرج ويُحتفظ به
+      </p>
+
+      <p n="Courtiers Are Amazed at Lion's Unawareness">
+        فقال بعض جلساء الملك إنّي ﻷعجب
+        <lb/>
+
+        من رأي الملك ومعرفته بالأمور كيف يخفى عليه أمر هذا ولم يعرف خِبّه ومخادعته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

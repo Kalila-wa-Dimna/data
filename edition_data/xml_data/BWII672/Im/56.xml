@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="56"/>
+
+      <p n="The Youngest Reflects on Wealth">
+        أيّتها النفس إنّما المال يجنيه الجاني لابتذال الدنيا
+        <lb/>
+
+        وفعل الخير لآخرته وشرف المنزلة والاستغناء عمّا في
+        <lb/>
+
+        أيدي الناس ويصرف منه في وجوه البرّ ما يصلح به
+        <lb/>
+
+        آخرته وأي برّ أحسن من صلة الرحم والإنفاق عليهم
+      </p>
+
+      <p n="Allocating Wealth Poorly is Poverty">
+        وأمّا الجاني إذا جمع وما التذّ في شيء من دنياه وآخرته
+        <lb/>
+
+        فيكون حاله كالمعسر ولا فرق بينه وبين الموسر والأعزب
+        <lb/>
+
+        إنّه يتحاسب على القير والقطمير
+      </p>
+
+      <p n="False Spending Brings Regret">
+        ويبقى يوم القيامة واقع
+        <lb/>
+
+        بالحسرة والندامة
+      </p>
+
+      <p n="The Youngest Brother Decides To Help">
+        وأنا مرادي أنّني أستتيب إخوتي
+        <lb/>
+
+        وأجمل حالهما من أموالي الذي رُزقته محض فضل الله
+        <lb/>
+
+        الله اليس وإنّ المال الذي بين يديّ مال أبيهما فإنّ
+        <lb/>
+
+        الأولى إنفاق بعض ما عندي في صيانة رحمي وأكون
+        <lb/>
+
+        أسعف بذلك إخواتي
+      </p>
+
+      <p n="The Youngest Brother Scolds His Siblings">
+        ثمّ عمد إلى إخوته ووبّخهما على
+        <lb/>
+
+        أفعالهما فوقفا على قدم الاعتذار وندموا وتابوا
+      </p>
+
+      <p n="The Youngest Brother Shares His Wealth">
+        فأعطى لكلّ واحد منهما ألف كيس ودلّهم على أصناف
+        <lb/>
+
+        التجارات المربحة وأوصاهما بالحرص وأعطاهما نظره
+        <lb/>
+
+        ومشى حالهما فتابوا وباعوا واشتروا ونمت أرباحهما
+        <lb/>
+
+        وانصلح حالهما
+      </p>
+
+      <p n="The Reader Must Always Come Back to the Book">
+        فمن أجل ذلك يجب على مطالع هذا
+        <lb/>
+
+        الكتاب أن يديم النظر فيه ويبحث عن معانيه
+      </p>
+
+      <p n="The Book Is Not about Animals">
+        ولا يظنّ
+        <lb/>
+
+        أنّ الذي قُصد فيه الإخبار عن بهيمتين أو محاورة أسد
+        <lb/>
+
+        وثور صحيح بل يبحث عن مقصده الفائدة
+      </p>
+
+      <p n="A Fisher Finds an Empty Shell">
+        فإلّم يفعل ما ذكرنا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

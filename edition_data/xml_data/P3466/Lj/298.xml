@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="298"/>
+
+      <p n="Jackal Declines Position">
+        رفق
+      </p>
+
+      <p n="Lion Has Eager Candidates">
+        وأنت ملك السباع وعندك من أجناس السباع عدد كثير فيهم
+        <lb/>
+
+        نيل وقوّة ولهم به وبالسلطان رفق فإن استعملتهم أغنوا عنك
+        <lb/>
+
+        واغتبطوا بعملك
+      </p>
+
+      <p n="Lion Does not Excuse Jackal">
+        قال الأسد دع عنك هذا فإنّي غير
+        <lb/>
+
+        معفيك من العمل
+      </p>
+
+      <p n="Two Kinds Serve Kings">
+        قال ابن آوى إنّما يستطيع عمل السلطان
+        <lb/>
+
+        رجلان لست بواحد منهما إمّا فاجر مصانع ينال حاجته بفجوره
+        <lb/>
+
+        ويسلم بمصانعته وإمّا رجل مهين لا يحسده أحد ولا يحسد أحدًا
+      </p>
+
+      <p n="Good Advisor Is Hated">
+        وأمّا من أراد أن يصحب الملوك بالصدق والنصيحة والعفاف
+        <lb/>
+
+        لا يخلط ذلك بمصانعة فقلّ ما يستقيم له ذلك وقلّ ما يدوم له
+        <lb/>
+
+        صحبتهم لأنّه يجتمع عليه عدوّ السلطان وصديقه بالبغي والعداوة
+        <lb/>
+
+        والحسد
+      </p>
+
+      <p n="Threats against Good Advisor">
+        فأمّا صديق السلطان فينافسه في منزلته ويبتغي عليه
+        <lb/>
+
+        ويعاديه من أجلها وأمّا عدوّ السلطان فيضطغن عليه ويحسده
+        <lb/>
+
+        لصحبته سلطانه وغنائه عنه وكفايته إيّاه وحسن قيامه فإذا اجتمع
+        <lb/>
+
+        عليه هذان الصنفان كان قد تعرّض للهلاك
+      </p>
+
+      <p n="Lion Promises Jackal Protection">
+        قال الأسد
+        <lb/>
+
+        لا يكون بغي أصحابي وحسدهم عليك ممّا يعرض في نفسك فإنّي كافيك
+        <lb/>
+
+        ذلك وبالغ بك في الإكرام والإحسان لهمّتك
+      </p>
+
+      <p n="Jackal Wants to Remain Carefree">
+        قال ابن آوى
+        <lb/>
+
+        إن كان الملك يريد بي الإحسان والإكرام فليعفِني من هذا وليدعني
+        <lb/>
+
+        أعيش في البرّيّة آمنًا من أن أُحسد
+      </p>
+
+      <p n="Kings' Advisors Suffer">
+        فقد علمت أنّ صاحب السلطان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

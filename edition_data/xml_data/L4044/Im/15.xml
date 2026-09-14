@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="15"/>
+
+      <p n="Readers Should Look for Hidden Meaning">
+        لم ينتفع بما ظهر له منه
+      </p>
+
+      <p n="A Nut Has to Be Cracked">
+        كما لو أنّ رجلًا أُتي بجوز صحاح في قشره لم ينتفع به
+        <lb/>
+
+        حتّى يكسره ويستخرج ما فيه
+      </p>
+
+      <p n="Readers Should Extract Hidden Meaning">
+        وعليه أن يعلم أنّ له خبيئًا وأن يلتمس علم ذلك
+      </p>
+
+      <p n="Man Acquires Yellow Folio">
+        ولا يكون مثل الرجل صاحب الصحيفة الصفراء بلغني أنه طلب شيئًا
+        <lb/>
+
+        من علم الفصاحة فأتى صديقًا له ومعه صحيفة صفراء فسأله أن يكتب له
+        <lb/>
+
+        أصل العربيّة في تلك الصحيفة فكتب له شيئًا من ذلك
+      </p>
+
+      <p n="Man Memorizes from Yellow Folio">
+        فأخذ الرجل الصحيفة
+        <lb/>
+
+        فانطلق بها إلى منزله وجعل يقرأها وهو لا يدري ما معنى الذي يقرأه إلّا
+        <lb/>
+
+        أنّه يقرأ الذي يرى في الصحيفة وجعل يقعد مع القوم وهو يظنّ أنّه قد أحكم
+        <lb/>
+
+        ما في الصحيفة
+      </p>
+
+      <p n="Man Reads from Yellow Folio and Errs">
+        فتكلّم بكلمة أخطأ فيها فقال له بعض من عنده من
+        <lb/>
+
+        القوم لحنت أيها الرجل فقال ألحن والصحيفة الصفراء في منزلي
+      </p>
+
+      <p n="One Should Seek Knowledge">
+        فالمرء حقيق
+        <lb/>
+
+        أن يطلب العلم
+      </p>
+
+      <p n="Intelligent Readers Must Implement Knowledge">
+        فإذا وجد حاجته فهم وعرف وبلغ غايته وانتفع بما عرف
+        <lb/>
+
+        وتأدّب بما رأى فيه من الأدب
+      </p>
+
+      <p n="One Should Always Seek More Knowledge">
+        فإنّه يُقال في أمرين لا ينبغي لأحد أن يستكثر
+        <lb/>
+
+        منهما كثيرًا العقل والتزوّد للآخرة
+      </p>
+
+      <p n="Culture and Knowledge Are a Necessity">
+        ويُقال أيضا في أمرين يحتاج إليهما
+        <lb/>
+
+        كلّ من يحتاج إلى الحياة الأدب الصالح والمال الكثير
+      </p>
+
+      <p n="Culture Is the Spark of Life">
+        ويُقال الأدب
+        <lb/>
+
+        يجلو العقل كما يجلو الودك ظلمة النار ويزيدها ضوءًا
+      </p>
+
+      <p n="Culture Advances One's Rank">
+        والأدب يرفع منزلة
+        <lb/>
+
+        صاحبه
+      </p>
+
+      <p n="A Ball Well Kicked Travels High">
+        كما ترتفع الكرة يضرب بها الرجل الشديد
+      </p>
+
+      <p n="Man Notices Burglar but Feigns Sleep">
+        ومثل من استعمله ومن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

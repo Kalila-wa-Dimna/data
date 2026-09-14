@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="371"/>
+
+      <p n="Lion Hears of Jackal">
+        والعبادة والتألّه في الرأي حتّى بلغ ذلك أسدًا كان ملك السباع
+        <lb/>
+
+        بتلك الناحية فرغب فيه وفي الذي بلغه عنه من العفاف والصدق والأمانة
+      </p>
+
+      <p n="Lion Verifies Jackal's Qualities">
+        فبعث إليه وأتى به وكلّمه
+      </p>
+
+      <p n="Lion Offers Viziership">
+        وقال له إنّ مُلكي عظيم وأنا إلى الأعوان
+        <lb/>
+
+        محتاج وقد بلغني عنك نبل وعفاف ثمّ قدمت عليّ فازددت
+        <lb/>
+
+        فيك رغبة وأنا مولّيك من عملي جسيمًا ورافع منزلتك إلى
+        <lb/>
+
+        منزلة الأشراف وجاعلك من خاصّتي
+      </p>
+
+      <p n="King Must not Impose Service">
+        قال ابن آوى إنّ
+        <lb/>
+
+        الملوك أحقّاء باختيار الأعوان فيما يهتمّون به من أعمالهم
+        <lb/>
+
+        من غير أن يُكرهوا أحدًا فإنّ المكره لا يستطيع المبالغة
+        <lb/>
+
+        في العمل
+      </p>
+
+      <p n="Jackal Declines Position">
+        وأنا لعمل السلطان كاره وليست لي ولا بالسلطان
+        <lb/>
+
+        رفق
+      </p>
+
+      <p n="Lion Has Eager Candidates">
+        وأنت ملك السباع عندك من أجناس الوحش عدد
+        <lb/>
+
+        وفيهم نبل وقوّة فإن استعنت بهم أعانوك
+      </p>
+
+      <p n="Lion Does not Excuse Jackal">
+        قال الأسد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

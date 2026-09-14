@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T16029</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="199"/>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        الباب السادس في الجرذ
+        <lb/>
+
+        والسنّور وهو باب العدوّ المبصر
+        <lb/>
+
+        فرصته في مصالحة عدوّه العالم بمواضع الحزم في الاحتراس
+        <lb/>
+
+        منه قال ديشلم الملك لبيدبا الفيلسوف قد سمعت
+        <lb/>
+
+        مثل من يعجل في الأمور ولا يعمل بالتثبّت فاضرب لي مثل الرجل
+        <lb/>
+
+        الذي يكثر عدوّه ويشرف على الهلاك فالتمس المخرج بموالات
+        <lb/>
+
+        بعض العدوّ ومصالحته فيسلم ممّا يتخوّف منه ووفى لمن صالح
+        <lb/>
+
+        وأخبرني عن موضع الصلح وكيف يلتمس قال الفيلسوف
+        <lb/>
+
+        اعلم أيّها الملك المبجّل أنّ العداوة والولاية والمودّة والبغض
+        <lb/>
+
+        أشياء وأنواع ليس كلّها تدوم وتثبت وكثير من المودّة تتحوّل
+        <lb/>
+
+        بغضًا وكثير من البغض يتحوّل مودّة عند حوادث العلل وعوارض
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="38"/>
+
+      <p n="Working Without Expecting Reward">
+        فعلت به ذلك جزاء ولا مكافأة ولم أغبط من نظرائي ومن هو مثلي في العلم
+        <lb/>
+
+        وفوقي في المال والجاه أحدًا إلّا في صلاحه وحسن سيرته في الناس
+        <lb/>
+
+        قولًا وفعلًا
+      </p>
+
+      <p n="Addressing the Soul to Distinguish Its Benefits and Harms">
+        فلمّا تاقت نفسي إلى ذلك ونازعت إلى أن تغبطهم
+        <lb/>
+
+        في المال والجاه وتتمنّى مثل منازلهم أبيت لها إلّا الخصومة
+        <lb/>
+
+        فقلت لها يا نفسي ألا تعرفين نفعك من ضررك ألا تنتهين
+        <lb/>
+
+        عن تمنّي ما لم ينله أحد إلّا قلّ متاعه به وكثر عناؤه فيه
+        <lb/>
+
+        وخباله عليه واشتدّت مرزيّته عليه عند فراقه
+        <lb/>
+
+        وعظمت التبعة منه عليه بعده
+      </p>
+
+      <p n="Addressing the Soul to Be Ashamed of Its Greed for the Transient">
+        يا نفس ألا تذكرين
+        <lb/>
+
+        ما بعد عنه الدار فينسيك ذلك ما تشرهين إليه من
+        <lb/>
+
+        هذه الدار ألا تستحين من مشاركة العجزة الجهّال
+        <lb/>
+
+        في حبّ هذه الفانية التي من كان في يده منها شيء فليس
+        <lb/>
+
+        له قدر ما ليس بباق عليه والتي لا يفرح فيها أحد
+        <lb/>
+
+        إلّا المفترون الغافلون
+      </p>
+
+      <p n="Addressing the Soul to Abandon Its Folly">
+        انصرفي يا نفس عن هذه
+        <lb/>
+
+        الشقّة وأقبلي بقوّتك وما تملكين في تقديم الخير
+        <lb/>
+
+        والأجر ما استطعت وإيّاك والتسويف
+      </p>
+
+      <p n="The Body Consists of Harmful Elements">
+        واذكري
+        <lb/>
+
+        أنّ هذا الجسد ذو آفات وأنّه مملوء أخلاطًا
+        <lb/>
+
+        متغالبة متعادية تفقدهنّ الحياة والحياة إلى نفاد
+      </p>
+
+      <p n="The Idol That Falls Apart">
+        كالصنم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

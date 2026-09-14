@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="100"/>
+
+      <p n="Dimna's Persistence Despite Warnings">
+        لم يركبْ الأهوال لم ينلْ الرغائب ومن ترك الأمر الذي لعلّ يبلغ فيه حاجته هيبة
+        <lb/>
+
+        ومخافة ولعلّه إن يتوقّاه فليس ببالغ جسيمًا
+      </p>
+
+      <p n="Three Challenging Pursuits Requiring Courage">
+        وقد قيل إنّ خصالًا ثلاثة لن
+        <lb/>
+
+        يستطيعها أحد إلّا بمعونة من علوّ همّة وعظيم خطر منها عمل السلطان
+        <lb/>
+
+        وتجارة البحر ومناحرة العدوّ
+      </p>
+
+      <p n="Two Proper Places for Noble Man">
+        وقد قالت العلماء في الرجل الفاضل الرشيد إن
+        <lb/>
+
+        لا يُرى إلّا في مكانين ولا يليق به غيرهما إمّا مع الملوك مكرمًا أو مع
+        <lb/>
+
+        النسّاك متعبّدًا
+      </p>
+
+      <p n="Two Places for Elephant’s Splendor">
+        كالفيل إنّما جماله وبهاؤه في مكانين إمّا تراه وحشيًّا أو مركبًا
+        <lb/>
+
+        للملوك
+      </p>
+
+      <p n="Kalila's Blessing for Dimna's Decision">
+        قال كليلة خار الله لك فيما عزمت عليه
+      </p>
+
+      <p n="Dimna Approaching the Lion">
+        ثمّ إنّ دمنة انطلق حتّى دخل على الأسد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

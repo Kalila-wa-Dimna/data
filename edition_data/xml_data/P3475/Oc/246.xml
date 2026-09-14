@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="246"/>
+
+      <p n="Secritive Wise King Prospers">
+        مهيبًا في أعين العامّة بعيدًا أن يُعلم ما في نفسه
+      </p>
+
+      <p n="Question On Origin Of Enemity">
+        قال الملك
+        <lb/>
+
+        هل تعلم بدء عداوة البوم والغربان
+      </p>
+
+      <p n="Words Of Crow Were Cause">
+        قال نعم كلمة تكلّمت بها
+        <lb/>
+
+        غراب مرّة
+      </p>
+
+      <p n="unassigned">
+        قال الملك وكيف كان ذلك قال الغراب زعموا أنّ جماعة
+        <lb/>
+
+        من الطيرلم يكن لها ملك فأجمعت على بوم لتملّكه فبينما هي في
+        <lb/>
+
+        في جميعها إذ وقع إليها غراب فقال بعضهم انظرْن هذا
+        <lb/>
+
+        الغراب فاستشرْنه قال الغراب لو أنّ الطير بادت وفُقد
+        <lb/>
+
+        الطاووس والكركيّ والبطّ والحمام لما اضّطررتنّ إلى تمليك البوم
+        <lb/>
+
+        أقبح الطير وأسوأها مخبرة وأقلّها عقولًا وأشدّها غضبًا
+        <lb/>
+
+        وأبعدها رحمة مع ما بها من الزمانة والعشى بالنهار
+        <lb/>
+
+        وسوء أخلاقها فلا تملّكوه وتفضوا بأموركم إليه كما
+        <lb/>
+
+        فعلت الأرنب قال الطير وكيف كان ذلك قال الغراب زعموا
+        <lb/>
+
+        أنّ أرض الفيلة نشفت مياهها فأصابها عطش
+        <lb/>
+
+        فشكوا ذلك إلى ملكهم فأرسل رسله في التماس الماء
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

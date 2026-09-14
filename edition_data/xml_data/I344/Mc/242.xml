@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="242"/>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        ذكروا أنّه كان في بعض البلدان شجرة تُدعى يتروس
+        <lb/>
+
+        وكان من أسفلها سباع كثيرة وفي فروعها وكور الطير
+        <lb/>
+
+        وكان في أصل تلك الشجرة جحر جرذ اسمه فردون
+      </p>
+
+      <p n="The Cat Is Caught">
+        فكان
+        <lb/>
+
+        الصيّادون ربّما التمسوا صيد الوحش قرب تلك الشجرة
+        <lb/>
+
+        وأن صيّادًا نصب حبالًا فوقع فيها السنّور
+      </p>
+
+      <p n="The Rat Seeks Food">
+        وخرج الجرذ
+        <lb/>
+
+        يدبّ ليبتغي ما يأكل وهو مع ذلك حذرًا فتلفّت يمينًا
+        <lb/>
+
+        وشمالًا فلمّا رأى السنّور في الحبائل فرح بذلك
+      </p>
+
+      <p n="Foes Surround the Rat">
+        ثمّ
+        <lb/>
+
+        إنّه التفت فرأى ابن عرس فذكر له ونظر فوقه فإذا بومة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

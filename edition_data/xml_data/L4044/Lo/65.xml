@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="65"/>
+
+      <p n="The Crab's Resolve">
+        الذي يعلم أنّه هالك فيها إن قاتل أو لم يقاتل
+      </p>
+
+      <p n="The Necessity of Fighting">
+        فهو حقيق أن يقاتل كرمًا
+        <lb/>
+
+        وحفاظًا
+      </p>
+
+      <p n="The Heron is Killed">
+        فأهوى بكلبتيه إلى عنق المكّاء فعصره عصرة وقع منها إلى
+        <lb/>
+
+        الأرض ووقع السرطان معه فمات المكّاء ورجع السرطان إلى السمك فأخبرهنّ
+      </p>
+
+      <p n="The Moral: A Trickster's Downfall">
+        فقال ابن آوى وإنّما ضربت لك هذا المثل لتعلم أنّ بعض الحيل مهلكة للمحتال
+        <lb/>
+
+        ولكنّي أدلّك على أمر إن قدرت عليه كان فيه هلاك الأسود
+      </p>
+
+      <p n="The Crow Asks for the Plan">
+        قال
+        <lb/>
+
+        وما ذلك
+      </p>
+
+      <p n="The Jackal's Plan">
+        قال تنطلق محلّقًا فتنظر لعلّك تظفر بحليّ من حليّ النساء
+        <lb/>
+
+        نفيس عندهنّ فتخطفها ثمّ تطير قريبًا فلا تبرح واقعًا وطائرًا حيث لا تفوت
+        <lb/>
+
+        العيون ويطلبك الناس حتّى تنتهي بالحليّ إلى جحر الأسود فترمي بها عنده
+        <lb/>
+
+        فإذا انتهى الناس إلى الحليّ أخذوا حليّهم وأراحوك من الأسود
+      </p>
+
+      <p n="The Crow Snatches the Necklace">
+        فانطلق
+        <lb/>
+
+        الغراب محلّقًا يبتغي حليًا فوجد امرأة على ظهر بيت قد وضعت ثيابها وحليّها
+        <lb/>
+
+        وهي تغتسل
+      </p>
+
+      <p n="The Lure">
+        فاختطف من حليّها عقدًا فلم يزل يطير به تارة ويقع أخرى
+        <lb/>
+
+        حيث يُنظر إليه حتّى انتهى بالعقد إلى جحر الأسود والقوم ينظرون فرمى
+        <lb/>
+
+        به عنده
+      </p>
+
+      <p n="The Plan Succeeds">
+        فلمّا أتوه وجدوا الأسود عنده فقتلوه وأخذوا عقدهم
+      </p>
+
+      <p n="The Moral: Cunning Triumphs">
+        قال
+        <lb/>
+
+        دمنة وإنّما ضربت لك هذا المثل لتعلم أنّ الحيلة تجزي ما لا تجزي القوّة
+      </p>
+
+      <p n="Kalila's Objection">
+        قال كليلة إنّ الثور لو لم يجمع مع شدّته رأيًا كان ذلك ولكنّه مع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

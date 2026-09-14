@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="276"/>
+
+      <p n="Lion Vows to Disregard Future Slander">
+        ولست مصطنعًا ولا قابلًا قول أحد فيك مع أنّي محدث لك من الكرامة
+        <lb/>
+
+        ما يستقرّ له ما كان منّي إليك من الإساءة حتّى يستبين ذلك لك وللجند
+        <lb/>
+
+        ويعرفوا منزلتك منّي وخاصّتك عندي وثقْ بي واطمئنّ إليّ
+      </p>
+
+      <p n="Lion Keeps His Promise">
+        ثمّ فعل
+        <lb/>
+
+        ذلك به ووفى له وأنفع به حتى صار صاحب أمره والله أعلم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

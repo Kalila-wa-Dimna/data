@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="260"/>
+
+      <p n="Thiefs Concerns">
+        فأشفق اللصّ إن بدأ الشيطان بأخذ الناسك أن يصيح
+        <lb/>
+
+        فيفوته البقرة
+      </p>
+
+      <p n="Demons Concerns">
+        وأشفق الشيطان إن أخذ اللصّ البقرة
+      </p>
+
+      <p n="King O Asks Third Owl">
+        أنّ الملك سأل الثالث من وزرائه عن رأيه في الغراب
+      </p>
+
+      <p n="Spy To Be Kept For Counsel">
+        فقال أرى
+        <lb/>
+
+        أن نسقيه ونحسن إليه فإنّه خليق أن يناصح
+      </p>
+
+      <p n="Dispute Between Foes Is Beneficial">
+        وإنّ ذا العقل متى
+        <lb/>
+
+        ظفرًا حسنًا معاداة بعض عدوّه عدوًّا فإنّ في اشتغال بعض
+        <lb/>
+
+        العدوّ ببعض واختلافهم
+      </p>
+
+      <p n="Mention Thief Demon Story">
+        مثل الذي كان في اختلاف اللصّ
+        <lb/>
+
+        والشيطان
+      </p>
+
+      <p n="King Request Thief Demon Story">
+        قال المَلك وكيف كان ذلك
+      </p>
+
+      <p n="Story Thief Demon Cow">
+        قال الوزير زعموا أنّ
+        <lb/>
+
+        ناسكًا أصاب من رجل بقرة حلوبًا فانطلق بها يقودها
+        <lb/>
+
+        إلى منزله وتبعه لصّ يريد سرقتها وصحب اللصّ شيطانًا في
+        <lb/>
+
+        صورة إنسان
+      </p>
+
+      <p n="Thief And Demon Plot">
+        فقال اللصّ للشيطان من أنت فقال أنا شيطان
+        <lb/>
+
+        أتبع هذا الرجل فإذا نام الناس أخذته قال اللصّ وإنّما أريد
+        <lb/>
+
+        أخذ بقرته فانطلقا مصطحبَين حتّى أتيا مع الناسك إلى منزله
+        <lb/>
+
+        عشاء
+      </p>
+
+      <p n="Man Goes To Sleep">
+        فدخل الناسك بيته وأدخل البقرة بيتًا آخر ثمّ تعشّى ونام
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="153"/>
+
+      <p n="The Crows Should Fight Back the Owls">
+        فقاتلناهم قتالًا غير مستسلم ولا متوغّل
+      </p>
+
+      <p n="Escape Should Not Be the First Choice">
+        ولكن تلقى أطرافنا أطرافهم
+        <lb/>
+
+        ونتحرّز منهم وندافعهم الأيام
+      </p>
+
+      <p n="Escape Is To Be Sought Only at Defeat">
+        حتّى نُصيب منهم فرصة وإلّا كان الهرب بعد
+        <lb/>
+
+        الأعذار
+      </p>
+
+      <p n="The Crow King Asks the Third Crow">
+        قال الملك للثالث ما رأيك في ذلك
+      </p>
+
+      <p n="The Crow Rejects Prior Input">
+        قال لا أرى ما قالاه
+      </p>
+
+      <p n="Recourse Should be Made to Reconnaissance">
+        ولكن أرى أنّ نذكّي العيون والطلائع بيننا وبين عدوّنا
+      </p>
+
+      <p n="The Information Shall Determine a Truce or Tribute">
+        وننظر هل يريد
+        <lb/>
+
+        عدوّنا صلحًا أو يقبل منّا فدية ونتحسّس الأخبار
+      </p>
+
+      <p n="Truce for a Tribute Should Be Sought">
+        فإن رأينا من ذلك أمرًا
+        <lb/>
+
+        متقاربًا سمحًا لا شطط فيه لم نكرهْ أن نصالحهنّ على خراج نؤدّيه إليهنّ
+        <lb/>
+
+        فندفع عن أنفسنا بأسهنّ ونأمن ونطمأنّ في وطننا
+      </p>
+
+      <p n="Peace Is Worth the Tribute">
+        فإنّ من الرأي للملوك
+        <lb/>
+
+        إذا اشتدّت شوكة عدوّهم فخافوا على البلاد والرعيّة أن يجعلوا الأموال
+        <lb/>
+
+        جنّة للبلاد والرعيّة
+      </p>
+
+      <p n="The Crow King Asks the Fourth Crow">
+        قال الملك للرابع ما رأيك فيما ذكر صاحبك
+        <lb/>
+
+        من طلب الصلح
+      </p>
+
+      <p n="Recourse Is in Abandoning Home">
+        قال لا أرى رأيًا ترك أوطاننا والاضّطرار إلى الغربة عن
+        <lb/>
+
+        بلادنا خير من وضع أحسابنا والخضوع للعدوّ الذي دوننا
+      </p>
+
+      <p n="The Owls Would Overdemand">
+        مع إنّي
+        <lb/>
+
+        أعرف أنّا لو عرضنا الصلح لعظّموه عليّنا ولم يرضوه إلّا بالاشتطاط
+      </p>
+
+      <p n="Foes Should Be Kept at the Right Distance">
+        وقد
+        <lb/>
+
+        يُقال قاربْ عدوّك بعض المقاربة تنلْ منه حاجتك ولا تقاربْه كلّ المقاربة
+        <lb/>
+
+        فتذلّ نفسك وترعب جندك ويجترئ عليك عدوّك
+      </p>
+
+      <p n="Gauging Distances Is Like Maximizing Shadows">
+        ومثل ذلك مثل الخشبة
+        <lb/>
+
+        المنصوبة في الشمس إن كان ميلها قليلا ازداد ظلّها طولًا وإن جاوزت الحدّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

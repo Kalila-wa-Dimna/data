@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="66"/>
+
+      <p n="Spy Moves To Secret Advice">
+        أريد إسراره
+      </p>
+
+      <p n="Victory Requires Guarding Secrets">
+        فإنّه قلّ ما يصيب من الملوك الظفر بالحزم وإحالة الرأي من قبل
+        <lb/>
+
+        مشاورتهم
+      </p>
+
+      <p n="Kind Needs Confidant">
+        ولا بدّ من مستشار مأمون يُفضي إليه به ويعاونه فإنّ المستشير وإن
+        <lb/>
+
+        كان أفضل من المستشار
+      </p>
+
+      <p n="Advice To King Like Fuel To Fire">
+        فإنّه يزداد برأيه رأيًا كما تزداد النار بالودك
+        <lb/>
+
+        ضوء
+      </p>
+
+      <p n="How To Give Advice">
+        وعلى المستشار موافقة المستشير على صواب ما يرى والرفق به في تقصيره
+        <lb/>
+
+        عن بلوغ هذا الرأي لهما في العقل
+      </p>
+
+      <p n="Secritive Wise King Prospers">
+        وإذا كان الملك مُحصّنًا للأسرار متخيّرًا للوزراء
+        <lb/>
+
+        مهيبًا في أعين العامّة بعيدًا أن يُعلم ما في نفسه
+      </p>
+
+      <p n="Question On Origin Of Enemity">
+        قال الملك هل تعلم بدء
+        <lb/>
+
+        عداوة البوم والغربان
+      </p>
+
+      <p n="Words Of Crow Were Cause">
+        قال نعم كلمة تكلّم بها غراب مرّة
+      </p>
+
+      <p n="unassigned">
+        قال الملك وكيف كان ذلك
+        <lb/>
+
+        قال الغراب زعموا أن جماعة من الطير لم يكن لها ملك فاجتمعت على بوم لتملّكه فبينما هي في
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="69"/>
+
+      <p n="Chapter Title">
+        باب الفحص عن أمر دمنة وما كان
+        <lb/>
+
+        وعذره مع الأسد وهو الباب الخامس
+      </p>
+
+      <p n="The King Asks about Dimna's Fate">
+        قال الملك للفيلسوف أخبرني ما كان عذر دمنة حين أمر الأسد بقتل شتربة
+      </p>
+
+      <p n="The Philosopher's Answer About the King's Killing">
+        فقال الفيلسوف بلغنا أنّ الأسد لمّا قتل شتربة ومرّ لذلك أيّامًا
+      </p>
+
+      <p n="A Leopard Was the Lion's Confidant">
+        خرج النمر
+        <lb/>
+
+        ذات ليلةٍ وكان معلّم الأسد
+      </p>
+
+      <p n="The Leopard Overhears Kalila Chastising Dimna">
+        يطلب قبسًا من بيت كليلة ودمنة
+        <lb/>
+
+        فلمّا انتهى إلى الباب إذا هو بكليلة يلوم دمنة ويعذله على سوء رأيه وصنيعه
+        <lb/>
+
+        وما ارتكب من شتربة في غير ذنبٍ أتاه إليه
+      </p>
+
+      <p n="Kalila Predicts Dimna's Doom">
+        ويعلمه أنّه غير ناجٍ من الأسد وأنّه
+        <lb/>
+
+        لا بدّ له أن يطّلع الأسد على ما كان من نميمته وكذبه وأنّه معاقبه ومهلكه
+      </p>
+
+      <p n="The Leopard Confides in the Lion's Mother">
+        فلمّا
+        <lb/>
+
+        سمع ذلك النمر انصرف فدخل على أمّ الأسد **
+      </p>
+
+      <p n="The Mother Goes to the Lion and Finds Him Sad">
+        ** فرأته كئيبًا حزينًا فلمّا عاينت أمّ
+        <lb/>
+
+        الأسد ذلك وعرفت
+        <lb/>
+
+        وعرفت أنّه ليس ذلك إلّا على شتربة
+      </p>
+
+      <p n="The Mother Says Grief is Weakening">
+        قالت إنّ الأسف والهمّ لا يردّان شيئًا
+        <lb/>
+
+        وهما يُنحلان الجسم ويذهبان العقل ويضعفان القوّة
+      </p>
+
+      <p n="The Mother Criticizes Lion's Grieving">
+        فأعلمني ما شأنك فإن كان
+        <lb/>
+
+        ممّا ينبغي لك أن تحزن عليه فلست ولا أحدٌ من جندك يخلو من ذلك وإن كان إنّما هو
+        <lb/>
+
+        من قتلك شتربة فقد استبان لك ولنا أنّك ركبت منه ظلمًا على غير جرمٍ ولا ذنبٍ
+        <lb/>
+
+        ولا حدثٍ ولا غشٍّ ولا مخالفةٍ ولو كنت فكّرت في أمره وفتّشت ما لك في نفسه بما تجد
+        <lb/>
+
+        له في نفسك كان في ذلك معتبر
+      </p>
+
+      <p n="Love and Hate Are Reciprocal">
+        فإنّه يقال ليس امرء يودّ أحدًا ولا يبغضه إلّا وجد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

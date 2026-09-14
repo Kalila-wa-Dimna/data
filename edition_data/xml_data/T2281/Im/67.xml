@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T2281</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="67"/>
+
+      <p n="The Merchant Discovers the Error at Home">
+        فإذا هو من أعداله فندم على ذلك أشدّ الندم ثمّ إنّ رفيقه
+        <lb/>
+
+        جاء إلى الحانوت فوجد عدلًا من أعدال رفيقه قد فُقد
+        <lb/>
+
+        فاغتمّ لذلك غمًّا شديدًا
+      </p>
+
+      <p n="The Partner Fears Accusation (Monologue)">
+        فقال وا سوءتاه لرفيقي الصالح
+        <lb/>
+
+        الذي ائتمنني على متاعه وجعلني أتخلّف إليه دونه ماذا
+        <lb/>
+
+        يكون حالي عنده إذا فقد عدله وما أظنّ أن يأتمنني به
+      </p>
+
+      <p n="The Partner Fears Accusation (Dialogue)">
+        فلم
+        <lb/>
+
+        يزل كذلك إلى أن وافاه رفيقه وهو مغتمّ فسأله
+        <lb/>
+
+        عن حاله فقال إنّي فقدت عدلًا من أعدالك ولست بآمن
+        <lb/>
+
+        من تهمتك إيّاي وقد ظننت نفسي على غرمه لك
+      </p>
+
+      <p n="The Merchant Admits Treachery">
+        قال
+        <lb/>
+
+        لا تهتمّ ولا تغتمّ يا أخي فإنّ الخيانة شرّ عمل الناس بينهم
+        <lb/>
+
+        والخائن هو المغرور ووبال الخيانة عائد إلى الخائن
+        <lb/>
+
+        فإنّي ممّن قصد ذلك ورجع المكر على نفسي
+      </p>
+
+      <p n="The Merchant Explains Events upon Request">
+        فقال
+        <lb/>
+
+        صاحبه وكيف كان ذلك فقصّ عليه القصّة وعرض
+        <lb/>
+
+        عليه الحال من أوّله إلى آخره وشرح له ما ناله من
+        <lb/>
+
+        الجهد والتعب
+      </p>
+
+      <p n="The Partner's Parable about the Thief">
+        قال رفيقه إنّ شبيه ما نالك ما نال
+        <lb/>
+
+        اللصّ مع التاجر قال رفيقه وكيف كان ذلك
+      </p>
+
+      <p n="The Thief Who Mistakes Grain for Gold">
+        قال زعموا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

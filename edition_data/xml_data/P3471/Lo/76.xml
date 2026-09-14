@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="76"/>
+
+      <p n="Monkey's Positioning on Wood">
+        ووجهه قِبل الوتد
+      </p>
+
+      <p n="Monkey's Predicament">
+        فتدلّت خصيانه
+      </p>
+
+      <p n="Consequences of Monkey's Actions">
+        فخرّ مغشيًّا عليه
+      </p>
+
+      <p n="Carpenter's Return and Punishment">
+        وكان أشدّ من
+        <lb/>
+
+        ذلك ما لقي من النشّار حين أتاه فأوجعه ضربًا
+      </p>
+
+      <p n="Dimna's Response and Ambition">
+        قال دمنة قد فهمت
+        <lb/>
+
+        مثلك ولكن اعلم أنّه ليس كلّ من يدنو من الملوك إنّما يدنو منهم
+        <lb/>
+
+        لبطشه لأنّ البطش يُحشى بكلّ مكان
+      </p>
+
+      <p n="Superior People Approaching Kings">
+        ولكن يلتمس بذلك أن يسرّ
+        <lb/>
+
+        الصديق ويكبت العدوّ وأدنى الناس مروءة وأقلّهم عقلًا الذين
+        <lb/>
+
+        يرضون باليسير ويفرحون به
+      </p>
+
+      <p n="Analogy of Dog and Bone">
+        كالكلب الذي يصيب عظمًا يابسًا
+        <lb/>
+
+        فيفرح به
+      </p>
+
+      <p n="Contrast Between Ambitious and Content">
+        فأمّا أهل المروءة والفضل فلا يغنيهم القليل ولا يفرحون
+        <lb/>
+
+        به دون أن يسموا لما هم له أهل
+      </p>
+
+      <p n="Lion's Hunting Behavior Analogy">
+        مثل الأسد الذي يفترس الأرنب
+        <lb/>
+
+        فإذا رأى العير ترك الأرنب وطلب العير
+      </p>
+
+      <p n="Contrast Between Dog and Elephant Behavior">
+        أفلا ترى إلى الكلب
+        <lb/>
+
+        كيف يبصبص بذنبه لمن يرى حتّى يلقي إليه الكسرة وأنّ الفيل
+        <lb/>
+
+        المتعلم يعرف قوّته وفضله فإذا قُدّم إليه علفه عافه ولم يأكله حتّى يُمسح
+        <lb/>
+
+        ويُتملّق
+      </p>
+
+      <p n="Life Perspectives on Success and Failure">
+        فمن كان عيشه ما عاش في كفاف غير خامل المنزلة وكان
+        <lb/>
+
+        ذا فضل على نفسه وأصحابه فهو وإن قصر عمره طويل العمر ومن
+        <lb/>
+
+        عمره في وحدة وضيق وقلّة خير فهو وإن طال عمره قصير العمر
+      </p>
+
+      <p n="Comparison to Animals">
+        ويقال إنّه ليُعدّ من البقر والغنم من لم يكن همّه إلّا بطنه
+      </p>
+
+      <p n="Kalila's Advice on Contentment">
+        قال كليلة
+        <lb/>
+
+        قد فهمت ما قلت فراجع عقلك واعلم أنّ لكلّ إنسان منزلة وقدرًا
+        <lb/>
+
+        فإن كان في منزلته التي هو فيها مكتفيًا متماسك الحال كان حقيقًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

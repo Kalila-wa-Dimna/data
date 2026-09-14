@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="113"/>
+
+      <p n="The Mother Calls In Lion's Promise to Act">
+        |وباكَرَتْهُ تقتضيهِ الوَعْدا ### قالتْ صُنِ المُلْكَ وأَرْضِ الجُندا
+        <lb/>
+
+        |وخُذْ مِن الخائنِ ثأرَ شتربَهْ ### تُرْضِ الإلهَ فيزيلُ غَضَبَهْ
+      </p>
+
+      <p n="Lion Orders Leopard and Judge to Try Dimna">
+        |فقال للجواس والنمر اذْهَبا ### واسْتخبِرا عمّا جَناه واكْتُبا
+        <lb/>
+
+        |لكلّ ما يجري فإنّي ناظِرُ ### فيهِ كما قد تُكتَبُ المحاضِرُ
+      </p>
+
+      <p n="Dimna Is Brought before Court">
+        |فوَقَّفا دمنةَ بين العسكرِ ### في موقفِ المقَرِّرِ المستخبَرِ
+      </p>
+
+      <p n="Leopard Recalls the Lion’s Sorrow for Killing the Ox">
+        |حتّى إذا ما حضروا قال النمِرْ ### نارُ أبي الحارثِ أضحتْ تستعِرْ
+        <lb/>
+
+        |وقلبُهُ قد كادَ غيْظًا ينفطِرْ ### وعيشُهُ عادَ بغَمٍّ مُستمِرْ
+        <lb/>
+
+        |يقولُ ما أشكُّ أنّ دمنَهْ ### أضرمَ في قلبي نارَ الإِحْنَهْ
+      </p>
+
+      <p n="No One Should Withhold Testimony">
+        |كِذْبًا فهلْ علمتُمُ منه خَبَرْ ### أَبْدوا ولا تُخْفوا فما يَخْفى القَمَرْ
+      </p>
+
+      <p n="Judge Calls for Testimony on Three Accounts">
+        |وشيّدَ الجوّاسُ قولَ النمِرِ ### يا قومُ هلْ مِن أثرٍ أو خَبَرِ
+        <lb/>
+
+        |لا تكتموا فكاتمُ الشهادَهْ ### عاصَ وفي أدائِها عِبادَهْ
+      </p>
+
+      <p n="Consequences of Taking Evil Deeds Lightly">
+        |فإنّ مَن يكتُمُ جَرمَ المُجرمِ ### شريكُهُ في ذنبِهِ الُمذَمَّمِ
+        <lb/>
+
+        |مستوجبٌ بذلك العُقوبَهْ ### وإنّ في إعلانِهِ مَشوبَهْ
+      </p>
+
+      <p n="Importance of Due Process">
+        |الصدقُ خيٌر في الأمورِ فاصْدُقوا ### لا تَلطُفوا بخائنٍ وتَرْفُقوا
+      </p>
+
+      <p n="Punishment of Crime is a Deterrent">
+        |فإنّ في تأديبِ أهلِ الرِيبَهْ ### لكلِّكُمْ منفعةً عجيبَهْ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="228"/>
+
+      <p n="One Must Consult Right People">
+        أحبابه وأهله ويقبل مشورتهم وموعظتهم
+      </p>
+
+      <p n="Queens Advice Saved King">
+        فإنّ إبرخت صار
+        <lb/>
+
+        لها عليّ جميل لا أطلع من تحته فنعم الرأي رأيها لأنّ فيه الخير
+        <lb/>
+
+        والصلاح ونلت به غاية النجاح وانصلح بشورها مُلكي
+        <lb/>
+
+        وقوي قلبي وخزُل ضدّي
+      </p>
+
+      <p n="Gift To Be Distributed To All Victims">
+        ثمّ إنّ المَلك أدعى بجرير وإيلاد
+        <lb/>
+
+        وكمال الكاتب ثمّ قال لهم لا ينبغي أن تدخل هذه الهدايا
+        <lb/>
+
+        إلى الخزينة ولكن اقسموها فيما بينكم أيّها الثقاة الذي
+        <lb/>
+
+        وطّنتم أنفسكم على الموت من أجلي
+      </p>
+
+      <p n="Queen Is Especially Deserving">
+        ولا سيّما إبرخت التي أشارت
+        <lb/>
+
+        عليّ بذلك الشور الحميد فأعقبني من مشورتها التي ترون
+      </p>
+
+      <p n="Subjects Dont Expect Reward">
+        فقال
+        <lb/>
+
+        إيلاد أيّها المَلك لا ينبغي لنا معاشر العبيد أن نعجب
+        <lb/>
+
+        بأنفسنا من أجل كلام بدا منّا
+      </p>
+
+      <p n="Subjects Must Sacrifice For King">
+        لأنّه ينبغي لكلّ عبد أن يفدي
+        <lb/>
+
+        روحه بإصلاح أمور سيّده وإنّما أن ما طابت نفسه لذلك
+        <lb/>
+
+        فيكون ما وفّى حقّ خدمته وليس يكون إنسان كامل وأمّا
+        <lb/>
+
+        هذه العطيّة فلا ينبغي لنا معاشر العبيد أن نتقاسمها ولا
+        <lb/>
+
+        نطمع فيها
+      </p>
+
+      <p n="Vizier Rejects Gift">
+        فأمّا أمّ جرير وولدها فإنّ ذلك لهما بوجه الحقّ
+        <lb/>
+
+        فلتأخذ منها ما يرى المَلك برأيه وليكون شطر الآخر
+        <lb/>
+
+        لإبرخت
+      </p>
+
+      <p n="King Instists Giving Gift">
+        قال المَلك لا تحملنّ الأمر في ذلك على ضدّ ما عندي
+        <lb/>
+
+        فيه ففي قبول قولي خيرًا كثيرًا فلا تظنّوني يا إيلاد أقول
+        <lb/>
+
+        لك توجهنًا بل من صميم خاطري فخذ منه نصيبك وقرّ
+        <lb/>
+
+        به عينك
+      </p>
+
+      <p n="Vizier Accepts Gift">
+        فقال إيلاد فليكن من ذلك ما تختار
+      </p>
+
+      <p n="Men Receive Their Gifts">
+        ثمّ بدأ بالنساء
+        <lb/>
+
+        وأتبع ذلك من أراد بما أراد فأخذ المَلك الفيل الأبيض وأعطى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

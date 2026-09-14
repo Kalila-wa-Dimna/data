@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="103"/>
+
+      <p n="unassigned">
+        متُهم ثمّ لا يأخذوا بشيء من أقاويلهم إلّا عن تثبّت ورضا وإن يرفضوا
+        <lb/>
+
+        كلّ من عرف ذلك نته فإنّ الرأى والحزم في الانقاذ والاقتداء
+        <lb/>
+
+        بأهل السعادة انقضى باب الأسد والثور
+      </p>
+
+      <p n="Chapter Title">
+        باب الانبحاث عن أمر دمنة
+      </p>
+
+      <p n="The King Asks about Dimna's Fate">
+        قال الملك للعالم قد سمعت حديثك عن الواشي المختال الماهر
+        <lb/>
+
+        بالخلابة كيف أفسد النفس بالشبهة حتّى أزال المودّة وأدخل
+        <lb/>
+
+        مكانها العداوة فحدّثني ما كان من معذرة دمنة للأسد وجنوده
+        <lb/>
+
+        حتّى راجع الأسد رأيه في أمر الثور وأدخل التهمة على دمنة وأمر
+        <lb/>
+
+        به أن يُقتل شرّ قتلة وكيف اطّلع على عدوّه وما كان حجّته التي أدلى
+        <lb/>
+
+        بها
+      </p>
+
+      <p n="The Philosopher's Answer About the King's Killing">
+        قال الفيلسوف وجدنا في الأحاديث أنّ الأسد لمّا
+        <lb/>
+
+        قتل الثور ندم على معاجلته إيّاه وذكر حرمته وصحبته وكان
+        <lb/>
+
+        يطيل مسامرة أصحابه ليقطع عن نفسه بحديثهم بعض ما دخله
+        <lb/>
+
+        من الحزن والكآبة
+      </p>
+
+      <p n="A Leopard Was the Lion's Confidant">
+        فكان من قرابة الأسد نمر كان من أكرم
+        <lb/>
+
+        أصحابه عليه وأخصّهم عندهم منزلة وأطولهم به خلوة في الليل
+        <lb/>
+
+        والنهار النمر وأنّه أمسى ذات ليلة عند الأسد بعد قتل الثور
+      </p>
+
+      <p n="The Leopard Overhears Kalila Chastising Dimna">
+        وانصرف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

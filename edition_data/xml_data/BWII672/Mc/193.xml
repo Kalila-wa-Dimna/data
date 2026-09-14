@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="193"/>
+
+      <p n="The Rat Seeks Food">
+        فرح
+      </p>
+
+      <p n="Foes Surround the Rat">
+        ثمّ التفت خلفه فرأى ابن عرس قد تبعه وكمن له
+        <lb/>
+
+        ونظر فوقه فرأى بومة على الشجرة ترصده فخاف إن ينصرف
+        <lb/>
+
+        راجعًا فيوثب عليه ابن عرس وإن ذهب يمينًا أو
+        <lb/>
+
+        شمالًا لا تخطفه البومة وإن تقدّم فالسنّور قدّامه
+      </p>
+
+      <p n="The Rat Weighs His Predicament">
+        فقال في نفسه هذا بلاء وشرّ قد تظاهرن عليّ
+        <lb/>
+
+        فما بقي لي إلّا أن أتفرّغ إلى عقل وحيل فلا يكوننّ
+        <lb/>
+
+        من حالي إلّا العدم إذا لم أروّق ذهن عقلي وأجعل
+        <lb/>
+
+        شعاعه إلى لبّي
+      </p>
+
+      <p n="Intelligence Is Revealed in Crises">
+        لأنّ العاقل لم يبين عقله إلّا في الشدائد
+      </p>
+
+      <p n="Intelligence Is Like the Sea">
+        لأنّ عقل ذوي العقول كالبحور الزخرة الذي
+        <lb/>
+
+        لا يُدرك قراره
+      </p>
+
+      <p n="Situations Do Not Blind the Intelligent">
+        وإلّم يروّق ذهنه ذوي العقل وإلّا
+        <lb/>
+
+        يهلكه
+      </p>
+
+      <p n="The Rat Decides on a Pact with the Cat">
+        وأحسن ما يكون من عقلي الآن إلّا صلح السنّور
+        <lb/>
+
+        فإنّه قد نزل به من البلاء مثل ما بي ولعلّه لو سمع
+        <lb/>
+
+        كلامي الذي أكلّمه به من القول الصحيح الصادق
+        <lb/>
+
+        الذي لا خداع فيه ولا فساد ينافيه أن يفهم منّي
+        <lb/>
+
+        وأن يطمع في معونتي إيّاه ويستبشر بصلحي ولعلّ
+        <lb/>
+
+        أن يكون لي وله في ذلك نجاة ممّا نحن فيه
+      </p>
+
+      <p n="The Rat Comes Up to the Cat">
+        ثمّ إنّه
+        <lb/>
+
+        دنا من السنّور وقال له كيف حالك
+      </p>
+
+      <p n="The Cat Acknowledges Being Trapped">
+        قال له كالذي
+        <lb/>
+
+        تحبّ من الصيّاد
+      </p>
+
+      <p n="The Rat Points Out Their Common Problem">
+        قال الجرذ فإنّي أحدّثك ولا
+        <lb/>
+
+        أكذب لعمري إنّني إذا رأيت عليك ضيقًا يكون عليّ
+        <lb/>
+
+        سعة وراحة ولكنّني اليوم شريكًا معك في البلاء
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

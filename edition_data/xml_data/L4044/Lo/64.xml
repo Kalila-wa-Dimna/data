@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="64"/>
+
+      <p n="The Heron's Tale of Fishermen">
+        هاهنا
+      </p>
+
+      <p n="The Feared Consequence">
+        وقد علمت أنّهما لو قد فرغا ممّا توجّها إليه انصرفا إلينا فلم يدعا في
+        <lb/>
+
+        هذه الأجمة سمكة إلّا صاداها فإذا كان ذلك فهو يضرّني
+      </p>
+
+      <p n="The Crab Warns the Fish">
+        فانطلق
+        <lb/>
+
+        السرطان إلى جماعة السمك فأخبرهنّ الخبر
+      </p>
+
+      <p n="The Fish Seek Counsel">
+        فأقبلن إلى المكّاء فاستشرنه
+      </p>
+
+      <p n="A Plea for Advice">
+        وقلن إنّا أتيناك لتشير علينا فإنّ ذي العقل لا يدع استشارة عدوّه
+        <lb/>
+
+        ذي الرأي في الأمر الذي يشركه في ضرّه ونفعه وأنت ذو الرأي ولك في
+        <lb/>
+
+        بقائنا صلاح فأشر علينا
+      </p>
+
+      <p n="The Heron's Deceptive Offer">
+        فقال أمّا مكايدة الصيّاد وقتاله فلا نطيقه ولا
+        <lb/>
+
+        أعلم حيلة إلّا أنّي قد علمت بمكان غدير كثير الماء طيّب وفيه قصب
+        <lb/>
+
+        وخصب فإن استطعتنّ التحوّل إلى ذلك المكان ففيه صلاحكنّ وخصبكنّ
+      </p>
+
+      <p n="The Fish Ask for Help">
+        قلن فمن يمنّ علينا بهذا غيرك
+      </p>
+
+      <p n="The Heron's Promise">
+        قال إنّي أفعل
+      </p>
+
+      <p n="The Heron's Treachery">
+        ثمّ إنّ المكّاء كان يحمل في كلّ يوم
+        <lb/>
+
+        سمكتين فينطلق بها إلى بعض التلال فيأكلهما ولا يشعر بذلك بقيّتهنّ
+      </p>
+
+      <p n="The Crab's Request">
+        حتّى إذا كان ذات يوم جاءه السرطان فقال إنّي قد أشفقت من مكاني
+        <lb/>
+
+        هذا فاذهب بي إلى ذلك الماء
+      </p>
+
+      <p n="The Crab Discovers the Truth">
+        فحمل السرطان وجاء مشرفًا جاعلًا له حصّة
+        <lb/>
+
+        يومه حتّى إذا دنا من التلّ الذي كان يأكل عليه السمك نظر السرطان
+        <lb/>
+
+        فرأى عظام السمك مجموعة هنالك فعرف أنّ المكّاء صاحبها
+        <lb/>
+
+        وأنّه يريد به مثلها
+      </p>
+
+      <p n="The Crab's Resolve">
+        فقال في نفسه إذا لقي الملاقي عدوّه في المواطن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

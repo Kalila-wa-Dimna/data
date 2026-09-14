@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="290"/>
+
+      <p n="The Rat Points Out Their Common Problem">
+        الذي عطفني عليك
+      </p>
+
+      <p n="The Rat Proves His Sincerity">
+        وستعرف من مقالتي أنّها ليست بزور
+        <lb/>
+
+        ولا خديعة ولا محايلة فقد ترى مكان بن عرس كامنًا لي ومكان
+        <lb/>
+
+        البومة تريد اختطافي وكلاهما لي ولك عدوّ وهما يخافانك
+        <lb/>
+
+        ويتّقيانك وأنا ضعيف لا أطيقهما فإن أنت أمّنتني من نفسك
+        <lb/>
+
+        وضمنت لي الخلاص من غيرك ممّن قد اكتنفني وأرصدني أنقذتك
+        <lb/>
+
+        ممّا أنت فيه وقطعت حبالك وخلّصتك من وثاقك فكما إنّي
+        <lb/>
+
+        أحبّ بحياتي حياتك فكذلك أنت حقيق أن تحبّ بحياتك
+        <lb/>
+
+        حياتي فاطمئنّ إلى ما ذكرت لك وثق به منّي
+      </p>
+
+      <p n="People Fail without Mutual Trust">
+        فإنّه ليس أحد
+        <lb/>
+
+        أبعد من الخير من اثنين منزلتهما واحدة وصنعتهما مختلفة
+        <lb/>
+
+        وآحدهما لا يثق به آخر
+      </p>
+
+      <p n="The Rat Promises Faithfulness">
+        ولك عندي الوفاء بما جعلت لك
+        <lb/>
+
+        على نفسي فاقبل منّي واسترسل إليّ وعجّل ذلك ولا تؤخّر
+      </p>
+
+      <p n="The Intelligent Does Not Postpone Action">
+        فإنّ العاقل لا يؤخّر عمله
+      </p>
+
+      <p n="The Cat Should Desire Common Rescue">
+        ولتطب نفسك ببقائي كما طابت
+        <lb/>
+
+        نفسي ببقائك فإنّ كلّ واحد ينجو بصاحبه
+      </p>
+
+      <p n="Sailors Depend on Ships and Vice Versa">
+        كما أنّ نجاة الناس
+        <lb/>
+
+        من البحر بالسفن إذا ركبوها ونجاة السفن بالناس إذا صوّبوها
+      </p>
+
+      <p n="Cooperation Ensures Delivery for Both">
+        كذلك نصير بالتعاون إلى الخلاص جميعًا من هذه البليّة
+      </p>
+
+      <p n="The Cat Puts His Trust in the Rat">
+        فلمّا سمع
+        <lb/>
+
+        السنّور مقالة فريدون سرّ بها وعلم أنّه قد صدق قال
+        <lb/>
+
+        لأفريدون أرى قولك شبيهًا بالحقّ والصدق أنا راغب في
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

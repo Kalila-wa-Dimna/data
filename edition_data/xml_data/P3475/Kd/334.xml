@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="334"/>
+
+      <p n="Gift To Be Distributed To All Victims">
+        فقال لهم إنّه لا ينبغي لنا أن نُّدخل هذه الهدايا خزانتنا ولكنّي
+        <lb/>
+
+        قاسمها بينكم إذ وطّنتم أنفسكم على الموت في سببي
+      </p>
+
+      <p n="Men Receive Their Gifts">
+        فأخذ
+        <lb/>
+
+        الملك الفيل الأبيض وأعطى جوبر أحد الفرسين وأعطى
+        <lb/>
+
+        بلاذ السيف الخالص الحديد وأعطى كال الفرس الآخر وبعث
+        <lb/>
+
+        إلى كبايرون بلباس الملوك
+      </p>
+
+      <p n="Queen Shall Choose Gift">
+        وأمّا الإكليل وما شابهه فإنّه
+        <lb/>
+
+        يصلح للنساء فقال لبلاذ خذ الثياب والإكليل فامض به
+        <lb/>
+
+        إلى النساء ودعا الملك إبرخت وجورفىاه فجلسا بين يديه
+        <lb/>
+
+        قال الملك لبلاذ ضع الإكليل والكسوة بين يدي إبرخت
+        <lb/>
+
+        فليأخذ أيّها شاءت
+      </p>
+
+      <p n="Hesitating Queen Looks At Vizier">
+        فلمّا نظرت إبرخت إلى الإكليل وحسنه
+        <lb/>
+
+        نظرت إلى بلاذ ليشير إليها أيّهما أفضل
+      </p>
+
+      <p n="Vizier Shows Dress King Notices">
+        فأراها بعينه فأبصر
+        <lb/>
+
+        الملك إيماءه
+      </p>
+
+      <p n="Vizier Pretends To Be Cross Eyed">
+        فعاش بلاذ أربعين سنة كلّما دخل على الملك
+        <lb/>
+
+        كسر عينه لئلاّ يظنّ الملك أنه أراها بعينيه شيئًا
+      </p>
+
+      <p n="Intelligence Saves Queen Vizier">
+        ولولا
+        <lb/>
+
+        عقل إبرخت وبلاذ لم ينج أحد منهما من الموت
+      </p>
+
+      <p n="King Alternates Nights With Women">
+        وكان الملك
+        <lb/>
+
+        ليلة عند إبرخت وليلة عند جورفىاه
+      </p>
+
+      <p n="Queen Serves Rice On Her Night">
+        فلمّا كان ليلة
+        <lb/>
+
+        ابرخت وقد صنعت له أرزًّا فدخلت على الملك وفي
+        <lb/>
+
+        يدها صحفة من الذهب والإكليل على رأسها فقامت
+        <lb/>
+
+        على رأس الملك بالصحفة وهو يطعم منه
+      </p>
+
+      <p n="Favorite Wears Dress Before King">
+        فلمّا رأت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

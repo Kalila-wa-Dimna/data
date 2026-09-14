@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="23"/>
+
+      <p n="One Should Benefit from Experience">
+        ما قد أصابه فينبغي له مع ذلك ما يصيب غيره من الضرر حتّى يسلم لئلّا يأتيه مثله
+      </p>
+
+      <p n="Dove Does Not Learn from Losing Her Chicks">
+        فيكون
+        <lb/>
+
+        مثله مثل الحمامة التي تُؤخذ فراخها فتُذبح ولا يمنعها من ذلك أن تعود فتفرّخ ثمّ تُؤخذ
+        <lb/>
+
+        هي فتُذبح أيضًا
+      </p>
+
+      <p n="One Should Abide by God's Measures">
+        ويُقال إنّ الله عزّ وجلّ جعل لكلّ شيء حدًّا يُوقف عليه فمن جاوز في الأشياء حدّها
+        <lb/>
+
+        كان كالمقصّر عنها لأنّهما خالفا الحدّين جميعًا
+      </p>
+
+      <p n="Striving for the Hereafter">
+        وينبغي أن يُعلم لكلّ إنسان سعيًا فمن كان سعيه
+        <lb/>
+
+        لآخرته فحياته له
+      </p>
+
+      <p n="Striving for the Here">
+        ومن كان سعيه لدنياه فحياته عليه لا له
+      </p>
+
+      <p n="Striving for the Here and the Hereafter">
+        ومن كان سعيه لآخرته ودنياه فحياته
+        <lb/>
+
+        له وعليه
+      </p>
+
+      <p n="A Worldly Man Must Fix Three Things">
+        ويُقال في ثلاثة أشياء يحقّ على صاحب الدنيا إصلاحها والابتذال بنفسه فيها منها أمر دينه
+        <lb/>
+
+        ومنها أمر ما بينه وبين الناس
+      </p>
+
+      <p n="Three Things in a Man Engender Inefficiency">
+        وقد قيل في أمور من كانت فيه لم يستقم له عمل منها التواني في
+        <lb/>
+
+        العمل ومنها تضييع الفرص ومنها التصديق بكلّ خبر ومنها التكذيب لكلّ عالم
+      </p>
+
+      <p n="Many Are Credulous">
+        وربّ رجل
+        <lb/>
+
+        يُخبر بالشيء فلا يقبله ولا يعرف استقامته فيصدّق به
+      </p>
+
+      <p n="The Types of Credulous Men">
+        ومن يصدّق بذلك رجل يصدّق بما جرّب
+        <lb/>
+
+        من تصديق غيره له فيتمادى حتّى يكون كأنّه قد عرفه ورجل مصدّق لهوائه في الأمور التي
+        <lb/>
+
+        يجريها ورجل يلتبس عليه الأمر فيصدّق به
+      </p>
+
+      <p n="One Needs to Keep Desire in Check">
+        فينبغي للعاقل أن لا يزال لهواه عاصيًا في الأمور فهو أسلم
+        <lb/>
+
+        له وأحزم لأموره
+      </p>
+
+      <p n="One Needs to Check the Veracity of Information">
+        وينبغي له أن لا يتمادى في الخطأ ولا يتوانى في النظر وينبغي له إذا التبس
+        <lb/>
+
+        عليه أمرًا أن لا يلج في شيء منه ولا يعزم عليه حتّى يتيقّن الصواب
+      </p>
+
+      <p n="One Should Not Continue on the Wrong Path">
+        فيه ولا يكون كالرجل الذي
+        <lb/>
+
+        يجوز على الطريق فيسير كما هو الجواز فلا يزداد في السير جدًّا إلّا ازداد من الطريق بعدًا
+      </p>
+
+      <p n="Man Rubs Itchy Eye and Loses It">
+        وكالرجل
+        <lb/>
+
+        الذي تقذى عينه فيدخل فيها شيء فلا يزال يدلّكها ويحكّها حتّى ربّما علاها بياض
+      </p>
+
+      <p n="The Intelligent Should Believe in Fate">
+        فيجب على العاقل
+        <lb/>
+
+        أن يصدّق بالقضاء والقدر وأن يأخذ بالحزم وأن يعلم أنّ الجزاء كائن
+      </p>
+
+      <p n="Do unto Other as to Oneself">
+        ومن آتى إلى صاحبه
+        <lb/>
+
+        مكروهًا فقد ظلم ويجب عليه أن يحبّ للناس ما يحبّ لنفسه ويكره لهم ما يكره لها
+      </p>
+
+      <p n="Reader Must Heed the Instructions of the Preface">
+        قال فمن قرأ
+        <lb/>
+
+        هذا الكتاب فليتدبّره وليقتدي بما فيه ويفهمه فإنّه من عرف ما فيه إكتفى به عن غيره
+      </p>
+
+      <p n="The Author Hopes That the Reader Would Benefit">
+        فأنا أرجو
+        <lb/>
+
+        أنّ من قرأ هذا الكتاب أن يزيده ذلك نظرًا ومعرفة فإن فهمه اكتفى به عن غيره وإن لم يفهمه
+        <lb/>
+
+        ولم يعرفه لم ينتفع به
+      </p>
+
+      <p n="The Translator Added the Preface">
+        قال ابن المقفّع لمّا رأيت أهل فارس قد فسّروا هذا الكتاب من الهنديّة
+        <lb/>
+
+        إلى الفارسيّة ألحقوا فيه بابًا وباب برزويه الطبيب ولم يذكروا فيه ما ذكرناه في
+        <lb/>
+
+        هذا الكتاب وإنّا لمّا فسّرناه من الفارسيّة إلى العربيّة أردنا أن نلحق به ما نبيّن فيه أمر
+        <lb/>
+
+        هذا الكتاب لمن أراد قراءته واقتباس العلم منه فافهم ذلك ترشد
+        <lb/>
+
+        باب برزويه المتطبّب
+      </p>
+
+      <p n="Burzurgmihr's Introduction">
+        قال برزويه وهو رأس الأطبّاء وهو الذي ولّي انتساخ هذا الكتاب
+      </p>
+
+      <p n="Burzoy's Parents">
+        إنّ أبي
+        <lb/>
+
+        كان من المقاتلة وأنّ والدتي من عظماء الزمارمة
+      </p>
+
+      <p n="Burzoy Studies Medicine">
+        وكان فيما ابتدأني به ربّي جلّت قدرته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

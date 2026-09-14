@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="36"/>
+
+      <p n="Man Resting Against a Wall">
+        إليهم فاستند إلى حائط
+      </p>
+
+      <p n="Man Recounting His Experiences">
+        فلمّا أفاق من ذلك أخذ يحدثهم بما لقي من عظيم الهول وما خلّصه الله منه
+      </p>
+
+      <p n="Wall Collapsing and Killing the Man">
+        فبينما هو على ذلك إذ انهدم عليه الحائط فقتله
+      </p>
+
+      <p n="Ox's Physical Transformation and Attitude Change">
+        قال ثمّ إنّ شتربة لم يلبث إلّا أن ارتبع
+        <lb/>
+
+        وشبع وحسن حاله
+      </p>
+
+      <p n="Ox's Loud Bellowing and Behavior">
+        فرفع صوته يومًا
+      </p>
+
+      <p n="The Lion and His Animal Subjects">
+        وكان قربه أسد وكان ملك سباع تلك الناحية ومعه
+        <lb/>
+
+        سباع كثيرة ومن الذئاب والثعالب وبنات آوى وغير ذلك من الوحش
+      </p>
+
+      <p n="Lion's Reaction to Unfamiliar Sound">
+        فسمع الأسد خوار
+        <lb/>
+
+        الثور ولم يكن رأى ثورًا قطّ قبل ذلك ولا سمع خواره فرعب الأسد من ذلك رعبًا شديدًا
+        <lb/>
+
+        وعظم ذلك عليه
+      </p>
+
+      <p n="Concerned for Appearance, Lion Stays Immobile">
+        قال وكره الأسد أن يفطن به جنده عند ذلك فلم يبرح من مكانه
+      </p>
+
+      <p n="Introduction of Kalila and Dimna">
+        وكان
+        <lb/>
+
+        ممّن معه ابن آوى وأخوان يقال لأحدهما كليلة والآخر دمنة
+      </p>
+
+      <p n="Kalila and Dimna's Characteristics">
+        وكانا ذو دهاءٍ وحيلة
+        <lb/>
+
+        وأدب وفطنة
+      </p>
+
+      <p n="Dimna's Ambitious Nature">
+        وكان دمنة أشرّهما وأمكرهما
+      </p>
+
+      <p n="Lion's Unfamiliarity with Kalila and Dimna">
+        ولم يكن الأسد عرف بهما
+      </p>
+
+      <p n="Dimna's Observation of Lion's Behavior">
+        فقال دمنة يومًا
+        <lb/>
+
+        لكليلة يا أخي أما ترى أنّ الأسد لا يتحرّك من مكانه ولا ينشط
+      </p>
+
+      <p n="Kalila's Caution about Meddling">
+        فقال كليلة ما شأنك
+        <lb/>
+
+        والمسألة عمّا لا يعنيك
+      </p>
+
+      <p n="Dimna's Perspective on Serving Kings">
+        أمّا أحوالنا فصالحة وأمورنا فجميلة ونحن بباب ملكنا مقيمين
+        <lb/>
+
+        ولسنا من أهل المرتبة التي يتناول أهلها كلام الملوك وينظرون في أمورهم
+      </p>
+
+      <p n="Kalila's Warning and Monkey Parable">
+        فاسكت
+        <lb/>
+
+        عن هذا الأمر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

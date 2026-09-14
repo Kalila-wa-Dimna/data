@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="181"/>
+
+      <p n="The Downsides of Escape Are Explained">
+        أوطاننا
+      </p>
+
+      <p n="Recourse Should be Made to Planning and Preparing">
+        ولكن نكون على حذر واستعداد وتأهّب ونبعث العيون
+        <lb/>
+
+        والطلائع فلا يخْف علينا خبر البوم
+      </p>
+
+      <p n="There Is Hope for Victory">
+        ولعلّنا نصيب ظفرًا أو نجد عورة فيجري
+        <lb/>
+
+        بها منهنّ ما صنعن
+      </p>
+
+      <p n="Escape Should Not Be the First Choice">
+        ولا نبدأ بالهرب واضاعة الأموال والأثقال
+        <lb/>
+
+        فيكون ما أصابوا من ذلك علينا لهم عونًا
+      </p>
+
+      <p n="The Crow King Asks the Third Crow">
+        ثمّ قال للثالث
+        <lb/>
+
+        ما ترى فيما قال صاحباك
+      </p>
+
+      <p n="The Crow Rejects Prior Input">
+        فقال لم يقولا شيئًا لعمري ما يدافعه
+        <lb/>
+
+        الليالي يستقيم لنا
+      </p>
+
+      <p n="Recourse Should be Made to Reconnaissance">
+        إلّا أن نبعث منّا من له فضل ورفق فيكون
+        <lb/>
+
+        منهم قريبًا ويتجسّسوا الأخبار ويعلموا ما يريدون
+      </p>
+
+      <p n="The Information Shall Determine a Truce or Tribute">
+        وهل يرضين
+        <lb/>
+
+        بأداء الخراج إليهنّ
+      </p>
+
+      <p n="Truce for a Tribute Should Be Sought">
+        فإن فعلن فنحن أحقّ للقدم في ذلك والإقرار به
+        <lb/>
+
+        والاستلام له ونقيم مكاننا ووطننا آمنين غير متخوّفين لهنّ
+      </p>
+
+      <p n="Peace Is Worth the Tribute">
+        فإنّ العلماء قد قالوا إذا أتاك من عدوّك ما تكره وأمرًا لا يقوى منه
+        <lb/>
+
+        فإنّه جدير بالتماس الأمان وأداء الخراج لما في ذلك من صلاح الرعيّة
+      </p>
+
+      <p n="Peace Should Come Sooner than Later">
+        وتعجيل ما أشرت عليك به أفضل من تأخيره
+      </p>
+
+      <p n="The Crow King Asks the Fourth Crow">
+        ثمّ قال للرابع
+        <lb/>
+
+        ما رأيك فيما قال أصحابك
+      </p>
+
+      <p n="Paying Tributes Is Debasing">
+        فقال لم يقولوا شيئًا أرى أن لا نضيّع أنفسنا
+        <lb/>
+
+        لهؤلاء السفلة ولا نؤدّي إليهنّ الخراج فإنّه صغار وذلّ
+      </p>
+
+      <p n="Recourse Is in Going to the Desert">
+        ولعمري لئن ننطلق
+        <lb/>
+
+        إلى البرّيّة فنسكنها ونعالج فيها سقط المعيشة حتّى نفرغ الله لنا أفضل وأمثل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

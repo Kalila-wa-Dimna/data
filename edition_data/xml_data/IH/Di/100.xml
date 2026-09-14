@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="100"/>
+
+      <p n="The Ox Was Loyal">
+        |نفسُك فاعلمْ أصدقُ الشهودِ ### في خَبَرِ العدوِّ والوَدودِ
+      </p>
+
+      <p n="The Lion's Remorse for Killing the Ox">
+        |قال لها لقد رأيتُ قلبي ### يشهدُ لي عن قلبِهِ بالحبِّ
+      </p>
+
+      <p n="The Lion Feels Misguided by a Schemer">
+        |لكنّما دمنةُ بالزورِ سعى ### ما بيننا وكادَ حتّى قطَعا
+      </p>
+
+      <p n="The Lion Asks Whether His Mother Has Any News">
+        |ولو سمعتُ خبرًا يُصدّقُ ### ظنّي لِما كنتُ عليهِ أُشفِقُ
+      </p>
+
+      <p n="The Lion Wants to Avoid Killing Another Innocent">
+        |لكنّني أخافُ أنْ أكونا الحالتيْنِ خاسِرًا مغبونا
+        <lb/>
+
+        |أقتلُ ذاك أمسِ بالنميمَهْ ### واليومَ ذا بالظنِّ والسخيمهْ
+        <lb/>
+
+        |ولستُ في الكلِّ على يقينِ ### مَن لي بعذرٍ واضحٍ يقيني
+      </p>
+
+      <p n="The Mother's Source Attributes Dimna's Act to Envy of the Ox">
+        |قالتْ له لقد سمعتُ خَبَرا ### صدّقتُهُ أنّ الخبيثَ مكَرا
+        <lb/>
+
+        |لمّا رآك قد خصصتَ شتربَهْ ### بالودِّ والبرِّ وحُسنِ المرتبَهْ
+        <lb/>
+
+        |أفسدَ ما بينكما حتّى فَسَدْ ### كذاك كلُّ حاسدٍ إذا حَسَدْ
+      </p>
+
+      <p n="Lion Asks for Source but Mother Wants to Keep It Secret">
+        |قال ومَن أنباكِ هذا قالتِ ### منْ هُوَ أهلُ البرِّ والأمانَةِ
+        <lb/>
+
+        |لكنّه قال دعي تسميَتي ### واقْتنِعي بسِمتي وصِفتي
+      </p>
+
+      <p n="Sharing Entrusted Secrets Betrays Trust">
+        |وإنّ مَن أَفشى لخِلٍّ سِرّا ### لخائنٌ يلقى بذاك صُغْرا
+      </p>
+
+      <p n="Serious Crimes Do Not Allow Secrecy">
+        |قال لها ليس مِن المحمودِ ### كتمانُ ذي الأخبارِ والشهودِ
+        <lb/>
+
+        |في ذِكرِه أجرٌ له وشكرُ ### إن كان بالحالِ لديه خَبْرُ
+        <lb/>
+
+        |أحيى به حقَّ امرئٍ مظلومِ ### وفضحَ الباغي مِن الخُصومِ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

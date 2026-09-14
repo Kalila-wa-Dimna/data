@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="70"/>
+
+      <p n="Defining the Helpless Man and Introducing the Tale of the Three Fish">
+        حتى يهلك ومثل ذلك مثل السمكات الثلاث
+      </p>
+
+      <p n="The Lion Asks for the Tale of the Fish">
+        قال الأسد
+        <lb/>
+
+        وكيف كان مثلهنّ
+      </p>
+
+      <p n="The Story Begins: Three Fish in a Pond">
+        قال دمنة زعموا أنّ غديرًا كان فيه ثلاث سمكات
+        <lb/>
+
+        عظام كيّسة وحازمة وعاجزة فكان ذلك المكان بنجوة من الأرض لا
+        <lb/>
+
+        يكاد يقربها الناس
+      </p>
+
+      <p n="Two Fishermen Discover the Pond">
+        فلمّا كان ذات يوم مرّ صيّادان على ذلك الغدير
+        <lb/>
+
+        مجتازين فأبصرا السمكات الثلاث فتواعدا على أن يرجعا إليه بشبكتهما
+        <lb/>
+
+        فيصيدا السمكات اللواتي رأيا فيه في الماء
+      </p>
+
+      <p n="The Most Resolute Fish Escapes Immediately">
+        وأنّ السمكة التي كانت أحزم
+        <lb/>
+
+        لمّا رأتهما ارتابت وتخوّفت فلم تعرج أن خرجت من المكان الذي كان الماء
+        <lb/>
+
+        يدخل فيه إلى الغدير من النهر
+      </p>
+
+      <p n="The Wise Fish Procrastinates and Finds the Exit Blocked">
+        وأمّا السمكة الكيّسة التي كانت دون الأولى
+        <lb/>
+
+        في العقل ثبتت مكانها وأخرّت الحيلة حتّى كان بعد ذلك وجاء الصيّادان
+        <lb/>
+
+        فرأتهما وعرفت ما يريدان ووجدتهما قد سدّا ذلك المخرج
+      </p>
+
+      <p n="The Wise Fish Laments Her Delay but Resolves to Use Her Wits">
+        فقالت قد فرّطت
+        <lb/>
+
+        وهذه عاقبة التفريط فكيف الحيلة على هذه الحال فقلّ ما تنجح حيلة
+        <lb/>
+
+        العجلة والإرهاق ولكنّ العاقل لا يقنط من منافع الرأي ولا يأسى على
+        <lb/>
+
+        حال ولا يدع الرأي
+      </p>
+
+      <p n="The Wise Fish Escapes by Playing Dead">
+        ثمّ إنّها تماوتت فجعلت تطفو على الماء منقلبة على ظهرها
+        <lb/>
+
+        فأخذها الصيّاد بحسبان الميتة فوضعها على الأرض بين الغدير والنهر
+        <lb/>
+
+        فوثبت في النهر فنجت من الصيّاد
+      </p>
+
+      <p n="The Helpless Fish is Caught">
+        وأمّا العاجزة فلم تزل في إقبال وإدبار حتّى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

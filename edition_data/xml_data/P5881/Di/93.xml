@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="93"/>
+
+      <p n="Falconer's Training of Parrots Is Discovered">
+        قال فرجع الرجل إلى عقله وأمر القوم البلخيّين بأن يكلّموا الطائرين بالبلخيّة غير هاتين الكلمتين
+        <lb/>
+
+        فلم يحسنا غيرهما فعلم الرجل من تعليم البازدار إليه
+      </p>
+
+      <p n="Falcon Gouges Out His Eyes">
+        فأتاه وعلى يده بازًا فقال له ويلك
+        <lb/>
+
+        أنت قذفت هذه المرأة بالبهتان واحتلت لها بهذه الحيلة قال نعم فوثب الباز الذي على
+        <lb/>
+
+        يده فنزع عينه بمخالبه
+      </p>
+
+      <p n="Wife Interprets This As God Punishing False Testimony">
+        فقال له الرجل لقد عجّل الله لك الثكال بكذبك لأنّك زعمت أنّك عاينت
+        <lb/>
+
+        ما لم تبصره ولم تره والله تعالى حسب كلّ ظالم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

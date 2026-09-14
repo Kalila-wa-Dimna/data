@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="169"/>
+
+      <p n="Lion Should Not Fear Jackal's Grudge">
+        راجعته
+      </p>
+
+      <p n="The Wronged Person Need not Be Feared">
+        فإنّه ليس من أوذي ونحسن حقّه ينقطع الرجاء من
+        <lb/>
+
+        منفعته ومن كانت نفسه مطمئنّة محقّة وضع الأشياء
+        <lb/>
+
+        مواضعها
+      </p>
+
+      <p n="Whom not to Reinstate">
+        فإنّ من الناس من لا ينبغي مواصلته بعد مفارقته
+      </p>
+
+      <p n="The Faithless Should Be Given Up">
+        ولا ينبغي للملك أن يرحم الكفور المجنى الجريء على الغدر المشبّه
+        <lb/>
+
+        في صورة الحقّ الزاهد في الأجر ومن لا ودّ له ولا يوقن بالآخرة
+      </p>
+
+      <p n="The Irascible Should Be Given Up">
+        والذي قد جُرّب منه سرعة الغضب وفرط الشهوة
+      </p>
+
+      <p n="unassigned">
+        المـ
+      </p>
+
+      <p n="The Irreconcilable Should Be Given Up">
+        المعروف بالخيانة والخديعة
+      </p>
+
+      <p n="The Hedonistic Should Be Given Up">
+        الحريص على الزنا والفسوق
+        <lb/>
+
+        والمجرّب بقلّة الخير والحياء
+      </p>
+
+      <p n="Whom to Reinstate">
+        ولكنّ الواجب مراجعة من
+        <lb/>
+
+        من جُرّب بالشكر وحسن العهد وحبّ البرّ والبغض للإثم
+        <lb/>
+
+        وحبّ العاقبة وحسن المعاشرة
+      </p>
+
+      <p n="Jackal Has Been Tested">
+        وقد جرّبت ابن آوى
+        <lb/>
+
+        وعرفته وأنت حقيق بمراجعته ومواصلته
+      </p>
+
+      <p n="Lion Apologizes to Jackal">
+        فأمر الأسد
+        <lb/>
+
+        بحضور ابن آوى فحضر وأدناه منه واعتذر إليه ممّا كان
+        <lb/>
+
+        منه وألبسه خلعة سنيّة وأوعده خيرًا
+        <lb/>
+
+        وقال إنّي معتذر إليك ممّا حُمّلت من أهل الشرّ عليك
+        <lb/>
+
+        ومنتقم منهم
+      </p>
+
+      <p n="Lion Wants to Reinstate Jackal">
+        ورادُّك إلى منزلتك ورافعك إلى أفضل
+        <lb/>
+
+        المنازل
+      </p>
+
+      <p n="Untrue Friends Seek Only Their Own Benefit">
+        قال ابن آوى إنّ شرّ الأخلّاء من التمس منفعة
+        <lb/>
+
+        نفسه بضرّه غيره وكان غير ناظر لأخيه كنظره لنفسه
+        <lb/>
+
+        وإن كان لا يرضيه وهو على خلاف الحقّ وكثير ذلك
+        <lb/>
+
+        من الأخلّاء موجودين
+      </p>
+
+      <p n="Jackal Is Reluctant to Trust Lion Again">
+        وقد كان من المكر ما قد وضح للملك
+        <lb/>
+
+        فلا يخدع الملك نفسه من أنّي أعود إلى خدمته وإنّي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

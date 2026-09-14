@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="39"/>
+
+      <p n="Burzoy Disguises Misson By Study">
+        عن بغيته وحاجته
+      </p>
+
+      <p n="Burzoy Mingles With Indians">
+        واتّخذ في تلك الحال أصدقاء كثيرة لطول مقامه
+        <lb/>
+
+        بين الهند من الأشراف والسوقة والفقهاء والعلماء من أهل كلّ طبقة
+        <lb/>
+
+        وصناعة
+      </p>
+
+      <p n="Burzoy Chooses Friend">
+        وتخيّر من بين أصدقائه رجلًا واحدًا اتّخذه لسرّه لما ظهر له
+        <lb/>
+
+        من فضله واستبان له من صدق إخائه
+      </p>
+
+      <p n="Burzoy Hides Mission From Friend">
+        فكان يشاوره في الأمر
+        <lb/>
+
+        ويرتاح إليه في جميع ما أهمّه من الأمور إلّا أنّه كان يكتمه الأمر
+        <lb/>
+
+        الذي قدم له ممّا كان في نفسه
+      </p>
+
+      <p n="Burzoy Vets Friend">
+        لكي يبلوه ويختبره لينظر هل
+        <lb/>
+
+        هو موضع يطلعه على سرّه فلم يزل يبحث عن ذات نفسه حتّى وثق
+        <lb/>
+
+        به وعرف أنّه لما استُودع من السرّ موضع وفيما طُلب من احتمال
+        <lb/>
+
+        مشقّة مساعد ولما سُئل مشفع
+      </p>
+
+      <p n="Burzoy Trusts Friend">
+        فلمّا وثق برزويه بصديقه
+      </p>
+
+      <p n="Burzoy Hints At Secret">
+        قال
+        <lb/>
+
+        له وهما جالسان يا أخي ما أريد أكتمك من أمري فوق الذي كتمتك
+        <lb/>
+
+        فاعلم أنّي قدمت لأمر هو غير الذي ترى ممّا يظهر منّي
+      </p>
+
+      <p n="Signs Suffice For The Intelligent">
+        والعاقل
+        <lb/>
+
+        يكتفي من الرجل بالعلامات من نظره حتّى يعلم سرّ نفسه وما
+        <lb/>
+
+        يضمر قلبه عليه
+      </p>
+
+      <p n="Friend Aware Of Burzoys Secret">
+        قال الهنديّ إنّي ولم أكن بدأتك بما له جئت
+        <lb/>
+
+        وإيّاه تريد فما خفي عليّ ذلك في أوّل مقدمك
+      </p>
+
+      <p n="Friend Shuns Confrontation">
+        لكن لرغبتي في إخائك
+        <lb/>
+
+        كرهت أن أواجهك وإنّه قد استبان لي ما أنت مخفي
+      </p>
+
+      <p n="Friend Infers Burzoys Secret">
+        فأمّا إذ
+        <lb/>
+
+        ظهر وافتتحتني بالكلام فيه فأنا مخبرك ومظهر لك سريرة
+        <lb/>
+
+        أمرك
+      </p>
+
+      <p n="Friend Guesses Burzoys Mission">
+        فإنّك قدمت بلادنا لتسلبنا كنوزنا النفيسة فتذهب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="168"/>
+
+      <p n="Deliberateness Prevents Regret">
+        فيها كان ثمرة ذلك الندامة
+      </p>
+
+      <p n="Vision Alone May Deceive">
+        ومن لم ينظر في أمره نظر متفكّر معتبر كان نظره
+      </p>
+
+      <p n="Imaginary Hair in Eye Taken for Real">
+        كنظر الذي
+        <lb/>
+
+        بعينه شيء ثمّ تخيّل له أنّ بنيتها كهيئة الشعرة
+      </p>
+
+      <p n="Firefly Is Mistaken for Fire">
+        أو كالجاهل الذي يرى البعوضة في الليل
+        <lb/>
+
+        فيظنّ أنّها شيئًا فإذا أخذها عرف أنّها ليست كذلك
+      </p>
+
+      <p n="King Should Have Investigated">
+        وقد كنت حقيقًا أيّها الملك أن تعرف حقيقة
+        <lb/>
+
+        ابن آوى برأيك ونظرك وترجع إلى بغيتك وتقول ما يكون هذا
+      </p>
+
+      <p n="Jackal Eats no Meat">
+        لأنّه لا يأكل اللحم ولا يقربه
+        <lb/>
+
+        تنزّهًا منه وتعبّدًا لله تعالى
+      </p>
+
+      <p n="Jackal Is Unlikely to Steal Meat">
+        وإنّك قد تعلم أنّه لم يكن بآخذ اللحم الذي أمرته بالاحتفاظ به
+        <lb/>
+
+        فيرسل به إلى بيته ويجحدك إيّاه
+      </p>
+
+      <p n="Jackal Is Least Likely to Steal">
+        هذا لا يكون أبدًا من غيره فكيف بابن آوى وهو كثير العلم
+        <lb/>
+
+        والحلم وذو حظّ من الأمانة وله حظّ وعقل
+      </p>
+
+      <p n="The Inferior always Envy the Superior">
+        واعلم أنّ الجهّال أبدًا يحسدون العلماء
+        <lb/>
+
+        والأخيار ويقعون فيهم ليوبقوهم
+      </p>
+
+      <p n="Investigation Would Clear Jackal">
+        ولو فحصت عن أمره لبان لك براءته فيما رموه به
+        <lb/>
+
+        وإنّما ذلك سعاية أهل المكر والفجور
+      </p>
+
+      <p n="Jackal's Foes Perhaps Hid Meat">
+        وأنّهم هم الذين ذهبوا باللحم إلى بيته وخبّؤوه فيه من غير
+        <lb/>
+
+        علمه
+      </p>
+
+      <p n="Kite's Booty Attracts Competitors">
+        فإنّ الحدأة إذا كان في مخلبيها لحم قاتلها عليه الطير حتّى يزيلوه منها
+      </p>
+
+      <p n="Dog's Bone Attracts Competitors">
+        والكلب إذا كان
+        <lb/>
+
+        في فيه لحم فعلت الكلاب به مثل ذلك
+      </p>
+
+      <p n="Schemers Pursue Only Own Benefit">
+        فأمّا الذين بغوا على ابن آوى لم يسألوا ولم يبالوا عن
+        <lb/>
+
+        مضرّة لم تدخل عليك وإنّما منفعة ذلك لهم
+      </p>
+
+      <p n="King Must Protect Himself">
+        فانظر لنفسك ولا تلتفت إليهم لأنّ جميع الناس
+        <lb/>
+
+        عامّة والسلطان خاصّة
+      </p>
+
+      <p n="Lion Benefited from Jackal">
+        واعلم بأنّ ابن أوى من أهل الصلاح والعلم وأنّ قربه منك نافع لك
+      </p>
+
+      <p n="Jackal Toiled for Lion">
+        وكانت مساءة أصحابك تهون عليه في مسرّتك فكان يتحمّل ذلك كلّه في رضاك ومنفعتك
+      </p>
+
+      <p n="Jackal Is Unmatched">
+        ومثله من الأصحاب والوزراء لا يُؤخذ لأنّ ما عندك أفضل منه ولا أرجح عقلًا ينفعك في كلّ
+        <lb/>
+
+        الأمور وهو عدّة لك في الشدائد
+      </p>
+
+      <p n="Courtier Exonerates Jackal">
+        قال فبينما أمّ الأسد تعظه وتعطّفه وتضرب له الأمثال
+        <lb/>
+
+        وتشفع في ابن آوى إذ أتى الملك من أخبره ببراءة ابن آوى وأعلمه أنّه ناصح أمين وأنّهم إنّما
+        <lb/>
+
+        نصبوا عليه منصوبة وهو بريء ممّا لطّخوه به
+      </p>
+
+      <p n="Mother Reaffirms Intrigue">
+        ولمّا عرفت أمّ الأسد أنّه قد صحّ عنده براءة ابن
+        <lb/>
+
+        آوى وأمانته قالت له تقرّر هذا عندك وبان لك ممّن بغى عليه وحسده
+      </p>
+
+      <p n="Lion Must not Tolerate Misdeeds">
+        فلا ترخّص لهم في ذلك
+        <lb/>
+
+        فتهون عليهم فيفعلون معك أكثر من ذلك ولا
+      </p>
+
+      <p n="Lion Must not Underestimate Wrongdoers">
+        تتّكل أن تقول إنّي مسلّط عليهم لا أخافهم فإنّ
+      </p>
+
+      <p n="Grass Rope Ties Elephant">
+        العشب وإن كان لا قوّة له يُصنع منه الحبل الذي يوثَق به الفيل والجمل والفرس
+      </p>
+
+      <p n="Lion Should Reinstate Jackal">
+        فاردد
+        <lb/>
+
+        ابن آوى إلى منزلته وليكن صاحب مشورتك وأمينك على سرّك ولا يمنعك ما كان من إهانته
+        <lb/>
+
+        فإنّه قد أوذي وكُذب عليه
+      </p>
+
+      <p n="Whom not to Reinstate">
+        فإنّ الإخوان ليسوا سواء منهم من مواصلته ضرّ وبلاء وفتنة
+      </p>
+
+      <p n="The Faithless Should Be Given Up">
+        ومنهم
+        <lb/>
+
+        الكفور ومنهم الجريء على ركوب الإثم المنزوع من الرحمة فلا يرجوا لعمله ثوابًا ولا يتخوّف
+        <lb/>
+
+        عقابًا ولا يؤمن بالبعث والحساب
+      </p>
+
+      <p n="The Irascible Should Be Given Up">
+        ومنهم السريع الغضب الشره الشديد الحرص التابع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

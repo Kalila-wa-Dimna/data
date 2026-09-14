@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="269"/>
+
+      <p n="Queen Pours Rice Over King">
+        على وجهه
+      </p>
+
+      <p n="King Expresses Anger To Vizier">
+        فقام الملك من مكانه ودعا بايلاذ فقال له ألا ترى
+        <lb/>
+
+        وأنا ملك العالم كيف حقّرتني هذه الجاهلة وفعلت بي ما ترى
+      </p>
+
+      <p n="King Orders To Execute Queen">
+        فانطلق
+        <lb/>
+
+        بها فاقتلها ولا ترحمها
+      </p>
+
+      <p n="Vizier Decides To Spare Queen">
+        فخرج إيلاذ من عند الملك وقال لا أقتلها
+        <lb/>
+
+        حتّى يسكن عنه الغضب
+      </p>
+
+      <p n="Vizier Praises Queen">
+        فالمرأة عاقلة شديدة من الملكات
+        <lb/>
+
+        التي ليس لها عديل
+      </p>
+
+      <p n="King Will Miss Queen">
+        وليس الملك بصابر عنها وقد خلّصَته من الموت وعملت
+        <lb/>
+
+        أعمالًا صالحة ورجاؤنا فيها عظيم
+      </p>
+
+      <p n="Vizier Fears Risk Of Rush">
+        ولست آمنُه أن يقول لما لم تؤخّر
+        <lb/>
+
+        قتلها حتّى تراجعني
+      </p>
+
+      <p n="Viziers Action Depends On King">
+        ولست قاتلها حتّى أنظر رأي الملك فيها ثانية فإن رأيته
+        <lb/>
+
+        نادمًا حزينًا على ما صنع جئت بها حيّة
+      </p>
+
+      <p n="Vizier Reflects On Benefits">
+        وكنت قد عملت عملًا عظيمًا
+        <lb/>
+
+        وأنجأت ايراخت من القتل وحَفظت قلب الملك واتّخذت عند عامّة
+        <lb/>
+
+        الناس بذلك يدًا
+      </p>
+
+      <p n="Vizier Might Execute Order">
+        وإن رأيتُه فرحًا مستريحًا مصوّبًا رأيه في الذي فعله وأمر
+        <lb/>
+
+        به فقَتلُها لا يفوت
+      </p>
+
+      <p n="unassigned">
+        ثمّ انطلق بها إلى منزله ووكّل بها خادمًا من أمنائه
+        <lb/>
+
+        وأمره بخدمتها وحراستها حتّى ينظر ما يكون من أمرها وأمر الملك ثمّ
+        <lb/>
+
+        خضب سيفه بالدم ودخل على الملك كالكئيب الحزين فقال أيّها الملك
+        <lb/>
+
+        إنّي قد أمضيت أمرك في ايراخت فلم يلبث الملك أن سكن عنه الغضب
+        <lb/>
+
+        وذكر جمال ايراخت وحسنها اشتدّ أسفه عليها وجعل يعزّي نفسه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

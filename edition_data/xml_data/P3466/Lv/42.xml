@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="42"/>
+
+      <p n="Scholars Commend Discrete Friend">
+        مدحت الصديق إذا كتم سرّه لصديقه وأعانه على أموره
+      </p>
+
+      <p n="Burzoy Entrusts Secret To Friend">
+        وهذا الأمر الذي قدمت له لمثلك ادّخرته وإليك
+        <lb/>
+
+        أفشيته وبك أرجو بلوغه
+      </p>
+
+      <p n="Burzoy Sure Of Friends Abilities">
+        وأنا أثق بكرم طباعك ووفور
+        <lb/>
+
+        عقلك أن يكون دركي إيّاه على يدك وبك وإن نالك بسببه
+        <lb/>
+
+        مشقّة وعناء
+      </p>
+
+      <p n="Friend Fears Own Kin">
+        وأنا أعلم أنّك لا تخشى منّي ولا تخاف أن أبديه
+        <lb/>
+
+        بل تخشى أهل بيتك المطيفين بك وبالملك أن يسعوا بك وأن
+        <lb/>
+
+        يفشوا بسرّك
+      </p>
+
+      <p n="Burzoy Hopes Secret Remains Kept">
+        وأنا أرجو ألّا يشيع شيء من هذا الأمر
+        <lb/>
+
+        لأنّي أنا ظاعن وأنت مقيم وما أقمت فلا ثالث بيننا فتعاهدا
+        <lb/>
+
+        على هذا جميعًا
+      </p>
+
+      <p n="Friend Provides Book">
+        فأجابه الهنديّ إلى ذلك الكتاب وإلى
+        <lb/>
+
+        غيره من الكتب
+      </p>
+
+      <p n="Burzoys Effort In Translation">
+        فأكبّ على تفسيره ونقله من اللسان
+        <lb/>
+
+        الهنديّ إلى اللسان الفارسيّ فأتعب نفسه
+        <lb/>
+
+        وأنصب بدنه ليلًا نهارًا
+      </p>
+
+      <p n="Burzoy Translates Under Duress">
+        وهو مع ذلك وجل وفزع
+        <lb/>
+
+        من ملك الهند خائف على نفسه من أن يذكر الملك الكتاب
+        <lb/>
+
+        في الوقت فلا يصادفه في خزانته
+      </p>
+
+      <p n="Burzoy Writes To Kisra">
+        فلمّا فرغ من انتساخ
+        <lb/>
+
+        الكتاب وغيره ممّا أراد من سائر الكتب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

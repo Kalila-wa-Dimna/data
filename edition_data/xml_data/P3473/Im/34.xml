@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="34"/>
+
+      <p n="The Intelligent Should Believe in Fate">
+        على العاقل أن يصدّق بالقضاء والقدر ويأخذ بالحزم
+      </p>
+
+      <p n="Do unto Other as to Oneself">
+        ويحبّ
+        <lb/>
+
+        للناس ما يحبّه لنفسه ويكره للناس ما يكرهه لنفسه ولا يلتمس صلاح
+        <lb/>
+
+        ذاته بفساد غيره
+      </p>
+
+      <p n="A Merchant Steals from His Partner">
+        فإنّه من فعل ذلك كان خليقًا أن يصيبه
+        <lb/>
+
+        ما أصاب تاجر الدقيق وذلك أنّه كان رجلان اشتركا في
+        <lb/>
+
+        دقيق واستأجرا حانوتًا تركا فيه ذلك الدقيق وأحدهما ساكن
+        <lb/>
+
+        بقرب الحانوت والآخر بالبعد منه
+      </p>
+
+      <p n="The Merchant Devises a Plot">
+        فأضمر الذي بالقرب أن يسرق
+        <lb/>
+
+        من أعدال رفيقه علا عدلًا وفكّر في وجه الحيلة فيه وقال
+        <lb/>
+
+        إن أنا جئت ليلًا لم آمن أن أحمل عدلًا من أعدالي ورزمة من متاعي
+        <lb/>
+
+        ولا أعرفها فيذهب متاعي وتعبي ولكنّي أعلّم علامة أعرف بها العدل
+        <lb/>
+
+        فآخذه
+      </p>
+
+      <p n="The Merchant Executes the Plot">
+        فأخذ رداءه فألقاه على العدل الذي أضمر أخذه
+        <lb/>
+
+        وانصرف إلى منزله
+      </p>
+
+      <p n="The Partner Finds the Garb">
+        وخلّف رفيقه في الحانوت بعده فلمّا أراد الانصراف
+        <lb/>
+
+        إلى منزله قام يصلح أعداله
+      </p>
+
+      <p n="The Partner Moves the Garb">
+        فقال والله هذا رداء صاحبي ولا أحسبه
+        <lb/>
+
+        إلّا وقد نسيه وما الرأي أن آخذه ولا أدعه على متاعي بل أصيّره
+        <lb/>
+
+        على رزمته فعساه أن يرجع فيجده على متاعه فيأخذه ثمّ ألقاه
+        <lb/>
+
+        على عدل من أعداله وقفل الحانوت وانصرف
+      </p>
+
+      <p n="The Merchant Steals His Own Bale">
+        فلمّا كان الليل
+        <lb/>
+
+        جاء رفيقه ومعه رجل وقد واطأه على ما عزم عليه وضمن له جعلًا
+        <lb/>
+
+        فصار إلى الحانوت بالرجل وفتحه وطلبا الإزار في الظلمة فوجده
+        <lb/>
+
+        على الأعدال مرمي فاحتملا عدلًا بجهد حتّى أخرجاه وجعل هو والرجل
+        <lb/>
+
+        يتعاونان على حمله حتّى صار إلى منزله فرمي بنفسه من شدّة التعب
+        <lb/>
+
+        والجهد
+      </p>
+
+      <p n="The Merchant Discovers the Error at Home">
+        فلمّا أصبح نظر فإذا هو ببعض أعداله فندم أشدّ الندم ثمّ
+        <lb/>
+
+        انطلق نحو الحانوت فوجد شريكه وقد سبقه إليه وقد فقد العدل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

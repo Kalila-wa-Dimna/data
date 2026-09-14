@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="255"/>
+
+      <p n="Courtiers Expect Jackal's Pardon">
+        وأعجب من هذا أراه سيصفح عنه بعد الذي ظهر منه
+      </p>
+
+      <p n="False Message and Death Sentence">
+        فأرسل رسولًا إلى
+        <lb/>
+
+        ابن آوى يلتمس منه العذر فرجع إليه الرسول برسالة كاذبة فغضب
+        <lb/>
+
+        الأسد من ذلك وأمر به أن يُقتل
+      </p>
+
+      <p n="Lion's Mother Delays Execution">
+        فلمّا عرفت أمّ الأسد ذلك علمت أنّه قد
+        <lb/>
+
+        عجل في أمره فأرسلت إلى الذين أُمروا بقتله أن يؤخّروه
+      </p>
+
+      <p n="Mother Questions Lion">
+        ودخلت على
+        <lb/>
+
+        ابنها فقالت يا بنيّ بأيّ ذنب أمرت بقتل ابن آوى فأخبرها بالأمر فقالت
+        <lb/>
+
+        يا بنيّ عجلت
+      </p>
+
+      <p n="The Intelligent Deliberates">
+        وإنّما يسلم العاقل من الندامة بترك العجلة والتثبّت
+      </p>
+
+      <p n="Haste Causes Regret">
+        والعجلة
+        <lb/>
+
+        لا يزال صاحبها يجني ثمر الندامة وضعف الرأي
+      </p>
+
+      <p n="Jackal Has Shown Integrity">
+        وليس ينبغي للملك بعد ارتضائه
+        <lb/>
+
+        إيّاه وائتمانه له منذ مجيئه وإلى الآن لم يطّلع له على خيانة إلّا على
+        <lb/>
+
+        العفّة والنصيحة
+      </p>
+
+      <p n="Mother Finds Accusation Absurd">
+        وما كان من رأي الملك أن يعجل عليه لأجل طابق لحم
+      </p>
+
+      <p n="King Should Have Investigated">
+        وأنت
+        <lb/>
+
+        أيّها الملك حقيق أن تنظر في حقّ ابن آوى
+      </p>
+
+      <p n="Jackal Is Unlikely to Steal Meat">
+        لتعلم أنّه لم يكن يتعرّض
+        <lb/>
+
+        للحم استودعته إيّاه
+      </p>
+
+      <p n="Investigation Would Clear Jackal">
+        ولعلّ الملك إن يفحص عن ذلك يظهر له فإنّ ابن آوى
+        <lb/>
+
+        له خصماء هم الذين ائتمروا بهذا الأمر
+      </p>
+
+      <p n="Jackal's Foes Perhaps Hid Meat">
+        وهم الذين ذهبوا باللحم إلى بيته
+        <lb/>
+
+        فوضعوه فيه
+      </p>
+
+      <p n="Kite's Booty Attracts Competitors">
+        فإنّ الحدأة إذا كان في رجلها قطعة لحم اجتمع عليها سائر
+        <lb/>
+
+        الطير
+      </p>
+
+      <p n="Dog's Bone Attracts Competitors">
+        والكلب إذا كان معه عظم اجتمعت عليه الكلاب
+      </p>
+
+      <p n="Lion Benefited from Jackal">
+        وابن آوى
+        <lb/>
+
+        كان إلى اليوم نافعًا
+      </p>
+
+      <p n="Jackal Toiled for Lion">
+        وكان محتملًا لكلّ ضرر في جنب منفعة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

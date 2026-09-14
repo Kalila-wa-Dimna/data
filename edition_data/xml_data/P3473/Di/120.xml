@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="120"/>
+
+      <p n="Dimna Defines as Traitor Who Is Ungrateful for Advice and Kills a Defeated Enemy">
+        عدوّه فإذا استمكن منه قتله على غير ذنبٍ
+      </p>
+
+      <p n="The Mother Calls Dimna a Liar">
+        قالت أمّ الأسد
+        <lb/>
+
+        أيّها الجاني أتريد أنّك تكون ناجي من جرمك العظيم بهذه الأقاويل
+        <lb/>
+
+        والكذب
+      </p>
+
+      <p n="Dimna Claims Truthfulness">
+        قال دمنة إنّما الكذّاب الذي يقول ما لم يفعلْ
+        <lb/>
+
+        وأمّا أنا فقد قلت الذي كان وصدقت بقولي وفعلي
+      </p>
+
+      <p n="The Mother Asks for Proof of Dimna's Truthfulness">
+        قالت أمّ الأسد وما الذي قلته وصدقت فيه
+      </p>
+
+      <p n="Mother Asks Lion's Knowledge of Dimna's Veracity or Treason">
+        ثمّ قالت
+        <lb/>
+
+        للأسد أتعرف بعض ما يقول دمنة في براءته وغدره
+      </p>
+
+      <p n="Lion Hands Dimna Over to Judge for Investigation">
+        فأمر أن يُحمل دمنة للقاضي ويُفحص عن شأنه
+      </p>
+
+      <p n="The Judge Has Dimna Taken to Prison">
+        ثمّ ألقى في
+        <lb/>
+
+        عنق دمنة حبلًا وأمر به
+      </p>
+
+      <p n="Kalila Seeks out Dimna in Prison">
+        فلمّا انتصف الليل سمع كليلة
+        <lb/>
+
+        أنّ دمنة في السجن فانطلق مستخفيًا
+      </p>
+
+      <p n="Kalila Weeps when Seeing Dimna">
+        حتّى لقيه ونظر إليه
+        <lb/>
+
+        ورأى ما هو فيه من الضيق والغمّ وسوء الحال
+      </p>
+
+      <p n="Kalila Admits Having Been Harsh on Dimna">
+        فقال
+        <lb/>
+
+        له أنت في هذا الضيق الذي جناه عليك سوء رأيك فإنّي وسأذكّرك
+        <lb/>
+
+        ما كنت أفضي إليك من النصيحة
+      </p>
+
+      <p n="Withholding Advice Would Have Made Kalila Complicit">
+        فإنّ لكلّ مقامٍ مقال ولو
+        <lb/>
+
+        كنت قصدت أثرك كنت اليوم شريكك
+      </p>
+
+      <p n="Conceit Caused Dimna's Demise">
+        غير أنّ الجبّ تمكّن
+        <lb/>
+
+        منك فغاب عقلك وكنت أضرب لك كثيرًا من الأمثال وأذكّرك
+        <lb/>
+
+        قول العلماء
+      </p>
+
+      <p n="Dimna Cites His Greed as Cause for Not Listening">
+        قال دمنة يا أخي الحرص على المنزلة وطلب الذكر
+        <lb/>
+
+        منعاني الانتفاع برأيك ونُصحك إيّاي
+      </p>
+
+      <p n="Dimna Wants to Await the Verdict">
+        ولكن أنا صابرٌ حتّى أنظر
+        <lb/>
+
+        ما يكون من أمري
+      </p>
+
+      <p n="Prisoner Overhears Their Dialogue">
+        وكانت أمّ الأسد قريبًا منهم فسمعت محا
+        <lb/>
+
+        محاورتهما وكتمته لتشهد به على دمنة وقت الحاجة
+      </p>
+
+      <p n="Kalila Goes Home">
+        ثمّ إنّ
+        <lb/>
+
+        كليلة انصرف إلى بيته وقد اشتدّ حزنه وجزعه لذلك
+      </p>
+
+      <p n="The Mother Confronts Dimna in His Cell">
+        فدخلت أمّ الأسد عليه وقالت كم هذا والغدر والمكر
+        <lb/>
+
+        والخديعة والحسد للصالحين
+      </p>
+
+      <p n="Dimna's Third Subtale of Plower Who Told His Wife to Cover Herself First">
+        قال دمنة إنّما مثلك أيّتها الجاهلة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

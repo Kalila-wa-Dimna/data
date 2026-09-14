@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T2281</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="52"/>
+
+      <p n="unassigned">
+        وإذا كان في مجلس غيره لا يتكلّم إلّا ما يُسأل عنه وإنّي
+        <lb/>
+
+        قد استبنت منك هذه الخصال فأنت أهل أن يُشفق
+        <lb/>
+
+        عليك وتُساعد على ما تريد ولكنّ حاجتك هذه قد
+        <lb/>
+
+        أوغرت نفسي وداخلني منها الخشية والعرق ولكن
+        <lb/>
+
+        لا شيء أفضل من المودّة والإخاء ومن خلصت مودّته
+        <lb/>
+
+        صحّ إنجازه وكان أهلًا أن يُخاطر معه بالروح
+        <lb/>
+
+        والنفس ولا يُؤخّر عنه شيئًا ولا يكتمه سرًّا فإنّ
+        <lb/>
+
+        رأس الأدب حفظ السرّ وإذا كان محفوظًا عند
+        <lb/>
+
+        الأمين فقد أُحرز من التضييع مع أنّه حليف أن
+        <lb/>
+
+        يتكلّم وقيل إنّ مختفي سرّ بين اثنين قد تفاوضن عليه
+        <lb/>
+
+        ولا بدّ أن ينتقل إلى ثالث من إحداهما فقد صار
+        <lb/>
+
+        إلى ثلاثة فقد شاع ومكنونه ذاع فلا يستطيع
+        <lb/>
+
+        صاحبه بعد ذلك جحوده ولا يأمن عقوبته
+        <lb/>
+
+        تهديده وقد داخلني من مودّتك وصحبتك
+        <lb/>
+
+        سرور لا يعدله شيء وهذا الأمر الذي <>
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

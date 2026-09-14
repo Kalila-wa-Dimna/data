@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="335"/>
+
+      <p n="Favorite Wears Dress Before King">
+        جورفاه ذلك غارت من إبرخت فلبست الثياب الحسنة وأقبلت كالشمس
+        <lb/>
+
+        ومرّت بين يدي الملك فاشتاق الملك إليها
+      </p>
+
+      <p n="King Insults Queen">
+        وقال لقد كنت
+        <lb/>
+
+        جاهلة حين تركت الثياب وأخذت الإكليل وتركت الكسوة
+        <lb/>
+
+        التي ليس في خزانتي مثلها
+      </p>
+
+      <p n="Queen Pours Rice Over King">
+        فلمّا سمعت براخت ذلك من
+        <lb/>
+
+        قوله ومدحه خورفتاه ظهر عليها الغيظ والغضب فضربت
+        <lb/>
+
+        بالصحفة التّي كانت في يدها رأس الملك فسال الأرزّ على
+        <lb/>
+
+        جسمه
+      </p>
+
+      <p n="Fulfillment Of Last Dream">
+        فكان ذلك تصديق الحلم الذي كان كبايرون
+        <lb/>
+
+        قد وعد الملك بطرف منه ولم يكن بيّنه له
+      </p>
+
+      <p n="King Expresses Anger To Vizier">
+        فدعا الملك
+        <lb/>
+
+        بلاذ وقال له يا بلاذ أما متى إلى ملك العالم كيف كان
+        <lb/>
+
+        حقّرته هذه المرأة وعملت به ما عملت
+      </p>
+
+      <p n="King Orders To Execute Queen">
+        فانطلق
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="253"/>
+
+      <p n="Schemers to Impart Difficult News">
+        الناصح إنّه لا بدّ لنا من أن نخبر الملك بما يضرّه وينفعه وإن شقّ ذلك على
+        <lb/>
+
+        من يشقّ عليه
+      </p>
+
+      <p n="Schemers Accuse Jackal">
+        إنّه بلغني أنّ ابن آوى هو الذي ذهب باللحم إلى منزله
+      </p>
+
+      <p n="Schemers Say Jackal Is Unlikely to Steal">
+        قال
+        <lb/>
+
+        الآخر لا أراه يفعل ذلك هذا ولكن انظروا وافحصوا
+      </p>
+
+      <p n="Character Is Difficult to Know">
+        فإنّ معرفة الخلائق
+        <lb/>
+
+        شديدة
+      </p>
+
+      <p n="Schemers Suggest Searching Jackal's House">
+        فقال الآخر لعمري ما تكاد الشدائد تُعرف وأظنّكم إن فحصتم عن
+        <lb/>
+
+        هذا وجدتم اللحم ببيت ابن آوى فكلّ شيء يُذكر من عيوبه وخيانته نحن
+        <lb/>
+
+        أحقّ أن نصدّقه
+      </p>
+
+      <p n="Schemers Say Jackal Is an Ungrateful Traitor">
+        قال الآخر لئن وجدنا هذا حقًّا ما هي بالخيانة
+        <lb/>
+
+        ولكن مع الخيانة كفر النعمة والجرأة على الملك
+      </p>
+
+      <p n="Schemer Feigns Objectivity">
+        قال الآخر أنتم
+        <lb/>
+
+        أهل العدل والفضل لا أستطيع أن أكذّبكم
+      </p>
+
+      <p n="Schemers Urge Quick Investigation">
+        ولكن سيبين هذا
+        <lb/>
+
+        لو أرسل الملك إلى بيته من يفتّشه
+      </p>
+
+      <p n="Schemers Incite Lion's Suspicion">
+        ولم يزالوا بهذا الكلام وأشباهه حتّى
+        <lb/>
+
+        وقع في نفس الأسد ذلك
+      </p>
+
+      <p n="Lion Asks Jackal about Meat">
+        فأمر بابن آوى فحضر فقال له أين اللحم الذي
+        <lb/>
+
+        أمرتك بالاحتفاظ به قال دفعته إلى صاحب الطعام ليقرّبه إلى الملك
+      </p>
+
+      <p n="Lion Asks Steward about Meat">
+        فدعا بصاحب الطعام وكان ممّن شايع وبايع مع القوم فقال ما دفع إليّ
+        <lb/>
+
+        شيئًا
+      </p>
+
+      <p n="Meat Is Found in Jackal's House">
+        فأرسل الأسد أمينًا إلى بيت ابن آوى ليفتّشه فوجد فيه ذلك
+        <lb/>
+
+        اللحم فأتى به الأسد
+      </p>
+
+      <p n="Wolf Steps In">
+        فدنا من الأسد ذئب لم يكن تكلّم في شيء من ذلك
+        <lb/>
+
+        وكان يظهر أنّه من العدول الذين لا يتكلّمون في شيء من ذلك حتّى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

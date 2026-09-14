@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="85"/>
+
+      <p n="Lion's Fear of Dimna's Potential Betrayal">
+        يتّعظني عنده ولعلّه يصادف صاحب هذا الصوت
+        <lb/>
+
+        أقوى من سلطاني فيرغب فيما عنده ويميل معه ويدلّه على
+        <lb/>
+
+        عوراتي
+      </p>
+
+      <p n="Lion's Restless Contemplation">
+        فلم يزلْ الأسد مفكّرًا في ذلك وشبهه حتّى أدركه
+        <lb/>
+
+        الجزع فقام من مجلسه وجعل يمشي ويتقدّم وينظر إلى الطريق
+        <lb/>
+
+        حتّى لاح له دمنة
+      </p>
+
+      <p n="Lion's Relief Upon Seeing Dimna Alone">
+        فلمّا رآه مقبلًا وحده ليس معه أحد اطمأنّت
+        <lb/>
+
+        نفسه ورجع إلى مكانه أراد أن لا يظنّ به دمنة خوفًا أدركه
+      </p>
+
+      <p n="Dimna's Return and Lion's Inquiry">
+        فلمّا دخل عليه دمنة قال له ما صنعت وما رأيت
+      </p>
+
+      <p n="Dimna Reports Seeing a Ox">
+        قال رأيت
+        <lb/>
+
+        ثورًا هو صاحب الصوت الذي سمعت
+      </p>
+
+      <p n="Lion Inquires about Ox's Strength">
+        قال فما فوقه
+      </p>
+
+      <p n="Dimna Downplays Ox's Power">
+        قال لا شكوة
+        <lb/>
+
+        قد دنوت منه وجاورته مجاورة الأكفاء فلم يصنعْ بي شيئًا
+      </p>
+
+      <p n="Lion Warns against Underestimation">
+        قال
+        <lb/>
+
+        الأسد لا يغرّنك ذلك منه ولا يصغرنّ عندك
+      </p>
+
+      <p n="Analogy of Wind and Trees">
+        فإنّ الريح الشديدة
+        <lb/>
+
+        لا تضرّ بضعيف الحشيش ولكنّها تحطم عظماء الشجر وطوال النخل
+        <lb/>
+
+        وكذلك الصناديد
+      </p>
+
+      <p n="Dimna Offers to Bring Ox as Servant">
+        قال دمنة لا يهابنّ الملك منه شيئًا فلا تكترث
+        <lb/>
+
+        في نفسك أمره فأنا آتيك به حتّى يكون لك عبدًا سامعًا مطيعًا
+      </p>
+
+      <p n="Lion's Approval of Dimna's Proposal">
+        ففرح الأسد بذلك وقال دونك وإيّاه فانطلق إليه فتوجّه
+        <lb/>
+
+        دمنة إليه
+      </p>
+
+      <p n="Dimna's Confident Approach to Ox">
+        فدخل على الثور غير هائب له ولا متعتع وقال إنّ
+        <lb/>
+
+        الأسد أرسلني إليك لآتيه بك
+      </p>
+
+      <p n="Dimna's Offer of Safety to Ox">
+        وأمرني إن أنت عجّلت إليه طائعًا
+        <lb/>
+
+        أؤمّنك على ما سلف من ذنب في التأخير عنه
+      </p>
+
+      <p n="Ox's Request for Assurance">
+        وإن أنت أبيت أعجّل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

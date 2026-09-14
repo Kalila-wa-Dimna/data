@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="242"/>
+
+      <p n="The Crow King Evaluates the Damage">
+        وما أصابكم
+      </p>
+
+      <p n="The Crow King Fears Recurring Aggression">
+        وهم عائدات بمثل ما رأيتم
+      </p>
+
+      <p n="Input from the Five Wise Crows is Sought">
+        وكان فيهم خمسة غربان
+        <lb/>
+
+        يُعرفون بفضل الرأي وكان الملك يشاورهم
+      </p>
+
+      <p n="The Crow King Asks the First Crow">
+        فقال الملك للأوّل من
+        <lb/>
+
+        الخمسة ما رأيك في هذا الأمر
+      </p>
+
+      <p n="Escape Should Be the Recourse">
+        قال رأيي ما قد سبق إليه الأُوَل فإنّهم
+        <lb/>
+
+        قالوا ليس للعدوّ الحَنِق الذي لا يُطاق إلّا الهرب منه
+      </p>
+
+      <p n="The Crow Kings Asks the Second Crow">
+        قال الملك
+        <lb/>
+
+        للثاني ما رأيك في هذا الأمر
+      </p>
+
+      <p n="Escape Is No Recourse">
+        قال أمّا ما أشار به من الهرب
+      </p>
+
+      <p n="The Downsides of Escape Are Explained">
+        فلا
+        <lb/>
+
+        أراه لأن لا يطأ عدوّنا وطننا فنذلّ له عند أوّل نكبة
+        <lb/>
+
+        أصابتنا ولا ينبغي لنا ذلك
+      </p>
+
+      <p n="Recourse Should be Made to Planning and Preparing">
+        ولكن نجمع رأينا ونستعدّ لعدوّنا
+        <lb/>
+
+        ونذكّي العيون فيما بيننا وبينهم ونحترس من الغرّة فإن أقبل
+        <lb/>
+
+        إلينا عدوّنا لقيناه مستعدّين
+      </p>
+
+      <p n="The Crows Should Fight Back the Owls">
+        فقاتلناه قتالًا من غير مراجعة
+      </p>
+
+      <p n="Escape Should Not Be the First Choice">
+        ويلقى أطرافنا أطراف العدوّ ونتحرز بحرزنا وحصننا
+        <lb/>
+
+        وندافع الأيّام بين عدوّنا
+      </p>
+
+      <p n="Escape Is To Be Sought Only at Defeat">
+        حتّى نصيب فرصتنا وبغيتنا
+        <lb/>
+
+        وإلّا هربنا وقد أبلينا عند أنفسنا عذرًا
+      </p>
+
+      <p n="The Crow King Asks the Third Crow">
+        قال الملك للثالث
+        <lb/>
+
+        ما رأيك
+      </p>
+
+      <p n="The Crow Rejects Prior Input">
+        قال لا أرى ما قالا
+      </p>
+
+      <p n="Recourse Should be Made to Reconnaissance">
+        ولكن أرى أن ننصب العيون والطلب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

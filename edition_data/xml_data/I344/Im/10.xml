@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="10"/>
+
+      <p n="Discoverer Hires Help">
+        فقال في نفسه إن أنا أخذت
+        <lb/>
+
+        في نقل ما وجدت وإحراز الأوّل بالأوّل
+        <lb/>
+
+        منه طال عليّ ومنعني الشغل بنقله
+        <lb/>
+
+        وإحرازه من اللذّة بما أحببت منه ولكنّني
+        <lb/>
+
+        أستأجر رجالًا ينطلقون به إلى منزلي
+        <lb/>
+
+        ثمّ أتبعهم
+      </p>
+
+      <p n="Helpers Take Treasure">
+        ففعل ذلك فجاء الرجال فجعل
+        <lb/>
+
+        كلّ رجل منهم يحمل ما أطاق من الذهب
+        <lb/>
+
+        لينطلق به إلى منزل الرجل وجعل الأوّل
+        <lb/>
+
+        بالأوّل من الرجال ليذهب بما معه إلى
+        <lb/>
+
+        منزل نفسه فلم يزال كذلك حتّى أنفذ
+        <lb/>
+
+        الكنز ثمّ انطلق الرجل إلى منزله بعد
+        <lb/>
+
+        الفراغ منه
+      </p>
+
+      <p n="Discoverer Loses Treasure">
+        فلم يجد في منزله منه شيئًا
+        <lb/>
+
+        ووجد كلّ رجل منهم قد حاز ما حمله
+        <lb/>
+
+        لنفسه فلم يكن له منه إلّا العناء في
+        <lb/>
+
+        استخراجه من حيث احتكر ولم يدار
+        <lb/>
+
+        أمره فيه ويترفّق في إحرازه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

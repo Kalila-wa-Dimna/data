@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="37"/>
+
+      <p n="Analogy of Overflowing Water Reservoir">
+        الماء ضياعًا وفسادًا
+      </p>
+
+      <p n="Sons' Acceptance of Father's Advice">
+        ثمّ إنّ بني التاجر اتّعظوا وأخذوا برأي أبيهم
+      </p>
+
+      <p n="Eldest Son's Journey and Ox Cart Incident">
+        فانطلق أكبرهم
+        <lb/>
+
+        متوجّهًا بتجارة إلى مدينة يُقال لها منون فأتى في طريقه على مكان شديد
+        <lb/>
+
+        الوحل وكان معه عجلة يجرّها ثوران أحدهما يُقال له شتربة
+        <lb/>
+
+        والآخر نبذة
+      </p>
+
+      <p n="Ox Getting Stuck in Mud">
+        فوحل شتربة في ذلك المكان فاستخرجه الرجل
+        <lb/>
+
+        وأعوانه بعد ما كاد يتلف ولم يبق فيه قوّة على السير
+      </p>
+
+      <p n="Merchant Leaving a Man to Care for the Ox">
+        فخلّف التاجر
+        <lb/>
+
+        عنده رجلًا من أصحابه يقيم عليه أيّامًا فإن رآه قد صلح أتبعه به
+      </p>
+
+      <p n="Description of the Caretaker's Actions">
+        فلمّا
+        <lb/>
+
+        كان من الغد من ذلك اليوم برم الرجل بمكانه واستوحش لتفرّده في ذلك
+        <lb/>
+
+        المكان فترك الثور ولحق التاجر فأخبره أنّ الثور قد مات
+      </p>
+
+      <p n="Caretaker's Philosophical Reflection on Fate">
+        وقال
+        <lb/>
+
+        له إنّ الإنسان إذا انقضت مدّته وحانت منيّته فهو وإن اجتهد
+        <lb/>
+
+        في التوقّي والحذر من الأمور التي يخاف منها الهلاك على نفسه لم
+        <lb/>
+
+        يغن ذلك عنه شيئًا ولم يصل إلّا إلى العناء وربّما عاد اجتهاده في
+        <lb/>
+
+        توقّفه وحذره عليه بعطبه فيهلك
+      </p>
+
+      <p n="First Subtable of Man and Wolf (First Beginning)">
+        كالذي قيل إنّه سلك مفازة
+        <lb/>
+
+        مشهورة بسكنى السباع وهي مخوفة بهم فخرج إليها ولم يمنعه الخوف من
+        <lb/>
+
+        الخروج إليها
+      </p>
+
+      <p n="First Subtable of Man and Wolf (Second Beginning)">
+        فلم يلبث إلّا قليلًا حتّى عرض له ذئب هو أخبثها
+        <lb/>
+
+        وأضراها
+      </p>
+
+      <p n="Man's Escape Attempt from the Wolf">
+        فلمّا نظر الرجل إلى الذئب قاصدًا نحوه خافه فنظر يمينًا وشمالًا
+        <lb/>
+
+        يطلب موضعًا يختبئ فيه من الذئب فلم ير قريبًا من ذلك المكان إلّا قرية
+        <lb/>
+
+        خلف واد فمضى متوجّهًا نحو القرية والوادي يعدو عدوًا متداركًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

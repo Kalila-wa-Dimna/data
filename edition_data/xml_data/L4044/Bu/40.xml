@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="40"/>
+
+      <p n="unassigned">
+        نصّ مؤقّت
+        <lb/>
+
+        نصّ مؤقّت
+        <lb/>
+
+        نصّ مؤقّت
+        <lb/>
+
+        نصّ مؤقّت
+        <lb/>
+
+        نصّ مؤقّت
+        <lb/>
+
+        نصّ مؤقّت
+        <lb/>
+
+        نصّ مؤقّت
+        <lb/>
+
+        نصّ مؤقّت
+        <lb/>
+
+        نصّ مؤقّت
+        <lb/>
+
+        نصّ مؤقّت
+        <lb/>
+
+        نصّ مؤقّت
+      </p>
+
+      <p n="Chapter Title">
+        باب الأسد والثور
+      </p>
+
+      <p n="Introduction to the Story's Theme">
+        وهو مثل الرجلين المتحابّين
+        <lb/>
+
+        يقطع بينهما الغدّار الكذوب بنميمته
+      </p>
+
+      <p n="King's Request for a Parable">
+        قال دبشلم ملك الهند لبيدبا
+        <lb/>
+
+        الفيلسوف رأس فلاسفته اضرب لي مثل الرجلين المتحابّين يقطع بينهما
+        <lb/>
+
+        الكذوب الخائن ويحملهما على العداوة والشنآن
+      </p>
+
+      <p n="Philosopher's Response and Story Introduction">
+        قال بيدبا الفيلسوف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

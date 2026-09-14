@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3468</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="220"/>
+
+      <p n="The Rat King Chides the Silent Vizier">
+        فاضل يثق برأيه قد يخوضون ويتفاوضون في أشياء كثيرة ممّا
+        <lb/>
+
+        يمكن أن يُعمل فيها وما لا يمكن أن يُعمل وهذا الأمر الذي تخايرناه
+        <lb/>
+
+        إن كان من الأمر التي لا يمكن أن يتمّ ولا ينبغي لنا أن نصرف العناية
+        <lb/>
+
+        إليه
+      </p>
+
+      <p n="The Rat King Has the Third Vizier Respond">
+        فعلى كلّ حال كان سبيلك أن تذكر لنا ما عندك فيه رأي
+        <lb/>
+
+        ولا تكون كأنّك أخرس أبكم
+      </p>
+
+      <p n="The Third Vizier Was Listening">
+        فلمّا فرغ الملك من هذا الكلام
+        <lb/>
+
+        فيما عيّب به الوزير الثالث قال له ليس بواجب أن يعذّبني
+        <lb/>
+
+        الملك حيث أمسكت عن الكلام إلى هذا الوقت لأنّي فعلت
+        <lb/>
+
+        ذلك لأسمع جميع ما أتى به أصحابي على الكمال وأنا أفكّر ولا أقطع
+        <lb/>
+
+        عليهما ثمّ أشرح ما عندي بحسب عندي معرفتي
+      </p>
+
+      <p n="The Rat King Requests the Third Vizier's Opinion">
+        قال
+        <lb/>
+
+        الملك فهات لنا ما عندك
+      </p>
+
+      <p n="The Third Vizier Has No Solution">
+        قال الوزير ما عندي أكثر
+        <lb/>
+
+        من هذا وهو إن علم الملك أنّ له حيلة يبلغ بها مراده من
+        <lb/>
+
+        هذا الأمر ويحقّق ذلك تحقّقًا صحيحًا وإلّا فما سبيله أن
+        <lb/>
+
+        يحرص عليه ولا يفكّر فيه لأنّ ما يُتوارث من الآباء والأسلاف
+        <lb/>
+
+        فينا شيء إلّا وقد اجتهدوا فيه والأمر لله العظيم فالطبع
+        <lb/>
+
+        لا يقدر أحد ولا ملك من الملوك أن يغيّر طباع الحيوان
+        <lb/>
+
+        إلى غير ما جُبل عليه
+      </p>
+
+      <p n="Affairs Need God and Nature">
+        قال الملك ليس يُتوارث من الجنس
+        <lb/>
+
+        فقط ولكن كلّ أمر من الأمور وإن صغر وقلّ لا يمكن يتمّ
+        <lb/>
+
+        إلّا بعناية من فوق
+      </p>
+
+      <p n="Nature Cannot Be Fended Off">
+        قال الوزير الأمر على ما قال الملك
+        <lb/>
+
+        ولكن إذا كان لم يمكن وليس لمقاومة الشيء الذي يُتوارث
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

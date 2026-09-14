@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="28"/>
+
+      <p n="Burzoy Vows Secrecy">
+        ويخاف إذاعته وإفشاءه
+      </p>
+
+      <p n="Burzoy Reassures Friend">
+        وأرى من حرصك على قضائها
+        <lb/>
+
+        ما استوجب منّي المكافأة ونشر الجميل وإنّما تخاف من هذا
+        <lb/>
+
+        منّي أن أبوح به وأفشيه عليك فأمّا من سائر الناس
+        <lb/>
+
+        فأنت آمن وستؤول مغبّته إلى سرور وقرّة عين
+      </p>
+
+      <p n="Friend Provides Book">
+        فلمّا
+        <lb/>
+
+        وثق الهنديّ بقول برزويه <> وأمكنه من حاجته ودفع
+        <lb/>
+
+        إليه نسخته
+      </p>
+
+      <p n="Friend Provides Sheets">
+        وطروسًا فى سرّ مكتوم أراده أن لا يفطن
+        <lb/>
+
+        به ولا يهتدي إلى معانيه مع كتب كثيرة ممّا يحتاج
+        <lb/>
+
+        إليها الناس والخاصّة والعامّة في إقامة أودهم
+        <lb/>
+
+        والوزراء في تدبيرهم والملوك في سياستهم وإقامة
+        <lb/>
+
+        أمورهم
+      </p>
+
+      <p n="Burzoy Writes To Kisra">
+        فلمّا فرغ برزويه من نسخ هذا الكتاب كَتَب
+        <lb/>
+
+        إلى كسرى في سرّ ٍمكتوم يعلمه حاله والفراغ ممّا أراد
+        <lb/>
+
+        الفراغ منه
+      </p>
+
+      <p n="Kisra Calls Burzoy Back">
+        فأجابه كسرى في سرّ بعلمه بأمره بالقدوم
+        <lb/>
+
+        عليه من ساعته
+      </p>
+
+      <p n="Burzoy Returns To Persia">
+        فتجهّز برزويه من بلاد الهند وخرج
+        <lb/>
+
+        ترفعه أرض وتضعه أخرى حتّى ورد مملكة فارس
+        <lb/>
+
+        فأناخ بها واستراح أيّامًا
+      </p>
+
+      <p n="Burzoys Clean Copy In Persia">
+        ثمّ استخرج تلك الرقاع
+        <lb/>
+
+        الطُروس فجبر الكتاب على ما أراد وأتقنه
+      </p>
+
+      <p n="Burzoy Rejoins Kisra">
+        ثمّ ورد
+        <lb/>
+
+        به فناء باب الملَك واستأذنه بالدخول فلمّا بلغ كسرى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

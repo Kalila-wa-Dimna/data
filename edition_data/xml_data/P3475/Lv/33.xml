@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="33"/>
+
+      <p n="Burzoy Wants No Gift">
+        ذلك فهو من الله تعالى ومن الملَك
+      </p>
+
+      <p n="Burzoy Honors Kisras Oath">
+        ولست أدع أن آخذ ما حباني
+        <lb/>
+
+        به الملَك ولست <> أن يبرّ المَلك في إيمانه وقسمه
+      </p>
+
+      <p n="Burzoy Prefers Gift Of Glory">
+        فإنّ الرجل
+        <lb/>
+
+        العالِم ذو الأناة والفضل ولا يعدل بحياة المَلك ورفعته
+        <lb/>
+
+        درجاته شيئًا وقد قبلت ما حباني به المَلك بقبول
+        <lb/>
+
+        شكر
+      </p>
+
+      <p n="Burzoy Announces Request">
+        ولكن أريد من المَلك حاجة يسيرة يكون لي في
+        <lb/>
+
+        قضائها ذكرًا ذخرًا فخرًا
+      </p>
+
+      <p n="Kisra Welcomes Request">
+        قال كسرى وما تلك الحاجة
+      </p>
+
+      <p n="Burzoy Wants Bio Chapter">
+        قال
+        <lb/>
+
+        برزويه إن رأى المَلك أن يأمر بزرجمهر بن الخبكان أن
+        <lb/>
+
+        يضع لي في صدر هذا الكتاب بابًا باسمي ينسب إليه
+        <lb/>
+
+        شأني وما كان من فعالي
+      </p>
+
+      <p n="Burzoy Wants Legacy">
+        ليكون لمن بعدي تأديبًا وذخيرة
+        <lb/>
+
+        وكنز فعل
+      </p>
+
+      <p n="Kisra Recounts Burzoys Merits">
+        فدعا كسرى بزرجمهر فقال قد عرفت مناقب برزويه وطاعته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

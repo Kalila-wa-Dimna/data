@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="5"/>
+
+      <p n="Man Reads from Yellow Folio and Errs">
+        لحنت فقال ألحن والصحيفة الصفراء في منزلي
+      </p>
+
+      <p n="One Should Seek Knowledge">
+        فيجب على المرء أن يطلب
+        <lb/>
+
+        العلم حيث كان ويحرص ويحترص في تحصيله
+      </p>
+
+      <p n="Intelligent Readers Must Implement Knowledge">
+        فإذا وجد حاجته منه
+        <lb/>
+
+        وفهمه وعرفه وبلغ غايته اعترف بما عرف منه وانتفع وتأدّب
+        <lb/>
+
+        بما فيه من الأدب
+      </p>
+
+      <p n="One Should Always Seek More Knowledge">
+        فإنّه كان يُقال أمران لا ينبغي لأحد أن يقصّر
+        <lb/>
+
+        عنهما وهما حسن العمل والتزوّد للآخرة
+      </p>
+
+      <p n="Culture and Knowledge Are a Necessity">
+        ويُقال أيضًا في أمرين
+        <lb/>
+
+        يحتاج إليهما كلّ من يحتاج إلى الحياة وهما الأدب والذهب
+      </p>
+
+      <p n="Culture and Death Are Not to Be Disregarded">
+        ويُقال
+        <lb/>
+
+        أمرين لا ينبغي لأحد أن يستكبر عنهما كثر الأدب والموت
+      </p>
+
+      <p n="Culture Is the Spark of Life">
+        ويُقال
+        <lb/>
+
+        إنّ الأدب يجلو الرجل كما يجلو الوكد النار ويزيد ضوؤها
+      </p>
+
+      <p n="Culture Advances One's Rank">
+        والأدب يرفع صاحبه
+      </p>
+
+      <p n="Great Buildings Rest on Good Foundations">
+        كما تُرفع الأبنية العظيمة على الأساس
+        <lb/>
+
+        المحكم القوي فيبلغ صانعه منه نهاية أمله فيها
+      </p>
+
+      <p n="Culture Advances One's Rank in the Hereafter">
+        كذلك
+        <lb/>
+
+        العلم يسرّ من استعمله وتعلو به درجته في الدنيا والآخرة
+      </p>
+
+      <p n="Man Notices Burglar but Feigns Sleep">
+        ومن عمل ولم يستعمل علمه فمثله كمثل الرجل الذي بلغني عنه
+        <lb/>
+
+        أنّ سارقًا دخل عليه في منزله فاستيقظ له وقال لأسكتنّ
+        <lb/>
+
+        حتّى أنظر غاية ما يصنع هذا فإذا فرغ ممّا يحتاج إليه وثبت
+        <lb/>
+
+        عليه بعد ذلك ومسكته وأخذت جميع ما أخذ فسكت صاحب
+        <lb/>
+
+        الدار في فراشه
+      </p>
+
+      <p n="Burglar Steals and Gets Away">
+        جعل السارق يدور في البيت ويجمع ما
+        <lb/>
+
+        يقدر عليه من المتاع والأثاث وطال تطاوفه وترادده
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

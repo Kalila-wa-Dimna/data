@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>H170</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="48"/>
+
+      <p n="The Merchant Admits Treachery">
+        أبدًا وما عاد وبال البغي إلّا علي صاحبه وأنا أجد من مكر وخدع واحتال
+      </p>
+
+      <p n="The Merchant Explains Events upon Request">
+        قال له رفيقه وكيف كان ذلك فأخبره بأمره وقصّ عليه قصّته
+      </p>
+
+      <p n="The Partner's Parable about the Thief">
+        فقال له رفيقه
+        <lb/>
+
+        وكيف كان ما مثلك مثل اللصّ والتاجر قال وكيف كان ذلك
+      </p>
+
+      <p n="The Thief Who Mistakes Grain for Gold">
+        قال زعموا أنّه
+        <lb/>
+
+        كان تاجرًا له في منزله خابيتان أحدهما مملوءة حنطة والأخرى مملوءة ذهبًا
+      </p>
+
+      <p n="The Thief Eyes Jar">
+        فترقّبه
+        <lb/>
+
+        بعض اللصوص زمانًا حتّى إذا كان في بعض الأيّام تشاغل التاجر عن المنزل في بعض
+        <lb/>
+
+        اشتغاله فاعتقله اللصّ ودخل المنزل وكمِن في بعض نواحيه
+      </p>
+
+      <p n="The Thief Takes the Grain">
+        فلمّا همّ بأخذ التى
+        <lb/>
+
+        فيها الدنانير أخذ التي فيها الحنطة فاحتملها ولم يزل في كدّ وتعب حتّى أتى بها منزله
+        <lb/>
+
+        فلمّا فتحها وعلم ما فيها ندم
+      </p>
+
+      <p n="The Merchant Forfeits Trust">
+        فقال له الخائن ما أبعدت الشكّ ولا تجاوزت القياس
+        <lb/>
+
+        وقد اعترفت بذنبي وخطائي عليك غير أنّ النفس الرديئة تأمر بالفحشاء وقبل الرجل
+        <lb/>
+
+        معذرته وأضرب عن توبيخه وعن الثقة به وندم هو عندما عاين من سوء فعله
+        <lb/>
+
+        وتقديم جهله
+      </p>
+
+      <p n="The Reader Should Examine the Parables Carefully">
+        وقد ينبغي للناظر في كتابنا هذا أنّ لا يجعل غايته التصفّح لتزاويقه
+        <lb/>
+
+        بل يتشرّف على ما تضمّن من الأمثال حتّى يأتي على آخره
+      </p>
+
+      <p n="The Reader Should Discern the Aim">
+        ويقف عند كلّ مثل وكلمة ويعمل فيها
+        <lb/>
+
+        رويّته
+      </p>
+
+      <p n="Two Brothers Waste Bequeathed Wealth">
+        ويكون كالإخوة الثلاثة الذين خلف لهم أبوهم المال الكثير فتنازعوه بينهم
+        <lb/>
+
+        فأمّا الاثنان فإنّهما أسرعا في إتلافه وإنفاقه في غير وجهه
+      </p>
+
+      <p n="The Youngest Brother Weighs the Situation">
+        وأمّا الصغير
+        <lb/>
+
+        فإنّه عندما نظر إلى ما صار إليه أخواه من إسرافهما وتخلّيهما من المال أقبل على نفسه
+        <lb/>
+
+        يشاورها وتفكّر في سر تصرّف الأحوال
+      </p>
+
+      <p n="The Youngest Reflects on Wealth">
+        وقال يا نفس إنّما المال يطلبه صاحبه ويجمعه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="56"/>
+
+      <p n="Addressing the Soul to Distinguish Its Benefits and Harms">
+        ألا تنتهين يا نفس ألا تعرفين نفعك من ضررك ألا تنتهين
+        <lb/>
+
+        عن تمنّي ما لم ينله أحد إلّا قلّ انتفاعه به وكثر عناؤه فيه
+        <lb/>
+
+        وعظمة التبعة عليه بعده
+      </p>
+
+      <p n="Addressing the Soul to Be Ashamed of Its Greed for the Transient">
+        يا نفس ألا تذكرين ما بعد هذه الدار
+        <lb/>
+
+        فينسيك ما تشتاقين إليه من هذه ألا تستحين من مشاركة الجهّال
+        <lb/>
+
+        في حبّ هذه العاجلة الفانية التي من في يده شيء منها فليس له وليس
+        <lb/>
+
+        بباق عليه لا يألفها إلّا المفترون الغافلون
+      </p>
+
+      <p n="Addressing the Soul to Abandon Its Folly">
+        انصرفي عن هذه
+        <lb/>
+
+        المشقّة وأقبلي بقوّتك وسعيك وما تملكين على تقديم الخير والأجر
+        <lb/>
+
+        ما استطعت وإيّاك والتسويف والتواني
+      </p>
+
+      <p n="The Body Consists of Harmful Elements">
+        واذكري أنّ هذا الجسد
+        <lb/>
+
+        جوف ذو آفات وأنّه مملوء أخلاطًا فاسدة قذرة تجمعها أربعة أخلاط
+        <lb/>
+
+        متغالبة متعادية يعمرهنّ الحياة والحياة إلى نفاد
+      </p>
+
+      <p n="The Idol That Falls Apart">
+        كالصنم المفصّلة
+        <lb/>
+
+        أعضاؤه فإذا رُكّبت ووُضعت مواضعها جمعها مسمار واحد فإذا نُزع
+        <lb/>
+
+        المسمار من موضعه تساقطت الأوصال
+      </p>
+
+      <p n="Addressing the Soul: The Friend Passes Away">
+        يا نفس لا تغترّي بصحبة
+        <lb/>
+
+        أحبابك وخلّانك ولا تحرصي على ذلك كلّ الحرص فإنّ صحبتهم على
+        <lb/>
+
+        ما فيها من السرور كثيرة الأذى والمؤن والأحزان ثمّ يُختم ذلك بعاقبة
+        <lb/>
+
+        الفراق
+      </p>
+
+      <p n="A Ladle Eventually Breaks">
+        فمثله في ذلك مثل المغرفة التي تُستعمل في سخونة المرق في جدّتها
+        <lb/>
+
+        وصحّتها وإذا انكسرت صارت عاقبتها أن تُحرق بالنار
+      </p>
+
+      <p n="Addressing the Soul: The Family Passes Away">
+        ويا نفس لا يحملك
+        <lb/>
+
+        أهلك وأقاربك على جميع ما تهلكين في جمعه تريدين بذلك صلتهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

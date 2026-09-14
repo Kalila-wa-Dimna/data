@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="61"/>
+
+      <p n="Dimna Seeks a New Plan">
+        ولكن ما الحيلة
+      </p>
+
+      <p n="Kalila Asks for Dimna's Plan">
+        قال كليلة أخبرني أنت عن رأيك في ذلك
+      </p>
+
+      <p n="Dimna's Goal: Restoration">
+        قال
+        <lb/>
+
+        دمنة إنّي لست ألتمس اليوم أن تزداد منزلتي فوق ما كنت ولكن ألتمس أن
+        <lb/>
+
+        أعود إلى منزلتي التي كنت عليها
+      </p>
+
+      <p n="The Three Considerations of the Wise">
+        فإنّ خلالًا ثلاث العاقل حقيق بالنظر
+        <lb/>
+
+        فيها والاحتيال لها بجهده منها النظر فيما مضى من الضرّ والنفع وأن يحترس
+        <lb/>
+
+        من الضرّ الذي أصابه فيما سلف لئلّا يعود إليه ويلتمس النفع الذي مضى ويحتال
+        <lb/>
+
+        لمعاودته
+      </p>
+
+      <p n="Managing the Present">
+        ومنها النظر فيما هو مقيم فيه من المنافع والمضارّ والاستباق لما
+        <lb/>
+
+        ينفع والهرب مما يضرّ
+      </p>
+
+      <p n="Anticipating the Future">
+        ومنها النظر في مستقبل الضرّ ما يرجو من مقبل النفع
+        <lb/>
+
+        وما يتخوّف من مقبل الضرّ فيستقيم ما يرجو ويتوقّى ما يخاف بجهده
+      </p>
+
+      <p n="Dimna Concludes the Bull Must Die">
+        وإنّي
+        <lb/>
+
+        نظرت في الأمر الذي به أرجو أن تعود به منزلتي التي غلبت عليها لم أجد
+        <lb/>
+
+        لذلك دواء إلّا الاحتيال لآكل العشب حتّى يفارق الثور الحياة
+      </p>
+
+      <p n="Justifying the Bull's Death">
+        فإنّه إن
+        <lb/>
+
+        فارق الأسد عادت إليّ منزلتي ولعلّ ذلك يكون خيرًا للأسد فإن إفراط
+        <lb/>
+
+        الأسد للثور خليق أن يشينه ويطعن عليه عامّة قرابته
+      </p>
+
+      <p n="Kalila's Disagreement">
+        قال
+        <lb/>
+
+        كليلة ما أرى على الأسد من رأيه في الثور ومكانه ومنزلته عنده
+        <lb/>
+
+        شينا ولا ضرًّا
+      </p>
+
+      <p n="The Six Causes of a Ruler's Downfall">
+        قال دمنة بلى إنّما يُؤتى السلطان من قبل ستّة أشياء الحرمان
+        <lb/>
+
+        والفتنة والهوى والفظاظة والزمان والخرق
+      </p>
+
+      <p n="Explaining the Six Causes">
+        فأمّا الحرمان فإنّه يُحرم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

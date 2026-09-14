@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="48"/>
+
+      <p n="Burzoy Serves Kisra Gladly">
+        في ذلك وأختار التعب والنصب في راحتكم
+      </p>
+
+      <p n="Burzoy Announces Request">
+        وأسأل الملك
+        <lb/>
+
+        أن يكون لي خاصّة بقضاء حاجة فإنّ لي في قضائها فائدة
+        <lb/>
+
+        كثيرة
+      </p>
+
+      <p n="Kisra Welcomes Request">
+        قال أنوشروان اسأل فكلّ حاجة لك قبلنا
+        <lb/>
+
+        مقضيّة فإنّك عندنا عظيم القدر ولو طلبت المشاركة
+        <lb/>
+
+        في الملك أنلناك ذلك فقل ولا تحتشم
+      </p>
+
+      <p n="Burzoy Expects No Reward">
+        قال برزوية أكرم الله
+        <lb/>
+
+        الملك إنّ عنائي في رضاك وانكماشي على طاعتك لواجب عليّ
+        <lb/>
+
+        فإنّي عندك وما شرّفني به الملك من الكرامة لم يك واجبًا عليه
+      </p>
+
+      <p n="Burzoys House Elevated By Kisra">
+        وإنّما الملك دام مُلكه لفضل كرمه وشرف منصبه وتواصل
+        <lb/>
+
+        أياديه قصد تشريفي وعمد إكرامي وخصّصني وأهل بيتي بعلوّ
+        <lb/>
+
+        الرتبة ورفيع المنزلة وعلوّ الدرجة
+      </p>
+
+      <p n="Burzoy Invokes Blessing On Kisra">
+        حتّى لقد وددت أن يجمع الله
+        <lb/>
+
+        لك أيّها الملك شرف الدنيا وكرامة الآخرة فجزاك الله عن العبد
+        <lb/>
+
+        أفضل الجزاء وأنالك أجزل الثواب قال
+      </p>
+
+      <p n="Kisra Repeats Question">
+        الملك أنوشروان
+        <lb/>
+
+        فاذكر الآن حاجتك فلك فيها ما يسرّك
+      </p>
+
+      <p n="Burzoy Wants Bio Chapter">
+        قال بروزية حاجتى أن
+        <lb/>
+
+        يأمر الملك أعلى الله أمره بزرجمهر ابن البختكان ويقسم عليه
+        <lb/>
+
+        أن يجتهد ويعمل فكره ويشغل*** يفرغ أدبه في عمل مقدّمة من
+        <lb/>
+
+        متقن كلامه وجواهر حكمه ودرر تأليفه ويجعله بابًا في هذا
+        <lb/>
+
+        الكتاب ويذكر فيه أمري ونسبي ويصف حالي ومكتسبي
+      </p>
+
+      <p n="Buzurgmihr To Give His Best">
+        ولا يدع شيئا من المبالغة ممّا يقدر عليه ويلفّقه إلّا أتى به في
+        <lb/>
+
+        أحسن ما سمعه حتّى لا يغادر منه شيئًا
+      </p>
+
+      <p n="New Chapters Placement">
+        وأن يجعل ذلك قبل باب
+        <lb/>
+
+        الأسد والثور مقدّمة
+      </p>
+
+      <p n="Burzoy Wants Legacy">
+        فإنّ ذكره لا يزال باقيًا على الأبد ما قُرئ
+        <lb/>
+
+        هذا الكتاب إذ هو أهل لذلك
+      </p>
+
+      <p n="Kisra And Nobles Impressed">
+        فلمّا سمع الملك أنوشروان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

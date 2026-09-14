@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="114"/>
+
+      <p n="Silence in an Argument Means Approval">
+        هنالك قالت العلماء أقرّ صامتٌ ثمّ قامت وهي غضبانة فخرجت
+      </p>
+
+      <p n="Lion Hands Dimna Over to Judge for Investigation">
+        فأمر الأسد بدمنة فجُعلت الجامعة في عنقه وحبس وأمر
+        <lb/>
+
+        بالفحص عنه
+      </p>
+
+      <p n="The Mother Knows about Dimna's Infamy">
+        فقالت أمّ الأسد له إنّي لم أزلْ أسمع بمكر دمنة منذ
+        <lb/>
+
+        زمان ثمّ حقّق عندي ما سمعت من إفكه وافتعاله المغادير وكثرة مخارجه
+        <lb/>
+
+        بغير صدقٍ ولا براءةٍ
+      </p>
+
+      <p n="Dimna Will Lie to Defend Himself">
+        فإنّك إن أمكنته من الكلام دافعك عن نفسه بالحجج
+        <lb/>
+
+        الكاذبة
+      </p>
+
+      <p n="The Mother Tells the Lion to Kill Dimna">
+        وفي قتله لك ولجنودك راحةٌ عظيمةٌ فعاجلْ قتله ولا تأخذْك فيه
+        <lb/>
+
+        هوادة ولا يوقفْك عنه شبهةٌ
+      </p>
+
+      <p n="Dimna Has a Bad Reputation">
+        فإنّ الصغير والكبير من جندك عرفا بنميمة
+        <lb/>
+
+        دمنة لعلما وعلما بفضائحه وما هجس في نفسي شكٌّ من نطقه ساعةً من
+        <lb/>
+
+        ليلٍ ولا نهارٍ وما يحضرك من مغاديره ومفارقته لسيّئ الأخلاق ثمّ خاصّةً
+        <lb/>
+
+        في أمر البريّ الناصح خير الوزراء شتربة
+      </p>
+
+      <p n="If Unstopped, Dimna Will Continue His Crimes">
+        وما يأتي علّي يومٌ إلّا أستجدّ
+        <lb/>
+
+        فيه عن شرارة خلق دمنة خبرًا ويقينًا صادقًا فلا يشكّنّ عليك ذلك في
+        <lb/>
+
+        أمره فإنّك إن تتركه بتسطير المقال وإلجام وإلحام الباطل لم تعجزْ
+        <lb/>
+
+        خلابته ومكره ولم تقصرْ خديعته وتمويهه أباطيله فقد استعاد الكذب وهو
+        <lb/>
+
+        منه خلقٌ راسخٌ وطبيعةٌ لازمةٌ والراحة لك ولجندك ترك المناظرة والقتل
+        <lb/>
+
+        له بذنبه
+      </p>
+
+      <p n="Courtiers Envy Each Other">
+        قال الأسد إنّ من شأن بطانة الملوك وقرابتهم تنافس المنازل بينهم
+        <lb/>
+
+        ودخول البغي والحسد من بعضهم على بعضٍ ثمّ على ذي الرأي والنبالة منهم
+        <lb/>
+
+        لخاصّة كذا
+      </p>
+
+      <p n="Dimna's Position is Subject to Envy">
+        وقد علمت أنّ مكان دمنة قد نقل ثقل على غير واحدٍ من
+        <lb/>
+
+        جنودي وأهلي فلست أدري لعلّ الذي أرى وأسمع من جماعتهم وإجماعهم
+        <lb/>
+
+        عليه لبعض ذلك
+      </p>
+
+      <p n="The Lion Wants to Avoid Haste">
+        وأنا أكره العجلة في أمره فإنّ العلق الصالح
+        <lb/>
+
+        لا يُستهلك إلّا في حقّه وموقع القدر فيه لمن استهلكه ولا أجدني معذورًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

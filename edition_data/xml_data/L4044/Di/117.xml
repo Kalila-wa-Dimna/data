@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="117"/>
+
+      <p n="Misfortunes Never Come Singly">
+        وسفل بعد ارتفاع توجّه إليه الشرّ ويعاوده الهمّ واكتنفه الغمّ والحزن
+        <lb/>
+
+        وتراكم عليه الأشياء من كلّ جهة تطلبه المقادير وإن تحرّز منها وليس يغايب
+        <lb/>
+
+        منها حتّى تصيبه ويقع
+      </p>
+
+      <p n="Dimna Laments Misfortune in His Prime of Life">
+        كما وقعت في مُخلسي هذا وقد فارقت أترابي وفارقني
+        <lb/>
+
+        أحبّتي وفُجعت بأخي ونزل بي في عنفوان شبابي ونبغة حداثتي ورونق
+        <lb/>
+
+        شبيبتي وغاب منّي أخي وصفيّي كليلة حزينًا كئيبًا
+      </p>
+
+      <p n="The Mother Calls In Lion's Promise to Act">
+        ثمّ إنّ أمّ الأسد
+        <lb/>
+
+        ذكرت دمنة وغدره بالأسد
+      </p>
+
+      <p n="To Spare Criminals Is Like Killing the Innocent">
+        وقالت إنّ استبقاء الفجّار يعدل قتل الأبرار
+        <lb/>
+
+        وإنّ من استبقى فاجرًا أشركه في فجوره أو برًّا أشركه في أعمال برّه
+      </p>
+
+      <p n="Lion Orders Leopard and Judge to Try Dimna">
+        فأمر
+        <lb/>
+
+        الأسد القاضي بالنظر في أمر دمنة والمسألة عنه وأن لا يؤخّر ذلك
+        <lb/>
+
+        وأن يرفع إليه ما يلحق دمنة من حجّة وما يدلي به من مخرج له
+      </p>
+
+      <p n="Leopard Recalls the Lion’s Sorrow for Killing the Ox">
+        فنصبه
+        <lb/>
+
+        للناس وأعلم العامّة ما أمر به الملك في أمر دمنة من تفحّص عنه والاستبراء
+        <lb/>
+
+        لما عند الخاصّة والعامّة من علم ما كان منه والمسألة لدمنة مع ذلك
+        <lb/>
+
+        عن عذر إن كان له
+      </p>
+
+      <p n="Due Process Will Be Followed">
+        ليحكم في ذلك بالعدل ولا يأخذ فيه بغرّة الملك
+        <lb/>
+
+        ولا قهر سلطان دون امتحان حقيقة الحكم وبلوغ علّة الإعذار
+      </p>
+
+      <p n="Judge Calls for Testimony on Three Accounts">
+        قال
+        <lb/>
+
+        القاضي من كان منكم يعلم من أمر دمنة علمًا فينطق به لثلاث خصال
+      </p>
+
+      <p n="Importance of Due Process">
+        منهنّ الإعانة على العدل والقيام بحجج الحقّ على أهلها واقعة حيث وقعت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

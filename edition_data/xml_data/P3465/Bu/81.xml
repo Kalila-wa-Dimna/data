@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="81"/>
+
+      <p n="Trader with Pearl and Cymbal Player">
+        بالأجرة فقال له التاجر وهل عملت شيئًا تستحقّ به الأجرة
+        <lb/>
+
+        فقال له عملت ما أمرتني به وأنا أجيرك فيما استعملتني عملت ولم يزل به حتّى
+        <lb/>
+
+        استوفى منه مائة دينار وبقي جوهره غير مثقوب
+      </p>
+
+      <p n="Burzoy is Attracted by Asceticism">
+        فلم أزدد في الدنيا
+        <lb/>
+
+        وشهواتها نظرًا إلّا ازددت فيها زهادة ومنها هربًا ووجدت النسك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

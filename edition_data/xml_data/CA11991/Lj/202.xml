@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CA11991</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="202"/>
+
+      <p n="Mother Questions Lion">
+        آوى فأخبرها الأسد بالأمر فقالت عجلت يا بنيّ
+      </p>
+
+      <p n="The Intelligent Deliberates">
+        وإنّما يسلم العاقل من الندامة
+        <lb/>
+
+        بترك العجلة والأخذ بالأناة والتثبّت
+      </p>
+
+      <p n="Kings Need Deliberateness Most">
+        وليس أحوج إلى التثبّت من الملوك
+      </p>
+
+      <p n="Chain of Dependence up to King's Virtues">
+        فإنّ
+        <lb/>
+
+        المرأة بزوجها والولد بوالديه والمتعلّم بالمعلّم والجند بالقائد والناسك بالدين
+        <lb/>
+
+        والعامّة بالملوك والملوك بالتقوى والعقل والتثبّت
+      </p>
+
+      <p n="King to Consider People's Ranks">
+        ورأس الحزم للمَلك
+        <lb/>
+
+        معرفة أصحابه وإنزاله إيّاهم منازلهم واتّهام بعضهم ببعض
+      </p>
+
+      <p n="People Scheme against Each Other">
+        فإنّه إن وجد
+        <lb/>
+
+        بعضهم إلى هلاك بعض سبيلًا وإلى تهجين بلاء المبتلين وإلى إحسان المحسنين
+        <lb/>
+
+        والتعطّف إلى إساءة المسيئين كان في ذلك وهن عليه
+      </p>
+
+      <p n="Lion Tested and Approved Jackal">
+        وقد كنت بلوت ابن
+        <lb/>
+
+        آوى واختبرته وعرفت أدبه ومروءته قبل استعانتك به وتفويضك إليه
+        <lb/>
+
+        فلم تزل عنه راضيًا ويزيدك الأيّام له استصلاحًا وإليه استرسالًا وفيه
+        <lb/>
+
+        رغبة
+      </p>
+
+      <p n="Mother Finds Accusation Absurd">
+        فأمرت بقتله في قليل من لحم فقدته
+      </p>
+
+      <p n="Mother Warns of Conspiracy">
+        وعسى أصحابه أن يكونوا قد
+        <lb/>
+
+        ألزموه عندك من ذنبه باطلًا لحسدهم له فتعاونوا عليه
+      </p>
+
+      <p n="Kings Must not Delegate Their Own Duties">
+        واعلم أنّ رعيّة
+        <lb/>
+
+        الملك إذا وصلوا إلى غير ما تبغي لهم مباشرته من أمورهم وألزموا أنفسهم
+        <lb/>
+
+        مباشرة ما ينبغي لهم تفويضهم إلى الكفاة ضاعت أمورهم ودعوا الفساد إلى
+        <lb/>
+
+        أنفسهم
+      </p>
+
+      <p n="Kings Should Investigate in Various Ways">
+        والملوك يحتاجون إلى النظر في أمور شتّى فإذا آثروا النظر في بعض تلك
+        <lb/>
+
+        الوجوه على بعض لم يأمنوا خطأً للضرورة إلى الرأي
+      </p>
+
+      <p n="Wine Is Tested with Three Senses">
+        كصاحب الخمر الذي إذا أراد
+        <lb/>
+
+        أن يشتريها احتاج إلى اختبار لونها وطعمها وريحها وإن هو أبى اختبار ذلك لم
+        <lb/>
+
+        يأمن الغبن والخسران
+      </p>
+
+      <p n="Imaginary Hair in Eye Taken for Real">
+        كالرجل الذي يرى بين عينيه كالشعر من المرض فلا يتثبّت
+        <lb/>
+
+        في القضاء أنّه ليس بشعر ويعلم أنّه لو كان شعرًا أبصره غيره كبصره هو ليختبره
+        <lb/>
+
+        ويعتبر مرضه
+      </p>
+
+      <p n="Firefly Is Mistaken for Fire">
+        كما اليراعة التي يراها الرجل في ظلمة الليل فيقضي عليها بالمعاينة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

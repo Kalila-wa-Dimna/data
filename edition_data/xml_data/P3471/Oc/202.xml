@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="202"/>
+
+      <p n="Objector Expects Trickery From Crows">
+        هذا منّا إذا نحن أمّناه وألجأناه واسترسلنا إليه حلول
+        <lb/>
+
+        بلاء أو وقوع محذور
+      </p>
+
+      <p n="Objector Advises Death Again">
+        والرأي للملك قتله وتعجيل إمضاء ذلك
+        <lb/>
+
+        فيه
+      </p>
+
+      <p n="King O Ignores Objector">
+        فلم يلتفت ملك البوم وسائر وزرائه إلى قوله ولم يستمع
+        <lb/>
+
+        ذلك منه لجهله وقلّة عقله وسخافة رأيه ووزرائه
+      </p>
+
+      <p n="Spy Well Accommodated">
+        وأمر ملك
+        <lb/>
+
+        البوم أن يُنطلق بالغراب إلى مجمع جنده وإلى مكانهنّ فيُكرم ويوصى
+        <lb/>
+
+        به خيرًا حتّي يبرأ من جرحاته
+      </p>
+
+      <p n="Advice Mistrust Spy">
+        فقال الوزير الذي أشار بقتله
+        <lb/>
+
+        أيّها الملك إن كنت لا تريد قتل هذا الوزير أي الغراب فليكن منزلته
+        <lb/>
+
+        على ذلك منزلة العدوّ المخوف المحترس منه واقْضِه واتّهمه على
+        <lb/>
+
+        نفسك وجندك فإنّه عالم دهاء ومكر وأرب وختل وخدع
+        <lb/>
+
+        وما أراه رضي بالقيام معنا إلّا لالتماس ما يصلحه ويفسدنا
+      </p>
+
+      <p n="Everyone Trusts Spy">
+        فهان ذلك علي الملك وضعه ولم يرفع بقوله رأسًا للذي
+        <lb/>
+
+        احتقره هو وجنوده من الهلاك ولم يمنعه ذلك من إكرام الغراب
+        <lb/>
+
+        والإحسان إليه
+      </p>
+
+      <p n="Spy Charms By Eloquence">
+        وكان الغراب لبيبًا طلق اللسان عارفًا بما يحبّ
+        <lb/>
+
+        ملك البوم فكان يحدّث له في كلّ يوم قولًا يعجبه ويطمئنّ
+        <lb/>
+
+        إليه ويزداد عزّه والثقة به ويكلّم البوم إذا خلا بهنّ كلامًا
+        <lb/>
+
+        يزددن له في كلّ يوم أنسًا وإليه استرسالًا وله تصديقًا
+      </p>
+
+      <p n="unassigned">
+        ثمّ أنّه قال ذات يوم وعنده جماعة من البوم فيهم البوميّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

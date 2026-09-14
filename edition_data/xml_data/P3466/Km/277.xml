@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="277"/>
+
+      <p n="The House Owner Gets a Third Cat">
+        تفكّر أيضًا في أنّه لا يضبط منزله بسنّورين فيحضر سنّورًا ثالثًا
+      </p>
+
+      <p n="The Rats Cause Damage a Third Time">
+        فإذا فعل ذلك ازددنا نحن أيضًا في الفساد وبالغنا فيه
+      </p>
+
+      <p n="The House Owner Notices the Damage Increasing">
+        فإذا فعلنا ذلك فيفكّر صاحب المنزل فيما قد أطله ويميّز
+        <lb/>
+
+        بين إفسادنا وفي منزله سنّور واحد وبين إفسادنا وفي منزله
+        <lb/>
+
+        ثلاث سنانير
+      </p>
+
+      <p n="The House Owner Removes One Cat">
+        فإذا رأى إفسادنا دائمًا على كثرة السنانير علم
+        <lb/>
+
+        علم أنّ هذه الحيلة منه فانطلق ودعته الضرورة فقال إنّي أرى
+        <lb/>
+
+        كلّما ازددت من السنانير زاد فساد الفأر لرحلي ولكنّي
+        <lb/>
+
+        أجرّب فأخرج واحدًا من السنانير حتّى أنظر ما يكون
+      </p>
+
+      <p n="The Rats Reduce the Damage">
+        فإذا
+        <lb/>
+
+        أخرج واحدًا من السنانير نقّصنا نحن أيضًا عن الفساد فإذا رأى
+        <lb/>
+
+        ذلك عرف وجه الصلاح والفساد
+      </p>
+
+      <p n="The Second Cat is Removed and the Damage Reduces">
+        فيخرج السنّور الثاني فإذا
+        <lb/>
+
+        فعل كففنا نحن أيضًا بعض الكفّ عن إفساد
+      </p>
+
+      <p n="The House Owner Removes the Third Cat">
+        رحله فإذا رأى
+        <lb/>
+
+        صاحب البيت ذلك دعته الضرورة أن يخرج السنّور الثالث
+      </p>
+
+      <p n="The Plan Is to Be Re-enacted in All Households">
+        فإذا فعل ذلك كففنا نحن أيضًا جملة عن بيته ودخلنا منزل آخر
+        <lb/>
+
+        وأجرينا أمره كمجرى الأوّل ولا نزال ندور من دار إلى دار إلى
+        <lb/>
+
+        أن يتبيّن للناس ما يلحقهم من المضرّة العظيمة من السنانير
+      </p>
+
+      <p n="The People Kill the Cats">
+        فإنّهم
+        <lb/>
+
+        إذا تثبّتوا ذلك لم يقتصروا على قتل السنانير التي في البيوت
+        <lb/>
+
+        فقط لكنّهم يطلبون السنانير البرّيّة فيقتلوها ولا يرون بعدها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

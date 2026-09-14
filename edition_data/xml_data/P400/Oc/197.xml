@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="197"/>
+
+      <p n="unassigned">
+        مشورته فقال لأحدهم ما رأيك في هذا الغراب فقال
+        <lb/>
+
+        ينبغي لك أن تقتله ولا تستبقيه ولا تكلّم فيه أحدًا من جنودك
+        <lb/>
+
+        فإنّ ما عند مَلك الغربان لأفضل منه رأيًا ومكيدة وقوّة
+        <lb/>
+
+        وعلمًا ومتى تفعل ذلك به يهلكن ولا يكون لهنّ بعده قوام
+        <lb/>
+
+        ولا بقاء فإنّه يُقال من ظفر بالساعة التي فيها لجج العمل ثمّ لا يعالجه
+        <lb/>
+
+        بالذي ينبغي إليه لا تعدّ إليه ومن يستمكن من عدوّه جريحًا لا يقتله
+        <lb/>
+
+        حظّه منه الندامة إذ رآه قد اندمل فلم يستطع ضرّه ثمّ قال
+        <lb/>
+
+        مَلك البوم ما رأيك في هذا الغراب فقال له ما ينبغي لك أن تقتله
+        <lb/>
+
+        ولكن استبقيه فإنّه قد لقي ما لقي وقد ضيّعوه وركبوا
+        <lb/>
+
+        منه ما لعلّه يعطفه على النصيحة لك فيكون في ذلك دليل
+        <lb/>
+
+        لك على عوراتهنّ ومعينًا على ما فيه هلاكهنّ ويشكر لك باستبقائك
+        <lb/>
+
+        إيّاه ورحمتك له
+      </p>
+
+      <p n="Mention Old Man Wife And Thief">
+        فإنّه ذُكر لنا أنّ تاجرًا دخل بيته لصًّا فأبى
+        <lb/>
+
+        عليه لأمر نال منه ما يوافقه في سببه
+      </p>
+
+      <p n="King O Requests Old Man Story">
+        فقال مَلك البوم
+        <lb/>
+
+        وكيف كان ذلك
+      </p>
+
+      <p n="Old Man Has Young Wife">
+        قال مثل زعموا أنّ تاجرًا مكثرًا
+        <lb/>
+
+        كان كبير السنّ وكانت له امرأة حسناء
+      </p>
+
+      <p n="Wife Hates Husband">
+        تبغضه وتكره حياته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

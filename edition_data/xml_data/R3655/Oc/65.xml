@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="65"/>
+
+      <p n="Advice To King Like Rivers To Sea">
+        والملك الحازم يزداد بالرأي والمشورة كما يزداد البحر من موادّ مياه الأنهار
+      </p>
+
+      <p n="Resolute King Keeps Reflecting">
+        ولا يخفى على الحازم قدر أمر عدوّه وفرصة قتاله ومواضع حربه ومكيدته ولا
+        <lb/>
+
+        ينفكّ يعرض الأمور على نفسه أمرًا بعد أمر ويروّي في التقدّم على ما يريد منها وفي الأعوان
+        <lb/>
+
+        الذين يستعين بهم عليها والعداوة التي يعدّ لها
+      </p>
+
+      <p n="Chance Is Lost Without Advice">
+        فمن لم ير ذلك مع أصحابه الوزراء
+        <lb/>
+
+        من أهل ثقاته الذين يعرف صدق قولهم لم يلبث وإن ساق إليه القدر وحطا أن
+        <lb/>
+
+        يُضيع
+      </p>
+
+      <p n="Chances Favor Intelligent">
+        فإن الفضل المقسوم لم يُقسم للجهّال ولا للحسب التام ولكنّه وُكّل بالعاقل
+        <lb/>
+
+        المستمع من ذوي العقول
+      </p>
+
+      <p n="Spy Praises King C">
+        وأنت أيها الملك كذلك
+      </p>
+
+      <p n="Spys Advice Partially Secret">
+        وقد أشرت برأي وأمر
+        <lb/>
+
+        آخر أن أجيبك في بعضه علانية وفي بعضه سرًا
+      </p>
+
+      <p n="Spys Open Advice">
+        فأمّا ما لا أكره إعلانه من الأمر
+        <lb/>
+
+        الذي أريد ذكره فهو أنّي كما لا أرى القتال كذلك لا أرى الخضوع والرضى بالذلّ
+      </p>
+
+      <p n="Dignity Over Life">
+        فإنّ العاقل الكريم يختار الموت صابرًا ومُحافظًا على الحياة
+      </p>
+
+      <p n="Spy Advises Quick Action">
+        فأرى أن لا يؤخّر
+        <lb/>
+
+        النظر في أمرنا ولا يكن من شأننا التثبّط والتهاون
+      </p>
+
+      <p n="Indecision Is Impotence">
+        فهو رأس العجز
+      </p>
+
+      <p n="Spy Moves To Secret Advice">
+        <>
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

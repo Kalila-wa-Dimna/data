@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="130"/>
+
+      <p n="Kalila Admits Having Been Harsh on Dimna">
+        معه ولا يستقبلك بما تكره ولكن هل تذكر الذي قلتُ له وأشرت
+        <lb/>
+
+        به عليك
+      </p>
+
+      <p n="Conceit Caused Dimna's Demise">
+        فلم تلتفت إليه ولا تأخذ به عجبًا بنفسك ورأيك فويلٌ
+        <lb/>
+
+        لحكمك وفطنتك كيف يُنزعان منك مع إشرافك علي الهلكة
+      </p>
+
+      <p n="Dimna Cites His Greed as Cause for Not Listening">
+        قال دمنة إنّك لم تزلْ تتكلّم بالحقّ وتأمر به ولكنّي لم أكنْ أسمع
+        <lb/>
+
+        منك لدرك الشقاء واتّباع الشهوة وشره النفس ولولا ذلك
+        <lb/>
+
+        كان فيما قد وعظتني به زاجرًا
+      </p>
+
+      <p n="Who Ignores Friends’ Advice Comes to Regret">
+        وقالت العلماء إنّ الذي لا يسمع
+        <lb/>
+
+        من إخوانه ونصحائه يصير أمره إلى الندامة
+      </p>
+
+      <p n="Dimna's Ambition Dominated Him">
+        وقد حلّ ذلك بي
+        <lb/>
+
+        ولكن ما عسيت أن أصنع فإنّ الحرص والشره يذلّ حكم الحكيم
+        <lb/>
+
+        وعلم العالم
+      </p>
+
+      <p n="Desire for Noxious Food Kills the Patient">
+        كالمريض الذي يعلم أنّ شهوته من الطعام شرٌّ له
+        <lb/>
+
+        في مرضه وأنّه معقبه الوجع الشديد فلا يدعه شره نفسه وشهوتها
+        <lb/>
+
+        فيزداد مرضًا ولعلّه يقتله
+      </p>
+
+      <p n="Dimna Fears for Kalila">
+        ولست أحزن اليوم على نفسي ولكنّي
+        <lb/>
+
+        أتخوّف أن يكون هلكتك في سبّي ولعلّهم يأخذونك بما يعلمون
+        <lb/>
+
+        من ودّك إيّاي وقرب ما بيني وبينك
+      </p>
+
+      <p n="Kalila Will Be Forced to Betray Dimna">
+        فيعذّبوك فلا تجد من إطلاعهم
+        <lb/>
+
+        على سرّي بداً فأُقتل بتصديقهم لك ولا تنجو بعدي
+      </p>
+
+      <p n="Kalila Sees Life as Greatest Desire">
+        قال كليله
+        <lb/>
+
+        قد فكّرت في ذلك فلم أجد شيئًا يعدل الحياة
+      </p>
+
+      <p n="One Lies to Save One's Life">
+        وقد يضطرّ الرجل
+        <lb/>
+
+        إذا نزل به البلاء والعذاب أن يعرف نفسه بما لم يفعل ويعرف
+        <lb/>
+
+        غيره طمعًا في الحياة وتخفيف العذاب عن جسده
+      </p>
+
+      <p n="Kalila Advises Dimna to Confess">
+        وأنا منطلقٌ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

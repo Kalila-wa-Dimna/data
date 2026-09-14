@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="105"/>
+
+      <p n="Lion's Relief Upon Seeing Dimna Alone">
+        نفسه بذلك ورجع إلى مكانه
+      </p>
+
+      <p n="Dimna's Return and Lion's Inquiry">
+        ودخل دمنة على الأسد فقال له ماذا صنعت
+        <lb/>
+
+        وماذا رأيت
+      </p>
+
+      <p n="Dimna Reports Seeing a Ox">
+        قال رأيت ثورًا هو صاحب الخوار والصوت الذي سمعته
+      </p>
+
+      <p n="Lion Inquires about Ox's Strength">
+        قال فما
+        <lb/>
+
+        قوّته
+      </p>
+
+      <p n="Dimna Downplays Ox's Power">
+        قال لا شوكة له وقد دنوت منه وحاورته محاورة الأكفاء فلم يستطعْ
+        <lb/>
+
+        إليّ شيئًا
+      </p>
+
+      <p n="Lion Warns against Underestimation">
+        قال الأسد لا يغرّنك ذلك منه ولا يصغرنّ عندك أمره
+      </p>
+
+      <p n="Analogy of Wind and Trees">
+        فإنّ الريح
+        <lb/>
+
+        الشديدة لا تعبأ بضعيف الحشيش لكنّها تحطم طوال النخل وعظيم الشجر
+      </p>
+
+      <p n="Dimna Offers to Bring Ox as Servant">
+        قال
+        <lb/>
+
+        دمنة لا تهابنّ أيّها الملك منه شيئًا ولا يكثرنّ عليك أمره فأنا آتيك به فأجعله
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

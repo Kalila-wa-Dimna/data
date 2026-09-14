@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="49"/>
+
+      <p n="Three Challenging Pursuits Requiring Courage">
+        عمل السلطان ومنها تجارة البحر ومنها مشاجرة العدوّ
+      </p>
+
+      <p n="Two Proper Places for Noble Man">
+        وقد قالت
+        <lb/>
+
+        العلماء في الرجل الفاضل المروءة إنّه لا ينبغي له أن يُرى إلّا في مكانين
+        <lb/>
+
+        ولا يليق به غيرهما إمّا مع الملوك مكرّمًا وإمّا مع النسّاك متبتّلًا
+      </p>
+
+      <p n="Two Places for Elephant’s Splendor">
+        كالفيل الذي بهاؤه وجماله في مكانين إمّا في البرّيّة وحشيًًّا
+        <lb/>
+
+        وإمّا مع الملوك مركبًا
+      </p>
+
+      <p n="Kalila's Blessing for Dimna's Decision">
+        قال كليلة خار الله لك فيما عزمت
+      </p>
+
+      <p n="Dimna Approaching the Lion">
+        ثمّ إنّ دمنة انطلق حتّى وصل إلى الأسد فسلّم عليه
+      </p>
+
+      <p n="Lion Inquiring About Dimna's Identity">
+        فقال الأسد
+        <lb/>
+
+        لجلسائه من هذا
+      </p>
+
+      <p n="Identification of Dimna">
+        قالوا هذا فلان بن فلان
+      </p>
+
+      <p n="Lion Recognizing Dimna's Father">
+        قال كنت أعرف أباه
+      </p>
+
+      <p n="Lion's Reaction to Dimna">
+        فدعا به
+      </p>
+
+      <p n="Lion Questioning Dimna's Whereabouts">
+        ثمّ قال أين كنت تكون
+      </p>
+
+      <p n="Dimna's Response about His Loyalty">
+        قال لم أزلْ بباب الملك مرابطًا رجاء
+        <lb/>
+
+        أن يحضر أمر أعين الملك فيه برأيي ونفسي
+      </p>
+
+      <p n="Dimna on the Value of Overlooked Individuals">
+        فإنّ باب الملك تكثر فيه
+        <lb/>
+
+        الأمور التي ربّما احتيج فيها إلى من لا يُؤبه له وليس يصغر أمره عن أن
+        <lb/>
+
+        يكون عنده بعض المنافع على قدره
+      </p>
+
+      <p n="Analogy of Useful Discarded Objects">
+        فإن العود المنبوذ في الأرض ربّما
+        <lb/>
+
+        انتفع به المنتفع فيحكّ به أذنه عند الحاجة إليه
+      </p>
+
+      <p n="Comparison to Knowledgeable Beings">
+        والحيوان الذي يعرف
+        <lb/>
+
+        الضرّ والنفع أحرى أن يُنتفع به
+      </p>
+
+      <p n="Lion's Positive Impression of Dimna">
+        فلمّا سمع الأسد كلامه أعجبه فظنّ
+        <lb/>
+
+        أنّ عنده من الخيرات نصيحة ورأيًا
+      </p>
+
+      <p n="A Noble Man May Be Obscure">
+        فأقبل على أقربائه فقال لهم إنّ
+        <lb/>
+
+        الرجل ذو العلم والمروءة ليكون غامض الأمر خامل المنزلة فتأبى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

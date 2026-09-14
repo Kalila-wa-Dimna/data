@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="213"/>
+
+      <p n="unassigned">
+        فلمّا فرغ الثالث من كلامه قال الأوّل الذي كان أشار
+        <lb/>
+
+        بقتل الغراب قد غرّكم هذا وخدعكم بكلامه فأنتم تريدون
+        <lb/>
+
+        تضييع الرأي فانظروا نظر أولي الألباب ولا يغرّكم كلام عدوّكم
+        <lb/>
+
+        ولا يهينكم عن أمركم فإنّ العجزة تلين قلوبهم لما يسمعون من
+        <lb/>
+
+        أعدائهم من ملق وتضرّع فيُغترّون به حتّى يُصيّرهم ذلك
+        <lb/>
+
+        إلى المكروه ويكونون لما يسمعون أشدّ تصديقًا منهم لما يسمعون
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

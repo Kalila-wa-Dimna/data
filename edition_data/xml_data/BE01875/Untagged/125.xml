@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BE01875</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="125"/>
+
+      <p n="unassigned">
+        الحبيب إليّ ما زدت في حياتي به خذ متاع البيت ما
+        <lb/>
+
+        أردت ولك الفضل عليّ بعد ذلك ولك من مالي
+        <lb/>
+
+        ما أردت لأنّك عطّفت عليّ من معانقتي ممّا كنت أحبّه
+        <lb/>
+
+        وأختاره كلّ ذلك ببركتك ثم قال مَلك البوم للوزير
+        <lb/>
+
+        الثالث ما رأيك في هذا الغراب قال له أيّها المَلك
+        <lb/>
+
+        ما أرى قتله صوابًا لأنّ المرء إذا ظفر بصديق عدوّه
+        <lb/>
+
+        وتيقّن أنّه أسخطه وغذىه كان باستبقائه جدير
+        <lb/>
+
+        لعلّه أن يصيب منه منفعة فإن أنت أبقيته وأحسنت
+        <lb/>
+
+        إليه رجوت أن يكون لك ناصحًا وفيك محبًّا لأنّه
+        <lb/>
+
+        يرى ذلك فضيلة وغنيمة فإنّ ذا الفضل يرى ظفرًا حسنًا
+        <lb/>
+
+        في معاداة الأعداء بعضهم في بعض فإنّ اشتغال بعض
+        <lb/>
+
+        العدوّ ببعض واختلافهم صلاحًا من كيدهم وفي ذلك
+        <lb/>
+
+        بركة مثل ما كان في اختلاف اللصّ والشيطان من نجاة
+        <lb/>
+
+        الرجل وخلاصه قال المَلك البوم وكيف كان ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

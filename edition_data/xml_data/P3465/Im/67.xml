@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="67"/>
+
+      <p n="The Fisher Abandons His Catch for the Shell">
+        نفسه في الماء ليأخذ الصدفة فلمّا أخرجها وجدها فارغة لا شيء فيها
+        <lb/>
+
+        ممّا ظنّ فندم على ترك ما في يده للطمع وتأسّف على ما فاته
+      </p>
+
+      <p n="The Fisher Misses the Pearl">
+        فلمّا كان في
+        <lb/>
+
+        اليوم الثاني تنحّى عن ذلك المكان وألقى شبكته فأصاب حوتًا صغيرًا
+        <lb/>
+
+        ورأى أيضًا صدفة سنيّة فلم يلتفت إليها وساء ظنّه فتركها
+      </p>
+
+      <p n="Another Fisher Wins the Pearl">
+        فاجتاز
+        <lb/>
+
+        بها بعض الصيّادين فأخذها فوجد فيها درّة تساوي أموالا
+      </p>
+
+      <p n="The Superficial Readers Miss the Meaning">
+        وكذلك
+        <lb/>
+
+        الجهّال على إغفال أمر التفكّر والاغترار في أمر هذا الكتاب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="29"/>
+
+      <p n="Bu Chapter Well Received">
+        من غير كذب ولا ادّعاء باطل
+      </p>
+
+      <p n="Kisra Rewards Buzrgmihr">
+        فأمر له بجائزة سنيّة من المال
+      </p>
+
+      <p n="Burzoy Thanks Buzurgmihr">
+        ثمّ قام
+        <lb/>
+
+        إليه برزويه فقبّل رأسه وشكر صنيعه
+      </p>
+
+      <p n="Burzoy Thanks Kisra For Chapter">
+        وأقبل برزويه فقبّل رأسه
+        <lb/>
+
+        على الملك فقال أدام الله لك الكرامة أيّها الملك قد بالغت في كرامتي
+        <lb/>
+
+        بما صنعت وتمنّنت وشرّفتني ونوّهت باسمي وذُكرت ما دام
+        <lb/>
+
+        هذا الكتاب في الدنيا
+      </p>
+
+      <p n="Burzoy Invokes Longevity For Kisra">
+        فأحسن الله عنّي جزاك أفضل ما جزى به
+        <lb/>
+
+        أحدًا من عباده الذين اصطفى وأعانني على شُكرك ووَصَلَك
+        <lb/>
+
+        من جزيل العزّ وعمّرك منها أعمار آبائك في فضل عيش وسرور وأعمّ
+        <lb/>
+
+        عافية فإنّه سميع مجيب
+      </p>
+
+      <p n="Burzoy Commends Buzurgmihr To Kisra">
+        وجزا الله بزرجمهر عنّي خيرًا وأحسن
+        <lb/>
+
+        عنّي مكافأته إنّه وليّ ذلك والقادر عليه
+      </p>
+
+      <p n="Chapter Title">
+        الباب الأوّل
+        <lb/>
+
+        في ذكر ابن المقفّع الذي ترجم به هذا الكتاب وهو كتاب كليلة
+        <lb/>
+
+        ودمنة من الفارسيّة إلى العربيّة
+      </p>
+
+      <p n="Parables Originated with Scholars of India">
+        وهو ممّا وضعته علماء الهند
+        <lb/>
+
+        من أمثال وأحاديث وأعاجيب والتمسوا أن يُدخلوا فيها
+        <lb/>
+
+        أبلغ ما يجدوا من القول في النحو الذي أرادوا
+      </p>
+
+      <p n="Scholars Desire to Be Understood">
+        ولم تزل العقلاء من كلّ أمّة
+        <lb/>
+
+        وأهل كلّ لسان يلتمسون أن يُعقل عنهم
+      </p>
+
+      <p n="Scholars Commit to Debate and Prefer It">
+        ويأمروا أنفسهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

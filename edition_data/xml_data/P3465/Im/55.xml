@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="55"/>
+
+      <p n="Helpers Take Treasure">
+        ثمّ جاء بالحمّالين فجعل يحمل على كلّ واحد منهم ما يطيق فينطلق به إلى منزله
+        <lb/>
+
+        فيفوز به حتّى إذا لم يبق من الكنز شيء انطلق خلفهم إلى منزله
+      </p>
+
+      <p n="Discoverer Loses Treasure">
+        فلم يجد فيه من المال
+        <lb/>
+
+        شيئًا لا قليلا ولا كثيرًا وإذا كلّ واحد من الحمّالين قد فاز بما حمله لنفسه
+        <lb/>
+
+        ولم يكن له من ذلك إلاّ العناء والتعب لأنّه لم يفكّر في آخر أمره
+      </p>
+
+      <p n="Readers Should Look for Hidden Meaning">
+        وكذلك
+        <lb/>
+
+        من قرأ هذا الكتاب ولم يفهم ما فيه ويعلم غرضه ظاهرًا وباطنًا
+        <lb/>
+
+        لم ينتفع بما بدا له من خطّه ونقشه
+      </p>
+
+      <p n="A Nut Has to Be Cracked">
+        كما لو أنّ رجلًا قُدّم له جوز صحيح
+        <lb/>
+
+        لم ينتفع به إلّا أن يكسره
+      </p>
+
+      <p n="Man Acquires Yellow Folio">
+        وكان أيضًا كالرجل الذي طلب علم الفصيح من
+        <lb/>
+
+        كلام الناس فأتى صديقًا له من العلماء له علم بالفصاحة فأعلمه حاجته
+        <lb/>
+
+        إلى علم الفصيح فرسم له صديقه في صحيفة رصفها له فيها فصيح الكلام
+        <lb/>
+
+        وتصاريفه ووجوهه
+      </p>
+
+      <p n="Man Memorizes from Yellow Folio">
+        فانصرف المتعلّم إلى منزله فجعل يكثر قراءتها ولا
+        <lb/>
+
+        يقف على معانيها ثمّ إنّه جلس ذات يوم في محفل من أهل العلم والأدب
+      </p>
+
+      <p n="Man Reads from Yellow Folio and Errs">
+        فأخذ في محاورتهم فجرت له كلمة أخطأ فيها فقال له بعض الجماعة
+        <lb/>
+
+        إنّك قد أخطأت والوجه غير ما تكلّمت به فقال كيف أخطئ وقد قرأت
+        <lb/>
+
+        الصحيفة الصفراء وهي في منزلي
+      </p>
+
+      <p n="Using the Yellow Folio Proved His Ignorance">
+        فكانت مقالته لهم أوجبت الحجّة عليه
+        <lb/>
+
+        وزاده ذلك قربًا من الجهل وبعدًا من الأدب
+      </p>
+
+      <p n="Intelligent Readers Must Implement Knowledge">
+        ثمّ إنّ العاقل إذا فهم هذا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

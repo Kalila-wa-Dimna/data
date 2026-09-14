@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="238"/>
+
+      <p n="Vizier Decides To Spare Queen">
+        فَخَرَج بَلار بِإيلاذ مِنْ عِنْد المَلك وَقَال مَا يَنْبَغِيْ أَنْ أَقْتُلَهَا حَتَّى يَسْكُن غَضَب المَلك
+      </p>
+
+      <p n="Vizier Praises Queen">
+        وَقال في نفسِه إنّها امرأة عاقلة سَعيدة من المَلكات ليس في
+        <lb/>
+
+        النساء شبيه لها
+      </p>
+
+      <p n="King Will Miss Queen">
+        وَليس المَلك بصابر عَنْهَا وقدْ خَلَّص الله بها بشرًا كثيرًا
+        <lb/>
+
+        من الموت وَنحن فيما نرجو منها بعد اليَوم
+      </p>
+
+      <p n="Vizier Fears Risk Of Rush">
+        ولست آمن لائِمة الملك على
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

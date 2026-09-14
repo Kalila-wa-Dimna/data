@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="49"/>
+
+      <p n="Intelligent Readers Must Implement Knowledge">
+        الكتاب وعلم معانيه وبلغ نهايته وجب عليه أن يعمل
+        <lb/>
+
+        به لينتفع بما تعلّم منه ويجعله معاشًا يعيش به
+      </p>
+
+      <p n="One Should Always Seek More Knowledge">
+        فإنّه
+        <lb/>
+
+        يُقال ينبغي للعالِم العاقل أن يستكثر من العلم
+      </p>
+
+      <p n="Culture Is the Spark of Life">
+        لأنّ
+        <lb/>
+
+        العلم يجلي القلب الصدئ كما يجلي الزيت ظلمة النهار
+      </p>
+
+      <p n="Culture Advances One's Rank">
+        وهو يرفع منزلة صاحبه ويجعل رتبته فوق كلّ رتبة
+      </p>
+
+      <p n="Culture Shields from Danger">
+        ويُقال إنّ العلم ينجي من الهلكات
+      </p>
+
+      <p n="Man Notices Burglar but Feigns Sleep">
+        ومن علم ولم يعمل
+        <lb/>
+
+        بعلمه كان مثاله كالرجل الذي يُقال عنه زعموا أنّ رجل
+        <lb/>
+
+        أحسّ بسارق قد تسوّر عليه إلى أن صار من داخل منزله
+        <lb/>
+
+        فلمّا أحسّ الرجل به فقال والله لأمسكنّ عنه حتّى أنظر
+        <lb/>
+
+        ما يصنع فإذا أراد بلوغ مراده فأوثب عليه وأنقض ما بناه
+        <lb/>
+
+        فأمسك عنه
+      </p>
+
+      <p n="Burglar Steals and Gets Away">
+        فجعل السارق يطوف البيت ويجمع ما يأخذه
+        <lb/>
+
+        إلى أن طال تردّده بذلك فقهر النعاس إلى صاحب البيت فغفى
+        <lb/>
+
+        ففرغ اللصّ واحتمل ما جمعه وغدا
+      </p>
+
+      <p n="Man Discovers Mishap and Laments">
+        فانتبه الرجل بعد
+        <lb/>
+
+        ذلك فوجد السارق قد فاز بمتاعه فأقبل على نفسه يلومها
+        <lb/>
+
+        ويعاتبها وعرف أنّه لم ينتفع بعلمه باللصّ إذا لم يسارع بما أخذه
+      </p>
+
+      <p n="Knowledge Is Complete with Proper Implementation">
+        ويُقال إنّ العلم لا يتمّ إلّا بالعمل
+      </p>
+
+      <p n="Knowledge Is a Tree and Action Is the Fruit">
+        وضربوا مثل الأدباء فقالوا
+        <lb/>
+
+        العمل كالشجرة والعمل كالثمر فالعمل الذي هو الثمرة يُنتفع
+        <lb/>
+
+        به
+      </p>
+
+      <p n="Scholar Must Act">
+        خصوصًا إذا كان الرجل يُقال عنه عالم وجب عليه العمل
+        <lb/>
+
+        بعلمه
+      </p>
+
+      <p n="Informed Traveller Takes Risky Road">
+        ولو أنّ رجلًا سلك طريق مخوف على علم به سُمّي جاهلًا
+        <lb/>
+
+        وأقلّها <> التفريط في الطريق المخوف بلا رفيق فهذا ما عملا بعلمه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

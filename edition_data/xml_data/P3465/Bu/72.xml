@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="72"/>
+
+      <p n="unassigned">
+        باب برزويه ترجمة بزرجمهر بن التحتكان
+      </p>
+
+      <p n="Burzurgmihr's Introduction">
+        قال برزويه رأس أطبّاء فارس وهو الذي تولّى انتساخ هذا الكتاب
+        <lb/>
+
+        وترجمه من كتب الهند وقد مضى ذكر ذلك من قبل فيما مضى
+      </p>
+
+      <p n="Burzoy's Parents">
+        إنّ أبي كان
+        <lb/>
+
+        من المقاتلة وكانت أمّي من عظماء بيوت الزمازمة
+      </p>
+
+      <p n="Burzoy Studies Medicine">
+        وكان منشئي في
+        <lb/>
+
+        نعمة كاملة وكنت أكرم ولد أبواي عليهما وكانا بي أشدّ احتفاظًا
+        <lb/>
+
+        من دون إخوتي حتّى إذا بلغت سبع سنين أسلماني إلى المؤدّب فلمّا حذقت
+        <lb/>
+
+        الكتابة شكرت أبويّ ونظرت في العلم فكان أوّل ما ابتدأت به وحرصت عليه
+        <lb/>
+
+        علم الطبّ لأنّي كنت عرفت فضله وكلّما سددت منه علمًا ازددت فيه
+        <lb/>
+
+        حرصًا وله اتّباعًا
+      </p>
+
+      <p n="Burzoy Consults His Soul About Its Ambitions">
+        فلمّا همّت نفسي بمداواة المرضى وعزمت على ذلك أمرت
+        <lb/>
+
+        نفسي ثمّ خيّرتها بين الأمور الأربعة التي يطلبها الناس وإليها يرغبون ولها
+        <lb/>
+
+        يسعون
+      </p>
+
+      <p n="The Four Objects of Human Pursuit">
+        فقلت ما هذه الخلال ينبغي في علمي وكنت وجدت في كتب الطبّ
+        <lb/>
+
+        أنّ أفضل الأطبّاء من واظب على طبّه لا يبتغي بذلك الآخرة فرأيت أن أطلب
+        <lb/>
+
+        الاشتغال بالطبّ ابتغاء الآخرة
+      </p>
+
+      <p n="Selling a Ruby for a Cheap Pearl">
+        كالتاجر الذي باع ياقوتة ثمينة بجوزة
+      </p>
+
+      <p n="The Profession of Medicine Benefits Both in This World and the Hereafter">
+        وذلك أنّي لمّا وجدت في كتب الأوّلين أنّ الطبيب الذي يبتغي
+        <lb/>
+
+        بطبّه أجر الآخرة لا يمنعه حظّه من الدنيا
+      </p>
+
+      <p n="A Farmer Harvests Weeds Along with the Wheat">
+        إنّما مثله مثل الزارع الذي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

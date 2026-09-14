@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P2789</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="342"/>
+
+      <p n="The Merchant Steals His Own Bale">
+        وفي نفسه أنّ العدل لرفيقه
+      </p>
+
+      <p n="The Merchant Discovers the Error at Home">
+        فلمّا أصبح نظر وإذا هو من بعض أعداله
+        <lb/>
+
+        فندم أشدّ ندامة ثم انطلق نحو الحانوت فوجد شريكه قد
+        <lb/>
+
+        سبقه إلى الحانوت وفتحه وقد فقد العدل واغتمّ لذلك غمًّا شديدًا
+      </p>
+
+      <p n="The Partner Fears Accusation (Monologue)">
+        وقال وا سوءتاه من رفيق صالح قد آمنني على ماله وخلفني فيه وانصرف
+        <lb/>
+
+        ماذا يكون حالي عنده ولست أشكّ في تهمته إيّاي وإنّي صاحبه
+      </p>
+
+      <p n="The Partner Fears Accusation (Dialogue)">
+        ولم يزل
+        <lb/>
+
+        كذلك حتّى وافى رفيقه صديقه فوجده مغتمًّا فسأله عن حاله
+        <lb/>
+
+        فقال له إنّي فقدت عدلًا من أعدالك ولا أعلم سببه ولا أشكّ
+        <lb/>
+
+        في تهمتك إيّاي وإنّي قد وطّنت نفسي على غرامته
+      </p>
+
+      <p n="The Merchant Admits Treachery">
+        فقال له لا تغتمّ
+        <lb/>
+
+        يا أخي فإنّ الخيانة أشرّ ما عملها الإنسان والمكر والخديعة لا يؤدّيان
+        <lb/>
+
+        إلى خير وصاحبهما مغرورًا أبدًا وما عاد وبال البغي إلّا على أهله
+        <lb/>
+
+        وإنّي أنا الذي فعلت هذا بمكر وخديعة واحتيال
+      </p>
+
+      <p n="The Merchant Explains Events upon Request">
+        فقال له صاحبه
+        <lb/>
+
+        وكيف كان ذلك فأخبره بأمره وقصّ عليه قصّته
+      </p>
+
+      <p n="The Partner's Parable about the Thief">
+        فقال لرفيقه
+        <lb/>
+
+        ما مثلك إلاّ مثل اللصّ والتاجر قال كيف كان ذلك حكاية
+      </p>
+
+      <p n="The Thief Who Mistakes Grain for Gold">
+        زعموا أنّه كان تاجرًا له في منزله خابيتان أحدهما مملوءة ذهبًا
+        <lb/>
+
+        والأخرى مملوءة حنطة
+      </p>
+
+      <p n="The Thief Eyes Jar">
+        فرقبه بعض اللصوص زمانًا حتى أنّ التاجر
+        <lb/>
+
+        تشاغل في بعض الأيّام عن الدكّان في شغله فاغتفله اللصّ ودخل
+        <lb/>
+
+        الحانوت فكمن في بعض نواحيه
+      </p>
+
+      <p n="The Thief Takes the Grain">
+        فلمّا همّ بأخذ الخابية الذي فيها
+        <lb/>
+
+        الدنانير أخذ الذي فيها الحنطة فحملها ولم يزل في كدّ وتعب حتّى
+        <lb/>
+
+        أتى بها منزله فلمّا فتحها وعلم ما فيها ندم كثيرًا
+      </p>
+
+      <p n="The Merchant Forfeits Trust">
+        فقال له الخائن ما أبعد
+        <lb/>
+
+        المثل وتجاوزت القياس وقد اعترفت بذنبي وخطائي عليك
+        <lb/>
+
+        وعذرًا عليّ إن كان هذا هكذا غير أنّ النفس الرديئة تأمر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

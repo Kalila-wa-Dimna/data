@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="95"/>
+
+      <p n="Dimna's Inquiry about the Parable">
+        وكيف كان ذلك
+      </p>
+
+      <p n="Second Subtale of Monkey of Carpenter">
+        قال كليلة زعموا أنّ قردًا رأى نجّارًا يشقّ خشبة
+        <lb/>
+
+        بين وتدين
+      </p>
+
+      <p n="Monkey's Misinterpretation">
+        وهو راكب عليها فأعجبه ذلك
+      </p>
+
+      <p n="Monkey's Attempt to Imitate">
+        ثمّ إنّ النجّار ذهب لبعض شأنه فقام
+        <lb/>
+
+        القرد وتكلّف ما ليس من شغله
+      </p>
+
+      <p n="Monkey's Positioning on Wood">
+        فركب الخشبة وجعل ظهره قبل الوتد
+        <lb/>
+
+        ووجهه قبل الخشبة
+      </p>
+
+      <p n="Monkey's Predicament">
+        فتدلّت خصيتاه في الشقّ
+      </p>
+
+      <p n="Monkey Removing Wedges">
+        ونزع الوتد
+      </p>
+
+      <p n="Consequences of Monkey's Actions">
+        فلزم الشقّ عليهما
+        <lb/>
+
+        فخرّ مغشيًّا عليه ثمّ
+      </p>
+
+      <p n="Carpenter's Return and Punishment">
+        إنّ النجّار وافاه فرآه موضعه فأقبل عليه يضربه فكان
+        <lb/>
+
+        ما لقي من النجّار من الضرب أشدّ ممّا أصابه من الخشبة
+      </p>
+
+      <p n="Dimna's Response and Ambition">
+        قال دمنة قد سمعت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

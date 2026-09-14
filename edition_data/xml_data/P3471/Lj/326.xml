@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="326"/>
+
+      <p n="Lion Wants to Reinstate Jackal">
+        وأنت أهله ومؤتمنك وجاعلك من أمري ما كنت ائتمنتك عليه
+        <lb/>
+
+        قبل اليوم وإنزالك عندي بأفضل المنازل
+      </p>
+
+      <p n="Critical Friend Is Rare">
+        فإنّ اتّخاذ المؤثر
+        <lb/>
+
+        نفسه على خليله المتّبع هوى خليله فيما يضرّه هيّن يسير فأمّا
+        <lb/>
+
+        الخليل المناصح المستقبل لخليله ببعض ما يكرهه في منفعته لعزيز
+        <lb/>
+
+        الطلب
+      </p>
+
+      <p n="Jackal Fears Future Plots">
+        قال ابن آوى قد علمت أيّها الملك السعيد كيف كان أوّل
+        <lb/>
+
+        أمري والحال التي صحبت عليها الملك وقد صرت إليه ولست
+        <lb/>
+
+        واثقًا بمن يحضر الباب من أهل البغي والحسد أن يرقوا إلى الملك ثانية
+        <lb/>
+
+        شيئًا يحقّق به قولهم عليّ فتنزل بي العقوبة
+      </p>
+
+      <p n="Untrue Friends Seek Only Their Own Benefit">
+        فإنّ شرّ الأخلّاء من
+        <lb/>
+
+        التمس منفعة نفسه بمضرّة أخيه فإن كان غير ناظر له كنظره لنفسه
+        <lb/>
+
+        أو كان يريد أن يرضيه بخلاف الحقّ واتّباع هواه فأولئك من الإخوان
+        <lb/>
+
+        موجودون
+      </p>
+
+      <p n="Whom One Must Trust">
+        وإنّما ينبغي للمرء أن يودّ من يأمنه على سريرته ويكتفي
+        <lb/>
+
+        بشهادته عمّا غاب عن ويثق برأيه ووفائه والرأي من وراء جرّته **
+        <lb/>
+
+        والمناضلة لمن هار جُرفه والمحاماة عليه في مغيبه ومشهده
+        <lb/>
+
+        فأولئك الذين يكون بهم الثقة وإليهم تكون الطمأنينة
+      </p>
+
+      <p n="Forgiving Friend Is Rare">
+        ومن كان
+        <lb/>
+
+        من الأصحاب محتملًا لاستقبال صاحبه بالإغلاظ والخلاف
+        <lb/>
+
+        فيما يتخوّف عليه منه الضرر فاحتمله إذا كان استقبله فإنّ وجود
+        <lb/>
+
+        مثله عزيز
+      </p>
+
+      <p n="Lion Must Accept Refusal">
+        فلا يستقطعنّ الملك إن أخبرته أن لا سبيل له إلى الثقة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

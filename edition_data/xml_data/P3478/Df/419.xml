@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3478</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="419"/>
+
+      <p n="unassigned">
+        باب الحمامة والثعلب وملك الحزين وهو باب
+        <lb/>
+
+        من يرى الرأي لغيره ولا يراه لنفسه
+        <lb/>
+
+        قال الملك للفيلسوف قد سمعت هذه المُثُل فاضرب لي
+        <lb/>
+
+        مثل الرجل الذي يري الرأي لغيره ولا يراه لنفسه
+        <lb/>
+
+        فأفهم الله والله تعالى أعلم
+        <lb/>
+
+        صورة الملك والفيلسوف
+        <lb/>
+
+        قال الفيلسوف إنّ مثل ذلك مثل الحمامة والثعلب وملك
+        <lb/>
+
+        الحزين قال الملك وما مثلهم قال الفيلسوف ذكروا أنّ
+        <lb/>
+
+        حمامة كانت تُفرّخ في رأس نخلة طويلة ذاهبة في السماء
+        <lb/>
+
+        فكانت الحمامة تبدأ بنقل العشّ إلى رأس تلك النخلة
+        <lb/>
+
+        فلا يمكن أن تنقل ما تنقل من العشّ وتحمله تحت البيض إلاّ بعد
+        <lb/>
+
+        شدّة وتعب ومشقّة لطول النخلة وسحوقه فإذا
+        <lb/>
+
+        فرغت من النقل باضت ثمّ حضنت عليها فإذا فقشت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Df</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="165"/>
+
+      <p n="King W Consults with the Vizier On Wind Issue">
+        شبيهًا بالجنّة
+      </p>
+
+      <p n="King W Wants to Block the Hole">
+        فنريد أن نعمل الحيلة في سدّ هذا النقب لتزول عنّا شدّة هذه الريح وأذاها
+        <lb/>
+
+        لنا ليتكامل نعيمنا ويدوم سرورنا ونصير كأهل الجنّة ويكون لنا بذلك ذكر إلى الأبد
+      </p>
+
+      <p n="The Vizier Is Willing to Execute">
+        فقال
+        <lb/>
+
+        الوزير أنا يا سيدي أنا لك وصنيعك وسامع لأمرك ومطيع لنهيك
+      </p>
+
+      <p n="King W Is Not Satisfied with the Response">
+        فقال له هوطباد
+        <lb/>
+
+        ما يقنعني منك هذا الجواب
+      </p>
+
+      <p n="The Vizier Defers to the Opinion of King W">
+        فقال الوزير أمّا أنا فليس أقول أكثر من هذا ولا عندي حيلة
+        <lb/>
+
+        في ذلك وسيّدي أغزر فطنة منّي وأكثر معرفة ولا سيّما أنّه من الأشراف وهو اليوم أشرف
+        <lb/>
+
+        من في الأرض وهذا الأمر الذي هو طالبه لا يقدر عليه أحد من الناس أن يغيّره إلّا أن
+        <lb/>
+
+        يغيّره ربّ العالمين لأنّ الأمر عظيم الخطر ولا يمكن أحدًا من الآدميّين أن يزيله
+      </p>
+
+      <p n="Divine Fortune Versus Human Effort">
+        فقال
+        <lb/>
+
+        المَلك القول كما قلت وإنّي لعالم أنّ كلّ ما يعرض في عالمنا هذا من شيء لا يعرض إلّا بأمر الله
+        <lb/>
+
+        وحركة الأفلاك وهي التي تدلّ الناس على حسن أحوالهم واستقامة أمورهم وكذلك العالَم
+        <lb/>
+
+        أيضًا إنّما حُكم عليهم وقُدّر لهم يسعون إلى أعمالهم
+      </p>
+
+      <p n="The Affair Is Simpler for Man">
+        وهذا الشأن الذي نحن نطلبه فهو
+        <lb/>
+
+        سهل على أيدي الناس وليس تؤول الأمر إلى شدّة وضعف بل عرّفني أنت مبلغ حيلتك
+        <lb/>
+
+        وتدبيرك فيه
+      </p>
+
+      <p n="The Outcome Is Uncertain">
+        قال الوزير أنا أعلم وأقول لسيّدي أن لا يشغل قلبه بما يعجز عنه فليس
+        <lb/>
+
+        يدري كيف تكون عواقب الأمور فيه
+      </p>
+
+      <p n="A Donkey Loses His Ears">
+        وأخشى أن يلحقه ما لحق العير الذي طلب أن
+        <lb/>
+
+        ينبت له قرنين وأهلك أذنيه
+      </p>
+
+      <p n="King W Requests the Tale of the Donkey">
+        قال المَلك وكيف كان ذلك
+      </p>
+
+      <p n="The Donkey Becomes Cocky">
+        قال الوزير زعموا أنّه كان
+        <lb/>
+
+        عيرًا سمينًا مستئنًا يموج بطرًا
+      </p>
+
+      <p n="The Donkey Sees a Jenny">
+        فساقه صاحبه إلى مورد الماء ليسقيه فبصر بأثان
+        <lb/>
+
+        فأرسل عرده وزبر وجعل يجذب سائقه فأشرف على الانفلات واشتدّ ذلك على
+        <lb/>
+
+        سائقه فأوثقه في شجرة كانت هناك خوفًا عليه أن يهلك وأمر عن يُبعد عنه الأثان
+      </p>
+
+      <p n="The Donkey Ponders about Phallus">
+        فلمّا نظر العير إلى شدّة قوّته وخصب بدنه وما قد استرسل منه ففكّر في نفسه وقال
+        <lb/>
+
+        يا نفس اعلمي أنّ هذه الهراوة وهي بعض السلاح ممّا يتّخذ الناس للحرب
+      </p>
+
+      <p n="The Donkey Sees It As a Weapon">
+        ولكنّي كنت أريد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

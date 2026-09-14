@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T117953</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="63"/>
+
+      <p n="unassigned">
+        هذا وهوّ قوتي فيجتمع عليّ العري والجوع ولا يجتمعان
+        <lb/>
+
+        على أحد إلاّ أهلكاه ثمّ صاح بالسارق ووثب من مكانه
+        <lb/>
+
+        وبيده عصاة كانت عند رأسه فلم يكن للسارق
+        <lb/>
+
+        إلاّ النجاة بنفسه وترك إيزاره أخذه صاحب البيت
+        <lb/>
+
+        ولبسه وغدا به كاسيًا وليس ينبغي للعاقل أن يركن
+        <lb/>
+
+        إلى مثل هذا أو يدع ما يجب عليه من الجد في العمل
+        <lb/>
+
+        والدأب في الاكتساب ولا ينظر إلى ما يواتيه من
+        <lb/>
+
+        المقادير فيتباعد
+        <lb/>
+
+        على غير التماس منه لذلك فإنّ أولئك في الناس قليل
+        <lb/>
+
+        والجمهور منهم من أتعب نفسه في السعي فيما يصلح
+        <lb/>
+
+        به أمره فينال بذلك ما يريد وينبغي أن يكون
+        <lb/>
+
+        حرصه على ما طلب مكسبه وحسُن نفعه ولا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

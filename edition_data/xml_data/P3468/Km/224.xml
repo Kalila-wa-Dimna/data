@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3468</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="224"/>
+
+      <p n="The Donkey Wants to Escape Misery">
+        مؤنة الطلب
+      </p>
+
+      <p n="A Stag Comes to the River">
+        فبينا هو يهدم ويبني في تحصيل سلاح
+        <lb/>
+
+        إذا أقبل رجل وعلى يده أريل له قرون من أعظم الخلقة
+        <lb/>
+
+        ليسقيه من ذلك النهر
+      </p>
+
+      <p n="The Stag Impresses the Donkey">
+        فلمّا رأى الحمار ذلك الأريل وتميّز
+        <lb/>
+
+        قرونه وأنّه في المعنى الذي أراده دهش منه
+      </p>
+
+      <p n="The Donkey Wants to Serve the Stag">
+        وقال ما حمل
+        <lb/>
+
+        هذا هذه القرون إلّا وعنده رماح وقسيّ وسائر
+        <lb/>
+
+        أنواع السلاح وبلا شكّ أنّه ماهر بالفروسيّة
+        <lb/>
+
+        ولو استوى لي أن أهرب من هذا الموضع إلى هذا الأريل
+        <lb/>
+
+        وأخدمه مدّة وأكون ملازمه لكنت أتفرّس منه وكان
+        <lb/>
+
+        هو أيضًا إذا رأى ملازمتي وخدمتي ونصيحتي لم يبخل
+        <lb/>
+
+        عليّ بشيء من هذا السلاح الذي عنده
+      </p>
+
+      <p n="The Donkey Intrigues the Stag">
+        فلمّا رأى الأريل
+        <lb/>
+
+        حال الحمار وهيجانه وقوّة تحفّظه أمسك عن شرب الماء
+        <lb/>
+
+        وبهت إليه
+      </p>
+
+      <p n="The Donkey is Encouraged by the Stag">
+        فقال الحمار ما يمنعه من الشرب إلّا رأي رأه
+        <lb/>
+
+        فيّ وأنّه فرح بي
+      </p>
+
+      <p n="The Donkey Feels Fortunate">
+        وقد وفّق الله تعالى لي هذا عندما فكّرت
+        <lb/>
+
+        في هذا الأمر ولمّا بدأت في الفكر يسّر لي ما أردته وما
+        <lb/>
+
+        جرى هذا إلّا بسعادة من فوق يا ليت شعري بأيّ طالع
+        <lb/>
+
+        ولدت
+      </p>
+
+      <p n="The Donkey Watches the Stag Return Home">
+        ثمّ إنّ صاحب الأريل لمّا رأى أنّ الأريل لا يشرب
+        <lb/>
+
+        شيئًا رجع به إلى بيته وكان بيته قريبًا من الشطّ ولم
+        <lb/>
+
+        يزل الحمار يُتبِعه النظر إلى أن رآه دخل بيته فعلّم له علامة
+        <lb/>
+
+        يعرفه بها
+      </p>
+
+      <p n="The Donkey's Owner Brings Him Home">
+        ثمّ إنّ صاحب الحمار جاء وأخذه وذهب به إلى بيته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

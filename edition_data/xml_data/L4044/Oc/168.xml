@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="168"/>
+
+      <p n="Carpenter Learns Of Wifes Affair">
+        قال الوزير زعموا أنّ نجّارا كانت له امرأة يحبّها وكان قد علّقها رجل
+        <lb/>
+
+        فاطّلع على ذلك بعض أهل النجّار فأطلعوه على خبر امرأته
+      </p>
+
+      <p n="Carpenter Wants Proof">
+        فأحبّ النجّار
+        <lb/>
+
+        أن يستيقن من ذلك
+      </p>
+
+      <p n="Carpenter Feigns Work Travel">
+        فقال لامرأته إنّي ذاهب إلى قرية كذا وهي منّا على ثلاثة
+        <lb/>
+
+        فراسخ لعمل بعض الأمر وماكث هناك أيّاما فأعدّي لي زادًا
+      </p>
+
+      <p n="Wife Rejoices At Chance">
+        ففعلت
+      </p>
+
+      <p n="Wife Sees Carpenter Off">
+        فخرج
+        <lb/>
+
+        النجّار وقال احفظي بيتك وأوثقي بابك حتّى أرجع إليك
+      </p>
+
+      <p n="Wife Summons Lover">
+        فلمّا فصل من
+        <lb/>
+
+        عندها أرسلت إلى خليلها بأنّ النجّار قد غاب لحاجة له وهو ماكث عنّا
+        <lb/>
+
+        أيّاما فأتاها
+      </p>
+
+      <p n="Carpenter Returns To Hide Under Bed">
+        وقد خالف النجّار فدخل البيت من مدخل خفيّ حتّى اندسّ
+        <lb/>
+
+        تحت السرير الذي عليه فراشه وفراش امرأته
+      </p>
+
+      <p n="Lover Spends The Night">
+        فلمّا جاء خليلها أكلت معه وشربت
+        <lb/>
+
+        ثمّ اضطجعا على السرير وكانا كذلك ليلتهما
+      </p>
+
+      <p n="Carpenter Falls Asleep">
+        فلمّا كان آخر الليل غلب
+        <lb/>
+
+        النجّار النوم وخرجت رجله من تحت السرير
+      </p>
+
+      <p n="Wife Prompts Question From Lover">
+        فأبصرت المرأة رجله فعرفته
+        <lb/>
+
+        وأيقنت بالسوء فسألت خليلها أن ارفعْ صوتك واسألْني هل أنا أحبّ إليك
+        <lb/>
+
+        أم زوجك فسألها خليلها كما أمرته
+      </p>
+
+      <p n="Wife Feigns Surprise">
+        فردّت عليه يا خليلي ما اضطرّك
+        <lb/>
+
+        إلى هذه المسألة
+      </p>
+
+      <p n="Wife Says Lovers Serve Only Pleasure">
+        لست تعلم أنّا معشر النساء إنّما نخالّ الرجال لقضاء الشهوة
+        <lb/>
+
+        ولا نلتفت في ذلك إلى أحسابهم ولا إلى أخلاقهم فإذا قضينا شهوتنا
+        <lb/>
+
+        صاروا عندنا كغيرهم من الرجال الأبعدين
+      </p>
+
+      <p n="Wife Says Husband Is All To Her">
+        وأمّا الزوج فهو كالأب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

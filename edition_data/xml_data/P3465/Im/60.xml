@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="60"/>
+
+      <p n="The Fortunate Few Are Not the Model">
+        والجمهور منهم من أتعب نفسه في الكدّ والسعي فيما يصلح أمره وينال
+        <lb/>
+
+        به ما أراد
+      </p>
+
+      <p n="One Should Strive for Benefit Not Harm">
+        وينبغي أن يكون حرصه على ما طاب كسبه وحسن نفعه ولا يعرض
+        <lb/>
+
+        لما يجلب عليه العناء والشقاء
+      </p>
+
+      <p n="Dove Does Not Learn from Losing Her Chicks">
+        فيكون كالحمامة التي تفرّخ الفراخ فتؤخذ
+        <lb/>
+
+        فتُذبح ثمّ لا يمنعها ذلك أن تعود فتفرّخ موضعها وتقيم بمكانها فتؤخذ
+        <lb/>
+
+        الثانية من فراخها فتُذبح
+      </p>
+
+      <p n="One Should Abide by God's Measures">
+        وقد يقال إن اللّه تعالى قد جعل لكلّ شيء
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="72"/>
+
+      <p n="Dimna Denies Fear of Death">
+        الموت وإن كان كريهًا ولا منجى منه ولا محيص عنه وكلّ حيٍّ هالكٌ
+      </p>
+
+      <p n="Dimna Would Die for Lion">
+        ولو كانت لي مائة نفسٍ
+        <lb/>
+
+        أعلم أنّ هوى الملك في إتلافهنّ جدتُ بهنّ
+      </p>
+
+      <p n="First Speaker Accuses Dimna of Self-Interest">
+        فقال بعض الجند لم تنطق بهذا يا دمنة
+        <lb/>
+
+        لحبّ الملك ولا لكرامته عليك ولكن لخاصّة نفسك والتماس العذر لها ممّا وقعت فيه
+      </p>
+
+      <p n="Dimna Claims Right to Self-Defense">
+        فقال
+        <lb/>
+
+        دمنة ويلك وهل أمري في التماس ذلك وطلبه عيبٌ وهل أحدٌ أقرب إلى الإنسان من
+        <lb/>
+
+        نفسه فإذا هو لم يبتغِ لها العذر ولم يلتمسه
+      </p>
+
+      <p n="Dimna Calls First Speaker Self-Hating">
+        لقد ظهر منك ما لم تملكه من الحسد والبغضاء
+        <lb/>
+
+        وعرف من سمع قولك أنّك لا ترى جدًّا وأنّك عدوّ نفسك فمن دونها ومثلك لا يصلح أن
+        <lb/>
+
+        يكون إلّا مع البهائم الذين لا يفقهون شيئًا فدعْ صحبتك مع الملوك وحضور بابه فإنّه لا
+        <lb/>
+
+        يليق بمثلك لأنّ السخيف <> العاقل يضع عنه جرم العقل <>
+      </p>
+
+      <p n="First Speaker Leaves Dejected/Is Silenced">
+        فلمّا أجابه دمنة بذلك
+        <lb/>
+
+        خرج مكتئبًا حزينًا
+      </p>
+
+      <p n="The Mother Is Amazed by Dimna's Verbosity">
+        فقالت أمّ الأسد إنّ من العجب انطلاق لسانك يا دمنة بالقول
+        <lb/>
+
+        مجيبًا لمن تكلّم وقد كان منك الذي قد كان
+      </p>
+
+      <p n="Dimna Calls the Mother Biased">
+        فقال دمنة لم تنظرين إليّ بعينٍ واحدةٍ
+        <lb/>
+
+        ولذلك شقي جدّي مع أنّي أرى كلّ شيءٍ تغيّر وتنكّر فليس ينطق أحدٌ بحقٍّ ولا يتكلّم إلّا
+        <lb/>
+
+        بالهوى
+      </p>
+
+      <p n="Dimna Finds Lion's Lenience Makes Courtiers Lie">
+        وكلّ من أرى بباب الملك لبعثهم بلينه وطمأنينتهم إلى كرمه وجوده لا ينطقون
+        <lb/>
+
+        بما يوافق الحقّ ولا يتكلّمون بشيءٍ من الصدق وقد عدلوا عن الصواب ومالوا إلى قبيح الخطاب
+        <lb/>
+
+        فالملك لا ينتهرهم ولا يعيّر عليهم فيه فهم يتكلّمون بالخطأ ويميلون مع الهوى
+      </p>
+
+      <p n="The Mother Chastises Dimna's Duplicity">
+        فقالت أمّ
+        <lb/>
+
+        الأسد انظروا إلى هذا الغادر الفاجر الذي يولب الذنب العظيم ويحمل الوزر الجسيم ثمّ يأخذ
+        <lb/>
+
+        بأعين الناس ويطلب لإبطال حججهم التماس ويدخل عليهم في أمره الالتباس ليدفع جرمه عنه
+        <lb/>
+
+        ويبرّئ نفسه منه
+      </p>
+
+      <p n="Dimna Enumerates 5 Duplicitous Types">
+        فقال دمنة إنّ صاحب من ذكرت يذيع السرّ ولا يدفنه ويفشيه ويعلنه
+        <lb/>
+
+        والرجل الذي يلبس لباس المرأة والمرأة التي تلبس لباس الرجل والضيف الذي يزعم أنّه
+        <lb/>
+
+        ربّ البيت ومن نطق في المجمع عند الملك بما لا يسأل عنه
+      </p>
+
+      <p n="The Mother Demands Dimna's Silence and Confession">
+        فقالت أمّ الأسد أما تعرف يا دمنة
+        <lb/>
+
+        سوء عملك فتحذره وتبصر عورة قولك فتتّقيها
+      </p>
+
+      <p n="Dimna Defines the Ill-Wishing Person">
+        فقال دمنة إنّ الذي يرتكب المنكر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

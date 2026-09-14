@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="8"/>
+
+      <p n="Burglar Steals and Gets Away">
+        النعاس وزمّله النوم فنام ووافق ذلك فراغ السارق فعمد إلى جميع ما كان قد جمّعه
+        <lb/>
+
+        فاحتمله وانطلق به
+      </p>
+
+      <p n="Man Discovers Mishap and Laments">
+        واستيقظ الرجل بعد ذهاب السارق فلمّا لم ير في منزله شيئًا جعل
+        <lb/>
+
+        يلوم نفسه ويعاتبها ويعضّ كفّيه أسفًا على فعله وعرف أنّ فطنته وعقله لم ينفعاه
+        <lb/>
+
+        شيئًا إذ لم يستعمل علمه
+      </p>
+
+      <p n="Knowledge Is Complete with Proper Implementation">
+        والعلم لا يتمّ إلاّ بالعقل
+      </p>
+
+      <p n="Knowledge Is a Tree and Action Is the Fruit">
+        وهو الشجرة والعمل هو الثمرة
+      </p>
+
+      <p n="Scholar Must Act">
+        وإنّما يطلبه <>
+      </p>
+
+      <p n="Man Hears about Traveller">
+        وربّ رجل لو قيل له
+      </p>
+
+      <p n="Informed Traveller Takes Risky Road">
+        إنّ رجلًا كان عارفًا بطريق مخوف ثمّ ركبه فاصابه فيه مكروه
+        <lb/>
+
+        وأذى لتعجّب من جهله وفعله ولعلّه أن يكون يركب من الأمور ما يعرف به القبح والدناءة
+        <lb/>
+
+        وسوء العاقبة وهو بذلك أشدّ اشتياقًا من ذلك الرجل الذي ركب الهول بجهله
+      </p>
+
+      <p n="Desire Impedes Judgement">
+        فحمله على
+        <lb/>
+
+        ذلك هواه ومعرفته
+      </p>
+
+      <p n="Informed Patient Eats Bad Food">
+        كالمريض العالم الذي يعلم ثقيل الطعام من خفيفه ثمّ تحمله الشهوة والشره
+        <lb/>
+
+        على أكل الثقيل منه
+      </p>
+
+      <p n="Those in the Know Have No Excuse">
+        فأقلّ الناس عذرًا في ارتكاب قبيح من قد عرفه وأقلّهم عذرًا في ترك
+        <lb/>
+
+        الأعمال الحسنة من قد عرف فضلها وحسن عائدتها وما فيها من المنفعة وليس يقدر
+        <lb/>
+
+        أحد على الخطأ
+      </p>
+
+      <p n="A Sighted and a Blind Fall into a Ditch">
+        كما أنّه لو أنّ رجلين أحدهما بصير والآخر ضرير وقعا في بئر فهلكا
+        <lb/>
+
+        جميعًا ولم ينج الضرير من الهلكة لأنّه وقع في بئر ولم يبصرها وكلاهما في البئر بمنزلة
+        <lb/>
+
+        واحدة وكلاهما في الهلكة سواء
+      </p>
+
+      <p n="The Sighted Man Has No Excuse">
+        غير أنّ البصير عند العقلاء وأهل الحجى أقلّ عذرًا
+      </p>
+
+      <p n="Scholar Must Discipline Himself">
+        ومن
+        <lb/>
+
+        كان إنّما يطلب العلم ليعلّمه غيره وليعرّفه
+      </p>
+
+      <p n="Water-Spring Benefits Only Others">
+        فإنّما هو بمنزلة العين التي ينتفع بها الإنسان
+        <lb/>
+
+        بمائها وليس لها من تلك المنفعة شيء
+      </p>
+
+      <p n="Instructing Oneself Comes First">
+        فقد ينبغي لمن طلب العلم أن يبدأ بعظة نفسه ثمّ عليه
+        <lb/>
+
+        بعد ذلك أن يقبسه غيره
+      </p>
+
+      <p n="Three Things Are Needed for Worldly Life">
+        فإنّ خلالًا ثلاثة ينبغي لصاحب
+        <lb/>
+
+        الدنيا أن يقتبسها ويقبسها منها العلم ومنها اتّخاذ المعروف
+        <lb/>
+
+        والمجاملة
+      </p>
+
+      <p n="Things Should Not Pursued without Premeditation">
+        وقد قيل إنّه لا ينبغي لطالب العلم أن يطلب أمرًا
+        <lb/>
+
+        إلّا من بعد معرفته بفضله وأنّه يُعدّ جاهلا من طلب أمرًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="88"/>
+
+      <p n="The Wife Summons Her Lover">
+        وتأمره بالحضور عندها وتعلمه أنّ الإسكاف قد غاب عنها لسهرة له
+      </p>
+
+      <p n="The Lover Waits">
+        فأقبل خليلها عند العشاء فقعد ينتظر امرأة الإسكاف
+      </p>
+
+      <p n="The Shoemaker's Suspicion">
+        ثمّ إنّ الإسكاف
+        <lb/>
+
+        انصرف من دعوته إلى بيته وهو نشوان فلمّا رأى خليل امرأته
+        <lb/>
+
+        على الباب ارتاب منه
+      </p>
+
+      <p n="The Wife is Beaten and Tied Up">
+        ودخل البيت وأخذ امرأته فأوجعها ضربًا
+        <lb/>
+
+        ثمّ شدّها إلى سارية في البيت
+      </p>
+
+      <p n="The Go-Between's Inquiry">
+        فلمّا هدأت العيون ونام الإسكاف
+        <lb/>
+
+        جاءت امرأة الحجّام إليها وقالت لها قد أطال الرجل الجلوس فماذا تأمرين
+      </p>
+
+      <p n="The Wives Swap Places">
+        قالت امرأة الإسكاف إن شئت أحسنت حلّيني ثمّ ربّطيني نفسك
+        <lb/>
+
+        مكاني ساعة حتّى أنطلق إلى خليلي ثمّ أسرع وأجيء إليك
+      </p>
+
+      <p n="The Swap is Made">
+        قالت
+        <lb/>
+
+        امرأة الحجّام إنّي فاعلة ذلك وحلّتها وصارت هي في الوثاق مكانها
+      </p>
+
+      <p n="The Shoemaker Wakes">
+        واستيقظ زوجها الإسكاف قبل أن ترجع زوجته فناداها
+        <lb/>
+
+        باسمها فلم تجبه امرأة الحجّام خوفًا من أن يعرف صوتها فدعاها مرّات
+        <lb/>
+
+        فلم تجبه فازداد غيظًا وحنقًا
+      </p>
+
+      <p n="The Barber's Wife is Mutilated">
+        وقام إليها بشفرة فقطع أنفها
+        <lb/>
+
+        وقال خذي هذا وأتحفي به خليلك
+      </p>
+
+      <p n="The Wives Swap Back">
+        فلمّا جاءت امرأة الإسكاف
+        <lb/>
+
+        ورأت صاحبتها مجدوعة وزوجها نائم حلّتها من وثاقها وأوثقت
+        <lb/>
+
+        نفسها مكانها
+      </p>
+
+      <p n="The Mutilated Go-Between Flees">
+        وأخذت امرأة الحجّام أنفها في كفّها وانطلقت إلى بيتها
+        <lb/>
+
+        وكلّ ذلك والناسك ينظر
+      </p>
+
+      <p n="The Wife's Feigned Prayer">
+        ثمّ إنّ امرأة الإسكاف رفعت رأسها
+        <lb/>
+
+        تدعو ربّها وهي تبكي بأعلى صوتها وتبتهل وتدعو على زوجها
+      </p>
+
+      <p n="A Prayer for a Miraculous Restoration">
+        وتقول
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

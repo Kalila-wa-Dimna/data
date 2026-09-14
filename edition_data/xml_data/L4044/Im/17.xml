@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="17"/>
+
+      <p n="Those in the Know Have No Excuse">
+        الحسنة من قد عرف فضلها وما فيها من المنفعة وليس يُعذر أحد بالخطأ
+      </p>
+
+      <p n="A Sighted and a Blind Fall into a Ditch">
+        كما أنّه لو أنّ رجلين أحدهما بصير والآخر أعمى وقعا في بئر فهلكا
+        <lb/>
+
+        جميعًا ولم ينجو البصير من الهلكة أنّه وقع في البئر وهو مبصر بها فكلاهما
+        <lb/>
+
+        بمنزلة واحدة في الهلكة
+      </p>
+
+      <p n="The Sighted Man Has No Excuse">
+        غير أنّ الأعمى عند العقلاء أقلّ عذرًا
+      </p>
+
+      <p n="Scholar Must Discipline Himself">
+        فمن كان
+        <lb/>
+
+        يطلب العلم ليعلّمه غيره وليعرّف به
+      </p>
+
+      <p n="Water-Spring Benefits Only Others">
+        فإنّما هو مثل عين الماء التي ينتفع
+        <lb/>
+
+        الناس بمائها وليس لها من تلك المنفعة شيء
+      </p>
+
+      <p n="Instructing Oneself Comes First">
+        فقد ينبغي لمن يطلب العلم أن
+        <lb/>
+
+        يبدأ فيعظ به نفسه ثم عليه بعد ذلك أن يقبسه غيره
+      </p>
+
+      <p n="Three Things Are Needed for Worldly Life">
+        فإن ثلاثًا ينبغي
+        <lb/>
+
+        لصاحب الدنيا أن يقتبسها ويقبسها منها العلم ومنها المال ومنها اتّخاذ
+        <lb/>
+
+        المعروف
+      </p>
+
+      <p n="Things Should Not Pursued without Premeditation">
+        وقد قيل إنّه لا ينبغي لطالب الأمر أن يطلب الأمر إلّا بعد معرفته
+        <lb/>
+
+        بفضله فإنّه يعدّ جاهلًا من طلب أمرًا أعنا نفسه فيه وليس له منه منفعة
+      </p>
+
+      <p n="Some Readers Err in This">
+        وقد ترى أنّ بعض من يقرأ هذا الكتاب ممّن يفعل ذلك فاحذر أن تكون
+        <lb/>
+
+        منهم
+      </p>
+
+      <p n="Reader Is Like a Blind Blaming another Blind">
+        فإذا أنت كالأعمى الذي عيّر الأعور بعوره
+      </p>
+
+      <p n="No Benefit Should Be Obtained by Harming Others">
+        وينبغي لمن له
+        <lb/>
+
+        عقل ألّا يطلب أمرًا فيه على صاحبه مضرّة يطلب بذلك صلاح نفسه
+        <lb/>
+
+        نفسه فإنّ الغادر مأخوذ
+      </p>
+
+      <p n="A Merchant Steals from His Partner">
+        ومن فعل ذلك كان خليقًا أن يصيبه ما أصاب
+        <lb/>
+
+        الرجل التاجر وشريكه الذي نذكره حديث الرجل وصاحبه صاحبي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

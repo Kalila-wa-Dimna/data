@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="226"/>
+
+      <p n="unassigned">
+        فلمّا رجعت المرأة إلى بيتها رأت ابن عرس مقتولًا والأسود مقطّعًا قالت
+        <lb/>
+
+        له ما هذا فأخبرها الأمر فقالت هذه ثمرة العجلة وعاقبة من
+        <lb/>
+
+        لم يتأنّ وندم حيث لا ينفعه الندم ثمّ قال الفيلسوف
+        <lb/>
+
+        للملك أنّ أهل العقل ويحسن النظر حقًا بالمودّة والتأنّي وترك العجلة
+        <lb/>
+
+        وموافقة الأشياء بما في ذلك من النفع والدفع ولما في خلافه من الصرف والنقض
+        <lb/>
+
+        فليعرف اللبيب ذلك وليأخذ نصيبه من العمل بالتوفيق والاقتصاد
+        <lb/>
+
+        عن أمر الحكماء والانتهاء إليه
+      </p>
+
+      <p n="Chapter Title">
+        باب بلار وابرخت
+      </p>
+
+      <p n="King Understood Previous Chapter">
+        قَال المَلك للفَيْلَسُوف قَد فَهمت مَا ذَكَرْت مِنْ أمْر العَجَلَة
+        <lb/>
+
+        غير التَأَنّي وَلَا النَاظِر في العَوَاقِب
+      </p>
+
+      <p n="King Asks How To Preserve Rule">
+        فَأخبرنِي مَا الذي إذا عَمل به الملك
+        <lb/>
+
+        كَرُم على رَعيَّتِه وَثبَّت مُلكَه وحفظ رضَاه الحِلم أم المُروءة
+        <lb/>
+
+        أم الجرأة أم الجُبن
+      </p>
+
+      <p n="Philosopher Prioritizes Ḥilm">
+        فَقَال الفَيْلَسُوف إنّ أوصل ما هو مُدرَك
+        <lb/>
+
+        به ذَلك الحلم والعقل لأنّهما رَأس الأمر وَملاكِه
+      </p>
+
+      <p n="Philosopher Adds Consultation">
+        مع مشاورة
+        <lb/>
+
+        الوزير اللَبيب الرفيق العالم وأنفع ما يستمتع به النَاس الحلم
+      </p>
+
+      <p n="Philosopher Adds Good Wife">
+        لأنَّه لا شيء
+        <lb/>
+
+        أعون منه ومن الصلَاح للمَرْء في مَعِيشَتِه المرأة الصالحَة الفاضلة الرأي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Aw</chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

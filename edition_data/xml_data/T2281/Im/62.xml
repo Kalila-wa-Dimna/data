@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T2281</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="62"/>
+
+      <p n="Using the Yellow Folio Proved His Ignorance">
+        فكان قراءته لها أقوى في الحجّة عليه عند ظنّه وزاده
+        <lb/>
+
+        ذلك هنة وانتقاصًا
+      </p>
+
+      <p n="Intelligent Readers Must Implement Knowledge">
+        فإنّ العاقل إذا فهم هذا الكتاب
+        <lb/>
+
+        وبلغ غايته يجب عليه أن يعمل به ويستعمل حكمته
+        <lb/>
+
+        ويستعمل حكمته وتدابيره لينتفع به ويعتبر
+        <lb/>
+
+        بأمثلته
+      </p>
+
+      <p n="One Should Always Seek More Knowledge">
+        فإنّه يُقال ينبغي للعاقل أن يستكثر من العلم
+      </p>
+
+      <p n="Culture Is the Spark of Life">
+        فإنّه يجلو العقل
+      </p>
+
+      <p n="Culture Advances One's Rank">
+        ويرفع صاحبه
+      </p>
+
+      <p n="Culture Shields from Danger">
+        ويخلّصه من الهلكات
+      </p>
+
+      <p n="Man Notices Burglar but Feigns Sleep">
+        ومن تعلّم العلم ولم ينفتع به مثله كمثل صاحب
+        <lb/>
+
+        السارق وهو أنّ رجلًا كان نائمًا في بيته فنزل
+        <lb/>
+
+        عليه لصّ من نواحي داره فشعر به فأفكر لما عنده من
+        <lb/>
+
+        العلم فقال والله لأصبرنّ على هذا السارق حتّى
+        <lb/>
+
+        أنظر ماذا يفعل فإذا بلغ مراده قمت إليه فجعل
+      </p>
+
+      <p n="Burglar Steals and Gets Away">
+        السارق يطوف بالبيت ويرفع متاعه ما استحلاه
+        <lb/>
+
+        وحسن في عينيه قيمته فغلب النوم على الرجل وقوي
+        <lb/>
+
+        عليه النعاس إلى أن فرغ اللصّ من جميع مراده واحتمله
+        <lb/>
+
+        على كتفه
+      </p>
+
+      <p n="Man Discovers Mishap and Laments">
+        فاستيقظ الرجل من نومه فوجد السارق قد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

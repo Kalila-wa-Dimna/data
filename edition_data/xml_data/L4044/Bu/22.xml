@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="22"/>
+
+      <p n="The Intelligent Should Believe in Fate">
+        ويعلم أن الجزاء كائن
+      </p>
+
+      <p n="Do unto Other as to Oneself">
+        وما آتى إلى صاحبه مثل ما لو أُتي عليه فشقّ عليه
+        <lb/>
+
+        فقد ظلم
+      </p>
+
+      <p n="Reader Must Heed the Instructions of the Preface">
+        فمن قرأ هذا الكتاب فليقتد بما فيه من هذا الباب وليبدأ
+        <lb/>
+
+        به
+      </p>
+
+      <p n="The Author Hopes That the Reader Would Benefit">
+        فإنّي أرجو أن يزيده بصرًا بما قرأ ومعرفة وإن عرفه اكتفى واستغنى
+        <lb/>
+
+        عن غيره وإن لم يعرفه لم ينتفع به
+      </p>
+
+      <p n="The Translator Added the Preface">
+        ولمّا رأينا أهل فارس قد نشروه
+        <lb/>
+
+        وأخرجوه من الهندية إلى الفارسية ألحقوا فيه باب برزويه الفارسي
+        <lb/>
+
+        المتطبّب فلم يذكروا فيه ما ذكرنا من هذا فرأينا إذا فسّرناه وأخرجناه
+        <lb/>
+
+        من الفارسية إلى العربّية أن نلحق فيه بابًا من العربيّة يكون له أساس
+        <lb/>
+
+        فيه أمر هذا الكتاب لمن أراد قراءته واقتباس العلم منه
+      </p>
+
+      <p n="unassigned">
+        باب
+        <lb/>
+
+        برزويه المتطبّب قال برزويه رئيس فارس وهو الذي
+        <lb/>
+
+        تولّى انتساخ هذا الكتاب وترجمته من بلاد الهند أن أبي كان من المقاتلة
+        <lb/>
+
+        وكانت أمّي من بنات الزمازمة وكان من عظم كرامتي على ربّي أنّي كنت
+        <lb/>
+
+        أكرم ولد أبويّ عليهما فأرسلاني إلى تعلّم الطبّ حتّى بلغت سبع سنين
+        <lb/>
+
+        فلمّا بلغت إلى عشر سنين وعرفت الطبّ وفضله شكرت لأبواي جزائهما
+        <lb/>
+
+        كان في ذلك ورغبت في تعلّمه وحرصت عليه إذا اشتدت ما
+        <lb/>
+
+        وثقت به واتميت نفسي على مداومة المرضى وهممت بذلك أمرت نفسي وأخيرتها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="39"/>
+
+      <p n="Two Places for Elephant’s Splendor">
+        وأمّا مركبًا للملوك
+      </p>
+
+      <p n="Kalila's Blessing for Dimna's Decision">
+        قال كليلة خار الله لك فيما عزمت عليه
+      </p>
+
+      <p n="Kalila's Disagreement with Dimna's Plan">
+        وأمّا أنا فإنّي مخالف
+        <lb/>
+
+        لك في رأيك هذا
+      </p>
+
+      <p n="Dimna Approaching the Lion">
+        ثمّ إنّ دمنة انطلق حتّى سلّم على الأسد
+      </p>
+
+      <p n="Lion Inquiring About Dimna's Identity">
+        فقال الأسد لمن عنده
+        <lb/>
+
+        من هذا
+      </p>
+
+      <p n="Identification of Dimna">
+        قالوا هذا فلان بن فلان
+      </p>
+
+      <p n="Lion Recognizing Dimna's Father">
+        فقال الأسد قد كنت أعرف أباه
+      </p>
+
+      <p n="Lion Questioning Dimna's Whereabouts">
+        فأدناه الأسد
+        <lb/>
+
+        فقال أين كنت تكون
+      </p>
+
+      <p n="Dimna's Response about His Loyalty">
+        قال دمنة لم أزلْ مرابطًا لباب الملوك رجاء أن يحضر
+        <lb/>
+
+        أمر فأعين الملك فيه
+      </p>
+
+      <p n="Dimna on the Value of Overlooked Individuals">
+        فإنّه قد تكون الأمور التي ربّما احتيج فيها إلى رأي من لا
+        <lb/>
+
+        يؤبه له وإنّه لا يخلو أحد وإن كان صغير القدر والمنزلة أن يكون عنده منفعة
+        <lb/>
+
+        وإن صغرت
+      </p>
+
+      <p n="Analogy of Useful Discarded Objects">
+        فالعود المنبوت في الأرض ربّما انتفع بحكّة أذنه فيحكّها به
+      </p>
+
+      <p n="Comparison to Knowledgeable Beings">
+        فالحيوان
+        <lb/>
+
+        العالم بالضرّ والنفع أحرى أن ينتفع به
+      </p>
+
+      <p n="Lion's Positive Impression of Dimna">
+        فلما سمع الأسد كلام دمنة أعجبه وظنّ أن عنده
+        <lb/>
+
+        فصيحة ورأيًا
+      </p>
+
+      <p n="A Noble Man May Be Obscure">
+        فأقبل على قرائبه فقال لهم إنّ الرجل ذو المروءة والعالم ليكون حامل
+        <lb/>
+
+        المنزلة غامض الأمر حتّى يتكلّم ثمّ يأتي مروءته إلى أن يتبيّن ويُعرف
+      </p>
+
+      <p n="Analogy of a Flame's Inevitable Rise">
+        كالشعلة من النار
+        <lb/>
+
+        التي يصونها صاحبها وتأبى إلّا ارتفاعًا
+      </p>
+
+      <p n="Dimna Seizing the Opportunity to Impress">
+        فلمّا سمع دمنة أنّ الأسد قد أعجب به قال
+        <lb/>
+
+        أيّها الملك إنّ رغبة الملك ومن يحضره حذرًا أن يرفعوا إلى الملك ما عندهم ولا ينزلهم
+        <lb/>
+
+        منازلهم إلّا بذلك
+      </p>
+
+      <p n="Analogy of Hidden Crop's True Value">
+        كالزرع المدفون في الأرض من الحنطة والشعير وسائر الحبوب الأنواع
+        <lb/>
+
+        لا يدر من احتباسها حتّى تكون هي التي تخرج وتظهر
+      </p>
+
+      <p n="Ruler's Responsibility to Recognize Merit">
+        وحقّ على السلطان أن يبلغ بكلّ امرء
+        <lb/>
+
+        مرتبته على قدر نصيحته ورأيه وما يجد عنده من المنفعة والأدب
+      </p>
+
+      <p n="Leaders Must Place Things Properly">
+        فإنّه يقال في
+        <lb/>
+
+        أمرين لا ينبغي لأحد وإن كان ملكًا أن يضع واحدًا منها غير موضعه ولا يزيله عن
+        <lb/>
+
+        مرتبته منها حلية الرجلين وحلية الرأس
+      </p>
+
+      <p n="Analogy of Misplaced Ornaments">
+        وأن يُعدّ جاهلًا من عقد على رأسه حلية
+        <lb/>
+
+        الرجلين أو حلا رجليه بحلية الرأس
+      </p>
+
+      <p n="Analogy of Comparing Precious Stones to Lead">
+        ومن ضبّب الياقوت واللؤلؤ بالرصاص فليس
+        <lb/>
+
+        ذلك ممّا يصغر بالؤلؤ والياقوت ولكنّها تعدّ جهالة ممّن فعل ذلك
+      </p>
+
+      <p n="Advice against Associating with the Ignorant">
+        ولذلك
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

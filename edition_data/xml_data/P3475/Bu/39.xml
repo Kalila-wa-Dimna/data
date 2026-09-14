@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="39"/>
+
+      <p n="The Idol That Falls Apart">
+        المفصّل أعضاؤه ثمّ إذا رُكّبت تلك الأعضاء ووُضعت مواضعها
+        <lb/>
+
+        جمعها مسمار واحد يمسك بعضها على بعض فإذا أُخذ
+        <lb/>
+
+        المسمار تساقطت الأوصال
+      </p>
+
+      <p n="Addressing the Soul: The Friend Passes Away">
+        يا نفسي لا تغترّي بصحبة
+        <lb/>
+
+        أحبابك وأخلّائك ولا تحرصي على ذلك كلّ الحرص فإنّ
+        <lb/>
+
+        صحبتهم على ما فيها كثيرة الشرور والأذى والمؤنات
+        <lb/>
+
+        والأحزان ثمّ يُختم بعد ذلك بعاقبة الفراق
+      </p>
+
+      <p n="A Ladle Eventually Breaks">
+        مثل
+        <lb/>
+
+        المغرفة التي تُستعمل في سخونة المرق في جدّتها
+        <lb/>
+
+        وصحّتها فإذا انكسرت صارت عاقبة أمرها إلى أن
+        <lb/>
+
+        تُحرق بالنّار
+      </p>
+
+      <p n="Addressing the Soul: The Family Passes Away">
+        يا نفس لا تحملنّك أهلك وأقاربك على
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

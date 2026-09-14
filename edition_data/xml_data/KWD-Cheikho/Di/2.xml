@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>KWD-Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="2"/>
+
+      <p n="The Leopard Confides in the Lion's Mother">
+        قد أقبل على دمنة بمذله وقبّح له رأيه وفعله ويمظم له جرمه ويوبّخه
+        <lb/>
+
+        بندره وكان فيما اثبته به ان قال: ان الذي هيّجت بين الاسد والثور
+        <lb/>
+
+        من العداوة بعد المودّة والفرقة بعد الألفة والشحناء بعد السلامة بسخافة
+        <lb/>
+
+        عقلك وقلّة وفائك لُظهرُ امرك ومُطلع طلبه ولازمُك من بنته
+        <lb/>
+
+        بنيه ما تُستويل عاقبته وتُنتمرُ مذاقتُه فان الندر وان لان عاجله
+        <lb/>
+
+        واستُخلّيت فروعه مُرّ العاقبة بيد المهواة وخم المزلقة وافي باجتبالك وزاك
+        <lb/>
+
+        مقارتـك والاقتداء بك لحقيق قلست أمن على نفسي من ممرّتك
+        <lb/>
+
+        وشرهك
+      </p>
+
+      <p n="Kalila Accuses Dimna of Causing the Ox's Killing">
+        وغدرك . وقد قالت الملاء : اجتنب اهل الريبة لئلا تكون
+        <lb/>
+
+        مريًا
+      </p>
+
+      <p n="Dimna Admits His Guilt">
+        . فاني تارك مقارنتك ومتباعدٌ منـك ومنترب عنك لسوء اخلاقك
+        <lb/>
+
+        التي بهـا انثبت العداوة بين الملك ووزيره الناصح المـأمون ظلم
+        <lb/>
+
+        بتشبيهك وتمويهك بالباطل حتى حملته على القسوة واورطّه الورطة فقتله
+        <lb/>
+
+        مظلومًا بريًّا
+        <lb/>
+
+        قال
+      </p>
+
+      <p n="The Mother Goes to the Lion and Finds Him Sad">
+        دمنة: قد وقم من الامر ما لا مردّ له فدع تضييق الامور علي
+        <lb/>
+
+        وعلى نفسك واعمل في التنييب عن موقع الامر كذا في نفس الاسد
+        <lb/>
+
+        فقد كرهتُ ما معنى مني . والحمد والحرص حملاني على ما صنمت
+        <lb/>
+
+        فلمّا
+      </p>
+
+      <p n="The Mother Praises the Lion's Wisdom and Knowledge">
+        سمع النمر ذلك من كلامها انصرف خفيًّا مسرعًا حتى دخـل
+        <lb/>
+
+        على ام الاسد فاخذ عليها عهدًا الا تفشي سرّه الى الاسد ولا الى غيره .
+        <lb/>
+
+        فجملتُ
+      </p>
+
+      <p n="The Mother Says Grief is Weakening">
+        ذلك له فاخبرها بالقصّة على وجهها من قول كليلة واقرار دمنة
+        <lb/>
+
+        فلما
+      </p>
+
+      <p n="The Mother Asks About the Lion's Feelings Toward the Ox">
+        اصبحتُ امُّ الاسد اقبلت حتى دخلت على الاسد فوجدته مكتئبًا
+        <lb/>
+
+        حزينًا
+      </p>
+
+      <p n="Love and Hate Are Reciprocal">
+        قالت: انّ حزنك غير رادٍّ عليك مُذيبًا ولا سائق اليك نفعًا وانت
+        <lb/>
+
+        غنيٌّ
+      </p>
+
+      <p n="Grieve Is Justified if the Lion Remembers the Ox Fondly">
+        عن ان تجمله للبلاء عوّمًا عليك تضعف به فؤادك وتهك به جسمك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

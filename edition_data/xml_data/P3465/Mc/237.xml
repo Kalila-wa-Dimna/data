@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="237"/>
+
+      <p n="Foes Surround the Rat">
+        تقدّم أمامه افترسه السنّور
+      </p>
+
+      <p n="The Rat Weighs His Predicament">
+        فقال في نفسه هذا بلاء قد اكتنفني وشرور
+        <lb/>
+
+        تظاهرت عليّ ومحن قد أحاطت بي وبعد فمعي عقلي فلا يفزعني أمري ولا
+        <lb/>
+
+        يهولنّني شأني ولا يلحقني الدهش ولا يذهب قلبي شعاعًا
+      </p>
+
+      <p n="The Intelligent Always Keeps Alert">
+        فالعاقل لا يفرق
+        <lb/>
+
+        عنه رأيه ولا يغرب عنه ذهنه على حال
+      </p>
+
+      <p n="Intelligence Is Like the Sea">
+        وإنّما العقل شبيه بالبحر الذي لا
+        <lb/>
+
+        يُدرك غوره
+      </p>
+
+      <p n="Situations Do Not Blind the Intelligent">
+        ولا يبقى ذو الرأي مجهودًا ولا ينبغي للرجل أن يبلغ به رأيه مبلغًا يعمي
+        <lb/>
+
+        عليه أمره
+      </p>
+
+      <p n="The Rat Decides on a Pact with the Cat">
+        ولست أرى لي من هذا البلاء مخرجًا إلّا مصالحة السنّور فإنّه
+        <lb/>
+
+        قد نزل به من البلاء مثل ما قد نزل بي أو بعضه ولعلّه إن سمع كلامي الذي أكلّمه
+        <lb/>
+
+        به ووعي عنّي فصيح خطابي ومحض صدقي الذي لا خلاف فيه ولا خداع
+        <lb/>
+
+        معه فهمه وطمع في معونتي إيّاه فنتخلّص جميعًا
+      </p>
+
+      <p n="The Rat Comes Up to the Cat">
+        ثمّ أنّ الجرذ دنا من السنّور
+        <lb/>
+
+        فقال له كيف حالك
+      </p>
+
+      <p n="The Cat Acknowledges Being Trapped">
+        قال كما تحبّ في ضنك وضيق
+      </p>
+
+      <p n="The Rat Points Out Their Common Problem">
+        قال وأنا اليوم شريكك
+        <lb/>
+
+        في البلاء ولست أرجو لنفسي خلاصًا إلّا بالذي أرجو لك من الخلاص
+        <lb/>
+
+        وكلامي هذا ليس فيه كذب ولا خديعة
+      </p>
+
+      <p n="The Rat Proves His Sincerity">
+        وابن عرس ها هو كامن لي
+        <lb/>
+
+        والبوم يرصدني وكلاهما لي ولك عدوّ فإن أنت جعلت لي الأمان قطعت
+        <lb/>
+
+        حبائلك وخلّصتك من هذه الورطة فإذا كان ذلك تخلّص كلّ واحد
+        <lb/>
+
+        منّا بسبب صاحبه
+      </p>
+
+      <p n="Sailors Depend on Ships and Vice Versa">
+        كالسفينة والركّاب في البحر فبالسفينة ينجون وبهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="83"/>
+
+      <p n="The Crab Approaches the Heron">
+        فجلس حزينًا فرآه سلطان من بعيد فلمّا عاين حاله وحزنه
+        <lb/>
+
+        دنا منه
+      </p>
+
+      <p n="The Crab's Inquiry">
+        فقال له ما لي أراك حزينًا كئيبًا
+      </p>
+
+      <p n="The Heron Explains His Sadness">
+        قال العلجوم
+        <lb/>
+
+        وكيف لا أحزن وإنّما كنت أعيش من صيد ما كان ها هنا من
+        <lb/>
+
+        السمك وكان ينعشني ذلك ولا ينقص السمك
+      </p>
+
+      <p n="The Heron's Tale of Fishermen">
+        وإنّي رأيت
+        <lb/>
+
+        اليوم نفرًا من الصيّادين انتهوا إلى ها هنا
+        <lb/>
+
+        فقال أحدهما لأصحابه ها هنا سمك كثير أفلا نصيده فقال
+        <lb/>
+
+        آخرًا منهم إنّي رأيت سمكًا كثيرًا في غدير ماء فأنا أحبّ أن
+        <lb/>
+
+        نبدأ بذلك أوّلًا فإذا فزعنا منه أتينا إلى ها هنا فلا ندع
+        <lb/>
+
+        شيئًا
+      </p>
+
+      <p n="The Feared Consequence">
+        وقد علمت أنّه متى رجعوا إلى ها هنا لم يدعوا
+        <lb/>
+
+        فيه سمكة واحدة إلّا اصطادوها فإذا فعلوا ذلك فهو
+        <lb/>
+
+        تلافي وموتي وبواري
+      </p>
+
+      <p n="The Crab Warns the Fish">
+        قال فانطلق السرطان إلى جماعة
+        <lb/>
+
+        السمك فأخبرهم بذلك
+      </p>
+
+      <p n="The Fish Seek Counsel">
+        فحزن إلى ذلك وأقبلن إلى العلجوم
+        <lb/>
+
+        يستشرنه في ذلك
+      </p>
+
+      <p n="A Plea for Advice">
+        وقلن له إنّما أتيناك لتشير علينا فإنّ
+        <lb/>
+
+        فإنّ العقل لا يدع مشاورة عدوّه إذا كان ذا رأي يشركه
+        <lb/>
+
+        في ضرّه ونفعه وأنت ذو رأي ولك في بقائنا
+        <lb/>
+
+        صلاح فشرْ علينا برأيك
+      </p>
+
+      <p n="The Heron's Deceptive Offer">
+        قال العلجوم أمّا دفع الصيّادين
+        <lb/>
+
+        فلا طاقة لي به ولا المصير إلّا إلى غدير فيه ماء حلو وقصب
+        <lb/>
+
+        فإن قدرتنّ على الانتقال معي إلى ذلك الغدير لكان
+        <lb/>
+
+        في ذلك صلاحكنّ وخصبكنّ وحسن أحوالكنّ
+      </p>
+
+      <p n="The Fish Ask for Help">
+        فقلن له ومن
+        <lb/>
+
+        يمنّ علينا بذلك إلّا انت
+      </p>
+
+      <p n="The Heron's Promise">
+        فقرّر معهنّ أن أحمل في كلّ يوم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

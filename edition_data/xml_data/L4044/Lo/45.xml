@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="45"/>
+
+      <p n="Lion's Hunting Behavior Analogy">
+        الذي يفترس الأرنب فإذا رأى العير ترك الأرنب وطلب العير
+      </p>
+
+      <p n="Contrast Between Dog and Elephant Behavior">
+        ألا ترى
+        <lb/>
+
+        أنّ الكلب يبصبص بذنبه حتّى يُلقى له الكسرة فيقنع بها وأنّ
+        <lb/>
+
+        الفيل المغتلم لمعرفته بقوّته وفضله إذا قُدّم له علفه مكرّمًا لا
+        <lb/>
+
+        يأكله حتى يُمسح ويُتملّق له
+      </p>
+
+      <p n="Life Perspectives on Success and Failure">
+        فمن عاش ما عاش غير خامل المنزلة ذي
+        <lb/>
+
+        فضل على نفسه وأصحابه فهو وإن قلّ عمره طويل العمر ومن كان عيشه
+        <lb/>
+
+        في وحدة وضنك وقلّة خير على نفسه وعلى الناس فهو وإن طال
+        <lb/>
+
+        عمره قصير العمر
+      </p>
+
+      <p n="Definition of True Misery">
+        فإنّه يُقال إنّ أشرّ الناس من طال عمره في ضرّ وشدّة
+      </p>
+
+      <p n="Comparison to Animals">
+        وقد يُقال يُعدّ من البقر والغنم من لم يكن همّه إلّا بطنه
+      </p>
+
+      <p n="Kalila's Advice on Contentment">
+        قال
+        <lb/>
+
+        كليلة قد فهمت ما قلت فراجعْ عقلك وردّ في أمرك واعلمْ
+        <lb/>
+
+        أنّ لكلّ امرئ منزلة وقدرًا فإذا كان في منزلته متماسك في الحال
+        <lb/>
+
+        كان حقيقًا أن يقنع ويرضى وليس لنا من المنزلة ما نسخط به حالنا
+        <lb/>
+
+        التي نحن عليها
+      </p>
+
+      <p n="Dimna's View on Social Mobility">
+        قال دمنة إنّ المنازل متنازعة مشتركة فذو
+        <lb/>
+
+        المروءة ترفعه مروءته من المنزلة الوضيعة إلى المنزلة الرفيعة ومن
+        <lb/>
+
+        لا مروءة له فقد يحطّ نفسه من المنزلة الرفيعة إلى المنزلة الوضيعة
+        <lb/>
+
+        والارتفاع من أدنى المنازل إلى أعلاها عسير ذو مؤنة والانحطاط
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

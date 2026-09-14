@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="90"/>
+
+      <p n="Leopard Recalls the Lion’s Sorrow for Killing the Ox">
+        عليه
+      </p>
+
+      <p n="Leopard Calls for Testimony">
+        فمن كان عنده علم من أمره فليعلمه ويرفعه إليه
+      </p>
+
+      <p n="Due Process Will Be Followed">
+        فإنّه لا يقتل إلّا
+        <lb/>
+
+        بعد الفحص والتثبّت في أمره لا باللهو والمجانة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

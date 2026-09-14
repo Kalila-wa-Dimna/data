@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="106"/>
+
+      <p n="The Lion Seeks an Evaluation of His Action">
+        أعرف موقفي الذي أنا عليه فيما صنعت من الخطأ والصواب
+      </p>
+
+      <p n="The Lion Asks Whether His Mother Has Any News">
+        فأخبريني
+        <lb/>
+
+        هل سمعت شيئًا
+      </p>
+
+      <p n="The Mother Alludes to Her Secret Knowledge">
+        قالت أمّ الأسد بلغني أمر استُكتمته ولولا ما قالت
+        <lb/>
+
+        العلماء ممّا في إذاعة السرّ من العيب لذكرته لك
+      </p>
+
+      <p n="Scholars Say Various Things">
+        قال الأسد
+        <lb/>
+
+        إنّ لأقوال العلماء وجوهًا كثيرة ومعاني مختلفة وأحوالًا ينصرف
+        <lb/>
+
+        فيها لذوي العقول العمل ببعضها في حال والترك للعمل بها في حال
+      </p>
+
+      <p n="It is Immoral not to Report Crimes">
+        وقد قالت العلماء الكتمان على أهل الريبة والتغييب عنهم شعبة
+        <lb/>
+
+        من الريبة وسبيل من الإساءة
+      </p>
+
+      <p n="The Source Wants to Extricate Himself">
+        ولا أدري لعلّ الذي طرح إليك ذلك
+        <lb/>
+
+        إنّما أراد بذكره لك إخراج نفسه من الحجّة عليه فيه فانظري على
+        <lb/>
+
+        ما يلزمك من ذلك فقد برئ إليك وخلع بإعلامه إيّاك الأمر من عنقه
+        <lb/>
+
+        وقلّده في عنقك
+      </p>
+
+      <p n="The Lion Urges His Mother to Disburden Herself">
+        فاخلعيه أنت أيضًا من عنقك وبيّنيه لي لنعمل فيه
+        <lb/>
+
+        الذي ينبغي لنا أن نعمل في مثله
+      </p>
+
+      <p n="The Mother Has Two Reasons for Keeping the Secret">
+        قالت أمّ الأسد قد عرفت صواب
+        <lb/>
+
+        ما قلت ولكنّي أعرف ما يدخل عليّ في كشف السرّ وحمله إليك وإنّه
+        <lb/>
+
+        يجتمع عليّ في ذلك خطآن منهما مقت المسرّ إيّاي وإنزاله أمري على
+        <lb/>
+
+        الخيانة والسخف
+      </p>
+
+      <p n="Mother Is Afraid to Lose People's Trust">
+        ومنهما أنّ غيره لا يثق بي في سرّ بعدها
+      </p>
+
+      <p n="The Lion Wants to Extricate Himself from Error">
+        قال الأسد
+        <lb/>
+
+        إنّي لأعرف ما تقولين وما أحبّ أن أطلب المخرج من الخطأ بإدخالك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

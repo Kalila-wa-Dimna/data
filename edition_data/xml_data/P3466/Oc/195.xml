@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="195"/>
+
+      <p n="Input from the Five Wise Crows is Sought">
+        وكان الملك يشاورهنّ ويسند إليهنّ في الأمور
+      </p>
+
+      <p n="The Crow King Asks the First Crow">
+        فقال
+        <lb/>
+
+        لأحدهنّ ما رأيك في هذا الأمر
+      </p>
+
+      <p n="Escape Should Be the Recourse">
+        قال الرأي أنّه ليس للعدوّ الحَنِق
+        <lb/>
+
+        الذي لا يُطاق إلّا الهرب منه
+      </p>
+
+      <p n="The Crow Kings Asks the Second Crow">
+        قال الملك للثاني فما رأيك أنت
+      </p>
+
+      <p n="Escape Is No Recourse">
+        قال
+        <lb/>
+
+        أمّا ما أشار به هذا من الفرار
+      </p>
+
+      <p n="The Downsides of Escape Are Explained">
+        فما أرى أن نخلو عن أوطاننا ونذلّ
+        <lb/>
+
+        لعدوّنا عند أوّل نكبة لحقتنا
+      </p>
+
+      <p n="Recourse Should be Made to Planning and Preparing">
+        لكنّا نستعدّ لمجاهدة عدوّنا
+        <lb/>
+
+        ونذكي العيون ونحترس من الغرّة
+      </p>
+
+      <p n="The Crows Should Fight Back the Owls">
+        فإن لقينا العدوّ قاتلناه على أهبة
+      </p>
+
+      <p n="The Crow King Asks the Third Crow">
+        قال
+        <lb/>
+
+        الملك للثالث فما رأيك
+      </p>
+
+      <p n="Recourse Should be Made to Reconnaissance">
+        قال أرى أن نذكي العيون بيننا وبين
+        <lb/>
+
+        عدوّنا
+      </p>
+
+      <p n="The Information Shall Determine a Truce or Tribute">
+        وننظر هل يريد الصلح أو يقبل منّا الفدية
+      </p>
+
+      <p n="Truce for a Tribute Should Be Sought">
+        فإن رأينا من
+        <lb/>
+
+        ذلك أمرًا معضلًا لا طاقة لنا به لم نكرهْ أن نصالحهم على شيء
+        <lb/>
+
+        نؤدّيه إليهم ونأمن ونطمئنّ في وطننا
+      </p>
+
+      <p n="Peace Is Worth the Tribute">
+        فإنّ الرأي للملوك إذا
+        <lb/>
+
+        اشتدّت شوكة عدوّهم وخافوا فساد بلادهم أن
+        <lb/>
+
+        يجعلوا الأموال والأرزاق جنّة للمُلك والرعيّة
+      </p>
+
+      <p n="The Crow King Asks the Fourth Crow">
+        قال
+        <lb/>
+
+        الملك للرابع ما رأيك في هذا الصلح
+      </p>
+
+      <p n="Recourse Is in Abandoning Home">
+        قال لا أراه
+        <lb/>
+
+        رأيًا بل ترك أوطاننا والاصطبار على الغربة خير من الخضوع
+        <lb/>
+
+        للعدوّ الذي هو دوننا
+      </p>
+
+      <p n="The Owls Would Overdemand">
+        مع أنّني أعلم أنّنا لو عرضنا ذلك عليهم
+        <lb/>
+
+        لم يرضوا منّا إلّا بالشطط
+      </p>
+
+      <p n="Foes Should Be Kept at the Right Distance">
+        ويُقال قاربْ عدوّك بعض
+        <lb/>
+
+        المقاربة فتنال منه حاجتك ولا تقاربْه كلّ المقاربة فتذلّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

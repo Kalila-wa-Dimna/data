@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="210"/>
+
+      <p n="Demons Concerns">
+        فخشي الشيطان إن بدأ الرجل بالبقرة أن يستيقظ به فلا يقدر
+        <lb/>
+
+        على الناسك فقال *للصّ أنظرْني أخبل الرجل وشأنك
+        <lb/>
+
+        والبقرة فأبى كلّ واحد منهما على صاحبه
+      </p>
+
+      <p n="Thief And Demon Shout">
+        واختلفا فنادى
+        <lb/>
+
+        اللصّ الناسك استيقظْ فإنّ ها هنا شيطان يريد أن يخبلك
+        <lb/>
+
+        ونادى الشيطان الناسك إنّ هذا اللصّ يريد أن يسرق
+        <lb/>
+
+        بقرتك
+      </p>
+
+      <p n="Thief And Demon Flee">
+        فاستيقظ الناسك وجيرانه على صوتهما وهرب
+        <lb/>
+
+        الخبيثان
+      </p>
+
+      <p n="Objectors Deems Owls Misled">
+        فلمّا فرغ الوزير من كلامه قال الوزير الأوّل
+        <lb/>
+
+        الذي كان أشار بقتل الغراب إنّكنّ قد خدعكنّ هذا الغراب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

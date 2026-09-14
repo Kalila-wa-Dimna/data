@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="163"/>
+
+      <p n="Kalila's Advice on Contentment">
+        قال كليلة قد فهمت ما قلت فراجع عقلك واعلم أنّ لكلّ إنسان منزلة وقدرًا
+        <lb/>
+
+        فإن كان في منزلته التي هي منزلته مكتفيًا متماسك الحال كان حقيقًا أن يقنع
+        <lb/>
+
+        ويرضى وليس لنا من المنزلة ما نسخط له حالنا التي نحن عليها
+      </p>
+
+      <p n="Dimna's View on Social Mobility">
+        قال دمنة
+        <lb/>
+
+        إنّ المنازل متنازعة مشتركة فذو المروءة ترفعه مروءته من المنزلة الوضيعة
+        <lb/>
+
+        إلى المنزلة الرفيعة والذي لا مروءة له يحطّ نفسه من المنزلة الرفيعة إلى
+        <lb/>
+
+        المنزلة الوضيعة والارتفاع من ضعة المنزلة إلى شرفها شديد
+      </p>
+
+      <p n="Analogy of Lifting Heavy Objects">
+        ومثل ذلك مثل
+        <lb/>
+
+        الحجر الثقيل الذي رفعه من الأرض إلى العاتق عسير وطرحه من العاتق
+        <lb/>
+
+        إلى الأرض يسير
+      </p>
+
+      <p n="Aspiration for Higher Status">
+        فنحن أحقّ أن نروم ما فوقنا من المنازل ونلتمس ذلك
+        <lb/>
+
+        بمروءتنا ولا نقيم عليه
+      </p>
+
+      <p n="Kalila's Inquiry about Dimna's Plan">
+        قال كليلة فما هذا الذي تجمع عليه
+      </p>
+
+      <p n="Dimna's Strategy to Approach the Lion">
+        قال دمنة أريد
+        <lb/>
+
+        أن أتعرّض للأسد عند هذه الفرصة فإنّ الأسد ضعيف الرأي وإنّه وجنده قد
+        <lb/>
+
+        التبس عليهم أمره ولعلّي على هذه الحال أدنو من الأسد فأصيب مكانًا وجاهًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

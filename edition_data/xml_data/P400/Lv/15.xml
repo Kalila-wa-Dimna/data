@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="15"/>
+
+      <p n="K D Book Praise">
+        وهو من أفضل آدابهم وهو رأس علومهم والدالّ على كلّ منفعة
+        <lb/>
+
+        ومفتاح كلّ علم في طلب الآخرة والعمل للنجاة من هولها والمقوّي
+        <lb/>
+
+        على طيبة العيش ولما يحتاج إليه الملوك من بدء مُلكهم وأدب
+        <lb/>
+
+        السوقة بما يرجونه من مَلكهم ويصلحون به معايشهم وهو كليلة
+        <lb/>
+
+        ودمنة
+      </p>
+
+      <p n="Kisra Eager To Get K D">
+        فلمّا تيقّن ما بلغه من ذلك وما فيه من المنافع لم يقرّ ولم
+        <lb/>
+
+        يهدأ
+      </p>
+
+      <p n="Burzoy Tells Of Kisras Mission">
+        وأنّه ابتدأ وحضّني على استخراج هذا الكتاب من بلاد الهند ليدعه
+        <lb/>
+
+        في مملكته ويتأدّبوا به رعيّته وأنا خارج في طلبه
+      </p>
+
+      <p n="Burzoys Speech Well Received">
+        فلمّا سمع
+        <lb/>
+
+        أهل مملكته قوله فرحوا به فرحًا شديدًا ودعوا للملك بطول
+        <lb/>
+
+        البقاء ودوام النعماء ولبرزويه بحسن السلامة والمعونة
+        <lb/>
+
+        على ما طلب
+      </p>
+
+      <p n="Astrologers Set Date">
+        وأمر الملك المنجّمين فاختاروا له طالعًا سعيدًا ويومًا
+        <lb/>
+
+        محمودًا
+      </p>
+
+      <p n="Burzoys Stipend">
+        فودّع الملك برزويه وسار وحمل معه من المال ما يحتاج إليه
+      </p>
+
+      <p n="Burzoy Travels To India">
+        وخرج من يومه ذلك يطوي الأرض طيًّا ويقطع البراري والقفار
+        <lb/>
+
+        والسهول والأوعار والأرض ترفعه تارة وتخفضه أخرى وهو
+        <lb/>
+
+        مع ذلك لا يجد لسعيه تعبًا فأقام في الطريق عشرة أيّام
+      </p>
+
+      <p n="Burzoy Inquires About Court">
+        فلمّا
+        <lb/>
+
+        كان في اليوم الحادي عشر أشرف على أرض بلاد الهند فنزل بها وقعد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

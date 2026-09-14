@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="12"/>
+
+      <p n="unassigned">
+        الناس من العظماء والأشراف والعامّة فدخلوا عليه ودعا بزرجمهر بالكتاب
+        <lb/>
+
+        المحضر من برزويه فأمر بقراءته على رؤوس الناس فقام بزرجمهر ففتح الكتاب
+        <lb/>
+
+        وقرأ باب بروزيه على رؤوس الناس ففرح الملك وجميع الناس بما أوتي
+        <lb/>
+
+        بزرجمهر من العقل والعلم وبما اجتهد فيه من مدحه برزويه من غير
+        <lb/>
+
+        تكذيب منه وادّعى باطل واثنى عليه الملك وجميع والأشراف وشكروا له
+        <lb/>
+
+        ذلك ومدحوه أفضل المدح فأمر له الملك بجائزة عظيمة من المال والحليّ
+        <lb/>
+
+        والثياب فلم يأخذ من ذلك شيئًا إلّا الكسوة فإنّه قنصها وكان يتجمّل
+        <lb/>
+
+        بها ويفخر بها على نظرائه لأنّها كانت من كسوة الملوك خاصّة وشكر له
+        <lb/>
+
+        برزويه وقبّل يده ورأسه وأقبل على الملك فقال أدام الله لك أيّها
+        <lb/>
+
+        الملك الكرامة والجمال فقد أكرمتني بما أمرت به بزرجمهر في هذا
+        <lb/>
+
+        الكتاب تمّت بعثة أنوشروان برزويه إلى أرض الهند وما كان
+        <lb/>
+
+        من أمره
+      </p>
+
+      <p n="Chapter Title">
+        كتاب كليلة ودمنة
+      </p>
+
+      <p n="Parables Originated with Scholars of India">
+        وهو ممّا وضعت أهل الهند من الأمثال والأحاديث الذي التمسوه أن يُدخلوا
+        <lb/>
+
+        فيها أبلغ ما وجدوا من الكلام في النحو الذي أرادوا
+      </p>
+
+      <p n="Scholars Desire to Be Understood">
+        ولم تزل العلماء من
+        <lb/>
+
+        كلّ أمّة وأهل كلّ لسان يلتمسون أن يُعقل عنهم
+      </p>
+
+      <p n="Scholars Put Knowledge in Book of Fables">
+        ويحتالون لذلك بصنوف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

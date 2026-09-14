@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="270"/>
+
+      <p n="The Stag's Owner Chases the Donkey Away">
+        احتاج الأيل أن يقاتله ولا أقدر على ضبط الجميع ولكن
+        <lb/>
+
+        أطرده عن الأيل فضرب الحمار بعصاة كانت في يده فذهب
+      </p>
+
+      <p n="The Donkey Approaches Again">
+        ثمّ إنّه لمّا مشى الرجل عاد ثانية يماشي الأيل ويخاطبه فنفر
+        <lb/>
+
+        الأيل وأخذ يقاتله والتفت الرجل ثانية فضرب الحمار فذهب
+        <lb/>
+
+        ثمّ عاد على هذا المثال ثلاث دفعات كلّ دفعة يتقدّم فيها إلى
+        <lb/>
+
+        الأيل يضربه الرجل
+      </p>
+
+      <p n="The Donkey Bites the Stag's Owner">
+        ثمّ إنّ الحمار قال ما يمنعني من كلام الأيل
+        <lb/>
+
+        واللطف به وكشف ما عندي إليه إلّا هذا الرجل الذي يقوده
+        <lb/>
+
+        ثمّ وثب على الرجل فعضّ ظهره عضّة شديدة ما تخلّص منه الرجل
+        <lb/>
+
+        إلّا بعد شدّة شديدة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

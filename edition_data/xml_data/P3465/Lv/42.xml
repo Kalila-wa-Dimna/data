@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="42"/>
+
+      <p n="Friend Guesses Burzoys Mission">
+        وكان قدومك بالمكر والخديعة
+      </p>
+
+      <p n="Friend Stays Devoted To Burzoy">
+        ولكنّي أنا رأيت صبرك ومواظبتك على طلب حاجتك
+        <lb/>
+
+        والتحفّظ من أن يسقط منك الكلام مع طول مكثك عندنا بشيء يُستدلّ به
+        <lb/>
+
+        على سريرتك وأمرك ازددت رغبة في إخائك وثقة بعقلك فأحببت مودّتك
+      </p>
+
+      <p n="Friend Distinguishes Burzoy">
+        فإنّي لم أر في الرجال رجلًا هو أرصن منك عقلًا ولا أحسن أدبًا ولا أصبر على
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

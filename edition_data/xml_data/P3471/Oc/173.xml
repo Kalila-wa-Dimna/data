@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="173"/>
+
+      <p n="Recourse Should be Made to Planning and Preparing">
+        لعدوّنا ونذكّي العيون فيما بيننا وبينهم ونحترس من الغرّة والعودة
+        <lb/>
+
+        فإذا أقبل إلينا عدوّنا لقيناه مستعدّين
+      </p>
+
+      <p n="The Crows Should Fight Back the Owls">
+        وقاتلناه قتالًا غير مجازفة
+        <lb/>
+
+        وقصدنا أطرافهم وتنحّينا عن سنّتهم وقصد جماعتهنّ وأقنطنا من
+        <lb/>
+
+        آخرهنّ ما استطعنا
+      </p>
+
+      <p n="There Is Hope for Victory">
+        ولعلّنا أيضًا أن نصيب ظفرًا أو نجد عورة أو
+        <lb/>
+
+        نهزة فنجتزي منهنّ ما صنعن بنا وأيسن إلينا
+      </p>
+
+      <p n="Escape Should Not Be the First Choice">
+        وتلقى أطرافنا أطراف
+        <lb/>
+
+        العدوّ ولا نضيّع أمرنا بالهرب وإضاعة المال والأثقال فيكون ما أصابوا
+        <lb/>
+
+        من ذلك عونًا لهم علينا وإن أعيانا ذلك تحرّزنا بحصوننا وندافع عدوّنا
+        <lb/>
+
+        هذه الأيّام
+      </p>
+
+      <p n="Escape Is To Be Sought Only at Defeat">
+        حتّى نصيب فرصتنا أو يعيينا ذلك فنهرب من عدوّنا وقد
+        <lb/>
+
+        أبلينا عذرًا
+      </p>
+
+      <p n="The Crow King Asks the Third Crow">
+        ثمّ قال الملك للثالث ما رأيك أنت فيما قالا صاحباك
+      </p>
+
+      <p n="The Crow Rejects Prior Input">
+        فقال لم يقولا شيئًا لعمري ما مدافعة الأيّام والليالي بمستقيم لنا فيما
+        <lb/>
+
+        بيننا وبين البوم
+      </p>
+
+      <p n="Recourse Should be Made to Reconnaissance">
+        وما الرأي لنا والشورى إلاّ أن نذكّي العيون والطوالع
+        <lb/>
+
+        والطلائع بيننا وبين العدوّ وأن نبعث فيها من له فضل ورفق ورأي
+        <lb/>
+
+        فيكونون منهم قريبًا ويتجسّسوا الأخبار فهيمًا ويعملون ما في أنفسهم
+      </p>
+
+      <p n="The Information Shall Determine a Truce or Tribute">
+        وهل يريد عدوّنا صلحًا أو هل يرضين بأداء الخراج إليهنّ أو يقبلن
+        <lb/>
+
+        منّا فدية
+      </p>
+
+      <p n="Truce for a Tribute Should Be Sought">
+        فإن رأينا من ذلك وجهًا من أحقّ بالتقدّم في ذلك والإقرار
+        <lb/>
+
+        به والاستسلام له والدفع به عن أنفسنا ونأمن بأسهم ونطمئنّ
+        <lb/>
+
+        بأوطاننا وبمكاننا آمنين غير متخوّفين لهم
+      </p>
+
+      <p n="Peace Is Worth the Tribute">
+        وقد قال العلماء إذا أتى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="178"/>
+
+      <p n="Kalila Admits Having Been Harsh on Dimna">
+        ما كنت أفضي إليك من النصيحة
+      </p>
+
+      <p n="Withholding Advice Would Have Made Kalila Complicit">
+        فإنّ لكلّ مقامٍ
+        <lb/>
+
+        مقال ولو كنت قفيت أثرك لكنت اليوم شريكك
+      </p>
+
+      <p n="Conceit Caused Dimna's Demise">
+        غير أنّ العُجب دخل منك مدخلًا فهزأ بك وغلبت
+        <lb/>
+
+        على عقلك وكنت أضرب لك من الأمثال كثيرٌ
+      </p>
+
+      <p n="The Schemer Dies Before His Time">
+        وأذكّرك قول العلماء إذ قالوا إنّ المحتال يموت قبل
+        <lb/>
+
+        أجله
+      </p>
+
+      <p n="Kalila Calls Dimna's Situation Worse Than Death">
+        وليس قولهم يموت بانقطاع الحياة وانصرام العمر
+        <lb/>
+
+        وإنّما يموت بانقطاعه عن الدنيا في السجن كحالك هذا
+      </p>
+
+      <p n="Dimna Cites His Greed as Cause for Not Listening">
+        قال دمنة يا أخي الحرص على طلب المنزلة والذكر هما منعاني
+        <lb/>
+
+        الانتفاع برأيك ونصيحتك لي
+      </p>
+
+      <p n="Kalila Advises Dimna to Confess">
+        قال كليله قد عرفت
+        <lb/>
+
+        صدق مقالتك لكنّ العلماء قالت إنّ الإثم لا يبعث على
+        <lb/>
+
+        العذاب إذا وقف على الخطيئة التي تُراد بها نفسه
+        <lb/>
+
+        وإن يُعاقبْ بجرم الدنيا خيرًا من عقوبته في الآخرة
+        <lb/>
+
+        في جهنّم مع الآثمين
+      </p>
+
+      <p n="Dimna Wants to Await the Verdict">
+        قال دمنة أنا سمعت قولك وفهمته
+        <lb/>
+
+        ولكن أنا صابرٌ حتّى أنظر ما يكون من أمري
+      </p>
+
+      <p n="Prisoner Overhears Their Dialogue">
+        وكانت أمّ
+        <lb/>
+
+        الأسد قريبًا منهم فسمعت كلامهم جميعه وكتمته لتشهد
+        <lb/>
+
+        به على دمنة وقت الحاجة
+      </p>
+
+      <p n="Kalila Goes Home">
+        ثمّ إنّ كليله انصرف إلى بيته
+        <lb/>
+
+        وقال أنا المأخوذ بسبب دمنة واشتدّ حزنه وجزعه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

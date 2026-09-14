@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>H170</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="40"/>
+
+      <p n="unassigned">
+        من الحكمة العجيبة والعلم والغزير ولمّا مدح به برذوبة من غير كذب ولا دعا باطل
+        <lb/>
+
+        ثمّ أثنى على الملك ومن حضر وانثرا عليه وشكروا ذلك ومدحوه بأفضل مدح وأمر
+        <lb/>
+
+        له الملك بمال عظيم ثم أنّ برذوبة ذكر له ذلك وقبّل يده وأقبل على الملك وقال أدام
+        <lb/>
+
+        الله تعالى لك الملك والسعادة والسرور فقد بلغت بي غاية الشرف وايقنت
+        <lb/>
+
+        ذكري على الأبد انقضى باب البعثة
+      </p>
+
+      <p n="Chapter Title">
+        باب ابن المقفّع هذا كتاب كليلة دمنة
+      </p>
+
+      <p n="Parables Originated with Scholars of India">
+        وهذا ما وضعته علماء الهند من الأمثال والأحاديث التي أُلهموا أن يُدخلوا فيها أبلغ
+        <lb/>
+
+        ما وجدوا من القول في النحو الذي أرادوه
+      </p>
+
+      <p n="Scholars Desire to Be Understood">
+        ولم تزل العلماء والحكماء من أهل كلّ ملّة يلتمسون
+        <lb/>
+
+        أن يُعقل عنهم
+      </p>
+
+      <p n="Scholars Put Knowledge in Book of Fables">
+        ويحتالون في ذلك بصنوف الحيل ويجتهدون في إخراج ما عندهم حتّى كان من
+        <lb/>
+
+        تلك العلل وضع هذا الكتاب على لسان البهائم والطير
+      </p>
+
+      <p n="Fables Facilitate Many Types of Discourse">
+        فاجتمع لهم بذلك خلال منها
+        <lb/>
+
+        أنّهم وجدوا منصرفًا في القول وشعوبًا يأخذون منها وأمّا الكتاب فجمع حكمة وعلومًا
+      </p>
+
+      <p n="Book Is Used for Wisdom, Pleasure, and Knowledge">
+        فاختارته الحكماء لحكمتها وجعلته السفهاء تلهوًا واتّخذوه المتعلّمون من الأحداث
+        <lb/>
+
+        منشّطًا في حفظ ما صار إليه
+      </p>
+
+      <p n="Acquired Knowledge Manifests in Adulthood">
+        من أمر برذاه في صدره ولا يدري ما هو بل عرف أنّه
+        <lb/>
+
+        قد ظفر من ذلك مكتوب مرقوم
+      </p>
+
+      <p n="Bequeathed Treasure Suffices">
+        وكان كالرجل الذي يستكمل الرجوليّة ووجدوا
+        <lb/>
+
+        أبواه قد كنزوا له كنزًا واعتقدوا له عقدًا استغنى بها عن الكدح فيما يستعمله من
+        <lb/>
+
+        معيشته فأغناه بما أشرف عليه من الحكمة عن الحاجة إلى غيره ومن وجوه الأدب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

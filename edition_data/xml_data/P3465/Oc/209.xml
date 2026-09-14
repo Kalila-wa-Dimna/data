@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="209"/>
+
+      <p n="unassigned">
+        أن يرى ذلك عيانًا ليقابل امرأته بحقٍّ
+      </p>
+
+      <p n="Carpenter Feigns Work Travel">
+        فقال لها أريد الذهاب إلى قرية
+        <lb/>
+
+        كذا وهي منّا على فراسخ لبعض عمل السلطان فأعدّي لي زادًا
+      </p>
+
+      <p n="Wife Rejoices At Chance">
+        ففرحت
+        <lb/>
+
+        المرأة كيف يذهب ويخلو وجهها لخليلها
+      </p>
+
+      <p n="Wife Sees Carpenter Off">
+        ثمّ لمّا أراد الخروج قال
+        <lb/>
+
+        لامرأته استوثقي من الباب والممرق وأراها أنّه يخرج
+      </p>
+
+      <p n="Carpenter Returns To Hide Under Bed">
+        وعطف إلى مكان
+        <lb/>
+
+        خفيّ خلف الباب فاختفى فيه فانسلّ فدخل البيت الذي فيه مرقده فدخل واختفى
+        <lb/>
+
+        تحت السرير
+      </p>
+
+      <p n="Wife Summons Lover">
+        ثمّ إنّ المرأة أرسلت إلى خليلها أن ائتنا فأتاها
+      </p>
+
+      <p n="Lover Spends The Night">
+        وخلا بها على فراش
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="73"/>
+
+      <p n="Dimna Defines the Ill-Wishing Person">
+        لا يحبّ لأحدٍ خيرًا ولا يدفع عنه مكروهًا
+      </p>
+
+      <p n="The Mother Condemns Dimna's Sweet-Talking and Hoping">
+        فقالت أمّ الأسد أيّها الغادر الفاجر إنّك لتجترئ
+        <lb/>
+
+        بمثل هذا القول عند الملك عجبًا له يتركك حيًّا
+      </p>
+
+      <p n="Dimna Defines as Traitor Who Is Ungrateful for Advice and Kills a Defeated Enemy">
+        فقال دمنة إنّ صاحب ما وصفت
+        <lb/>
+
+        الذي يؤتى بالنصيحة ويمكِّن من عدوّه ثمّ لا يشكر ذلك ولا يعرفه لمن فعله ويريد قتله
+        <lb/>
+
+        على غير ذنبٍ أذنبه ولا جرمٍ ارتكبه
+      </p>
+
+      <p n="The Mother Calls Dimna a Liar">
+        فقالت أمّ الأسد أيّها الكاذب الفاجر أترجو أن
+        <lb/>
+
+        تنجو من ذنبك العظيم وجرمك الجسيم بحجّتك الباردة وأقاويلك الفاسدة
+      </p>
+
+      <p n="Dimna Claims Truthfulness">
+        فقال دمنة إنّ
+        <lb/>
+
+        أهل ما ذكرت الذي يقل ما لم يكن وينطق بغير حقٍّ ويزوغ عن الصدق ولا يثبت في فعاله
+        <lb/>
+
+        ولا يحمل في مقاله
+      </p>
+
+      <p n="The Mother Asks for Proof of Dimna's Truthfulness">
+        فقالت أمّ الأسد ما الذي قلته للملك وما الذي صدقته فيه
+      </p>
+
+      <p n="Dimna Cites His Courage to Speak at Court as Proof">
+        فقال
+        <lb/>
+
+        دمنة الملك يعلم أنّي لو كنت من أهل الريب أو تكلّمت بشيءٍ من الكذب لم أنبّهه لمعاديه ولا أيقظته
+        <lb/>
+
+        لمناوئه وأنا أرجو أن يستبين له صدقي وبراءتي وصحّة أمري وأن لا يبوء بإثمي ولا
+        <lb/>
+
+        يتقلّد سفك دمي
+      </p>
+
+      <p n="The Lion's Silence Makes the Mother Doubt">
+        فلمّا رأت أمّ الأسد أنّ الأسد لم يتكلّم بشيء شكّت في أمر دمنة وقالت
+        <lb/>
+
+        لعلّه مكذوبٌ عليه وأنّه بريءٌ ممّا رمي به
+      </p>
+
+      <p n="Who King and Court Listen to in Silence Appears Truthful">
+        فإنّ المعتذر عند الملك بمحضر الجند ولا يرَدّ
+        <lb/>
+
+        عليه بشيءٍ من منطقه شبيهٍ بأن يكون محقًّا فيما تكلّم به
+      </p>
+
+      <p n="Lion Hands Dimna Over to Judge for Investigation">
+        فأمر الأسد عند ذلك بدمنة
+        <lb/>
+
+        فقُذفت في عنقه جامعةٌ ثمّ حُبس وأمر بالنظر في أمره والفحص عنه
+      </p>
+
+      <p n="The Mother Knows about Dimna's Infamy">
+        فقالت أمّ الأسد
+        <lb/>
+
+        إنّه قد بلغني عن هذا الفاجر الكذّاب المنافق شرّ ما يقال في أحدٍ
+      </p>
+
+      <p n="Dimna Has a Bad Reputation">
+        وتتابعت الألسن بذلك
+        <lb/>
+
+        عليه وأشاروا كلّهم بيد المقت إليه ثمّ قالت أمّ الأسد أيّها الملك إلى كم تستعمل التأنّي والثبات
+        <lb/>
+
+        في أمر هذا الظالم والعدوّ والآثم وقد تبيّن غدره وظهر شرّه ولم يخفَ على أحدٍ أمره والذي
+        <lb/>
+
+        ذكر ذلك لي الأمين المصدّق
+      </p>
+
+      <p n="The Mother Tells the Lion Not to Debate Dimna">
+        فاسترحْ منه ولا تناظره ولا تطلب في أمره من تشاوره
+      </p>
+
+      <p n="The Lion Tells the Mother to be Silent">
+        فقال الأسد اسكتي عنّي واهدئي فإنّي ناظرٌ في أمره وفاحصٌ عن شأنه
+      </p>
+
+      <p n="The Lion Praises Dimna">
+        وإنّه عاقلٌ أديبٌ
+        <lb/>
+
+        وحازمٌ لبيبٌ عالمٌ بمجاري الأمور بصيرٌ بنوائب الدهور قد حنّكته التجارب وأدّبته النوائب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

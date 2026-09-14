@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="124"/>
+
+      <p n="Chapter Title">
+        باب إلاد وشادِرِمْ ملك الهند
+        <lb/>
+
+        وهوّ الباب التاسع
+      </p>
+
+      <p n="King Understood Previous Chapter">
+        قال المَلك للفيلسوف وقد فَهمت مَا ذكرت من أمر العجل غير المتّئد ولا المتثبت
+        <lb/>
+
+        في أَمره
+      </p>
+
+      <p n="King Asks How To Preserve Rule">
+        فأخبرني ما الذي إذا عَمل به الملك كرّم رعيّته وثبّت ملكه وحفظ أرضه
+        <lb/>
+
+        الحلم أم المرؤة أَم الجود
+      </p>
+
+      <p n="Philosopher Prioritizes Ḥilm">
+        قال الفيلسوف إنّ أفضل ما هو مدرك بذلك
+        <lb/>
+
+        الحلم والعقل لأنّهما رَأس الأمور ومَلاكه
+      </p>
+
+      <p n="Philosopher Adds Consultation">
+        مَع مشاوَره اللبيّب الرفيق العَالم
+        <lb/>
+
+        وأفضل مَا يستمع به الناس الحِلم ثمّ للملك خَاصّة
+      </p>
+
+      <p n="Philosopher Adds Good Wife">
+        وأنّه لاشئ أفضل ولا أعون منه ومن صلاح
+        <lb/>
+
+        المرء في معيشته مشاورة اللبيب ثم المرأه الخالصه الصّالحه الفاضله الرأي المواتية
+      </p>
+
+      <p n="Without Advice One Fails">
+        فاِنّ الرجل إن كان شجاعا ثمّ لم يكن حليما عاقلا وشاور غير لبيب فإنّه يبهظه الأمر اليسير
+        <lb/>
+
+        حتّى يرى فيه القبح والضعف لجهالته وخَطأ رأي أصحَابه وإن أصابوا ظفرا ولقوا رشدا
+        <lb/>
+
+        لقدر شأنه إليهم صَارت عاقبه أمرهم إلى ندامة
+      </p>
+
+      <p n="Fortunate King">
+        وإذا كان على خلاف ذلك من الفضل
+        <lb/>
+
+        ومن قبل الوزير ثمّ أَعانه القضاء أصَاب الفَلاح على من خاصمه والغلبة على من ناوأه والسرور
+        <lb/>
+
+        لمن أحزنه
+      </p>
+
+      <p n="King And Vizier Tale Mention">
+        كما زعم لنا ممّا كان بين شَادرم ملك الهند وبين إبراخت امرأته وإيلاد
+        <lb/>
+
+        صَاحَب سرّه وَرأَيه
+      </p>
+
+      <p n="King Requests Story">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="Pious Vizier">
+        قال الفيلسوف ذُكر لنا أن إيلاد
+        <lb/>
+
+        كان ناسكا مجتهدًا حسن الخُلق لبيبا حليما كاملا
+      </p>
+
+      <p n="King Dreams">
+        فبينما شادرم الملك ذات ليلة في
+        <lb/>
+
+        غرفة إذ رَأى ثمانية أحَلام يستيقظ عند كل حُلم مِنهَا
+      </p>
+
+      <p n="King Summons Brahmins">
+        فلمّا استيقظ دعا البراهميين
+        <lb/>
+
+        وَهُم النسّاك
+      </p>
+
+      <p n="King Has Brahmins Interpret Dreams">
+        فقصّ عليهم مَا رأى وأَمرهم أن يًعبّروها
+      </p>
+
+      <p n="Brahmins Dramatize Dreams">
+        فقالوا قد رأيت أيّها الملك
+        <lb/>
+
+        أمرا معجبا لم يسمع بمثله فيما مضى
+      </p>
+
+      <p n="Brahmins Request Delay">
+        فَإن أحببت أن نفكر فيها ستة أيّام ونأتيك في اليَوم
+        <lb/>
+
+        السَّابع فنخبرك ولعلّنا إن استطعنا أن ندفع مَا تتخوف منه فَعلنا
+      </p>
+
+      <p n="King Grants Delay">
+        قال الملك نعم
+      </p>
+
+      <p n="King Order Brahmins Counsel">
+        واعملوا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

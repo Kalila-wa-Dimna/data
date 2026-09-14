@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="105"/>
+
+      <p n="The Lion Wants to Conduct an Investigation">
+        أحبّ أن أفحص عن أمره وأبالغ في البحث عنه
+      </p>
+
+      <p n="The Lion Seeks an Evaluation of His Action">
+        وإن كنت أعرف أنّ
+        <lb/>
+
+        ذلك غير مصلحٍ ما فرط منّي ولكنّي أحبّ أن يعرف موقعي الذي أنا عليه
+        <lb/>
+
+        فيما صنعت من الخطإ والصواب
+      </p>
+
+      <p n="The Lion Asks Whether His Mother Has Any News">
+        فأخبريني هل سمعتي سمعت من أمره
+        <lb/>
+
+        شيئًا تذكرينه لي
+      </p>
+
+      <p n="The Mother Alludes to Her Secret Knowledge">
+        قالت أمّ الأسد نعم قد بلغني أمرًا أمرٌ استكتمنيه بعض أهلك
+        <lb/>
+
+        ولولا ما قالت العلماء في إذاعة السرّ والتضييع للأمانات وأنت تترك ما
+        <lb/>
+
+        لا نفع فيه ولا منجى لمن ضرّه مجفوف كذا
+      </p>
+
+      <p n="Scholars Say Various Things">
+        قال الأسد إنّ العلماء لأقاويلهم وجوه كثيرة ومعاني مختلفة وأحوال
+        <lb/>
+
+        متصرّفة ليس في كلّ الوجوه أمرٌ بالكتمان ولكلّ أمر موضع وخبر
+      </p>
+
+      <p n="Serious Crimes Do Not Allow Secrecy">
+        فإذا
+        <lb/>
+
+        كان في موضعه صلح العمل به ونفع وإن كان في غير موضعه ضرّ وأفسد
+        <lb/>
+
+        فممّا تعظم مضرّته ولا يرضى استقالته كتمان ما ينبغي له أن يعلن وإعلان
+        <lb/>
+
+        ما ينبغي له أن يُسرّ
+      </p>
+
+      <p n="The Source Wants to Extricate Himself">
+        وهذا الأمر لا أرى لك عذرًا في إسراره ولا سعةٍ في
+        <lb/>
+
+        السكوت عنه فإنّي أرى مطلعك عليه قد ألقى عن نفسي نفسك وزره
+        <lb/>
+
+        وحمّلك خيره وشرّه
+      </p>
+
+      <p n="The Lion Urges His Mother to Disburden Herself">
+        وأنت حقيقة بإظهاره والوجل على نفسك من كتمانه
+        <lb/>
+
+        فألقي ما استودِعت منه عنك بإفشائه إليّ وإظهاره
+      </p>
+
+      <p n="The Mother Feels Criticized by the Lion">
+        قالت أمّ الأسد قد عرفت الذي قلت وإنّه كما قلت وإن كان
+        <lb/>
+
+        ليحملني على كثيرٍ من الكلام فيما ذكرت كذا لعلمي بموقع هذا الأمر في
+        <lb/>
+
+        نفسك فلا أراك إذ كنت على ما أرى من الرأي على أن لا يمنعك من
+        <lb/>
+
+        العزم والمبالغة في نكال أهل الجريمة والغدر واعتقاد الألفة والثقة والتصديق
+        <lb/>
+
+        فحدّثني إن كان في نفسك منّي حرجًا حرجٌ
+        <lb/>
+
+        قال الأسد ما في نفسي حرجٌ ولا أنت عندي نمّامةٌ ولا أنا في
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

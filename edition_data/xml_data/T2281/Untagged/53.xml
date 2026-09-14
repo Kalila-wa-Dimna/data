@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T2281</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="53"/>
+
+      <p n="unassigned">
+        هو من أعظم الأسرار والتداخل إليه أشكل الأخطار
+        <lb/>
+
+        وإنّه لأمر قد لا يتكلّم ولا يأمن ظهوره وإفشائه فإذا
+        <lb/>
+
+        ظهر وفشا فقد سعيت في هلاك نفسي فإنّ مَلكنا
+        <lb/>
+
+        يعاقب على الذنب الصغير أشدّ العقاب وهذا
+        <lb/>
+
+        أمر متى طاوعتك فيه وسعيت لك إلى أن أقضيه
+        <lb/>
+
+        قد يعقبني ضررًا زائدًا ولا أجدك فيه حائدًا
+        <lb/>
+
+        قال برزويه إنّ العلماء قد مدحت الصديق الموافي
+        <lb/>
+
+        إذ يكتم سرّ صديقه ويعينه على الخروج من مضيقه
+        <lb/>
+
+        وهذا الأمر الذي ذكرته إليك بنسبته إليك
+        <lb/>
+
+        ومنك أرجو بلوغه لكرم طباعك ووفور عقلك
+        <lb/>
+
+        وإنّه لسرّ تفاوضنا عليه وأنت لا تخشى منّي أن
+        <lb/>
+
+        أبديه لأحد واحترز بعدي عليه من أهل بيتك
+        <lb/>
+
+        والحاشية والمتّحدين بالمَلك أن يصلهم فيفشونه وإنّي
+        <lb/>
+
+        لأرجو ستره وكتمه لأني ظاغن وأنت مقيم
+        <lb/>
+
+        <> بيننا فيظهر عنّا فتعاهدا على ذلك وتوافقا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

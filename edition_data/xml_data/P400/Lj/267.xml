@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="267"/>
+
+      <p n="Two Kinds Serve Kings">
+        وإمّا مهين مغفّل لا يحسده أحد
+      </p>
+
+      <p n="Good Advisor Is Hated">
+        فإنّ من أراد أن يلزمهم بالصدق والنصيحة
+        <lb/>
+
+        والعفاف لا يختلط ذلك بغيره فقليل ما يستقيم له ذلك لأنّه يجتمع
+        <lb/>
+
+        عليه عداوة السلطان وصديقه بالحسد
+      </p>
+
+      <p n="Threats against Good Advisor">
+        أمّا الصديق فينافسه في منزلته
+        <lb/>
+
+        ويبغيه عليها وأمّا عدوّ السلطان فيطعن عليه مردته وعناءه عنه فإذا اجتمع عليه
+        <lb/>
+
+        هذان الصنفان كان قد تعرّض للهلاك فقال
+      </p>
+
+      <p n="Lion Promises Jackal Protection">
+        الأسد لا يكون بغي
+        <lb/>
+
+        أصحابي عليك وحسدهم وإيّاك ممّا يعرض في نفسك فإنّي كافيك ذلك
+        <lb/>
+
+        وبالغ في الإكرام والإحسان لك لهمّتك ونبلك
+      </p>
+
+      <p n="Jackal Wants to Remain Carefree">
+        فقال ابن آوى
+        <lb/>
+
+        إن كان الملك يريد فيّ الخير فليتركني أحيا في هذه البرّيّة آمنًا من أن
+        <lb/>
+
+        أُحسد قليل الهمّ راضيًا معيشتي من الماء والعشب
+      </p>
+
+      <p n="Kings' Advisors Suffer">
+        فإنّي قد علمت أنّ
+        <lb/>
+
+        صاحبًا تصل إليه في ساعة واحدة من الأذى والخوف ما يصل إليه إلى غيره في
+        <lb/>
+
+        طول الدهر
+      </p>
+
+      <p n="Peace over Wealth">
+        وإنّ قليل الفوت في أمان وطمأنينة خير من المقام في
+        <lb/>
+
+        خوف ونصب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

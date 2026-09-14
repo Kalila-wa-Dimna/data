@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>KWD-Germany</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="3"/>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        "Die Löwiu verrät den Leoparden nicht",
+        <lb/>
+
+        "137",
+        <lb/>
+
+        "Die Mutter des Löwen sprach: Mir wurde von einem treuen Gefährten",
+        <lb/>
+
+        "hinterbracht, daß Dimna nicht recht gegen Senesba handelte. Er verführte dich",
+        <lb/>
+
+        "und wendete dein Herz gegen Senesba wegen des Neides, mit dem er Senesbas",
+        <lb/>
+
+        "Rang scheel ansah und durch den = Rang er in die Gunst gelangte, die er",
+        <lb/>
+
+        "in deinen Augen gefunden hatte." Der Löwe sprach zu seiner Mutter: Wer",
+        <lb/>
+
+        "berichtete dir dies, Mutter?" Diese sagte: Der mir das berichtete, bat, nicht",
+        <lb/>
+
+        "genannt zu werden. Und du sollst wissen, daß man ein Geheimnis bewahren",
+        <lb/>
+
+        "soll, wenn es einem anvertraut wurde Wer ein Geheimnis ausplaudert, das",
+        <lb/>
+
+        "ihm anvertraut wurde, der betrügt seinen Freund, der es ihm erzählte, und",
+        <lb/>
+
+        "er wird von den Menschen verachtet, und niemals wird ihm einer wieder ein",
+        <lb/>
+
+        "Geheimnis anvertrauen." Der Löwe sprach: Du sprichst wahr, und die Sache",
+        <lb/>
+
+        "verhält sich so, wie du sagst. Dennoch soll keiner seinem Freunde die Wahrheit",
+        <lb/>
+
+        "verbergen, sondern sie zeigen, damit ihm die Belohnung zuteil werde. Er ver-",
+        <lb/>
+
+        "berge nicht die Wahrheit, die er hörte und kennt, aber ganz besonders nicht
+        <lb/>
+
+        "bei einem Menschen, der nach dem Blute eines Unschuldigen giert. Wer nämlich",
+        <lb/>
+
+        "das Vergehen des Sünders verhehlt, der ist Mittäter. Der König aber darf wegen",
+        <lb/>
+
+        "einer ungeklärten Sache oder eines Vorurteils seines Herzens keinen verurteilen",
+        <lb/>
+
+        "oder unglücklich machen, sondern nur auf Grund der Wahrheit. Und er schreite",
+        <lb/>
+
+        "zu keiner Bestrafung, bevor ihm die Sache nicht klar ist. Vor Gott wiegt ein",
+        <lb/>
+
+        "Blutvergießen schwer. Wenn ich also schlecht handelte, als ich Senesba",
+        <lb/>
+
+        "schuldlos tötete, so will ich dasselbe bei Dimna ohne Beweis und Anzeichen",
+        <lb/>
+
+        "der Wahrheit nicht wiederholen. Und ich sehe schon, daß du den kennst,",
+        <lb/>
+
+        "der dir das Geheimnis enthüllte, und daher bist auch du schuldig." Die Mutter",
+        <lb/>
+
+        "sprach: Du sprichst recht. Dennoch glaubte ich, ehe ich dir das sagte, daß",
+        <lb/>
+
+        "du nicht an der Sache zweifeln würdest und daß dir mein Zeugnis genügte,",
+        <lb/>
+
+        "daß du mir glaubtest und mich deswegen nicht verdächtigtest." Der Löwe",
+        <lb/>
+
+        "sprach zu ihr: Ich halte dich für glaubwürdig, aber ich will, daß du mir den",
+        <lb/>
+
+        "angibst, der dir das anzeigte, weil ich dann ruhiger bin." Die Mutter sprach",
+        <lb/>
+
+        "zu ihm: Wenn ich in deinen Augen vertrauenswürdig bin, dann schlage",
+        <lb/>
+
+        "diesen grausamen Verführer nieder wie du jenen niederschlugst." Der Löwe",
+        <lb/>
+
+        "erwiderte ihr: Dir entstehen keine Unannehmlichkeiten, wenn du ihn mir",
+        <lb/>
+
+        "nennst." Die Mutter des Löwen sprach: Doch deswegen wird mir das größte",
+        <lb/>
+
+        "Übel zustoßen, weil ich in den Augen desjenigen, der mir sein Geheimnis anver-",
+        <lb/>
+
+        "traute, verachtet werde, sobald ich ihn betrüge. Und wenn ich dieses täte,",
+        <lb/>
+
+        "würde mir keiner jemals mehr vertrauen noch mir etwas anvertrauen." Und"
+        <lb/>
+
+        "als der Löwe das von seiner Mutter hörte, wußte er, daß sie ihm diese Person",
+        <lb/>
+
+        "nicht nennen würde, und er sprach zu ihr: Gehe in Frieden!""
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

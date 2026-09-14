@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T2281</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="65"/>
+
+      <p n="A Worldly Man Must Fix Three Things">
+        الذكر الجميل
+      </p>
+
+      <p n="Three Things in a Man Engender Inefficiency">
+        وقيل ثلاثة أمور من كنّ فيه لا يستقيم
+        <lb/>
+
+        له عمل التواني وتضييع الفرص وتصديق كلّ مخبر
+      </p>
+
+      <p n="Many Are Credulous">
+        فرُبّ رجل
+        <lb/>
+
+        مخبر بالشيء لا يقبله عقله ولا يعرف صدقه به
+      </p>
+
+      <p n="One Needs to Keep Desire in Check">
+        وينبغي
+        <lb/>
+
+        للعاقل أن يكون لهواه ولغيره متّهمًا منتقدًا
+      </p>
+
+      <p n="One Needs to Check the Veracity of Information">
+        يقابل
+        <lb/>
+
+        الصدق بالصدق والزور بمثله ولا يتمادى في الخطأ
+        <lb/>
+
+        إذا أفكر من أمر نفسه شيء
+      </p>
+
+      <p n="One Should Not Continue on the Wrong Path">
+        ولا يكون كمن خرج عن
+        <lb/>
+
+        الطريق فاستمرّ على ضلاله فهو لا يزداد سيرًا إلّا ازداد
+        <lb/>
+
+        عن الصواب بعدًا
+      </p>
+
+      <p n="Man Rubs Itchy Eye and Loses It">
+        أو كالرجل الذي يحكّ أنفه أو
+        <lb/>
+
+        عينه فلا يزال يهرشه إلى أن يدميه وربّما أولد بعد
+        <lb/>
+
+        ذلك وانقطع
+      </p>
+
+      <p n="The Intelligent Should Believe in Fate">
+        وينبغي للعاقل أن يصدّق بالقضاء والقدر
+      </p>
+
+      <p n="Do unto Other as to Oneself">
+        يحبّ للناس ما يحبّ لنفسه ويكره لهم ما يكره لنفسه
+        <lb/>
+
+        ولا يلتمس صلاح نفسه بفساد غيره
+      </p>
+
+      <p n="A Merchant Steals from His Partner">
+        فإنّه من قصد ذلك
+        <lb/>
+
+        حقيقًا أن يصيبه ما أصاب التاجر رفيقه فإنّه يقال إنّ
+        <lb/>
+
+        رجلًا تاجرًا كان له رفيق ولهما متاع فاستأجرا حانوتًا
+        <lb/>
+
+        وأوّوا متاعهما فيه وكان أحدهما منزله قريب من الحانوت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

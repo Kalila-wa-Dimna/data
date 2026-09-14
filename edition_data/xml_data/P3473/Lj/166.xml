@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="166"/>
+
+      <p n="Schemers Frame Jackal">
+        وكان للأسد قد استطاب لحمًا فأعزل منه هندامًا وأمر
+        <lb/>
+
+        أن يُحتفظ به ويُجعل في موضع طعامه فأتوا إليه وسرقوه
+        <lb/>
+
+        ودفنوه فيه ليلًا
+      </p>
+
+      <p n="Scheme Triggers Lion's Rage">
+        فلمّا طلب الأسد ذلك اللحم فلم يجده اشتدّ
+        <lb/>
+
+        في طلبه له وسؤاله عنه والتماسه فلم يجده واشتدّ غضبه
+        <lb/>
+
+        فنظر بعضهم إلى بعض
+      </p>
+
+      <p n="Schemers to Impart Difficult News">
+        ثمّ قال أحدهم أقول قول المخبر
+        <lb/>
+
+        الناصح إنّه ما من بدّ لنا أن نخبر الملك بما علمنا ممّا يضرّه
+        <lb/>
+
+        وينفعه ولو شقّ ذلك على من شقّ عليه
+      </p>
+
+      <p n="Schemers Accuse Jackal">
+        وذلك أنّه بلغني
+        <lb/>
+
+        أنّ ابن آوى هو الذي ذهب باللحم إلى منزله
+      </p>
+
+      <p n="Schemers Say Jackal Is Unlikely to Steal">
+        ثمّ قال
+        <lb/>
+
+        الآخر أمّا إنّي لا أراه فعل هذا ولكن انظروا وافحصوا
+      </p>
+
+      <p n="Character Is Difficult to Know">
+        فإنّ معرفة
+        <lb/>
+
+        الحقائق شديدة
+      </p>
+
+      <p n="Schemers Suggest Searching Jackal's House">
+        وقال الآخر لعمري ما يكاد السرّ يُعرف
+        <lb/>
+
+        ولكن إن فحصتم عن هذا وجدتم اللحم في بيت ابن آوى
+        <lb/>
+
+        وكلّ شيء كان يُذكر لنا من عيوبه وخيانته فهو حقّ ونحن أحقّ
+        <lb/>
+
+        أن نصدّقه
+      </p>
+
+      <p n="Schemers Say Jackal Is an Ungrateful Traitor">
+        قال الآخر إن وجدنا هذا حقًّا ما هي الخيانة
+        <lb/>
+
+        فقط ولكن مع الخيانة كفر النعمة والجرأة
+      </p>
+
+      <p n="Schemer Feigns Objectivity">
+        قال الآخر أنتم أهل
+        <lb/>
+
+        العدل والعلم فلا أستطيع أن أكذّبكم ولكن سيستبين
+        <lb/>
+
+        صدق هذا الأمر وكذبه
+      </p>
+
+      <p n="Schemers Urge Quick Investigation">
+        إن أرسل الملك إلى بيته فتّش
+        <lb/>
+
+        قال الآخر إن أرسلتم إلى بيته مفتّشًا فليعجل فإنّ عيونه
+        <lb/>
+
+        وجواسيسه بكلّ مكان
+      </p>
+
+      <p n="Schemers Say Jackal Will Manipulate Lion">
+        قال الآخر قد علمت لو فُتّش منزل
+        <lb/>
+
+        ابن آوى واطُّلع على خيانته احتال لذلك حتّى يشبّه
+        <lb/>
+
+        على الملك فيعذره
+      </p>
+
+      <p n="Schemers Incite Lion's Suspicion">
+        فسلم بذلك وأشباهه حتّى وقع في قلب الأسد
+        <lb/>
+
+        من أمره
+      </p>
+
+      <p n="Lion Asks Jackal about Meat">
+        ثمّ إنّ الأسد دعا بابن آوى فحضر فقال له ما صنعت باللحم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

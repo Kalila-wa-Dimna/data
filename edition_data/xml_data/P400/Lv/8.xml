@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="8"/>
+
+      <p n="Hamdala For Gods Wisdom">
+        الخيرات وما أدلّهم عليه من العلم بحكمته
+      </p>
+
+      <p n="God Commands Gratitude">
+        وأمرهم بالشكر ليستوجبوا
+        <lb/>
+
+        بذلك المزيد منه ولِحَضّهم على طلب العلم واقتناء الأدب ليفهموا عنه أمره
+        <lb/>
+
+        ووصيّته وليسرعوا فيما يرضيه عنهم وليتجنّبوا معاصيه فتبارك
+        <lb/>
+
+        الله ربّ العالمين
+      </p>
+
+      <p n="God Created Cause For Everything">
+        وقد جعل الله تعالى لكلّ شيء سببًا ولكلّ علّة علّة
+        <lb/>
+
+        مجر الجزية على الله على يد عبد من عبيده ويقدّره في دولته فيه أيّام
+        <lb/>
+
+        عمره
+      </p>
+
+      <p n="God Inspired Books Import">
+        فكان ممّا أجراه الله على يده انتساخ هذا الكتاب
+        <lb/>
+
+        من أرض الهند إلى مملكة فارس فهو إلهام ألهمه الله عزّ وجلّ
+        <lb/>
+
+        لكسرى أنوشروان بالبعثة في فضله ونسخه
+      </p>
+
+      <p n="Kisra Wisest King">
+        لأنّه كان أفضل
+        <lb/>
+
+        ملوك فارس حكمة ورأيًا وأبحثهم على مكان العلم وأحرصهم
+        <lb/>
+
+        على الخير وأسرعهم إلى اقتناء ما يزيّنه بين طالبي الأدب
+        <lb/>
+
+        وباحثي العلم في معرفة الخير والشرّ والنفع والضرّ والصديق
+        <lb/>
+
+        والعدوّ
+      </p>
+
+      <p n="God Made Kisra Superior">
+        ولم يكن يعرف ذلك إلّا بعون الله جلّ ذكره وتقدّس
+        <lb/>
+
+        اسمه وسياسة عبيده ببلاده
+      </p>
+
+      <p n="Kisra Surpasses Prior Kings">
+        فكسرى بن قتاد كان المزيّن يزيّنه
+        <lb/>
+
+        <> لها الرشيد السعيد الذي لم يعد إليه أحد ممّن كان قبله من
+        <lb/>
+
+        الملوك قال فارس الناقد البصير المستضيء بنور العقل وجودة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

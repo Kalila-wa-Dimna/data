@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="27"/>
+
+      <p n="Friend Tasked With Hiding Book">
+        في أيدي الناس ثمّ لا أقتدر أن أفتدي بمالي وعرضي وجاهي
+        <lb/>
+
+        وأعواني
+      </p>
+
+      <p n="Indian King Is Harsh">
+        وأعلم أنّ هذا المَلك يُسخطه أدنى شيء ولا
+        <lb/>
+
+        يرضيه كثرة الخلق والشيء الجزيل فمن أجل ذلك مُني انقباضي
+        <lb/>
+
+        وتوكيدي عليك في حاجتك
+      </p>
+
+      <p n="Burzoy Commends Secrecy">
+        فأجابه برزويه وقال من
+        <lb/>
+
+        أفضل المشار في المرء كتمانه السرّ وحفظه ما استُودع
+        <lb/>
+
+        منه وأنت رجائي
+      </p>
+
+      <p n="Burzoy Entrusts Secret To Friend">
+        وقدمت عليه فأمّا النجاح بإذن الله
+        <lb/>
+
+        ففي يدك والكتمان بأمر الله تعالى عليّ
+      </p>
+
+      <p n="Burzoy Vows Secrecy">
+        فلا تخف فلن
+        <lb/>
+
+        يجاوز هذا الأمر منّي ومنك إلى أحد يكرهه ويخاف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

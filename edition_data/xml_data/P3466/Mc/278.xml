@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="278"/>
+
+      <p n="The People Kill the Cats">
+        سنّورًا إلّا وأحلّوا به كلّ بليّة
+      </p>
+
+      <p n="The Third Vizier Foretells Success">
+        فهذا الطريق نتخلّص به من فزع السنانير
+      </p>
+
+      <p n="The King Enacts the Plan and the Cats Are Killed">
+        ففعل الملك ما أشار به وزيره فما مضت ستّة أشهر حتّى هلك
+        <lb/>
+
+        جميع السنانير الذين كانوا في تلك المدينة
+      </p>
+
+      <p n="The Next Generation Hates the Cats">
+        ومضى ذلك الفرق
+        <lb/>
+
+        من الناس ونشأ بعدهم فرق آخر على بغضة السنانير
+      </p>
+
+      <p n="The Damage Is Attributed to the Cats">
+        وكان متى
+        <lb/>
+
+        ظهر لهم أدنى فساد من الفأر في ثوب أو في فرش أو في مأكول
+        <lb/>
+
+        يقولون انظروا لا يكون اجتاز بهذه المدينة سنّور
+      </p>
+
+      <p n="Disease Is Attributed to the Cats">
+        وكانوا
+        <lb/>
+
+        أيضًا إذا متى حدث في الناس أو في البهائم مرض يقولون
+        <lb/>
+
+        يوشك أن يكون قد عبر في هذه المدينة سنّور
+      </p>
+
+      <p n="The Plan Saves the Rats">
+        فبهذه الحيلة
+        <lb/>
+
+        تخلّص الجرذان من فزع السنانير واطمأنّوا منهم
+      </p>
+
+      <p n="Man Should Heed This Example">
+        فإذا كان
+        <lb/>
+
+        هذا الحيوان الضعيف المهين احتال بمثل هذه الحيلة حتّى
+        <lb/>
+
+        تخلّص من عدوّه فما يجب أن يُقطع الرجاء من الإنسان الذي هو
+        <lb/>
+
+        أكيس الحيوان وأحكمه أن يدرك من عدوّه ما يريده بحيلته
+      </p>
+
+      <p n="Chapter Title">
+        باب الجرذ والسنّور
+      </p>
+
+      <p n="The King Asks about Escaping Enemies">
+        قال ديشليم الملك لبيدنا الفيلسوف قد فهمت هذا المثل فاضرب
+        <lb/>
+
+        لي مثل رجل ضعيف وأعداؤه كثيرة وحضروه من كلّ مكان فأشفى
+        <lb/>
+
+        على الهلاك فالتمس الصلح لبعض أعدائه فسلم بذلك ووفى لمن
+        <lb/>
+
+        صالح وأخبرني عن موضع الصلح كيف ينبغي أن يُلتمس
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="78"/>
+
+      <p n="The Ascetic Lodges with a Procuress">
+        تؤاجر لها
+      </p>
+
+      <p n="The Procuress's Problematic Slave Girl">
+        وكانت الجارية قد علقت رجلًا فهي لا تريد
+        <lb/>
+
+        غيره فأضرّ ذلك بمولاتها
+      </p>
+
+      <p n="The Procuress's Plot">
+        فاحتالت لذلك الرجل فواعدته
+        <lb/>
+
+        في تلك الليلة التي نزل بها الناسك عندها فحضرها
+        <lb/>
+
+        الرجل وجلسا
+      </p>
+
+      <p n="The Lover is Drugged">
+        وسقته من الخمر صرفًا حتّى إذا هي أسكرته
+        <lb/>
+
+        ونام ونامت الجارية إلى جانبه
+      </p>
+
+      <p n="The Poisonous Reed Pipe">
+        فلمّا غرقا في النوم عمدت المرأة
+        <lb/>
+
+        إلى ذرور سمّ كان أعدّته في قصبة لتنفخه في دبره فيهلك
+      </p>
+
+      <p n="The Plot Backfires">
+        فوضعت القصبة في دبره وطرحتها في فيها فسبقها
+        <lb/>
+
+        الرجل قبل أن تنفخ بريح من دبره فطار ذلك السمّ جميعه إلى
+        <lb/>
+
+        حلقها فوقعت ميّتة وكلّ ذلك يسمع الناسك ويبصره
+      </p>
+
+      <p n="The Ascetic Seeks New Lodging">
+        فلمّا
+        <lb/>
+
+        أصبح الناسك متوجّهًا إلى غير ذلك المنزل
+      </p>
+
+      <p n="The Ascetic and the Shoemaker">
+        فأضافه رجل
+        <lb/>
+
+        إسكافيّ فقال الإسكافيّ لامرأته أكرمي هذا الرجل وأحسني إليه
+        <lb/>
+
+        وقومي بخدمته فقد دعاني بعض أصدقائي للشرب في منزله
+      </p>
+
+      <p n="The Shoemaker Departs">
+        وانطلق الإسكافيّ مسرعًا
+      </p>
+
+      <p n="The Shoemaker's Adulterous Wife">
+        وكانت امرأته قد أحبّت رجلًا
+        <lb/>
+
+        وكان الرسول بينهما امرأة حجّام
+      </p>
+
+      <p n="The Wife Summons Her Lover">
+        فأرسلت امرأة الإسكافيّ
+        <lb/>
+
+        إلى امرأة الحجّام فأمرتها أن تسير إلى خليلها وتأمره بالمسير
+        <lb/>
+
+        إليها وتعلمه أنّ الإسكافيّ قد غاب عنها في الشرب
+        <lb/>
+
+        عند بعض إخوانه وليس يرجع إلّا في الليل سكرانًا
+      </p>
+
+      <p n="The Lover Waits">
+        فأقبل خليلها
+        <lb/>
+
+        وقت العشاء حتّى قعد على الباب ينتظر امرأة الإسكافيّ
+      </p>
+
+      <p n="The Shoemaker's Suspicion">
+        فانصرف الإسكافيّ إلى بيته بوقت وهو نشوان فلمّا رأى
+        <lb/>
+
+        خليل امرأته تبرّم به
+      </p>
+
+      <p n="The Wife is Beaten and Tied Up">
+        وغضب ودخل البيت فأوجع امرأته
+        <lb/>
+
+        ضربًا ثمّ أوثقها إلى سارية بالبيت
+      </p>
+
+      <p n="The Go-Between's Inquiry">
+        فلمّا هدت العيون ونام
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

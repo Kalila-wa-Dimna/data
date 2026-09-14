@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="71"/>
+
+      <p n="Dimna's Response about His Loyalty">
+        الملك رجاء أن تعرض حاجة للملك فأبذل لها نفسي
+        <lb/>
+
+        ورأيي
+      </p>
+
+      <p n="Dimna on the Value of Overlooked Individuals">
+        فإنّ أبواب الملوك يكثر فيها الأمور التي ربّما احتيج
+        <lb/>
+
+        فيها إلى من لا يُؤبه به وما أحد يصغر قدره إلّا وعنده من
+        <lb/>
+
+        المنافع بقدره
+      </p>
+
+      <p n="Analogy of Useful Discarded Objects">
+        حتّى إنّ العود الملقى في الأرض ربّما يأخذه الرجل
+        <lb/>
+
+        فينكش به أذنه عند الحاجة إليه
+      </p>
+
+      <p n="Comparison to Knowledgeable Beings">
+        فالحيوان الذي يعرف النفع
+        <lb/>
+
+        والضرّ هو أولى أن ينتفع به
+      </p>
+
+      <p n="Lion's Positive Impression of Dimna">
+        فلمّا سمع الأسد كلام دمنة أعجبه
+        <lb/>
+
+        وعلم أنّ عنده نصيحة ورأيًا
+      </p>
+
+      <p n="A Noble Man May Be Obscure">
+        فأقبل على من حوله وقال لهم إنّ الرجل
+        <lb/>
+
+        ذو العلم والمروءة يكون خامل الذكر مستهان الأمر خافض
+        <lb/>
+
+        المنزلة فتأبى منزلته إلّا أن تستبين وتُعرف
+      </p>
+
+      <p n="Analogy of a Flame's Inevitable Rise">
+        كالشعلة
+        <lb/>
+
+        من النار يضرمها صاحبها فتأبى إلّا ارتفاعًا
+      </p>
+
+      <p n="Dimna Seizing the Opportunity to Impress">
+        فلمّا عرف دمنة
+        <lb/>
+
+        أنّ الأسد قد أعجب به قال إنّ من عند الملك ومن يحضره بابه
+        <lb/>
+
+        لجدير أن يعرف الملك ما عندهم من علم أو أمر وما يبذلون
+        <lb/>
+
+        له من الرأي والنصيحة فإنّ الملك لا ينتفع بهم ولا ينزلهم
+        <lb/>
+
+        منازلهم دون أن يعرف أخلاقهم وآراءهم
+      </p>
+
+      <p n="Analogy of Hidden Crop's True Value">
+        كالزرع المدفون في
+        <lb/>
+
+        الأرض من الحنطة والشعير لا يستطيع أحد أن يعرفه حتّى يكون
+        <lb/>
+
+        هو الذي يخرج ويُعرف ويظهر نفسه
+      </p>
+
+      <p n="Duty of Courtiers to Share Their Knowledge">
+        وحقًّا على من حضر السلطان
+        <lb/>
+
+        أن يطلعه على ما عنده من المنفعة والرأي والأدب
+      </p>
+
+      <p n="Leaders Must Place Things Properly">
+        فإنّه يُقال
+        <lb/>
+
+        شيئان لا ينبغي لأحد ولو كان ملكًا أن يضع واحدًا منهما في غير
+        <lb/>
+
+        موضعه ولا يزيله عن منزلته أحدهما حلية الرأس والآخر حلية
+        <lb/>
+
+        الرجلين
+      </p>
+
+      <p n="Analogy of Misplaced Ornaments">
+        فإنّه يُعدّ جاهلًا من عقد على رأسه حلية الرجلين وعلى
+        <lb/>
+
+        الرجلين حلية الرأس
+      </p>
+
+      <p n="Analogy of Comparing Precious Stones to Lead">
+        ومن شبّه اللؤلؤ والياقوت بالرصاص فليس
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

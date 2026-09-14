@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="289"/>
+
+      <p n="Intelligence Is Like the Sea">
+        وهم يعلمون بهاتين الخصلتين
+      </p>
+
+      <p n="Situations Do Not Blind the Intelligent">
+        أنّه لا يبلغ البلاء من ذوي الرأي
+        <lb/>
+
+        مجهود عقله فيهلكه ولا الرجاء يبلغ منه مبلغًا يبطره ويشكره
+        <lb/>
+
+        وتعمي عليه أموره
+      </p>
+
+      <p n="The Rat Decides on a Pact with the Cat">
+        وقد نظرت فلا أعلم لي حيلة في هذا الشرّ والنجاة
+        <lb/>
+
+        منه أمثل من التماس صلح السنّور فإنّه قد نزل به بلاء فادح
+        <lb/>
+
+        وأصابه من الشرّ مالا يستطيع أحد أن يخلّصه منه غيري ولعلّه
+        <lb/>
+
+        لو قد يسمع منّي ما أنا قائل له من الكلام الصحيح الصادق الذي
+        <lb/>
+
+        لا خداع فيه أن يفهم عنّي ويطمع في معونتي ويسكن لذلك بصلحي
+        <lb/>
+
+        لنفع نفسه فأتخلّص به أيضًا من هذا الشرّ الذي أنا مشرف
+        <lb/>
+
+        عليه ويكون له ولي في ذلك نجاة
+      </p>
+
+      <p n="The Rat Comes Up to the Cat">
+        ثمّ دنا من السنّور فناداه
+        <lb/>
+
+        فقال أيّها السنّور كيف حالك
+      </p>
+
+      <p n="The Cat Acknowledges Being Trapped">
+        قال كالذي تراه في الضيق
+        <lb/>
+
+        والضنك وقد تراني كذلك فما مساءلتُك إيّاي
+      </p>
+
+      <p n="The Rat Points Out Their Common Problem">
+        قال الجرذ لا أكذب
+        <lb/>
+
+        فإنّ الكذب مكروه لعمري لقد كنت وأنا يسرّني ما ساءك وأرى
+        <lb/>
+
+        ما ضيّق عليك لي سعة وأشتهي مع ذلك حضور أجلك ولكنّي
+        <lb/>
+
+        لقد شاركتك في البلاء وقد نزل بي من الشرّ ما لا يسرّني معه ضيق
+        <lb/>
+
+        مكانك ولست أرجو لنفسي خلاصًا إلاّ بالذي أرجوه لك
+        <lb/>
+
+        وأنت أيضًا ليس أحد يقدر عليك ولا على تخليصك من هذا المكان
+        <lb/>
+
+        غيري وأنا على شرف حتف من ابن العرس والبومة فذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

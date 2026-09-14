@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="123"/>
+
+      <p n="Marzuban Orders Wife to Be Killed">
+        |فقال بلْ أقتلْها
+      </p>
+
+      <p n="Wife Asks Him to Investigate">
+        فقالتْ ### واجتهدتْ حالِفَةً وآلَتْ
+        <lb/>
+
+        |إنّي من قولِهِما بريَّهْ ### فاسألْهُما لتكشِفَ البليَّهْ
+      </p>
+
+      <p n="Falconer's Training of Parrots Is Discovered">
+        |هل يعرفانِ غيرَ هذا قَوْلا ### فعرفَ الصوابَ منها المولى
+        <lb/>
+
+        |حتّى إذا ما سُئلا لم يُفْصِحا ### وشرحتْ قصّتَها ففُضِحا
+      </p>
+
+      <p n="Falcon Gouges Out His Eyes">
+        |ثمّ أتى والبازُ فوق كفِّهِ ### يَجْبَهُها وقاحةً بقَذْفِهِ
+        <lb/>
+
+        |فأخذَ البازيُّ عينَيْهِ معا ### وأمرَ المولى لهُ فقُطِّعا
+      </p>
+
+      <p n="Happpy End and Moral of Falconer's Tale">
+        | هذا جزاءُ مَن يقولُ الزورا ### وليس عند ربِّهِ مَعْذورا
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded and Court's Members Leave for the Day">
+        |وأمرَ القاضي بِهِ فحُبِسا ### إذ لم يضِحْ مِن أمرِهِ ما التَبَسا
+        <lb/>
+
+        |ورجعَ القومُ
+      </p>
+
+      <p n="Judge Passes Dimna's Testimony of Second Day to Lion">
+        فقال للأَسَدْ ### ما قد جرى مِن قولِهِ وما جَحَدْ
+      </p>
+
+      <p n="The Lion Shows the Records to His Mother Who Warns of Dimna’s Past and Future Crimes">
+        |ثمّ أتتْهْ بعد ذاك أمُُّه ### قائلةٍ قد صحَّ عندي جُرْمُهُ
+        <lb/>
+
+        |فجازِهِ بالقتلِ قال مَهْلا ### تَرَفَّقي ولا تكوني عَجْلى
+        <lb/>
+
+        |حتّى أَحِقَّ جُرمَهُ فإنّي ### أخافُ أن أقتلَهُ بالظَّنِّ
+        <lb/>
+
+        |ثمّ يقولُ قائلٌ ما أَجْرَما ### فمَن تَأَنّى في الأمورِ سَلِما
+      </p>
+
+      <p n="Lion Moved by Mother's Words">
+        |فحدِّثيني مَن أتاكِ بالخَيَرْ ###
+      </p>
+
+      <p n="Mother Wants to Keep Source Secret">
+        قالتْ وهلْ يجوزُ ذِكْرُ مَن أَسَرْ
+        <lb/>
+
+        |وَهْوَ الذي لا شكَّ في أمانَتِهْ ### وقولِهِ الصدقَ وفي دِيانَتِهْ
+        <lb/>
+
+        |إنّي إن كنتُ بسرٍّ بائِحَهْ ### طالحةٌ أُعَدُّ غيَ صالِحَةْ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

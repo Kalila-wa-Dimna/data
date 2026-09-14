@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="68"/>
+
+      <p n="Kalila's Warning">
+        ثمّ إنّ دمنة ترك الدخول على الأسد أيّامًا
+      </p>
+
+      <p n="Dimna Hints at Unwelcome News">
+        ثمّ أتاه على حال خلوة منه فأراه
+        <lb/>
+
+        التحرّز
+      </p>
+
+      <p n="The Lion Asks Dimna About His Absence">
+        فقال له الأسد ما حبسك منذ زمان لم أرك أخير لي
+      </p>
+
+      <p n="Dimna's Vague and Ominous Reply">
+        قال دمنة
+        <lb/>
+
+        ليكن خير
+      </p>
+
+      <p n="The Lion Asks if Something Happened">
+        قال الأسد هل حدث شيء
+      </p>
+
+      <p n="Dimna Confirms Unwanted Events">
+        قال دمنة نعم حدث ما لم يكن الملك
+        <lb/>
+
+        يريده ولا أنا
+      </p>
+
+      <p n="The Lion Asks What Happened">
+        قال الأسد وما ذلك
+      </p>
+
+      <p n="Dimna's Preamble on Delivering Unpleasant Advice">
+        قال دمنة إنّه ما كان من الكلام يكرهه
+        <lb/>
+
+        سامعه ثم يتشجّع عليه قائله فهو خرق من قائله إلّا أن يثق بعقل المقول
+        <lb/>
+
+        له ذلك فإنّه إذا كان المقول له عاقلا احتمل ذلك واستمعه لأنّه ربّما
+        <lb/>
+
+        عطب فيما بين ذلك غير أنّ القائل يحتمل ما يتخوّف من عاقبته بما فيه من
+        <lb/>
+
+        أذى ما لزمه من حقّ ذي الحقّ
+      </p>
+
+      <p n="Dimna Praises the Lion's Wisdom to Justify His Frankness">
+        وأنت أيّها الملك ذو فضيلة في الرأي
+        <lb/>
+
+        والأناة مستمع لثقتي بفضلك على أن أخبرك بما انتهى إليه علمي وإن ظننت
+        <lb/>
+
+        أنّك له كاره واثق بأنّك تعرف نصحي لك وإيثاري إيّاك على نفسي
+      </p>
+
+      <p n="Dimna States His Duty to Speak">
+        وإنّه
+        <lb/>
+
+        ليعرض لي بأنّك غير مصدّق بما أنا مخبرك به ولكنّي إذا تذكّرت أنّ أنفسنا
+        <lb/>
+
+        معاشر السباع معلّقة بنفسك لم أجد بدًّا من قضاء الحقّ الذي يلزمني لك
+        <lb/>
+
+        أن أبلّغه إليك وإن أنت لم تسألني أو خفت أن لا تقبل منّي
+      </p>
+
+      <p n="The Maxim of Not Hiding Advice from a Ruler">
+        فإنّه من كتم
+        <lb/>
+
+        السلطان نصيحته والأطبّاء مرضه والإخوان رأيه فقد خان نفسه
+      </p>
+
+      <p n="The Lion Asks for the Advice">
+        قال
+        <lb/>
+
+        الأسد وما ذاك
+      </p>
+
+      <p n="Dimna Accuses Shatraba of Slandering the Lion's Strength">
+        قال دمنة حدّثني المصدّق المؤتمن عندي أنّ شتربة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

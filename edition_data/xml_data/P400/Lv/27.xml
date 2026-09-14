@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="27"/>
+
+      <p n="Kisra Orders Chapters Place">
+        واجعل ذلك الباب في أوّل الأبواب
+      </p>
+
+      <p n="Kisra Plans Public Reading">
+        وإذا أنت فرغت من
+        <lb/>
+
+        ذلك ووضعته على أفضل ترتيب فأدنيه منّي حتّى أعلم ما فيه وأجمع
+        <lb/>
+
+        العلماء والرؤساء والأشراف فتقرأه عليهم ليظهر من
+        <lb/>
+
+        علمك وأدبك واجتهادك وفضلك وبلاغتك وكلّ ذلك
+        <lb/>
+
+        إجلالًا لك ولبرزويه
+      </p>
+
+      <p n="Invocation For Kisras Elevation">
+        فلمّا سمع برزويه مقالة الملك
+        <lb/>
+
+        وعظيم قدره عنده وشرف منزلته منه خرّ ساجدًا وقال
+        <lb/>
+
+        أدام الله لك النعمة أيّها الملك والسرور وقرّة العين ورزقك
+        <lb/>
+
+        في الدنيا الشرف الذي تفوق به جميع المخلوقين وفي الآخرة أفضل
+        <lb/>
+
+        المنازل مع الصالحين المستوجبين جنّات النعيم
+      </p>
+
+      <p n="Burzoy Buzurgmihr Exit">
+        ثمّ ودّع
+        <lb/>
+
+        الملك وخرج ومضى بزرجمهر بن البختكان
+      </p>
+
+      <p n="Buzurgmihr Begins Composition">
+        وشرع في صنعة
+        <lb/>
+
+        الباب
+      </p>
+
+      <p n="Contents Of Bu Chapter">
+        ووصف أمر برزويه من أوّل ما رفعه أبوه إلى
+        <lb/>
+
+        المكتب في تعليمه الطبّ والحكمة إلى أن بعثه الملك إلى
+        <lb/>
+
+        الهند بأحسن ما يقدر عليه من الوصف وذكر سيرته وزهده في الدنيا
+        <lb/>
+
+        وتنقّله من حال إلى حال واستعفافه الدنيا ورغبته في الآخرة
+      </p>
+
+      <p n="Chapter Read Publicly">
+        فلمّا فرغ بزرجمهر من ذلك أعلم أنوشروان المَلك فأمر أن يجتمع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

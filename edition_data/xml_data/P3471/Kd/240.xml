@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="240"/>
+
+      <p n="Philosopher Adds Consultation">
+        ثمّ الوزير الصالح الأمين الناصح ولا سيّما للملوك خاصّة
+      </p>
+
+      <p n="Philosopher Adds Good Wife">
+        فإنّه لا شيء أعون لهم منه ومن صلاح المرء في معيشته
+        <lb/>
+
+        والمرأة الصالحة الفاضلة الرأي المواتية
+      </p>
+
+      <p n="Without Advice One Fails">
+        فإنّ الرجل
+        <lb/>
+
+        وإن كان شجاعًا ماضيًا ثمّ لم يكن له حلم وعقل وكان أهل
+        <lb/>
+
+        مشورته غير موثوق بهم فإنّه يهضمه اليسير من الأمر حتّى يرى
+        <lb/>
+
+        فيه الفسخ والضعف والقبح لجهالته وخطل رأي نصحائه
+        <lb/>
+
+        وإن أصاب ظفرًا ولقي رشدًا القدر ساقه إليه فصيّره إلى
+        <lb/>
+
+        السرور والغبطة والظفر والفلاح فإنّه صائر إلى ندامة
+        <lb/>
+
+        وهلكة عاقبة أمره فيه
+      </p>
+
+      <p n="Fortunate King">
+        وإذا كان على خلاف ذلك من الفضل
+        <lb/>
+
+        ونبل الوزير ثمّ أعانة القضاء
+      </p>
+
+      <p n="Advice Empowers">
+        فإنّه رأس الأمور والمسلّط
+        <lb/>
+
+        على الأشياء أصاب الفلح على من خاصمه والغلبة لمن ناوأه والسرور
+        <lb/>
+
+        لمن أحزنه وأكثر من يغتبط برأيه العالم المشاور والعلماء
+      </p>
+
+      <p n="Competent Vizier">
+        وإذا
+        <lb/>
+
+        كان الملك عاقلًا وكان مشاوره حكيمًا شجاعًا أمينًا ناصحًا
+        <lb/>
+
+        أُعطي الفضل والظفر والفلح ولم يزل في خير وسعادة
+        <lb/>
+
+        من الجدّ ولم يظفر به عدوّه وظفر هو به
+      </p>
+
+      <p n="Vizier Protects King">
+        ولو أراد أمرًا ما عسى
+        <lb/>
+
+        أن يكون له ضارًّا ولعدوّه نافعًا خلص من ذلك برأي وزرائه
+        <lb/>
+
+        وأصاب حاجته
+      </p>
+
+      <p n="King And Vizier Tale Mention">
+        كالذي كان بين سادوم ملك الهند وامرأته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

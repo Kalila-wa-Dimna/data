@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="54"/>
+
+      <p n="The Ascetic Lodges with a Procuress">
+        فلمّا رآهما الناسك مضى متوجّهًا في طلب الرجل المذكور حتّى أتى المدينة
+        <lb/>
+
+        مساء فنزل بامرأة فاجرة وكانت لها جارية توافقها فتؤجّرها
+      </p>
+
+      <p n="The Procuress's Problematic Slave Girl">
+        وكانت الجارية
+        <lb/>
+
+        قد عشقت رجلًا فهي لا تريد غيره فأضرّ ذلك بالمرأة فيما كانت تروم
+        <lb/>
+
+        من كراء جاريتها
+      </p>
+
+      <p n="The Procuress's Plot">
+        فالتمست هلاكه في تلك الليلة التي أضافت فيها
+        <lb/>
+
+        الناسك
+      </p>
+
+      <p n="The Lover is Drugged">
+        فسقته الجارية من الخمر صرفًا حتّى ثمل ونامت الجارية معه
+      </p>
+
+      <p n="The Poisonous Reed Pipe">
+        فجاءت
+        <lb/>
+
+        له المرأة بقصبة فيها سمًّا فكانت تنفخه في دبره
+      </p>
+
+      <p n="The Plot Backfires">
+        فلمّا وضعت القصبة
+        <lb/>
+
+        في دبره وأرادت تنفخ فيها بدرتها ريح خرجت من دبره قبل أن تنفخ فسرى
+        <lb/>
+
+        ذلك السمّ في حلق المرأة فماتت مكانها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

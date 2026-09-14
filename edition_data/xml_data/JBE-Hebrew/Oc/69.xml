@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>JBE-Hebrew</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="69"/>
+
+      <p n="Chapter Title">
+        שער העוף הנקרא בלשון ערב כום והעורבים
+        <lb/>
+
+        והוא שער המרמה והעוקבה
+      </p>
+
+      <p n="The King Understood Previous Chapter">
+        ויאמר המלך לדוד הכמות כבר הבינותי דבר הידידים הנאהבים הנכבדים.
+        <lb/>
+
+        טהורי לב והעריבים.
+      </p>
+
+      <p n="The King Asks If Foes Can Become a Friends">
+        ועתה הגידה לי דבר האויב. הישוב אוהב. אם יתכן לבטוח
+        <lb/>
+
+        באהבתו. אחרי שנאתו. ועל ידידותו. אחרי איבתו.
+      </p>
+
+      <p n="The King Asks about Fawning Foes">
+        ותודיעני דבר האיבה ועניינה.
+        <lb/>
+
+        וצרתה ושאונה. ואיך יתכן למלכים. להשלים בוגדים. אשר הות בקרבם. דוברי
+        <lb/>
+
+        שלום עם רעיהם ורעה בלבם. ואשר ישאו קולם בתחנונים. ובקרבם תאונים.
+      </p>
+
+      <p n="The Philosopher Answers, Foes Cannot be Trusted">
+        ויאמר
+        <lb/>
+
+        דוד הכמות לא יאות לבטוח עליו. ולא להאמין בשקר מיליו.
+      </p>
+
+      <p n="Foes May Take Advantage">
+        ואם החליק על רעהו
+        <lb/>
+
+        לגנוב לבו ודעתו. לא יחליק. כי אם לרמותו ולעקבו. כי יחנן קולו אל תאמין בו.
+        <lb/>
+
+        כי שבע תועבות בלבו.
+      </p>
+
+      <p n="The Parable of the Owls and the Crows">
+        ואם האמין יקריהו כמו שקרה לעורבים עם כום חרבות.
+      </p>
+
+      <p n="The King Requests the Parable">
+        ויאמר המלך איכה היה הדבר
+        <lb/>
+
+        צורת המלך ודוד הכמות
+      </p>
+
+      <p n="The Crow Kingdom and the Owl Kingdom">
+        ויאמר דוד הכמות אמרו כי אצל מדינה פלונית אלה עבותה רבת ענפים.
+        <lb/>
+
+        ארובת שעיפים. ותחתן צמרתה אל בין עבותים. ויהיו מקנים אלף עורב בסעיפותיה
+        <lb/>
+
+        ועורב אחד מלך עליהם. ואצלה הר גבוה היו מקנים בו אלף כום ומלך אחד
+        <lb/>
+
+        עליהם. כום אחד מנדוליהם.
+        <lb/>
+
+        צורת העורבים באלה ועדת הכום בהר
+      </p>
+
+      <p n="The Owls Attack the Crows">
+        ויבא מלך הכום לילה הוא ועבדיו. וכל חיליו וגדודיו. ויכו בעורבים מכה
+        <lb/>
+
+        גדולה ויבאו בכל מושבותם. ויבוזו אותם. כי איבת כום חרפות לעורבים כאיבת
+        <lb/>
+
+        הנואל הרם לרוצח. איבת עולם לא תשכח.
+      </p>
+
+      <p n="The Morning in the Battle Aftermath">
+        וישכב מלך העורבים בבקר ויקבוץ את
+        <lb/>
+
+        כל העורבים. ויהיו לפניו כאיש אחד נצבים.
+      </p>
+
+      <p n="The Crow King Evaluates the Damage">
+        ויאמר להם פתחו עיניכם ופקחו
+        <lb/>
+
+        אוניכם. לרעה הגדולה הבאה עליכם. אשר לא באה כמוה מהיות נוי אליכם.
+      </p>
+
+      <p n="The Crow King Fears Recurring Aggression">
+        ומכום
+        <lb/>
+
+        חרבות אשר ממנו נגרו. שימו לבבכם עליה עוצו ודברו. אם תחפצו בנפשכם שלום.
+        <lb/>
+
+        הבו לכם דבר עצה הלום. התחזקו והיו לאנשים עורבים. פן תעבדו לאויבים. כי
+        <lb/>
+
+        השבמנו באלה הזאת אשר היא לכל רואיה צבי. אשר לחרב לחרב ואשר לשבי
+        <lb/>
+
+        לשבי. ובמה מכם שבורי כנפים. ומנוקרי עינים. וחלחלה בכל מתנים. וכל ברכים
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

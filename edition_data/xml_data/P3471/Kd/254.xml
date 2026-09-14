@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="254"/>
+
+      <p n="unassigned">
+        والعودة إلى المودّة وأمّا البريد والرسل وكلّما ذكرت لك فإنّه متقادم
+        <lb/>
+
+        عندك إلى سبعة أيّام وواصلون إليك حتّى يقوموا بين يديك
+      </p>
+
+      <p n="King Is Thankful">
+        فلمّا سمع الملك ذلك سجد بين يدي كمابيرون الفاضل العالم وكفّر له
+        <lb/>
+
+        وانصرف إلى منزله مسرورًا
+      </p>
+
+      <p n="King Awaits Fulfilment">
+        وقال إنّ كمابيرون الفاضل الفهم
+        <lb/>
+
+        وأنا حقيق أن أنظر فيما قال وا
+      </p>
+
+      <p n="Gifts Arrive Day By Day">
+        فجعلت الهدايا التي وصفها له كمابيرون
+        <lb/>
+
+        يرد إليه منها في كلّ يوم شيء فلمّا مضت سبعة أيّام استكملت الهدايا
+        <lb/>
+
+        وجمعها بين يديه
+      </p>
+
+      <p n="Kings Joy">
+        وفرح لذلك فرحًا شديدًا
+      </p>
+
+      <p n="Gift Receiving Ceremony">
+        ولبس زينته وقعد
+        <lb/>
+
+        في مجلسه ودعا العظماء من أصحابه والأشراف من أحبائه وأخصائه
+        <lb/>
+
+        وجِيء بالهدايا فوضعت بين يديه
+      </p>
+
+      <p n="King Regrets Sharing Secret">
+        ولام نفسه وقال لقد عجزت
+        <lb/>
+
+        وخرقت حين أفشيت سرّي
+      </p>
+
+      <p n="King Regrets Relating Dreams">
+        وقصصت رؤياي على البرهميّين لأنّهم
+        <lb/>
+
+        الأعداء السوء الأكياد فأمروني بما لو أطعتهم فيه كانت منه هلكتي
+        <lb/>
+
+        في العاجل والآجل
+      </p>
+
+      <p n="King Thankful For Queens Advice">
+        ولولا أنّ الله يرحمني وتداركني برأي إبراخت
+        <lb/>
+
+        لكنت هلكت وضاع أمري وزالت دنياي
+      </p>
+
+      <p n="One Must Consult Right People">
+        فكذلك ينبغي للعاقل
+        <lb/>
+
+        أن يشاور أهل النصيحة ويسمع من الأخلّاء والأحبّاء وذوي القرابة
+        <lb/>
+
+        رأيهم ويقبل مشورتهم
+      </p>
+
+      <p n="Queens Advice Saved King">
+        فإنّ إبراخت أشارت عليّ بخير رأيِ فقبلته
+        <lb/>
+
+        واغتبطّت به وثبّت الله لي ملكي برأي الأخلاء والنصحاء
+      </p>
+
+      <p n="King Appreciates Wise Man">
+        واستبان
+        <lb/>
+
+        لي فضل علم كمابيرون وصدق قوله وحكمته ودخوله في الأمور الغامضة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

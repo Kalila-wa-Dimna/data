@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="200"/>
+
+      <p n="The Rat Promises Faithfulness">
+        الوفاء بما جعلت لك من نفسي فاقبل منّي واسترسل إليّ ولا تؤخّر العمل فلعلّ
+        <lb/>
+
+        الصيّاد يأتيك فتلقى ما تكره وأقع فيما لا أحبّ
+      </p>
+
+      <p n="The Intelligent Does Not Postpone Action">
+        فإنّ العاقل لا يؤخّر عمله
+      </p>
+
+      <p n="The Cat Should Desire Common Rescue">
+        ولتطب
+        <lb/>
+
+        نفسك ببقائي كما طابت نفسي ببقائك فإنّ كلّ واحد منّا سبب خلاصه بصاحبه
+        <lb/>
+
+        بعون الله تعالى
+      </p>
+
+      <p n="Sailors Depend on Ships and Vice Versa">
+        كما أنّ السفينة والركّاب في البحر تخرج السفينة بالركّاب
+        <lb/>
+
+        وبهم تخرج السفينة
+      </p>
+
+      <p n="Everything Happens According to Fate">
+        وكلّ ذلك تأتي عليه مقادير بما هو آت
+      </p>
+
+      <p n="The Cat Puts His Trust in the Rat">
+        فلمّا سمع السنّور
+        <lb/>
+
+        مقال الجرذ عرف صدقه وسُرّ بذلك وقال للجرذ إنّك على قولك فورًا لا
+        <lb/>
+
+        أشكّ في صدقك عندي فيه فأنا قابل هذا الصلح الذي أرجو لنفسي ولك
+        <lb/>
+
+        به الخلاص وسأشكر ذلك لك أيّام حياتي ومجازيك به أحسن الجزاء
+      </p>
+
+      <p n="The Rat Explains the Strategy">
+        قال الجرذ فإذا دنوت منك فضمّني إليك والطف بي فإنّه إذا رأى ابن
+        <lb/>
+
+        عرس والبومة منك ما يعرفان به صلحنا انصرفا عنّا وأقبلت على قرض حبائلك
+      </p>
+
+      <p n="The Cat Accepts the Pact">
+        قال السنّور أفعل ذلك ونعمة
+      </p>
+
+      <p n="The Cat Fulfills His Part">
+        فدنا منه الجرذ فالتزمه السنّور وصالحه
+        <lb/>
+
+        وسُرّ به
+      </p>
+
+      <p n="The Foes Leave Frustrated">
+        فلمّا رأى ابن عرس والبومة ذلك يئسا وانصرفا خائبين
+      </p>
+
+      <p n="The Rat Begins to Cut the Rope">
+        وأخذ الجرذ
+        <lb/>
+
+        في قطع حبائل السنّور
+      </p>
+
+      <p n="The Cat Deems the Rat's Efforts Slow">
+        فاستبطأه السنّور في قطع الحبائل وقال مالي أراك
+        <lb/>
+
+        كأنّك لست تجدّ في قطع حبائلي فإن كنت لمّا ظفرت بحاجتك تغيّرت عمّا كنت عليه
+        <lb/>
+
+        وتوانيت في حاجتي
+      </p>
+
+      <p n="The Noble Must Help">
+        فما ذلك من فعل الصالحين ولا من أخلاق أهل الكرم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

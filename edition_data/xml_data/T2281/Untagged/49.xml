@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T2281</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="49"/>
+
+      <p n="unassigned">
+        على الأمر الذي جاء بقصده وهو مع ذلك يبلوه ويختبره
+        <lb/>
+
+        لينظر هل هو أهل كي يطلعه على كمنة حاله ويعرّفه
+        <lb/>
+
+        سبب ارتحاله ولم يزل يبحث على ذات نفسه حتّى
+        <lb/>
+
+        وثق وعرف أنّه أهل لما يستودعه من سرّه الذي
+        <lb/>
+
+        كتمه عنه وأنّه لهو فيه مساعد ومعين وعنده
+        <lb/>
+
+        يسير ذلك قال له وهو على مجلس التفاوضة
+        <lb/>
+
+        يا أخي ما أريد أن أكتمك من أمري فوق ما خفيته عنك
+        <lb/>
+
+        واعلم أنّي قدمت لأمر غير الذي تراه منّي وقد
+        <lb/>
+
+        يُقال العاقل يكتفي من الرجل بنظره في وجهه
+        <lb/>
+
+        ليعلم بذلك سرّ توسّمه وسرّه ومقصوده وقد أيقنت
+        <lb/>
+
+        فيك مظانّة الخير وإنّي لمحقّق فيك حسن التعاطي
+        <lb/>
+
+        لما أرجوه وإنّ لك أن تهتمّ بأمري وتسعى لكشف
+        <lb/>
+
+        ضرري قال الهنديّ إنّي لأعلم كنية ذلك
+        <lb/>
+
+        وأنّك إنّما جئت لأمر مهمّ فرغبت في إخائك وكرهت
+        <lb/>
+
+        أن أواجهك بما عقد عليه ضميرك وقد استبان لي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

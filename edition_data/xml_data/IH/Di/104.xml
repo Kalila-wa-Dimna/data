@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="104"/>
+
+      <p n="Who Keeps Bad Company Does Not Escape Evil">
+        |بل مثلٌ لصُحبةِ الأشرارِ ### فإنّها تؤذنُ بالدَّمارِ
+        <lb/>
+
+        |من صاحَبَ الشرّيرَ لاقى شرًّا ### وساءَهُ من أمرِهِ ما سَرّا
+      </p>
+
+      <p n="Ascetics Shun People's Company">
+        |لذك لم يصحبْهُمُ الزُّهادُ ### والعلماءُ السادةُ العبّادُ
+        <lb/>
+
+        |وانفردوا عنهم وفي التفرُّدْ ### رَوْحٌ من الهمومِ والتلدُّدْ
+        <lb/>
+
+        |والله ما العاقلُ إلّا الزاهِدْ ### في الكَوْنِ لا العالِمُ والمُجاهِدْ
+        <lb/>
+
+        |لأنّهمْ لا يعدلونَ حُكْما ### ولا يرونَ الحُكْمَ إلّا ظُلْمًا
+        <lb/>
+
+        |فيجعلونَ البَرَّ مثلَ الفاجِرْ ### وحسبُهُمْ ذاك مِن المُغايِر
+      </p>
+
+      <p n="Only God Rewards Justly">
+        وليس يَجزي مُحسنًا بالحُسنى ### إلّا القديمُ رأفةً ومَنّا
+        <lb/>
+
+        |والناسُ يُعطونَ بلا استحقاقِ ### أمورُهُمْ تجري بالاتّفاقِ
+      </p>
+
+      <p n="The King Is Most Deserving of the Truth/Good Attributes">
+        |لكنّ أولى الناسِ بالصوابِ ### ألمَلِكُ المالِكُ للرِّقابِ
+        <lb/>
+
+        |لأنّه يفعلُ لا لحاجَهْ ### ولا يخافُ اللومَ واللَّجاجَهْ
+      </p>
+
+      <p n="Dimna Claims He Only Warned Lion of Ox's Treason">
+        |وإنّني خدَمتُهُ بخِدمَهْ ### رجوتُ منها زُلْفَةً ونِعمَهْ
+        <lb/>
+
+        |نصحتُه وكلُّ مَن لا ينصَحُ ### مالِكَهُ فالكلبُ منه أصلحُ
+        <lb/>
+
+        |خوفًا عليه مِن عنادِ المارِقِ ### شتربةَ المُخالفِ المُنافقِ
+        <lb/>
+
+        |ولو كتمتُ ذاك عنهُ خُنْتُهْ ### فصنتُ نفسي جاهِدًا وصُنْتُهْ
+      </p>
+
+      <p n="Dimna Says the King Saw the Same Signs">
+        |وقد رأى فيه دليلَ صِدقي ### وما أتى ما جاءَهُ بِخُرْقِ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

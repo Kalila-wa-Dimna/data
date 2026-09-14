@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="214"/>
+
+      <p n="Firefly Is Mistaken for Fire">
+        الليل كالنهار فإذا قضى عليها الجاهل بالنظر بالبعد ظنّ
+        <lb/>
+
+        أنّها نارًا فإذا أخذها ولمسها بيده علم أنّه قد أخطأ
+        <lb/>
+
+        القدر بأنّها نارًا
+      </p>
+
+      <p n="King Should Have Investigated">
+        وأنت أيّها الملك حقيق عليك أن تنظر
+        <lb/>
+
+        في حقّ ابن آوى هل كان كالذي قُذف به تحميلًا أم حقيقًا
+      </p>
+
+      <p n="Jackal Eats no Meat">
+        وكيف يتمّ هذا منه وهو لا يأكل لحم
+      </p>
+
+      <p n="Jackal Gave Back Meat">
+        وإنّه قد كان يوفّره
+        <lb/>
+
+        لأجلك
+      </p>
+
+      <p n="Accusing Jackal after Testing Him Is Absurd">
+        وكيف تتّهمه بعد اختبار أمانته مع علمك أنّه لا
+        <lb/>
+
+        يأكل لحم ولا هو من أرباب التهم
+      </p>
+
+      <p n="King Must Investigate Now">
+        والواجب أن يثبّت
+        <lb/>
+
+        الملك ويتأنّى ويفحص عن أمره في ذلك
+      </p>
+
+      <p n="Jackal Has Many Enviers">
+        فإنّ له أعداء
+        <lb/>
+
+        وحسّاد كثير من أجل خدمتك
+      </p>
+
+      <p n="Jackal's Foes Perhaps Hid Meat">
+        ولا يبعد أن يكون بعض
+        <lb/>
+
+        الحسّاد له قد سرق هذا اللحم ومضى به إلى منزله وخبّأه
+        <lb/>
+
+        فيه وهو لا يعلم ذلك
+      </p>
+
+      <p n="Dog's Bone Attracts Competitors">
+        لأنّ الكلب إذا كان في فيه عظم
+        <lb/>
+
+        أقبلوا عليه الكلاب من كلّ جانب يرومون انتزاعه منه
+        <lb/>
+
+        ومغاصبته إيّاه
+      </p>
+
+      <p n="Lion Benefited from Jackal">
+        وإنّ ابن آوى كان إلى اليوم نافعًا
+      </p>
+
+      <p n="Jackal Toiled for Lion">
+        محتملًا
+        <lb/>
+
+        لكلّ ضرّ مصيره إليه من حيث منفعة الملك وراحة سرّه
+      </p>
+
+      <p n="Jackal Hid no Secrets from Lion">
+        ولم
+        <lb/>
+
+        يطوي عنك سرًّا ولم يكن يطوي ما يشقّ على الملك من جميع
+        <lb/>
+
+        المخلوقين في راحة تصل إليك وما كان ممّن يقعد عن
+        <lb/>
+
+        قول أو فعل يفعله لرضاك
+      </p>
+
+      <p n="Courtier Exonerates Jackal">
+        فبينما أمّ الأسد تقصّ عليه
+        <lb/>
+
+        مثل هذه الأمثال إذ دخل عليه بعض ثقاته فأخبره براء
+        <lb/>
+
+        ابن آوى أنّهم تقوّلوا عليه ظلمًا وزورًا
+      </p>
+
+      <p n="Mother Reaffirms Intrigue">
+        قالت أمّ الأسد الحمد
+        <lb/>
+
+        لله تعالى الذي قد أظهر للملك براءته وتأييد كلمتي ثمّ إنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

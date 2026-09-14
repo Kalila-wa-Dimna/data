@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M487</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="84"/>
+
+      <p n="Friend Aware Of Burzoys Secret">
+        قال الهنديّ إنّي لم أكن بدأتك وأخبرتك لما له قدمت بلادنا وإيّاه قصدت
+        <lb/>
+
+        وكتمته وأظهرت ضدّه فما خفي عليّ ذلك منك
+      </p>
+
+      <p n="Friend Shuns Confrontation">
+        ولكن لرغبتي في إخائك
+        <lb/>
+
+        كرهت أن أواجهك بأنّه قد ظهر ما كُتم وأنّه قد استبان لي ما أخفيته عنّي
+      </p>
+
+      <p n="Friend Infers Burzoys Secret">
+        فأمّا إذا بدأت بالكلام فيه فإنّي مخبرك عن نفسك ومظهر لك سريرة
+        <lb/>
+
+        أمرك
+      </p>
+
+      <p n="Friend Guesses Burzoys Mission">
+        وذلك أنّك قدمت بلادنا لتسلبنا كنوز أنفسنا فتذهب بها
+        <lb/>
+
+        إلى بلادك وتسرّ بها ملكك وكان قدومك بالمكر ومصادقتك بالخداع
+      </p>
+
+      <p n="Friend Stays Devoted To Burzoy">
+        ولكنّي لمّا رأيت صبرك ومواظبتك على طلب حاجتك والتحفّظ من أن
+        <lb/>
+
+        تسقط في الكلام مع طول إقامتك فاستدللت بذلك على فحوى أمرك
+        <lb/>
+
+        وازددت بذلك رغبة في إخائك وثقة بعقلك فأحببت مودّتك
+      </p>
+
+      <p n="Friend Distinguishes Burzoy">
+        فإنّي لا
+        <lb/>
+
+        أعلم أنّي رأيت من الرجال رجلًا هو أصبر وأوزن عقلًا منك ولا أحسن
+        <lb/>
+
+        أدبًا ولا أكتم أمرًا منك ولا سيّما في بلاد غربة ومملكة غير مملكة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

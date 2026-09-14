@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="124"/>
+
+      <p n="Judge's Demand of Confession Is False Counsel or Ruse Not Befitting Judges">
+        ليس من أخلاق الصالحين من القضاة
+      </p>
+
+      <p n="A Judge's Speech Becomes a Ruling and Sunna">
+        وخذ بالصواب
+        <lb/>
+
+        واحذر الخطأ واطلب الورع إنّي خائفٌ عليك
+        <lb/>
+
+        أيّها القاضي من هذه الحالة وهذا من أعظم الوزر والخطأ
+        <lb/>
+
+        والمحنة وإنّك لم تزل في عين الملك والجند والخاصّة
+        <lb/>
+
+        والعامّة فاضلًا في رأيك مرتفعًا في عدلك مرضيًّا في حكمك
+        <lb/>
+
+        وحلمك
+      </p>
+
+      <p n="Everyone Should Say Only What They Know">
+        وما بلغك مقالة العلماء أنّ من ادّعى علم ما لم يعلم
+        <lb/>
+
+        وقال ما لم يرى وشهد على العيب
+      </p>
+
+      <p n="Dimna's Fourth Subtale of the Falconer Who Falsely Accuses the Marzuban's Wife">
+        أصابه ما أصاب
+        <lb/>
+
+        البارزياري القاذف لمولاته وزعم أنّه رآها مع رجلٍ يفجر
+        <lb/>
+
+        بها
+      </p>
+
+      <p n="Head of Court Requests Tale">
+        قال القاضي وكيف ذلك كان
+      </p>
+
+      <p n="Marzuban Had Wife and Servant">
+        قال دمنة زعموا أنّه كان في
+        <lb/>
+
+        بعض المدن رجلًا مذكورًا وكان له امرأةً ذات جمالٍ
+        <lb/>
+
+        وعفاف وكان له عبدٌ بازياري ماهرًا بالبزاة وعلاجها
+        <lb/>
+
+        كريمًا على مولاه
+      </p>
+
+      <p n="Falconer Accosted Wife and Is Rejected">
+        وكان العبد قد راود امرأة مولاته على نفسها
+        <lb/>
+
+        فأبت
+      </p>
+
+      <p n="Falconer Decides to Take Revenge">
+        فلمّا رأى العبد أنّه لم يبلغ ما أراد منها أضمر لها سوءًا
+      </p>
+
+      <p n="Falconer Teaches Parrots False Accusation in Foreign Tongue">
+        وخرج فقبض على فرخيْ ببّغة وربّاهما وفرّق بينهما وعلّم
+        <lb/>
+
+        أحدهما رأيت البوّاب مضاجعًا مولاتي على فراش سيّدي
+        <lb/>
+
+        وعلّم الآخر أمّا أنا فلست بقائلةٍ شيئًا وأراد به تصديق
+        <lb/>
+
+        الأوّل وأدّب الفرخين في ذلك حتّى تُفصحا فيه مهرا
+        <lb/>
+
+        في النطق به في مدّة سبعة أشهرٍ
+      </p>
+
+      <p n="Falconer Gives Parrots to Marzuban">
+        فلمّا مراده من نطق
+        <lb/>
+
+        الفرخين وكانت لغاتهم بلسان أهل البلد أهدى الفرخان
+        <lb/>
+
+        فأُعجب مولاه بهما من غير معرفة منه بما يقولان فأخذهما
+        <lb/>
+
+        من البازياري وعلّقهما في بيته
+      </p>
+
+      <p n="Marzuban Hosts Foreign Guests">
+        فلمّا كان بعد حين قدم على
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

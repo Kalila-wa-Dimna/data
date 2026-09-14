@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="239"/>
+
+      <p n="King Awaits Fulfilment">
+        وإنّي على ذلك لناظر فيما
+      </p>
+
+      <p n="Gift Receiving Ceremony">
+        قال فلمّا كان اليوم السابع لبس
+        <lb/>
+
+        الملك ثياب زينته وتاجه وقعد على سريره في أكبر
+        <lb/>
+
+        مجالسه وأذن لعلماء أهل مملكته فدخلوا عليه وأخذوا
+        <lb/>
+
+        مجالسهم فلم يلبثوا أن جاءته الهدايا والرسل الذي أخبره
+        <lb/>
+
+        بها كناربزون فوضعت بين يديه
+      </p>
+
+      <p n="Kings Joy">
+        فلمّا رأى الملك أولئك
+        <lb/>
+
+        البرد والهدايا اشتدّ فرحه
+      </p>
+
+      <p n="King Regrets Relating Dreams">
+        وقال لم أوفّق حين
+        <lb/>
+
+        قصصت رؤياي على البرهمييّن فأمروني بما أمروني
+      </p>
+
+      <p n="King Thankful For Queens Advice">
+        فلولا
+        <lb/>
+
+        أنّ الله عزّ وجلّ تداركني ورحمني برأي ابراخت المباركة سيّدة النساء
+        <lb/>
+
+        لكنت هلكت وزلت عن دنياي وديني ولذلك ينبغي لكلّ أحد
+        <lb/>
+
+        أن يسمع من الاخلّاء وذوي المودّة والنصيحة رأيهم ويقبل في
+        <lb/>
+
+        مشورتهم
+      </p>
+
+      <p n="Queens Advice Saved King">
+        فإنّ ابراخت أشارت علىّ بخير رأي فقبلته فأعطى
+        <lb/>
+
+        الله به وثبّت مُلكي برأي الاخلّاء والنصحاء
+      </p>
+
+      <p n="King Appreciates Wise Man">
+        واستبان لي أيضًا
+        <lb/>
+
+        فضل علم كناربزون وصدق قوله
+      </p>
+
+      <p n="Gift To Be Distributed To All Victims">
+        ثمّ دعا الملك ابنه جويز
+        <lb/>
+
+        وبلاذ وزيره وكاك الكاتب فقال لهم إنّه لا ينبغي لنا أن
+        <lb/>
+
+        نُدخل هذه الهدايا خزائننا ولكن نقسمها بينكم لأنّكم أنتم
+        <lb/>
+
+        الذين وطّنتم أنفسكم على الموت في سببي
+      </p>
+
+      <p n="Queen Is Especially Deserving">
+        ولا سيّما ابراخت
+        <lb/>
+
+        التي أشارت عليّ بالرّأي الذي أعقب بقاء ملكي والذي ترون
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

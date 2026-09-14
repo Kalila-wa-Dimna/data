@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="50"/>
+
+      <p n="Kisra Recounts Burzoys Merits">
+        فخره
+      </p>
+
+      <p n="Burzoy Wants Immaterial Gift">
+        وما عرضنا له من خزائننا لنجزيه بذلك بما كان منه فلم تمل نفسه
+        <lb/>
+
+        إلى شيء من ذلك وكان بغيته وطلبتُه امرًا يسيرًا رآه هو الثواب منّا له والكرامة
+        <lb/>
+
+        الجليلة عنده
+      </p>
+
+      <p n="Kisra Urges Buzurgmihr To Excel">
+        فإنّي أحبّ أن تتكلّم في ذلك وتسعفه بحاجته وطلبته واعلم
+        <lb/>
+
+        أنّ ذلك ممّا يسرّني ولا تدع شيئًا من الاجتهاد والمبالغة إلّا بلغته وإن
+        <lb/>
+
+        نالتك فيه مشقة
+      </p>
+
+      <p n="Chapter To Match Others">
+        وهو أن يكون بابًا مضارعًا لتلك الأبواب التي في الكتاب
+      </p>
+
+      <p n="Chapter To Extol Burzoy">
+        ونذكر فضل برزويه وكيف كان ابتداء أمره وشأنه وتنسبه إليه
+        <lb/>
+
+        وإلى جنسه وصناعته وتذكر فيه بعثته إلى بلاد الهند في حاجتنا
+        <lb/>
+
+        وما أفدنا على يديه من هنالك وشرّفنا به وفضّلنا فى غيرنا وكيف كان
+        <lb/>
+
+        حال برزويه وقدومه من بلاد الهند غاية ما تقدر عليه من التقريظ
+        <lb/>
+
+        والإطناب
+      </p>
+
+      <p n="Buzurgmihr To Spare No Effort">
+        وتبالغ في ذلك أفضل المبالغة واجتهد في ذلك اجتهادًا يسرّ
+        <lb/>
+
+        برزويه وأهل المملكة ومنك أيضًا لمحبّتك للعلوم
+      </p>
+
+      <p n="Chapter To Be The Best">
+        واجتهد أن يكون غرض
+        <lb/>
+
+        هذا الكتاب الذي ينسب إلى برزويه أفضل من أغراض الكتاب عند الخاصّ والعامّ
+        <lb/>
+
+        وأشدّ مشاكلة بحال هذا العلم
+      </p>
+
+      <p n="Chapter To Eternize Buzurgmihr">
+        فإنّك أسعد الناس كلّهم بذلك لانفرادك
+        <lb/>
+
+        بهذا الكتاب
+      </p>
+
+      <p n="Kisra Orders Chapters Place">
+        واجعله أوّل الأبواب
+      </p>
+
+      <p n="Kisra Plans Public Reading">
+        فإذا أنت عملته ووضعته موضعه
+        <lb/>
+
+        أعلمني لأجمع أهل المملكة وتقرأه عليهم فيظهر فضلك واجتهادك في محبّتنا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

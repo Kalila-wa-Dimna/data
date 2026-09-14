@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="51"/>
+
+      <p n="unassigned">
+        له وأثنى عليه
+      </p>
+
+      <p n="Lion's Growing Trust in Ox">
+        فقرّبه الأسد وأدناه فاقتبس منه رأيًا وعقلًا
+      </p>
+
+      <p n="Lion's Increasing Favor Towards Ox">
+        فائتمنه على أسراره
+        <lb/>
+
+        وشاروه في أموره وكانت الأيّام لا تزيده فيه إلّا رغبة وإعجابًا به حتّى
+        <lb/>
+
+        صار أخصّ أصحابه وأدناهم منه مكانًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="61"/>
+
+      <p n="Chapter Title">
+        باب البوم والغربان
+      </p>
+
+      <p n="The King Asks about Fawning Foes">
+        قال الملك للفيلسوف اضربْ لي مثل العدوّ الذي لا ينبغي أن يُغترّ به وإن هو
+        <lb/>
+
+        أبدى ودًّا وتضرعًا
+      </p>
+
+      <p n="The Parable of the Owls and the Crows">
+        قال الفيلسوف من اغتر بالعدوّ الأريب الذي لم يزل عدوًّا
+        <lb/>
+
+        أصابه ما أصاب البوم من الغربان
+      </p>
+
+      <p n="The King Requests the Parable">
+        قال الملك وكيف كان
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="The Crow Kingdom and the Owl Kingdom">
+        قال الفيلسوف زعموا أنّه كان في جبل من الجبال شجرة من شجر
+        <lb/>
+
+        التين أعظم ما يكون من الشجر وكان فيها وكر ألف غراب عليها ملك منهم
+        <lb/>
+
+        وعلى ذلك الجبل مكان فيه ألف بومة عليها ملك منها
+      </p>
+
+      <p n="The Owls Attack the Crows">
+        فخرج ملك البوم ذات
+        <lb/>
+
+        يوم لعداوة بينها وبين الغربان حتّى أغار على الغربان فقتل منهم قتلى كثيرة
+      </p>
+
+      <p n="The Morning in the Battle Aftermath">
+        فلمّا
+        <lb/>
+
+        أصبح ملك الغربان جمع الغربان
+      </p>
+
+      <p n="The Crow King Evaluates the Damage">
+        فقال قد ترون ما نزل بكم من البوم وكم قد
+        <lb/>
+
+        أصبح منكم قتيلا وأسيرًا وكسيرًا وما أصابكم
+      </p>
+
+      <p n="The Crow King Fears Recurring Aggression">
+        وهم عائدات بمثل ما رأيتم
+      </p>
+
+      <p n="Input from the Five Wise Crows is Sought">
+        <>
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

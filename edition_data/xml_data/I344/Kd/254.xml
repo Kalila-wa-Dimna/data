@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="254"/>
+
+      <p n="unassigned">
+        منها كفّ الأذى ومجانبة الريب وكرم الخُلق والنيل في
+        <lb/>
+
+        العمل وحسن الأدب وإذا خاف العاقل في نفسه طابت
+        <lb/>
+
+        نفسه من الأهل والولد والمال والوطن فإنّه يرجو الخلق
+        <lb/>
+
+        من ذلك كلّه ولا يرجو من نفسه خلقًا وشرّ المال
+        <lb/>
+
+        ما لا يتّفق منه وشرّ الأزواج التي لا تواتى والشرّ
+        <lb/>
+
+        الولد العاصي وشرّ الإخوان الخاذل وشرّ الملوك
+        <lb/>
+
+        الذي يخافه البريء وشرّ البلاد المخوفة وقد علمت
+        <lb/>
+
+        أنّي لا آمن نفسي ولا طمأنينة في جورك ودّع المَلك
+        <lb/>
+
+        وطار والله تعالى أعلم بالصراب
+      </p>
+
+      <p n="Chapter Title">
+        باب سادرم الملك وبلاد وزيره
+        <lb/>
+
+        وصنبت امرأته وهو باب الحلم
+      </p>
+
+      <p n="King Understood Previous Chapter">
+        قال المَلك للفيلسوف قد سمعت هذا المثل
+      </p>
+
+      <p n="King Asks How To Preserve Rule">
+        فحدّثني بأيّ الأشياء أجدر بأن يكون المَلك أحدًا به
+        <lb/>
+
+        في حفظ نفسه ومُلكه وثبات سلطانه الحلم أم المودّة
+        <lb/>
+
+        أم الشجاعة أم الجود
+      </p>
+
+      <p n="Philosopher Prioritizes Ḥilm">
+        قال الفيلسوف إنّ أحقّ
+        <lb/>
+
+        ما حفظ به المَلك مُلكه ثبّت به سلطانه وكرّم به
+        <lb/>
+
+        نفسه الحلم
+      </p>
+
+      <p n="Philosopher Adds Consultation">
+        فإنّه حافظ العلم والكرم ومادّة الكرم
+        <lb/>
+
+        مشاورة أهل العقل والعلم والرفق بالعلم ومن أفضل
+        <lb/>
+
+        الأشياء وخيرها لكلّ أحد الحلم ولا سيّما للملوك خاصًّا
+        <lb/>
+
+        ومشاورة أهل العلم والأمانة لإبانة الرأي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kb</chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

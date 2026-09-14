@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="126"/>
+
+      <p n="Dimna Claims He Only Warned Lion of Ox's Treason">
+        أنّي أطلعته على من أراد الغدر به والوثوب عليه وأعلمته الذي ارتبت
+        <lb/>
+
+        منه وتبيّن لي
+      </p>
+
+      <p n="Dimna Says the King Saw the Same Signs">
+        فاستبان له أيضًا ولم يركبْ ما ركب إلّا على بصيرةٍ وإن هو
+        <lb/>
+
+        تنجّز الأمر اليوم وسأل عنه ونظر فيه عرف مصداق ما كنت قلت له
+      </p>
+
+      <p n="Hidden Fire Is Extracted Only with List/Labor">
+        فإنّ
+        <lb/>
+
+        النار قد يكون في الجحر والعود فستخرج منها بالحيل وليس يخفى مثل
+        <lb/>
+
+        هذا
+      </p>
+
+      <p n="Hidden Crimes Are Exposed by Investigation">
+        وإنّ جُرم المجرم إذا فُحص عنه وفُتّش استبان واستنار
+      </p>
+
+      <p n="Stirred Up Mud Stinks">
+        كما أنّ كلّ
+        <lb/>
+
+        نتنٍ من حمأةٍ وغيرها إذا سيط أو ثوّر ازداد نتنًا
+      </p>
+
+      <p n="Dimna Cites His Staying as Proof of Innocence">
+        ولو كنت مذنبًا لهربت
+        <lb/>
+
+        وكان لي في الأرض بسطةً وسعةً ولم أقمْ بباب الملك ولكنّي لبراءتي ونصيحتي
+        <lb/>
+
+        لم أبرحْ ولم أفارقه
+      </p>
+
+      <p n="Dimna Asks for Unimpeachable Investigator">
+        وأنا أرغب إلى الملك إن كان في شكٍّ من أمري أن يأمر
+        <lb/>
+
+        ناظرًا لينظر فيه ويولّي ذلك أمينًا عدلًا لا تأخذه في الحقّ لومة لائمٍ ولا
+        <lb/>
+
+        يكون عنده محاباةً ولا يوطئ الملك عشوةً فيرفع إليه عذري وقولي وما
+        <lb/>
+
+        يسمع عنّي ولا يأخذني بأقوال الأعداء والحسدة
+      </p>
+
+      <p n="Dimna's Station Exposes Him to Jealousy">
+        فإنّه قد كان لي منزلة
+        <lb/>
+
+        كان الحسّاد عليها كثيرًا
+      </p>
+
+      <p n="Dimna Claims only Investigation Can Save Him">
+        وإن لم يفعل ذلك واستحلّ منّي ما لا يحلّ له فلا
+        <lb/>
+
+        قوّة بي ولا ملجأ إلّا إلى الذي يعلم أسرار العباد وخفيّ ضمائرهم
+      </p>
+
+      <p n="Doubt and Certainty Must Not Be Confused">
+        وقد كان يُقال إنّ الذي يعمل بالشبهة ولا ويأخذ بها ولا يثبت في أمره
+      </p>
+
+      <p n="Dimna's First Subtale of the Woman Who Mistook Her Servant for Her Lover">
+        إلّا أن يكون أمره كالمرأة التي تشبّه لها عبدها فأمكنته من نفسها
+      </p>
+
+      <p n="Lion's Question for Woman's Tale">
+        قال الأسد وكيف كان ذلك
+      </p>
+
+      <p n="A Merchant's Wife Had a Lover">
+        قال دمنة كانت مدينةٌ من بعض المدن
+        <lb/>
+
+        من أرض كشمير تُسمّى باي رود وكان فيها تاجرًا له امرأةً حسناء وله جارٌ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="119"/>
+
+      <p n="Quack Appears in Town">
+        الطبّ في تلك المدينة فاشتاع ذلك من أمره في الناس
+      </p>
+
+      <p n="Pregnant Princess Falls Sick">
+        وكان لملك تلك
+        <lb/>
+
+        الناحية بنت فزوّجها ابن أخ له فحملت فعرض لها بعض ما يعرض للحوامل
+        <lb/>
+
+        من الأوجاع
+      </p>
+
+      <p n="Blind Physician Prescribes Drug">
+        فبعث الملك إلى الطبيب الأعمى فلمّا جاءه سأل الجارية أهلها
+        <lb/>
+
+        عن وجعها فأعلموه فوصف لهم دواء معروفًا وسمّاه لهم فأمر الملك أن يخلطه
+        <lb/>
+
+        له في ذلك فقال لست أبصر فأجمع الأخلاط على معرفتي ولا أثق بجمع
+        <lb/>
+
+        غيري منها
+      </p>
+
+      <p n="Quack Ordered to Mix Drug">
+        وإنّ السفيه المدّعي علم الطبّ أتاهم وأخبرهم أنّه بأخلاط
+        <lb/>
+
+        ذلك الدواء وصنعته عالم فأمر الملك بإدخاله الخزانة ليأخذ من أخلاط ذلك
+        <lb/>
+
+        الدواء ما يحتاج إليه
+      </p>
+
+      <p n="Quack Confuses Drug with Poison">
+        فلمّا دخل عُرضت عليه أخلاط الأدوية واعتسف
+        <lb/>
+
+        السفيه بتكلّفه فأخذ منها شيئًا بغير علم ولا معرفة على الظنّ والشبهة
+        <lb/>
+
+        فكان ممّا أخذ صرّة فيها سمّ قاتل
+      </p>
+
+      <p n="Quack Poisons Princess">
+        فخلطه فيما خلط ثمّ سقى الجارية فلم
+        <lb/>
+
+        تلبثْ ساعة حتّى ماتت
+      </p>
+
+      <p n="King Has Quack Drink the Poison Too">
+        فدعا الملك به فسقاه من الدواء الذي خلطه فمات
+        <lb/>
+
+        من ساعته
+      </p>
+
+      <p n="Prominent Courtier/Head of Court Suggests Physiognomy">
+        فتكلّم بعض من حضر وقال اسمعوا أيّها العلماء والأشراف
+        <lb/>
+
+        مقالتي وفكّروا فيها بأحلامكم ومبلغ عقولكم وجهد رأيكم
+      </p>
+
+      <p n="Bodily Marks Are Proof of Character">
+        فإنّ العلماء
+        <lb/>
+
+        قد قالوا في باب الصالحين يُعرفون بذلك وقد نعتوه وكتبوه وكشفوه
+        <lb/>
+
+        وأنتم معشر الأحبار بحسن صنع الله إليكم ونعمته عليكم فيما أكمل لكم من
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

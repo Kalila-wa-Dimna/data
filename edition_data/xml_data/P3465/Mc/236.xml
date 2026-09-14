@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="236"/>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        منه جحر جرذ يُقال له فريدون
+      </p>
+
+      <p n="The Cat Is Caught">
+        وكان الصيّادون كثيرًا يتداولون ذلك
+        <lb/>
+
+        المكان يصيدون فيه الوحش والطير فنزل ذات يوم صيّاد فنصب حباله قريبًا
+        <lb/>
+
+        من موضع روميّ فلم يلبث أن وقع فيه
+      </p>
+
+      <p n="The Rat Seeks Food">
+        فخرج الجرذ يدبّ ويبغي ما يأكل وهو
+        <lb/>
+
+        حذر من روميّ فبينما هو يسعى إذ بصر به في الشرك فسُرّ واستبشر
+      </p>
+
+      <p n="Foes Surround the Rat">
+        ثمّ التفت
+        <lb/>
+
+        فرأى خلفه ابن عرس يريد أخذه وفي الشجر بومًا يريد اختطافه فتحيّر في أمره وخاف
+        <lb/>
+
+        إن رجع وراءه أخذه ابن عرس وإن ذهب يمينًا أو شمالًا اختطفه البوم وإن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

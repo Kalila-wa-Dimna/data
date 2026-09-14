@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="178"/>
+
+      <p n="unassigned">
+        بكلّ غراب عليكم وأدموا بدني ونتفوا ريشي وردّوا نصيحتي
+        <lb/>
+
+        وعذّبوني بمثل هذا العذاب وتركوني ملقى أردّد النفس
+        <lb/>
+
+        وهشتوا ولا أعلم ما كان منهم فلمّا سمع ملك البوم
+        <lb/>
+
+        ما قاله الغراب قال لوزرائه ما تقولوا في شأن هذا الغراب
+        <lb/>
+
+        فقال أحد الوزراء ليس أصوب من قتله لأنّه أفضل
+        <lb/>
+
+        الغربان فقال وزير آخر صحيح كلامك ولكن بقتله قبح
+        <lb/>
+
+        عظيم لأنّه اتُّهم بنا وكانوا قتلوه خالصًا بهوانا فقال
+        <lb/>
+
+        الملك إلى وزير آخر ما تقول فقال أرى أن لا تقتله
+        <lb/>
+
+        فإنّ العدوّ الذليل الذي لا شوكة له فالواجب أن
+        <lb/>
+
+        يُرحم ويُستبقى ويُصفح عنه والمستجير الخائف من الرأفة
+        <lb/>
+
+        أن يُآمن
+      </p>
+
+      <p n="Mention Old Man Wife And Thief">
+        كالتاجر الذي عطف على السارق لانعطاف
+        <lb/>
+
+        زوجته عليه وانحيازها نحوه من خوفها من السارق
+      </p>
+
+      <p n="King O Requests Old Man Story">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="Old Man Has Young Wife">
+        قال زعموا أنّه كان
+        <lb/>
+
+        بعض التجّار مسنّ في العمر وله زوجة شابّة ذات
+        <lb/>
+
+        جمال مفرط
+      </p>
+
+      <p n="Wife Hates Husband">
+        وكانت تكرهه لكبره ولا تلاصقه
+      </p>
+
+      <p n="Thief Breaks In">
+        ثمّ إنّ
+        <lb/>
+
+        سارقًا دخل بيت التاجر في ذات ليلة فلمّا رأت زوجة
+        <lb/>
+
+        التاجر السارق ذعرت منه
+      </p>
+
+      <p n="Wife Hugs Old Man">
+        والتصقت بزوجها اعتنقته
+        <lb/>
+
+        فوجد برد ذلك على كبده أنعشه فقال هذه نعمة منّ الله
+        <lb/>
+
+        عليّ بها
+      </p>
+
+      <p n="Old Man Notices Thief">
+        ثمّ التفت للسارق
+      </p>
+
+      <p n="Old Man Rewards Thief">
+        وقال له أنت في حلّ ممّا تأخذه
+        <lb/>
+
+        من مالي ولك المنّة عليّ بذلك لأنّ مجيئك عطّف عليّ قلب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

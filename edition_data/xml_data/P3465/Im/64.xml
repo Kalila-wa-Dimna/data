@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="64"/>
+
+      <p n="The Merchant Explains Events upon Request">
+        قصّته
+      </p>
+
+      <p n="The Partner's Parable about the Thief">
+        فقال له رفيقه ما مثلك إلاّ مثل اللصّ والتاجر فقال له وكيف كان
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="The Thief Who Mistakes Grain for Gold">
+        قال زعموا أنّ تاجرًا كان له في منزله خابيتان إحداهما مملوءة حنطة والأخرى
+        <lb/>
+
+        مملوءة ذهبًا
+      </p>
+
+      <p n="The Thief Eyes Jar">
+        فترقّبه بعض اللصوص زمانًا حتّى إذا كان بعض الأيّام تشاغل التاجر
+        <lb/>
+
+        من المنزل فأغفله اللصّ ودخل المنزل وكمن في بعض نواحيه
+      </p>
+
+      <p n="The Thief Takes the Grain">
+        فلمّا همّ بأخذ الخابية
+        <lb/>
+
+        التي فيها الدنانير أخذ التي فيها الحنطة وظنّها التي فيها الذهب ولم يزل في كدّ وتعب
+        <lb/>
+
+        حتّى أتى منزله فلمّا فتحها وعلم ما فيها ندم
+      </p>
+
+      <p n="The Merchant Forfeits Trust">
+        قال له الخائن ما أبعدت المثل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

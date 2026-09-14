@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="171"/>
+
+      <p n="One Could Consult the Wise or the Ignorant">
+        ومن مفاوضتهما يستدلّ به على ما ينفع ويضرّ ولا يمتنع الصواب أن يعزب عن المشورة
+      </p>
+
+      <p n="The Vizier Trusts the King Would Take the Advice">
+        ولذلك
+        <lb/>
+
+        أنا أريد أن أفحص عنه وأشاور نفسي فيه ثمّ أقول ما فيه الصواب والنفع فلا يصعب على المَلك
+        <lb/>
+
+        ولا يصعب عليّ بل تقبل قولي وتتمسّك به وتميّزه وتنزله منزلته
+      </p>
+
+      <p n="King R Appreciates the Vizier's Candor">
+        قال مهراير قد صدقت
+        <lb/>
+
+        في جميع ما قلت إلّا في شيء واحد قولك إنّي قليل الرأي ناقص المعرفة وما أنت بناقص المعرفة
+        <lb/>
+
+        ولا قليل الرأي بل أنت حكيم لبيب أديب
+      </p>
+
+      <p n="King R Owes the Success of His Rule to the Vizier">
+        وأنا أستشعر رئاستي هذه وفضلها ونورها وبهاءها
+        <lb/>
+
+        وقوام أمرها أنّها بحكمتك وببصيرتك كشبه رجل حكيم لم يكن له سلطان فرُزق مع حكمته
+        <lb/>
+
+        سلطانًا فوُقّر وأُكرم لزيادة السلطنة على الحكمة
+      </p>
+
+      <p n="Fiqh Explains Recitation">
+        ومثل رجل كان يتلوا القرآن ولا
+        <lb/>
+
+        يعرف تأويله ثمّ تفقّه بعد ذلك فعرف التأويل فبُجّل ومُدح وأُكرم لما اكتسبه من التأويل
+        <lb/>
+
+        والفقه
+      </p>
+
+      <p n="King R Submits to the Vizier's Judgment">
+        وكذلك أنا إنّما بدأت بهذا القول وكشفت هذا السرّ اتّكالًا على حكمتك وحكمك
+        <lb/>
+
+        وجودة فطنتك وقريحتك وأنا واثق بعد القضاء أن لا يكون تمام هذا الأمر إلّا بفضل
+        <lb/>
+
+        رأيك وتمييزك
+      </p>
+
+      <p n="The Vizier Values King R's Justice">
+        قال رودماه إن رأى سيّدي المَلك أن لا يغمّ نفسه ويشغل قلبه وسرّه
+        <lb/>
+
+        بمدحي وبتجمّلي فلو لم أكن كما ذكر لكنت بفضل حكمته وسعادته ورئاسته كما قال
+      </p>
+
+      <p n="One Is Influenced by One's Company">
+        لأنّ
+        <lb/>
+
+        الحكماء قد قالت إنّ مصاحبة الأخيار تكسب الصلاح ومصاحبة الأشرار تكسب الطلاح
+      </p>
+
+      <p n="Wind Carries Good and Bad Smells">
+        كالريح
+        <lb/>
+
+        إذا هبّت ومرّت على رائحة طيّبة اكتسبت منها الريح وإذا هي مرّت بالشيء المنتن أدّت عنه
+        <lb/>
+
+        رائحة النتن وكذلك الشجر والنبات والعشب وسائر بقُول الأرض إنّما هي بنبتها وبحفظها
+      </p>
+
+      <p n="The Third Vizier Concludes">
+        وإنّما قلت هذا القول ليعرف المَلك الواجب
+      </p>
+
+      <p n="King R Asks the Youngest Vizier">
+        قال فلمّا سمع المَلك مخاطبه رودماه حينئذ أقبل
+        <lb/>
+
+        على أصغر وزرائه وقال له ما تقول أنت يا هذا في أمرنا الذي قد تشجا تشاجرنا فيه
+      </p>
+
+      <p n="The Youngest Viziers Proposes to Bell the Cats">
+        قال
+        <lb/>
+
+        الأصغر من الثلاثة الصواب عندي أن نجمع أجراسًا كثيرة أكثر ما نقدر عليه ونحتال في أن يُشدّ
+        <lb/>
+
+        في عنق كلّ سنّور جرسًا فإذا هو تزعزع وأقبل وأدبر حسسنا به فانحجرنا في بيوتنا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="84"/>
+
+      <p n="Dimna's Application of the Parable to the Lion's Situation">
+        الصوت أيسر ممّا في نفوسنا
+      </p>
+
+      <p n="Dimna's Offer to Investigate on the Lion's Behalf">
+        فإن شاء الملك يبعثني نحوه
+        <lb/>
+
+        وأقام مكانه حتّى أرجع إليه ببيان ذلك
+      </p>
+
+      <p n="Lion's Agreement to Dimna's Proposal">
+        فوافق الأسد
+        <lb/>
+
+        قوله ثمّ أذن له في الذهاب نحوه
+      </p>
+
+      <p n="Dimna's Departure to Investigate the Sound">
+        فانطلق دمنة إلى المكان الذي
+        <lb/>
+
+        فيه شتربة
+      </p>
+
+      <p n="Lion's Regret After Dimna's Departure">
+        ثمّ إنّ الأسد فكّر في إرسال دمنة وندم على إنفاده
+      </p>
+
+      <p n="Lion's Self-Doubt about Trusting Dimna">
+        وقال في نفسه ما أصبت في ائتماني دمنة على ما أرسلته فيه
+      </p>
+
+      <p n="Lion's Concerns about Suffering, Greedy and Malevolent Courtiers">
+        وإنّ الرجل الذي يحضر باب السلطان إذا كان قد أُبطلت
+        <lb/>
+
+        حقوقه عن غير جرم وكان سعيًا عليه عند سلطانه أو كان
+        <lb/>
+
+        معروفًا بالشدّة والحرص أو كان قد أصابه ضرًّا أو ضيقًا
+        <lb/>
+
+        فلم ينتعشْ وكان قد أجرم جرمًا وهو يخاف عقوبته أو كان
+        <lb/>
+
+        شرّيرًا لا يحبّ الخير وكان قد وقف على خيانة
+      </p>
+
+      <p n="Lion's Concerns about Requistioned and Deposed Courtiers">
+        أو كان قد حيل
+        <lb/>
+
+        بينه وبين ذات يده من سلطان أو مال أو كان يلي عملًا
+        <lb/>
+
+        فعُزل عنه أو انتُقص منه أو شورك بينه وبين غيره فيه
+      </p>
+
+      <p n="Lion's Concerns about Harshly Punished Courtiers">
+        أو كان قد أجرم فيه جرمًا مع نظير له فعُفي عنه وعوقب
+        <lb/>
+
+        عنه
+      </p>
+
+      <p n="Advice against Trusting Certain Types of People">
+        كلّ هؤلاء فليس للسلطان أن ينبسط بالاسترسال
+        <lb/>
+
+        إليهم والثقة بهم والائتمان إليهم
+      </p>
+
+      <p n="Lion's Reflection on Dimna's Character and Past Treatment">
+        فإنّ دمنة داهية
+        <lb/>
+
+        أريب قد كان ببالي محقودًا مطروحًا
+      </p>
+
+      <p n="Lion's Fear of Dimna's Potential Betrayal">
+        فلعلّه قد احتمل عليّ بذلك
+        <lb/>
+
+        صنيعًا ولعلّ ذلك يحمله على خيانتي وإعانة عدوّي عليّ بنقصي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

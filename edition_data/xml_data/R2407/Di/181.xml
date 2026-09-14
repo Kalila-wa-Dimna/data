@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="181"/>
+
+      <p n="Blind Physician Prescribes Drug">
+        ووصف لها دواء فأمر الملك بجمع ذلك الدواء فقال
+        <lb/>
+
+        المتطبّب لست أبصر لأحقّق إخلاطه وأجمعه بمعرفتي
+        <lb/>
+
+        فولّوا غيري ذلك
+      </p>
+
+      <p n="Quack Hears about Sick Princess">
+        فسمع سفيهًا كان في المدينة
+      </p>
+
+      <p n="Quack Ordered to Mix Drug">
+        فحضر
+        <lb/>
+
+        وادّعى علم الطبّ وأخبرهم بأنّه عالمٌ بإخلاط ذلك
+        <lb/>
+
+        الدواء
+      </p>
+
+      <p n="Quack Confuses Drug with Poison">
+        فلمّا دخل الخزائن وأُعرضت عليه تلك الأدوية
+        <lb/>
+
+        فأخذها بغير معرفة فوقع فيما أخد منها صرّة سمّ قاتل
+        <lb/>
+
+        فاختلط مع الأدوية
+      </p>
+
+      <p n="Quack Poisons Princess">
+        ثمّ سقى الجارية فوقعت ميّتة
+      </p>
+
+      <p n="King Has Quack Drink the Poison Too">
+        فأمر الملك أن يُسقى الطبيب من ذلك الدواء فسُقي منه
+        <lb/>
+
+        شربةً فمات من ساعته
+      </p>
+
+      <p n="Dimna Interprets the Tale">
+        وإنّما ضربت لكم هذا المثل لتعلموا
+        <lb/>
+
+        أنّ كلّ أحدٍ بالسيّئة خاطئٌ غير مصيبٍ وأنا البريء بين
+        <lb/>
+
+        يديكم قائمًا
+      </p>
+
+      <p n="Dimna Praises the Prominent Courtier">
+        وفيكم سيّد الخنازير وعنده علمٌ بالأمور
+        <lb/>
+
+        وتصاريف الأحوال ومنزلته من الأسد وأمّه كما تعلمون
+      </p>
+
+      <p n="Prominent Courtier/Head of Court Suggests Physiognomy">
+        فقام سيّد الخنازير وقال اسمعو أيّها العلماء والأشراف
+        <lb/>
+
+        مقالتي وفكّروا في ذلك بأحكامكم
+      </p>
+
+      <p n="Bodily Marks Are Proof of Character">
+        فإنّ العلماء قد قالوا
+        <lb/>
+
+        إنّ الصالحين يُعرفون بسيماهم وأنتم بحسن صُنع الله
+        <lb/>
+
+        بكم وبنعمته عليكم تعرفون الصالحين والمفسدين
+        <lb/>
+
+        بسيماهم وصورهم
+      </p>
+
+      <p n="Dimna’s Character is Visible in His Body">
+        وها هنا أشياءٌ كثيرةٌ تدلّ على علامات
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

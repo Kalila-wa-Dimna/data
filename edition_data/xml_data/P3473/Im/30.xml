@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="30"/>
+
+      <p n="Man Memorizes from Yellow Folio">
+        الأدب والعلم والفطنة وهو يظنّ بأنّه قد اكتفى بما قرأه
+        <lb/>
+
+        من تلك الصحيفة
+      </p>
+
+      <p n="Man Reads from Yellow Folio and Errs">
+        فأخذ في محاورتهم فمرّت له كلمة أخطأ فيها
+        <lb/>
+
+        فقال بعضهم إنّك أخطأت فيما تكلّمت به والوجه فيه غير ما
+        <lb/>
+
+        نطقت به فقال كيف أخطئ وقد قرأت الصحيفة الصفراء
+        <lb/>
+
+        وهي في منزلي
+      </p>
+
+      <p n="Using the Yellow Folio Proved His Ignorance">
+        فكانت قراءته لها أوجب الحجّة عليه وزاده ذلك
+        <lb/>
+
+        قربًا من الجهل وبعدًا من العقل
+      </p>
+
+      <p n="Intelligent Readers Must Implement Knowledge">
+        ثمّ إنّ العاقل إذا فهم هذا الكتاب
+        <lb/>
+
+        وعلمه وبلغ نهايته وجب عليه أن يعمل به لينتفع بما علم منه ويجعله
+        <lb/>
+
+        مالًا يعيش به ويجدي عليه
+      </p>
+
+      <p n="One Should Always Seek More Knowledge">
+        فإنّه يُقال في الحِكم إنّه ينبغي للعاقل
+        <lb/>
+
+        أن يستكثر من العلم والمعرفة والحكمة
+      </p>
+
+      <p n="Culture Is the Spark of Life">
+        فإنّ بها ينجلي العقل كما يجلو
+        <lb/>
+
+        الزيت ظلمة النار ويزيدها ضياء
+      </p>
+
+      <p n="Culture Advances One's Rank">
+        وهو يرفع منزلة صاحبه على
+        <lb/>
+
+        كلّ رتبة
+      </p>
+
+      <p n="Culture Shields from Danger">
+        وينجي من المهلكات
+      </p>
+
+      <p n="Man Notices Burglar but Feigns Sleep">
+        ومن علم ولم يعمل به لم ينتفع به وكان
+        <lb/>
+
+        في ذلك كالرجل الذي يُقال له إنّه أحسّ بسارق قد تسوّر عليه
+        <lb/>
+
+        ودخل في منزله فقال والله لأمهلنّه حتّى أرى ما يصنع وأدعه
+        <lb/>
+
+        حتّى يبلغ به مراده فأقوم إليه وأنغّص ذلك عليه فأمسك عنه
+      </p>
+
+      <p n="Burglar Steals and Gets Away">
+        وجعل
+        <lb/>
+
+        السارق يطوف بالبيت ويجمع ما يجده فطال تردّده وغلب على صاحب
+        <lb/>
+
+        البيت النعاس فنام ففرغ اللصّ ممّا أراد وحمله وخرج
+      </p>
+
+      <p n="Man Discovers Mishap and Laments">
+        فاستيقظ الرجل
+        <lb/>
+
+        بعد ذلك فوجد السارق قد فات بما أخذ من متاعه فأقبل على نفسه
+        <lb/>
+
+        يلومها ويعاتبها وعرف أنّه لم ينتفع بعلمه باللصّ إذ لم يستعمل
+        <lb/>
+
+        في أمره ما يجب
+      </p>
+
+      <p n="Knowledge Is Complete with Proper Implementation">
+        وقد يُقال إنّ العلم لا يتمّ إلّا بالعمل
+      </p>
+
+      <p n="Knowledge Is a Tree and Action Is the Fruit">
+        والعلم كالشجرة
+        <lb/>
+
+        والعمل هو الثمرة
+      </p>
+
+      <p n="Scholar Must Act">
+        وأمّا صاحب العلم إنّما يعمل به لينتفع
+      </p>
+
+      <p n="Informed Traveller Takes Risky Road">
+        ولو أنّ رجلًا
+        <lb/>
+
+        حلّ بطريق مخوف ثمّ سلكه على علم به يُسمّى جاهلًا وأقلّه إن حاسب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

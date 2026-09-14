@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="174"/>
+
+      <p n="The Second Option Is to Make Dens in Houses">
+        أنقاب إلى الموضع الذي فيه الثياب والفرش والآلة وغير ذلك وأن تجمعوا في ذلك
+        <lb/>
+
+        الحفر الكبير قوتًا للجرذان كلّها مدّة عشرة أيّام
+      </p>
+
+      <p n="The Vizier's Aim Is to Damage Household Items">
+        فإذا فعلوا ذلك سرنا بأجمعنا وعساكرنا
+        <lb/>
+
+        فحللنا في منزل أجلّ من في المدينة وأغناهم الذي ليس في بيته إلّا سنّورًا واحدًا
+        <lb/>
+
+        فنكمن في ذلك الموضع الذي فيه القوت ونرتّب على باب كلّ نقب من التسعة أنقاب
+        <lb/>
+
+        جرذ واحد ليحفظه ونرصد السنانير ويشغلهم عن طلبتنا ونخرج نحن بأجمعنا
+        <lb/>
+
+        من الأنقاب الثلاثة ولا نهتمّ بالمأكول بل نعمل في تقريض الثياب وفساد الرجل
+        <lb/>
+
+        والآلة ولا نكثر الفساد أوّل دفعة
+      </p>
+
+      <p n="The House Owner Gets a Second Cat">
+        فإذا رأوا أهل البيت الفساد قالوا ما يقنعنا
+        <lb/>
+
+        سنّورًا واحدًا فيزدادون آخر
+      </p>
+
+      <p n="The Rats Increase the Damage">
+        فنخرج ثانية فنزيد في الفساد أكثر من الأولى
+      </p>
+
+      <p n="The House Owner Gets a Third Cat">
+        فعند
+        <lb/>
+
+        ذلك يقول القول نزيد سنّورًا آخر فقد زاد علينا أكر الجرذان فيجتمع عندهم ثلاثة
+      </p>
+
+      <p n="The Rats Cause Damage a Third Time">
+        ونعود نحن إلى الفساد أكثر من الثانية إلى أن يقول للقوم ويقع في أوهامهم أنّ
+        <lb/>
+
+        الفساد من السنانير
+      </p>
+
+      <p n="The House Owner Removes One Cat">
+        فيقولون نجرّب في بعض السنانير وننظر هل ينفع ذلك
+        <lb/>
+
+        شيئًا أم لا لأنّا نرى الفساد يزيد بزيادة السنانير
+      </p>
+
+      <p n="The Rats Reduce the Damage">
+        فيأخذون في إخراج سنّور
+        <lb/>
+
+        واحد فننقص نحن في الفساد شيئًا يسيرًا فيتبيّن للناس نقصان الأذى
+      </p>
+
+      <p n="The Second Cat is Removed and the Damage Reduces">
+        فيخرجون
+        <lb/>
+
+        السنّور الثاني فننقص أيضًا من الفساد
+      </p>
+
+      <p n="The House Owner Removes the Third Cat">
+        فيخرجون الثالث
+      </p>
+
+      <p n="The Plan Is to Be Re-enacted in All Households">
+        فنخرج نحن من ذلك المنزل
+        <lb/>
+
+        بأسرنا فننزل منزلًا من المدينة فنعمل ذلك
+      </p>
+
+      <p n="The People Kill the Cats">
+        إلى أن يعلم الناس ويتحقّق في أوهامهم أنّ
+        <lb/>
+
+        المضرّة إنّما لحقتهم من جهة السنانير فيطلبون فناءها وهلاكها ويطردونها من المدينة
+        <lb/>
+
+        إلى الخراب وكلّما وافوا سنّورًا في موضع قتلوه وأهلكوه
+      </p>
+
+      <p n="The Third Vizier Foretells Success">
+        وأحسب أنّنا ننجو من الخوف
+        <lb/>
+
+        بهذه الحيلة ويكون هلاك أعدائنا على يدي غيرنا بلا قتال ونعيش نحن آمنون مطمئنّون
+      </p>
+
+      <p n="The King Agrees">
+        فقال مهراير يا رودماه ما أجود ما رأيت
+      </p>
+
+      <p n="The King Enacts the Plan and the Cats Are Killed">
+        ففعلوا ذلك مدّة ستّة أشهر حتّى باد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

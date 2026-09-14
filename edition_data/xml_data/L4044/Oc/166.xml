@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="166"/>
+
+      <p n="Old Man Undiscouraged">
+        إلّا حبًّا لها
+      </p>
+
+      <p n="Thief Breaks In">
+        وإنّ سارقًا أتى بيت التاجر ليلة فوافق التاجر نائمًا والمرأة مستيقظة
+        <lb/>
+
+        فذعرت من السارق
+      </p>
+
+      <p n="Wife Hugs Old Man">
+        والتزمت زوجها فاستيقظ التاجر بالتزامها إيّاه فقال من
+        <lb/>
+
+        أين كانت النعمة عليّ
+      </p>
+
+      <p n="Old Man Notices Thief">
+        فلمّا بصر بالسارق
+      </p>
+
+      <p n="Old Man Rewards Thief">
+        ناداه فقال أيّها الرجل أنت في حلّ
+        <lb/>
+
+        من مالي ومتاعي ولك الفضل عليّ بعطفك هذه عليّ حتّى عانقتني
+      </p>
+
+      <p n="King O Asks Third Owl">
+        ثم إنّ
+        <lb/>
+
+        ملك البوم سأل الثالث من وزرائه عن رأيه في الغراب
+      </p>
+
+      <p n="Spy To Be Kept For Counsel">
+        فقال أرى أن
+        <lb/>
+
+        نبقيه ونحسن إليه فإنّه خليق أن يناصحك
+      </p>
+
+      <p n="Dispute Between Foes Is Beneficial">
+        فإنّ ذي العقل يرى معاداة
+        <lb/>
+
+        بعض أعداءه بعضًا من حسن الظنّ في استعمال بعضهم ببعض واختلافهم
+      </p>
+
+      <p n="Mention Thief Demon Story">
+        مثل الذي كان في اختلاف الشيطان واللصّ حتّى نجا الناسك
+      </p>
+
+      <p n="King Request Thief Demon Story">
+        قال
+        <lb/>
+
+        الملك وكيف كان ذلك
+      </p>
+
+      <p n="Story Thief Demon Cow">
+        قال الوزير زعموا أنّ ناسكا أصاب بقرة حلوبًا
+        <lb/>
+
+        فأقبل بها يقودها إلى منزله وتبعه لصّ يريد أن يسرقها وصحب اللصّ
+        <lb/>
+
+        شيطان في صورة إنسان
+      </p>
+
+      <p n="Thief And Demon Plot">
+        فقال اللصّ للشيطان من أنت قال أنا
+        <lb/>
+
+        الشيطان أريد أن أتبع هذا الناسك فإذا نام أخذته قال اللصّ إنّي لصّ
+        <lb/>
+
+        أريد أن أتبعه إلى منزله لعلّي أسرق بقرته فاصطحبا يتبعان الناسك
+        <lb/>
+
+        فلمّا انتهى إلى منزله ممسيًا
+      </p>
+
+      <p n="Man Goes To Sleep">
+        دخل بيته وأدخل البقرة بيتًا
+      </p>
+
+      <p n="Thiefs Concerns">
+        فلمّا نام الناسك
+        <lb/>
+
+        أشفق اللصّ إن بدأ الشيطان بأخذ الناسك قبل أن يسرق البقرة أن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="51"/>
+
+      <p n="Kisra Rewards Buzrgmihr">
+        ذكر
+      </p>
+
+      <p n="Burzurgmihr's Introduction">
+        ترجمة بزرجمهر قال الحكيم الفاضل الفيلسوف برزويه
+        <lb/>
+
+        رأس أطبّاء فارس وهو الذي تولّى انتساخ هذا الكتاب
+        <lb/>
+
+        وترجمته من اللغة الهنديّة إلى الفارسيّة
+      </p>
+
+      <p n="Burzoy's Parents">
+        إنّ أبي كان من
+        <lb/>
+
+        المقاتلة وكان أمّي من بيوت عظماء الزمازمة
+      </p>
+
+      <p n="Burzoy Studies Medicine">
+        وكان ممّا ابتدأ
+        <lb/>
+
+        به ربّي من نعمة عليّ وإحسانه إليّ أنّي كنت أكرم ولد أبويّ
+        <lb/>
+
+        وكان أبي أشدّ احتفاظًا وأعظم اعتناء منهما بسائر إخوتي
+        <lb/>
+
+        حتّى إذا بلغتْ سنّي سبعًا ودّاني إلى تعليم الكتب وفتح الله عليّ
+        <lb/>
+
+        باب الفهم فحصّلت منه طائلًا في أقرب مدّة فكان أوّل
+        <lb/>
+
+        ما بدأت به ودأبت نفسي فيه وحرصت عليه
+      </p>
+
+      <p n="Burzoy Consults His Soul About Its Ambitions">
+        وصرفت همّتي إليه
+        <lb/>
+
+        علم الطبّ ومهرت فيه وعالجت المرضى مدّة فوجدته علمًا محمودًا
+        <lb/>
+
+        عند الأدباء والعقلاء لأنّ فيه حفظ صحّة الأبدان وذلك
+        <lb/>
+
+        سبب لإصلاح الوجود ولم يتعرّض لذمّته متعرّض من سائر
+        <lb/>
+
+        المُلك
+      </p>
+
+      <p n="The Profession of Medicine Benefits Both in This World and the Hereafter">
+        ووجدت من أفضل كلام الأفاضل من الأطبّاء أنّ معالجة
+        <lb/>
+
+        ذوي الأمراض من غير طلب شيء من غرض الدنيا هي الغاية
+        <lb/>
+
+        القصوى لمن طلب ثواب الآخرة
+      </p>
+
+      <p n="Burzoy Practices Medicine Without Pay or Envy of Colleagues">
+        فلازمت ذلك رجاء
+        <lb/>
+
+        أجرة الآخرة فلم أدع مريضًا أرجو له البرء إلّا عالجته وإن كنت لا
+        <lb/>
+
+        أرجو له بذلك فسحة في أجَله ولكن أطمع في ملاطفته في خفّة
+        <lb/>
+
+        الوجع والأذى عنه ما قدرت عليه فمن أمكنني القيام عليه
+        <lb/>
+
+        بنفسي قمت ومن لم أقدر على القيام عليه وصفت له وأمرته
+        <lb/>
+
+        وأنلته ما يُعالج به من الدواء
+      </p>
+
+      <p n="Working Without Expecting Reward">
+        ولم أرد من أحد ممّن فعلت معه
+        <lb/>
+
+        ذلك لا جزاء ولا مكافأة وكنت في أثناء ذلك أرى من هو دوني في
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

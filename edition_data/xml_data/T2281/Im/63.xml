@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T2281</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="63"/>
+
+      <p n="Man Discovers Mishap and Laments">
+        فاز بجميع ما ناله من متاعه فأقبل يلوم نفسه ويعاتبها
+        <lb/>
+
+        وعرف أنّه لا ينتفع بعلمه في أمر اللصّ
+      </p>
+
+      <p n="Knowledge Is Complete with Proper Implementation">
+        وقد يُقال
+        <lb/>
+
+        إنّ العلم لا يُنتفع به إلّا بالعمل
+      </p>
+
+      <p n="Knowledge Is a Tree and Action Is the Fruit">
+        لأنّ العلم هو الشجرة
+        <lb/>
+
+        واستعماله هو الثمرة
+      </p>
+
+      <p n="Informed Traveller Takes Risky Road">
+        ولو أنّ رجلًا كان عالمًا
+        <lb/>
+
+        بطريق تخوّف ثمّ سلكه على علمه به لم ينتفع بعلمه
+      </p>
+
+      <p n="A Sighted and a Blind Fall into a Ditch">
+        كما
+        <lb/>
+
+        أنّه لو مرّ رجلان بصيران وأعمى بطريق أوقعتهما إلى
+        <lb/>
+
+        حفرة فلمّا صار في قعرها كان بمنزلة واحدة
+      </p>
+
+      <p n="The Sighted Man Has No Excuse">
+        غير أنّ
+        <lb/>
+
+        البصير أقلّ عذرًا من الضرير
+      </p>
+
+      <p n="Scholar Must Discipline Himself">
+        وعلى العالم أن يبدأ بنفسه
+        <lb/>
+
+        فيدبّرها ويوصلها بعلمه ولا يكون غايته استعانة
+        <lb/>
+
+        لغيره
+      </p>
+
+      <p n="Water-Spring Benefits Only Others">
+        فيكون مثل العين الذي يشرب منها
+        <lb/>
+
+        الناس ولا لها من مائها عائد
+      </p>
+
+      <p n="Silk Worm Benefits Only Others">
+        أو مثل دودة القزّ
+        <lb/>
+
+        تحبس نفسها لمنفعة غيرها
+      </p>
+
+      <p n="Instructing Oneself Comes First">
+        فينبغي لطالب العلم
+        <lb/>
+
+        أن يبدأ بعظة نفسه فيهديها ويصلح فسادها
+        <lb/>
+
+        ثمّ ما أصلح به نفسه يصلح به غيره
+      </p>
+
+      <p n="Three Things Are Needed for Worldly Life">
+        وقيل ثلاثة
+        <lb/>
+
+        خصال ينبغي لصاحب الدنيا أن يقيسها ويقتبسها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

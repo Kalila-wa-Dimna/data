@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="255"/>
+
+      <p n="King Appreciates Wise Man">
+        وما أُعطي من العلم والفهم
+      </p>
+
+      <p n="Gift To Be Distributed To All Victims">
+        ثم دعا الملك بإبراخت جوير
+        <lb/>
+
+        وإيلاد وكال الكاتب وقال لهم إنّه لا ينبغي أن ندخل هذه الهدايا
+        <lb/>
+
+        إلى خزينتي
+      </p>
+
+      <p n="King Instists Giving Gift">
+        حتّى يأخذ منها كلّ واحد منكم حصّة وإنّه قد شاع
+        <lb/>
+
+        لنا من هذا الأمر في البلاء ذنبًا عظيم حسن وخير كثير واضطرب
+        <lb/>
+
+        منه ما قد علمتم وأنت حقيق يا إيلاد أن لا تحتشم من أخذ ما أكرمتك
+        <lb/>
+
+        به من هذه الهديّة وأن تقبض نصيبك منها وتقرّ به عينًا ويفرح
+        <lb/>
+
+        به صديقك ويسوء به عدوّك
+      </p>
+
+      <p n="Vizier Accepts Gift">
+        قال إيلاد أمرنا لرأي الملك
+        <lb/>
+
+        تبع فليصنع ما بدا له وليتدبّر الملك فيأخذ ما لا يصلح إلّا له
+        <lb/>
+
+        ويرى في الباقي رأيه
+      </p>
+
+      <p n="Men Receive Their Gifts">
+        فأخذ الملك الفيل الأبيض لنفسه وأعطى
+        <lb/>
+
+        جوير ابنه أحد الفرسين وأعطى إيلاد السيف الخالص من الحديد
+        <lb/>
+
+        المعدوم الوجود وأعطى كال كاتبه الفرس الآخر وبعث إلى
+        <lb/>
+
+        كمابيرون العالم الفاضل بلبس الكتّان التي تلبسها الملوك
+      </p>
+
+      <p n="Queen Shall Choose Gift">
+        وأمّا
+        <lb/>
+
+        الإكليل وسائر اللباس التي لا تصلح إلّا للنساء فإنّه أمر إيلاد أن يحملها
+        <lb/>
+
+        ويلحق به إلى مجلس النساء فدعا الملك إبراخت وهي إيلاد وجورقناه
+        <lb/>
+
+        أكرم نسائه فجلسا بين يديه فقال لإيلاد ضع الإكليل والكسوة بين يدي
+        <lb/>
+
+        إيلاد وأمرها أن تأخذ أيّها شاءت
+      </p>
+
+      <p n="Hesitating Queen Looks At Vizier">
+        فلمّا رأت هليب أنّ كلاهما عجِب
+        <lb/>
+
+        في منظره فلم تدر أيّهما تأخذ فنظرت إلى إيلاد ليشير عليها
+      </p>
+
+      <p n="Vizier Shows Dress King Notices">
+        فغمزها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

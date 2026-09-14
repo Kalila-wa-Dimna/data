@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="245"/>
+
+      <p n="The Cat Puts His Trust in the Rat">
+        الذي نتخلّص به جميعًا فافعله فإنّي أفعل ما قلت لك وأحفظ
+        <lb/>
+
+        لك هذه النعمة آخر الأبد وأحرص على مكافأتك بها
+      </p>
+
+      <p n="The Rat Explains the Strategy">
+        قال
+        <lb/>
+
+        الجرذ دعني أدنو منك فإنّ البومة وابن العرس إذا
+        <lb/>
+
+        أبصرانا مصطلحين انصرفا فإذا أمنت منهما قطعت
+        <lb/>
+
+        وثاقك وأنا آمن
+      </p>
+
+      <p n="The Cat Fulfills His Part">
+        ففعل ذلك السنّور منه فدنا منه
+      </p>
+
+      <p n="The Foes Leave Frustrated">
+        فلمّا
+        <lb/>
+
+        أبصرت البومة وابن العرس ذلك انصرفا من ذلك
+        <lb/>
+
+        المكان
+      </p>
+
+      <p n="The Rat Approaches to Cut the Rope">
+        وأخذ الجرذ في قرض الشبكة فجعل يقطع سلكًا
+      </p>
+
+      <p n="The Cat Deems the Rat's Efforts Slow">
+        فلمّا رأى السنّور أنّ الجرذ ليس يجاذني قطع للشرك
+        <lb/>
+
+        قال له يا خليلي ما ينفعك من الانكماش والفراغ لعلّ
+        <lb/>
+
+        الذي ينفعك من ذلك أنّك قرضت إلى حاجتك من
+        <lb/>
+
+        الأمن
+      </p>
+
+      <p n="The Noble Must Help">
+        فإن كان ذلك فليس ذلك من فعل الصالحين
+      </p>
+
+      <p n="The Rat Must Fulfill the Pact">
+        وكما أنّك أسرعت في خلاصك فكن أنت أيضًا في
+        <lb/>
+
+        الاجتهاد في خلاصي
+      </p>
+
+      <p n="The Rat Should Forget Enmity">
+        وإن كنت تذكر العداوة القديمة
+        <lb/>
+
+        فلست حقيقًا أن تفعل ذلك بعد بلائي عندك التي
+        <lb/>
+
+        مثله ودونه يُشكر فتثبت على الحقد
+      </p>
+
+      <p n="Good Deeds Erase Bad Deeds">
+        فإنّ الصالحين
+        <lb/>
+
+        ليسوا بذوي حقد ولكنّهم أهل شكر والحسنة الواحدة
+        <lb/>
+
+        عندهم تمحو سيّئات كثيرة
+      </p>
+
+      <p n="The Two Kinds of Friends">
+        قال الجرذ إنّ الأخلّاء
+        <lb/>
+
+        خليلان فأحدها الخليل الصافي والآخر الخليل
+        <lb/>
+
+        المؤاخي صاحبه على حال الاضطرار إلى ذلك فالخليل
+        <lb/>
+
+        الصافي ينبغي له أن يؤثر خليله على نفسه وأهله
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

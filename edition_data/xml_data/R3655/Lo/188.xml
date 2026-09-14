@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="188"/>
+
+      <p n="The Jackal's Plan">
+        من بعض النساء نفيس عندهم فتختطفه وتطير به قريبًا ولا تبرح واقعًا وطائرًا
+        <lb/>
+
+        حيث لا تفوت من الأعين وتطلبك الناس حتّى تأتي جحر الأسود فترمي بالحليّ
+        <lb/>
+
+        عليه فإذا انتهى الناس إليه أخذوا حليّهم وأراحوك من الأسود
+      </p>
+
+      <p n="The Crow Snatches the Necklace">
+        فانطلق الغراب فوجد
+        <lb/>
+
+        امرأة تغتسل على سطح والعقد على ثيابها فانقضّ
+      </p>
+
+      <p n="The Lure">
+        عليه وأخذه وطار وتبادر الناس
+        <lb/>
+
+        واتّبعوه حتّى انتهى به إلى جحر الأسود فألقاه عليه والقوم ينظرون
+      </p>
+
+      <p n="The Plan Succeeds">
+        فلمّا دنوا
+        <lb/>
+
+        وجدوا الأسود وأخذوا عقدهم وقتلوه
+      </p>
+
+      <p n="The Moral: Cunning Triumphs">
+        وإنّما ضربت لك هذا المثل لتعلم أنّ الحيل
+        <lb/>
+
+        منها نافع وضار
+      </p>
+
+      <p n="Kalila's Objection">
+        قال كليلة إنّ الثور لو لم يجمع مع شدّته رأيًا كان ذلك ولكنّه
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="33"/>
+
+      <p n="unassigned">
+        ينسخ لاحقا
+        <lb/>
+
+        ينسخ لاحقا
+        <lb/>
+
+        ينسخ لاحقا
+        <lb/>
+
+        ينسخ لاحقا
+        <lb/>
+
+        ينسخ لاحقا
+        <lb/>
+
+        ينسخ لاحقا
+        <lb/>
+
+        ينسخ لاحقا
+        <lb/>
+
+        ينسخ لاحقا
+        <lb/>
+
+        ينسخ لاحقا
+        <lb/>
+
+        ينسخ لاحقا
+        <lb/>
+
+        ينسخ لاحقا
+        <lb/>
+
+        ينسخ لاحقا
+        <lb/>
+
+        ينسخ لاحقا
+        <lb/>
+
+        ينسخ لاحقا
+      </p>
+
+      <p n="Chapter Title">
+        باب الأسد والثور وهو الباب الرابع
+      </p>
+
+      <p n="King's Request for a Parable">
+        قال ديشليم ملك الهند لبيدبا رأس الفلاسفة اضرب لي مثل الرجلين المتحابّين
+        <lb/>
+
+        يقطع بينهما الكذوب الخائن
+      </p>
+
+      <p n="Philosopher's Response and Story Introduction">
+        قال بيدبا الرجلان
+        <lb/>
+
+        المتحاببان يدخل بينهما الكذوب الخائن تقاطعًا وتدابرًا
+      </p>
+
+      <p n="Setting: Wealthy Merchant and His Sons">
+        ومن أمثال ذلك
+        <lb/>
+
+        أنّه كان بأرض دستا تاجر مكثر وكان له بنون
+      </p>
+
+      <p n="Sons' Mismanagement of Wealth">
+        فلمّا أدركوا شرعوا في مال أبيهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

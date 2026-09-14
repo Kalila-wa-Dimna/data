@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="99"/>
+
+      <p n="The Mother Says Grief is Weakening">
+        |لا تجعلْ الحزنَ عليك عونا ### قطُّ وصُنْ قلبَك منهُ صونا
+        <lb/>
+
+        |فالحزنُ داءٌ للنفوسِ مُهلِكْ ### وللجسومِ فاحذرَنْهُ مُنهِكْ
+      </p>
+
+      <p n="The Lion Misses the Ox and Regrets Killing Him">
+        |قال لها يحزنُني تذكُّري ### إردائِيَ الثورِ بلا تفكُّرِ
+        <lb/>
+
+        |وإنّني لَذاكرٌ مودّتَهْ ### ونَصحَهُ بالخيرِ لي وصُحْبَتَهْ
+      </p>
+
+      <p n="The Mother Asks About the Lion's Feelings and Heart">
+        |فقالتِ ابحثْ عن حديثِ شتربَهْ ### فليس في ذاك عليك مثلبَهْ
+        <lb/>
+
+        |قال وهلْ من حيلةٍ
+      </p>
+
+      <p n="Love and Hate Are Reciprocal">
+        قالتْ نعمْ ### إنّ الحكيمَ العادلَ الحُكْمِ زَعَمْ
+        <lb/>
+
+        |أنّ الفتى إذا أراد يَكْشِفْ ### أسرارَ مَن يحبُّهُ ويعرِفْ
+        <lb/>
+
+        |أيّهُمُ يصدُقُ في وِدادِهْ ### فلْيرجِعَنْ فيه إلى فؤادِهْ
+        <lb/>
+
+        |فإنّه يحبُّ مَن يحبُّهْ ### وليس يُخفيهِ الصحيحَ قلبُهْ
+      </p>
+
+      <p n="The Mother Asks About the Lion's Feelings Toward the Ox">
+        |فارجعْ إلى قلبِك يشهدْ صادِقا ### أصافيًا كان الفتى أم ماذِقا
+      </p>
+
+      <p n="Killed Enemies Need Not Be Mourned">
+        |إن كنتَ عن بُغْضٍ وحِقْدِ وحَسَدْ ### قتلتُه فبُغضُهُ كانَ أَشَدْ
+      </p>
+
+      <p n="Grieve Is Justified if the Lion Remembers the Ox Fondly">
+        |وإن يكنْ قلبُك كانَ راضِيا ### عنه فكنْ بمثلِ ذاك قاضِيا
+      </p>
+
+      <p n="The Ox Was Loyal">
+        |وإنّني أعلمُ أنّ قلبَكا ### يشهدُ أن قد كان يُخفي حبّكا
+        <lb/>
+
+        |وأنّه ما كان قطّ خائِنا ### ولا عدوًّا يُضمُرُ الضَّغائِنا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

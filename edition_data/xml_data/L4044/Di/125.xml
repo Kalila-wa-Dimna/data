@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="125"/>
+
+      <p n="Falconer Gives Parrots to Marzuban">
+        أصواتهما عن غير معرفة بما يقولان لأنّهما عُلّما ذلك بلسان البلخيّة ولم يكن
+        <lb/>
+
+        ذلك بلسان سيّد العبد ولا لسان أهل بلده فقبضهما من البازيار وألطفه
+        <lb/>
+
+        وأتحفه لإعجابه بهما
+      </p>
+
+      <p n="Marzuban Gives Parrots to Wife">
+        وأمر امرأته بالاحتفاظ بهما والتعاهد لأمرهما ففعلت ذلك
+      </p>
+
+      <p n="Marzuban Hosts Foreign Guests">
+        فلمّا كان بعد ذلك قدم على الرجل نفر من عظماء أهل بلخ فأدخلهم منزله وقرّب
+        <lb/>
+
+        إليهم طعامًا كان قد تنوّق فيه ثمّ أتاهم بما يُتحف به الأضياف من الشراب
+        <lb/>
+
+        وغيره فلمّا أخذوا مجلسهم للشراب أمر المرزبان بأن يُؤتى بالببّغاءين فلمّا وُضعا
+        <lb/>
+
+        بين يديه صاحا بما كانا عُلّما
+      </p>
+
+      <p n="Foreign Guests Understand Parrots">
+        فعرف الضيفان ما قالا ونظر بعضهم إلى
+        <lb/>
+
+        بعض ونكّسوا رؤوسهم استحياء
+      </p>
+
+      <p n="Foreigners Ask Whether Marzuban Understands Parrots/He Asks Them">
+        ثمّ إنّ بعضهم قال للمرزبان هل تعرف ما يقولان
+        <lb/>
+
+        قال لا غير أنّ صوتهما معجب فقالا لذلك الرجل لكنّا نعرف ما يقولان فاستحيا
+        <lb/>
+
+        القوم من ذلك فألحّ عليهم حتّى قال بعضهم
+      </p>
+
+      <p n="Foreigners Translate Parrots' Words, Refuse Meal in House of Sin">
+        إنّ أحدهم يقول إنّي رأيت البوّاب
+        <lb/>
+
+        مضاجعًا مولاتي على فراش سيّدي والآخر يقول أمّا أنا فلست بقائل شيئًا ومن
+        <lb/>
+
+        شأننا أيّها المرزبان أنّا لا نطعم في بيت تعمل فيه زنية فلمّا انقضت مقالتهم
+        <lb/>
+
+        أُفظع المرزبان
+      </p>
+
+      <p n="Falconer Confirms Parrots' Accusations">
+        فلمّا سمع البازيار مقالة القوم قال وأنا على مثل ما شهد به
+        <lb/>
+
+        الببّغاءان شاهد
+      </p>
+
+      <p n="Marzuban Orders Wife to Be Killed">
+        فلمّا اتّفق ذلك من القول أمر المرزبان بقتل امرأته
+      </p>
+
+      <p n="Wife Asks Him to Investigate">
+        فقالت
+        <lb/>
+
+        المرأة إنّ قتلك إيّاي على غير فحص عسى أن يورثك ما هو أشدّ من ذلك فافحص
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

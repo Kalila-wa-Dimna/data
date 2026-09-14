@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="190"/>
+
+      <p n="The Animals Agree">
+        وجاع السبع حين أبطأ عليه غداؤه فغضب وقام عن مجثمه ينظر
+      </p>
+
+      <p n="The Lion's Confrontation">
+        حتّى إذا رأى
+        <lb/>
+
+        الأرنب وحدها قال من أين جئت وأين الوحوش
+      </p>
+
+      <p n="The Rabbit's Lie">
+        قالت أنا رسول الوحوش بعثنني
+        <lb/>
+
+        إليك بأرنب فلمّا كنت هاهنا قريبًا لقيني أسد فأخذها منّي
+      </p>
+
+      <p n="The Usurper's Claim">
+        وقال أنا أولى بهذه الأرض
+        <lb/>
+
+        وشتمك وسبّك وأقبلت لأعرّفك فغضب الأسد وقال انطلقي معي أريني مكانه
+      </p>
+
+      <p n="Leading the Lion to the Well">
+        فانطلقت
+        <lb/>
+
+        به إلى جبّ كثير الماء صافي عميق
+      </p>
+
+      <p n="The Rival's Location">
+        فقالت انظر هذا الأرنب فرأى ظلّ الأرنب وظلّ
+      </p>
+
+      <p n="unassigned">
+        الأسد فوثب إليه لقتاله فغرق في الجبّ وانقلب الأرنب إلى الوحوش سالمًا
+      </p>
+
+      <p n="Kalila's Conditional Approval">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

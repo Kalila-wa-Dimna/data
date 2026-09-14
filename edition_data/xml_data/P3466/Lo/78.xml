@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="78"/>
+
+      <p n="Four Necessities for Achieving Pursuits">
+        ويرضي الأهل والإخوان ويعود عليه ما أراد من حاجته
+      </p>
+
+      <p n="Consequence of Not Acquiring Wealth">
+        لأنّه
+        <lb/>
+
+        إن لم يكسب لم يكن له مال يعيش به
+      </p>
+
+      <p n="Consequences of Poor Financial Management">
+        وإن هو كان ذا مال
+        <lb/>
+
+        واكتساب ثمّ لم يحسن القيام به أوشك أن يفنى ماله ويبقي بغير مال
+      </p>
+
+      <p n="Rapid Depletion of Poorly Managed Wealth">
+        وإن
+        <lb/>
+
+        هو وضعه ولم يثمّره لم تمنعه قلّة الإنفاق من سرعة النفاذ
+      </p>
+
+      <p n="Analogy of Rapidly Depleting Kohl">
+        كالكحل
+        <lb/>
+
+        الذي لا يُؤخذ منه إلّا مثل الغبار ثمّ هو مع ذلك سريع فناؤه
+      </p>
+
+      <p n="Consequences of Miserliness and Mismanagement">
+        وإن
+        <lb/>
+
+        هو لم ينفقه في مواضعه كان بمنزلة الفقير الذي لا مال له ثمّ لم يمنع ذلك
+        <lb/>
+
+        ماله من التلف بالمقادير والعلل التي تجري عليه
+      </p>
+
+      <p n="Analogy of Overflowing Water Reservoir">
+        كضريح الماء
+        <lb/>
+
+        الذي لا تزال المياه تنصبّ إليه فإذا لم يكن له مخرج ومغيض
+        <lb/>
+
+        يخرج منه الماء بقدر ما ينبغي تحلّب وسال من نواحي كثيرة وربّما
+        <lb/>
+
+        انشقّ منه الشقّ العظيم فيذهب الماء ضياعًا
+      </p>
+
+      <p n="Sons' Acceptance of Father's Advice">
+        ثمّ إنّ بني التاجر اتّعظوا
+        <lb/>
+
+        وأخذوا بقول أبيهم
+      </p>
+
+      <p n="Eldest Son's Journey and Ox Cart Incident">
+        فانطلق أكبرهم بتجارة متوجّهًا نحو أرض يُقال
+        <lb/>
+
+        لها متوث فأتى في طريقه على مكان فيه وحل كثير وكان معه عجلة
+        <lb/>
+
+        يجرّها ثوران يُقال لأحدهما شبربة والآخر بندبة
+      </p>
+
+      <p n="Ox Getting Stuck in Mud">
+        فوحل شبربة
+        <lb/>
+
+        في ذلك المكان فعالجه الرجل وأصحابه حتّى استخرجوه بعدما
+        <lb/>
+
+        بلغه الجهد
+      </p>
+
+      <p n="Merchant Leaving a Man to Care for the Ox">
+        وخلّف التاجر عنده رجلًا من أصحابه يقوم عليه أيّامًا
+        <lb/>
+
+        فلمّا رآه قد صلح أتبعه به
+      </p>
+
+      <p n="Description of the Caretaker's Actions">
+        فلمّا كان من الغد أبرم الرجل بمكانه فترك
+        <lb/>
+
+        الثور ولحق بالتاجر فأخبره أنّ الثور قد مات
+      </p>
+
+      <p n="Caretaker's Philosophical Reflection on Fate">
+        وقال له إنّ الرجل إذا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

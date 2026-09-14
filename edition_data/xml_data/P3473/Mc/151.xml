@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="151"/>
+
+      <p n="Chapter Title">
+        الباب التاسع باب الجرذ والسنّور
+      </p>
+
+      <p n="The King Asks about Escaping Enemies">
+        قال الملك
+        <lb/>
+
+        ديشلم للفيلسوف قد سمعت هذا المثل فاضرب لي
+        <lb/>
+
+        مثل الرجل إذا كثر أعداؤه وحصروه من كلّ جانب وأشرف
+        <lb/>
+
+        على الهلاك فالتمس المخرج والخلاص من ذلك كلّه بمصادقة
+        <lb/>
+
+        بعض أعدائه ومصالحته فسلم من الخوف ونجا من الهلاك ووفى
+        <lb/>
+
+        لمن صالحه منهم واحترس في موضع الصلح كيف يلتمس الخلاص
+      </p>
+
+      <p n="The Philosopher Responds that Emotions Change">
+        قال الفيلسوف إنّ العداوة والولاية والمودّة والبغض
+        <lb/>
+
+        ليس كلّها تثبت وتدوم وكثير من الموّدة تتحوّل بغضًا
+        <lb/>
+
+        وكذلك البغض يتحوّل مودّة عن حوادث الأمور وحركات
+        <lb/>
+
+        المقدور والتجارب من ذوي الآراء
+      </p>
+
+      <p n="Enmity Must Not Stop One from Requesting Help">
+        كذلك لالتماس المنافع ودفع
+        <lb/>
+
+        المضارّ
+      </p>
+
+      <p n="The Resolute Attains His Need">
+        فمن عمل في ذلك بالحزم ظفر بحاجته ومن
+      </p>
+
+      <p n="The Parable of the Cat and Rat Is Invoked">
+        أمثال ذلك
+        <lb/>
+
+        مثل السنّور والجرذ الذي اصطلحا حين وقعا في ورطة وكان لهما
+        <lb/>
+
+        رأي في خلاصهما جميعًا من الورطة الشديدة قال الملك
+      </p>
+
+      <p n="The King Requests the Full Parable">
+        وكيف كان ذلك قال الفيلسوف زعموا أنّه
+      </p>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        كان في مكان
+        <lb/>
+
+        كذا وكذا شجرة من التين وكان في أصلها جحر لسنّور
+        <lb/>
+
+        يُقال له رومى وقريب منه جحر لجرذ يُقال له
+        <lb/>
+
+        أفريدون
+      </p>
+
+      <p n="The Cat Is Caught">
+        وكان الصيّادون ينتابون ذلك المكان لصيد الوحوش
+        <lb/>
+
+        والطير وأنّ صيّاد نصب حبائله ذات يوم فوقع فيها
+        <lb/>
+
+        فوقع فيها السنّور رومي
+      </p>
+
+      <p n="The Rat Seeks Food">
+        وخرج الجرذ يسعى ليبغي ما يأكل وهو مع ذلك
+        <lb/>
+
+        حذر يتلفّت وينتظر يمينًا وشمالا فلمّا رأى السنّور في
+        <lb/>
+
+        حبائل الصيّاد فرح
+      </p>
+
+      <p n="Foes Surround the Rat">
+        ثمّ التفت خلفه فرأى ابن عرس قد تبعه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

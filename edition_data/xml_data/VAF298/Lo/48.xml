@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>VAF298</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="48"/>
+
+      <p n="A Viper Stepped on Once May Not Bite">
+        كالحيّة التي يطأها الواطئ فلا تلدغه فلا يغرّه ذلك فيعيد الوطئ عليها
+        <lb/>
+
+        فتهلكه بسمّها
+      </p>
+
+      <p n="Cool Sandalwood May Become Hot">
+        ورجل طبعه السهولة فهو كالصندل البارد الذي إذا
+        <lb/>
+
+        أُفرط في حكّه صار حارًّا مؤذيًا
+      </p>
+
+      <p n="Dimna Asks about Lion's Immobility">
+        ثمّ إنّ دمنة لمّا استأنس بالأسد قال له في
+        <lb/>
+
+        خلوة أرى الملك قد أقام بمكان واحد لا يبرح فلِمَ ذلك
+      </p>
+
+      <p n="Lion's Hesitation to Appear Cowardly">
+        قال الأسد وقد
+        <lb/>
+
+        كره أن يرى منه دمنة جزعًا ليس ذلك ليأس ولا تجزعْ
+      </p>
+
+      <p n="Description of the Loud Bellowing Sound">
+        فبينما هما كذلك في
+        <lb/>
+
+        الحديث إذ خار شيربه خوار شديدًا هيّج الأسد على أن يخبر دمنة ما في نفسه
+      </p>
+
+      <p n="Lion's Explanation of His Immobility">
+        فقال ما هذا الصوت الذي أسمعه
+      </p>
+
+      <p n="Lion's Speculation About the Source's Size">
+        ولا أدري ما هو غير أنّه يجب أن تكون
+        <lb/>
+
+        الجثّة على قدر شدّة الصوت
+      </p>
+
+      <p n="Lion's Concern About Territorial Safety">
+        فإن كان ذلك فليس مكاننا هذا لنا بمكان
+      </p>
+
+      <p n="Proverb About Not Fearing All Sounds">
+        قال
+        <lb/>
+
+        دمنة إنّ في بعض الأمثال يُقال أنّ الأصوات كلّها لا تُهاب
+      </p>
+
+      <p n="Lion's Question About Fearless Sounds">
+        قال الأسد
+        <lb/>
+
+        وما هذا المثل
+      </p>
+
+      <p n="Third Subtale of Fox and Drum">
+        قال دمنة زعموا أنّ ثعلبًا جائعًا اجتاز بأجمة فيها طبل
+        <lb/>
+
+        معلّق في شجرة والريح تهبّ فتضرب قضبان الشجرة ذلك الطبل ضربًا شديدًا
+      </p>
+
+      <p n="Fox's Approach to the Loud Sound">
+        فسمع الثعلب ذلك فتوجّه نحوه
+      </p>
+
+      <p n="Fox Splits Drum Expecting Food">
+        فلمّا رآه ضخمًا وسمع صوته شديدًا كبُر
+        <lb/>
+
+        في نفسه لكبر خلقته فعالجه أشدّ العلاج حتّى شقّه
+      </p>
+
+      <p n="Fox Finds Drum Empty">
+        فلمّا رآه مجوّفًا لا شيء فيه
+        <lb/>
+
+        قال لا أدري لعلّ أفسل الأشياء أعظمها جثّة وأشدّها صوتًا
+      </p>
+
+      <p n="Dimna's Application of the Parable to the Lion's Situation">
+        وإنّما ضربت
+        <lb/>
+
+        هذا المثل لرجاء أن يكون هذا الصوت الذي يروعنا لو قد انتهينا إليه أيسر
+        <lb/>
+
+        وأهون في نفوسنا وأعيننا
+      </p>
+
+      <p n="Dimna's Offer to Investigate on the Lion's Behalf">
+        فإن شاء الملك فلينفذْني نحوه وليقم مكانه
+        <lb/>
+
+        حتّى أعود إليه ببيان ما يريده
+      </p>
+
+      <p n="Lion's Agreement to Dimna's Proposal">
+        فوافق ذلك الأسد وأنفذه
+      </p>
+
+      <p n="Dimna's Departure to Investigate the Sound">
+        وانطلق دمنة حتّى
+        <lb/>
+
+        أتى شيزبة
+      </p>
+
+      <p n="Dimna's Confident Approach to Ox">
+        فقال له غير هائب له ولا ممتنع عنه إنّ الأسد أرسلني إليك لتأتيه
+      </p>
+
+      <p n="Dimna's Offer of Safety to Ox">
+        فإن
+        <lb/>
+
+        عجّلت الإجابة إليه طائعًا أمّنك على نفسك وما سلف من ذنبك في التأخّر عنه
+      </p>
+
+      <p n="Ox's Request for Assurance">
+        وإن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

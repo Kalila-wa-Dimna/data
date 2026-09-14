@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="48"/>
+
+      <p n="Kisra Welcomes Request">
+        لك
+      </p>
+
+      <p n="Burzoy Expects No Reward">
+        قال برزويه أيّها الملك لا تنظر إلى عنائي في رضاك وانكماشي
+        <lb/>
+
+        في طاعتك فإنّما أنا عبدك يلزمني بذل مهجتي في رضائك ولو لم تجزني لم يكن ذلك
+        <lb/>
+
+        عندي عظيمًا ولا واجبًا على الملك
+      </p>
+
+      <p n="Burzoys House Elevated By Kisra">
+        ولكن لكرمه وشرف منصبه عمل
+        <lb/>
+
+        إلى مجازاتي وخصّني وأهل بيتي بعلوّ المرتبة ورفع الدرجة
+      </p>
+
+      <p n="Burzoy Invokes Blessing On Kisra">
+        حتّى لو
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

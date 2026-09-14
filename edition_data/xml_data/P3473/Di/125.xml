@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="125"/>
+
+      <p n="Marzuban Hosts Foreign Guests">
+        على مولاه عظماء أهل بلخ فقدّم بين أيديهم الطعام فأكلوا
+        <lb/>
+
+        والشراب فشربوا فأراد الرجل أن يفرّح الجماعة على فرخيْ الببّغة
+        <lb/>
+
+        على سبيل الفخرة فأحضرهما بين أيديهما
+      </p>
+
+      <p n="Foreign Guests Understand Parrots">
+        فصاحا بما علّمهما
+        <lb/>
+
+        البازرياري وفهم القوم ما تكلّمتا به ونظر بعضهم إلى بعضٍ فخجلوا
+        <lb/>
+
+        ونكّسوا رؤوسهم حياءً من ذلك المقال
+      </p>
+
+      <p n="Foreigners Translate Parrots' Words, Refuse Meal in House of Sin">
+        فقال بعضهم إنّا لا
+        <lb/>
+
+        نأكل طعام رجلٍ ونطوي على خيانته فأخبروا لصاحب البيت
+        <lb/>
+
+        بذلك
+      </p>
+
+      <p n="Falconer's Training of Parrots Is Discovered">
+        قال فسأل القوم للببّغ أن يتكلّموا بغير ذلك
+        <lb/>
+
+        الكلام فلم ينطقا بغيره فعلموا أنّها مكيدةٌ من الذين علّمهما
+        <lb/>
+
+        ليشنّعا على المرأة بذلك ويضرّاها
+      </p>
+
+      <p n="Falcon Gouges Out His Eyes">
+        فأمر البازيار أن يدخل
+        <lb/>
+
+        عليهم فدخل وعلى يده بازًا يعلّمه فنادته مولاته من وراء
+        <lb/>
+
+        الحجاب أيّها العبد الجاني على نفسه أنت على الريبة من تعليمك
+        <lb/>
+
+        الببّغاوتان من هذا الكلام القبيح قال البازياري يحقّ ما نطقتا
+        <lb/>
+
+        به فوثب البازان الذي كان على يده فتناول حدقة
+        <lb/>
+
+        البازياري واقتلعها
+      </p>
+
+      <p n="Wife Interprets This As God Punishing False Testimony">
+        فقالت المرأة بحقّ ما أصابك إنّه
+        <lb/>
+
+        من الله تعالى بشهادتك على ما لم ترى
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded and Court's Members Leave for the Day">
+        فكتب القاضي ما قال دمنة
+        <lb/>
+
+        فرفعه إلى الأسد
+      </p>
+
+      <p n="The Lion Shows the Records to His Mother Who Warns of Dimna’s Past and Future Crimes">
+        فنظر فيه ثمّ دعا بأمّه فعرضه عليها
+      </p>
+
+      <p n="Mother Persuades Leopard to Testify">
+        فأر
+        <lb/>
+
+        فأرسلت إلى النمر تُعلمه بذلك
+      </p>
+
+      <p n="Leopard Testifies on Mother's Order">
+        فدخل النمر على الأسد وشهد
+        <lb/>
+
+        على دمنة بما سمعه من لفظه
+      </p>
+
+      <p n="Fellow Prisoner Testifies">
+        وأرسل الأسد إلى من بالحبس فأحـ
+        <lb/>
+
+        فأحضرهم فشهدا منهم اثنان على دمنة بذلك وصدّقا اا
+        <lb/>
+
+        شهادة النمر
+      </p>
+
+      <p n="Lion Orders Dimna to Be Killed">
+        فقبل الأسد شهادتهما وأمر بدمنة أن يُقتل
+        <lb/>
+
+        في محبسه جوعًا وعطشًا ففعل ذلك له فمات أشرّ موتة
+      </p>
+
+      <p n="End of Chapter">
+        وهذا آخر حديث دمنه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

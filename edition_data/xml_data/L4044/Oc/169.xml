@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="169"/>
+
+      <p n="Wife Says Husband Is All To Her">
+        والأمّ
+      </p>
+
+      <p n="Wife Curses Fathless Women">
+        فلحا الله امرأة لا يكون زوجها لها عندها كعدل نفسها لأنّ سعيه
+        <lb/>
+
+        وكدّه لها وإنّي لا أسمعك تذكره مرّة أخرى
+      </p>
+
+      <p n="Wifes Speech Charms Carpenter">
+        فلمّا سمع النجار مقالة امرأته
+        <lb/>
+
+        رقّ لها وأخذته لها رحمة وعبرة ووثق منها بالمودّة
+      </p>
+
+      <p n="Carpenter Waits Till Wife Awakens">
+        ولم يبرحْ مكانه حتّى أصبح
+        <lb/>
+
+        وأيقن أنّ الرجل قد ذهب ثمّ خرج فوجد امرأته متناومة فظنّها نائمة فقعد
+        <lb/>
+
+        عندها يذبّ على وجهها
+      </p>
+
+      <p n="Carpenter Forgives Wife">
+        ثم إن المرأة التوت كأنّها انتبهت فقال بأبي أنت
+        <lb/>
+
+        وأمّي يا حبيبتي كأنّك بتّ ساهرة ولم تزالي منذ الليلة في تعب مع ذلك
+        <lb/>
+
+        الحدث ولولا أنّي كرهت مساءتك لشاتمته ولكنّي أمسكت عن ذلك
+        <lb/>
+
+        لما أعرف من إلفك إيّاه
+      </p>
+
+      <p n="Carpenters Story Motivation">
+        وإنّما ضربت لكم هذا المثل لئلّا تكونوا كذلك
+        <lb/>
+
+        النجّار المائق الذي كذّب بعلمه وما أبصرت عيناه وصدّق بما سمع من
+        <lb/>
+
+        العدوّ ومن كذب امرأته
+      </p>
+
+      <p n="Suspect A Fawning Foe">
+        ولا نصدّق الغراب بمقالته واعلموا أن العدوّ
+        <lb/>
+
+        إذا لم يستطيع ضرّ عدوّه بالمباعدة التمس ضرّه بالمقاربة والمناصحة
+        <lb/>
+
+        إذا كان ذا أدب
+      </p>
+
+      <p n="Objector Became Fearful Of Crows">
+        ولم أخفْ الغربان قطّ خوفي إيّاهم حتّى رأيت هذا
+        <lb/>
+
+        الغراب وسمعت مقالته والقول
+      </p>
+
+      <p n="Objector Advises Death Again">
+        فخذوا برأيي فإنّكم إن تركتم رأيي وضيّعتموه
+        <lb/>
+
+        ونبذتم منه بالحزم وما كنت ذكّرتكم به <>
+      </p>
+
+      <p n="King O Ignores Objector">
+        فلم يلتفتْ ملك البوم إليه ولا
+        <lb/>
+
+        إلى مقالته وما أشار به
+      </p>
+
+      <p n="Spy Well Accommodated">
+        وأمر الغراب إلى منزله بأن يُكرم واستوصى به خيرًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

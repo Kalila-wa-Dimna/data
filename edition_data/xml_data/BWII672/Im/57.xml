@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="57"/>
+
+      <p n="A Fisher Finds an Empty Shell">
+        فيكون مثله كمثل الصيّاد والصدف زعموا أنّ صيّاد نزل
+        <lb/>
+
+        إلى بعض الخلجان ليصطاد ما قسم له فنظر ذات يوم صدفة
+        <lb/>
+
+        تتلألأ حسنًا فتوهّمها شيء له مقدار وثمن غزير
+      </p>
+
+      <p n="The Fisher Abandons His Catch for the Shell">
+        وكان قد طرح شبكته فأحيط له بها سمكة كبيرة لها جرم
+        <lb/>
+
+        فدَشّرها وألقى روحه على الماء ليجيب الصدفة فلا زال إلى
+        <lb/>
+
+        أن ملكها فلمّا خرج إلى البرّ بها أراد يخرج ما فيها من
+        <lb/>
+
+        الجوهر فرآها فارغة فندم على إفلاته للفرخ السمك وتكلّف
+        <lb/>
+
+        على ما فاته
+      </p>
+
+      <p n="The Fisher Misses the Pearl">
+        فلمّا جاء اليوم الثاني تنحّى عن ذلك الموضع
+        <lb/>
+
+        ورمى ورمى بشبكته فأصاب فرخ سمك صغير فلم
+        <lb/>
+
+        يزل يعالجه إلى أن ملكه وإذ لمحت عينه صدفة مثل
+        <lb/>
+
+        الذي شافها بالأمس فلم يلتفت إليها وساء ظنّه بها فتركها
+        <lb/>
+
+        وقنع بالفرخ السمك
+      </p>
+
+      <p n="Another Fisher Wins the Pearl">
+        فجاء صيّاد غيره فأخذ تلك الصدفة
+        <lb/>
+
+        فوجد فيها درّة يتيمة لها قدر وقيمة بلغت أموالًا عزيزة
+        <lb/>
+
+        فازداد الصيّاد الأوّل حسرة وندامة على تركه إيّاها
+        <lb/>
+
+        وشغفه بالسمكة الصغيرة وتركه استنباط أمر الصدفة
+        <lb/>
+
+        وما كان فيها من ثمن الدرّة اليتيمة
+      </p>
+
+      <p n="The Superficial Readers Miss the Meaning">
+        وكذلك الجهّال هم في
+        <lb/>
+
+        إغفال عن الفحص بالمعاني والاحتراز عن معاني هذه
+        <lb/>
+
+        الكتاب وترك الوثوق على أسراره ومعانيه والأخذ
+        <lb/>
+
+        بظواهره دون بواطنه
+      </p>
+
+      <p n="Humor Seeking Readers">
+        لأنّ العلماء قالوا أنّ مثل الذي
+        <lb/>
+
+        يظفر بعلم الفلسفة ويدعها ويصرف همّته إلى الظواهر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

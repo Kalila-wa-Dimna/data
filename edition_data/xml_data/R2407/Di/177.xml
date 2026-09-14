@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="177"/>
+
+      <p n="Dimna Enumerates 5 Duplicitous Types">
+        ينطق بين الجماعة بغير سؤال والمتكلّم بما لا يعنيه
+      </p>
+
+      <p n="The Mother Condemns Dimna's Sweet-Talking and Hoping">
+        قالت
+        <lb/>
+
+        أمّ الأسد يا شقيّ لا تُخفِ سوء عملك وتعلم أنّك
+        <lb/>
+
+        لست بناجٍ منه
+      </p>
+
+      <p n="Dimna Defines the Ill-Wishing Person">
+        قال دمنة إنّما الشقيّ من لا يعرف
+        <lb/>
+
+        الأمور ولا الناس ولا دفع الضرر عنهم
+      </p>
+
+      <p n="The Mother Demands Dimna's Silence and Confession">
+        قالت أمّ
+        <lb/>
+
+        الأسد أيّها الغادر المحتال أتحبّ أن تخدع الملك
+        <lb/>
+
+        بهذا الكلام
+      </p>
+
+      <p n="Dimna Defines as Traitor Who Is Ungrateful for Advice and Kills a Defeated Enemy">
+        قال دمنة الغدّار الذي لا يؤمّن عدوّه
+        <lb/>
+
+        وإذا استمكن منه قتله على غير ذنبٍ
+      </p>
+
+      <p n="The Mother Calls Dimna a Liar">
+        قالت أمّ الأسد
+        <lb/>
+
+        أيّها المكروب أتريد أن تكون ناجي من جرمك العظيم
+        <lb/>
+
+        بهذه الأقاويل الكاذبة
+      </p>
+
+      <p n="Dimna Claims Truthfulness">
+        قال دمنة إنّ الكذّاب الذي
+        <lb/>
+
+        يقول ما لم يفعل وأمّا أنا فقد قلت الذي كان وصدقت
+        <lb/>
+
+        في قولي وفعلي
+      </p>
+
+      <p n="Mother Asks Lion's Knowledge of Dimna's Veracity or Treason">
+        ثمّ قالت للأسد أتعرف بعض ما يقول
+        <lb/>
+
+        دمنة في براءته وغدره
+      </p>
+
+      <p n="Lion Hands Dimna Over to Judge for Investigation">
+        فأمر أن يُحمل دمنة إلى القاضي
+        <lb/>
+
+        والفحص عن شأنه
+      </p>
+
+      <p n="The Judge Has Dimna Taken to Prison">
+        فألقى في عنق دمنة حبلًا ومضوا
+        <lb/>
+
+        به إلى السجن
+      </p>
+
+      <p n="Kalila Seeks out Dimna in Prison">
+        فلمّا انتصف الليل سمع كليله أنّ دمنة
+        <lb/>
+
+        في السجن فانطلق مستخفيًا
+      </p>
+
+      <p n="Kalila Weeps when Seeing Dimna">
+        حتّى لقيه ونظر إليه ورأى
+        <lb/>
+
+        ما هو فيه من الضيق والغمّ وسوء الحال
+      </p>
+
+      <p n="Kalila Admits Having Been Harsh on Dimna">
+        فقال له أنت
+        <lb/>
+
+        في هذا الضيق الذي جناه عليك سوء رأيك وسأذكّرك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

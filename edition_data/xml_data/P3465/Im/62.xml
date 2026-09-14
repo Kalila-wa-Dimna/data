@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="62"/>
+
+      <p n="A Merchant Steals from His Partner">
+        فاستأجرا حانوتًا وجعلا متاعهما فيه وكان أحدهما قريب
+        <lb/>
+
+        المنزل من الحانوت
+      </p>
+
+      <p n="The Merchant Devises a Plot">
+        فأضمر في نفسه أن يسرق عدلا من أعدال رفيقه ومكر
+        <lb/>
+
+        الحيلة في ذلك وقال إن أتيت ليلًا لم آمن أن أحمل عدلًا من أعدالي أو رزمة
+        <lb/>
+
+        من رزمي ولا أعرفها فيذهب عنائي وتعبي باطلا
+      </p>
+
+      <p n="The Merchant Executes the Plot">
+        فأخذ رداءه فألقاه على العدل الذي
+        <lb/>
+
+        أضمر أخذه ثمّ انصرف الى منزله
+      </p>
+
+      <p n="The Partner Finds the Garb">
+        وجاء رفيقه بعد ذلك ليصلح أعداله فوجد رداء
+        <lb/>
+
+        شريكه على بعض أعداله
+      </p>
+
+      <p n="The Partner Moves the Garb">
+        فقال والله هذا رداء شريكي ولا أحسبه إلّا قد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

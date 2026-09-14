@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="228"/>
+
+      <p n="Brahmins Will Order Killings">
+        من يعظم عليه من أهل وزرائه فنقول له قد نظرنا في كتابنا
+        <lb/>
+
+        فلم نقدر ان نصرف عنك شرّ ما رأيت لنفسك إلاّ بقتل من نسمّي
+        <lb/>
+
+        لك
+      </p>
+
+      <p n="Kings Anticipated Question">
+        فإذا قال ومن تريدون
+      </p>
+
+      <p n="Brahmins List Of Victims">
+        قلنا نريد أن تقتل ابراخت امرأتك
+        <lb/>
+
+        وابنها حويز ابن أخيك وبلاذ صاحب أمرك وكاك الكاتب
+        <lb/>
+
+        ونريد سيفك الذي لا يوجد مثله والفيل الأبيض الذي تقاتل
+        <lb/>
+
+        عليه والفيلين العظيمين والفرس الذي تركب عليه والبختيّ الذي
+        <lb/>
+
+        تسير عليه ونريد كناربزون الفقيه العالم
+      </p>
+
+      <p n="King Shall Bath In Blood">
+        لنجعل دماءهم
+        <lb/>
+
+        ابزن لتقعد فيه
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

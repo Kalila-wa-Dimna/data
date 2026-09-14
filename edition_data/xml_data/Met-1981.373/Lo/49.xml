@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="49"/>
+
+      <p n="Lion's Speculation About the Source's Size">
+        بقدر الصوت
+      </p>
+
+      <p n="Lion's Concern About Territorial Safety">
+        فإن كان ذلك كذلك ليس لنا بمنزلنا هذا قرار
+      </p>
+
+      <p n="Dimna's Inquiry About Additional Observations">
+        فقال
+        <lb/>
+
+        دمنة هل رأى الملك شيئًا غير ذلك
+      </p>
+
+      <p n="Dimna's Advice Against Abandoning Territory">
+        فإنّه إن لم يكن رأى شيئًا سواه فليس
+        <lb/>
+
+        الملك بجدير أن يضيّع وطنه بذلك فإنّ الصوت لا يهيّج إلّا القلب الضعيف
+      </p>
+
+      <p n="Proverb About Not Fearing All Sounds">
+        ويُقال في بعض الأمثال ما كلّ صوت يُهاب
+      </p>
+
+      <p n="Lion's Question About Fearless Sounds">
+        قال الأسد
+        <lb/>
+
+        وكيف لا يُهاب
+      </p>
+
+      <p n="Third Subtale of Fox and Drum">
+        قال دمنة زعموا أنّ ثعلبًا مرّ بأجمة وهو جائع فرأى
+        <lb/>
+
+        فيها طبلًا معلّقًا بشجرة فكلّما مرّ الريح بالطبل قرعته قضبان الشجرة
+        <lb/>
+
+        فيشتدّ صوته
+      </p>
+
+      <p n="Fox's Approach to the Loud Sound">
+        فلمّا سمع الثعلب ذلك توجّه إليه
+      </p>
+
+      <p n="Fox Splits Drum Expecting Food">
+        فرآه ضخمًا فظنّ أنّه لكثرة
+        <lb/>
+
+        لحم وشحم فعالجه حتّى شقّه
+      </p>
+
+      <p n="Fox Finds Drum Empty">
+        فرآه أجوف قال ما أدري لعلّ أقلّ الأشياء
+        <lb/>
+
+        أعظمها جثّة وأبعدها صوتًا
+      </p>
+
+      <p n="Dimna's Application of the Parable to the Lion's Situation">
+        وإنّما ضربت لك هذا المثل لتعلم أن لو انتهى
+        <lb/>
+
+        إليك صاحب الصوت كان أيسر ممّا في نفسك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

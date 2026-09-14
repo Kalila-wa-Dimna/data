@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="81"/>
+
+      <p n="Dimna Seizing the Opportunity to Impress">
+        ويعرفهم فإنّ الملك لا ينتفع ولا ينزلهم منازلهم دون أن يعرّفوا
+        <lb/>
+
+        ما عندهم ويختبر أخلاقهم
+      </p>
+
+      <p n="Analogy of Hidden Crop's True Value">
+        كالزرع المدفون في الأرض من الحنطة
+        <lb/>
+
+        والشعير الذي لا يستطيع أحدًا أن يعرفه حتّى يكون هو الذي بذره ثمّ أخرجه
+      </p>
+
+      <p n="Duty of Courtiers to Share Their Knowledge">
+        وحقّ على من حضر السلطان أن يطلعه على ما عنده من المنفعة والرأي
+        <lb/>
+
+        والأدب
+      </p>
+
+      <p n="Leaders Must Place Things Properly">
+        فإنّه يقال شيئان ليس لأحد وإن كان ملكًا أن يصنع شيئا
+        <lb/>
+
+        منهما في غير موضعه ولا أن ينزله غير منزلته وأحدهما حلية الرأس
+        <lb/>
+
+        الرأس والآخر حلية الرجلين
+      </p>
+
+      <p n="Analogy of Misplaced Ornaments">
+        فإنّه يُعدّ جاهلًا من عقد على رأسه
+        <lb/>
+
+        حلية رجليه وعلى الرجلين حلية الرأس
+      </p>
+
+      <p n="Analogy of Comparing Precious Stones to Lead">
+        ومن نفيس اللؤلؤ والياقوت
+        <lb/>
+
+        بالرصاص فليس ذلك تصغير منه بالياقوت والجوهر لكنّه جهل من فعل
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="Advice against Associating with the Ignorant">
+        ولذلك يقال لا تصحبنّ امرءًا لا يعرف ليمينه فضل على شماله
+      </p>
+
+      <p n="Importance of Associating with the Wise">
+        وإنّما يستخرج ما عند الرجال ولاتهم وما عند الجنود قوّادهم وما عند
+        <lb/>
+
+        أهل الدين علماؤهم
+      </p>
+
+      <p n="Value of Quality over Quantity in Allies">
+        وإن كثرت الأعوان إذا لم يكونوا ذوي بصائر
+        <lb/>
+
+        بالعمل فإنّ العمل ليس رجاؤه بكثرة الأعوان ولكن بصالح الأعوان
+      </p>
+
+      <p n="Importance of Appropriate Tools for Tasks">
+        والعمل الذي يُحتاج فيه إلى الجند على أن يحسن به النَصْب
+        <lb/>
+
+        وإن كثر
+      </p>
+
+      <p n="Ruler's Duty to Recognize Merit Regardless of Status">
+        وأنت الآن حقيق أن لا تحقّر مروءة تجدها في رجل
+        <lb/>
+
+        صغير المنزلة فإنّ الصغير ربّما عظم
+      </p>
+
+      <p n="Analogy of Repurposing Animal Sinew for Royal Use">
+        كالعصب يؤخذ من الميّت فإذا
+        <lb/>
+
+        عُمل به القوس أُكرم فتقتنص عليه الملوك وإنّهم يحتاجون
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

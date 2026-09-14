@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="37"/>
+
+      <p n="Aspiration for Higher Status">
+        ولا نغتمّ على أمر بيننا وإنّ هذه
+      </p>
+
+      <p n="Ability to Change Circumstances">
+        ونحن نستطيع ذلك
+      </p>
+
+      <p n="Kalila's Inquiry about Dimna's Plan">
+        قال كليلة فما أنت
+        <lb/>
+
+        الآن عليه مجمع
+      </p>
+
+      <p n="Dimna's Strategy to Approach the Lion">
+        قال دمنة أريد أن أتعرّض للملك عند هذه الوهلة فإنّ
+        <lb/>
+
+        الأسد ضعيف الرأس وقد التبس عليه وعلى جنوده أمرهم فلعلّي أصيب عنده
+        <lb/>
+
+        منزلة وجاهًا
+      </p>
+
+      <p n="Kalila's Doubt about Lion's Confusion">
+        قال كليلة وما يدريك أنّ الأسد قد التبس عليه أمره
+      </p>
+
+      <p n="Dimna's Confidence in His Judgment">
+        قال
+        <lb/>
+
+        دمنة أعرف ذلك بالرأي
+      </p>
+
+      <p n="Dimna's Confidence in Reading the Lion">
+        فإنّ ذا الرأي ربّما عُرف ذلك باطن أمر صاحبه بما ظهر
+        <lb/>
+
+        من هيئته وضيعه حتّى ربّما عُرف ذلك من ذلّه وشكله
+      </p>
+
+      <p n="Kalila Questioning Dimna's Experience with Rulers">
+        قال كليلة وكيف ترجو
+        <lb/>
+
+        المكانة عند الأسد ولست بصاحب سلطان ولا لك علم نجد منهم ومعاشرتهم وأدبهم
+      </p>
+
+      <p n="Dimna's Analogy of Strength and Heavy Burdens">
+        قال دمنة إنّ الرجل القوي الشديد البطش لا يعثره الحمل الثقيل
+      </p>
+
+      <p n="The Weak Man with the Burden">
+        والضعيف لا
+        <lb/>
+
+        تغني عنه الحيلة شيئًا ولا يضرّ العاقل الغربة ولا يمتنع من المتواضع الليّن الجانب
+      </p>
+
+      <p n="Kalila on Rulers' Favoritism">
+        قال كليلة فإنّ السلطان لا يتوخّى بكرامته أفضل من بحضرته ولكنّه يؤثر بذلك
+        <lb/>
+
+        من دنا منه
+      </p>
+
+      <p n="Analogy of Vine and Tree Proximity">
+        ويُقال إنّ مثل السلطان في ذلك مثل الكرم الذي لا يتعلّق بأكرم
+        <lb/>
+
+        الشجر إنّما يتعلق بما دنا منه
+      </p>
+
+      <p n="Kalila Questioning Dimna's Proximity to the Lion">
+        فكيف ترجو المنزلة عند الأسد ولست ممّن تدنو منه
+      </p>
+
+      <p n="Dimna's Explanation of Gaining Favor">
+        قال دمنة قد فهمت ما ذكرت وأنت صادق ولكنّي اعلم أنّ الذين هم
+        <lb/>
+
+        أقرب إلى السلطان كانوا أصغر قدرًا منّا قد كانوا ولست تلك منازلهم ثمّ دنوا
+        <lb/>
+
+        منه بعد البعد فبلغوا المنازل
+      </p>
+
+      <p n="Dimna's Determination to Succeed">
+        فأنا ملتمس بلوغ منازلهم ومكانهم جهدي بالدنوّ
+        <lb/>
+
+        منهم
+      </p>
+
+      <p n="Kalila's Warning about Dangers of Serving Rulers">
+        وقد كان يُقال أنّه لا يواظب على باب السلطان أحد فيلقي عنه إلّا ثقة
+        <lb/>
+
+        ويكظم الغيظ ويحتمل الأذى ويرفق بالناس إلّا وصل إلى حاجته من السلطان
+      </p>
+
+      <p n="Kalila Questioning Dimna's Strategy">
+        قال كليلة فهبك قد وصلت إلى الأسد فما رفقك الذي ترجوا أن تنال به المنزلة
+        <lb/>
+
+        عنده
+      </p>
+
+      <p n="Dimna will Make the Lion See His Benefit">
+        قال دمنة لو قد دنوت منه ثمّ عرفت أخلاقه ثمّ انحططت في هواه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

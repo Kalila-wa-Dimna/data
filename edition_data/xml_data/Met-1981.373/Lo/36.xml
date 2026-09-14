@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="36"/>
+
+      <p n="unassigned">
+        نصّ موقّت
+        <lb/>
+
+        نصّ موقّت
+        <lb/>
+
+        نصّ موقّت
+        <lb/>
+
+        نصّ موقّت
+        <lb/>
+
+        نصّ موقّت
+        <lb/>
+
+        نصّ موقّت
+        <lb/>
+
+        نصّ موقّت
+        <lb/>
+
+        نصّ موقّت
+        <lb/>
+
+        نصّ موقّت
+      </p>
+
+      <p n="Chapter Title">
+        باب الأسد والثور
+      </p>
+
+      <p n="King's Request for a Parable">
+        قال الملك ديشلم لبيدبا الفيلسوف اضرب لي مثل الرجلين المتحابّين
+        <lb/>
+
+        يقطع بينهما الخؤون الكذوب ويحملهما على العداوة
+      </p>
+
+      <p n="Philosopher's Response and Story Introduction">
+        ** تقاطعا وتدابرا
+      </p>
+
+      <p n="Setting: Wealthy Merchant and His Sons">
+        ومن أمثال ذلك أنّه كان بأرض ديستايد تاجر مكثر
+        <lb/>
+
+        وكانت له بنون
+      </p>
+
+      <p n="Sons' Mismanagement of Wealth">
+        سلّم إليهم أمواله فلم يحترفوا بها بل تساهلوا في ذلك تساهلًا
+        <lb/>
+
+        يضيّع ذلك المال عليه وعليهم فلامهم أبوهم ووعظهم
+      </p>
+
+      <p n="Father's Advice: Three Pursuits and Four Necessities">
+        وقال يا بنيّ إنّ
+        <lb/>
+
+        صاحب الدنيا يطلب ثلاث أمور لن يدركها إلّا بأربعة أشياء
+      </p>
+
+      <p n="Three Worldly Pursuits">
+        السعة
+        <lb/>
+
+        في المعيشة والمنزلة في الناس والزاد إلى الآخرة
+      </p>
+
+      <p n="Four Necessities for Achieving Pursuits">
+        وأمّا التي يحتاج إليها
+        <lb/>
+
+        وإلى إدراكها فاكتساب المال من معروف وجوهه وحسن القيام عليه
+        <lb/>
+
+        والتثمير له وإنفاقه فيما يصلح المعيشة ويرضي الأهل والإخوان ليعود عليه
+        <lb/>
+
+        في الآخرة نفعه
+      </p>
+
+      <p n="Failure to Achieve Goals Without Proper Management">
+        فمن أضاع ذلك لم يدرك ما أراد وإن هو لم يكتسب لم يكن
+        <lb/>
+
+        له مال يعيش به
+      </p>
+
+      <p n="Rapid Depletion of Poorly Managed Wealth">
+        وإن هو أضاعه لم تمنعه قلّة الإنفاق من سرعة النفاد
+      </p>
+
+      <p n="Analogy of Rapidly Depleting Kohl">
+        كالكحل الذي لا يُؤخذ منه إلّا ما هو شبيه بالغبار ثمّ هو مع ذلك سريع النفاد
+        <lb/>
+
+        والفناء
+      </p>
+
+      <p n="Consequences of Miserliness and Mismanagement">
+        وإن هو اكتسب وأصلح وأمسك عن وضعه في مواضعه كان ممّن
+        <lb/>
+
+        يُعدّ فقيرًا ثمّ إنّ عدم وضعه في مواضعه لا يمنعه من أن يضيع في غير مراده
+        <lb/>
+
+        واختياره
+      </p>
+
+      <p n="Analogy of Overflowing Water Reservoir">
+        كالمياه التي تجتمع إلى مكان ولا تزال تصبّ في ذلك المكان حتّى
+        <lb/>
+
+        إذا زادت عن الحدّ سالت من سائر النواحي وربّما انبثق المكان فذهب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

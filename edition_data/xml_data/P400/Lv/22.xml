@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="22"/>
+
+      <p n="Friend Fears Secret Spreads">
+        ليس يُكتتم ولا بدّ أن يُذاع في المجالس فإذا اشتهر هلكت
+        <lb/>
+
+        نفسي هلاكًا لا أقدر على التخلّص منه
+      </p>
+
+      <p n="Indian King Is Harsh">
+        فإنّ ملكنا هذا قد يعاقب
+        <lb/>
+
+        على الذنب اليسير أشدّ عقوبة فكيف على هذا الأمر الجسيم الذي تحملني
+        <lb/>
+
+        المودّة والصداقة على أن أسعفك به فإذا علم به لم يردّ بأسه عنّي
+        <lb/>
+
+        لا مال ولا عرض ولا شفاعة
+      </p>
+
+      <p n="Scholars Commend Discrete Friend">
+        قال برزويه إنّ العلماء
+        <lb/>
+
+        قد مدحت الصديق إذا كتم سرّ صديقه
+      </p>
+
+      <p n="Burzoy Entrusts Secret To Friend">
+        وهذا الأمر الذي قدمت
+        <lb/>
+
+        لأجله وإيّاك اعتمدت وإليك قصدت ومنك أرجو إنجازه وهو
+        <lb/>
+
+        أمر عظيم وخطب جسيم
+      </p>
+
+      <p n="Burzoy Sure Of Friends Abilities">
+        وأنا واثق بعقلك ولطفك
+        <lb/>
+
+        فإذا رحلت عنك أمنت على نفسك
+      </p>
+
+      <p n="Friend Provides Book">
+        فعند ذلك أشفق عليه
+        <lb/>
+
+        الهنديّ وسلّم إليه كتاب كليلة ودمنة
+      </p>
+
+      <p n="Burzoys Effort In Translation">
+        فلمّا وقع الكتاب
+        <lb/>
+
+        في يد برزويه اجتهد في كتابته وأطال فيه فكره وسهر فيه
+        <lb/>
+
+        ليله وأذهب فبه نهاره
+      </p>
+
+      <p n="Burzoy Writes To Kisra">
+        فلمّا فرغ من كتابته كَتَب إلى كسرى أنوشروان
+        <lb/>
+
+        يعلمه بما لقي من النصب وأنّه قد قضى حاجته
+      </p>
+
+      <p n="Kisra Reads Letter">
+        فلمّا وصل إليه الكتاب
+        <lb/>
+
+        ففرح فرحًا شديدًا
+      </p>
+
+      <p n="Kisra Calls Burzoy Back">
+        وأعاد الجواب يأمره بالمسير
+      </p>
+
+      <p n="Burzoy Returns To Persia">
+        فلمّا قرأ برزويه الكتاب
+        <lb/>
+
+        <> فسار حتّى قدم على كسرى أنوشروان فأخبروه بقدومه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

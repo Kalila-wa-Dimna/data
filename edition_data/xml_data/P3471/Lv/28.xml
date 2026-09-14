@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="28"/>
+
+      <p n="End of Chapter Explanation">
+        باب وبالله تعالى التوفيق وله الحمد على كلّ حال
+      </p>
+
+      <p n="Chapter Title First Risala">
+        الرسالة
+        <lb/>
+
+        الأولى
+      </p>
+
+      <p n="Chapter Abstract">
+        وهي بعثة أنوشروان بروزية المتطبّب إلى بلاد الهند
+        <lb/>
+
+        في طلب كتاب كليلة ودمنة
+      </p>
+
+      <p n="Hamdala For Gods Wisdom">
+        الحمد لله الذي بيده مفاتيح كلّ شيء
+        <lb/>
+
+        وإليه منتهى كلّ علم وغاية الدال على الخير المسبب كل فضيلة الملهم
+        <lb/>
+
+        عباده ما يقرّبهم من نوافل الخيرات ونوامي البركات وأدلّهم
+        <lb/>
+
+        عليه من العمل بحكمه
+      </p>
+
+      <p n="God Commands Gratitude">
+        وأمرهم بالشكر له ليستوجبوا بذلك المزيد منه
+        <lb/>
+
+        وليدلّهم على طلب العلم واقتناء الأدب وليفهموا عنه أمره
+        <lb/>
+
+        ووصيته وليسرعوا فيما يرضيه عنهم ولينجنّبوا معاصيه
+        <lb/>
+
+        فتبارك الله رب العالمين
+      </p>
+
+      <p n="God Created Cause For Everything">
+        وقد جعل الله تعالى لكلّ سبب علّة
+        <lb/>
+
+        ولكلّ علّة مجرى يجريه الله على يديّ عبد من عبيده ويقدره
+        <lb/>
+
+        في دولته وأيّام عمره
+      </p>
+
+      <p n="God Inspired Books Import">
+        فكان من علّم انتساخ هذا الكتاب ونقله
+        <lb/>
+
+        من أرض الهند إلى مملكة فارس إلهام ألهمه الله عزّ وجل كسرى
+        <lb/>
+
+        أوشروان بالبعثة في نسخه ونقله
+      </p>
+
+      <p n="Kisra Wisest King">
+        لأنّه كان أفضل ملوك
+        <lb/>
+
+        فارس حكمة ورأيًا وأبحثهم عن مكان العلم وأحرصهم على الخير
+        <lb/>
+
+        وأسرعهم إلى اقتناء ما يزيّنه بين طالبي الأدب وباحثي العلم
+        <lb/>
+
+        في معرفة الخير والشرّ والنفع والضرّ والصديق والعدوّ
+      </p>
+
+      <p n="God Made Kisra Superior">
+        ولم يكن يعرف ذلك إلّا بعون الله تعالى جلّ ذكره وسياسة عبيده
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

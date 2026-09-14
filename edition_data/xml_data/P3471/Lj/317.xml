@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="317"/>
+
+      <p n="Lion Has Jackal Arrested">
+        ويُحتفظ به
+      </p>
+
+      <p n="Courtiers Are Amazed at Lion's Unawareness">
+        فقال عند ذلك بعض جلساء الأسد إنّي ﻷعجب
+        <lb/>
+
+        من رأي الملك ومعرفته بالأمور كيف خفي عليه أمر هذا ولم يعرف
+        <lb/>
+
+        خِبّه ومخادعته
+      </p>
+
+      <p n="Courtiers Expect Jackal's Pardon">
+        قال آخر أعجب من ذلك أنّي لا أرى الأسد
+        <lb/>
+
+        إلّا سيصفح عنه بعد الذي ظهر عليه منه
+      </p>
+
+      <p n="False Message and Death Sentence">
+        ثمّ إنّ الأسد أرسل
+        <lb/>
+
+        بعضهم إلى ابن آوى فسأله عن أمره وغدره فرجع إليه برسالة
+        <lb/>
+
+        كاذبة اخترعها الرسول فغضب منها الأسد وأمر بابن آوى
+        <lb/>
+
+        أن يُقتل
+      </p>
+
+      <p n="Lion's Mother Delays Execution">
+        وبلغ ذلك أمّ الأسد فعرفت أنّ الأسد قد عجل عليه في أمره
+        <lb/>
+
+        فأرسلت إلى الذين أُمروا بقتله أن يؤخّروه حتّى تدخل إلى الأسد
+        <lb/>
+
+        ففعلوا
+      </p>
+
+      <p n="Mother Questions Lion">
+        ودخلت على ابنها فقالت له لأيّ ذنب أمرت بابن
+        <lb/>
+
+        آوى أن يُقتل فأخبرها الأسد بالأمر فقالت قد جعلت العجلة
+        <lb/>
+
+        عليه
+      </p>
+
+      <p n="The Intelligent Deliberates">
+        وإنّما يسلم العاقل من الندامة بترك العجلة وبالأناة والتثبّت
+        <lb/>
+
+        في الأمور كلّها
+      </p>
+
+      <p n="Haste Causes Regret">
+        لأنّ العجلة لا يزال صاحبها يجتني منها ثمرة
+        <lb/>
+
+        الندامة وضعف الرأي
+      </p>
+
+      <p n="Kings Need Deliberateness Most">
+        وليس أحد أحوج إلى التودّد والتثبّت
+        <lb/>
+
+        من الملوك
+      </p>
+
+      <p n="Chain of Dependence up to King's Virtues">
+        فإنّ المرأة بزوجها والولد بوالديه والمتعلّم بمعلمّه
+        <lb/>
+
+        والصاحب بصديقه والجند بالقادة والناسك بالدين
+        <lb/>
+
+        والعامّة بالملوك والملوك بالتقوى والعقل بالتثبّت
+        <lb/>
+
+        والأناة
+      </p>
+
+      <p n="King to Consider People's Ranks">
+        ورأس الحلم والحزم للمَلك معرفة أصحابه وإنزاله
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

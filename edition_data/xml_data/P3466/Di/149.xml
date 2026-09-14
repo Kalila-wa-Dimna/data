@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="149"/>
+
+      <p n="Dimna Calls the Mother Biased">
+        مع أنّي لشقاوة جدّي قد رُوي عنّي كلّ شيء حتّى لقد سعوا إلى الملك
+        <lb/>
+
+        بالنميمة عليّ
+      </p>
+
+      <p n="Dimna Criticizes Courtiers for Speaking Indiscriminately">
+        حتّى لقد صار مَن بباب الملك لاستخفافهم وطول كرامته
+        <lb/>
+
+        إيّاهم وما هم فيه من العيش والنعمة لا يدرون في أيّ وقت ينبغي
+        <lb/>
+
+        لهم الكلام ولا متى يجب السكوت
+      </p>
+
+      <p n="The Mother Chastises Dimna's Duplicity">
+        قالت أمّ الأسد انظروا
+        <lb/>
+
+        إلى هذا الغادر كيف يدع نفسه بريئًا كمن لا ذنب له
+      </p>
+
+      <p n="Dimna Enumerates 5 Duplicitous Types">
+        قال دمنة
+        <lb/>
+
+        إنّ الذين يعملون غير أعمالهم خمسة الذي يضع الرماد موضع ينبغي
+        <lb/>
+
+        أن يضع الرمل ويستعمل فيه السرجين والرجل الذي يلبس لباس المرأة
+        <lb/>
+
+        والمرأة التي تلبس لباس الرجل والضيف الذي يقول أنا ربّ البيت
+        <lb/>
+
+        والذي ينطق بين الجماعة بما لا يُسأل عنه
+      </p>
+
+      <p n="The Mother Demands Dimna's Silence and Confession">
+        قالت أمّ الأسد
+        <lb/>
+
+        أتظنّ أيّها الغادر المحتال أنّك خادعي والملك بقولك هذا وأنّه
+        <lb/>
+
+        لا يسجنك
+      </p>
+
+      <p n="Dimna Defines as Traitor Who Is Ungrateful for Advice and Kills a Defeated Enemy">
+        قال دمنة إنّ الغادر الذي لا يأمن عدوّه مكره ومن
+        <lb/>
+
+        إذا استمكن من عدوّه قتله على غير ذنب
+      </p>
+
+      <p n="The Mother Condemns Dimna's Sweet-Talking and Hoping">
+        قالت أمّ الأسد أتظنّ
+        <lb/>
+
+        أنّك ناجٍ من عظيم جرمك وأنّ محالك هذا ينفعك
+      </p>
+
+      <p n="Dimna Claims Truthfulness">
+        قال
+        <lb/>
+
+        دمنة إنّ المحتال من يتّهموه بما لا يكون فأمّا أنا فقد قلت ما كان
+      </p>
+
+      <p n="Dimna Claims He Convinced Lion of Ox's Treason">
+        وقد كان استبان لسيّدي ما ظهر من عداوة شتربة ورأى من
+        <lb/>
+
+        علامات ذلك صدق قولي عنده وقولي واضح مبين
+      </p>
+
+      <p n="The Lion's Silence Makes the Mother Doubt">
+        فلمّا
+        <lb/>
+
+        رأت أمّ الأسد أنّ الأسد لا ينطق بشيء ارتابت في نفسها
+      </p>
+
+      <p n="Silence in an Argument Means Approval">
+        وقالت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

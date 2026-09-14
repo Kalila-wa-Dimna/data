@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="292"/>
+
+      <p n="The Cat States the Rat's Duty of Reciprocation">
+        من الهلكة ما قد رأيت وأنت حقيق أن تُكافأ بذلك
+      </p>
+
+      <p n="The Rat Must Fulfill the Pact">
+        وكما أنّي
+        <lb/>
+
+        أسرعت في خلاصك فكذلك كن أنت أيضًا في الاجتهاد في خلاصي
+      </p>
+
+      <p n="The Rat Should Forget Enmity">
+        وإن كنت تذكر العداوة القديمة فلست حقيقًا أن تفعل ذلك
+        <lb/>
+
+        مع بلائي عندك الذي مثله ودونه يُشكر فإنّ ما حدث بيننا
+        <lb/>
+
+        أهل أن يُستكمل وأن يُعتزل الحقد معه
+      </p>
+
+      <p n="Good Deeds Erase Bad Deeds">
+        فإنّ الصالحين ليسوا بذوي
+        <lb/>
+
+        حقد وإنّ الكريم لا يلقى إلاّ شكورًا غير حقود تنسيه الخلّة
+        <lb/>
+
+        الواحدة تمحو عندهم كثيرة من السيّئات
+      </p>
+
+      <p n="The Punishment of Betrayal Comes Swiftly">
+        ومن أعجل العقوبة
+        <lb/>
+
+        عقوبة العدوّ واليمين الكاذبة والبغي ومن إذا تُضرّع إليه
+        <lb/>
+
+        وسُئل العفو لم يصفح ولم يعف ولم يغفر
+      </p>
+
+      <p n="The Two Kinds of Friends">
+        قال الجرذ إنّ الأخلّاء
+        <lb/>
+
+        خليلان فأحدهما الخليل الطائع المصافي والآخر المؤاخي صاحبه
+        <lb/>
+
+        على حال الاضطرار إلى ذلك وكلاهما يلتمس المنافع ويحترس من
+        <lb/>
+
+        المضارّ فأمّا الخليل المصافي فينبغي له أن يؤثر خليله على نفسه
+        <lb/>
+
+        وأهله وماله ويسترسل إليه ويعمل له على كلّ حال
+      </p>
+
+      <p n="Forced Friendship Does Not Last">
+        وأمّا الخليل
+        <lb/>
+
+        الذي اضطرّ إلى مودّة صاحبه فإنّ له أحوالًا يُطمئنّ إليه فيها
+        <lb/>
+
+        وحالات يُتّقى فيها وربّما تمّت المودّة بينهما وكثيرًا ما تنفسخ ولا
+        <lb/>
+
+        تنمو
+      </p>
+
+      <p n="The Intelligent Protects Himself">
+        ولكن ينبغي للعاقل أن يحفظ نفسه فإنّ الذي يصالح العدوّ
+        <lb/>
+
+        ويثق به ويعمل عمله أو يحفظ هوى
+      </p>
+
+      <p n="Trusting a Foe Is Like Eating Bad Food">
+        نفسه فتضعف عن هضمه معدته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

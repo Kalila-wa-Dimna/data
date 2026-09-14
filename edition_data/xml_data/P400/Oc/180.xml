@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="180"/>
+
+      <p n="The Crow King Asks the First Crow">
+        ما قد رأيت ولسنا نأمن من رجعتهنّ
+      </p>
+
+      <p n="Escape Should Be the Recourse">
+        فقال الحيلة في ذلك ما كانت
+        <lb/>
+
+        الحكماء تذكره فإنّه كان يقال إذا أتاك العدوّ الذي لا تقوى
+        <lb/>
+
+        لقتاله فإنّ أمثل الرأي لك في أمره الهرب منه والنجاة إلى الموئل
+      </p>
+
+      <p n="The Crow Kings Asks the Second Crow">
+        قال الثاني على ما يرى في قول الأوّل
+      </p>
+
+      <p n="Escape Is No Recourse">
+        فقال لم يقل شيئًا
+      </p>
+
+      <p n="The Downsides of Escape Are Explained">
+        ولا ينبغي لنا أن نعرّي بلادنا ونترك اثقالنا ومعايشنا ونهرب عن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

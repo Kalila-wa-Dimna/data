@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="349"/>
+
+      <p n="The Donkey Recognizes His Ancestors' Wisdom">
+        وتحمّل المشقّة
+      </p>
+
+      <p n="King W Insists on a Solution">
+        قال الملك قد سمعت هذا ولكن ما سبيلك
+        <lb/>
+
+        أن تخاف هذا الأمر فإنّه والعياذ بالله تعالى إن لم يتمّ لنا ما
+        <lb/>
+
+        نريده فلا بأس عليه وإنّا على كلّ حال قادرون على
+        <lb/>
+
+        خلاص أنفسنا
+      </p>
+
+      <p n="The Vizier Prays for the King">
+        فلمّا رأى الوزير أنّ الملك لا بدّ له من إتمام
+        <lb/>
+
+        ما سوّلت له النفس لم يعود يماريه فيما أراده
+      </p>
+
+      <p n="King W Orders Wood to Be Brought">
+        ثمّ إنّ الملك
+        <lb/>
+
+        أمر بالمناداة في جميع أعماله أن لا يبقى رجل شابّ ومعتمد
+        <lb/>
+
+        إلّا حضر اليوم الفلانيّ إلى باب الملك ومعه حمل حطب
+        <lb/>
+
+        من الجبل فامتثل الناس أمره وبادروا إلى طاعته
+      </p>
+
+      <p n="King W Knows When the Winds Subside">
+        وكان الملك
+        <lb/>
+
+        عرف الوقت الذي ينقص فيه الريح
+      </p>
+
+      <p n="King W Orders the Hole to Be Blocked">
+        فلمّا كان ذلك الوقت
+        <lb/>
+
+        برز الملك وأمر الناس أن يحشوا الأحطاب في ذلك النقب
+        <lb/>
+
+        وقدم على باب النقب لوضع الأخشاب ناسًا معروفين
+        <lb/>
+
+        بالهندسة والعمارة ليعتمدوا سدّ النقب مقتضى الأحكام
+        <lb/>
+
+        وليضعوا الأسافيل والخزندارات مواضعها بحيث لا يفسد
+        <lb/>
+
+        عملهم بعد ذلك وأن يبنوا دكّة عظيمة وجه النقب وكندفوا على
+        <lb/>
+
+        ذلك النقب حجارة عظيمة بحيث لا يقذف الريح الحطب ففعلوا ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

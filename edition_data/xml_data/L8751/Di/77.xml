@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="77"/>
+
+      <p n="Dimna’s Character is Visible in His Body">
+        طار له مع ذلك ساسو <>
+      </p>
+
+      <p n="Judge/Investigator/Audience Request Physiognomical Evaluation">
+        فقال عظيم الجند للخبّازين قد سمعنا ذلك وقليلٌ من يعرفه
+        <lb/>
+
+        فأعلمنا ما الذي رأيت في هذا من العلامات وما الذي ظهر لك من الدلالات
+      </p>
+
+      <p n="Prominent Courtier Diagnoses Dimna as Traitor">
+        فقام رأس
+        <lb/>
+
+        الخنازير فأخذ بيد دمنة ثمّ قال إنّ في كتب العلماء من كانت عينه اليسرى صغيرةً
+        <lb/>
+
+        كثيرة الاختلاج وأنفه مائل إلى شقّه الأيمن وما بين حاجبيه من الشعر متباعدًا وإذا
+        <lb/>
+
+        مشى نكّس رأسه فإنّه صاحب نميمةٍ وفجورٍ وغدرٍ وهذه الآيات كلّها في هذا الشقيّ
+      </p>
+
+      <p n="Bodily Marks Are Claimed to Predict Deeds">
+        فقال دمنة كلنّا تحت السماء ولسنا فوقها وأنتم ذووا الأحلام والعلم بالكلام قد
+        <lb/>
+
+        فهمتم ما قال هذا فاسمعوا منّي فإنّه ظنّ أن لا أحد أعرف بالأمور منه وأنّه لا علم إلّا علمه
+        <lb/>
+
+        فإن كان ما ذكروا من العلامات حقًّا
+      </p>
+
+      <p n="Human Action Would Be Meaningless">
+        فلا أسمع أحدًا يقدر على أن يعمل خيرًا ولا شرًّا
+        <lb/>
+
+        إلّا بها وإنّما يتجاوزون بذلك ويعاقبون عليه وليس إلى امرئٍ من رأيه شيءٌ وليس مجتهدٌ
+        <lb/>
+
+        وإن عرض على الخير بنافعه وليس المسئ وإن أذنب بضارّه
+      </p>
+
+      <p n="If the Physique Makes People Traitors, Dimna Is Innocent and Excused">
+        وقد شقيت أنا بالعلامات
+        <lb/>
+
+        التي في جسدي وذلك أمرٌ ليس إليّ إن كانت وأعوذ بالله أن تكون ولو كان إلى الناس
+        <lb/>
+
+        من ذلك شيءٌ جعلوا فيهم أفضل ما يقدرون عليه من الآيات والدلائل والعلامات ولم
+        <lb/>
+
+        يكن من غير العارفة ولم أركب غير طريق الحقّ
+      </p>
+
+      <p n="Courtier's Argument Shows His Foolishness">
+        وقد استبان لمن حضرك أيّها الخوّار
+        <lb/>
+
+        قلّة عقلك وعلمك وبعد ذهنك وفهمك وكثرة جهلك بالأمور
+      </p>
+
+      <p n="Dimna's Third Subtale of Plower Who Told His Wife to Cover Herself First">
+        قد قال رجلٌ مرّةً لامرأته
+        <lb/>
+
+        احفظي نفسك ولا تطّلعي على غيرك ودعي الناس عنك وأصلحي عيوبك التي انتي بها
+        <lb/>
+
+        أعرف وذلك مثلك
+      </p>
+
+      <p n="Prominent Courtier Requests Tale">
+        فقال رأس الخبّازين وكيف كان ذلك
+      </p>
+
+      <p n="A Man and His Two Wives Become War Captives">
+        فقال دمنة
+        <lb/>
+
+        زعموا أنّ مدينةً تدعى المحدثة أغار عليها عدوًّا فقتلوا الرجال وسبوا الذرّيّة
+        <lb/>
+
+        فأصاب رجلًا منهم في القسمة رجلًا حرّاث وامرأتان له وكان يسيء إليهم ويجيعهم ويعرّيهم
+      </p>
+
+      <p n="One Wife Blames the Other for Being Naked">
+        فانطلق هو وامرأتاه يحتطبون فوجدت إحداهنّ خرقةً باليةً فسترت به عورتها فأبصرتها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BE01875</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="212"/>
+
+      <p n="unassigned">
+        الوجوه جواب ما سألتني عنه واجتهدت لك بنظري ومبلغ فطنتي
+        <lb/>
+
+        وكان غرضي في ذلك رضاك وطاعتك والله تعالى يقضي حقّي بحسن
+        <lb/>
+
+        النيّة منك في إعمال فكرك وعقلك فيما وضعت مع ما أنّه
+        <lb/>
+
+        ليس الآمر بالخير بأسعد من المطيع له فيه ولا الناصح بأولى
+        <lb/>
+
+        بالنصيحة من المنصوح له به ولا المتعلّم بأسعد من المعلّم ممّن
+        <lb/>
+
+        تعلّموا منه فافهم ذلك ودبّره بعقلك وفهمك فإنّك
+        <lb/>
+
+        ترشد بذلك إن شاء الله تعالى وبالله التوفيق وهو حسبي
+        <lb/>
+
+        وكفى به وكيلًا والحمد لله وحده لا إله غيره
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

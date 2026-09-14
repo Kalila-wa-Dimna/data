@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="230"/>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        وقريب منه جحر جرذ يُقال له أفريدون
+      </p>
+
+      <p n="The Cat Is Caught">
+        وكان
+        <lb/>
+
+        الصيّادون يتناولون ذلك المكان لصيد الوحش
+        <lb/>
+
+        والطير وأنّ صيّاد نصب أحباله ذات يوم فوقع
+        <lb/>
+
+        فيها السنّور رومي
+      </p>
+
+      <p n="The Rat Seeks Food">
+        وخرج الجرذ يسعى يبتغي ما يأكل
+        <lb/>
+
+        وهو حذرًا يلتفت ليمين وشمال فلمّا رأى السنّور في
+        <lb/>
+
+        حبال الصيّاد فرح
+      </p>
+
+      <p n="Foes Surround the Rat">
+        ثمّ التفت لخلفه فرأى ابن عرس
+        <lb/>
+
+        قد تبعه وكمن له ونظر فوقه فرأى بومة على شجرة ترصده
+        <lb/>
+
+        فخاف إن ينصرف راجعًا فيثب عليه ابن عرس وإن
+        <lb/>
+
+        ذهب يمينًا أو شمالًا تخطفه البومة وإن تقدّم فالسنّور
+        <lb/>
+
+        أمامه
+      </p>
+
+      <p n="The Rat Weighs His Predicament">
+        فقال في نفسه هذا بلاء وشرّ قد تظاهرن عليّ فما
+        <lb/>
+
+        بقي لي إلّا أتفرّغ لعقلي وحيلي
+      </p>
+
+      <p n="The Intelligent Always Keeps Alert">
+        والعاقل لا يغرب عليه حاله
+      </p>
+
+      <p n="Intelligence Is Like the Sea">
+        وإنّما عقل ذوي العقول كالبحر الزاخر الذي لا يُدرك
+        <lb/>
+
+        غزره
+      </p>
+
+      <p n="Situations Do Not Blind the Intelligent">
+        ولا يبلغ من ذوي الرأي عقله فيهلكه
+      </p>
+
+      <p n="The Rat Decides on a Pact with the Cat">
+        ولا ينبغي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

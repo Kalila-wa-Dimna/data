@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="189"/>
+
+      <p n="Falconer Decides to Take Revenge">
+        سوءًا
+      </p>
+
+      <p n="Falconer Teaches Parrots False Accusation in Foreign Tongue">
+        وخرج قبض فرخيْ بيغه فأخذهما وربّاهما وفرّق
+        <lb/>
+
+        بينهما وعلّم أحدهما يقول رأيت البوّاب مضاجعًا
+        <lb/>
+
+        مولاتي على فراش سيّدي وعلّم الآخر يقول أمّا أنا
+        <lb/>
+
+        فلست بقائلةٍ أراد به التصديق وأدّب الفرخين بذلك
+        <lb/>
+
+        حتّى حفظاه ومهرا فيه بلسان البلخيّ لأنّ العبد كان
+        <lb/>
+
+        بلخيًّا وكمّلاه في سبعة أشهر
+      </p>
+
+      <p n="Falconer Gives Parrots to Marzuban">
+        فلمّا بلغ ما أراد منهما
+        <lb/>
+
+        أهداهما لسيّده فأُعجب مولاه منهما من غير معرفةٍ منه بما
+        <lb/>
+
+        يقولان فأخذهما من البارناري وعلّقهما في بيته
+      </p>
+
+      <p n="Marzuban Hosts Foreign Guests">
+        فلمّا
+        <lb/>
+
+        كان بعد حين قدم على الرجل عظماء أهل بلخ فقدّم بين
+        <lb/>
+
+        يديهم مفاخر الطعام فأكلو وشراب فشربوا فأراد
+        <lb/>
+
+        الرجل الزينة بالبيغ فأحضرهما بين يديّ ضيوفه
+      </p>
+
+      <p n="Foreign Guests Understand Parrots">
+        فصاحا
+        <lb/>
+
+        بما كان علّمهما البازناري ففهم القوم ما قالتا ونظر
+        <lb/>
+
+        بعضهم إلى بعضٍ ونكّسوا رؤسهم من ذلك القول واستحوا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

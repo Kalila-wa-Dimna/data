@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M486</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="8"/>
+
+      <p n="God Equipped Humans">
+        معايشهم وما يدركون به استنقاذ أرواحهم من العذاب في الآخرة
+      </p>
+
+      <p n="Reason Is Gods Best Gift">
+        وأفضل
+        <lb/>
+
+        ما رزقهم العقل الذي يجمع الأشياء ولا يقدر أحد على إصلاح معيشته ولا
+        <lb/>
+
+        اجتلاب فضل ودفع ضرر إلّا به وطالب الآخرة المجتهد في العمل ينجو به من
+        <lb/>
+
+        الأهوال
+      </p>
+
+      <p n="Reason Is Basis Of Every Good">
+        والعقل فهو سبب كلّ خير ومفتاح كلّ رغبة وليس ﻷحد غنى عنه
+        <lb/>
+
+        والأدب والعقل مكتسب بالتجارب
+      </p>
+
+      <p n="Reason Like Hidden Fire">
+        ولبوثه في الإنسان كلبوث النار في الحديد لا
+        <lb/>
+
+        يظهر حتّى يقدحها قادح من غيرها فإذا قدحها ظهر ضوءها وحريقها
+      </p>
+
+      <p n="Adab And Experience Kindle Reason">
+        كذلك العقل
+        <lb/>
+
+        كامن في الإنسان لا يظهر حتّى يظهره الأدب وتبديه التجارب
+      </p>
+
+      <p n="Reason Strengthens">
+        فإذا استحكم كان السبب
+        <lb/>
+
+        لكلّ جيّد والجالب لكلّ المنافع فلا شيء أفضل من العقل إذا أعانه الأدب
+      </p>
+
+      <p n="Reason Brings Success">
+        فمن رزقه الله تعالى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

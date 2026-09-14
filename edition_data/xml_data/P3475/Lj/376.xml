@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="376"/>
+
+      <p n="Jackal's Foes Perhaps Hid Meat">
+        بوضع ذلك اللحم في منزله عن غير علمه بذلك
+      </p>
+
+      <p n="Kite's Booty Attracts Competitors">
+        فإنّ الحدأة إذا أصابت البضعة
+        <lb/>
+
+        من اللحم نافسها فيها الطيور
+      </p>
+
+      <p n="Dog's Bone Attracts Competitors">
+        والكلب إذا كان في فيه عظم يعوي
+        <lb/>
+
+        عليه عدوّه من الكلاب
+      </p>
+
+      <p n="Lack of Good Advisors Is Damaging">
+        فإنّ أعظم الأشياء ضرر الحسّاد وأن يُحرموا
+        <lb/>
+
+        صالح الأعوان والوزراء والإخوان وأن يكون وزراؤهم وأعوانهم
+        <lb/>
+
+        غير ذي مروءة ولا غناء
+      </p>
+
+      <p n="Jackal does not Need Lion">
+        فلم يزل غناء ابن آوى عنك عظيمًا
+      </p>
+
+      <p n="Jackal Toiled for Lion">
+        يؤثر منفعتك على منفعته ويشتري راحتك بنصبه ورضاك
+        <lb/>
+
+        بسخط الأصحاب
+      </p>
+
+      <p n="Jackal Hid no Secrets from Lion">
+        لا يطوي عنك أمرًا ولا يكتم سرًّا ولا يرى شيئًا إلّا
+        <lb/>
+
+        أحمله لك أو بذله
+      </p>
+
+      <p n="Such Advisors Are Like Family">
+        فمن كان من الأصحاب هذه صفته فإنّما منزلته
+        <lb/>
+
+        منزلة الآباء والأبناء والإخوان
+      </p>
+
+      <p n="Courtier Exonerates Jackal">
+        فبينا أمّ الأسد في كلامها إذ دخل
+        <lb/>
+
+        على الأسد بعض من كان يمكر بابن آوى فأطلع الاسد على على أمره
+      </p>
+
+      <p n="unassigned">
+        فلمّا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

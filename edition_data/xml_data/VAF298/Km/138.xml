@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>VAF298</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="138"/>
+
+      <p n="The House Owner Gets a Third Cat">
+        سنّور آخر فقد زاد علينا أمر الفساد من الجرذان فيجتمع عندهم ثلاث
+        <lb/>
+
+        سنانير
+      </p>
+
+      <p n="The Rats Cause Damage a Third Time">
+        فنعود إلى الفساد أكثر من الثانية
+      </p>
+
+      <p n="The House Owner Removes One Cat">
+        إلى أن يقول القوم ليس الفساد إلّا
+        <lb/>
+
+        من السنانير فيقولون نطرد بعض السنانير وننظر هل يدفع ذلك شيئًا أم لا
+        <lb/>
+
+        فإنّا نرى الفساد يزيد بزيادة السنانير
+      </p>
+
+      <p n="The Rats Reduce the Damage">
+        فينقص منهم سنّور واحد فننقص
+        <lb/>
+
+        نحن من الفساد قليلًا فيرون الأمر قد قلّ ممّا كان
+      </p>
+
+      <p n="The Second Cat is Removed and the Damage Reduces">
+        فيخرجون السنّور الثاني فننقص
+        <lb/>
+
+        نحن من الفساد شيئًا يسيرًا
+      </p>
+
+      <p n="The House Owner Removes the Third Cat">
+        فيثبت عند الناس أنّ نقصان الأذى في إخراج
+        <lb/>
+
+        السنانير فيخرجون الثالث
+      </p>
+
+      <p n="The Plan Is to Be Re-enacted in All Households">
+        فنخرج نحن بأسرنا فننزل نحن منزلًا من المدينة
+        <lb/>
+
+        كذلك نصنع في سائر بيوت المدينة إلى أن يتيقّن الناس أنّ المضرّة كانت من
+        <lb/>
+
+        جهة السنانير
+      </p>
+
+      <p n="The People Kill the Cats">
+        فيطلبون هلاكها ويطردونها من المدينة إلى الخراب فكلّما
+        <lb/>
+
+        وافوا سنّورًا في موضع قتلوه
+      </p>
+
+      <p n="The Third Vizier Foretells Success">
+        وأحسب أنّما ننجوا من الخوف بهذا ونعيش آمنين
+      </p>
+
+      <p n="The King Enacts the Plan and the Cats Are Killed">
+        ففعلوا ذلك ستّة أشهر كلّ باد كلّ سنّور كان في المدينة
+      </p>
+
+      <p n="The Damage Is Attributed to the Cats">
+        حتّى أنّهم كانوا إذا لحقهم
+        <lb/>
+
+        شيء من فساد الجرذان يقولون لعلّ سنّور جاز حول المدينة
+      </p>
+
+      <p n="Disease Is Attributed to the Cats">
+        فمكث أهل المدينة
+        <lb/>
+
+        ستّة أشهر كلّما مسّهم وجع أو لحق البهائم عاهة من مرض أو وجع قالوا
+        <lb/>
+
+        من جهة السنانير
+      </p>
+
+      <p n="The Plan Saves the Rats">
+        فبهذا الحال تهيّأ للجرذان أن يعيشوا في الطمأنينة
+      </p>
+
+      <p n="Man Should Heed This Example">
+        فإذا
+        <lb/>
+
+        كانت هذه الخلقة الرقيقة آل أمرها إلى مثل هذا الحال وتمّت لها الحيلة في
+        <lb/>
+
+        إزالة الخوف عنها وكيف بالخليقة الناطقة لا تقدر على إزالة ما بها من المضرّة
+      </p>
+
+      <p n="End of Chapter">
+        كمل باب بهرام الملك
+      </p>
+
+      <p n="unassigned">
+        باب السنّور والجرذ قال الملك للفيلسوف
+        <lb/>
+
+        قد فهمت ما ذكرت من أمر النصح في المشورة في السرّاء والضرّاء فاضرب لي مثل
+        <lb/>
+
+        رجل كثير عدوّه حضروه من كلّ مكان فأسفى على الهلاك فالتمس المخرج بموالاة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

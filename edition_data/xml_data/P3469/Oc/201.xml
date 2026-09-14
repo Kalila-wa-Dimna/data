@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="201"/>
+
+      <p n="unassigned">
+        فقال المسئول هذا رأي قد سبقتنا إليه العقلاء
+        <lb/>
+
+        فإنّهم قالوا ليس للعدوّ الحنق الذي لا يطاق حيلة إلا الهرب
+        <lb/>
+
+        منه وقال للثاني ما رأيك فقال أمّا ما أشار به صاحبي
+        <lb/>
+
+        من الهرب فلا أرى أن نُخلّي عن وطننا ولا نذلّ لعدونا
+        <lb/>
+
+        عند أوّل نكبة أصابتنا ولكن نجمع أمرنا ونستعدّ لعدوّنا
+        <lb/>
+
+        وكان فيهنّ خمسة غربان يُعترف لهنّ بفضيلة الرأي
+        <lb/>
+
+        وكمال العقل وبعد النظر وحسن التدبير وكانت الغربان
+        <lb/>
+
+        يسندن إليهنّ أمرهنّ ويفزعوا إليهنّ فيها وكان الملك لا يكاد
+        <lb/>
+
+        يخرج من رأيهنّ فقال الملك لأحدهم ما رأيك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

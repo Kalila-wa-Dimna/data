@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="196"/>
+
+      <p n="Foes Should Be Kept at the Right Distance">
+        نفسك ويجترئ عليك عدوّك
+      </p>
+
+      <p n="Gauging Distances Is Like Maximizing Shadows">
+        والمثل في ذلك مثل الخشبة
+        <lb/>
+
+        المنصوبة في الشمس إن أملتها قليلًا ازداد ظلّها وإن أملتها كثيرًا
+        <lb/>
+
+        نقص ذلك الظلّ
+      </p>
+
+      <p n="The Owls Will Not Accept the Pact">
+        وليس عدوّنا براض منّا بالدون في المقاربة
+      </p>
+
+      <p n="Recourse Is in Fighting the War and Enduring">
+        والرأي لنا المحاربة
+      </p>
+
+      <p n="The Crow King Asks the Fifth Crow, a Spy">
+        قال الملك للخامس ما ترى القتال أم
+        <lb/>
+
+        الصلح أم الخلاء
+      </p>
+
+      <p n="The Spy Rejects Fighting">
+        قال أمّا القتال فلا سبيل إلى قتال من لا نقوى به
+      </p>
+
+      <p n="The Crows Should Not Overestimate Themselves">
+        ويُقال من لم يعرفْ نفسه وعدوّه وقاتل من لا يقوى به فعلى
+        <lb/>
+
+        نفسه جهل
+      </p>
+
+      <p n="The Intelligent Never Underestimate Their Foes">
+        مع أنّ العاقل لا يستضعف عدوًّا ومن فعل ذلك
+        <lb/>
+
+        اغترّ ومن اغترّ لم يسلمْ
+      </p>
+
+      <p n="The Spy Expresses Fear">
+        وإنّي للبوم هائب وإن أضربن عن
+        <lb/>
+
+        قتالنا
+      </p>
+
+      <p n="The Intelligent Is Never Free from Worry">
+        والحازم لا يأمن عدوّه على حال ولا يزال خائفًا
+        <lb/>
+
+        لمواثبته إن قرب ولمعاودته إن بعد وإن كان منكشفًا
+        <lb/>
+
+        لم يأمنْ استطراده وكمينه وإن كان وحيدًا لم يأمنْ
+        <lb/>
+
+        مكره
+      </p>
+
+      <p n="War Shoud be the Last Resort">
+        فأحزم الأقوام وأكيسهم من كره القتال
+      </p>
+
+      <p n="War Brings Loss">
+        لأنّ القتال إنّما النفقة فيه من الأنفس وسائر الأشياء
+        <lb/>
+
+        النفقة فيها من القول والمال فلا يكوننّ قتال البوم
+        <lb/>
+
+        من رأيكم
+      </p>
+
+      <p n="The Crow King Asks for Alternatives">
+        قال الملك فماذا ترى
+      </p>
+
+      <p n="Opinion Counseling">
+        قال ننظر
+        <lb/>
+
+        ونؤامر
+      </p>
+
+      <p n="Advice Outweighs Armies">
+        فإنّ الملك المشاور المؤامر يصيب بالجنود والملك
+        <lb/>
+
+        الحازم يزداد برأي الوزراء الحزم كما يزداد البحر بموادّه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

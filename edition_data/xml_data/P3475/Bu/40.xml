@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="40"/>
+
+      <p n="Addressing the Soul: The Family Passes Away">
+        جميع ما تهلكلين في جميعه تطلبين بذلك صلتهم ورضاهم
+        <lb/>
+
+        فتكوني
+      </p>
+
+      <p n="Incense Burns">
+        كالدخنة الطيّبة التي تحرق نفسها ويذهب بعرفها
+        <lb/>
+
+        آخرون
+      </p>
+
+      <p n="Addressing the Soul: Wealth Passes Away">
+        يا نفس لا تغترّي بالغنى والمنزلة التي ينظر أهلها
+        <lb/>
+
+        فإنّ صاحب ذلك لا يبصر صغير ما يستعظم حتّى يفارقه
+      </p>
+
+      <p n="Shed Hair is Thrown Away">
+        فتكوني كشعر الرأس الذي يخدمه صاحبه ما دام على رأسه
+        <lb/>
+
+        فإذا فارق رأسه قذره وفرّ منه
+      </p>
+
+      <p n="Addressing the Soul: Healing One Man Is Reward in Itself">
+        يا نفس داومي على مداواة
+        <lb/>
+
+        المرضى ولا يمنعك عن ذلك أن تقولي إنّ للطبّ مؤنة
+        <lb/>
+
+        شديدة والناس بها وبمنافع الطبّ جهّال ولكن
+        <lb/>
+
+        اعتبري برجل يفرّج عن رجل كربة ويستنقذ منها
+        <lb/>
+
+        حتّى يعود بعدها إلى ما كان يكون عليه من السعة
+        <lb/>
+
+        والروح ما أخلقه بعظيم الأجر وحسن الثواب فإن
+        <lb/>
+
+        كان الذي يفعل هذا برجل واحد زين ذلك له
+        <lb/>
+
+        فكيف
+      </p>
+
+      <p n="Addressing the Soul: Healing Many People Brings Divine Reward">
+        بالطبيب الذي يداوي العدّة من المرضى التي
+        <lb/>
+
+        الله أعلم بها ابتغاء الأجر فيصيرون بعد الأوجاع
+        <lb/>
+
+        والسقم الحائل بينهم وبين الدنيا ولذاتها ونعيمها
+        <lb/>
+
+        وطعامها وشرابها وأزواجها إلى ما كانوا
+        <lb/>
+
+        يكونون عليه من حال دنياهم إنّ هذا لخليق
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="73"/>
+
+      <p n="unassigned">
+        يعمّر أرضه ابتغاء الزرع لا ابتغاء العشب ثمّ هي لا محالة نابت فيها ألوان
+        <lb/>
+
+        العشب مع يانع الزرع
+      </p>
+
+      <p n="Burzoy Practices Medicine Without Pay or Envy of Colleagues">
+        فأقبلت على مداواة المرضى ابتغاء أجر الآخرة فلم أدع
+        <lb/>
+
+        مريضًا أرجو له البرء وآخر لا أرجو له ذلك إلّا أنّي أطمع أن يخفّ عنه
+        <lb/>
+
+        بعض المرض إلّا بالغت في مداواته ما أمكنّي القيام عليه بنفسي ومن لم أقدر
+        <lb/>
+
+        بالقيام عليه وصفت له ما يصلح وأعطيته من الدواء ما يتعالج به
+      </p>
+
+      <p n="Working Without Expecting Reward">
+        ولم أرد
+        <lb/>
+
+        ممّن فعلت معه ذلك جزاء ولا مكافأة ولم أعظّم أحدًا من نظرائي الذين
+        <lb/>
+
+        هم دوني في العلم وفوقي في الجاه والمال وغيرهم ممّن لا يعود
+        <lb/>
+
+        بصلاح ولا حسن سيرة قولًا ولا عملًا
+      </p>
+
+      <p n="Addressing the Soul to Distinguish Its Benefits and Harms">
+        ولمّا تاقت نفسي إلى غشيانهم
+        <lb/>
+
+        وتمنّيت منازلهم أثبتّ لها الخصومة فقلت لها يا نفس أما تعرفين نفعك
+        <lb/>
+
+        من ضرّك ألا تنتهين عن تمنّي ما لا يناله أحد إلّا قلّ انتفاعه وكثر عناؤه
+        <lb/>
+
+        واشتدّت المؤونة عليه وعظمت المشقّة لديه بعد فراقه
+      </p>
+
+      <p n="Addressing the Soul to Be Ashamed of Its Greed for the Transient">
+        يا نفس أما
+        <lb/>
+
+        تذكرين ما بعد هذه الدار فينسيك ما تشرهين إليه فيها ألا تستحين
+        <lb/>
+
+        من مشاركة الفجّار في حبّ هذه العاجلة الفانية التي من كان في يده
+        <lb/>
+
+        شيء منها فليس له وليس بباق عليه فلا يألفها إلّا المغترّون الجاهلون
+      </p>
+
+      <p n="Addressing the Soul to Abandon Its Folly">
+        انظري في أمرك وانصرفي عن هذا السفه وأقبلي بقوّتك <>
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="51"/>
+
+      <p n="The Partner's Parable about the Thief">
+        بما نال اللصّ من التاجر قال وكيف كان ذلك
+      </p>
+
+      <p n="The Thief Who Mistakes Grain for Gold">
+        قال زعموا أنّ تاجرًا
+        <lb/>
+
+        كان له في حانوته خابيتان أحدهما مملؤة ورِقًا والأخرى برًّا
+      </p>
+
+      <p n="The Thief Eyes Jar">
+        فترقّبها لصّ زمانًا حتّى إذا كان في بعض الأيّام اشتغل التاجر في
+        <lb/>
+
+        بعض أشغاله فدخل اللصّ الحانوت
+      </p>
+
+      <p n="The Thief Takes the Grain">
+        وأتى ليحمل الخابية التي فيها
+        <lb/>
+
+        الورِق فغلط الخابية التي فيها البرّ فلم يزل في كدّ وتعب حتّى بلغ
+        <lb/>
+
+        فلمّا فتحها وجدها حنطة
+      </p>
+
+      <p n="The Merchant Forfeits Trust">
+        فقال الخائن أمّا بعد المثل ولا تجاوزت
+        <lb/>
+
+        القياس وقد اعترفت بذنبي وخطائي عليك ويصر عليّ غير النفس
+        <lb/>
+
+        الرديئة تأمر بالفحشاء فقبل رفيقه عذره وأصرف عن توبيخه
+        <lb/>
+
+        وعن الثقة به
+      </p>
+
+      <p n="The Reader Should Examine the Parables Carefully">
+        وينبغي للناظر في هذا الكتاب أن لا يجعل
+        <lb/>
+
+        غايته التصفّح ليرتقيه والإشراف عليها تضمّن من أمثاله حتّى
+        <lb/>
+
+        يأتي إلى آخره
+      </p>
+
+      <p n="The Reader Should Discern the Aim">
+        بل يقف عند كلّ شئّ وكلّ كلمة فيعلم معانيها ويعرف
+        <lb/>
+
+        فحواها والغرض الذي أريد به فإنّه يشرف به الفكر على معان لطيفة
+        <lb/>
+
+        وأسرار شريفة
+      </p>
+
+      <p n="Two Brothers Waste Bequeathed Wealth">
+        فيكون في ذلك مثل الأخوان الذين خلّف لهم أبوهم
+        <lb/>
+
+        المال الكثير فتنازعوا بينهم فأمّا الكبيران فإنّهما أسرعا في تلف المال
+        <lb/>
+
+        وإنفاقه في غير وجهه
+      </p>
+
+      <p n="The Youngest Brother Weighs the Situation">
+        وأمّا الأصغر فأنظر عندما صار إليه أخواه
+        <lb/>
+
+        من الإسراف أقبل على نفسه يؤمرها ويشاورها
+      </p>
+
+      <p n="The Youngest Reflects on Wealth">
+        وقال يا نفس إنّ المال
+        <lb/>
+
+        إنّما يجمعه صاحبه من كلّ وجه لبقاء حاله وصلاحه وشرف المنزلة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

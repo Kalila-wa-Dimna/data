@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="330"/>
+
+      <p n="Jackal Fears Lion's Gullibility">
+        أعدائي فيما يحملونه عليّ لما أتذكر من عجلته كانت إليّ فإذا
+      </p>
+
+      <p n="Jackal Gives Lion the Choice">
+        كانت
+        <lb/>
+
+        حال الملك في الثقة بي وحالي في الثقة به على ما وصفت فلينظر
+        <lb/>
+
+        وجه ما يريدني عليه من صحبته
+      </p>
+
+      <p n="Jackal Gives Conditions for Return">
+        فإن كان الملك يجعل لي على نفسه
+        <lb/>
+
+        إن هو ردّني إلى منزلتي التي كنت بها منه أن يعود إلى الذي كان لي عليه
+        <lb/>
+
+        فيما مضى من الطمأنينة إلى ما قبلي والانتصاح لي وأن لا يصدّق عليّ
+        <lb/>
+
+        أقاويل الأعادي المَحَلة الفجرة فليرى في ذلك رأيه فإنّي عند حسن
+        <lb/>
+
+        ظنّه بي وأمله فيّ
+      </p>
+
+      <p n="If Unsure, Lion Must Excuse Jackal">
+        وإن كان يتخوّف نفسه عليّ أو كان غير واثق
+        <lb/>
+
+        بي فإعفاؤه إيّاي أفضل لي وخير له خاصّة
+      </p>
+
+      <p n="Lion Says He Tested Jackal">
+        قال الأسد
+        <lb/>
+
+        إنّي لو بلوت طبائعك وأخلاقك وجرّبت أمانتك ووفاءك
+        <lb/>
+
+        وصدقك وعرفت كذب من محل بك
+      </p>
+
+      <p n="Lion Confirms Jackal's Status">
+        فمنزلتك في نفسي منزلة الأبرار
+        <lb/>
+
+        الكرماء الصالحين الأخيار
+      </p>
+
+      <p n="Lion Vows to Disregard Future Slander">
+        وليست مصطيعًا عليك ولا قائًلا قول
+        <lb/>
+
+        أحد فيك حتّى يستبين ذلك لك وللجند ويعرفوا منزلتك منّي وخاصّتك
+        <lb/>
+
+        عندي وتثق بي وتطمئنّ إليّ
+      </p>
+
+      <p n="The Noble Forgives Misdeeds for One Good Deed">
+        فإنّ الرجل الكريم الصالح تنبه
+        <lb/>
+
+        الخلّة الواحدة من الإحسان ويغفر له ألف خلّة من الإساءة واللئيم
+        <lb/>
+
+        تنبه الخلّة الواحدة من الإساءة ألف خلّة من الإحسان ثمّ ترسخ في
+        <lb/>
+
+        قلبه فلا تزايله أو يظفر بطلبته منها أو يهلك
+      </p>
+
+      <p n="Lion Repents and Reconciles Jackal">
+        وأنت حقيق أن
+        <lb/>
+
+        تغفر ذنبي لسالف إحساني إليك ويكون كلّ واحد منّا لصاحبه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

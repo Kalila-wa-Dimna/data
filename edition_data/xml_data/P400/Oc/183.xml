@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="183"/>
+
+      <p n="Fighting the Owls Is Fatal">
+        نقول لسنا نتخوّفه
+      </p>
+
+      <p n="The Crows Should Prepare for War">
+        ولكن الرأي لنا أن نعدّ له ونتأهّب لقتاله ونكون
+        <lb/>
+
+        على حذر ونضع أمره على المكايدة والدهاء والأدب
+      </p>
+
+      <p n="The Intelligent Weighs the Past and Future">
+        فإنّ العالم
+        <lb/>
+
+        الذي ينظر في الأمر بعد وقوعه وقبله وهل يقدر على إصلاح ما فات
+        <lb/>
+
+        منه
+      </p>
+
+      <p n="Ways To Avoid the Battle">
+        فإنّه لا بدّ للمقاتل من القتل لكنّه لا يسلم منه إلّا القليل
+        <lb/>
+
+        وربّما اكتفى بالقتال من النفقة اليسيرة والكلام الليّن فإنّه لا شيء
+        <lb/>
+
+        أبلغ من ذلك ولا أحرى أن يدرك به صاحبه حاجته
+      </p>
+
+      <p n="The End of the Spy's Speech">
+        فهذا أمري
+        <lb/>
+
+        إيّاك وقولي لك
+      </p>
+
+      <p n="The Crow King Asks for Alternatives">
+        قال أرأيت إذا أتيت القتال ما الذي تبدأ به من
+        <lb/>
+
+        الحيلة والتحمّل
+      </p>
+
+      <p n="Opinion Counseling">
+        فقال ما ترتبنا
+      </p>
+
+      <p n="Advice Empowers King">
+        فإنّ الملك إذا كان عمله بمشاورة
+        <lb/>
+
+        الأمناء النصحاء العظماء في عظم الأمور وصغرها لم يزل قاهرًا لعدوّه
+        <lb/>
+
+        غائظًا له قادرًا على طلبته منه شاكًّا لحيله مستعلنا لأمره وعظم
+        <lb/>
+
+        مُلكه ولكن بيعه وازداد بهاء وجمالا
+      </p>
+
+      <p n="Causes For Losing Good Fortune">
+        وإذا كان غير مستمع من
+        <lb/>
+
+        وزرائه ولا يأخذ بمشورة نصحائه مكتفيًا برأيه معجبًا به وإن
+        <lb/>
+
+        كان ذا علم فاضل وعقل واثق لم يدرك كثيرًا ولم يزل أمره
+        <lb/>
+
+        متفرّقًا ورأيت عاربًا فإنّه لا سوء أن يصغر الرأي ويتابع صاحبه
+        <lb/>
+
+        عليه من ليس دونه في العلم حتّى يتّفقا فيه على أمر واحد وإذا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

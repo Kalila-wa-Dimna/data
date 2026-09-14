@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="206"/>
+
+      <p n="Aides Are Essential to Rule">
+        والفضل
+      </p>
+
+      <p n="Kings' Duties Are Many">
+        وأعمال الملوك كثيرة ويحتاجون في ذلك إلى الأعوان
+        <lb/>
+
+        والعمّال ومن يجمع منهم ما ذكرته من النصيحة والحزم والنجدة
+        <lb/>
+
+        وقليل منهم ذلك
+      </p>
+
+      <p n="King Must Know Everyone">
+        وإنّما الرأي كلّه في ذلك والوجه الذي
+        <lb/>
+
+        يستقيم به أحوال السلطان والأعمال للعباد أن
+        <lb/>
+
+        يكون الملك عالمًا ذو مودّة لمن يروم الاستعانة به وما
+        <lb/>
+
+        وما عند كلّ رجل منهم من الرأي والعيوب
+      </p>
+
+      <p n="King Must Choose Suitable People">
+        فإذا استقرّ
+        <lb/>
+
+        له ذلك وفهم منه مِن علم ما ينبغي أن يعلمه ويثق به ويعلم
+        <lb/>
+
+        من لا يُوثق به ولا يأمن إليه ويفهم عيوبه
+      </p>
+
+      <p n="King Must Reward and Punish">
+        وعلى الملك بعد ذلك
+        <lb/>
+
+        التفقّد لعمّاله والنظر في أمورهم حتّى لا يخفى عليه إحسان
+        <lb/>
+
+        محسن ولا إساءة مسيء ثمّ عليه أن لا يترك محسنًا لغير
+        <lb/>
+
+        إساءة ومجازاة ولا مسيء بلا مكافأة ومؤاخذة بذلك
+      </p>
+
+      <p n="Lack of Assessment Damages">
+        فإنّه متى لم يفعل ذلك وأهمله تهاون المحسن وطمع
+        <lb/>
+
+        المسيء وتفسد الأعمال ويضيع الحزم
+      </p>
+
+      <p n="Philosopher Mentions Parable">
+        ومثل ذلك مثل
+        <lb/>
+
+        الأسد وابن آوى قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="Philosopher Tells of Pious Jackal">
+        قال
+        <lb/>
+
+        الفيلسوف زعموا أنّه كان بأرض الهند ابن آوى وكان
+        <lb/>
+
+        يُقال له الزكيّ لأنّه كان متعبّد متعفّف وكان معه
+        <lb/>
+
+        بتلك الأرض كثير من أبناء جنسه من بنات آوى
+        <lb/>
+
+        والذئاب والثعالب وكان لا يصنع ما يصنعون ولا يغترّ
+        <lb/>
+
+        بما يغترّون ولا يهرق كما يهرقون ولا يأكل كما يأكلون
+      </p>
+
+      <p n="Pack Denounces Jackal">
+        فخاصمته تلك السباع وقالت له لا نرضى بصحبتك ولا نتركك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="268"/>
+
+      <p n="Gift Receiving Ceremony">
+        الهدايا كما أخبره كباريون الحكيم
+      </p>
+
+      <p n="Kings Joy">
+        فلمّا رأى ذلك الملك اشتدّ عجبه وفرحه
+        <lb/>
+
+        من علم كباريون
+      </p>
+
+      <p n="King Regrets Relating Dreams">
+        وقال ما وُفّقت حين قصصت رؤياي على البراهمة فأمروني
+        <lb/>
+
+        بما أمروني به
+      </p>
+
+      <p n="King Thankful For Queens Advice">
+        ولولا أنّ الله تعالى تداركني برحمته لكنت قد هلكت وأهلكت
+      </p>
+
+      <p n="One Must Consult Right People">
+        وكذلك لا ينبغي لكلّ أحد أن يسمع إلّا من الأخلّاء وذوي العقول
+      </p>
+
+      <p n="Queens Advice Saved King">
+        وإنّ ايراخت أشارت بالخير فقبِلْتُه ورأيت به النجاح
+      </p>
+
+      <p n="Queen Shall Choose Gift">
+        فضعوا الهديّة بين
+        <lb/>
+
+        يديها تأخذ منها ما اختارت فوُضِعت الهديّة بين يدي ايراخت
+      </p>
+
+      <p n="Queen Chooses Crown">
+        فأخذت منها
+        <lb/>
+
+        إكليلًا
+      </p>
+
+      <p n="Favorite Choses Dress">
+        وأخذت حورقناه كسوة من أفخر الثياب وأحسنها
+      </p>
+
+      <p n="King Alternates Nights With Women">
+        وكان
+        <lb/>
+
+        من عادة الملك ان يكون ليلة عند ايراخت وليلة عند حورقناه
+      </p>
+
+      <p n="Queen Serves Rice On Her Night">
+        فأتى الملك ايراخت في نوبتها وقد صنعت له أرزًّا فدخلت عليه بالصحفة
+      </p>
+
+      <p n="Favorite Wears Dress Before King">
+        فعلمت جورقناه بذلك فغارت من ايراخت فلبست تلك الكسوة ومرّت
+        <lb/>
+
+        بين يدي الملك وتلك الثياب تضيء عليها مع نور وجهها كما تضيء الشمس
+        <lb/>
+
+        فلمّا رآها الملك أعجبته
+      </p>
+
+      <p n="King Insults Queen">
+        ثمّ التفت الى ايراخت فقال لها إنّك جاهلة حين
+        <lb/>
+
+        أخذت الإكليل وتركت الكسوة التي ليس في خزائننا مثلها
+      </p>
+
+      <p n="Queen Pours Rice Over King">
+        فلمّا سمعت
+        <lb/>
+
+        ايراخت مدح الملك لجورقناه وثنائه عليها وتجهيلها هي وذمّ رأيها
+        <lb/>
+
+        أخذها من ذلك الغيرة والغيظ فضربت بالصحفة رأس الملك فسال الأرزّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

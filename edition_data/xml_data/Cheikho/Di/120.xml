@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="120"/>
+
+      <p n="Bodily Marks Are Claimed to Predict Deeds">
+        العلامات التي ذكرتها وأشباهها يُصاب به العدل والمعرفة بالحقّ لم يتكلّف
+        <lb/>
+
+        الناس الحجج ؟وانتاب كذا
+      </p>
+
+      <p n="Human Action Would Be Meaningless">
+        وإذًا ما كان لأحدٍ حمدٌ في إحسان ولا
+        <lb/>
+
+        كان عليه سبيل في إساءةٍ لأنّ أحدًا لا يقدر أن يغيّر العلامات
+        <lb/>
+
+        التي لها يعمل ما يعمل ولما كان جزاء أهل الإحسان أو جزاء أهل الفجور
+        <lb/>
+
+        إلّا على هذه العلامات
+      </p>
+
+      <p n="If the Physique Makes People Traitors, Dimna Is Innocent and Excused">
+        ولو كنت عملت هذا العمل الذي لطّخت به
+        <lb/>
+
+        وأعوذ بالله أن أكون فعلت ذلك لقد شقيت أيضًا بذلك فإنّه إنّما ألزمنيه
+        <lb/>
+
+        علامات لا أستطيع دفعها ولا امتناعًا عنها
+      </p>
+
+      <p n="Courtier's Argument Shows His Foolishness">
+        مع أنّ ممّا يدلّ على قلّة علمك
+        <lb/>
+
+        بالأحكام ومواقعها
+      </p>
+
+      <p n="Bodily Marks Would Have Effect at an Unforeseeable Time">
+        أنّ الذي ذكرت لو كان كما ذكرت لم يوجب عليّ شيئًا
+        <lb/>
+
+        لأنّ هذه العلامات تُخلق مع صاحبها حين تُخلق يخلق وتولّد معه حين
+        <lb/>
+
+        يولد وليس لفاعلها وقت يعرف في أيّ يومٍ يكون أو في أيّ أمرٍ أو في أيّ
+        <lb/>
+
+        شيءٍ ومتى ينبغي للحكم أن يقع فيها على صاحبها وأهلها ومتى تعرف
+        <lb/>
+
+        براءتهم من الأشياء
+      </p>
+
+      <p n="Dimna Calls Courtier's Claim Foolish">
+        فهذا ما لا يشكّ فيه أحدٌ من سقطك وجهلك ولكنّك
+        <lb/>
+
+        سمعت شيئًا لم تعرف في غوره فتكلّمت به في غير وجهه فلست بأفقهِ مَن حضر
+        <lb/>
+
+        ولا أصوبِهم بالنظر في الأمور ولكنّك تكلّمت فأخطأت
+      </p>
+
+      <p n="Dimna Compares Courtier to Ignorant Physician">
+        وقد فرعغت كذا
+        <lb/>
+
+        من مثلك في مثل المتطبّب
+      </p>
+
+      <p n="Moral Judgment Based on Bodily Marks Is Foolishness">
+        فإن كنت تزعم أنّ الخير والشرّ إنّما يكون
+        <lb/>
+
+        بالعلامات فكذلك إذًا لا حمد للمحسن ولا ذمّ على المسيء ولا أجدني في
+        <lb/>
+
+        هذا أيضًا إلّا معذورًا ولا أراك تنطق إلّا بعذري وتذكّر براءتي وأنت لا
+        <lb/>
+
+        تدري ولا تفكّر فيما تقول
+      </p>
+
+      <p n="Dimna's Third Subtale of Plower Who Told His Wife to Cover Herself First">
+        وإنّما أنت في هذا كرجلٍ قال لامرأته أبصري
+        <lb/>
+
+        عينيك يا سفيهة ثمّ عيّبي غيره
+      </p>
+
+      <p n="Prominent Courtier Requests Tale">
+        فسئل دمنة كيف كان ذلك
+      </p>
+
+      <p n="A Man and His Two Wives Become War Captives">
+        مثل قال دمنة زعموا أنّ مدينةً كانت تدعى بورخشت دخلها العدوّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="26"/>
+
+      <p n="Burzoy Wants Legacy">
+        مشهورًا في الدنيا
+      </p>
+
+      <p n="Kisra Deems Request Light">
+        فقال الملك يا برزويه ستُجاب مسألتك
+        <lb/>
+
+        وتنال طلبتك فما أيسر ما سألت مع ما تستوجبه وإن كان
+        <lb/>
+
+        عندك عظيم الخطر
+      </p>
+
+      <p n="Kisra Recounts Burzoys Merits">
+        ثمّ أرسل إلى بزرجمهر من ساعته فلمّا
+        <lb/>
+
+        دخل عليه قال له الملك إنّك قد عرفت مناصحة برزويه في مسرّتنا
+        <lb/>
+
+        ومرضاتنا في ركوبه أهوال المخوف وضناء بدنه في حقّنا
+      </p>
+
+      <p n="Burzoy Wants Immaterial Gift">
+        وقد عزمنا أن نعوّضه في ذلك ما أراد فرضي منّا بالأمر اليسير
+        <lb/>
+
+        وأنّه قد اختار جزاء وكرامة
+      </p>
+
+      <p n="Kisra Urges Buzurgmihr To Excel">
+        وأنا أحبّ أن تسعفه في ذلك وتجتهد
+        <lb/>
+
+        في قضاء حاجته
+      </p>
+
+      <p n="Chapter To Match Others">
+        وأن تصنّف له بابًا مشابهًا لتلك الأبواب
+        <lb/>
+
+        التي في ذلك الكتاب
+      </p>
+
+      <p n="Chapter To Extol Burzoy">
+        وتذكر فيه فضل برزويه وكيف بدء أمره
+        <lb/>
+
+        وحسبه وصناعته وأدبه وخروجه من ذلك إلى بغيتنا
+        <lb/>
+
+        إيّاه إلى الهند في حاجتنا وما أفادنا الله على يديه وكيف كانت
+        <lb/>
+
+        مقالته عند قدومه من الهند بأحسن ما تجده من اللفظ من حسنه
+        <lb/>
+
+        وما شَرُف به
+      </p>
+
+      <p n="Chapter To Match Truth">
+        فإنّه مستحقّ لجميع ذلك منّا ومنك خاصّة وما يعاني في
+        <lb/>
+
+        جميع الأدب وليكن ذلك موافق للحقّ
+      </p>
+
+      <p n="Chapter To Support Kings Authority">
+        وتحريضًا لمن قرأه على طاعة الملوك
+        <lb/>
+
+        وموافقتهم
+      </p>
+
+      <p n="Buzurgmihr To Spare No Effort">
+        ولا تدع من اجتهادك شيئًا وترتّبه أحسن ترتيب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="370"/>
+
+      <p n="King Asks about Reconciling a Courtier">
+        يذنبه أو ظلم يظلمه
+      </p>
+
+      <p n="Philosopher Supports Reconciliation of a Courtier">
+        قال الفيلسوف إنّ الملك لو كان لا يراجع من أصابته
+        <lb/>
+
+        جفوة أو عقوبة عن جرم أجرمه أو ظلم ظلمه أضرّ ذلك بالأمور والأعمال
+      </p>
+
+      <p n="King to Consider Value of a Suspect">
+        ولكنّ الملك حقيق <>
+      </p>
+
+      <p n="Aides Are Essential to Rule">
+        <> بالوزراء والأعوان إلّا بالمال
+      </p>
+
+      <p n="Kings' Duties Are Many">
+        ومن يجمع منهم الما العمّال
+        <lb/>
+
+        والنصيحة وأصالة الرأي
+      </p>
+
+      <p n="King Must Know Everyone">
+        <> في الوجه الذي يستقيم ولكلّ قوم
+        <lb/>
+
+        عمل
+      </p>
+
+      <p n="Philosopher Mentions Parable">
+        ومثل ذلك الأسد وابن آوى قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="Philosopher Tells of Pious Jackal">
+        قال
+        <lb/>
+
+        الفيلسوف زعموا أنّه كان بأرض كذا ابن آوى وكان متألّهًا متعفّفًا
+        <lb/>
+
+        في بنات آوى وذئاب وثعالب ولم يكن يصنع كما يصنعون
+        <lb/>
+
+        ولا يريق دمًا ولا يأكل لحمًا
+      </p>
+
+      <p n="Pack Denounces Jackal">
+        فخاصمته تلك السباع وقلن لا نرضى
+        <lb/>
+
+        بسيرتك ولا برأيك الذي أنت عليه مع أنّ تألّهك لا يغني
+        <lb/>
+
+        عنك شيئًا وأنت لا تستطيع أن تكون كأحدنا فتسعى معنا
+        <lb/>
+
+        وتفعل فعلنا
+      </p>
+
+      <p n="Jackal Is not Accountable for Pack's Actions">
+        قال ابن آوى إنّ صحبتي إيّاكم لا يؤثمني إذا لم
+        <lb/>
+
+        أؤثم نفسي
+      </p>
+
+      <p n="Sins Depend only on One's Actions">
+        لأنّ الآثام ليست من قبل الأماكن والأصحاب
+        <lb/>
+
+        ولكنّها من قبل القلوب والأعمال
+      </p>
+
+      <p n="Sin Is Independent from Place">
+        ولو كان صاحب المكان
+        <lb/>
+
+        الصالح يكون عمله فيه صالحًا أو المكان السوء يكون عمله
+        <lb/>
+
+        سيّئًا كان فاعل الناسك في محرابه لا يأثم ومن استحياه في
+        <lb/>
+
+        معركة القتال آثم
+      </p>
+
+      <p n="Jackal's Heart Is Distant from Others">
+        وأنا صحبتكم بنفسي ولم أصحبكم منّي
+        <lb/>
+
+        قلبًا لأنّي أعلم ثمرة الأعمال
+      </p>
+
+      <p n="Lion Hears of Jackal">
+        ولبث على ذلك واشتهر بالنسك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

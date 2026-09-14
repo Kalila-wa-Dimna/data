@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="148"/>
+
+      <p n="The Lion Misses the Ox and Regrets Killing Him">
+        وأسكن إليه في مشاورته وأقبل من مناصحته
+      </p>
+
+      <p n="Self-Accusation is the Most Damning">
+        قالت أمّ الأسد إنّ أشدّ ما شهد
+        <lb/>
+
+        امرؤ على نفسه
+      </p>
+
+      <p n="Killing the Ox Was Wrong">
+        وهذا خطأ عظيم كيف أقدمت على قتل الثور بلا علمٍ ولا
+        <lb/>
+
+        يقين
+      </p>
+
+      <p n="The Mother Alludes to Her Secret Knowledge">
+        ولولا ما قالت العلماء من إذاعة الأسرار وما فيها من الإثمّ والشنار لذكرت
+        <lb/>
+
+        لك ذلك وأخبرتك بما علمت
+      </p>
+
+      <p n="Scholars Say Various Things">
+        قال الأسد أن أقوال العلماء لها وجوه كثيرة ومعانٍ
+        <lb/>
+
+        مختلفة وإنّي لأعلم صواب ما تقولين
+      </p>
+
+      <p n="The Lion Asks for His Mother's Secret">
+        وإن كان عندك رأي فلا تطويه عنّي وإن
+        <lb/>
+
+        كان قد أسرّ إليك أحد سرًّا فأخبريني به واطلعيني عليه وعلى جملة الأمر
+      </p>
+
+      <p n="The Mother Quotes the Leopard Anonymously">
+        فأخبرته بجميع ما ألقاه إليها النمر
+      </p>
+
+      <p n="Divulging Secrets Is a Punishable Sin">
+        وقالت إنّي لم أجهل قول العلماء في تعظيم العقوبة
+        <lb/>
+
+        وتشديدها وما يدخل على الرجل من العار في إذاعة الأسرار
+      </p>
+
+      <p n="The Mother Places the Lion's Benefit Over That of the Subjects">
+        ولكنّي أخبرك
+        <lb/>
+
+        بما فيه المصلحة لك وإن وصل خطأه وضرره إلى العامّة فإصرارهم على خيانة
+        <lb/>
+
+        الملك ممّا لا يدفع الشرّ عنهم
+      </p>
+
+      <p n="The Foolish Spread Doubt to Cover Their Crimes">
+        وبه تحتجّ السفهاء ويدخلون الشبهة على ما يكون
+        <lb/>
+
+        من أعمالهم القبيحة وأشدّ معارّهم وإقدامهم على ذي الحزم
+      </p>
+
+      <p n="The Lion Assembles the Court and Summons Dimna">
+        فلمّا قضت أم الأسد
+        <lb/>
+
+        هذا الكلام تقدم فاستدعى أصحابه وجنده فأدخلوا عليه
+      </p>
+
+      <p n="The Lion Lowers His Head in Shame">
+        فلمّا وقف دمنة
+        <lb/>
+
+        بين يدي الأسد ورأى ما هو عليه من الحزن والكآبة
+      </p>
+
+      <p n="Dimna Inquires About the Lion's Dejection">
+        التفت إلى بعض الحاضرين
+        <lb/>
+
+        فقال ما الذي حدث وما الذي أحزن الملك
+      </p>
+
+      <p n="The Mother Declares Dimna Responsible">
+        والتفتت أمّ الأسد إليه وقالت
+        <lb/>
+
+        قد أحزن الملك بقاؤك ولو طرفة عين ولن يدعك بعد اليوم حيًّا
+      </p>
+
+      <p n="Good People Suffer Misfortune Fastest">
+        قال دمنة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

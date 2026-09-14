@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3478</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="412"/>
+
+      <p n="unassigned">
+        بقلابته وإفساد ما فيها من طعامه فاتّخذ الناسك ابن
+        <lb/>
+
+        عرس فارتبطه في قلابته لقتل الجرذان ولنفيها عن القلابة
+        <lb/>
+
+        وكان في أولئك الجرذان جرذ كبير من أعظمها خَلقًا وأقواها
+        <lb/>
+
+        نفسًا فلمّا رأى صُنع الناسك في إرباطه ابن عرس في
+        <lb/>
+
+        بيته علم أنّه ليس له مع ابن العرس بقاء وأنّ ابن العرس
+        <lb/>
+
+        قاتله لا محالة والله أعلم
+        <lb/>
+
+        فنادى ابن عرس فقال إنّه إنيّ قد علمت أنّ الناسك
+        <lb/>
+
+        إنّما اتّخذك لتقتلني وأصحابي وقد أحببت مصادقتك ومصادقتك
+        <lb/>
+
+        لآمن مكرك وأسألنّ لإخائك ولك عليّ أن لا أدّخرك نصيحة
+        <lb/>
+
+        تكون عندي ولا منفعة أقدر عليها لك قال ابن العرس
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kw</chapter>
+  </chapter>
+</TEI>

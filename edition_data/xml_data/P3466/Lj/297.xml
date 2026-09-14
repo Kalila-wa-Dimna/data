@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="297"/>
+
+      <p n="Jackal's Heart Is Distant from Others">
+        ثمرة الأعمال
+      </p>
+
+      <p n="Lion Hears of Jackal">
+        فلم يزل ابن آوى على حاله تلك حتّى اشتهر بالورع
+        <lb/>
+
+        والنسك والتألّه وبلغ من الصدق والعفاف والأمانة أحسن
+        <lb/>
+
+        ما بلغه أحد النسّاك في دهره حتّى بلغ ذلك أسدًا كان ملك
+        <lb/>
+
+        تلك السباع بتلك الناحية فرغب فيه ودعاه
+      </p>
+
+      <p n="Lion Offers Viziership">
+        فقال إنّ ملكي
+        <lb/>
+
+        عظيم وأعمالي كثيرة وأنا محتاج إلى الأعوان وقد بلغني عنك نيل دين
+        <lb/>
+
+        وعفاف وأنا مولّيك من عمل جسيمًا ورافعك إلى منزلة شريفة وجاعل
+        <lb/>
+
+        لك من خاصّة ومرتبة رفيعة
+      </p>
+
+      <p n="King Must not Impose Service">
+        قال ابن آوى إنّ الملوك حقًّا
+        <lb/>
+
+        باختيار العمل لما يهمّهم من أمورهم وأعمالهم وحقًّا مع ذلك ألّا
+        <lb/>
+
+        يكرهوا أحدًا على أعمالهم فإنّ المكره لا تستطيع المبالغة في العمل
+      </p>
+
+      <p n="Jackal Declines Position">
+        وإنّي أيّها الملك كاره لعمل السلطان وليست لي به خبرة ولا بالسلطان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

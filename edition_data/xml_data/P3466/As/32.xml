@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="32"/>
+
+      <p n="Oc">
+        الباب الرابع
+        <lb/>
+
+        البوم والغربان وهو مثل العدوّ الذي ينبغي أن لا
+        <lb/>
+
+        يغترّ به وكيف يغترّ الرجل بتضرّع العدوّ وتملّقه فيهلك
+      </p>
+
+      <p n="Kd">
+        الباب الخامس
+        <lb/>
+
+        باب إيلاذ ويلاذ
+      </p>
+
+      <p n="Mc">
+        الباب السادس
+        <lb/>
+
+        الجرذ والسنّور وهو مثل رجلٍ كثيرٍ أعداؤه قد اكتنفوه وأشرف
+        <lb/>
+
+        على الهلاك والتمس الخروج بموالاة بعضهم فسلم
+      </p>
+
+      <p n="Kb">
+        الباب السابع
+        <lb/>
+
+        الملك والطير فترة وهو مثل أهل التراث والذي ينبغي لبعضهم
+        <lb/>
+
+        من الاحتراس من بعض والامتناع من الثقة به
+      </p>
+
+      <p n="Lj">
+        الباب الثامن
+        <lb/>
+
+        الأسد وابن آوى وهو مثل الملوك فيما بينهم
+        <lb/>
+
+        وبين قرائبهم في مراجعة من راجعوه بغير عقوبة
+      </p>
+
+      <p n="At">
+        الباب التاسع
+        <lb/>
+
+        القرد والغيلم وهو مثل من يعمل في اكتساب شيء فإذا
+        <lb/>
+
+        وصل إليه وظفر به أضاعه ولم يحسن القيام به
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>As</chapter>
+  </chapter>
+</TEI>

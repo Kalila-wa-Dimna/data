@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>B0022</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="266"/>
+
+      <p n="King Expresses Anger To Vizier">
+        الملك العالم الفاضل وما بلغته من الجرأة
+      </p>
+
+      <p n="King Orders To Execute Queen">
+        امض بها واضرب عنقها
+        <lb/>
+
+        وألقها في اليمّ ودعها كيوم مضى وزجر الملك إبزاخت
+        <lb/>
+
+        فاندفعت عنه
+      </p>
+
+      <p n="Vizier Decides To Spare Queen">
+        فأخذها بلاذ وخرج بها من دار الملك وقال
+        <lb/>
+
+        في نفسه ما أنا بقاتلها حتّى يسكن غضب الملك وأنظر ماذا
+        <lb/>
+
+        يؤول رأيه فيها
+      </p>
+
+      <p n="Vizier Praises Queen">
+        فإنّها امرأة فاضلة عاقلة سعيدة من الملكات
+        <lb/>
+
+        الذي لا يسمح الدهر بمثلها وليس لها في النساء عديل في العقل
+        <lb/>
+
+        والحلم والكمال
+      </p>
+
+      <p n="King Will Miss Queen">
+        وليس بصابر عنها وإن كان أصابه منها بعض
+        <lb/>
+
+        حزن فليس ينسى فضل عقلها وحلاوة دلالتها له على العمل با
+        <lb/>
+
+        بالصبر والحلم والتأنّي وتعريفها إيّاه وهو في أشدّ ممّا أصابه
+        <lb/>
+
+        من البراهمة وقد خلّص الله بها أنفسنا من القتل والهلكة مع
+        <lb/>
+
+        المنافع الكثيرة ورجاؤنا كثير
+      </p>
+
+      <p n="Vizier Fears Risk Of Rush">
+        ولست بآمن من أن يقول الملك
+        <lb/>
+
+        ما استطعت أن تؤخّر أمرها حتّى تأمرني وتشاورني
+      </p>
+
+      <p n="Viziers Action Depends On King">
+        ولست
+        <lb/>
+
+        بقاتلها حتّى انظر ما يكون حال الملك عند تذكيره
+        <lb/>
+
+        محاسنها وبركة عقلها فإن ندم على قتلها جئته بها
+      </p>
+
+      <p n="Vizier Reflects On Benefits">
+        وكنت
+        <lb/>
+
+        قد عملت ثلاثة أعمال عظيمة أنجيت ابزاخت من القتل
+        <lb/>
+
+        وسلّيت حزن الملك وأمننت بذلك على أهلها بحياتها فأنّها
+        <lb/>
+
+        تقيّة تحبّ الآخرة والبرّ
+      </p>
+
+      <p n="Vizier Might Execute Order">
+        وإنّ هو لم يذكرها ولم يسل عنها أمضيت أمره فيها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

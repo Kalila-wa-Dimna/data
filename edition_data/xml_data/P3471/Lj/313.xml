@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="313"/>
+
+      <p n="Lion Promises Jackal Protection">
+        لا يكوننّ بغي أصحابي عليك وحسدهم إيّاك ممّا يعرض في نفسك
+        <lb/>
+
+        فإنّي كافيك ذلك وبالغ بك في الإكرام والإحسان تهمتك وأمنيتك
+      </p>
+
+      <p n="Jackal Wants to Remain Carefree">
+        قال ابن آوى إن كان الملك يريد بي الخير ويتعمّدني بالكرامة
+        <lb/>
+
+        والإحسان فليتركني أعيش راضيًا في هذه البرّيّة آمنًا من أن
+        <lb/>
+
+        أُحسد قليل الهمّ والنصب راضيًا بمعيشتي من الماء ومن الحشيش
+      </p>
+
+      <p n="Kings' Advisors Suffer">
+        فإنّي قد علمت أنّ صاحب السلطان يصل إليه في ساعة واحدة
+        <lb/>
+
+        من الأذى والخوف ما لا يصل إلى غيره طول دهره
+      </p>
+
+      <p n="Peace over Wealth">
+        وإنّ قليل
+        <lb/>
+
+        القوت مع العيش في أمن وطمأنينة خير من كثير في خوف
+        <lb/>
+
+        ونصب
+      </p>
+
+      <p n="Lion Reassures Jackal">
+        قال الأسد قد فهمتك وفهمت مقالك وسمعت
+        <lb/>
+
+        ما ذكرت فلا تخافنّ شيئًا ممّا أراك تخوفه وتذكره فإنّه لا بدّ من
+        <lb/>
+
+        الاستعانة بك
+      </p>
+
+      <p n="Jackal Gives Conditions for Service">
+        قال ابن آوى أمّا إذ أبى الملك إلّا ذلك فليجعل
+        <lb/>
+
+        لي عهدًا إن بقي عليّ عنده أحد من أصحابه ممّن هو فوقي فخافني
+        <lb/>
+
+        على منزلته أو من هو دوني فنازعني في مكاني ومنزلتي منه فذكر
+        <lb/>
+
+        له عن نفسه أو غيره ممّن يريد به تحميل الملك عليّ أن لا يعجل عليّ
+        <lb/>
+
+        وأن يُثبت فيما يُرفع إليه ويُذكر له من ذلك ويفحص عنه ثمّ يقضي
+        <lb/>
+
+        في ذلك ويصنع ما بدا له
+      </p>
+
+      <p n="Jackal Vows Devotion on His Terms">
+        فإنّي إذا وثقت بذلك من الملك أعنته
+        <lb/>
+
+        بنفسي وعملت له فيما ولّاني بنصيحة واجتهاد وحرصت على
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

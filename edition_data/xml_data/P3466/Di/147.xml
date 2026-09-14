@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="147"/>
+
+      <p n="The Mother Is Outraged by Dimna's Pretended Innocence">
+        انظروا إلى هذا المحتال مع عظيم جرمه كيف يجعل نفسه كمن لا
+        <lb/>
+
+        ذنب له
+      </p>
+
+      <p n="Dimna Claims Having Told the Truth">
+        قال دمنة إنّما المحتال الذي يقول ما لا يفعل
+        <lb/>
+
+        ويتكلّم بما لا يكون فأمّا أنا فتكلّمت بما كان وصدقت فيما
+        <lb/>
+
+        قلت
+      </p>
+
+      <p n="Doubt and Certainty Must Not Be Confused">
+        وقد قالت العلماء إنّ من صدّق ما ينبغي له أن يكذّب به ومن
+        <lb/>
+
+        كذّب ما ينبغي له أن يصدّق به
+      </p>
+
+      <p n="Dimna's First Subtale of the Woman Who Mistook Her Servant for Her Lover">
+        أصابه ما أصاب المرأة التي
+        <lb/>
+
+        بذلت نفسها لعبدها حتّى فضحها بالتلبيس عليها
+      </p>
+
+      <p n="Lion's Question for Woman's Tale">
+        قال الأسد
+        <lb/>
+
+        وكيف كان ذلك
+      </p>
+
+      <p n="A Merchant's Wife Had a Lover">
+        قال دمنة زعموا أنّه كان في بعض المدن
+        <lb/>
+
+        تاجر وكانت له امرأة ذات حسن وجمال وكان إلى جنب التاجر
+        <lb/>
+
+        رجل مصوّر ماهر بالتصاوير وكان هذا المصوّر يعشق امرأة
+        <lb/>
+
+        التاجر
+      </p>
+
+      <p n="Woman Asks Lover to Create a Sign">
+        فقالت امرأة التاجر إن استطعت أن تحتال بحيلة أعلم
+        <lb/>
+
+        بها مجيئك إليّ من غير نداء ولا إيماء ولا ارتيابنا
+      </p>
+
+      <p n="Painter Suggests Black-and-White Coat to Woman">
+        قال المصوّر
+        <lb/>
+
+        عندي في ذلك ما يسرّك إنّ عندي ملاءة فيها من تهاويل
+        <lb/>
+
+        الصور من أبيض وهو بلون القمر بياضًا ونورًا وأسود كالليل
+        <lb/>
+
+        ظلمة وحلوكة فبياضها يدعوك في الليلة المظلمة وسوادها
+        <lb/>
+
+        يدعوك في الليلة المقمرة فأنا لابسها حين مجيئي إليك ومتراء
+        <lb/>
+
+        لك فيها ثمّ إنّ المصوّر لبس الملاءة وتراءى للمرأة فعلمت بمكانه
+        <lb/>
+
+        فخرجت إليه وفرحت به وتهيّأت له
+      </p>
+
+      <p n="The Woman's Servant Hears About Coat">
+        فبصر بهما في تلك الحالة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

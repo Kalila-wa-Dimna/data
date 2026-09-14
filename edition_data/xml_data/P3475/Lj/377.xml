@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="377"/>
+
+      <p n="unassigned">
+        علمت أمّ الأسد أنّ الأسد قد اطّلع على براءة ابن آوى قالت للأسد أمّا إذا
+        <lb/>
+
+        اطّلعت على براءة ابن آوى وجرأة أصحابك وتعاونهم عليه
+      </p>
+
+      <p n="Lion Must not Tolerate Misdeeds">
+        فلا
+        <lb/>
+
+        ترضى بذلك منهم
+      </p>
+
+      <p n="Lion Must Punish Plotters">
+        ولا تدعهم حتّى تشتّت بينهم فلا يتّخذونك مركبًا
+        <lb/>
+
+        فتقودهم الاحتمال على ضرّك وشينك
+      </p>
+
+      <p n="Lion Must not Underestimate Wrongdoers">
+        ولا تقتّرنّ بسلطانك عليهم
+        <lb/>
+
+        فيدعوك استصغارهم إلى التهاون بهم
+      </p>
+
+      <p n="Grass Rope Ties Elephant">
+        فإنّ الحشيش الضعيف
+        <lb/>
+
+        إذا جُمع فُتل منه الحبل القويّ الذي يوثَق به الفيل المغتلم
+      </p>
+
+      <p n="Lion Should Reinstate Jackal">
+        فأعدْ
+        <lb/>
+
+        لابن آوى منزلته وخاصّته ولا يؤايسك من مناصحته
+        <lb/>
+
+        ما فُرّط إليه منك من الإساءة فإنّه قد تُمحى الإساءة بالإحسان
+      </p>
+
+      <p n="Lion Apologizes to Jackal">
+        فدعا الأسد بابن آوى فاعتذر إليه
+      </p>
+
+      <p n="Lion Wants to Reinstate Jackal">
+        وأخبره أنّه معيده إلى منزلته
+        <lb/>
+
+        وولايته
+      </p>
+
+      <p n="Forgiving Friend Is Rare">
+        فقال ابن آوى إنّه مهما كان من الأصحاب محتملًا
+        <lb/>
+
+        لا يستقلّ صاحبه بالإغلاظ والخلاف فيما يتخوّف عليه منه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

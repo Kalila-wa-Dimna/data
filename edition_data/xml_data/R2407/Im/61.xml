@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="61"/>
+
+      <p n="Acquired Knowledge Manifests in Adulthood">
+        حفظه ممّا صار إليه مقتديًا بما في صدره وهو لا
+        <lb/>
+
+        يدري ما هو أولى فعند ذلك يعرف أنّه ظفر
+        <lb/>
+
+        بكنوز عظام
+      </p>
+
+      <p n="Bequeathed Treasure Suffices">
+        وكان كالرجل الذي لمّا ترجّل وجد
+        <lb/>
+
+        أبواه قد كنزوا له كنوزًا واعتقدوا له عقدًا
+        <lb/>
+
+        استغنى بها عن القدح بما يستعمل من معيشته ويحاول
+        <lb/>
+
+        من دنياه أغناه ما أشرف عليه من الحكمة من الحاجة إلى
+        <lb/>
+
+        غيره من وجوه الأدب
+      </p>
+
+      <p n="Reader Must Decode Parables">
+        فمن قرأ هذا الكتاب فليعرف
+        <lb/>
+
+        الوجوه التي وُضعت له إلى أيّ غاية تجري فيه
+        <lb/>
+
+        مؤلّفه عندما نسبه إلى البهائم فإنّ قارئه متى لم
+        <lb/>
+
+        يعرف معانيه فأيّ ثمرة يجتني منه وأيّ نتيجة
+        <lb/>
+
+        تحصل له من مقدّمات ما تضمّنه
+      </p>
+
+      <p n="Hasty Reader Benefits Nothing">
+        وإنّه إن كان يغنيه
+        <lb/>
+
+        استتمام قراءته إلى آخره دون معرفة ما يعرف منه ويقرأ
+        <lb/>
+
+        لم يستفد منه شيئًا يرجع عليه نفعه
+      </p>
+
+      <p n="Indiscriminate Reader Benefits Nothing">
+        وإن استكثر من
+        <lb/>
+
+        جميع العلوم وقراءته الكتب من غير إعمال الرويّة فيما يقرأه
+        <lb/>
+
+        فيها
+      </p>
+
+      <p n="Treasure Discovered">
+        فهو خليق أن لا يصيب منها إلّا ما أصاب الرجل
+        <lb/>
+
+        الذي ذكرت العلماء أنّه اجتاز ببعض المفاوز فظهر له
+        <lb/>
+
+        آثار بعض الكنوز فجعل يحفر ويتطلّب فوقع على شيء عظيم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="168"/>
+
+      <p n="Jackal Has Shown Integrity">
+        له واختصاصك به وانتمائك إيّاه منذ صحبته وإلى الآن
+        <lb/>
+
+        لم يأت بخيانة ولم يظهر منه إلّا الوفاء والعفاف والنصيحة
+      </p>
+
+      <p n="Mother Finds Accusation Absurd">
+        ثمّ تعجل عليه وتأمر بقتله لأجل فلذة من لحم ما هذا بصواب فإنّك
+        <lb/>
+
+        أيّها الملك أعلم بطويّة ابن آوى على الخير
+      </p>
+
+      <p n="Jackal Is Unlikely to Steal Meat">
+        ولم يتعرّض للحم استودعته
+        <lb/>
+
+        لتأكله
+      </p>
+
+      <p n="Investigation Would Clear Jackal">
+        ولعلّ الملك إن فحص عن هذا اتّضح الحقّ وعرف أنّ خصماء ابن
+        <lb/>
+
+        آوى هم الخائنين الذين ائتمروا بهذا الأمر
+      </p>
+
+      <p n="Jackal's Foes Perhaps Hid Meat">
+        وهم الذين ذهبوا
+        <lb/>
+
+        باللحم إلى منزله ووضعوه فيه
+      </p>
+
+      <p n="Kite's Booty Attracts Competitors">
+        فإنّ الحدأة إذا كان في رجلها اللحم
+        <lb/>
+
+        أقبل عليها سائر الطيور حتّى ترميه
+      </p>
+
+      <p n="Dog's Bone Attracts Competitors">
+        وكذلك الكلب إذا كان في
+        <lb/>
+
+        فيه العظم تسارعت الكلاب نحوه ونازعته
+      </p>
+
+      <p n="Jackal Toiled for Lion">
+        وابن آوى
+        <lb/>
+
+        لم يزل نافعًا محتملًا لكلّ ضرر يصل في جنب منفعة يصل إليك
+      </p>
+
+      <p n="Jackal Hid no Secrets from Lion">
+        على أنّه لم يكتم نصحًا وإن شقّ عليه
+      </p>
+
+      <p n="Courtier Exonerates Jackal">
+        فلمّا بلغت إلى هذه
+        <lb/>
+
+        المقالة إذ دخل عليهما بعض العدول فأخبر الأسد ببراءة
+        <lb/>
+
+        ابن آوى
+      </p>
+
+      <p n="Mother Reaffirms Intrigue">
+        فقالت أمّ الأسد الحمد لله الذي أظهر الحقّ للملك
+        <lb/>
+
+        على ما كان خفي عليه وأطلعه على ما هو أعظم من ذلك <>
+      </p>
+
+      <p n="Lion Must Punish Plotters">
+        ولكن
+        <lb/>
+
+        يعاقبهم عقوبة يستوجبونها
+      </p>
+
+      <p n="People Who Are Not to Be Brought Back">
+        ولا ينبغي للعاقل أن يراجع الكفور
+        <lb/>
+
+        الخائن الجريء على الغدر والزاهد في الأجر وقد جرّبت سرعة
+        <lb/>
+
+        الغضب وفرط الهفوة من سخط باليسير لم يبلغ رضاه
+        <lb/>
+
+        بالكثير
+      </p>
+
+      <p n="Grass Rope Ties Elephant">
+        وإن كان العشب لا قوّة له فإنّه يعمل عمل الحبل الذي
+        <lb/>
+
+        يوثَق به الفيل المغتلم وإن سومحوا بذلك اجترؤوا واجترحوا
+        <lb/>
+
+        فعاقبتهم عليه وخدعهم
+      </p>
+
+      <p n="Lion Should Reinstate Jackal">
+        وارددْ ابن آوى إلى منزلته التي كان
+        <lb/>
+
+        عليها
+      </p>
+
+      <p n="Lion Should Not Fear Jackal's Grudge">
+        ولا تقل قد أسأت لابن آوى فلا يؤمّنّي غوائله إن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

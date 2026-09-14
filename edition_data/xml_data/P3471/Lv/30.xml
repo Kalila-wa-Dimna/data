@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="30"/>
+
+      <p n="Kisra Ponders Who To Assign">
+        ودمنة والبغية في انتساخه قال قال في نفسه لمن هذا الأمر
+        <lb/>
+
+        العظيم الجسيم والأدب النفيس الذي يتزينون به ملوك الهند
+        <lb/>
+
+        دون ملوك فارس
+      </p>
+
+      <p n="Kisra Keen For Indian Book">
+        وقد هممت أن لا أدع مع بُعد المشقّة وصعوبة
+        <lb/>
+
+        الأمر طلبًا لهذا الكتاب حتّى يصل إليه وإلى نسخه على إتقان
+        <lb/>
+
+        ورياضة أبوابه وعجائبه ومنافعه من أقوال الأدباء وبدائع الحكماء
+        <lb/>
+
+        إرادة أن يفخروا على سائر الملوك ويفضلّون به عليهم من أمثال
+        <lb/>
+
+        شيّقة وغرائب عجيبة وتدبير محكم
+      </p>
+
+      <p n="Books Expected Benefits">
+        حتّى يكاد العاقل أن يجتني
+        <lb/>
+
+        من ثماره وكثرة مذاهبه أن يُعلّق بوثائق حبله ويتمسّك بلذاذة
+        <lb/>
+
+        منافعه ومكاسبه ويروّض النفس على محبوبها دون مساوئها
+        <lb/>
+
+        ومعاصيها
+      </p>
+
+      <p n="Kisra Reflects On Difficulty">
+        فلمّا محّض كسرى الرأي فيما عزم عليه وهمّ يه قال
+        <lb/>
+
+        في نفسه الأمر عظيم جليل والمشقّة بعيده وفيه مرزية
+        <lb/>
+
+        وتكلّف من المؤنات والحال شديد
+      </p>
+
+      <p n="Kisra Wants Kātib Or Physician">
+        ولا بد لنا من أن نبحث عن من
+        <lb/>
+
+        نريد أن نرسله في ذلك من هذين الصنفين أمّا من الكُتّاب
+        <lb/>
+
+        وأمّا من الأطبّاء
+      </p>
+
+      <p n="Kātibs And Physicians Skills">
+        فإنّ هذين الصنفين يجتمع عندهما جواهر
+        <lb/>
+
+        الأدب وجوامع فنون العلم وكنوز الفهم في أناة وتودّد
+        <lb/>
+
+        ونفاذ وحيلة وكمال مروءة وتحفّظ وتحرّز ودهاء
+        <lb/>
+
+        وفطنة وسياسة ولطف وكتمان سرّ وتحصّن
+      </p>
+
+      <p n="Kisra Searches Scholar">
+        فلمّا أن تمّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

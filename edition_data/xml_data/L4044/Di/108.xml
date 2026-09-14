@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="108"/>
+
+      <p n="Good People Suffer Misfortune Fastest">
+        يُقال إنّ أشدّ الناس اجتهادًا في توقّي شرور الناس أجدر أن يصيبه
+        <lb/>
+
+        الشرّ
+      </p>
+
+      <p n="Who Keeps Bad Company Does Not Escape Evil">
+        ولا يكون للملك ولا لجنوده المثل السوء وقد علمت أنّ ذلك إنّما
+        <lb/>
+
+        قيل في صحبة الأشرار وأنّه من صحبهم وهو يعلم علمهم ثمّ لم يُنَجِّهِ من
+        <lb/>
+
+        شرّهم توقّيه إيّاه
+      </p>
+
+      <p n="Ascetics Shun People's Company">
+        ولذلك انقطعت النسّاك بأنفسها فاختارت الوحدة
+        <lb/>
+
+        على مخالطة الناس وآثرت العمل لله عزّ وجلّ على العمل لخلقه
+      </p>
+
+      <p n="Only God Rewards Justly">
+        لأنّه
+        <lb/>
+
+        لا يجزي بالخير خيرًا إلّا الله فأمّا أكثر أهل الدنيا فإنّهم لا يعملون
+        <lb/>
+
+        بالعدل ولا يجزون كلّ واحد بعملهم بل عامّة ما ينبغي أن يعاقبوا
+        <lb/>
+
+        به الفجّار يصيبون به الأبرار
+      </p>
+
+      <p n="The King Is Most Deserving of the Truth/Good Attributes">
+        وما أحد أحقّ بإصابة الصواب من الملك
+        <lb/>
+
+        الذي لا يُصانع أحد لحاجة ولا يعاقبه لتخوّفه منه
+      </p>
+
+      <p n="A King's Advisors Deserve Recognition/A King's Subjects Desire Good Character and Deeds">
+        فإنّ أحقّ ما عظمت
+        <lb/>
+
+        رغبة الملوك فيه في محاسن الصواب مكافأة أهل البلاء الحسن وما
+        <lb/>
+
+        لا يكن حسنًا أحقّ من نصيحتي
+      </p>
+
+      <p n="Dimna Had Nothing to Do with the Ox">
+        ولقد علم الملك وعلم جميع من حضر
+        <lb/>
+
+        أنّه لم يكن بيني وبين شتربة أمرًا دخل عليّ له حقدًا أو بعثته له غائلة
+        <lb/>
+
+        وما كان لي بذلك ضرًّا ولا نفعًا
+      </p>
+
+      <p n="Dimna Claims to Be a Victim of Scheme">
+        ولكن نصحت الملك فيه وأعلمته
+        <lb/>
+
+        على ما اطّلعت عليه من أمره وكان الشاهد عليه ما أبصر الملك من
+        <lb/>
+
+        مصداق ما ذكرت له من أمره وكان أفصل فيه رأيًا وأشدّ عزمًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

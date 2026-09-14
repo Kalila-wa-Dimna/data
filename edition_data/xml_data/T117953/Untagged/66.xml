@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T117953</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="66"/>
+
+      <p n="unassigned">
+        أن آخذه ولا أدعه هاهنا بل أصيّره على رزقه فعساه
+        <lb/>
+
+        أن يسبقني إلى الحانوت فيجده مكانه فأخذه وألقاه
+        <lb/>
+
+        على عدل من أعداله وقفل حانوته وانصرف فلمّا كان
+        <lb/>
+
+        الليل جاء رفيقه ومعه رجل قد أوصاه على ما عزم
+        <lb/>
+
+        عليه وضمن له جبْلًا يحمله فصار إلى الحانوت ففتحه
+        <lb/>
+
+        وطلب الإزار في الظلمة فوجده على الأعدال مرميًا
+        <lb/>
+
+        فاحتملا العدل بعد جهد حتّى أخرجاه وجعل هوّ
+        <lb/>
+
+        وذلك الرجل يتراوحان على حمله حتّى صار به إلى
+        <lb/>
+
+        منزله فرما بنفسه تعبًا ونُصبًا فلمّا أصبح وإذا
+        <lb/>
+
+        هوّ ببعض أعداله فندم أشدّ الندم على ما فعل
+        <lb/>
+
+        هوّ ورفيقه الخائن المائن وذلك حيث لا ينفعه
+        <lb/>
+
+        الندم
+        <lb/>
+
+        ثمّ انطلق نحو الحانوت فوجد رفيقه قد سبقه إليه
+        <lb/>
+
+        ففتحه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

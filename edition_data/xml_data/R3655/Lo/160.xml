@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="160"/>
+
+      <p n="Second Subtale of Monkey of Carpenter">
+        على وتدين
+      </p>
+
+      <p n="Monkey's Misinterpretation">
+        فرأى أنّ النجّار على الخشبة كالفارس على الفرس
+      </p>
+
+      <p n="Carpenter's Actions">
+        وأنّه كلّما أوتد
+        <lb/>
+
+        وتدًا نزع الآخر
+      </p>
+
+      <p n="Monkey's Attempt to Imitate">
+        وأنّ النجّار قام لبعض شأنه فانطلق القرد يتكلّف من
+        <lb/>
+
+        ذلك ما ليس من شأنه ولا من صناعته
+      </p>
+
+      <p n="Monkey's Positioning on Wood">
+        فركب الخشبة وجعل ظهره قِبل شقّ
+        <lb/>
+
+        الخشبة ووجهه قِبل الوتد
+      </p>
+
+      <p n="Monkey's Predicament">
+        وتدلّت خصيتاه من الشقّ
+      </p>
+
+      <p n="Consequences of Monkey's Actions">
+        فلمّا نزع الوتد
+        <lb/>
+
+        حصلت خصيتاه في شقّ الخشبة فانعصرت فخرّ مغشيًّا عليه
+      </p>
+
+      <p n="Carpenter's Return and Punishment">
+        وكان أشدّ من
+        <lb/>
+
+        ذلك عليه ما لقي من النجّار
+      </p>
+
+      <p n="Dimna's Response and Ambition">
+        قال دمنة قد فهمت ما تقول وسمعت مثلك ولكن
+        <lb/>
+
+        اعلم أنّه ليس كلّ من يدنو من الملوك إنّما يدنو منهم لبطنه فإنّ البطون
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

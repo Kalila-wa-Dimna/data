@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="11"/>
+
+      <p n="Readers Should Read Carefully and Reflect">
+        وقد يجب على العاقل إن قرأ شيئًا
+        <lb/>
+
+        من هذا الكتاب أن يثبّت في قراءته
+      </p>
+
+      <p n="Readers Should Look for Hidden Meaning">
+        ويعلم
+        <lb/>
+
+        أنّ له باطنًا إن لم يعرفه لم ينتفع بما
+        <lb/>
+
+        ظهر له منه
+      </p>
+
+      <p n="A Nut Has to Be Cracked">
+        كما أنّ رجلًا لو أُتي بجوز
+        <lb/>
+
+        صحاح في قشره لم ينتفع به حتّى يكسره ويستخرج
+        <lb/>
+
+        ما فيه
+      </p>
+
+      <p n="Man Acquires Yellow Folio">
+        ولا يكون كالرجل الذي يُقال إنّه كان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="65"/>
+
+      <p n="Burzoy Fears Not to Bear Asceticism">
+        وفي فيه ضلع فرأى خيالها في الماء فأهوى ليأخذها فوقع ما كان
+        <lb/>
+
+        في فمه ولم يحصل على شيء
+      </p>
+
+      <p n="Burzoy Refrains From Asceticism">
+        فهبت النسك هيبة شديدة وخفت
+        <lb/>
+
+        على نفسي الضجر وقلّة الصبر وأردت الثبات على حالي التي كنت
+      </p>
+
+      <p n="Passage 2">
+        عليهاثمّ
+      </p>
+
+      <p n="Weighs World Vs Asceticism">
+        بدا لي أن أقيس بين ما أخاف أن لا أصبر عليه من الأذى والضيق
+        <lb/>
+
+        في النسك وبين الذي يصيب صاحب الديك من البلاء وأنّه ليس من
+        <lb/>
+
+        شهوات الدنيا ولذّتها شيء إلّا وهو مشحون أذى مورّث حزنًا
+      </p>
+
+      <p n="Salt Water Increases Thirst">
+        وأنّها كالماء المالح الذي لا يزداد شاريه إلّا ظمأً على شربه
+      </p>
+
+      <p n="Dog Gnaws Bone In Vain">
+        وكالعظم
+        <lb/>
+
+        الذي يصيبه الكلب فيصيب منه رائحة اللحم فكلّما ازداد اللحم
+        <lb/>
+
+        طلبًا ازداد العظم لفيه إدماءً أمّا
+      </p>
+
+      <p n="Kite Looses Meat">
+        وكالحدأة التي تنال الميتة فيجتمع
+        <lb/>
+
+        عليهما الطير فلا تزال حتّى تلقط ما معها
+      </p>
+
+      <p n="Honey Contains Poison">
+        أو كالكبّة من العسل
+        <lb/>
+
+        في أسفلها سمّ فللذائق منها حلاوة عاجلة وفي أسفلها موت
+        <lb/>
+
+        زعاق
+      </p>
+
+      <p n="Happy Dreams Pass">
+        أو كأحلام النائم التي تفرحه في المنام فإذا استيقظ
+        <lb/>
+
+        منها انقطع فرحه
+      </p>
+
+      <p n="Lightning Passes">
+        أو كالبرق يضيء قليلًا ويذهب وشيكًا
+        <lb/>
+
+        ويبقى صاحبه في الظلمة متحيّرًا
+      </p>
+
+      <p n="Self Imprisoning Silk Worm">
+        أو كدودة الأبريسم التي لا يزداد
+        <lb/>
+
+        الأبريسم على نفسها لفًّا إلّا ازدادت من الخروج بعدًا
+      </p>
+
+      <p n="Warns Soul Of Hesitation">
+        فلمّا
+        <lb/>
+
+        فكّرت في هذه الأمور راجعت نفسي ورأيي في اختيار النسك والا
+        <lb/>
+
+        نسياق إليه ثمّ خاصمت نفسي وقلت ما يجوز هذا أن أفرّ من الدنيا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

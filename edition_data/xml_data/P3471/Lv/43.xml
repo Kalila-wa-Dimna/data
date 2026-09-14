@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="43"/>
+
+      <p n="Kisra And Nobles Impressed">
+        عجبوا من عقله وما سعت إليه نفسه وما حسن في رأيه
+      </p>
+
+      <p n="Kisra Deems Request Light">
+        فقال
+        <lb/>
+
+        الملك أنت أهل أن تشفع في طلبتك وبلوغ إرادتك فما أقلّ ما طلبت
+        <lb/>
+
+        وإن كان جسيمًا عظيمًا
+      </p>
+
+      <p n="Kisra Recounts Burzoys Merits">
+        ثمّ أقبل الملك على برزجمهر فقال قد عرفت
+        <lb/>
+
+        مناصحة برزويه لنا وتجرّده في مسيرتنا وركوبه الهول في محبّتنا
+        <lb/>
+
+        وما أسداه إلينا من إصابته الحكمة
+      </p>
+
+      <p n="Burzoy Wants Immaterial Gift">
+        وما عرضناه عليه من مالنا
+        <lb/>
+
+        وذخائرنا فلم يقبله وكانت حاجته منه اليسير ورأى أنّه الجائزة
+      </p>
+
+      <p n="Kisra Urges Buzurgmihr To Excel">
+        وقال أنا أحبّ أن تشفعه في ذلك وتسرّني به فاجهد نفسك
+        <lb/>
+
+        واحمل المشقّة
+      </p>
+
+      <p n="Chapter To Match Others">
+        واجعله مضارعًا لتلك الأبواب الهنديّة
+      </p>
+
+      <p n="Chapter To Extol Burzoy">
+        واذكر
+        <lb/>
+
+        فضل برزويه وأوّل أمره ومبتدأ شأنه إلى حين بعثنا إيّاه
+        <lb/>
+
+        إلى الهند في حاجتنا وما أفادنا وكيف كان الحال بعد قدومه
+        <lb/>
+
+        بأجود المدح
+      </p>
+
+      <p n="Chapter To Be The Best">
+        وأحسن الكلام أن يكون هذا الباب
+        <lb/>
+
+        من أفضل الأبواب
+      </p>
+
+      <p n="Chapter To Eternize Buzurgmihr">
+        فإنّك أسعد الناس بذلك فإنّه لا يذكر برزويه
+        <lb/>
+
+        إلّا كنت أنت شريكه في الذكر
+      </p>
+
+      <p n="Kisra Plans Public Reading">
+        فإذا فرغت من هذا الباب
+        <lb/>
+
+        وجوّدته ووضعته موضعه أعلمني حتّى أجمع أهل مملكتي
+        <lb/>
+
+        لتقرأه على علمائهم ليظهر لهم علمك وعلم فضلك
+      </p>
+
+      <p n="Invocation For Kisras Elevation">
+        فلمّا سمع
+        <lb/>
+
+        برزويه مقالة الملك ورأى خطره عنده ومنزلته منه خرّ له
+        <lb/>
+
+        ساجدًا وقال أدام الله لك أيّها الملك السرور والفرح وقرّت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

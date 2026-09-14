@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="241"/>
+
+      <p n="unassigned">
+        السلحفاة فانصرفوا جميعًا فنظر إلى حباله مقطّعة ففكّر في أمر
+        <lb/>
+
+        أمر الظبي المتطالع والغراب الذي كأنّه يأكل من الظبي وليس يأكل
+        <lb/>
+
+        وتقريض حبال السلحفاة قبل ذلك فاستوحش وقال هذه أرض
+        <lb/>
+
+        سحرة وجنّ فرجع مولّيًا لا يلتمس شيئًا ولا يلتفت واجتمع
+        <lb/>
+
+        الظبي والغراب الذي كان يأكل وليس يأكل والجرذ والسلحفاة
+        <lb/>
+
+        إلى عريشهنّ آمنات مطمئنّات فهذا مثل تواصل الإخوان
+        <lb/>
+
+        انقضى باب الحمامة المطوّقة والله أعلم
+      </p>
+
+      <p n="Chapter Title">
+        باب البوم والغربان
+      </p>
+
+      <p n="The King Asks about Fawning Foes">
+        قال الملك للفيلسوف اضربْ لي مثل العدوّ الذي لا ينبغي أن يغُترّ به وإن
+        <lb/>
+
+        هو أبدى ودًّا وتضرّعًا
+      </p>
+
+      <p n="The Parable of the Owls and the Crows">
+        قال الفيلسوف من اغترّ بالعدوّ الأريب
+        <lb/>
+
+        الذي لم يزل عدوًّا أصابه ما أصاب البوم من الغربان
+      </p>
+
+      <p n="The King Requests the Parable">
+        قال الملك
+        <lb/>
+
+        وكيف كان ذلك
+      </p>
+
+      <p n="The Crow Kingdom and the Owl Kingdom">
+        قال الفيلسوف زعموا أنّه كان في جبل من الجبال
+        <lb/>
+
+        شجرة من شجر التين أعظم ما يكون من الشجر وكان فيها وكر
+        <lb/>
+
+        ألف غراب عليها ملك منها
+      </p>
+
+      <p n="The Owls Attack the Crows">
+        فخرج ملك البوم ذات يوم لعداوة
+        <lb/>
+
+        بينها وبين الغربان حتّى أغار على الغربان فقتل منهم
+        <lb/>
+
+        قتلى كثيرة
+      </p>
+
+      <p n="The Morning in the Battle Aftermath">
+        فلمّا أصبح ملك الغربان جمع الغربان
+      </p>
+
+      <p n="The Crow King Evaluates the Damage">
+        فقال قد ترون
+        <lb/>
+
+        ما نزل بكم من البوم وكم قد أصبح منكم قتيلًا وأسيرًا وكسيرًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

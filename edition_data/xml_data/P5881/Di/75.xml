@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="75"/>
+
+      <p n="The Mother Is Amazed by Dimna's Verbosity">
+        من إطلاق لسانك بالقول مجيبًا لكلّ من تكلّم في أمرك بالحقّ أو قال ما يعلمه منك بالصدق
+        <lb/>
+
+        وقد كان منك ما كان
+      </p>
+
+      <p n="Dimna Calls the Mother Biased">
+        فقال لها دمنة لأيّ شيء تبصرين فون بعين واحدة وتسمعين بأذن واحدة
+        <lb/>
+
+        مع أنّي أرى كلّ شيء تغيّر وتناكر فصار الناس لا ينطقون بالحقّ في أمري وصار كلّ واحد
+        <lb/>
+
+        يتكلّم بالنميمة والسعي في شأني
+      </p>
+
+      <p n="Dimna Finds Lion's Lenience Makes Courtiers Lie">
+        وصار كلّ من في باب الملك لا يقبل منّي كلامًا ولا عذرًا ممّا عليهم
+        <lb/>
+
+        من الحقد والفساد ولا يدرون ما يقولون في أمري
+      </p>
+
+      <p n="The Mother Chastises Dimna's Duplicity">
+        قالت أمّ الأسد انظروا إلى هذا
+        <lb/>
+
+        الغادر الفاجر الذي يركب الأمر العظيم ثمّ يأخذنا بخداعه ومكره ليبطله ويبرّي
+        <lb/>
+
+        نفسه
+      </p>
+
+      <p n="Dimna Enumerates 5 Duplicitous Types">
+        قال لها دمنة إنّ صاحب من ذكرتي باغيًا لك للشرّ ولا بدّ فيه كالرجل الذي يلبس
+        <lb/>
+
+        لباس المرأة والمرأة تلبس لباس الرجل والضيف الذي يأمر وينهى في البيت الذي لا يملكه
+        <lb/>
+
+        والذي يتكلّم بما لا يُسأل عنه
+      </p>
+
+      <p n="The Mother Demands Dimna's Silence and Confession">
+        قالت له أمّ الأسد يا شقيّ أما تعرف سوء عملك فتحذره
+      </p>
+
+      <p n="Dimna Defines the Ill-Wishing Person">
+        قال
+        <lb/>
+
+        لها دمنة الشقيّ الذي يركب المنكر ولا يحبّ لأحد خيرًا ولا يدفع عنه مكروهًا
+      </p>
+
+      <p n="The Mother Condemns Dimna's Sweet-Talking and Hoping">
+        قالت له أمّ الأسد
+        <lb/>
+
+        أيّها الغادر الفاجر عجبي كيف أبقاك الملك بالحياة أيّها الكاذب المحتال ما أظنّك ناجٍ
+        <lb/>
+
+        من كذبك هذا أبدًا
+      </p>
+
+      <p n="Dimna Claims Truthfulness">
+        قال لها دمنة الكذّاب الذي يقول ما لم يفعل وما لم يكن وأمّا أنا فقد
+        <lb/>
+
+        قلت له الذي كان وصدقت في قولي بفعلي
+      </p>
+
+      <p n="Dimna Cites His Courage to Speak at Court as Proof">
+        والملك يعلم أنّي لو كنت كاذبًا لم أقلْ هذا القول
+        <lb/>
+
+        بين يديه فهذا دليل أنّي ليس لي ذنب ولا خطيئة أستحقّ بها القتل
+      </p>
+
+      <p n="The Lion's Silence Makes the Mother Doubt">
+        فلمّا رأت أمّ الأسد أنّ الأسد ساكت
+        <lb/>
+
+        لا يقول شيئًا قالت في نفسها لعلّ دمنة بريء ممّا رموه به ولعلّه مكذوب عليه
+      </p>
+
+      <p n="Lion Hands Dimna Over to Judge for Investigation">
+        قال فعند ذلك أمر الملك
+        <lb/>
+
+        بدمنة أن يُجعل في عنقه غلّ وأمر به أن يُطرح في السجن حتّى يُنظر في أمره فمضوا به إلى السجن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

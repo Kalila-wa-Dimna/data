@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3478</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="422"/>
+
+      <p n="unassigned">
+        تحت جناحيّ قال وكيف تستطيع أن تجعله تحت
+        <lb/>
+
+        جناحك ما أراه يتهيأ لك قال بلى والله قال فأرني كيف
+        <lb/>
+
+        تصنع فلعمري يا معشر الطير لقد فضّلكم الله علينا إنّكنّ
+        <lb/>
+
+        تدرين في ساعة واحدة مثل ما ندري في سنة وتبلغن
+        <lb/>
+
+        ما لا نبلغ وتدخلن رؤوسكنّ تحت أجنحتكنّ من البرد
+        <lb/>
+
+        والريح فهنيئًا لكنّ فأرني كيف تصنع فأدخل الطير رأسه
+        <lb/>
+
+        تحت رجليه فوثب عليه الثعلب مكانه فأخذه فهمزه همزة
+        <lb/>
+
+        دقّ صلبه ثمّ قال يا عدوّ نفسه تري الرأي للحمامة وتعلّمها
+        <lb/>
+
+        الحيلة لنفسها وتعجز عن ذلك لنفسك حتى يسكمن منك
+        <lb/>
+
+        عدوّك ثمّ قتله وأكله والله الموفق بمنّه
+        <lb/>
+
+        فلمّا انتهى النطق بالملك والفيلسوف إلى هذا المكان
+        <lb/>
+
+        سلك الملك فقال له الفيلسوف أيّها الملك عشت ألف سنة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Df</chapter>
+  </chapter>
+</TEI>

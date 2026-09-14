@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="56"/>
+
+      <p n="Dimna's Offer of Safety to Ox">
+        وتركك لقاءه
+      </p>
+
+      <p n="Ox's Request for Assurance">
+        وإن أنت تلكّأت أن أسرع الرجوع إليه فأخبره بذلك
+      </p>
+
+      <p n="Ox Inquires about Lion's Identity">
+        قال شتربة ومن هذا الأسد الذي أرسلك إليّ وأين مكانه
+      </p>
+
+      <p n="Dimna Describes Lion as King of Beasts">
+        قال دمنة هو ملك السباع وهو بموضع كذا ومعه سباع كثير
+      </p>
+
+      <p n="Ox's Fear Upon Hearing of Lion">
+        فرعب شتربة من ذكر الأسد والسباع
+      </p>
+
+      <p n="Ox's Acceptance of Dimna's Offer">
+        وقال لدمنة إن أنت جعلت لي
+        <lb/>
+
+        الأمان أقبلت معك
+      </p>
+
+      <p n="Dimna Provides Assurance to Ox">
+        فأعطاه دمنة ما وثق به
+      </p>
+
+      <p n="Dimna and Ox Approach Lion Together">
+        ثمّ أقبلا جميعًا حتّى
+        <lb/>
+
+        دخلا على الأسد
+      </p>
+
+      <p n="Lion's Welcoming Inquiry to Ox">
+        فأحسن الأسد مساءلة شتربة وقال له متى قدمت
+        <lb/>
+
+        هذه البلاد وما أقدمكها
+      </p>
+
+      <p n="Ox Recounts His Story to Lion">
+        فقصّ شتربة على الأسد قصّته
+      </p>
+
+      <p n="Lion Invites Ox to Stay">
+        فقال
+        <lb/>
+
+        له الأسد الزمْني فإنّي مكرمك ومحسن إليك فدعا له شتربة وأثنى
+        <lb/>
+
+        عليه وأقام معه
+      </p>
+
+      <p n="Lion's Growing Trust in Ox">
+        ثمّ إنّ الأسد قرّب شتربة وألطفه وأكرمه وآنس
+        <lb/>
+
+        منه رأيًا وعقلًا
+      </p>
+
+      <p n="Lion's Increasing Favor Towards Ox">
+        وائتمنه على أسراره وشاوره في أموره وكان لا تزيده
+        <lb/>
+
+        الأيّام إلّا عجبًا به ورغبة فيه وتقريبًا له حتًى حسده أصحابه منزلته عنده
+      </p>
+
+      <p n="Dimna's Jealousy of Ox's Favor">
+        فلمّا رأى دمنة أنّ الأسد قد اختصً الثور وفضّله عليه وعلى
+        <lb/>
+
+        غيره من خاصّة أصحابه وجعله صاحب خلوته وسمره وحديثه ولهوه
+        <lb/>
+
+        وأنيسه في مشورته حسد الثور حسدًا شديدًا وبلغ منه أمره كلّ
+        <lb/>
+
+        مبلغ
+      </p>
+
+      <p n="Dimna Complains to Kalila">
+        فشكا ذلك إلى أخيه كليلة
+      </p>
+
+      <p n="Dimna's Lament">
+        وقال ألا تعجب لعجز رأيي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="85"/>
+
+      <p n="The Crow Snatches the Necklace">
+        من حليّها عقدًا ثمينًا
+      </p>
+
+      <p n="The Lure">
+        وطار به فصاحت الامرأة وتبعوه
+        <lb/>
+
+        الناس الغراب وهو قد صار يطير ويقع بحيث لا يغيب
+        <lb/>
+
+        عن أبصارهم ولم يزالوا كذلك حتّى انتهى الغراب إلى جحر
+        <lb/>
+
+        الأسود فألقى العقد عنده والناس ينظرونه فلمّا
+      </p>
+
+      <p n="The Plan Succeeds">
+        أتوه
+        <lb/>
+
+        وجدوا العقد فأخذوه ووجدوا الأسود فقتلوه وإنّما
+      </p>
+
+      <p n="The Moral: Cunning Triumphs">
+        ضربت لك هذا المثل لتعلم أنّ الحيل تجري ما لاتجري فيه
+        <lb/>
+
+        القوّة قال
+      </p>
+
+      <p n="Kalila's Objection">
+        كليلة إنّ الثور لو لم يجتمعْ له مع شدّته جيّد
+        <lb/>
+
+        رأي وحزم كان ذلك كما تقول ولكنه مع شدته جيد
+        <lb/>
+
+        الرأي والعقل فماذا تستطيع له قال
+      </p>
+
+      <p n="The Rabbit and the Lion Parable">
+        دمنة إنّ الثور لكما
+        <lb/>
+
+        ذكرت في قوّته ورأيه ولكنّه مغترّ بي وأنا خليق أن أصرعه
+        <lb/>
+
+        كما صرعت الأرنب الأسد قال كليلة
+      </p>
+
+      <p n="Kalila Asks for the Story">
+        وكيف كان ذلك
+        <lb/>
+
+        قال دمنة
+      </p>
+
+      <p n="The Tyrannical Lion">
+        زعموا أنّ الأسد كان في أرض كثيرة المياه والعشب
+        <lb/>
+
+        والخصب وكان في تلك الأرض جميع الوحوش في سعة من
+        <lb/>
+
+        المياه والمراعي إلّا أنّ ذلك لم ينفعْها مع خوفها من الأسد
+        <lb/>
+
+        فائتمنت
+      </p>
+
+      <p n="The Animals' Proposal">
+        تلك الوحوش واجتمعت إلى الأسد وقالت
+        <lb/>
+
+        إنّك لتصيب منّا الدابّة بعد الجهد والتعب في اليوم
+        <lb/>
+
+        وإنّا قد رأينا رأيًا لنا ولك فيه راحة وهو إن
+      </p>
+
+      <p n="The Bargain">
+        أنت
+        <lb/>
+
+        أمنتنا على أنفسنا ولم تُخِفْنا فلك علينا في كلّ يوم دابّة
+        <lb/>
+
+        نرسلها لك في وقت غدائك فرضي الأسد
+      </p>
+
+      <p n="The Lion Agrees">
+        بذلك
+        <lb/>
+
+        وصالحهنّ عليه فوفين له
+      </p>
+
+      <p n="The Agreement is Kept">
+        بذلك ثمّ إنّ أرنب
+      </p>
+
+      <p n="The Cunning Rabbit's Turn">
+        وصلتها
+        <lb/>
+
+        القرعة فقالت للوحوش إن أنتنّ ترفّقتنّ بي فيما لا يضرّكنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

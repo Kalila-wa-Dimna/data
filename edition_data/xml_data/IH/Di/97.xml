@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="97"/>
+
+      <p n="unassigned">
+        |نصّ مؤقّت
+        <lb/>
+
+        |نصّ مؤقّت
+        <lb/>
+
+        |نصّ مؤقّت
+        <lb/>
+
+        |نصّ مؤقّت
+        <lb/>
+
+        |نصّ مؤقّت
+        <lb/>
+
+        |نصّ مؤقّت
+        <lb/>
+
+        |نصّ مؤقّت
+        <lb/>
+
+        |نصّ مؤقّت
+      </p>
+
+      <p n="Chapter Title">
+        |باب
+        <lb/>
+
+        |البحث عن أمر دمنه
+      </p>
+
+      <p n="The King Asks about Dimna's Fate">
+        |فقال فاذكرْ لي قتلَ دمنَهْ ### يا بيدبا مِن بعدِ هذي الفتنَهْ
+      </p>
+
+      <p n="The Philosopher's Answer About the King's Killing">
+        |قال نعمْ لمّا استبانَ كذِبُهْ ### عند الهُمامِ كانَ فيهِ عَطَبُهْ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

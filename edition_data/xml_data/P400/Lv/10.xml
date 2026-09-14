@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="10"/>
+
+      <p n="Kisra Keen For Indian Book">
+        هممت أن أعمل على رضى من يصل إليه لأنّ ملوك الهند دون ملوك فارس
+        <lb/>
+
+        ما تفرّدوا بهذا الكتاب وبوّبوا أبوابه وعجائبه ومنافعه إلّا وهو من
+        <lb/>
+
+        قول الأدباء وبدائع الحكماء إلّا أرادوا أن يفتخروا على سائر الملوك
+        <lb/>
+
+        ويُفضَّلون به عليهم من غرائب عجائبه وتدبير محكمه
+      </p>
+
+      <p n="Books Expected Benefits">
+        حتّى يكاد
+        <lb/>
+
+        العاقل أن يجتني من ثمره وكثرة مذاهبه لتعلّق بوثائق حبله
+        <lb/>
+
+        ويتمسّك بلذّات منافعه ومكاسبه فتروّض النفس على محبوبها
+        <lb/>
+
+        دون مساوئها وبمعاصيها
+      </p>
+
+      <p n="Kisra Reflects On Difficulty">
+        فلمّا محّض كسرى الرأي فيما عزم عليه
+        <lb/>
+
+        قال في نفسه الأمر جليل والمشقّة صعبة والشقّة
+        <lb/>
+
+        بعيدة وفيه مدريه وتكلّف من المؤنات والحال شديد
+      </p>
+
+      <p n="Kisra Wants Kātib Or Physician">
+        ولا بدّ لنا
+        <lb/>
+
+        أن ننتخب من نرسله في ذلك ممّا بين هذين الصنفين إمّا من الكُتّاب
+        <lb/>
+
+        وإمّا من الأطبّاء
+      </p>
+
+      <p n="Kātibs And Physicians Skills">
+        فإنّ هذين الصنفين يجتمع عندهما من جواهر
+        <lb/>
+
+        الأدب وجوامع فنون العلم وكنوز الفهم وتمام الفضيلة وكمال المروءة
+        <lb/>
+
+        وتحفّظ ثمّ والتحرّز والدهاء والفطنة والسياسة والتلطّف وكتمان
+        <lb/>
+
+        السرّ ومحض الرأي
+      </p>
+
+      <p n="Kisra Searches Scholar">
+        فلمّا أن تمّ عزمه ورأيه على أن يبعث من يُرجى خيره
+        <lb/>
+
+        ويرضاه سأل أهل مملكته أن يبحثوا ويطلبوا في جميع مملكته رجلًا قد حوى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

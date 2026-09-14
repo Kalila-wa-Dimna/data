@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="14"/>
+
+      <p n="Reason Is Basis Of Every Good">
+        <> والأدب والعقل مكسب بالتجارب
+      </p>
+
+      <p n="Reason Like Hidden Fire">
+        ولبثه في الإنسان كلبث
+        <lb/>
+
+        النار في الحديد لا تظهر حتّى يقدحها قادح من غيرها فإذا أقدحها
+        <lb/>
+
+        ظهر ضوءها وحريقها
+      </p>
+
+      <p n="Adab And Experience Kindle Reason">
+        كذلك العقل كامن في الإنسان لا يظهر حتّى
+        <lb/>
+
+        يظهره الأدب وتندبه التجارب
+      </p>
+
+      <p n="Reason Strengthens">
+        فإذا استحكم كان السبب لكلّ
+        <lb/>
+
+        خير والجالب لجميع المنافع فلا شيء أفضل من العقل إذا أعانه الأدب
+      </p>
+
+      <p n="Reason Brings Success">
+        فمن رزقه الله تعالى العقل وأعانه عليه بالمباشرة على الأدب
+        <lb/>
+
+        والحرص عليه سعد جدّه وأدرك في الدنيا أمله
+        <lb/>
+
+        وقصده في الآخرة <> أفضل نصيب
+      </p>
+
+      <p n="Reason Strengthens Kings">
+        فالعقل هو المقوّي
+        <lb/>
+
+        للمُلك والمثبّت والمؤيّد للمَلك السعيد والسوقة
+        <lb/>
+
+        لا تصلح إلّا عليه وعلى تدبيره
+      </p>
+
+      <p n="Kisra Most Learned King">
+        وقد رزق الله عزّ
+        <lb/>
+
+        وجلّ ملكنا هذا السعيد أنوشروان من العقل أفضل الرزق
+        <lb/>
+
+        وأجزله وأعانه عليه بحسن أدبه فلزمه الاستبحاث على تحصيله والتفتيش
+        <lb/>
+
+        عن غوامض الصواب فبلغ في ذلك ما لم يبلغه ملك قطّ ممّن مضى من الملوك
+        <lb/>
+
+        قبله
+      </p>
+
+      <p n="Kisra Hears Of K D">
+        وكان ممّا تقرّر عنده من العلم أنّه بلغه عن كتاب من كُتُب
+        <lb/>
+
+        الهند عند ملوكهم وهو محروس عندهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="167"/>
+
+      <p n="Wife Interprets This As God Punishing False Testimony">
+        فقالت المرأة بالعدل أصابك هذا الجزاء في عينيك اللتين شهدتا
+        <lb/>
+
+        بما لم ترى واستبان للمرزبان ومن حضر حضرته براءة المرأة
+      </p>
+
+      <p n="Judge Passes Dimna's Testimony of Second Day to Lion">
+        فلمّا سمع القاضي
+        <lb/>
+
+        كلام دمنة نهض فرفعه بعينه إلى الأسد
+      </p>
+
+      <p n="The Lion Shows the Records to His Mother Who Warns of Dimna’s Past and Future Crimes">
+        فنظر الأسد فيه ثمّ
+        <lb/>
+
+        دعا بأمّه فقرأه عليها فقالت لقد أصاب كلام دمنة منك موقعًا
+        <lb/>
+
+        حتّى قتلت صديقك بغير ذنب
+      </p>
+
+      <p n="Lion Moved by Mother's Words">
+        فوقع كلامها في نفسه
+      </p>
+
+      <p n="Mother Wants to Keep Source Secret">
+        فقال
+        <lb/>
+
+        إنّي لا أكره إفشاء السرّ في قتل دمنة إذا تذكّرت أنّي استظهرت
+        <lb/>
+
+        عليه بركوب ما نهت عنه العلماء
+      </p>
+
+      <p n="Withholding Testimony About a Deceased Is Sin">
+        فإنّ العلماء قد قالوا من كتم
+        <lb/>
+
+        حجّة ميّت أخطأ حجّته يوم القيامة
+      </p>
+
+      <p n="Mother Persuades Leopard to Testify">
+        فقامت أمّ الاسد فدخلت
+        <lb/>
+
+        على النمر فلم تزل به حتّى دخل على الأسد فشهد بما سمع من إقرار دمنة
+      </p>
+
+      <p n="Fellow Prisoner Testifies">
+        فلمّا شهد النمر بذلك أرسل الفهد المحبوس الذي كان سمع إقرار
+        <lb/>
+
+        دمنة وحفظه إلى الأسد فقال إن عندي شهادة فأخرجوه فشهد
+        <lb/>
+
+        على دمنة بما سمع من لفظه وإقراره
+      </p>
+
+      <p n="Lion Inquires Why Fellow Prisoner Had Withheld Testimony">
+        فقال لهما الأسد ما منعكما
+        <lb/>
+
+        أن تقوما بشهادتكما وقد علمتم أمرنا واهتمامنا بالتفتيش والفحص عن أمر دمنة
+      </p>
+
+      <p n="Fellow Prisoner Explains Invalidity of His Single Testimony">
+        فقال كلّ واحد منهما قد علمنا أن شهادة الفرد لا توجب حكمًا فكرهنا التعرّض
+        <lb/>
+
+        لغير ما يمضي به الحكم حتّى إذا شهد أحدنا قام الآخر بشهادته
+      </p>
+
+      <p n="Lion Orders Dimna to Be Killed">
+        فقبل الأسد
+        <lb/>
+
+        مقالتهما وأمر بدمنة أن يُقتل في محبسه جوعًا وعطشًا فمات أشدّ موتة
+      </p>
+
+      <p n="unassigned">
+        باب الحمامة المطوّقة
+        <lb/>
+
+        قال ديشلم الملك لبيدنا الفيلسوف قد سمعت مثل المتحابّين
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+    <chapter>Rd</chapter>
+  </chapter>
+</TEI>

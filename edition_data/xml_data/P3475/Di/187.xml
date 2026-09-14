@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="187"/>
+
+      <p n="Prominent Courtier Diagnoses Dimna as Traitor">
+        العلماء أنّ من كانت عينه اليسرى صغيرة وهي كبيرة الاختلاج
+        <lb/>
+
+        وأنفه مائل إلى الشقّ الأيمن وبين عينيه من الشعر مبرد ونبات
+        <lb/>
+
+        شعره ثلثًا وإذا مشى نكّس رأسه ولا يزال يلتفت وراءه فإنّه
+        <lb/>
+
+        صاحب نميمة وفجور وشرّ وهذه الصفة كلّها في هذا الشقيّ
+      </p>
+
+      <p n="Bodily Marks Are Claimed to Predict Deeds">
+        قال دمنة كلّنا ما خلا الله تحت السماء ولسنا فوقها وأنتم
+        <lb/>
+
+        ذوو أحلام وعلم بالكلام وقد سمعتم ما قاله هذا فاسمعوا
+        <lb/>
+
+        منّي أنّ هذا يظنّ أنّه لا أجد أعلم منه وأنّه لا علم إلّا علمه
+        <lb/>
+
+        وإنّما يعمل الناس من الخير والشرّ للعلامات التي في أجسادهم
+      </p>
+
+      <p n="Human Action Would Be Meaningless">
+        فإن كان ذلك كذلك فلا أسمع إذا أحد يقدر على أن يعمل
+        <lb/>
+
+        خيرًا ولا شرًّا إلّا بالعلامات التّي فيه وإنّما تُجزون بذلك
+        <lb/>
+
+        وتُعاقبون به وليس إلى امرئ في أمره شيء وليس مجتهد
+        <lb/>
+
+        وإن اجتهد في الخير بنافعه ولا ؟مشى بضارّه إساءته
+      </p>
+
+      <p n="If the Physique Makes People Traitors, Dimna Is Innocent and Excused">
+        و
+        <lb/>
+
+        لو كان ما قُذفت به من هذا الإفك تعوذ بالله منه حقًّا
+        <lb/>
+
+        كنت معذورًا للعلامات التي جبرتني عليها وقادتني
+        <lb/>
+
+        إليها وكفى بمقالته هذه دليلًا لذوي الألباب على براءتي
+        <lb/>
+
+        وسوء رؤيته وخطأ مقالته
+      </p>
+
+      <p n="Dimna's Third Subtale of Plower Who Told His Wife to Cover Herself First">
+        وإنّ أمره هذا الشبيه بأمر
+        <lb/>
+
+        الرجل الذي قال لامرأته لذي النظر في أمر نفسك ثمّ تفرّغي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

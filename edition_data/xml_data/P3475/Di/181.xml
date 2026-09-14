@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="181"/>
+
+      <p n="The Mother Tells the Lion Not to Debate Dimna">
+        واسترحْ منه وأرحْ منه جندك ولا تناظره
+      </p>
+
+      <p n="The Lion Tells the Mother to be Silent">
+        قال الأسد اسكتي عنه وأهدئي
+        <lb/>
+
+        فإنّي ناظر في أمره وفاحص عنه
+      </p>
+
+      <p n="The Lion Praises Dimna">
+        فإنّ دمنة لبيب دهيّ عالم أديب
+        <lb/>
+
+        فطن
+      </p>
+
+      <p n="The Lion Wants to Avoid Haste">
+        فأنا أبحث عن أمره ولن أعجل ولا أشتري ضرّ نفسي باتّباع
+        <lb/>
+
+        هوى من لا أدري ما صدقه من كذبه
+      </p>
+
+      <p n="Lion Repeats Question for Mother's Source">
+        فأعلميني من هو الأمين الذي
+        <lb/>
+
+        ذُكر وسمّيه لي
+      </p>
+
+      <p n="The Mother Names the Leopard">
+        قالت هو خليلك وأمينك ومؤدّبك النمر
+      </p>
+
+      <p n="Kalila Seeks out Dimna in Prison">
+        فلمّا ذهبت هدأة من الليل بلغ كليلة أنّ دمنة قد اُنطلق به إلى
+        <lb/>
+
+        السجن في وثاق فانطلق إلى دمنة
+      </p>
+
+      <p n="Kalila Weeps when Seeing Dimna">
+        فلمّا رآه موثقًا بكى
+      </p>
+
+      <p n="Kalila Admits Having Been Harsh on Dimna">
+        وقال
+        <lb/>
+
+        قد صار أمرك إلى ما لا أبالي ألّا أغلظ لك في القول معه
+        <lb/>
+
+        ولا أستقبلك بما تكره ولكن هل تذكر الذي كنت أقول لك
+        <lb/>
+
+        وأشير به عليك
+      </p>
+
+      <p n="Conceit Caused Dimna's Demise">
+        فلم تلتفت إليه ولم تأخذ به عجبًا برأيك
+        <lb/>
+
+        فويل لحملك وفطنتك كيف نزع منك وأشرفت على
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

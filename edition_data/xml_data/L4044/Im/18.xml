@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="18"/>
+
+      <p n="A Merchant Steals from His Partner">
+        السمسم بلغنا أنه كان رجلًا يبيع السمسم وكان له شريك وكان سمسمهما
+        <lb/>
+
+        في بيت واحد غير أنّ الذي لكّل واحد منهما على حدته
+      </p>
+
+      <p n="The Merchant Devises a Plot">
+        فأحبّ أحدهما أن
+        <lb/>
+
+        يذهب بالذي لشريكه من السمسم فجعل له علامة إذا جاء الليل ليأخذه
+      </p>
+
+      <p n="The Merchant Executes the Plot">
+        فأخذ
+        <lb/>
+
+        رداءه فغطّى به سمسم شريكه ثم ّانطلق إلى صديق له فأخبره بالذي همّ به
+        <lb/>
+
+        من ذلك وسأله أن يعينه فأبى صديقه ذلك حتى جعل له نصف ما يأخذ
+        <lb/>
+
+        منه
+      </p>
+
+      <p n="The Partner Finds the Garb">
+        ثمّ أنّ شريك التاجر دخل إلى البيت فرأى سمسمه مغطّى برداء شريكه
+      </p>
+
+      <p n="unassigned">
+        فظنّ
+      </p>
+
+      <p n="The Partner Moves the Garb">
+        أنّه غطّاه له من التراب والدواب فقال في نفسه لقد أحسن شريكي
+        <lb/>
+
+        في تغطية سمسمي واشفاقه عليّ سمسمه أحقّ أنّ يغطّى بردائه فحوّل الرداء
+        <lb/>
+
+        على سمسم صاحبه
+      </p>
+
+      <p n="The Merchant Steals His Own Bale">
+        فلمّا كان من الليل جاء التاجر والرجل معه فدخلا
+        <lb/>
+
+        البيت وهو مظلم فجعل يلتمس ويحسّ حتّى وقعت يده على المغطّى من السمسم
+        <lb/>
+
+        وهو يرى أنّه كما غطّاه وأنه سمسم صاحبه فأخذ نصفه وأعطى صاحبه
+        <lb/>
+
+        النصف الآخر
+      </p>
+
+      <p n="The Merchant Notices the Error in the Shop">
+        فلمّا أصبح جاء هو وشريكه فدخلا البيت فلمّا رأى أن
+        <lb/>
+
+        الذاهب هو الذي له <>
+      </p>
+
+      <p n="The Merchant Keeps Silent about His Betrayal">
+        وخشي أن يذكر شيئًا فيكون ما فيه من العار أشدّ عليه
+        <lb/>
+
+        من ذهاب السمسم فالواجب
+      </p>
+
+      <p n="One Must Know When to Halt Pursuit">
+        على من طلب أمرًا أن يكون له فيه غاية ينتهي
+        <lb/>
+
+        إليها
+      </p>
+
+      <p n="A Pursuit without a Clear Goal Is Treacherous">
+        فإنه من جرى إلى غير غاية أوشك أن تقوم به دابّته
+      </p>
+
+      <p n="One Should Not Seek the Unattainable">
+        وهو حقيق أن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

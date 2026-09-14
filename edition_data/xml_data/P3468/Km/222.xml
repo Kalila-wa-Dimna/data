@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3468</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="222"/>
+
+      <p n="King W Wants to Block the Hole">
+        سبيلنا أن نجهد فعلّنا أن نملك حيلة في سدّ فم هذا الثقب
+        <lb/>
+
+        الخارج إلينا منه هذه الأهوية والرياح والعواصف
+        <lb/>
+
+        فإنّا إذا أحكمنا ذلك أمنّا شرّ ما أصاب أسلافنا من
+        <lb/>
+
+        سوء العاقبة الفائتة من هذه الرياح ونكون قد ورثنا
+        <lb/>
+
+        الجنّة في الأرض مع ما يكون لنا من الذكر الجميل والاسم
+        <lb/>
+
+        والسمعة المؤبّدة إلى آخر الدهر
+      </p>
+
+      <p n="The Vizier Is Willing to Execute">
+        قال الوزير أنا عبدك
+        <lb/>
+
+        ومسارع إلى مطاوعة أمرك
+      </p>
+
+      <p n="King W Is Not Satisfied with the Response">
+        قال الملك ليس هذا
+        <lb/>
+
+        جواب ما قلته لك
+      </p>
+
+      <p n="The Vizier Defers to the Opinion of King W">
+        قال الوزير ما عندي في هذا الوقت
+        <lb/>
+
+        جواب غير هذا والملك أعلم منّي وأحكم وأشرف جدًّا
+        <lb/>
+
+        وأقوى سعدًا وأكثر عرفًا هو ملك الدنيا وهذا الأمر
+        <lb/>
+
+        الذي تذكره لا يمكن أن يُعمل إلّا بقوة إلهيّة وأمّا المخلوق
+        <lb/>
+
+        فلا يستطيع بذلك أحدًا
+      </p>
+
+      <p n="Divine Fortune Versus Human Effort">
+        قال الملك إنّ السعادات
+        <lb/>
+
+        التي يسعد بها الناس حتّى يتفاضلون فيها هي التي تكون
+        <lb/>
+
+        من فوق فأمّا ممارسة الأمور ومباشرة الأعمال فهي
+        <lb/>
+
+        مسلّمة إلى الناس
+      </p>
+
+      <p n="King W Asks the Vizier for a Plan">
+        وإن كان اتّصال سائر الأمور لا يكون
+        <lb/>
+
+        إلّا بتوفيق من فوق وهذا الأمر من فعل الناس وعمله
+        <lb/>
+
+        بأيديهم لا من أفعال الإله فقل ما عندك فيه
+      </p>
+
+      <p n="The Outcome Is Uncertain">
+        قال الوزير
+        <lb/>
+
+        الذي عندي أن يتأمّل الملك ما يريد أن يفعله فإنّ
+        <lb/>
+
+        الكلام فيه سهل وأمّا معرفة ما يؤول الحال إليه منه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

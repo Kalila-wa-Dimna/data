@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="201"/>
+
+      <p n="Wifes Speech Charms Carpenter">
+        النجّار هذه المقالة من امرأته قال في نفسه إنّ هذه امرأتي
+        <lb/>
+
+        شديدة الحبّ لي ووثق منها بالمودّة ورقّ لها وأخذته الغيرة
+        <lb/>
+
+        والرحمة
+      </p>
+
+      <p n="Carpenter Waits Till Wife Awakens">
+        ولم يبرح من مكانه حتّى أصبح فلمّا أسحرت خرج صديقها
+        <lb/>
+
+        وتناومت هي على السرير فخرج زوجها من تحت السرير فقعد
+        <lb/>
+
+        عندها يروّح عليها ويذبّ عنها
+      </p>
+
+      <p n="Carpenter Forgives Wife">
+        فاستنبهت وتحرّكت كأنّها كانت
+        <lb/>
+
+        نائمة قال لها بنفسي أنتي يا خليلتي اغفلي فإنّك لم تزالي تعبانة
+        <lb/>
+
+        معنا في هذه الليلة ولولا خوفي على خاطرك لقتلت هذا الرجل
+        <lb/>
+
+        وصاخبتك على ما كان منك
+      </p>
+
+      <p n="Carpenters Story Comment">
+        فمن جهله وقلّة عقله ركن إلى ما سمع
+        <lb/>
+
+        من كلامها وصدّق بما سمع من ادّعائها محبّته وسالمها كالمكذّب
+        <lb/>
+
+        بما رأت عيناه وشاهد من أمرها واستعبده هواه وغلبه على رأيه
+      </p>
+
+      <p n="Carpenters Story Motivation">
+        وإنّما ضربت لك هذا المثل إرادة ألاّ تكونوا كالنجّار المكذّب
+        <lb/>
+
+        علمه وبصره المصدّق بما سمع
+      </p>
+
+      <p n="Suspect A Fawning Foe">
+        فإيّاكم أن تصدّقوا مقالة الغراب
+        <lb/>
+
+        واذكروا أن كثيرًا من العدوّ لا يستطيع ضرّ عدوّه بالمباعدة
+        <lb/>
+
+        حتّى يلتمسه بالمقاربة والمماسحة
+      </p>
+
+      <p n="Objector Became Fearful Of Crows">
+        وإنّي لم أخف الغربان قطّ
+        <lb/>
+
+        خوفي لهم مذ رأيت هذا الغراب وسمعت مقالتكم فيه
+      </p>
+
+      <p n="Objector Expects Trickery From Crows">
+        وإنّ المرء لا يقدر
+        <lb/>
+
+        على ضرّ عدوّه إذا نابه نأي عنه وهو يظفر به في قربه منه وإنّ
+        <lb/>
+
+        الغربان لم يستطعن أن ينكيننا بشيء إلى يومنا هذا ولعلّ في دنوّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

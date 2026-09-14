@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="191"/>
+
+      <p n="Dimna Grieves for Kalila">
+        قال أفّ للحياة وبقاء الدنيا إذا انفردت فيها من أخي وتِربي و
+        <lb/>
+
+        أُنسي وموضع ثقتي
+      </p>
+
+      <p n="Misfortunes Never Come Singly">
+        إنّه أحقّ ما يقال مِن أنّه قلّ ما ابتُلي أحد
+        <lb/>
+
+        في الدنيا بمكروه إلّا تتابعت عليه المكاره كحالي اليوم فيما
+        <lb/>
+
+        تواتر عليّ من البلاء في ضيق المجلس وتعاون العامّة على ظلمي
+        <lb/>
+
+        وانقطاعي من أخي وتِربي وصفيّ
+      </p>
+
+      <p n="Dimna Asks Ruzbeh to Be His Friend">
+        ولكنّي أحمد الله الذي قبض
+        <lb/>
+
+        كليلة وأبقى لي من ذوي قرابتي ورحمي أخًا مثلك أشدّ به ثغرة
+        <lb/>
+
+        مائلة منّي فقد وثقت بنعمة الله الذي رأيت من اهتمامك
+        <lb/>
+
+        بأمري ونصبك فيه وتجشّمك ما تجشّمت من لقائي و
+        <lb/>
+
+        وجعلتني عدل نفسك عند اليوم المودّة لي والشفقة
+        <lb/>
+
+        عليّ
+      </p>
+
+      <p n="Dimna Has Ruzbeh Fetch Their Belongings">
+        وقد كنت جمعت أنا وكليلة بحيلنا وكدّنا شيئًا كنّا منه
+        <lb/>
+
+        نعيش فرفعناه بمكان كذا وكذا فإن رأيت أن تأتي به
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

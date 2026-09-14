@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="82"/>
+
+      <p n="Burzoy is Attracted by Asceticism">
+        هو الذي يمهّد الدين كما يمهّد الوالد لولده
+      </p>
+
+      <p n="Asceticism Is Like a Garden">
+        ووجدته هو الباب المفتوح إلى
+        <lb/>
+
+        النعيم المقيم ووجدت الناسك قد تدبّر فعلته بالسكينة فشكر وتواضع وقنع
+        <lb/>
+
+        فاستغنى ورضي ولم يهتمّ وخلع الدنيا فنجا من الشرور ورفض الشهوات
+        <lb/>
+
+        فصار طاهرًا واطّرح الحسد فوجبت له المحبّة وسخت نفسه بكلّ شيء واستعمل
+        <lb/>
+
+        العقل فوجبت له العاقبة فأمن الندامة ولم يخف الناس ولم يدبّ إليهم فسلم منهم
+        <lb/>
+
+        فلم أزدد في أمر النسك نظرًا إلّا ازددت فيه رغبة حتّى هممت أن أكون من أهله
+      </p>
+
+      <p n="Burzoy Fears Not to Bear Asceticism">
+        ثمّ تخوّفت ألّا أصبر على عيش النسّاك ولم آمن إن أنا تركت الدنيا
+        <lb/>
+
+        وأخذت في النسك أن أضعف عن ذلك ورفضت أعمالًا كنت أرجو عائدتها وقد
+        <lb/>
+
+        كنت أعملها فأنتفع بها في الدنيا مثلي مثل ذلك الكلب الذي مرّ بنهر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

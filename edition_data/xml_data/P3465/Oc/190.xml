@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="190"/>
+
+      <p n="The Crow Kingdom and the Owl Kingdom">
+        وعليهنّ وال من أنفسهنّ وكان عند هذه الشجرة كهف فيه ألف بومة وعليهنّ
+        <lb/>
+
+        وال منهنّ
+      </p>
+
+      <p n="The Owls Attack the Crows">
+        فخرج ملك البوم لبعض غدواته وروحاته وفي نفسه العداوة لملك
+        <lb/>
+
+        الغربان وفي نفس الغربان وملكها مثل ذلك للبوم فأغار ملك البوم في أصحابه
+        <lb/>
+
+        على الغربان في أوكارها فقتل وسبى منهم خلقًا كثيرًا
+      </p>
+
+      <p n="The Morning in the Battle Aftermath">
+        وكانت الغارة ليلًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

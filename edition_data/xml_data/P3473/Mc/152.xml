@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="152"/>
+
+      <p n="Foes Surround the Rat">
+        وكمن له ونظر فوقه فرأى بومة على شجرة ترصده فخاف
+        <lb/>
+
+        إن انصرف راجعًا يثب عليه ابن عرس وإن ذهب يمينًا
+        <lb/>
+
+        أو شمالا يختطفه البومة وإن تقدّم فالسنّور أمامه
+      </p>
+
+      <p n="The Rat Weighs His Predicament">
+        فقال
+        <lb/>
+
+        في نفسه هذا بلاء وشرّ ما فوقه مزيد وقد أُحيط بي من
+        <lb/>
+
+        كلّ جهة ولا مفزع لي إلّا إلى عقلي وحيلي وإعمال الفكرة في
+        <lb/>
+
+        النجاة وإلّا ذهبت هدرًا
+      </p>
+
+      <p n="The Intelligent Always Keeps Alert">
+        وإنّ العاقل لا يتفرّق عليه
+        <lb/>
+
+        أمره ولا يعزب عنه حاله
+      </p>
+
+      <p n="Intelligence Is Like the Sea">
+        وإنّما عقل ذوي العقول كالبحر الذي
+        <lb/>
+
+        لا يُدرك غوره
+      </p>
+
+      <p n="The Rat Decides on a Pact with the Cat">
+        وإنّه لا ينبغي لي إلّا صلح السنّور فإنّه قد
+        <lb/>
+
+        نزل به من البلاء مثل الذي بي ولعلّه لو سمع كلامي الذي
+        <lb/>
+
+        أكلّمه من القول الصحيح الصادق الذي لا خداع فيه أن يفهم
+        <lb/>
+
+        عنّي ويطمع في معونتي ويستبشر بصلحي ولعلّه أن يكون لي
+        <lb/>
+
+        وله خلاص ممّا نحن فيه
+      </p>
+
+      <p n="The Rat Comes Up to the Cat">
+        ثمّ إنّه دنا من السنور فقال له
+        <lb/>
+
+        كيف حالك
+      </p>
+
+      <p n="The Cat Acknowledges Being Trapped">
+        قال كالذي يحبّ الصيّاد
+      </p>
+
+      <p n="The Rat Points Out Their Common Problem">
+        فقال الجرذ لا
+        <lb/>
+
+        أكذّبك لعمري وإنّي لحزين لما ساءك وما أراه من الضيقة
+        <lb/>
+
+        عليك ليس بسعة ولا راحة عليّ وإنّي لشريكك في البلاء ولا
+        <lb/>
+
+        أرجو لنفسي الخلاص إلّا بما أرجوه لك من الخلاص فهو الذي
+        <lb/>
+
+        عطّفني عليك
+      </p>
+
+      <p n="The Rat Proves His Sincerity">
+        وستعرف مقالتي إن يكن فيها كذب أو خديعة
+        <lb/>
+
+        وقد ترى مكان ابن عرس وهو كامن لي والبومة على الشجرة
+        <lb/>
+
+        تريد اختطافي وكلاهما عدوّ لي ولك فإن رأيت أن تجعل لي
+        <lb/>
+
+        ذمامًا وعهدًا إن أنا دنوت منك أن تؤمّنني على نفسي وا
+        <lb/>
+
+        وأنجو بذلك وأنا قاطع حبالك ومخلّصك ممّا أنت فيه فاطمئنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

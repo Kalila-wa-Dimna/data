@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="361"/>
+
+      <p n="Dont Seek Unattainable">
+        وقلّة موافقته للجسد
+      </p>
+
+      <p n="Be Satisfied With What You Have">
+        قال الناسك إنّه لا يعدّ سعيدًا
+        <lb/>
+
+        من احتاج إلى ما لا يجد وليس بمقدور عليه فتشره لذلك نفسه
+        <lb/>
+
+        ويقلّ عنه صبره ويصل إليه من ثقل ذلك واغتمامه به ما يضرّ به
+        <lb/>
+
+        ويدخل عليه المشقّة ولا يقدر على الصبر حتّى تبرد نفسه عن
+        <lb/>
+
+        ذلك وإنّك أنت العظيم الجدّ الجزيل الحظّ حين قنعت بما رُزقت
+        <lb/>
+
+        وزهدت فيما لا تظفر به ولا تدرك طلبتك منه
+      </p>
+
+      <p n="Guest Praises Monk">
+        فقال الضيف
+        <lb/>
+
+        وُفقّت ورُشدِّت
+      </p>
+
+      <p n="unassigned">
+        وقد سمعت منك كلامًا عبرانيًّا واستحسنته
+        <lb/>
+
+        فلو علّمتنيه فإنّ لي فيه رغبة وعليه حرصًا فكلّف أن يتعلّمه
+        <lb/>
+
+        وعالجه أيّاما فرأي منه قلّة انبعاث وعسرًا لتعليمه
+      </p>
+
+      <p n=". Crow Story Intro">
+        فقال الناسك
+        <lb/>
+
+        زعموا أنّ غرابًا رأى حجلة تدرج فأعجبه مشيها وطمع في تعليمها
+        <lb/>
+
+        فراض نفسه عليها ليعلمها فلم يقدر على إحكامها فانصرف
+        <lb/>
+
+        إلى مشيته التي كان عليها
+      </p>
+
+      <p n=". Crow Lost Original Walk">
+        فإذا هو قد نسيها ولا يحفظها
+        <lb/>
+
+        ولا يهتدي إلى الرجوع إليها فصار حيرانًا متردّدًا لم يدرك
+        <lb/>
+
+        ما طلب ولم يحسن لما كان في يديه الحفظ
+      </p>
+
+      <p n="Monk Motivates Story">
+        وإنّما ضربت لك هذا
+        <lb/>
+
+        المثل لتعلم أنّك خليق إن تركت لسانك وتكلّفت علم ما لا يشاكلك
+        <lb/>
+
+        من كلامك بلسان العبرانية جدير بك أن لا تدركه وأنّك تنسى
+        <lb/>
+
+        الذي كان في يديك من غيره
+      </p>
+
+      <p n="Dont Seek Foreign Things">
+        لأنّه قد قيل يعدّ جاهلًا من حاول
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

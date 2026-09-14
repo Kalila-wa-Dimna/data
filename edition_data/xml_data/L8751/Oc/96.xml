@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="96"/>
+
+      <p n="unassigned">
+        منه فلحقه الطمع فوضع قوسه ونشابه والسلحفاة في حبالته مربوطة وسعى في طلب الظبي
+        <lb/>
+
+        قال فعدا الصيّاد طويلا ثمّ انصرف وقد قطع الجرذ حبال السلحفاة جميعًا فلمّا رجع القنّاص
+        <lb/>
+
+        وجد الحبل مقطوعًا ففكّر في أمر الظبي المتطالع والغراب الذي كأنّه يأكل منه وليس يأكل
+        <lb/>
+
+        وتقريض حبال الظبي والسلحفاة قبل استوحش وقال إنّ الأرض حرّة فحمل ورجع
+        <lb/>
+
+        موليًّا هاربًا لا يلتمس شيًا ولا ينظر إليه وانطلق الغراب والظبي والجرذ والسلحفاة
+        <lb/>
+
+        إلى عريشهن آمنات مطمئنات فهذا تعاون الإخوان واحتيال بعضهم لبعض
+      </p>
+
+      <p n="Chapter Title">
+        باب الغربان والبوم
+        <lb/>
+
+        وهو الباب السابع
+      </p>
+
+      <p n="The King Understood Previous Chapter">
+        قال ديشلم الملك لبنديا الفيلسوف مثل الإخوان المتصافين
+        <lb/>
+
+        المتحابّين
+      </p>
+
+      <p n="The King Asks about Fawning Foes">
+        فاضربْ لي مثل العدوّ الذي لا ينبغي أن يُغترّ به وإن أظهر الصحبة وتضرّع
+        <lb/>
+
+        في العلاقة
+      </p>
+
+      <p n="The Parable of the Owls and the Crows">
+        قال الفيلسوف من اغترّ بالعدوّ الأريب المعروف بالعداوة أصابه
+        <lb/>
+
+        من ذلك ما أصاب الغربان
+      </p>
+
+      <p n="The King Requests the Parable">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="The Crow Kingdom and the Owl Kingdom">
+        قال الفيلسوف إنّه كان في جبل
+        <lb/>
+
+        من الجبال شجرة عظيمة كأعظم ما يكون من الدوح وأشده التفافًا وكان فيها ألف غراب
+        <lb/>
+
+        عليهم ملك وكان في ذلك الجبل أيضًا مكان فيه ألف بومة عليهم ملك منهم
+      </p>
+
+      <p n="The Owls Attack the Crows">
+        فخرج ملك
+        <lb/>
+
+        البوم ليلة لعداوة لم تزلْ بين البوم وبين الغربان بمن معه من البوم فقتل منهنّ كثيرًا
+        <lb/>
+
+        وجرح كثيرًا
+      </p>
+
+      <p n="The Morning in the Battle Aftermath">
+        فلمّا أصبح ملك الغربان جمع الغربان
+      </p>
+
+      <p n="The Crow King Evaluates the Damage">
+        فقال لهنّ لقد رأيتنّ ما لقيتنّ من بنات
+        <lb/>
+
+        البوم ووقوعهنّ بكنّ وكم أصبح فيكنّ من قتيل وجريح ومنتوف الريش والجناح والذنب
+      </p>
+
+      <p n="The Crow King Fears Recurring Aggression">
+        وأشدّ من ذلك كلّه ضراوتهنّ عليكنّ بمثل ما قد ذقتموه منهنّ وهنّ غير مغفلات
+        <lb/>
+
+        عنكنّ فانظرْن في أمركنّ على مهل
+      </p>
+
+      <p n="Input from the Five Wise Crows is Sought">
+        وكان فيهنّ خمس غربان لمعروف لهنّ فضيلة الرأي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Rd</chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

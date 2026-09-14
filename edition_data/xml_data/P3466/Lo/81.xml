@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="81"/>
+
+      <p n="Dimna's Ambitious Nature">
+        همّة وأقلّهما رضى بحاله
+      </p>
+
+      <p n="Lion's Unfamiliarity with Kalila and Dimna">
+        ولم يكن الأسد عرفهما قطّ
+      </p>
+
+      <p n="Dimna's Observation of Lion's Behavior">
+        فقال دمنة
+        <lb/>
+
+        لكليلة ما ترى يا أخي شأن الأسد مقيمًا بمكان واحد لا يبرح ولا
+        <lb/>
+
+        ينشط لأمره
+      </p>
+
+      <p n="Kalila's Caution about Meddling">
+        فقال كليلة بل ما شأنك وشأن المسألة عمّا ليس من
+        <lb/>
+
+        شأنك
+      </p>
+
+      <p n="Dimna's Perspective on Serving Kings">
+        أمّا نحن فحالنا حال صدق ونحن على باب ملكنا واجدون
+        <lb/>
+
+        لما نأكل ولسنا من الطبقة التي يتناول أهلها الكلام من الملوك
+        <lb/>
+
+        وينظرون في أمورهم
+      </p>
+
+      <p n="Kalila's Warning and Monkey Parable">
+        فاسكت عن هذا واعلم أنّه من تكلّف من
+        <lb/>
+
+        القول والفعل ما ليس من شأنه ولا صناعته أصابه ما أصاب القرد من النجّار
+      </p>
+
+      <p n="Dimna's Inquiry about the Parable">
+        قال دمنة وكيف كان ذلك
+      </p>
+
+      <p n="Second Subtale of Monkey of Carpenter">
+        قال كليلة زعموا أنّ نجّارًا اشتقّ خشبة
+        <lb/>
+
+        بوتدين
+      </p>
+
+      <p n="Monkey's Misinterpretation">
+        فرأى القرد النجّار راكبًا على الخشبة كالأسوار على الفرس
+      </p>
+
+      <p n="Carpenter's Actions">
+        وإنّه كلّما وتّد وتدًا انتزع وتدًا
+      </p>
+
+      <p n="Monkey's Attempt to Imitate">
+        وقام النجّار لبعض حاجته فقام القرد
+        <lb/>
+
+        يتكلّف ما ليس من صناعته
+      </p>
+
+      <p n="Monkey's Positioning on Wood">
+        فركب الخشبة ووجهه قِبل الوتد
+      </p>
+
+      <p n="Monkey's Predicament">
+        فتدلّت
+        <lb/>
+
+        خصيتاه في شقّ الخشبة
+      </p>
+
+      <p n="Consequences of Monkey's Actions">
+        فلمّا نزع الوتد لححت خصيتاه في شقّ الخشبة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

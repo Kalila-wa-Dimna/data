@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CA11991</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="200"/>
+
+      <p n="Schemers Frame Jackal">
+        لحمًا كان للأسد وكان قد استطابه وأعجبه وأمر برفعه وحفظه إلى حين
+        <lb/>
+
+        طعامه ليُعاد إليه فسرقوه ثمّ أرسلوا به إلى بيت ابن آوى فخبّئوه في موضع
+        <lb/>
+
+        لا يطّلع عليه أحد
+      </p>
+
+      <p n="Scheme Triggers Lion's Rage">
+        فلمّا كان من غد ودعا الأسد بغدائه فَقَد ذلك اللحم
+        <lb/>
+
+        والتمسه فلم يجده وكان ابن آوى غائبًا والقوم الذين مكروا به حضور جميعًا
+        <lb/>
+
+        فاشتدّ الأسد في طلب اللحم حتّى غضب فنظر بعضهم إلى بعض
+      </p>
+
+      <p n="Schemers to Impart Difficult News">
+        فقال أحدهم
+        <lb/>
+
+        قول المخبر الناصح لا بدّ لنا أن نخبر الملك به عن علمنا فيما يضرّه وينفعه وإن
+        <lb/>
+
+        شقّ ذلك على من شقّ عليه
+      </p>
+
+      <p n="Schemers Accuse Jackal">
+        إنّه بلغني أنّ ابن آوى ذهب باللحم إلى منزله
+      </p>
+
+      <p n="Schemers Say Jackal Is Unlikely to Steal">
+        قال
+        <lb/>
+
+        آخر أراه شبيهًا أن يكون فعل ذلك ولكن انظروا وافحصوا
+      </p>
+
+      <p n="Character Is Difficult to Know">
+        فإنّ معرفة الخلائق
+        <lb/>
+
+        شديدة
+      </p>
+
+      <p n="Schemers Suggest Searching Jackal's House">
+        قال آخر لعمري ما كان السرائر أن يُطّلع عليها ولكن إن فحصتم وجدتم
+        <lb/>
+
+        ذلك في منزل ابن آوى فكلّ شيء كان يُذكر لنا من عيوبه وخياناته حقّ وإنّا
+        <lb/>
+
+        لحقيقون أن نحذره ونصدّق كلّ ما كان يُقال لنا عنه
+      </p>
+
+      <p n="Schemers Say Trickery Is always Exposed">
+        قال آخر ما ينبغي لأحد أن
+        <lb/>
+
+        يغترّ بأحد لأنّه لا يعلم ما في نفسه من المحايلة ولكنّ المحايلة لا يسلم صاحبها ولا
+        <lb/>
+
+        تخفى عليه
+      </p>
+
+      <p n="Schemers Claim that Suspicions Are Confirmed">
+        قال آخر لقد خبّرني مخبر عن ابن آوى بأمر عظيم فما وقع في نفسي قد سمعت
+        <lb/>
+
+        كلامكم قال آخر لكنّه لم يخْف عليّ أمره وخبثه منذ أوّل ما رأيته ولقد قلت مرارًا
+        <lb/>
+
+        واستشهدت فلانًا أنّ هذا المخادع المتخشّع لا بدّ أن يقع في فاحشة عظيمة
+        <lb/>
+
+        وذنب كبير
+      </p>
+
+      <p n="Schemers Find False Piety Damning">
+        قال آخر لئن كان هذا لمثابة المتخشّع الذي يرينا أنّ عمله حسن ليكوننّ
+        <lb/>
+
+        وبالًا عليه إنّ هذه لمصيبة عليه أنّه كان بهذه المنزلة إنّ ذلك من العجب العجيب
+      </p>
+
+      <p n="Schemers Say Jackal Is an Ungrateful Traitor">
+        قال آخر إن وُجد هذا حقًا فما يكون خيانة فقط بل مع الخيانة كفران بالنعمة
+      </p>
+
+      <p n="Schemer Feigns Objectivity">
+        قال
+        <lb/>
+
+        آخر أنتم أهل العدل والفضل ولا أستطيع أكذّبكم ولكن سيتبيّن صدق هذا وكذبه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

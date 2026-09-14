@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="68"/>
+
+      <p n="Contrast Between Dog and Elephant Behavior">
+        يُرمى له كسرة وأنّ الفيل المغتلم المعترف بقوّته وفضله
+        <lb/>
+
+        إذا قُدّم له علفه لم يعتلفه حتى يُمسح ويُتملّق به
+      </p>
+
+      <p n="Life Perspectives on Success and Failure">
+        ومن
+        <lb/>
+
+        كان ذو فضل وعلم وإفضال على نفسه وإخوانه وذويه
+        <lb/>
+
+        فهو وإن قلّ عمره طويل العمر ومن عاش خامل الذكر كان في عيشة
+        <lb/>
+
+        ضيّقة وقلّة إمساك على نفسه وإخوانه وذويه فالمقبور
+        <lb/>
+
+        أوفى منه بالحياة
+      </p>
+
+      <p n="Comparison to Animals">
+        ومن عمل لبطنه وقنع به وترك ما سوى ذلك
+        <lb/>
+
+        عُدّ من البهائم
+      </p>
+
+      <p n="Kalila's Advice on Contentment">
+        قال كليلة قد سمعت ما ذكرت فراجعْ عقلك
+        <lb/>
+
+        واعلمْ أنّ لكلّ إنسان منزلة وقدرًا فإن كان في المنزلة التي هي
+        <lb/>
+
+        منزلته متماسك الحال مكتفيًا بها كان حقيقًا أن يقنع
+        <lb/>
+
+        ويرضى وليست لنا منزلة يسخط لها حالنا التي نحن عليها
+      </p>
+
+      <p n="Dimna's View on Social Mobility">
+        قال دمنة المنازل متنازعة مشتركة على قدر المروءة
+        <lb/>
+
+        فالمرء ترفعه مروءته من المنزلة الوضيعة إلى المنزلة الرفيعة
+        <lb/>
+
+        ومن لا مروءة له فضدّ ذلك والارتفاع إلى الشرف في المنزلة
+        <lb/>
+
+        شديد والانحطاط منها هيّن
+      </p>
+
+      <p n="Analogy of Lifting Heavy Objects">
+        كالحجر الذي رفعه من الأرض
+        <lb/>
+
+        إلى العاتق عسر وطرحه من العاتق إلى الأرض هيّن
+      </p>
+
+      <p n="Aspiration for Higher Status">
+        فنحن
+        <lb/>
+
+        أحقر من أن نروم ما فوقنا من المنازل وأن نلتمس
+        <lb/>
+
+        ذلك بمروءتنا ونحن نقيم على مرتبتنا هذه
+      </p>
+
+      <p n="Ability to Change Circumstances">
+        ونحن نستطيع
+        <lb/>
+
+        التحويل عنها
+      </p>
+
+      <p n="Kalila's Inquiry about Dimna's Plan">
+        قال كليلة فما الذي اجتمع عليه رأيك
+      </p>
+
+      <p n="Dimna's Strategy to Approach the Lion">
+        قال
+        <lb/>
+
+        دمنة أريد أن أتعرّض للأسد عند هذه الفرصة فإنّ الأسد
+        <lb/>
+
+        ضعيف الرأي ولعلّي على هذه الحالة أدنو منه وأصيب
+        <lb/>
+
+        عنده منزلة ومكانة
+      </p>
+
+      <p n="Kalila's Doubt about Lion's Confusion">
+        قال كليلة وما الذي يدريك أنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

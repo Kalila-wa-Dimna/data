@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T117953</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="54"/>
+
+      <p n="unassigned">
+        جانبه فابتدأ برزجمهر بقراءة مقدّمة له ثمّ أخذ في
+        <lb/>
+
+        وصف برزويه حتى انتهى إلى آخره ففرح الملك
+        <lb/>
+
+        بذلك وكلّ أهل المملكة بما أوتيه برزجمهر
+        <lb/>
+
+        من الحكمة العجيبة والعلم العزيز وما مدح به برزويه
+        <lb/>
+
+        من غير كذب ولا ادعاء باطل ثمّ أثنى الملك وجميع من
+        <lb/>
+
+        حضر على برزجمهر وشكروا له ذلك ومدحوه بأفضل
+        <lb/>
+
+        ما مُدح به أحد قبله وأمر له الملك بمال عظيم وكسوة
+        <lb/>
+
+        فاخرة وحليّ وأواني فلم يقبل من ذلك شيئًا غير الكسوة
+        <lb/>
+
+        فإنّها كانت من ثيّاب الملوك فكان يلبسها
+        <lb/>
+
+        ويفتخر بها ثمّ شكر له ذلك برزويه وقبّل يديه وأقبل
+        <lb/>
+
+        برزويه على الملك وقال أدام الله لك أيّها الملك
+        <lb/>
+
+        السرور والكرامة فقد بلغت لي غاية التشريف
+        <lb/>
+
+        بما أمرت به برزجمهر من صفّه هذا الكتاب وذكره
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

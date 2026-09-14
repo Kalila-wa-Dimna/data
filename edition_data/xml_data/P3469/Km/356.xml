@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="356"/>
+
+      <p n="The House Owner Notices the Damage Increasing">
+        السنانير فكلّما كثّرهم زدنا عليه في تقريض ثيابه
+        <lb/>
+
+        وإفساد طعامه وتنجيس شرابه
+      </p>
+
+      <p n="The House Owner Removes One Cat">
+        فإذا نظر ذلك أنّه
+        <lb/>
+
+        كلّما زاد في السنانير ازداد عليه الفساد علم أنّ ذلك
+        <lb/>
+
+        لحيلة منه فيقول دعني أعود إلى حالي الأوّل ويقصر
+        <lb/>
+
+        التجريب
+      </p>
+
+      <p n="The Rats Reduce the Damage">
+        فإذا أخرج من السنانير واحدًا أكففنا عن
+        <lb/>
+
+        بعض الشرّ
+      </p>
+
+      <p n="The Second Cat is Removed and the Damage Reduces">
+        فإذا فرح فأخرج آخر كففنا أيضًا لشرط
+        <lb/>
+
+        الفساد
+      </p>
+
+      <p n="The House Owner Removes the Third Cat">
+        فإذا أخرج الثالث
+      </p>
+
+      <p n="The Plan Is to Be Re-enacted in All Households">
+        كففنا عن البليّة جملة واحدة
+        <lb/>
+
+        فيعلم أنّ ذلك الفساد دائمًا كان يأتيه من قِبل السنانير
+        <lb/>
+
+        لما يحدثوه معنا من العداوة فيخرجهم عنه ويقتلهم
+        <lb/>
+
+        ويطردهم من البيت حتّى لا يعود يأويهم ولم يزل ذلك
+        <lb/>
+
+        دائر بنا بيتًا بعد بيت إلى أن يمهّد لنا أعذارًا في سائر
+        <lb/>
+
+        بيوت المدينة
+      </p>
+
+      <p n="The People Kill the Cats">
+        ويجرّبوا الناس من قتل السنانير
+        <lb/>
+
+        وطردهم من البيوت حتّى لا يعود يأويهم أحد
+      </p>
+
+      <p n="The Third Vizier Foretells Success">
+        ونقيم
+        <lb/>
+
+        نحن في رغد وأمن
+      </p>
+
+      <p n="The King Enacts the Plan and the Cats Are Killed">
+        ففعل الملك ذلك فما مضى ستّ
+        <lb/>
+
+        أشهر حتّى تطير الناس بالسنانير من السنانير بما نالهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

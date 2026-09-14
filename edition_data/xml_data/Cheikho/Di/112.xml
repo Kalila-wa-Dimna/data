@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="112"/>
+
+      <p n="Dimna Calls First Speaker Self-Hating">
+        قلّة عقلك لما قلت ولجهالتك لما يدخل عليك فيه ولقد ظهر منك ما
+        <lb/>
+
+        لا تملكْه من الحسد والبغضاء وعرف من سمع قولك أنّه لا تحبّ
+        <lb/>
+
+        أحدًا وأنّك عدوّ نفسك فمن سواها فمثلك لا يصلح أن يكون إلّا مع
+        <lb/>
+
+        البهائم ثمّ دعْ أن تحضر الملك أو تكون ببابه وما أنت فوق أن
+        <lb/>
+
+        تخطئ أو تجهل
+      </p>
+
+      <p n="First Speaker Leaves Dejected/Is Silenced">
+        فلمّا سمع المقول له هذه المقالة من دمنة سكت فلم يُحِرْ جوابًا وخرج
+        <lb/>
+
+        مستحيًا
+      </p>
+
+      <p n="The Mother Is Amazed by Dimna's Verbosity">
+        فقالت أمّ الأسد إنّ من العجب انطلاقك بالقول مجيبًا لمن تكلّم
+        <lb/>
+
+        وقد كان منك ما كان
+      </p>
+
+      <p n="Dimna Calls the Mother Biased">
+        قال دمنة على ما تنظري على م تنظرين بعينٍ واحدةٍ وتسمعي
+        <lb/>
+
+        وتسمعين بأذنٍ واحدةٍ لشقاوة جدّي كذا كلّ شيءٍ قد تنكّر وتغيّر
+        <lb/>
+
+        فليس ينطق أحدٌ بحقٍّ ولا يقوم به ولا يتكلّم إلّا بالهوى
+      </p>
+
+      <p n="Dimna Finds Lion's Lenience Makes Courtiers Lie">
+        ومن بباب الملك
+        <lb/>
+
+        لثقتهم وطمأنينتهم إليه وتعطّفه عليهم لا يتّقون أن يتكلّموا بأهوائهم فيما وافق
+        <lb/>
+
+        الحقّ وخالفه لا يغيّر عليهم ولا ينهاهم
+      </p>
+
+      <p n="The Mother Chastises Dimna's Duplicity">
+        قالت أمّ الأسد انظر إلى هذا الفاسق الفاجر الذي ركب الأمر
+        <lb/>
+
+        العظيم كم يأخذ بأعين الناس ويبرّئ نفسه
+      </p>
+
+      <p n="Dimna Enumerates 5 Duplicitous Types">
+        قال دمنة إنّ صاحب ما ذكرت من يذيع السرّ ولم يدفنه والرجل
+        <lb/>
+
+        الذي يلبس لباس المرأة والمرأة التي تلبس لباس الرّجل والضيف الذي يزعم
+        <lb/>
+
+        أنّه ربّ البيت ومن ينطق في مجتمع عند الملك ما لا يسأل عنه
+      </p>
+
+      <p n="The Mother Demands Dimna's Silence and Confession">
+        قالت أمّ الأسد أما تعرف سوء عملك فتقصر من عذر قولك
+        <lb/>
+
+        وتتّقيه
+      </p>
+
+      <p n="Dimna Defines the Ill-Wishing Person">
+        قال دمنة إنّ الذي يركب السوء لا يحبّ لأحدٍ خيرًا ولا يدفع عنه سوءًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

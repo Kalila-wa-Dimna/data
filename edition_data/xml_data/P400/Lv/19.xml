@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="19"/>
+
+      <p n="Friend Aware Of Burzoys Secret">
+        بضميرك ولم أخبرك بما له حيث جئت وإيّاه تطلب وأنّك تكتم أمرًا وتظهر
+        <lb/>
+
+        غيره وأنّه لم يكن ليخفى عليّ
+      </p>
+
+      <p n="Friend Shuns Confrontation">
+        ولكنّي لرغبتي في إجابتك كرهت أن أواجهك
+        <lb/>
+
+        بأن قد ظهر لي ما تكتم وأنّه قد استبان لي ما تكتم وما أنت فيه وما تخفيه
+      </p>
+
+      <p n="Friend Infers Burzoys Secret">
+        فأمّا اذا افتتحت بالكلام فأنا مخبرك ومظهر لك سرائر أمرك ومعلمك
+        <lb/>
+
+        حالك الذي قدمت لأجله
+      </p>
+
+      <p n="Friend Guesses Burzoys Mission">
+        فإنّك قدمت بلادنا لتأخذ علومنا الرئيسة
+        <lb/>
+
+        وكنوزنا النفيسة فتذهب بها إلى بلادك لتسرّ بها ملكك
+        <lb/>
+
+        وكان قدومك بالمكر ومصادقتك بالخديعة وإنّ الأمر الذي تطلبه
+        <lb/>
+
+        قد أذعر نفسي وأدخل عليّ الخوف
+      </p>
+
+      <p n="Friend Stays Devoted To Burzoy">
+        ولكن لمّا رأيت صبرك ومواظبتك
+        <lb/>
+
+        على طلب حاجتك وتحفّظك أن تسقط في طول مكثك عندنا
+        <lb/>
+
+        استدللت به على سريرة أمرك وازددت رغبة في عقلك وأحببت
+        <lb/>
+
+        إخاءك
+      </p>
+
+      <p n="Friend Distinguishes Burzoy">
+        ولا أعلم أنّي رأيت رجلًا أرزن منك عقلًا ولا أحسن أدبًا
+        <lb/>
+
+        ولا أصبر على حاجة ولا أكتم سرًّا منك ولا أحسن خلقًا ولا سيّما
+        <lb/>
+
+        في بلاد غريبة ومملكة غير مملكته وعند قوم لم تكن تعرف سنّتهم
+        <lb/>
+
+        ولا أمرهم
+      </p>
+
+      <p n="Traits Of Prudence">
+        واعلم أنّ عقل الرجل يتبيّن في ثمان خصال الأوّل
+        <lb/>
+
+        في حسن الرفقة الثاني في طاعة الملوك وفعل ما يرضيهم والثالثة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

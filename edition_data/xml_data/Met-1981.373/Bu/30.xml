@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="30"/>
+
+      <p n="Burzoy Finds Nothing to Equate Good Works">
+        بل يزداد به ويكثر ولا يخلقه الابتذال ولا خوف عليه من السلطان أن
+        <lb/>
+
+        يسلبه ولا من الآفات أن تناله ولا من النار أن تحرقه ولا الماء أن يغرقه
+        <lb/>
+
+        ولا من اللصوص أن تسرقه ولا من الهوام أن تضرّه ووجدت الرجل الذي
+        <lb/>
+
+        يزهد في عاقبته ويلهو عن ذلك
+      </p>
+
+      <p n="Trader with Pearl and Cymbal Player">
+        إنّما هو مثل رجل تاجر كان له جوهر فاستأجر
+        <lb/>
+
+        لثقبه رجلًا بمائة دينار وانطلق به إلى بيته وإذا في ناحية البيت صنج موضوع
+        <lb/>
+
+        فأخذه الثقّاب وحسبه فقال له التاجر أتحسن الضرب به قال وفوق
+        <lb/>
+
+        ذلك فقال له دونك فتناوله وكان به ماهرًا فلم يزل يسمعه ضربًا حسنًا والسفط
+        <lb/>
+
+        مفتوح والجوهر ملقى حتّى كان المساء فقال من لي بأجرتي فقال له أوقد عملت
+        <lb/>
+
+        شيئًا قال نعم قال وما عملت قال عملت ما أمرتني به فوفّاه أجرته وبقي الجوهر
+        <lb/>
+
+        غير مثقوب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

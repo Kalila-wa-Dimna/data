@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="161"/>
+
+      <p n="Dimna Calls Courtier Unfit for Court">
+        على قذرك وعيوبك فعزلك عن طعامه وحال بينك وبين خدمته وأبعدك
+        <lb/>
+
+        عن حضرته
+      </p>
+
+      <p n="Lion Appoints a Secretary to Inform Him about the Trial">
+        ثمّ أنّ شعهرًا كان الأسد جرّبه فوجد فيه أمانةً وصدقًا
+        <lb/>
+
+        فأمره أن يحفظ ما يجري بينهم ويطلعه على ذلك
+      </p>
+
+      <p n="Lion Is Informed by Court Secretary and Ousts Courtier">
+        فقام الشعهر فدخل على الأسد
+        <lb/>
+
+        فحدّثه بالحديث كلّه على وجهه فأمر الأسد بعزل سيّد الخنازير عن عمله
+        <lb/>
+
+        وتقدّم أن لا يدخل عليه ولا يرى وجهه
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded, He Is Returned to Prison; End of First Day of Trial">
+        وأمر بدمنة أن يُسجن وقد مضى من
+        <lb/>
+
+        النهار أكثره وجميع ما جرى وقالوا وقال قد كُتب وخُتم عليه بخاتم النمر
+        <lb/>
+
+        ورجع كلّ واحد منهم إلى منزله
+      </p>
+
+      <p n="Ruzbeh Is Kalīla's Friend">
+        ثمّ أنّ شعهرًا كان يقال له روزبي كان
+        <lb/>
+
+        بينه وبين كليلة إخاء ومودّة وكان عند الأسد وجيهًا وعليه كريمًا
+      </p>
+
+      <p n="Kalīla Had Feared Reprehensions for Being Responsible">
+        واتّفق أنّ كليلة أخذه القيام إشفاقًا وحذرًا على نفسه وأخيه
+      </p>
+
+      <p n="Kalila Dies">
+        فمات
+      </p>
+
+      <p n="Ruzbeh/Fayruz Tells Dimna of Kalila's Death">
+        فانطلق هذا الشعهر إلى دمنة فأخبره بموت كليلة
+      </p>
+
+      <p n="Dimna Grieves for Kalila">
+        فبكى وحزن وقال
+        <lb/>
+
+        ما أصنع بالدنيا بعد مفارقة الأخ الصفيّ
+      </p>
+
+      <p n="Dimna Asks Ruzbeh to Be His Friend">
+        وبعد فقد وثقت بنعمة
+        <lb/>
+
+        الله تعالى وإحسانه إليّ ما رأيت من اهتمامك ومراعاتك لي وقد
+        <lb/>
+
+        علمت أنّك رجائي وركني فيما أنا فيه
+      </p>
+
+      <p n="Dimna Has Ruzbeh Fetch Their Belongings">
+        فأريد من إنعامك أن تنطلق إلى مكان
+        <lb/>
+
+        كذا فتنظر إلى ما جمعته أنا وأخي بحيلتنا وسعْينا ومشيئة الله تعالى
+        <lb/>
+
+        فتأتينا به ففعل الشعهر ما أمره به دمنة
+      </p>
+
+      <p n="Dimna Gives Ruzbeh Half, Asks Him to Put in Good Word with Lion and Mother and Report Their Words to Him">
+        فلمّا وضع ذلك بين يديه أعطاه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

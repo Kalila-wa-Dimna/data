@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="121"/>
+
+      <p n="Dimna's Third Subtale of Plower Who Told His Wife to Cover Herself First">
+        مِثل رجلٍ قال لإمرأته انظري إلى عورتك واتركي عورة غيرك
+      </p>
+
+      <p n="Prominent Courtier Requests Tale">
+        قالت وكيف كان ذلك
+      </p>
+
+      <p n="A Man and His Two Wives Become War Captives">
+        قال دمنة زعموا أنّ مدينةً
+        <lb/>
+
+        أغار عليها العدوّ ونهبها وأسر من كان بها وفي جملة
+        <lb/>
+
+        الأُسراء رجلٌ حرّاثٌ وكان له امرأتين وكان يحسن
+        <lb/>
+
+        إليهما في أمر الطعام والشراب والكسوة
+      </p>
+
+      <p n="One Wife Blames the Other for Being Naked">
+        فذهب يومًا يحتطب
+        <lb/>
+
+        فرأى في مرجعه لامرأتيه عُريانتان وقد أصابت الواحدة
+        <lb/>
+
+        خرقةً في الفلاة فغطّت بها عورتها وقالت للأخرى اقعدي
+        <lb/>
+
+        بتواري عورتك فأجابتها وأنتي ما تستحي تمشي عريانة
+      </p>
+
+      <p n="The Man/One Wife Tells Other Wife to Cover Herself First/Mind Her Own Nakedness">
+        فقال لها زوجها ويلك انظري إلى عورتك المكشوفة
+        <lb/>
+
+        ودعي عورة غيرك المستورة
+      </p>
+
+      <p n="Dimna Calls the Mother Ignorant">
+        ثمّ إنّك أيّتها الجاهلة لو عرفتي
+        <lb/>
+
+        قدر نفسك لأمسكتي عن فضول لسانك
+      </p>
+
+      <p n="Prominent Courtier Diagnoses Dimna as Traitor">
+        وكان رأس
+        <lb/>
+
+        الخنازير حاضرًا فقال دمنة مُعرّضًا به من كان أنفه
+        <lb/>
+
+        مائلًا نحو شدقه الأيمن وهو إذا مشى فعاته نظره إلى الأرجل
+        <lb/>
+
+        فذلك الذي يحدّث نفسه بالغدر والمكر والخديعة
+      </p>
+
+      <p n="Courtier Is Outraged">
+        قال
+        <lb/>
+
+        رأس الخنازير إليّ تقصد بهذه المقالة وإيّاي تعني بهذه
+        <lb/>
+
+        الإشارة
+      </p>
+
+      <p n="Dimna Calls Courtier Filthy and Leprous and">
+        قال دمنة نعم بحقٍّ أقول أيّها القذر
+        <lb/>
+
+        القبيح الخلقة الذي في أسته الناسور الأقعد الأرجل
+        <lb/>
+
+        الأحمق الأرذل المتدلّي الخصيّتين العظيم البطن الأفلج الصدر
+        <lb/>
+
+        الجهول
+      </p>
+
+      <p n="Courtier Is Reduced to Tears">
+        فلمّا سمع رأس الخنازير ذلك تغيّر لونه واستحيا
+        <lb/>
+
+        وخجل واعتقل لسانه واستكان
+      </p>
+
+      <p n="Dimna Calls Courtier Unfit for Court">
+        فقال دمنة حين رأى
+        <lb/>
+
+        انكساره ينبغي لك أن تهتمّ لعملك فإنّ الملك رأى من
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

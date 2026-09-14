@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>VAF298</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="42"/>
+
+      <p n="unassigned">
+        الكذوب
+      </p>
+
+      <p n="Philosopher's Response and Story Introduction">
+        قال بيدباه الفيلسوف إذا ابتلي الرجلين المتحابّين بمن يجري
+        <lb/>
+
+        بينهما بالمحال تقاطعا وفسد ما بينهما
+      </p>
+
+      <p n="Setting: Wealthy Merchant and His Sons">
+        فمن ذلك أنّه كان بأرض سبابك
+        <lb/>
+
+        تاجر مكثر وكان له أولاد
+      </p>
+
+      <p n="Sons' Mismanagement of Wealth">
+        فلمّا أدركوه شرعوا في مال أبيهم ولم يحترفوا عليه
+        <lb/>
+
+        حرفة يكسبون منها شيئًا ؟فقلادهم وألزمهم على ذلك ووعظهم
+      </p>
+
+      <p n="Father's Advice: Three Pursuits and Four Necessities">
+        وقال
+        <lb/>
+
+        يا بنيّ إنّ صاحب الدنيا يطلب منها ثلاثة فلا يدركها إلّا بأربعة من الخصال
+      </p>
+
+      <p n="Three Worldly Pursuits">
+        فأمّا الثلاثة التي يطلبها فالسعة في المعيشة والمنزلة في الناس والزاد
+        <lb/>
+
+        للآخرة
+      </p>
+
+      <p n="Four Necessities for Achieving Pursuits">
+        وأمّا الأربعة التي يحتاج إليها وبها ينال الثلاثة فاكتساب المال
+        <lb/>
+
+        من أحسن وجوهه ثمّ القيام الحسن على ما كسب ثمّ التمييز له ثمّ إنفاقه فيما
+        <lb/>
+
+        يصلح به حاله ويرضى به إلهه والإخوان ويعود عليه في الآخرة نفعه
+      </p>
+
+      <p n="Sons' Acceptance of Father's Advice">
+        ثمّ إنّ
+        <lb/>
+
+        أولاد التاجر اتّعظوا وعملوا برأي أبيهم
+      </p>
+
+      <p n="Eldest Son's Journey and Ox Cart Incident">
+        فانطلق أكبرهم نحو أرض يُقال
+        <lb/>
+
+        لها منور فأتى في طريقه على مكان فيه وحل كثير وكانت معه عجلة يجرّها
+        <lb/>
+
+        ثوران يسمّى أحدهما شيزبه والآخر بيدبه
+      </p>
+
+      <p n="Ox Getting Stuck in Mud">
+        فوحل شيزبه في ذلك الوحل
+        <lb/>
+
+        فجهد فيه ليخلصه حتّى أخرجه
+      </p>
+
+      <p n="Merchant Leaving a Man to Care for the Ox">
+        وخلف عنده رجل يقوم عليه فإذا أصبح
+        <lb/>
+
+        يتّبعه به
+      </p>
+
+      <p n="Description of the Caretaker's Actions">
+        فلمّا أصبح الرجل يبرم بمكانه وترك الثور ولحق بالرجل التاجر
+        <lb/>
+
+        وأخبره أنّ الثور قد مات
+      </p>
+
+      <p n="Ox's Journey to a Lush Meadow">
+        ثمّ إنّ الثور انبعث من مكانه فلم يزل حتّى انتهى
+        <lb/>
+
+        إلى مرج أفيح مخصب كثير الماء
+      </p>
+
+      <p n="Ox's Physical Transformation and Attitude Change">
+        فلم يلبث أن حمل شحمًا ولحمًا فأشر وبطر
+      </p>
+
+      <p n="Ox's Loud Bellowing and Behavior">
+        فجعل يخور ويرفع صوته بالخوار ويبحث الأرض بقرنيه
+      </p>
+
+      <p n="The Lion and His Animal Subjects">
+        وكان بالقرب
+        <lb/>
+
+        منه أسد قد ملك تلك الناحية ومعه سباع كثير من الذئاب والثعالب
+        <lb/>
+
+        وبنات آوى وغير ذلك
+      </p>
+
+      <p n="Lion's Overconfidence and Poor Judgment">
+        وكان الأسد يزهي بنفسه منفردًا برأيه وكان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

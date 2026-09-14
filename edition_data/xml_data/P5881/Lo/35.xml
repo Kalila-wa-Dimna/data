@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="35"/>
+
+      <p n="Chapter Title">
+        باب الأسد والثور
+      </p>
+
+      <p n="King's Request for a Parable">
+        قال ديلم ملك الهند لبيدبا رأس الفلاسفة إضرب لي مثل الرجلين المتحابّين كيف
+        <lb/>
+
+        يقطع بينهما الكذوب والخؤون ويحملهما على العداوة والشتات
+      </p>
+
+      <p n="Philosopher's Response and Story Introduction">
+        قال بيدبا الفيلسوف
+        <lb/>
+
+        إذا ابتلا الرجلين المتحابّين وجرى بينهما الخؤون الكذوب تقاطعا وتدابرا
+      </p>
+
+      <p n="Setting: Wealthy Merchant and His Sons">
+        ومن أمثال ذلك أنّه كان بأرض بساتر تاجرًا وكان مكثرًا وله بنون
+      </p>
+
+      <p n="Sons' Mismanagement of Wealth">
+        فلمّا كبروا أسرعوا
+        <lb/>
+
+        في ماله فلاقاهم ولامهم على ذلك ووعظهم
+      </p>
+
+      <p n="Father's Advice: Three Pursuits and Four Necessities">
+        وكان فيما قال لهم يا بنيّ إنّ صاحب الدنيا يطلب
+        <lb/>
+
+        ثلاثة أمور ولا يدركها إلّا بأربعة أشياء
+      </p>
+
+      <p n="Three Worldly Pursuits">
+        أمّا ما يلتمس فهو السعة في المعيشة والمنزلة في
+        <lb/>
+
+        الناس والزاد في الآخرة
+      </p>
+
+      <p n="Four Necessities for Achieving Pursuits">
+        وأمّا الذي يحتاج إليها في دركها فاكتساب المال من وجهه
+        <lb/>
+
+        وحسن القيام عليه وإنفاقه فيما يصلح المعيشة ويرضي الأهل والإخوان وما يعود
+        <lb/>
+
+        عليه في الآخرة نفعه
+      </p>
+
+      <p n="Failure to Achieve Goals Without Proper Management">
+        فمن أضاع ذلك لم يدرك ما أراد وإن هو لم يكتسب لم يكن له مال
+        <lb/>
+
+        ولم يعش به
+      </p>
+
+      <p n="Consequences of Poor Financial Management">
+        وإن كان ذا مالٍ واكتسابٍ ثمّ لم يحكم تقديره يوشك أن يفنى ولا يبقى
+      </p>
+
+      <p n="Analogy of Rapidly Depleting Kohl">
+        وليس
+        <lb/>
+
+        له مثل إلّا الآل الذي لا يوجد منه إلّا مثل الهناء وهو مع ذلك سريعٌ فناؤه
+      </p>
+
+      <p n="Consequences of Miserliness and Mismanagement">
+        وإن هو
+        <lb/>
+
+        اكتسب وأصلح ثمّ أمسك عن وضعه في أبوابه كان ممنًا فقيرًا ثمّ لم يمنع ذلك ماله من
+        <lb/>
+
+        أن يفارقه ويذهب حيث لا يريد
+      </p>
+
+      <p n="Sons' Acceptance of Father's Advice">
+        ثمّ إنّ بني التاجر اتّعظوا من كلام أبيهم وأخذوا برأيه
+      </p>
+
+      <p n="Eldest Son's Journey and Ox Cart Incident">
+        وانطلق كبيرهم إلى أرض يقال لها سيورا فأتى على طريقه بمكان شديد الوحل ومعه
+        <lb/>
+
+        عجلة يجرّها ثوران يدعى أحدهما شتربة والآخر بيده
+      </p>
+
+      <p n="Ox Getting Stuck in Mud">
+        فوحل شتربه فاستخرجه هو وأعوانه
+        <lb/>
+
+        من بعد ما بلغه من الجهد مبلغ وأشرف على الهلاك
+      </p>
+
+      <p n="Merchant Leaving a Man to Care for the Ox">
+        ثمّ خلف عنده رجلًا وأمره أن يقوم عليه
+        <lb/>
+
+        ويحسن إليه فلمّا رآه قد أبل لحق به
+      </p>
+
+      <p n="Description of the Caretaker's Actions">
+        وتركه على حاله وأسرع إلى بيدبا وأخبره أنّه قد مات
+      </p>
+
+      <p n="Ox's Realization of Being Alone">
+        وإنّ شتربة التفت يمينًا ويسارًا ولم ير أحدًا
+      </p>
+
+      <p n="Ox's Encounter with Inevitable Fate">
+        فخاف أن يصيبه في ذلك المكان من العرض الذي
+        <lb/>
+
+        لم يكن ليخطئه سبيلًا
+      </p>
+
+      <p n="First Subtable of Man and Wolf (Second Beginning)">
+        فإنّهم زعموا أنّ رجلًا كان يجزّ حشيشًا فقصده ذئب ليأكله فلم
+        <lb/>
+
+        ينظر إليه حتّى دنا منه
+      </p>
+
+      <p n="Man's Escape Attempt from the Wolf">
+        فلمّا رآه اشتدّ وجله وخرج هاربًا حتّى أتى قريةً على شاطئ نهرٍ
+        <lb/>
+
+        فلمّا انتهيا إلى النهر وجد عليه قنطرة مكسورة وزهقه الذئب
+      </p>
+
+      <p n="Man's Dilemma at the River">
+        فقال كيف أصنع الذئب
+        <lb/>
+
+        يتلوني والنهر عميق والقنطرة مكسورة وأنا لا أحسن السباحة فأفضل لي الماء أن أقع
+        <lb/>
+
+        فيه
+      </p>
+
+      <p n="Man Jumping into the River and Rescue">
+        ففعل ذلك فرآه أهل القرية فأرسلوا من استخرجه وقد أشرف على الهلكة
+      </p>
+
+      <p n="Man Resting Against a Wall">
+        ثمّ أتوا به
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

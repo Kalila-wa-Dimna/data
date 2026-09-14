@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="148"/>
+
+      <p n="The Woman's Servant Hears About Coat">
+        عبد للمرأة فعجب من ذلك
+      </p>
+
+      <p n="Woman's Servant Borrows Coat In Painter's Absence">
+        وكان هذا العبد لأمة المصوّر خليلًا
+        <lb/>
+
+        تبذل له نفسها فطلب الملاءة منها وسألها ذلك وقال أريد
+        <lb/>
+
+        أن أريها صديقًا لي لأسرّه بها وأسرع الكرّة بردّها قبل أن
+        <lb/>
+
+        يعلم سيّدك فأعطته أمة المصوّر الملاءة
+      </p>
+
+      <p n="Servant Tricks Woman">
+        فلبسها العبد
+        <lb/>
+
+        وأتى سيّدته على نحو ما كان يأتيها المصوّر فلمّا رأته لم تشكّ
+        <lb/>
+
+        في مجيئه ولم ترتبْ في أنّه خليلها فأتت إليه وبذلت له نفسها فقضى
+        <lb/>
+
+        منها حاجته وبلغ غرضه ثمّ رجع بالملاءة إلى أمة المصوّر فدفعها
+        <lb/>
+
+        إليها فوضعتها الأمة في مكانها
+      </p>
+
+      <p n="Lover Realizes She Was Tricked">
+        وكان المصوّر عن بيته
+        <lb/>
+
+        غائبًا فلمّا هدأ الليل رجع إلى بيته فلبس الملاءة على عادته
+        <lb/>
+
+        وتراءى للمرأة فلمّا رأته دنت منه فقالت له لقد أسرعت الرجعة
+        <lb/>
+
+        ألم تكنْ عندي وقضيت حاجتك فماذا العود فلمّا سمع المصوّر كلامها
+        <lb/>
+
+        خبثت نفسه ولطم على رأسه ورجع إلى منزله
+      </p>
+
+      <p n="The Lover's Servant Confesses">
+        فدعا جاريته
+        <lb/>
+
+        فخوّفها وتواعدها بالضرب أو لتخبرنّه بالحقيقة فأخبرته فأحرق
+        <lb/>
+
+        المصوّر الملاءة مكانها
+      </p>
+
+      <p n="Dimna Opposes Acting Upon Doubt">
+        وإنّما ضربت لكم هذا المثل لتعلموا
+        <lb/>
+
+        أنّ الشبهة مأثمة
+      </p>
+
+      <p n="The Mother Is Amazed by Dimna's Verbosity">
+        فقالت أمّ الأسد لقد عجبت منك أيّها
+        <lb/>
+
+        المحتال لقلّة حيائك وسرعة جوابك
+      </p>
+
+      <p n="Dimna Calls the Mother Biased">
+        قال دمنة لأمّ
+        <lb/>
+
+        الأسد لأيّ حال تنظرين بعين واحدة وتسمعين بأذن واحدة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

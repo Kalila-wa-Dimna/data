@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="52"/>
+
+      <p n="One Should Strive for Benefit Not Harm">
+        غيًّا
+      </p>
+
+      <p n="Dove Does Not Learn from Losing Her Chicks">
+        كان مثاله كالدجاجة الذي تفرّخ وترى أولادها يُؤخذوا
+        <lb/>
+
+        إلى الذبح ولا يمنعها أن تعود تفرّخ في موضعها وتقيم في
+        <lb/>
+
+        مكانها وتُؤخذ أفراخها مرّة أخرى
+      </p>
+
+      <p n="Striving for the Here and the Hereafter">
+        ويُقال إنّ من كان
+        <lb/>
+
+        سعيه لآخرته ودنياه فحياته له وعليه
+      </p>
+
+      <p n="Striving for the Here">
+        ومن كان سعيه
+        <lb/>
+
+        لدنياه خّاصة فحياته عليه لا له
+      </p>
+
+      <p n="Striving for the Hereafter">
+        ومن كان سعيه لآخرته
+        <lb/>
+
+        فحياته له
+      </p>
+
+      <p n="A Worldly Man Must Fix Three Things">
+        ويُقال إنّ ثلاثة أشياء واجبة على بني بني آدم
+        <lb/>
+
+        الاهتمام في اصطلاح معيشته والثاني لا يسرف ولا
+        <lb/>
+
+        يقتّر والثالث ينتج ذكر جميل يذكروه بعد فنائه
+      </p>
+
+      <p n="Three Things in a Man Engender Inefficiency">
+        ويُقال
+        <lb/>
+
+        ثلاثة أشياء يجب أن بني آدم يبعد عنها الأولى التواني في
+        <lb/>
+
+        الأمور والثاني تضييع الفكر والثالث صداقة فاشي السرّ
+      </p>
+
+      <p n="One Needs to Keep Desire in Check">
+        فيجب على العاقل أن يعرف ذلك معرفة خبير ويكون متيقّظًا
+        <lb/>
+
+        لما ذكرناه
+      </p>
+
+      <p n="One Needs to Check the Veracity of Information">
+        ولا يغترّ بقول أحد ولا ينهزم من شيء أصلًا ولا
+        <lb/>
+
+        ولا يهجم على شيء ليس بمخبور حتّى يتبيّن الصواب ويستوضح
+        <lb/>
+
+        الحقيقة
+      </p>
+
+      <p n="Man Rubs Itchy Eye and Loses It">
+        فإن خالف يكون كالرجل الذي ركبت الحرارة لعينيه
+        <lb/>
+
+        فلا زال يحكّها ويحكّها حتّى ربّما كان ذلك سببًا لهلاكها
+      </p>
+
+      <p n="The Intelligent Should Believe in Fate">
+        ويجب على العاقل أن يرتضي بالقضاء والقدر ويأخذ بالحزم
+      </p>
+
+      <p n="Do unto Other as to Oneself">
+        ويحبّ للناس كما أنّه يحبّ لنفسه ويكره لهم ما يكرهه
+        <lb/>
+
+        لنفسه ولا يصلح ذاته بفساد غيره
+      </p>
+
+      <p n="A Merchant Steals from His Partner">
+        فإنّ من يعمل ذلك كان
+        <lb/>
+
+        خليقًا أن يصيبه ما أصاب تاجر الدقيق زعموا أنّه كان رجلان
+        <lb/>
+
+        اشتركا في دقيق على حانوت طاحون استأجروه وكان أحدهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

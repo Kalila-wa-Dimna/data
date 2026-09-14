@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="92"/>
+
+      <p n="Everyone Should Say Only What They Know">
+        والباطل يصيبه في ذلك ما أصاب البازدار الذي قال لمولاه عن مولاته إنّي رأيتها
+        <lb/>
+
+        مع رجل يصنع معها الفاحشة
+      </p>
+
+      <p n="Head of Court Requests Tale">
+        قال القاضي وكيف كان ذلك
+      </p>
+
+      <p n="Marzuban Had Wife and Servant">
+        قال دمنة زعموا أنّ
+        <lb/>
+
+        مرزبانًا كان بمدينة من مدائن الهند يقال له مذكور وكانت له امرأة حسناء جميلة عاقلة
+        <lb/>
+
+        لبيبة وكان لها عبدًا بازدار
+      </p>
+
+      <p n="Falconer Accosted Wife and Is Rejected">
+        فهوى بها وعرض لها مرارًا وكَلّ ذلك وهي لا تلتفت
+        <lb/>
+
+        إليه ولحّ عليها في ذلك فلم تسأل عنه
+      </p>
+
+      <p n="Falconer Decides to Take Revenge">
+        فلمّا رأى ذلك وعلم أنّها لا تطاوعه أجمع لها في
+        <lb/>
+
+        الحيلة
+      </p>
+
+      <p n="Falconer Teaches Parrots False Accusation in Foreign Tongue">
+        فخرج البازدار يومًا للصيد فأصاب فرخيْ ببغّاء وكان لهما وكرًا فأخذهما
+        <lb/>
+
+        وجعل يعلّم أحدهما أن يقول رأيت البوّاب مضاجعًا سيّدتي على فراش سيّدي وعلّم
+        <lb/>
+
+        الآخر أمّا أنا فلست بقائل شيء قال فلم يزل يعلّمهما ذلك حتّى حفظاه قال فلمّا حفظا
+        <lb/>
+
+        ذلك بلسان البلخيّة ولم يكد أهل بلاده يعرفونها
+      </p>
+
+      <p n="Falconer Gives Parrots to Marzuban">
+        فلمّا كان ذات يوم وسيّده يشرب
+        <lb/>
+
+        وعنده زوجته إذ أتاه العبد بهما فصاحا فأعجب الرجل بكلامهما ولم يدري ما
+        <lb/>
+
+        يقولان
+      </p>
+
+      <p n="Marzuban Gives Parrots to Wife">
+        فأمره بالاحتفاظ بهما والإحسان إليهما ففعل ذلك فأقاما على ذلك شهرًا
+      </p>
+
+      <p n="Marzuban Hosts Foreign Guests">
+        ثمّ إنّه قدم إليه أناس من عظماء أهل بلخ فصنع لهم طعامًا وشرابًا فدعا بالوافدين عليه
+        <lb/>
+
+        ودعا بالطائرين وأراد أن يفتخر عليهما بالطائرين فصاحوا بالكلام الذي علّمهم
+        <lb/>
+
+        العبد
+      </p>
+
+      <p n="Foreign Guests Understand Parrots">
+        فلمّا سمع القوم صياحهم نكّسوا رؤوسهم حياء منه وجعل بعضهم ينظر إلى بعض
+        <lb/>
+
+        فقال لهم ما أعلم ما يقولون غير أنّي يعجبني كلامهم
+      </p>
+
+      <p n="Foreigners Ask Whether Marzuban Understands Parrots/He Asks Them">
+        فقال له رجل من القوم لا تأخذ
+        <lb/>
+
+        عليّ فيما أخبرك به من قولهما قال وما ذاك فأخبرني به
+      </p>
+
+      <p n="Foreigners Translate Parrots' Words, Refuse Meal in House of Sin">
+        قال إنّهما يتكلّمان بلسان البلخيّة
+        <lb/>
+
+        فقال له أخبرني بذلك فقال أمّا أحدهما فإنّه يقول رأيت البوّاب مع سيّدتي على فراش
+        <lb/>
+
+        سيّدي والآخر يقول أمّا أنا فلست أقول شيئًا ونحن من شأننا أنّا لا نأكل طعام من امرأته
+        <lb/>
+
+        فاجرة
+      </p>
+
+      <p n="Falconer Confirms Parrots' Accusations">
+        قال فلمّا سمع ما قال القوم من هذه المقالة قال البازدار من موضع قريب منهم
+        <lb/>
+
+        وأنا أشهد أيضًا أنّي قد رأيتهما معه مرارًا كثيرة
+      </p>
+
+      <p n="Marzuban Orders Wife to Be Killed">
+        قال فأمر الرجل بالمرأة أن تُقتل
+      </p>
+
+      <p n="Wife Asks Him to Investigate">
+        فأُدخلت
+        <lb/>
+
+        إليه وهي تقول لا تعجل في أمري وإنّي بريئة من ذلك وافحص عن هذا الأمر فإنّه يظهر لك
+        <lb/>
+
+        باطنه خلاف ظاهره وأمر القوم أن يسألوا الطائرين عن غير هذا الكلام من أيّ كلام
+        <lb/>
+
+        اخترته
+      </p>
+
+      <p n="The Parrots Will Turn Out to Be Trained">
+        فإن علموه فدمي لك حلال فإن لم يكن هاتين الكلمتين فإنّ هذا من تعليم المحتال
+        <lb/>
+
+        الذي راودني عن نفسي مرارًا وطلب الفاحشة منّي فامتنعت منه ولم أفعل له ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BE00360</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="214"/>
+
+      <p n="Chapter Title">
+        باب الناسك والضيف
+      </p>
+
+      <p n="King Understood Last Chapter">
+        قال دبشليم الملك لبيدبا الفيلسوف قد فهمت ما ذكرت فأخبرني
+        <lb/>
+
+        عن الذي يدع عمله الذي يليق به ويطلب ما سواه فلا
+        <lb/>
+
+        يقدر عليه فيبقى حيران يتردد
+      </p>
+
+      <p n="Story Ascetic Guest">
+        قال الفيلسوف زعموا
+        <lb/>
+
+        أنه كان بأرض الكرج ناسك متعبّد فنزل به ذات
+        <lb/>
+
+        يوم ضيف فدعا الناسك بتمر ليطرف به الضيف وجلسا
+        <lb/>
+
+        يأكلان جميعا
+      </p>
+
+      <p n="Guest Praise Dates">
+        قال الضيف ما أحلا هذا التمر وأطيبه
+      </p>
+
+      <p n="No Palm Trees At Home">
+        ليت في بلادي
+        <lb/>
+
+        التي أنا ساكنها من نخل هذه التمرات
+      </p>
+
+      <p n="Enough Good Fruit At Home">
+        مع أني لست راغبًا فيه
+        <lb/>
+
+        لكثرة مضارّه ووخامته وقلّة منفعته
+      </p>
+
+      <p n="Dont Seek Unattainable">
+        قال الناسك أنه
+        <lb/>
+
+        لا يعدّ حكيمًا سعيدًا من احتاج إلى ما لم يوجد وليس هو بمقدور
+        <lb/>
+
+        عليه إذا لم تنله المشقة فيه
+      </p>
+
+      <p n="Be Satisfied With What You Have">
+        وأنت حكيم الفهم سعيد في فعالك
+        <lb/>
+
+        إن قنعت بما تجده
+      </p>
+
+      <p n="Mention Crow Story">
+        ولست أعرف لك مثلًا إلّا مثل الغراب
+        <lb/>
+
+        الذي وقع فيما لا يعرفه له به فأخطأه ونسى ما كان يحسن
+      </p>
+
+      <p n="Guest Request Crow Story">
+        قال الضيف وكيف كان ذلك
+      </p>
+
+      <p n=". Crow Story Intro">
+        قال الناسك زعموا أنّ
+        <lb/>
+
+        غرابًا رأى حجلة تدرج فأعجبه مشيها فطمع أن يتعلّمه
+        <lb/>
+
+        وروّض نفسه فلم يقدر عليه وأيس وعدل عنه
+      </p>
+
+      <p n=". Crow Lost Original Walk">
+        وأراد بذلك
+        <lb/>
+
+        الغراب إلى أن يرجع مشيته الأولى التي كان يحسنها فنسيه
+        <lb/>
+
+        ولم يستطع
+      </p>
+
+      <p n=". Crow Ugly Gait">
+        وتخلّع في مشيته وصار أقبح الغربان مشيًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="29"/>
+
+      <p n="God Made Kisra Superior">
+        وبلاده
+      </p>
+
+      <p n="Kisra Surpasses Prior Kings">
+        فكسرى بن قتاد كان المزيّن بزينة بزينة البهاء الفاضل
+        <lb/>
+
+        الماجد الورع الرشيد السعيد الذي لم يعادله أحد ممّن يمضي
+        <lb/>
+
+        قبله من الملوك ملوك الفرس الناقد البصير الكامل الأديب المعينة
+        <lb/>
+
+        له نفسه على فروع الحكمة المستضئ بنور العقل وجودة الفكر
+      </p>
+
+      <p n="Subjects And Kings Obey Kisra">
+        وكان الله عزّ وجل اختصّه بهذه الخصال وزيّنه بزينة الكواكب
+        <lb/>
+
+        وتوحّد بهذه النعمة إذا استوثقت له الرعيّة وصفت له البلاد
+        <lb/>
+
+        وأذعن له العباد وانقاد له الملوك وركنوا إلى طاعته ومناصحته
+        <lb/>
+
+        وذلك من الله نعمة سابغة قسّمها له في دولته وحياة مملكته
+      </p>
+
+      <p n="Kisra Hears Of Indian Book">
+        فبينما هو في عزّ شأنه ونهاية سلطانه إذ بلغه أنّ في الهند كتابًا
+        <lb/>
+
+        من تأليف الحكماء
+      </p>
+
+      <p n="The Book Has Animals">
+        قد نضّدت أبوابه وأتقنت عجائبه على ألسنة
+        <lb/>
+
+        البهائم والطير والوحش والسباع والأنام والهوامّ
+        <lb/>
+
+        وسائر الوحوش حشاش الأرض
+      </p>
+
+      <p n="Kings Need The Book">
+        فيما يحتاج إليه الملوك في سياسة
+        <lb/>
+
+        رعاياها وتدبيرها الذين لا قوام لهم إلّا بحسن سياسة الملوك
+        <lb/>
+
+        وسعة أخلاقها ورأفتها ورحمتها
+      </p>
+
+      <p n="Kisra Desires The Book">
+        ولذلك لم يدع أنوشروان
+        <lb/>
+
+        كسرى اقتناء الكتاب الذي بلغه عنه أنّه ببلاد الهند
+        <lb/>
+
+        والعمل بحسن تدبيره وعجائبه ممّا يقرّب إلى الله عزّ وجلّ ويزجر
+        <lb/>
+
+        عن معاصيه
+      </p>
+
+      <p n="Kisra Ponders Who To Assign">
+        فلمّا أن عزم على ما أراد من أمره وهمّ باقتناء كليلة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

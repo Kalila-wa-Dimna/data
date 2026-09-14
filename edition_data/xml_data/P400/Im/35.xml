@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="35"/>
+
+      <p n="Man Notices Burglar but Feigns Sleep">
+        علمه لم ينتفع به مثله مثل الرجل الذي يُقال إنّه دخل عليه سارقًا في
+        <lb/>
+
+        منزله ليلًا فانتبه وعلم بمكانه فقال لأسكتنّ عنه لأنظر ما يصنع ولأدعنّه
+        <lb/>
+
+        إذا فرغ ممّا يأخذ قام إليه فنغّصت ذلك وكدّرته فسكت عنه
+      </p>
+
+      <p n="Burglar Steals and Gets Away">
+        فجعل
+        <lb/>
+
+        السارق يطوف في البيت ويجمع المتاع وطال ترداده في ذلك البيت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

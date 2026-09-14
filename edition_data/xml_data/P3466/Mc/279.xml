@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="279"/>
+
+      <p n="The Philosopher Responds that Emotions Change">
+        قال الفيلسوف إنّ العداوة والولاية والمودّة والبغض
+        <lb/>
+
+        ليس كلّها تدوم وتثبت وكثير من المودّة ربّما يتحوّل بغضًا وكثير
+        <lb/>
+
+        من البغض يتحوّل مودّة عند حوادث العلل ومعارض الأمور
+      </p>
+
+      <p n="The Intelligent Adapts to Situations">
+        وذو الرأي يحدث لكلّ حادث من ذلك رأيًا ويعدّ له
+        <lb/>
+
+        عدّته عند الطمع فيما قبل العدوّ واليأس بما عند الصديق
+      </p>
+
+      <p n="Enmity Must Not Stop One from Requesting Help">
+        ولا يمنع ذا العقل عداوة كانت في نفسه لعدوّه من مقاربته والتماس
+        <lb/>
+
+        ما عنده إذا طمع منه في دفع مخوف أو إجرار نفع ويُعمل الرأي
+        <lb/>
+
+        في إحداث المواصلة والموادعة
+      </p>
+
+      <p n="The Resolute Attains His Need">
+        ومن أعمل رأيه في ذلك وأخذ
+        <lb/>
+
+        بالحزم ظفر فيه بحاجته وخلص من ورطته
+      </p>
+
+      <p n="The Parable of the Cat and Rat Is Invoked">
+        ومن أمثال ذلك مثل
+        <lb/>
+
+        الجرذ والسنّور الذين اصطلحا حين وقعا في الورطة والشدّة وكان
+        <lb/>
+
+        في ذلك خلاصهما جميعًا ممَّا وقعا فيه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

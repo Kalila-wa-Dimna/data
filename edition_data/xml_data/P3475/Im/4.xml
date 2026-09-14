@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="4"/>
+
+      <p n="Discoverer Hires Help">
+        فقال في نفسه إن أنا أخذت الآن في نقل ما هنا ألقيت لنفسي عملًا
+        <lb/>
+
+        طويلًا ولم أحرز منه إلّا يسيرًا ولكنّي أستأجر رجالًا يحملونه إلى منزلي
+      </p>
+
+      <p n="Helpers Take Treasure">
+        فأتى
+        <lb/>
+
+        يستعين بهم فأخذ كلّ واحد منهم ما أطاق وتركوه وانطلقوا
+        <lb/>
+
+        إلى منازلهم بعد الفراغ منه
+      </p>
+
+      <p n="Discoverer Loses Treasure">
+        فلم يجد لهم خبرًا وإنّ كلّ واحد منهم
+        <lb/>
+
+        قد حاز ما حاز وحمل لنفسه وأخذه وذهب ولم يكن له غير
+        <lb/>
+
+        العناء والتعب في استخراج الكنز
+      </p>
+
+      <p n="Readers Should Read Carefully and Reflect">
+        فليس ينبغى لأحد أن يجاوز شيئًا
+        <lb/>
+
+        حتّى يُحكمه ويتثبّت فيه وفي قراءته وفهمه ومعرفة معانيه
+        <lb/>
+
+        ما أُودع لهم من العلم فيه فيضع إذًا كلّ شيء في موضعه
+        <lb/>
+
+        وينسبه إلى معناه وما أريد به
+      </p>
+
+      <p n="Readers Should Look for Hidden Meaning">
+        ولا يقع في نفسه أنّه إذا
+        <lb/>
+
+        أحكم قراءته وعرف ظاهر القول فيه يكون قد فرغ ممّا ينبغي
+        <lb/>
+
+        له منه
+      </p>
+
+      <p n="A Nut Has to Be Cracked">
+        كما أن رجلًا لو أُتي بجوز صحاح في قشوره لم ينتفع به
+        <lb/>
+
+        حتّى يكسره ويستخرج ما فيه
+      </p>
+
+      <p n="Readers Should Extract Hidden Meaning">
+        وعليه أن يلتمس علم ذلك
+      </p>
+
+      <p n="Man Acquires Yellow Folio">
+        ولا يكون كالرجل الذي بلغني عنه أنه طلب شيئًا من العلم فأتى صديقًا
+        <lb/>
+
+        له ومعه صحيفة صفراء فسأله أن يكتب له فيها علم العربيّة
+        <lb/>
+
+        فكتب له فيها
+      </p>
+
+      <p n="Man Memorizes from Yellow Folio">
+        وانطلق إلى منزله وجعل يقرأها وهو لا يدري
+        <lb/>
+
+        مغاناها وظنّ أنّه بالقراءة قد أحكم ما فيها
+      </p>
+
+      <p n="Man Reads from Yellow Folio and Errs">
+        ثم أنّه تكلّم في بعض
+        <lb/>
+
+        المجالس وفيه علماء أهل الأدب والفصاحة فقال له بعضهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

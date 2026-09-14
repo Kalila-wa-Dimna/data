@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="265"/>
+
+      <p n="King Must Know Everyone">
+        الذي يستقيم بالعمل أن يكون الملك عالمًا بأمور كثيرة ممّن يريد
+        <lb/>
+
+        الاستعانة به وما عند كلّ رجل من الرأي وما فيه من العيوب
+      </p>
+
+      <p n="King Must Choose Suitable People">
+        فإن
+        <lb/>
+
+        استفرد ذلك وتحفّظ أن يوجّه إلّا من لا يحتاج إلى مروان وإن كانت
+        <lb/>
+
+        عنده ولا يأمر فيه بما يكره منه
+      </p>
+
+      <p n="King Must Reward and Punish">
+        ثمّ عليه بعد ذلك تعهّد عمّالهم وفقد أمورهم
+        <lb/>
+
+        حتّى لا يخفى عليه إحسان محسن ولا إساءة مسيء ولا يترك محسنًا بغير جزاء
+        <lb/>
+
+        ولا يقرّ مسيئًا ولا عاجزًا على ما هو عليه من ذلك
+      </p>
+
+      <p n="Lack of Assessment Damages">
+        فإنّه إن فعل ذلك
+        <lb/>
+
+        تهاون المحسن وتجرّأ المسيء وفسد الأمور وضاع
+      </p>
+
+      <p n="Philosopher Mentions Parable">
+        والمثل في ذلك
+        <lb/>
+
+        مثل الأسد وابن آوى قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="Philosopher Tells of Pious Jackal">
+        قال
+        <lb/>
+
+        الفيلسوف زعموا أنّه كان ببعض بلاد الهند ابن آوى وكان
+        <lb/>
+
+        دائنًا له ويعفف وكان معه الذئاب والثعالب ولا يصنع كما يصنعن
+        <lb/>
+
+        ولا يهرق دمًا ولا يأكل لحمًا
+      </p>
+
+      <p n="Pack Denounces Jackal">
+        فخاصمه السباع وقلن له إنّا لا نرضى بسيرتك
+        <lb/>
+
+        ولا برأيك الذي أنت عليه مع أنّ هذا لا يغني عنك شيئًا وأنت لا تستطيع
+        <lb/>
+
+        أن تكون إلّا كأحدنا تصحبنا وتسامعنا فلأيّ شيء تترك اللحم
+      </p>
+
+      <p n="Jackal Is not Accountable for Pack's Actions">
+        فقال ابن آوى
+        <lb/>
+
+        إنّ صحبتي إيّاه ىم لا تنفع
+      </p>
+
+      <p n="Sins Depend only on One's Actions">
+        فإنّ الأيّام ليس من قبل الإمام ولا الأصحاب ولكنّها
+        <lb/>
+
+        من قبل القلوب والأعمال
+      </p>
+
+      <p n="Sin Is Independent from Place">
+        ولو كان صاحب المكان الصالح يكون عمله فيه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

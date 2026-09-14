@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="191"/>
+
+      <p n="Kalila's Conditional Approval">
+        قد أضرّ بنا وبسائر الجند
+      </p>
+
+      <p n="Kalila's Warning">
+        وإن أنت لم تستطع ذلك إلاّ بضرر الأسد فلا تعرّض له
+        <lb/>
+
+        فإنّه غدر منّا ومنك ولؤم
+      </p>
+
+      <p n="Dimna Stays Away from the Lion">
+        ثمّ إنّ دمنة ترك الدخول على الأسد أيّامًا
+      </p>
+
+      <p n="The Lion Asks Dimna About His Absence">
+        ثمّ أتاه على خلوة
+        <lb/>
+
+        متخزّنًا
+      </p>
+
+      <p n="Dimna Hints at Unwelcome News">
+        فقال له الأسد ما حبسك أَخَيرقال دمنة حدث ما لم يكن الملك يريده ولا أنا
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+      </p>
+
+      <p n="Dimna's Preamble on Delivering Unpleasant Advice">
+        قال الأسد وما ذلك
+      </p>
+
+      <p n="The Lion Asks if Something Happened">
+        قال دمنة كلام فظيع قال الأسد فأخبرني به قال دمنة كلام
+        <lb/>
+
+        يكرهه سامعه ثمّ يشجّع عليه قائله فهو من قائله خرق إلّا أن يثق بعقل المقول له ذلك
+        <lb/>
+
+        فأمّا إذا كان المقول له ذلك عاقلًا احتمله واستمعه لأنّه ما كان فيه من نفع فهو للسامع
+        <lb/>
+
+        دون القائل وقلّما يسلم من ضرّه
+      </p>
+
+      <p n="unassigned">
+        وإنّك أيّها الملك ذو فضيلة في الرأي فأنا متشجّع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

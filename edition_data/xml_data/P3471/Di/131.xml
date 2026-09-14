@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="131"/>
+
+      <p n="Kalila Advises Dimna to Confess">
+        قبل أن يدخل أحدٌ فيراني عندك وأنا آمرك أن تعترف بذنبك
+        <lb/>
+
+        وتقرّ بجرمك فإنّك ميّت لا محالة ولئن تقتل في الدنيا بذنبك خيرٌ لك
+        <lb/>
+
+        من عذاب الآخرة الدائم
+      </p>
+
+      <p n="Kalila Goes Home">
+        فانطلق كليله إلى منزله
+      </p>
+
+      <p n="The Mother Calls In Lion's Promise to Act">
+        فدخلت أُمّ الأسد
+        <lb/>
+
+        على الأسد من الغد فقالت تذكّرْ الذي وعدّتني به البارحة
+        <lb/>
+
+        في أمر هذا الفاجر
+      </p>
+
+      <p n="Who Helps Sinners Becomes Their Accomplice">
+        فإنّه كان يُقال إنّ المعين لأهل الإثم على المتّهم
+        <lb/>
+
+        شريكهم فيها
+      </p>
+
+      <p n="Lion Orders Leopard and Judge to Try Dimna">
+        فأمر الأسد خليله وصفيّه المعجب الوَشْي النمر
+        <lb/>
+
+        وسبعًا آخر يُقال له خوانوبان كان ذوا دهاء وتثبّت وهو القاضي
+        <lb/>
+
+        أن يجلسا ويدعوا بدمنة ويُحضر لهم الأمناء ويُفحص عن أمره ويُرفع
+        <lb/>
+
+        إليه الذين يذكرون من أمره وما يجيب به دمنة ولا يُدع شيء
+        <lb/>
+
+        من أمره حتّى يذكر لهم إلّا رُفع إلى الأسد بحقّه وصدقه يومًا بيوم
+        <lb/>
+
+        لتعرف صحّة ما فرّق به من عذره وذنبه
+      </p>
+
+      <p n="Leopard and Judge Convene Trial">
+        فخرج النمر والقاضي
+        <lb/>
+
+        فقعدوا وأُحضر الجند وأُتي بدمنة مغلولًا فوُقف وسط الجماعة
+      </p>
+
+      <p n="Leopard Recalls the Lion’s Sorrow for Killing the Ox">
+        فقال النمر أيّها الجمع اسمعوا فإنّ الملك مُذ قتل شتربة محزونٌ
+        <lb/>
+
+        مغمومٌ يرى أنّه قتله بغير ذنبٍ بنميمة دمنة وكذبه
+      </p>
+
+      <p n="Leopard Calls for Testimony">
+        فمن كان عنده
+        <lb/>
+
+        من أمر دمنة علمٌ فينطق به لنرفعه إلى الملك
+      </p>
+
+      <p n="Due Process Will Be Followed">
+        فإنّ الملك لا يقبل قول أحدٍ
+        <lb/>
+
+        بمحاباةٍ
+      </p>
+
+      <p n="Judge Calls for Testimony on Three Accounts">
+        ثمّ قال القاضي ما تكلّم به الأمير فاتبعوه ولا يكتمن أحدٌ شيئًا
+        <lb/>
+
+        علمه
+      </p>
+
+      <p n="Consequences of Taking Evil Deeds Lightly">
+        ولا تصغّروا صغيرًا فإنّ صغير الحقّ عظيمٌ وأعظم منه عند الله
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

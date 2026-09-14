@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="201"/>
+
+      <p n="Wife Prompts Question From Lover">
+        وقالت له سلني وقل أنا أحبّ إليك أم زوجك وارفع صوتك
+        <lb/>
+
+        ففعل
+      </p>
+
+      <p n="Wife Feigns Surprise">
+        فقالت له وما سؤالك عن هذا الأمر أظننت أنّ أحدًا من الناس
+        <lb/>
+
+        أحبّ إليّ من زوجي أو أكرم عليّ أو أقرّ عندي منه لقد أخطأت
+      </p>
+
+      <p n="Wife Says Lovers Serve Only Pleasure">
+        فإنّا معاشر النساء
+        <lb/>
+
+        لا نحبّ الأخلّاء إلّا لقضاء الشهوة وبلوغ اللذّة
+      </p>
+
+      <p n="Wife Says Husband Is All To Her">
+        فإنّ الزوج للمرأة خير من
+        <lb/>
+
+        الولد والوالد لأنّ كدّه وسعيه إنّما هو لها وعليها وأنا لك وادّة
+      </p>
+
+      <p n="Wife Says She Values Husband">
+        غير أنّ أصنع مريد زوجي ولقد رجله أحبّ إليّ منك
+      </p>
+
+      <p n="Wifes Speech Charms Carpenter">
+        فاستيقظ
+        <lb/>
+
+        الرجل لكلامها وقال إنّي أرى امرأتي شديدة الحبّ إليّ
+      </p>
+
+      <p n="Carpenter Waits Till Wife Awakens">
+        فلمّا
+        <lb/>
+
+        أسحرت أخرجت صديقها وتناومت على السرير فجاءها زوجها فجعل
+        <lb/>
+
+        يروّح عليها
+      </p>
+
+      <p n="Carpenter Forgives Wife">
+        فانتبهت فقال لها يا خليلتي <> فإنّك لم تزالي
+        <lb/>
+
+        معنّاة مثل الليلة
+      </p>
+
+      <p n="Carpenters Story Comment">
+        فمن جهله وقلّة عقله كذّب بما رأت عينه
+        <lb/>
+
+        وصدّق امرأته لهواها
+      </p>
+
+      <p n="Carpenters Story Motivation">
+        وإنّما ضربت لك هذا المثل
+      </p>
+
+      <p n="Suspect A Fawning Foe">
+        لتعلم أنّ الغراب
+        <lb/>
+
+        ليس بأهل أن يُصدّق
+      </p>
+
+      <p n="Objector Expects Trickery From Crows">
+        وإنّ المرء لا يقدر على ضرّ عدوّه إلّا بالقرب إليه
+        <lb/>
+
+        وإنّ الغربان لم يستطعن القرب منّا ولعلّ هذا لنا حلول بلاء
+        <lb/>
+
+        ووقوع محذور
+      </p>
+
+      <p n="Objector Advises Death Again">
+        والرأي للملك قتله وتعجيل ذلك من رأيه فيه
+      </p>
+
+      <p n="King O Ignores Objector">
+        فلم
+        <lb/>
+
+        يلتفت ملك البوم إلى قتله ولا إلي قوله لجهله
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

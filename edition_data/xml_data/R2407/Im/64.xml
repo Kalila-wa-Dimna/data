@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="64"/>
+
+      <p n="Man Notices Burglar but Feigns Sleep">
+        فقال والله لأمسكنّ عنه حتّى أنظر ما يصنع وإذا
+        <lb/>
+
+        بلغ مراده أقوم إليه وأنغّصه وأكدّره
+      </p>
+
+      <p n="Burglar Steals and Gets Away">
+        فجعل السارق
+        <lb/>
+
+        يطوف البيت ويجمع فطال تردّده فحكم صاحب
+        <lb/>
+
+        البيت النعاس فنام ففرغ اللصّ ممّا أراد وأمكنه
+        <lb/>
+
+        حمله
+      </p>
+
+      <p n="Man Discovers Mishap and Laments">
+        فاستيقظ الرجل بعد ذلك فوجد السارق قد
+        <lb/>
+
+        فاز بما أخذ من متاعه
+        <lb/>
+
+        فأقبل يلوم نفسه ويعاتبها وعرف أنّه لم ينتفع
+        <lb/>
+
+        بعلمه باللصّ إذ لم يعامله بما يجب
+      </p>
+
+      <p n="Knowledge Is Complete with Proper Implementation">
+        وقد يُقال إنّ
+        <lb/>
+
+        العلم لا يتمّ إلّا بالعمل
+      </p>
+
+      <p n="Knowledge Is a Tree and Action Is the Fruit">
+        والعلم كالشجرة والعمل الثمرة
+      </p>
+
+      <p n="Scholar Must Act">
+        ومن لم يعمل بما علم من العلم
+      </p>
+
+      <p n="Informed Patient Eats Bad Food">
+        كان كالمريض الذي يعلم
+        <lb/>
+
+        برديء الطعام وجيّده ثمّ يحمله الشره على أكل رديئه
+        <lb/>
+
+        ويدع الاستعمال لما هو أقرب للنجاة والخلوص من علّته
+      </p>
+
+      <p n="Those in the Know Have No Excuse">
+        وأقلّ الناس عذرًا في اجتناب محمود الأفعال وارتكاب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="114"/>
+
+      <p n="Dimna Cites His Courage to Speak at Court as Proof">
+        عنده
+      </p>
+
+      <p n="The Lion's Silence Makes the Mother Doubt">
+        فلمّا رأت أمّ الأسد أنّ الأسد لكلام دمنة غير رادّ عليه شيئًا ممّا
+        <lb/>
+
+        يقول ارتابت وظنّت أنّ الأسد يغترّ ببعض ما يقول دمنة في براءته وعذره
+        <lb/>
+
+        ارتابت
+      </p>
+
+      <p n="Silence in an Argument Means Approval">
+        فقالت إنّ الصمت عن احتجاج الخصم لشبيه بالإقرار بحقيقة ما
+        <lb/>
+
+        يقول ولذلك قالت العلماء أقرّ صامت فخرجت
+      </p>
+
+      <p n="Lion Hands Dimna Over to Judge for Investigation">
+        وأمر الأسد بدمنة أن يُرفع
+        <lb/>
+
+        إلى القاضي بالاستيثاق منه والفحص عن شأنه
+      </p>
+
+      <p n="The Mother Knows about Dimna's Infamy">
+        ثمّ إنّ أمّ الأسد عادت
+        <lb/>
+
+        إلى الأسد فقالت إنّي لم أزلْ أسمع بمكر دمنة ودحسه منذ زمان فحقّق
+        <lb/>
+
+        ذلك عندي ما سمعت من إفكه وافتعاله المعاذير وكثرة مخارجه من
+        <lb/>
+
+        غير صدق قول ولا وضح عذر
+      </p>
+
+      <p n="Dimna Will Lie to Defend Himself">
+        فإنّك إن أمكنته من الكلام دفعك عن
+        <lb/>
+
+        نفسه بمشتبه الحجج الكاذبة
+      </p>
+
+      <p n="The Mother Tells the Lion to Kill Dimna">
+        وفي قتله لك ولجنودك راحة عظيمة فعاجلْ
+        <lb/>
+
+        بقتله ولا تأخذْك فيه هوادة ولا توقعْك في قتله شبهة
+      </p>
+
+      <p n="Courtiers Envy Each Other">
+        قال الأسد
+        <lb/>
+
+        لأمّه إنّ من شأن بطانة الملك وقرابتهم تنافس المنازل بينهم ودخول
+        <lb/>
+
+        الحسد والبغي من بعضهم على بعض في ذلك ثمّ ذو الرأي والنبالة
+        <lb/>
+
+        منهم خاصّة هم المبتلون بذلك
+      </p>
+
+      <p n="Dimna's Position is Subject to Envy">
+        وقد علمت أنّ مكان دمنة يثقل على
+        <lb/>
+
+        غير واحد من أصحابي وأهلي فلست أدري لعلّ الذي أرى وأسمع من
+        <lb/>
+
+        إجماعهم عليه لبعض ذلك
+      </p>
+
+      <p n="The Lion Wants to Avoid Haste">
+        فأنا أكره العجلة في أمره فإنّ العلف الصالح لا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

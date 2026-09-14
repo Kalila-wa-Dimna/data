@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="9"/>
+
+      <p n="The Merchant Steals His Own Bale">
+        يلتمس ويحسّ حتّى وقعت يده على الرداء الذي على السمسم
+        <lb/>
+
+        وهو يرى أنّه كما غطّاه وأنّه سمسم صاحبه وأخذ بعضه
+        <lb/>
+
+        وأعطاه نصفه الآخر
+      </p>
+
+      <p n="The Merchant Notices the Error in the Shop">
+        فلمّا كان من غد جاء هو وشريكه
+        <lb/>
+
+        فدخلا البيت فلمّا رأي الرجل أنّ السمسم الذاهب إنّما هو
+        <lb/>
+
+        سمسمه ورأى سمسم صاحبه على حاله دعا بالويل
+        <lb/>
+
+        وعرف أنّ الذي أخذه الرجل غير الذي كان رداؤه عليه
+      </p>
+
+      <p n="The Merchant Keeps Silent about His Betrayal">
+        فكره أن يذكر شيئًا فيكون معرفة شريكه وغيره بما
+        <lb/>
+
+        كان أشدّ منه عليه من ذهاب السمسم
+      </p>
+
+      <p n="One Must Know When to Halt Pursuit">
+        وإنّما ضربت لك
+        <lb/>
+
+        هذا المثل لتعلم أنّه ينبغي لمن طلب أمرًا أن تكون له غاية
+        <lb/>
+
+        ونهاية يعتمدها ويقف عندها ولا يتمادى في الطلب
+      </p>
+
+      <p n="A Pursuit without a Clear Goal Is Treacherous">
+        فإنّه
+        <lb/>
+
+        يُقال ما جرى إلى غير غاية يوشك أن تنقطع به دابّته
+      </p>
+
+      <p n="One Should Not Seek the Unattainable">
+        وكان
+        <lb/>
+
+        حقيقًا أن لا يعني نفسه بطلب ما لا حدّ له وما لم ينله أحد
+        <lb/>
+
+        قبله
+      </p>
+
+      <p n="The Here Is Not to Be Preferred Over the Hereafter">
+        وأن يكون لآخرته موفرّا على دنياه
+      </p>
+
+      <p n="Detachment Eases Death">
+        فإنّه من قلّ تعلّقه
+        <lb/>
+
+        بالدنيا قلّت حسرته عند فراقها
+      </p>
+
+      <p n="Two Things Suit Everyone">
+        قد قيل في أمرين
+        <lb/>
+
+        يجملان بكلّ واحد منهما النسك ومنها المال
+      </p>
+
+      <p n="Fire Consumes Every Log">
+        وأيضا مثل
+        <lb/>
+
+        ذلك مثل النار المؤجّجة التي يوافقها كلّ حطب يُقذف
+        <lb/>
+
+        فيها
+      </p>
+
+      <p n="God's Blessings Arrive When Least Expected">
+        وليس ينبغي للعاقل أن يقنط ولا ييأس فربما ساق الله
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

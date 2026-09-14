@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="254"/>
+
+      <p n="The Cat Should Desire Common Rescue">
+        حياتك فكذلك أنت حقيق أن تحبّ بحياتك حياتي وخلاص نفسي
+      </p>
+
+      <p n="Sailors Depend on Ships and Vice Versa">
+        وكما
+        <lb/>
+
+        أنّ نجاة الناس من البحر بالسفن
+      </p>
+
+      <p n="Cooperation Ensures Delivery for Both">
+        فكذلك نرجو أن نصير بالتعاون إلى الخلاص
+        <lb/>
+
+        جميعًا من هذه البليّة
+      </p>
+
+      <p n="The Cat Puts His Trust in the Rat">
+        فلمّا سمع السنّور ذلك من الجرذ علم أنّه قد صدق
+        <lb/>
+
+        وقال له صدقت وقلت الحقّ فأنظر الصلح الذي نتخلّص به جميعًا
+        <lb/>
+
+        من هذه البليّة فأفعله فإنّي أحفظ لك هذه النعمة آخر الأبد وأحرص
+        <lb/>
+
+        على جزائك ومكافأتك
+      </p>
+
+      <p n="The Rat Explains the Strategy">
+        قال الجرذ دعني أدنو منك فإنّ البومة وابن عرس إذا
+        <lb/>
+
+        أبصرانا مصطلحين انصرفا عنّا فإذا أمنت منهما قطعت وثاقك وأنا آمن
+      </p>
+
+      <p n="The Cat Fulfills His Part">
+        ففعل ذلك به
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

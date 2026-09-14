@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="342"/>
+
+      <p n="The Third Vizier Has No Solution">
+        أن يغيّر طباع الحيوان إلى غير ما جُبل عليه
+      </p>
+
+      <p n="Affairs Need God and Nature">
+        قال الملك ليس
+        <lb/>
+
+        يُتوارث من الجنس فقط ولكن كلّ أمر من الأمور صغر
+        <lb/>
+
+        وقلّ لا يمكن ويتمّ إلاّ بعناية من فوق
+      </p>
+
+      <p n="Nature Cannot Be Fended Off">
+        قال الوزير الأمر
+        <lb/>
+
+        على ما قال الملك ولكن إذا كان لم يمكن وليس لمقاومته الشيء
+        <lb/>
+
+        الذي يُتوارث من الجنس وجه فتركه أصلح ومن قاوم
+        <lb/>
+
+        ما يُتوارث في الجنس فكلّه تعارض فيه وقد أيقن
+        <lb/>
+
+        وفرغ منه وربّما أتى الأمر إلى أحوال من العطب حتّى
+        <lb/>
+
+        لا يعود الحال فيه إلى ما كان أوّلًا وربّما عاد في رجال
+        <lb/>
+
+        طويل ما أصاب الملك الذي يُحدّث عنه
+      </p>
+
+      <p n="The Rat King Requests the Tale of King W">
+        قال الملك
+        <lb/>
+
+        وكيف كان ذلك
+      </p>
+
+      <p n="A Kingdom with a Hole in the Mountain">
+        قال الوزير زعموا أنّه كان على بعض نواحي
+        <lb/>
+
+        النيل ملك وكان بيده بناء جبل شامخ كثير الأشجار
+        <lb/>
+
+        والثمار والماء وكانت الوحوش وسائر الحيوانات التي
+        <lb/>
+
+        في ذلك البلد يعيشون من ذلك الجبل
+      </p>
+
+      <p n="Winds Blow through the Mountain Hole">
+        وكان في ذلك
+        <lb/>
+
+        الجبل ثقب تخرج منه هواء من سبعة أجزاء من سائر
+        <lb/>
+
+        الأرياح التي تهبّ بالأقاليم الثلاثة ونصف إقليم المعالم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="193"/>
+
+      <p n="unassigned">
+        فهذا مثل الإخوان وتعاونهم على النوائب انقضى باب الحمامة المطوّقة
+      </p>
+
+      <p n="Chapter Title">
+        باب البوم والغربان
+      </p>
+
+      <p n="The King Understood Previous Chapter">
+        قال ديشلم الملك للفيلسوف قد سمعت مثل المتحابّين المتعاونين كيف
+        <lb/>
+
+        يبدأ تواصلهم وكيف يستمتع بعضهم ببعض
+      </p>
+
+      <p n="The King Asks about Fawning Foes">
+        فاضربْ لي إن رأيت مثل
+        <lb/>
+
+        العدوّ الذي لا ينبغي أن يُغترّ به وإن أظهر ملقًا وتضرّعًا
+      </p>
+
+      <p n="The Parable of the Owls and the Crows">
+        قال
+        <lb/>
+
+        الفيلسوف من اغترّ بالعدوّ الأريب الذي لم يزل عدوّا أصابه ما أصاب
+        <lb/>
+
+        البوم من الغربان
+      </p>
+
+      <p n="The King Requests the Parable">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="The Crow Kingdom and the Owl Kingdom">
+        قال الفيلسوف زعموا أنّه كان في جبل من الجبال دوحة عظيمة
+        <lb/>
+
+        وكان فيها وكر ألف غراب عليها ملك منها وفي ذلك الجبل أيضًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Rd</chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

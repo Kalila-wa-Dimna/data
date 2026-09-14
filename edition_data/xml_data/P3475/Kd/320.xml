@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="320"/>
+
+      <p n="unassigned">
+        وشرّ الملوك الذي يخافه البريء وشزّ البلاد بلاد لا طمأنينة فيها
+        <lb/>
+
+        ولا طمأنينة لنفسي في جوارك ثمّ ودّع الملك وطار فكان آخر العهد منه
+        <lb/>
+
+        فهذا مثل الترات وحذّر بعضهم بعضًا
+        <lb/>
+
+        انقضى باب الملك والطائر فترة
+      </p>
+
+      <p n="Chapter Title">
+        باب ملك الهند وبلاد
+        <lb/>
+
+        وإبلاد وبراخت وباب الحلم
+      </p>
+
+      <p n="King Understood Previous Chapter">
+        قال دشلم ملك الهند لبيدبا الفيلسوف قد فهمت ما ذكرت
+        <lb/>
+
+        من أمر أهل الترات
+      </p>
+
+      <p n="King Asks How To Preserve Rule">
+        فأخبرني بما يثبّت المُلك وبما يكرم المَلك
+        <lb/>
+
+        ويُتّقى عند رعيّته بالحلم أم المروءة أم الجراءة أم الجود
+      </p>
+
+      <p n="Philosopher Prioritizes Ḥilm">
+        قال
+        <lb/>
+
+        الفيلسوف إنّ أفضل ما هو مدرك ذلك به الحلم والعقل
+        <lb/>
+
+        لأنّهما رأس الأمور وملاكهما
+      </p>
+
+      <p n="Philosopher Adds Consultation">
+        مع مشاورة اللبيب الرفيق
+        <lb/>
+
+        العالم وأنفع ما يستنفع به الناس الحلم ثمّ للملك خاصّة
+      </p>
+
+      <p n="Philosopher Adds Good Wife">
+        فإنّه لا شيء أعون منه ومن صلاح المرء في معيشته المرأة الصالحة
+        <lb/>
+
+        الفاضلة الرأي المؤاتية
+      </p>
+
+      <p n="Without Advice One Fails">
+        فإنّ الرجل وإن كان شجاعًا ثمّ
+        <lb/>
+
+        لم يكن حليمًا عاقلًا وكان مشاوره غير لبيب فإنّه ينهضه
+        <lb/>
+
+        الأمر اليسير حتى يرى فيه القبح والضعف بجهالته وخطأ
+        <lb/>
+
+        رأي نصحائه وإن أصاب ظفرًا أو لقي رشدًا بقدر شاقه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

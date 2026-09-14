@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="129"/>
+
+      <p n="The Mother Asks for Proof of Dimna's Truthfulness">
+        وما قولك الذي صدقته
+      </p>
+
+      <p n="Dimna Cites His Courage to Speak at Court as Proof">
+        فقال دمنة الملك يعلم أنّي لو كنت كاذبًا
+        <lb/>
+
+        لم أقل هذه المقالة وقد استبان له صدقي ولعلّي أبرأ ببراءتي
+      </p>
+
+      <p n="The Lion's Silence Makes the Mother Doubt">
+        فلمّا رأت
+        <lb/>
+
+        أُمّ الأسد الأسد لا ينطق شكّت في أمر دمنة وقالت لعلّه مكذوبٌ
+        <lb/>
+
+        عليه فيما رمى به شتربة
+      </p>
+
+      <p n="Who King and Court Listen to in Silence Appears Truthful">
+        فقالت للأسد إنّ المعتذر عند الملك
+        <lb/>
+
+        بمحضرٍ من الجند لا يُردّ عليه شيءٌ من قوله لشبيه أن يكون صادقًا
+        <lb/>
+
+        بما نطق بل يراه كذلك الجند
+      </p>
+
+      <p n="Lion Hands Dimna Over to Judge for Investigation">
+        فأمر الأسد عند ذلك بدمنة فقدمت
+        <lb/>
+
+        في عاتقه جامعةً إلى عنقه وانطلق به إلى السجن فحُبس وأمر الأسد
+        <lb/>
+
+        بالنظر في أمره والفحص عنه
+      </p>
+
+      <p n="The Mother Knows about Dimna's Infamy">
+        فقالت أُمّ الأسد قد بلغني عن هذا
+        <lb/>
+
+        الفاجر الكذّاب شرّ ما قيل في أحدٍ
+      </p>
+
+      <p n="Dimna Has a Bad Reputation">
+        وقد تتابعت الألسن عليه بالذمّ
+        <lb/>
+
+        وهو لك محيلٌ ليس يشتكل أمره على أحدٍ وقد ذكره الأمين إلى صدقٍ
+      </p>
+
+      <p n="The Mother Tells the Lion Not to Debate Dimna">
+        فاسترحْ منه وأرحْ جندك ولا تناظره
+      </p>
+
+      <p n="The Lion Tells the Mother to be Silent">
+        قال لها الأسد اسكتي
+        <lb/>
+
+        فإنّي ناظرٌ في أمره وفاحصٌ عنه
+      </p>
+
+      <p n="The Lion Praises Dimna">
+        فإنّ دمنة ذو دهاءٍ عاقلٍ فطنٍ
+      </p>
+
+      <p n="The Lion Wants to Avoid Haste">
+        وأنا متيقّنٌ أمره ولن أعجل ولا أتبّع هواي وهوى من لا أدري
+        <lb/>
+
+        صدقه من كذبه
+      </p>
+
+      <p n="Lion Repeats Question for Mother's Source">
+        فأعلمني من الأمين الذي ذكرت لي وسمّيته
+      </p>
+
+      <p n="The Mother Names the Leopard">
+        قال
+        <lb/>
+
+        هو خليلك وأمينك ومؤدّبك النمر
+      </p>
+
+      <p n="Kalila Seeks out Dimna in Prison">
+        فلمّا ذهبت هدوة من الليل
+        <lb/>
+
+        بلغ كليلة أنّ دمنة قد أصبح في وثاق فانطلق إليه
+      </p>
+
+      <p n="Kalila Weeps when Seeing Dimna">
+        فلمّا رآه موثّقًا
+        <lb/>
+
+        بكى
+      </p>
+
+      <p n="Kalila Admits Having Been Harsh on Dimna">
+        وقال قد صار أمري إلى ما لا أبالي أن أغلظ لك في القول
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

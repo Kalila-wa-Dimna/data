@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="89"/>
+
+      <p n="A Prayer for a Miraculous Restoration">
+        اللهمّ إن كان زوجي قد ظلمني وأنا بريئة ممّا يقول فاردد عليّ أنفي
+        <lb/>
+
+        صحيحًا كما كان
+      </p>
+
+      <p n="Only the Razor">
+        ثمّ نادت زوجها وقالت أيّها الظالم إنّ الله نظر
+        <lb/>
+
+        إلى عملك وفعلك وقد أعاد أنفي كما كان
+      </p>
+
+      <p n="The Wife Claims a Miracle">
+        قال لها زوجها ما هذا يا ساحرة
+        <lb/>
+
+        ثمّ قام فأوقد نارًا ونظر إلى المرأة فإذا أنفها صحيح
+      </p>
+
+      <p n="The Husband is Deceived">
+        فاستغفر الله وتاب
+        <lb/>
+
+        من الذنب إليها وإلى مولاه وخالقه وسأل امرأته أن ترضى عنه
+      </p>
+
+      <p n="The Husband's Apology">
+        ولمّا وصلت امرأة الحجّام إلى بيتها فكّرت في طلب العذر لنفسها عند
+        <lb/>
+
+        زوجها والناس في جدع أنفها
+      </p>
+
+      <p n="The Barber's Wife's Dilemma">
+        فلمّا كان وقت السحراستيقظ
+        <lb/>
+
+        الحجّام
+      </p>
+
+      <p n="The Barber Wakes">
+        وقال لامرأته هاتي متاعي فإنّ فلان الكبير أمرني أن آتيه
+        <lb/>
+
+        فأصلح شأنه
+      </p>
+
+      <p n="The Barber Asks for His Tools">
+        فناولته موسًا واحدًا فقال لها ثانية هاتي العدّة
+        <lb/>
+
+        جميعها فأعادت إليه الموس وقالت ما هنا غيره
+      </p>
+
+      <p n="The Barber's Wife's Ruse">
+        فغضب منها ورماها به
+        <lb/>
+
+        فصاحت المرأة ووقعت إلى الأرض وقالت أنفي أنفي
+      </p>
+
+      <p n="The Barber is Taken to the Judge">
+        ولم تزل تستغيث
+        <lb/>
+
+        حتّى دخل عليها جيرانها وانتهى الأمر إلى أقاربها فأخذوا الحجّام وانطلقوا
+        <lb/>
+
+        به إلى القاضي
+      </p>
+
+      <p n="The Barber's Trial">
+        فقال له القاضي ما حملك على جدع أنف امرأتك فلم يكن
+        <lb/>
+
+        له حجّة يحتجّ بها
+      </p>
+
+      <p n="The Judge's Verdict">
+        فأمر القاضي بالحجّام أن يُعاقب
+      </p>
+
+      <p n="The Ascetic Intervenes">
+        فلمّا قُدّم للعقوبة
+        <lb/>
+
+        وافاه الناسك وتقدّم للقاضي وقال أيّها القاضي لا يشبهنّ عليك
+        <lb/>
+
+        هذا الأمر ليس اللصّ هو الذي سرق ثيابي وإنّ الثعلب ليس الوعلان
+        <lb/>
+
+        قتلاه وإنّ المرأة ليس السمّ قتلها وإنّ امرأة الحجام ليس زوجها جدع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

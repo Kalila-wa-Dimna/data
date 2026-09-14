@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="104"/>
+
+      <p n="The Mother Says Grief is Weakening">
+        وتحمل به المضرّة على نفسك
+      </p>
+
+      <p n="The Mother Criticizes Lion's Grieving">
+        وأنت بحمد الله بتحصيل الأمور رفيق
+        <lb/>
+
+        بصير بصادرها وواردها فإن علمت أنّ لك في الحزن فرجًا فحمّلنا منه مثل
+        <lb/>
+
+        أنت فيه وإن علمت أنّك لا ترجع به مدبرًا ولا تسوق به إليك نفعًا فارغب
+        <lb/>
+
+        عنه وانظر فيما يعود عليك نفعه
+      </p>
+
+      <p n="The Mother Asks About the Lion's Feelings and Heart">
+        وإنّ اعتبار ما بلغك عن شتربة حتّى يصحّ
+        <lb/>
+
+        لك حقيقٌ ذلك من باطله ليسير
+        <lb/>
+
+        فقال الأسد فكيف لي بذلك
+      </p>
+
+      <p n="Love and Hate Are Reciprocal">
+        قالت أمّ الأسد إنّ العلماء قد قالوا من أحبّ أن يعرف محبّه من
+        <lb/>
+
+        مبغضه وعدوّه من صديقه فليعتبر ذلك من نفسه فإنّ الناس له على مثل
+        <lb/>
+
+        ذلك وما هو عليه لهم كذا
+      </p>
+
+      <p n="Self-Accusation is the Most Damning">
+        وإنّ أقنع ما شهد على امرئٍ نفسه
+      </p>
+
+      <p n="Killing the Ox Was Wrong">
+        فهذا من
+        <lb/>
+
+        قولك دليلٌ على أنّ قلبك يشهد عليك بأنّك عملت ما عملت بغير علمٍ ولا
+        <lb/>
+
+        وضح لعينٍ وذلك
+      </p>
+
+      <p n="Haste is the Worst Mistake">
+        فاعلم أنّه رأس الخطإ
+      </p>
+
+      <p n="The Lion Should Have Controlled Himself">
+        ولو كنت حين بلغك عن
+        <lb/>
+
+        الثور ما بلغك كففت نفسك وملكت غيظك ثمّ عرضت ما بلغك عنه على
+        <lb/>
+
+        قلبك بحسن النظر لاكتفيت بقلبك دليلًا على تكذيب ما أتاك عنه لأنّ
+        <lb/>
+
+        القلوب تكافأَ فيها يتراقى كذا بعضها من بعض في سرّها وعلانيّتها
+      </p>
+
+      <p n="The Lion Should Evaluate His Feelings after the Ox's Death">
+        فقسْ
+        <lb/>
+
+        أمرك وأمر الثور بموقع أمرٍ كان في نفسك وجنايته وموقعه اليوم بعد
+        <lb/>
+
+        موته
+      </p>
+
+      <p n="The Lion Reflects about the Ox">
+        فقال الأسد لقد أكثرت الفكر وحرصت على التجنّي على الثور
+        <lb/>
+
+        بعد قتلي إيّاه على أن أغضب في ذنبٍ واحدٍ كان فيما بيني وبينه أقوّي به
+        <lb/>
+
+        تهمتي فما يزداد ظنّي به إلّا حسنًا وله ودًّا
+      </p>
+
+      <p n="The Lion Finds no Fault with the Ox">
+        ولست أتذكّر منه شرارة خلقٍ
+        <lb/>
+
+        أقول هي حملته على أن ابتدأني بالحسد ولا نقض رأي أتّهمه به على
+        <lb/>
+
+        طلب مغالبتي ولا أتذكّر منّي إليه أمرًا سيّئًا أرى أنّه دعاه إلى عداوتي
+      </p>
+
+      <p n="The Lion Wants to Conduct an Investigation">
+        فإنّي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

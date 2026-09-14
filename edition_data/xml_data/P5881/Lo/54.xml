@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="54"/>
+
+      <p n="The Maxim of Striking Down a Rival Before Being Struck">
+        أنّ بعض رعيّته قد ساواه في الرأي والمنزلة والملك فليصرعه فإن هو لم يفعل
+        <lb/>
+
+        ذلك كان هو المصروع الضعيف المخذول
+      </p>
+
+      <p n="Dimna Again Praises the Lion's Judgment">
+        وأنت أيّها الملك أبصر بالأمور وأبلغ
+        <lb/>
+
+        رأيًا فيها لأنّك قد بلوتها وجرّبتها
+      </p>
+
+      <p n="Dimna Urges Preemptive Action">
+        وأنا أرى أن تحتال في الأمر قبل وقوعه
+      </p>
+
+      <p n="The Parable of the Three Types of Men">
+        وقد قيل
+        <lb/>
+
+        الرجال ثلاثة حازمين وعاجز
+      </p>
+
+      <p n="Defining the Resolute Man and the More Resolute Man">
+        فأحد الحازمين إذا أنزل به بلاء لم يدهش ولم يذهب قلبه
+        <lb/>
+
+        ولم يعبأ بالمكيدة وأعمل الحيلة التي يرجوها المخرج والنجاة وأفضل منه رأيًا المتقدّم
+        <lb/>
+
+        في الرأي قبل وقوعه والأخذ فيه بما يجب عليه من حسن النظر فيه فيحسم الداء قبل
+        <lb/>
+
+        أن يبتلي به ويقتلع من الخوف قبل أن يصيبه
+      </p>
+
+      <p n="Defining the Helpless Man and Introducing the Tale of the Three Fish">
+        وأمّا العاجز فهو في ترداد وتأنّي وتمنّي
+        <lb/>
+
+        حتّى يهلك نفسه ويكون مثله في ذلك مثل الثلاث السمكات
+      </p>
+
+      <p n="The Lion Asks for the Tale of the Fish">
+        قال الأسد وكيف
+        <lb/>
+
+        كان ذلك
+      </p>
+
+      <p n="The Story Begins: Three Fish in a Pond">
+        قال دمنة زعموا أنّ غديرًا كان فيه ثلاث سمكات حازمة وكيّسة وعاجزة
+        <lb/>
+
+        وكان الغدير في موضع لا يقربه أحد
+      </p>
+
+      <p n="Two Fishermen Discover the Pond">
+        فلمّا كان ذات يوم عبر به صيّادين فتواعدا أنّهما
+        <lb/>
+
+        يرجعا إليه فيصطادا جميع ما فيه من السمك
+      </p>
+
+      <p n="The Most Resolute Fish Escapes Immediately">
+        فلمّا رأتهما الحازمة ارتابت منهما فلم تتمالك
+        <lb/>
+
+        أنّها خرجت من مدخل الما ء من النهر إلى الغدير فنجت
+      </p>
+
+      <p n="The Wise Fish Escapes by Playing Dead">
+        وأمّا التي دون الحازمة فثبتت
+        <lb/>
+
+        وتماوتت فأخذها الصيّاد ورماها فنجت منه
+      </p>
+
+      <p n="The Helpless Fish is Caught">
+        وأمّا العاجزة فلم تزل في إقبال وإدبار
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

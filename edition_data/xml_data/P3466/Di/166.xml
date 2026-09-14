@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="166"/>
+
+      <p n="Wife Asks Him to Investigate">
+        سوى ذلك
+      </p>
+
+      <p n="The Parrots Will Turn Out to Be Trained">
+        فإن كانا يحسنان ما سوى ذلك فبهما ونعمت وإلّا فاعلم يا سيّدي أنت ومن
+        <lb/>
+
+        حضر أنّه من فِعل العبد البازيار الذي راودني على الخبث فأبيت
+        <lb/>
+
+        عليه
+      </p>
+
+      <p n="Falconer's Training of Parrots Is Discovered">
+        فأمر القوم أن يسألوهما عمّا سوى ذلك من الكلام فلم يكونا
+        <lb/>
+
+        يحسنان سوى تلك الكلمتين
+      </p>
+
+      <p n="Falcon Gouges Out His Eyes">
+        فأمر المرزبان بالبازيار أن يدخل عليه
+        <lb/>
+
+        فدخل عليه وعلى يده باز أشهب فنادته مولاته من وراء الستر أنت
+        <lb/>
+
+        رأيتني أعمل الخبث الذي زعمت فقال أمّا إذا سألت فنعم
+        <lb/>
+
+        قد رأيتك مرارًا فوثب الباز الذي كان على يده ففقأ عينيه برجليه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

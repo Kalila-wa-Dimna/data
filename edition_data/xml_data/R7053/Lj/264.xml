@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R7053</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="264"/>
+
+      <p n="unassigned">
+        أمّا إذا اقتنعت بما تقدر عليه فأنت
+        <lb/>
+
+        حكيٌم سعيد الجدّ في رحالك وكان الناسك يتكلّم بالعبرانيّة
+        <lb/>
+
+        فاستحسن الضيف كلامه وأعجبه فتكلّف أن
+        <lb/>
+
+        يتعلّمه وأخذ ذلك على نفسه أيّامًا فقال له الناسك
+        <lb/>
+
+        إنّي سأعلّمك إلّا أنّك تقع فيما وقع فيه الغراب
+        <lb/>
+
+        قال له الضيف وفيم وقع الغراب قال الناسك
+        <lb/>
+
+        زعموا أنّ غرابًا رأى حجلة تدرج فأعجبه مشيها
+        <lb/>
+
+        فراض نفسه على تعليمه مشي الحجلة وتدريجها أيّامًا
+        <lb/>
+
+        فنسي مشيته التي كان يحسنها فلمّا يئس مشي
+        <lb/>
+
+        الحجلة رجع إلى مشيته فنسيها وتحيّر فصار أقبح الغربان
+        <lb/>
+
+        مشيًا وقد كان يظنّ أنّه الغربان شيئًا وإنّما حدّثتك
+        <lb/>
+
+        بهذا لمّا رأيت منك أنّك تركت لسانك وتحدّثت
+        <lb/>
+
+        بالعبرانيّة وليس هي من شأنك وتنسى لسانك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

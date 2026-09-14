@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="11"/>
+
+      <p n="One Should Benefit from Experience">
+        مضّرة عليه حذره وأشباهه وقاس بعضه ببعض حتّى يحذر الشقيّ بما لقي في غيره
+        <lb/>
+
+        فإنّه إن لم يحذر إلّا التي لقي بعنيها لم يحكم بالتجارب في جميع عمره ولم يزل يأتيه شيء لم يكن
+        <lb/>
+
+        أتاه بعينه فأمّا الذي ينبغي له أن لا يدعه على حال فيحذر ما قد أصابه وينبغي له مع
+        <lb/>
+
+        ذلك أن يحذر ما يصيب غيره من الضّرر حتّى يسلم من أن يأتيه مثله
+      </p>
+
+      <p n="Dove Does Not Learn from Losing Her Chicks">
+        ولا يكن مثله
+        <lb/>
+
+        كمثل الحمامة التي يؤخد فرخيها فيذبحان ويرى ذلك في وكرها ولا يمنعها من الإقامة
+        <lb/>
+
+        في مكانها حتّى تؤخذ هي أيضًا فتذبح
+      </p>
+
+      <p n="One Should Abide by God's Measures">
+        وينبغي له مع ذلك أن تكون للأمور عنده حدّ لا يجوزه
+        <lb/>
+
+        ولا يقصر عنه فإنّه من جاز الحدّ كمن قصر عنه لأنّه خالف الحدّ
+      </p>
+
+      <p n="Striving for the Here and the Hereafter">
+        وينبغي له أن يعلم أنّ كلّ إنسان
+        <lb/>
+
+        ساع فمن كان سعيه لآخرته ودنياه فحياته عليه وله
+      </p>
+
+      <p n="Striving for the Here">
+        ومن كان سعيه لدنياه خاصّة
+        <lb/>
+
+        فحياته عليه
+      </p>
+
+      <p n="A Worldly Man Must Fix Three Things">
+        ويُقال في ثلاثه أشياء يحقّ على صاحب الدنيا إصلاحهما والابتذال لنفسه
+        <lb/>
+
+        فيها منها أمر دنياه ومنها أمر معيشته ومنها أمر ما بينه وبين الناس
+      </p>
+
+      <p n="Three Things in a Man Engender Inefficiency">
+        وقد قيل
+        <lb/>
+
+        في أمور شتّى من كانت فيه لم يستقم له أمره منها التواني في العمل ومنها التصنّع للعرض
+        <lb/>
+
+        ومنها التصديق لكلّ مخبر
+      </p>
+
+      <p n="Many Are Credulous">
+        وربّ رجل يخبر بالشيء لا يقبله عقله ولا يعرف استقامته
+        <lb/>
+
+        فيصدّق به
+      </p>
+
+      <p n="The Types of Credulous Men">
+        ومن يفعل ذلك ثلاثه رجل يصدّق به لمّا قد جرّب من تصديق غيره فيتمادى
+        <lb/>
+
+        به ذلك <>
+      </p>
+
+      <p n="One Needs to Keep Desire in Check">
+        والعاقل الذي لا يزال للهوى متّهما وينبغي له أن لا يقبل من أحد وإن كان صدوقًا
+      </p>
+
+      <p n="One Needs to Check the Veracity of Information">
+        وينبغي له أن لا يتمادى في الخطأ ولا يتوانى في النظر فيها وينبغي له إذا التبس
+        <lb/>
+
+        عليه أمره لا يلحّ في شيء منه ولا يعزم عليه قبل أن يستيقن بالصواب منه
+      </p>
+
+      <p n="One Should Not Continue on the Wrong Path">
+        فيكون
+        <lb/>
+
+        كالرجل الذي يجوز على الطريق فيسير على جوازه على الاعوجاج فلا يزداد في السير
+        <lb/>
+
+        إلاّ يزداد نفي من الطريق وبعدًا
+      </p>
+
+      <p n="Man Rubs Itchy Eye and Loses It">
+        وكالرجل يدخل في عينه القذى فلا يزال
+        <lb/>
+
+        يدلّكها ويحكّها حتّى يعلوها البياض فيذهب بصره
+      </p>
+
+      <p n="The Intelligent Should Believe in Fate">
+        وعلى العاقل أن يأخذ بالحزم وأن يعلم أن الجزاء
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

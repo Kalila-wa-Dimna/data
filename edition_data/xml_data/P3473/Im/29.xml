@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="29"/>
+
+      <p n="Hasty Reader Benefits Nothing">
+        يقرأ منه لم يستفد منه شيئًا يرجع عليه نفعه
+      </p>
+
+      <p n="Indiscriminate Reader Benefits Nothing">
+        ومن
+        <lb/>
+
+        استكثر من جمع العلوم وقراءتها من غير إعمال الرويّة فيما يقرأه
+        <lb/>
+
+        منها
+      </p>
+
+      <p n="Treasure Discovered">
+        فهو خليق أن لا يصيب منها إلّا ما أصاب الرجل الذي
+        <lb/>
+
+        ذكرت العلماء أنّه اجتاز رجل ببعض المفاوز فظهر له آثار موا
+        <lb/>
+
+        مواضع الكنوز فجعل يحفر ويجتهد فوقع بكنز عظيم من ذهب وفضّة
+      </p>
+
+      <p n="Discoverer Hires Help">
+        فقال في نفسه إن أنا أخذت في نقل هذا الذهب قليلًا طال
+        <lb/>
+
+        عليّ ذلك ولم آمن عليه في غيبتي ولكنّي أستأجر قومًا يحملونه
+        <lb/>
+
+        إلى منزلي وأكون أنا في آخرهم فلا يبقى في الكنز شيء يشغل فكري
+      </p>
+
+      <p n="Helpers Take Treasure">
+        ففعل ذلك فجاء الحمّالون لنقله فجعل يحمّل كلّ واحد منهم ما يطيق
+        <lb/>
+
+        حمله ويجهّزه إلى منزله أمامه فينطلق به الحمّال إلى جهة قصده
+        <lb/>
+
+        إلى منزل الرجل ويختصّ به حتّى إذا لم يبقى من المال شيئًا
+        <lb/>
+
+        تبعهم إلى منزله
+      </p>
+
+      <p n="Discoverer Loses Treasure">
+        فلم يجد قليلًا ولا كثيرًا ووجد كلًّا منهم قد جاز ما
+        <lb/>
+
+        حمل لنفسه ولم يبق له إلّا التعب والعناء في حفره واستخراجه
+        <lb/>
+
+        لأنّه لم يفكّر في آخر أمره
+      </p>
+
+      <p n="Readers Should Look for Hidden Meaning">
+        فمن قرأ هذا الكتاب ولم يفهم معانيه
+        <lb/>
+
+        ولم يعلم غرض واضعيه باطنًا لم ينتفع بما ظهر له من ظاهره
+      </p>
+
+      <p n="A Nut Has to Be Cracked">
+        كما أنّ رجلًا لو قُدّم له جوز صحيح لم ينتفع به حتّى يكسره وينتفع
+        <lb/>
+
+        بما فيه
+      </p>
+
+      <p n="Man Acquires Yellow Folio">
+        وكان كالرجل الذي طلب علم الفصيح من كلام الناس
+        <lb/>
+
+        فأتى صديقًا له من العلماء فأعلمه حاجته إلى ذلك وإلى معرفته
+        <lb/>
+
+        فكتب له صديقه في صحيفة صفراء فصيح الكلام وتصاريفه
+        <lb/>
+
+        وجوهره
+      </p>
+
+      <p n="Man Memorizes from Yellow Folio">
+        فانصرف المتعلّم بها إلى منزله فجعل يكثر من قراءتها ولا يفهم
+        <lb/>
+
+        معانيها ولا يعرف ما فيها ثمّ إنّه جلس ذات يوم في محفل من أهل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="129"/>
+
+      <p n="Fellow Prisoner Testifies">
+        من إقرار دمنة إنّ عندي شهادة فأخرجوه فشهد على دمنة بما سمع من قوله
+        <lb/>
+
+        وإقراره فيما كان من توبيخ كليلة إيّاه بدخوله بين الأسد والثور بالنميمة
+        <lb/>
+
+        والكذب
+      </p>
+
+      <p n="Lion Inquires Why Fellow Prisoner Had Withheld Testimony">
+        فقال الأسد ما منعكما أن تقوما بشهادتكما وقد علمتما أمرنا
+        <lb/>
+
+        بالتفتيش عن حال دمنة
+      </p>
+
+      <p n="Fellow Prisoner Explains Invalidity of His Single Testimony">
+        فقال كلّ واحد منهما منعنا من ذلك أنّ شهادة الواحد
+        <lb/>
+
+        منّا كانت لا توجب حكمًا وكلّ واحد منّا كان بشهادة صاحبه جاهلًا وكرهنا
+        <lb/>
+
+        القول في غير شيء لا يقوم به حكم
+      </p>
+
+      <p n="Lion Orders Dimna to Be Killed">
+        فرضي الأسد مقالتهما وأمر بدمنة فقُتل
+        <lb/>
+
+        شرّ قتلة
+      </p>
+
+      <p n="End of Chapter">
+        انقضى باب الانبحاث عن شأن دمنة وكلّ
+      </p>
+
+      <p n="Commentary That Seeking Others' Harm Will Be Punished">
+        ذلك يكون
+        <lb/>
+
+        عواقب البغي ومواقع أمور الحسد والكذب
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+    <chapter>Rd</chapter>
+  </chapter>
+</TEI>

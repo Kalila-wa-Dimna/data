@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="164"/>
+
+      <p n="After Three Days Dimna's Guilt Is Unproven">
+        ولم تمض بعد ذلك أيّام
+      </p>
+
+      <p n="Who Acts Like Brahmins Acts Unjustly">
+        ولكن صدق الذي قال إنّ الذي تعوّد عمل البرّ هيّن
+        <lb/>
+
+        عليه عمله وإن أُضرّ به
+      </p>
+
+      <p n="A Judge Has the Authority to Punish and Reward">
+        قال القاضي إنّا نجد في كتب الأوّلين إنّ القاضي العادل
+        <lb/>
+
+        ينبغي له إن يعرف عمل المحسن والمسيء ليجازي المحسن بإحسانه والمسيء بإساءته
+        <lb/>
+
+        فإذا ذهب إلى هذه ازداد المحسنون حرصًا على الإحسان والمسيئون اجتنابًا
+        <lb/>
+
+        للذّنوب
+      </p>
+
+      <p n="Judge Enjoins Dimna to Confess">
+        والرأي لك يا دمنة أن تنظر الذي وقعت فيه وتعترف بذنبك وتقرّ
+        <lb/>
+
+        به وتتوب
+      </p>
+
+      <p n="A Judge Must Not Pass Verdict Based on Uncertain Thoughts">
+        فأجابه دمنة إنّ صالحي القضاة لا يقطعون بالظنّ ولا يعملون به لا
+        <lb/>
+
+        في الخاصّة ولا في العامّة لعلمهم أنّ الظنّ لا يغني من الحقّ شيئًا
+      </p>
+
+      <p n="Dimna's Knowledge of His Own Innocence Is Certainty">
+        وأنتم إن ظننتم
+        <lb/>
+
+        أنّي مجرم فيما فعلت فإنّي أعلم بنفسي منكم وعلمي بنفسي يقين لا شكّ فيه وعلمكم
+        <lb/>
+
+        بي كلّ الشكّ
+      </p>
+
+      <p n="Dimna's False Confession Would Take Away His Excuse, Be Unjust to His Soul, and Violate His Faith and Character">
+        وإنّما قبح أمري عندكم أني سعيت بغيري فما عذري عندكم إذا
+        <lb/>
+
+        سعيت بنفسي كاذبًا عليها فأسلمتها للقتل والعطب على معرفة منّي ببراءتي
+        <lb/>
+
+        وسلامتي ممّا قرفت به ونفسي أعظم الأنفس عليّ حرمة واوجبــها حقًّا
+        <lb/>
+
+        فلو فعلت هذا بأقصاكم وأدناكم لما وسعني في ديني ولا حسن لي في مروءتي
+        <lb/>
+
+        ولا حقّ لي أن أفعله فكيف أفعله بنفسي
+      </p>
+
+      <p n="Judge's Demand of Confession Is False Counsel or Ruse Not Befitting Judges">
+        فاكفف أيّها القاضي عن هذه
+        <lb/>
+
+        المقالة فإنّها إن كانت منك نصيحةً فقد أخطأت موضعها وإن كانت
+        <lb/>
+
+        خديعة فإنّ أقبح الخداع ما نظرته وعرفته من أهله مع أنّ الخداع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

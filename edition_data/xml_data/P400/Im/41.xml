@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="41"/>
+
+      <p n="The Pauper Chases the Burglar Away, Keeps His Garb">
+        ثمّ عدا عليه وخرج السارق هاربًا فأخذها الرجل فلبسها وأعاد
+        <lb/>
+
+        البُرّ إلى مكانه
+      </p>
+
+      <p n="One Should Not Abandon Hard Work">
+        ثمّ إنّه ليس ينبغي للعاقل أن يركن إلى هذا المثل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

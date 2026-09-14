@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="98"/>
+
+      <p n="The Wife Summons Her Lover">
+        وأمرتها أن تصير إلى خليلها وتأمره بالمصير إليها وتعلمه
+        <lb/>
+
+        أنّ الإسكاف قد غاب عنها في الشرب
+      </p>
+
+      <p n="The Lover Waits">
+        فأقبل خليلها
+        <lb/>
+
+        عند العشاء حتّى قعد عند الباب ينتظر إذن المرأة
+      </p>
+
+      <p n="The Shoemaker's Suspicion">
+        وانصرف
+        <lb/>
+
+        الإسكاف إلى بيته حين أمسى وهو نشوان فلمّا رأى خليل امرأته
+        <lb/>
+
+        على الباب ارتاب به
+      </p>
+
+      <p n="The Wife is Beaten and Tied Up">
+        ودخل البيت فأخذ امرأته فأوجعها
+        <lb/>
+
+        ضربًا ثمّ شدّها إلى سارية في البيت
+      </p>
+
+      <p n="The Go-Between's Inquiry">
+        فلمّا هدأت العيون
+        <lb/>
+
+        ونام الإسكاف جاءت امرأة الحجّام إليها وقالت
+        <lb/>
+
+        لها قد أطال الرجل الجلوس فماذا تأمرين
+      </p>
+
+      <p n="The Wives Swap Places">
+        قالت امرأة
+        <lb/>
+
+        الإسكاف لامرأة الحجّام إن شئت أحسنت إليّ
+        <lb/>
+
+        وحللتني وربطت نفسك مكاني حتّى أنطلق إلى خليلي
+        <lb/>
+
+        ثمّ أسرع الرجعة إليك
+      </p>
+
+      <p n="The Swap is Made">
+        قالت امرأة الحجّام إنّي
+        <lb/>
+
+        فاعلة ذلك وحلّتها وصارت هي مكانها في
+        <lb/>
+
+        الوثاق
+      </p>
+
+      <p n="The Shoemaker Wakes">
+        واستيقظ الإسكاف قبل أن ترجع امرأته
+        <lb/>
+
+        فناديها باسمها فلم تجبه امرأة الحجّام خوفًا أن ينكر
+        <lb/>
+
+        صوتها فدعاها مرّات باسمها فلم تجبه فازداد غيظًا
+        <lb/>
+
+        وحنقًا
+      </p>
+
+      <p n="The Barber's Wife is Mutilated">
+        وقام إليها بشفرة فجذع أنفها وقال
+        <lb/>
+
+        لها خذي هذا فاتحفي به خليلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

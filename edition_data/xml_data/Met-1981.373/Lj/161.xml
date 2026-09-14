@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="161"/>
+
+      <p n="Lion Must Punish Jackal">
+        أن يخبروك بخيانة خائنٍ أو ذنب مذنبٍ
+      </p>
+
+      <p n="Lion Has Jackal Arrested">
+        فأمر الملك به أن يُربط إلى شجرةٍ
+        <lb/>
+
+        خارج المدينة فربطوه
+      </p>
+
+      <p n="Courtiers Are Amazed at Lion's Unawareness">
+        فقال بعض جلساء الأسد إنّي لأعجب من رأي
+        <lb/>
+
+        الملك ومعرفته بالأمور وكيف يخفى عليه أمر هذا وخبثه ومخادعته
+      </p>
+
+      <p n="Courtiers Expect Jackal's Pardon">
+        فقال
+        <lb/>
+
+        آخر وأعجب منه أنّه سيفصح عنه فيما ظهر منه وينزله منزلته الأولى
+      </p>
+
+      <p n="False Message and Death Sentence">
+        ثمّ إنّ
+        <lb/>
+
+        الأسد أرسل إليه رسولًا يسأله عن عذره وأحواله فرجع الرسول وزاد في
+        <lb/>
+
+        الجواب كذبًا من عنده فغضب الأسد عند ذلك وأمر بقتله
+      </p>
+
+      <p n="Lion's Mother Delays Execution">
+        فلمّا
+        <lb/>
+
+        بلغ ذلك أمّ الأسد وكانت عاقلةً لبيبةً قد خبرت ابن آوى وعفّته ونزاهته علمت
+        <lb/>
+
+        أنّه مكذوبٌ عليه فأرسلت إلى الذين سعوا به فأمرتهم بالحضور لدى الأسد
+        <lb/>
+
+        فحضروا
+      </p>
+
+      <p n="Mother Questions Lion">
+        ودخلت على الأسد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

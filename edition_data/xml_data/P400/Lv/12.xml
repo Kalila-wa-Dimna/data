@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="12"/>
+
+      <p n="Kisra Commissions Burzoy">
+        عن كتاب عند ملوكها يُقال له كليلة ودمنة فتعزم على المسير إلى
+        <lb/>
+
+        بلاد الهند بسببه فنستفيده برفق وتلطّف
+      </p>
+
+      <p n="Burzoy Given Ample Funds">
+        وتحمل معك من المال
+        <lb/>
+
+        والهدايا والتحف ما تعلم أنّه يعينك على استخلاصه مع ما تقدر عليه
+        <lb/>
+
+        من الكتب الذي تحتاج إليها الملوك وليكن ذلك في سرّ مكتوم
+      </p>
+
+      <p n="Burzoy To Write When Done">
+        فإذا
+        <lb/>
+
+        أنت أكملت ما تريده وأنت في بلاد الهند كتبت إلينا بذلك وأسرعت
+        <lb/>
+
+        الوفود إلينا
+      </p>
+
+      <p n="Kisra Promises Reward">
+        فإنّا نجزيك عطيّتك ونرفع درجتك ونبلّغك أمنيتك
+      </p>
+
+      <p n="Kisra Advises Caution">
+        فبادرْ إلى ما أُمرت واحفظْ ما وُصّيت به وليكن من شأنك التثبّت
+        <lb/>
+
+        والتأنّي في جميع أمورك
+      </p>
+
+      <p n="Burzoy Accepts">
+        قال فخرّ برزويه للملك ساجدًا وقال
+        <lb/>
+
+        سمعًا وطاعة لأمر الملك ستجد فوق ما تحبّ إن شاء الله
+      </p>
+
+      <p n="Burzoy Requests Gathering">
+        بعد أن
+        <lb/>
+
+        يأذن لي الملك أبقاه الله تعالى في مجلس يكون على رؤوس جنده وأعلم
+        <lb/>
+
+        فيه أهل المملكة وخواصّ الدولة برفيع همّة الملك ونفاذ قريحته وما
+        <lb/>
+
+        يندبني إليه وله
+      </p>
+
+      <p n="Kisra Sets Up Gathering">
+        فأجابه الملك إلى ذلك وجزاه خيرًا ووعده يومًا
+        <lb/>
+
+        يكون فيه ما أراد ثمّ إنّ الملك أرسل إلى جميع البلاد برأيه وجمع أهل بلده
+        <lb/>
+
+        وخواصّ دولته ثمّ أدعى ببرزويه الحكيم وأمر فنُصب له سريرًا مرتفعًا
+        <lb/>
+
+        مكلّلًا باللآلئ والجواهر مصفّحًا بالذهب والفضّة ثمّ إنّه أفرغ <> سنيّة وتوّجه
+      </p>
+
+      <p n="unassigned">
+        <>
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

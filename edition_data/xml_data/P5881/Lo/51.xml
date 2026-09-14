@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="51"/>
+
+      <p n="The Crow Snatches the Necklace">
+        فلمّا وصلوا إلى الأسود رأوه نائمًا في حجره فهوى إليه رجل منهم بحجر فقتله فاستراح
+        <lb/>
+
+        الغراب منه
+      </p>
+
+      <p n="The Moral: Cunning Triumphs">
+        وإنمّا ضربت لك هذا المثل لتعلم أنّ الحيل تجري ما لا تجرى به ذو القوّة
+      </p>
+
+      <p n="Kalila's Objection">
+        قال
+        <lb/>
+
+        كليلة إنّ شتربه لو لم يجتمع مع شدّته وقوّته رأيًا لكان ذلك لكنّه مع شدّته وقوّته ذو
+        <lb/>
+
+        رأي وعقل فما الذي يصنع في أمره
+      </p>
+
+      <p n="The Rabbit and the Lion Parable">
+        قال له دمنة إنّه كما ذكرت لكنّه مغترًّا فإن أمنني فسوف
+        <lb/>
+
+        أصرعه كما فعلت الأرنب بالأسد
+      </p>
+
+      <p n="Kalila Asks for the Story">
+        قال كليلة وكيف كان ذلك
+      </p>
+
+      <p n="The Tyrannical Lion">
+        قال زعموا أنّ أسدًا
+        <lb/>
+
+        كان بأرض مخصّبة كثيرة الوحش والماء والمرعى وكان لا ينفعهم ما هم فيه من الخصب
+        <lb/>
+
+        من كثرة خوفهنّ من الأسد
+      </p>
+
+      <p n="The Animals' Proposal">
+        فاتّفقن بأجمعهنّ وأتينه وقلن له ألا إنّك لا تصيب الدابّة
+        <lb/>
+
+        منّا إلّا بعد جهد ونصب وتعب وقد اجتمعنا على أمر لنا ولك فيه راحة إن أنت أمهلتنا
+        <lb/>
+
+        وأمنتنا على أنفسنا
+      </p>
+
+      <p n="The Lion's Inquiry">
+        فقال أنا فاعل لكم ما أردتم
+      </p>
+
+      <p n="The Bargain">
+        فقلن له نحن نرسل إليك في كلّ يوم
+        <lb/>
+
+        بدابّة بك منّا عند غذائك وأخرى عند عشائك من غير تعب ولا نصب
+      </p>
+
+      <p n="The Lion Agrees">
+        قال فرضي الأسد
+        <lb/>
+
+        على ذلك
+      </p>
+
+      <p n="The Agreement is Kept">
+        وصالحهم عليه فوفوا له بما قالوا ووفى لهم بما أعطاهم من نفسه
+      </p>
+
+      <p n="The Cunning Rabbit's Turn">
+        ثمّ إنّ الأرنب
+        <lb/>
+
+        أصابتها القرعة منهم فقالت لهم إن أنا أرحتكم من الأسد ماذا يكون لي عليكم
+      </p>
+
+      <p n="The Animals' Question">
+        فقالوا لها
+        <lb/>
+
+        لك كلّما أحببت
+      </p>
+
+      <p n="The Rabbit's Request">
+        فقالت لهم الأرنب أأمروا الذي ينطلق بي لا يعجّل عليّ برواحي إلى الأسد
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

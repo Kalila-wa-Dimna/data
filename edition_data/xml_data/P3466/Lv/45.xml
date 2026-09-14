@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="45"/>
+
+      <p n="Burzoy Wants No Gift">
+        المال
+      </p>
+
+      <p n="Burzoy Honors Kisras Oath">
+        لكنّي لمّا حلّفتني وعلمت أنّك تسرّني سأصير إلى الخزائن
+        <lb/>
+
+        وآخذ منها امتثالا لأمرك
+      </p>
+
+      <p n="Burzoy Takes Gift">
+        ثمّ قصد خزائن الثياب وأخذ
+        <lb/>
+
+        منها تختًا من عمل خورستان ممّا يصلح للباس الملوك
+      </p>
+
+      <p n="Burzoy Expresses Gratitude">
+        فلمّا قبض ذلك قال
+        <lb/>
+
+        أكرم الله الملك وأمدّ لنا في عمره
+      </p>
+
+      <p n="Favor Merits Gratitude">
+        إنّ الإنسان إذا أُكرم وجب عليه
+        <lb/>
+
+        الشكر وإن كان قد استوجبه تعبًا أو مشقّة نالته كان فيها رضى الملك
+      </p>
+
+      <p n="Burzoy Announces Request">
+        ولكنّي أسألك أيّها الملك أن تشفعني بحاجة وتعطيني سؤلي منها
+        <lb/>
+
+        وإنّ حاجتي يسيرة وفي قضائها فائدة كثيرة
+      </p>
+
+      <p n="Kisra Welcomes Request">
+        قال أنوشروان سَلْ
+        <lb/>
+
+        فكلّ حاجة لك قِبلَنا مقضيّة فلو طلبت مشاركتنا في ملكنا لأجبناك
+        <lb/>
+
+        فكيف فيما سوى ذلك فقل ولا تحتشم فإنّ الأمور كلّها مبذولة لك
+      </p>
+
+      <p n="Burzoy Expects No Reward">
+        قال برزويه أكرم الله الملك
+      </p>
+
+      <p n="Burzoys House Elevated By Kisra">
+        فقد خصّصني وأهل بيتي بعلوّ
+        <lb/>
+
+        المرتبة ورفيع الدرجة حقًّا
+      </p>
+
+      <p n="Burzoy Invokes Blessing On Kisra">
+        ولو قدرت أن تجمع لنا مع شرف الدنيا
+        <lb/>
+
+        إكرام الآخرة لفعلت فجزاك الله عنّا أفضل الجزاء
+      </p>
+
+      <p n="Kisra Repeats Question">
+        قال أنوشروان
+        <lb/>
+
+        اذكر حاجتك فعليّ ما يسرّك
+      </p>
+
+      <p n="Burzoy Wants Bio Chapter">
+        قال برزويه حاجتي أن يأمر الملك
+        <lb/>
+
+        لبرزجمهر ابن البختكان ويقسم عليه أن يعمل فكره ويجمع رأيه
+        <lb/>
+
+        ويجهد طاقته ويفرغ قلبه في نظم وتأليف كلام محكم يجعله
+        <lb/>
+
+        بابًا يذكر فيه أمري ويصف حالي
+      </p>
+
+      <p n="Buzurgmihr To Give His Best">
+        ولا يدع من المبالغة في ذلك
+        <lb/>
+
+        أقصى ما يقدر عليه من البلاغة
+      </p>
+
+      <p n="New Chapters Placement">
+        ويأمره الملك إذا استتم أن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

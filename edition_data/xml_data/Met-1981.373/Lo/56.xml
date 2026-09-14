@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="56"/>
+
+      <p n="The Barber's Wife's Dilemma">
+        فقال ادفعي إليّ متاعي فإنّي أريد السير إلى بعض الأشراف
+      </p>
+
+      <p n="The Barber Asks for His Tools">
+        فأتته بالموسى وحده فأعاد
+        <lb/>
+
+        عليها القول فأتته به
+      </p>
+
+      <p n="The Barber's Wife's Ruse">
+        فغضب ورماها به في الظلمة فضربت بنفسها الأرض وصاحت
+        <lb/>
+
+        ولولت وقالت أنفي أنفي
+      </p>
+
+      <p n="The Barber is Taken to the Judge">
+        فجاء أقاربها وأخذوا زوجها فذهبوا به إلى القاضي
+      </p>
+
+      <p n="The Judge's Verdict">
+        فأمر القاضي
+        <lb/>
+
+        بعقوبته
+      </p>
+
+      <p n="The Ascetic Intervenes">
+        فلمّا قُدّم ليُعاقب تقدّم الناسك والمعاقَب بين يديه وقال أصلح الله القاضي
+        <lb/>
+
+        لا يشتبهنّ عليك الأمر فإنّ اللصّ ليس هو الذي سرق أسبابي وإنّ الثعلب لم يقتله
+        <lb/>
+
+        الوعلان وإنّ المرأة ليس السمّ أماتها وإنّ امرأة الحجّام ليس زوجها جادع أنفها بل
+        <lb/>
+
+        نحن فعلنا ذلك بأنفسنا
+      </p>
+
+      <p n="The Ascetic's Testimony">
+        فسأله القاضي عن خبر ذلك كلّه فأخبره بقصصهم كلّها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

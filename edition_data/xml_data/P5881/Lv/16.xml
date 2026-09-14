@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="16"/>
+
+      <p n="Kisra And Nobles Impressed">
+        له ما طلب
+      </p>
+
+      <p n="Kisra Deems Request Light">
+        فقال له الملك عند ذلك يا برزويه حبًّا وكرامة فأنت أهل أن تُشفّع في طلبتك
+        <lb/>
+
+        وتُعطى حاجتك وكلّما سألت وإن كان خطره عظيمًا وأمره جسيمًا فطب نفسًا وقرّ
+        <lb/>
+
+        عينًا
+      </p>
+
+      <p n="Kisra Recounts Burzoys Merits">
+        ثمّ أرسل الملك من وقته وساعته إلى بزرجمهر الحكيم فلمّا أتاه قال له الملك قد علمت
+        <lb/>
+
+        مناصحة برزويه لنا وقصده مرضاتنا وركوبه الخوف والهول في بلوغ مودّتنا وإتعاب
+        <lb/>
+
+        بدنه فيما يسرّنا وما أتى إلينا به من المعروف وما أتى على يديه من الأدب والحكمة
+      </p>
+
+      <p n="Burzoy Wants Immaterial Gift">
+        وما عرضنا
+        <lb/>
+
+        عليه من المال الذي في خزائننا فلم يقبل منه شيئًا وكانت حاجته عند من ذلك شيئًا يسيرًا
+        <lb/>
+
+        يرى أنّه الجزاء والكرامة على فعله
+      </p>
+
+      <p n="Kisra Urges Buzurgmihr To Excel">
+        ثمّ أخبره بما طلب وأمره أن يجتهد فيه ولو حمل في
+        <lb/>
+
+        ذلك المشقّة
+      </p>
+
+      <p n="Chapter To Match Others">
+        وأن يجعله بابًا مضارعًا لتلك الأبواب التي في كليلة ودمنة
+      </p>
+
+      <p n="Chapter To Extol Burzoy">
+        ويذكر فيها
+        <lb/>
+
+        أمره وشأنه ونسبه وحسبه وصناعته وأدبه ويذكر فيه مسيره إلى بلاد الهند
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="272"/>
+
+      <p n="King W Orders the Hole to Be Blocked">
+        ففعلوا ذلك وامتنعت الرياح التي كانت تخرج من ذلك
+        <lb/>
+
+        الثقب من الخروج وعَدِم البلد كلّه هبوب الرياح فيه
+      </p>
+
+      <p n="A Draught Ensues">
+        فلم
+        <lb/>
+
+        تمض ستّة أشهر حتّى جفّ ويبس جميع ما في ذلك الجبل من الشجر
+        <lb/>
+
+        والنبات وبلغ ذلك إلى نحو مئتي فرسخ وأكثر وتماوتت
+        <lb/>
+
+        المواشي وسائر الحيوانات التي في تلك البلاد وغارت
+        <lb/>
+
+        العيون والمياه وجفّت الأنهار ووقع الوباء في الناس فهلك
+        <lb/>
+
+        خلق عظيم منهم
+      </p>
+
+      <p n="The People Kill the King and His Court">
+        فلم يزل هذا البلاء في أهل ذلك البلد فوثب من
+        <lb/>
+
+        بقي منهم ممّن به رمق وتجمّعوا إلى باب الملك فقتلوه ووزيره وأهله
+        <lb/>
+
+        وولده
+      </p>
+
+      <p n="The People Burn the Wood Blocking the Hole">
+        فلمّا لم يبق منهم أحد مضوا إلى باب ذلك الثقب فقلعوا الدكّة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

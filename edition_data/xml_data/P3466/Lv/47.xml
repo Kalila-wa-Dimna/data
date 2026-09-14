@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="47"/>
+
+      <p n="Chapter To Be The Best">
+        أن يكون غرض هذا الكتاب الذي يُنسب إليه برزويه أفضل
+        <lb/>
+
+        الأغراض من تلك الأبواب عند العام والخاصّ
+      </p>
+
+      <p n="Kisra Orders Chapters Place">
+        واجعله أوّل الأبواب
+      </p>
+
+      <p n="Kisra Plans Public Reading">
+        فإذا أنت عملته ووضعته موضعه فأعلمني حتّى أجمع أهل مملكتي
+        <lb/>
+
+        لتقرأه عليهم فيظهر فضلك واجتهادك في محبّتنا فيكون لك
+        <lb/>
+
+        بذلك فخرًا
+      </p>
+
+      <p n="Invocation For Kisras Elevation">
+        فلمّا سمع برزويه مقالة الملك خرّ له ساجدًا وقال
+        <lb/>
+
+        أدام الله لك أيّها الملك البقاء وبلّغك أفضل منازل الصالحين في
+        <lb/>
+
+        الآخرة والأولى
+      </p>
+
+      <p n="Buzurgmihrs Zeal For Task">
+        لقد شرّفتني بذلك شرفًا
+      </p>
+
+      <p n="Burzoy Buzurgmihr Exit">
+        ثمّ خرج برزويه
+        <lb/>
+
+        وبرزجمهر من عند الملك
+      </p>
+
+      <p n="Contents Of Bu Chapter">
+        فوصف برزويه من أوّل يوم دفعه
+        <lb/>
+
+        أبواه إلى المعلّم ومضيّه إلى بلاد الهند في طلب العقاقير والأدوية
+        <lb/>
+
+        وكيف تعلّم خطوطهم ولغتهم وإلى أن بعثه أنوشروان
+        <lb/>
+
+        إلى الهند في طلب الكتاب
+      </p>
+
+      <p n="Buzurgmihr Omits Nothing">
+        ولم يدع من فضائل برزويه وحكمته
+        <lb/>
+
+        وخلائقه ومذهبه أمرًا إلاّ ونسّقه وأتى به بأجود ما يكون من
+        <lb/>
+
+        الشرح
+      </p>
+
+      <p n="Chapter Read Publicly">
+        ثمّ أعلم الملك بفراغه منه فجمع أنوشروان أشراف قومه
+        <lb/>
+
+        وأهل مملكته وأدخلهم إليه وأمر برزجمهر بقراءة الكتاب
+        <lb/>
+
+        وبرزويه قائم إلى جانب برزجمهر وابتدأ بوصف برزويه حتّى
+        <lb/>
+
+        انتهى إلى آخره
+      </p>
+
+      <p n="Bu Chapter Well Received">
+        ففرح الملك بما أتى به برزجمهر من الحكمة والعلم
+        <lb/>
+
+        ثمّ أثنى الملك وجميع من حضره على برزجمهر وشكروه ومدحوه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

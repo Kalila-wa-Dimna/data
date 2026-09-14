@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>H170</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="43"/>
+
+      <p n="Man Discovers Mishap and Laments">
+        اللصّ قد فاز بما أخذ من المتاع فأقبل على نفسه باللوم وعرف أنّه لم ينتفع بعلم
+        <lb/>
+
+        موضع اللصّ إذا لم يستعمل في أمره ما يجب
+      </p>
+
+      <p n="Knowledge Is Complete with Proper Implementation">
+        وقد يُقال إنّ العلم لا يتمّ إلّا بالعمل
+      </p>
+
+      <p n="Knowledge Is a Tree and Action Is the Fruit">
+        كالشجرة والعمل فيها كالثمرة
+      </p>
+
+      <p n="Scholar Must Act">
+        وإنّما صاحب العلم يعرض بالعمل لينتفع وأن يستعمل
+        <lb/>
+
+        ما يعلم فليس ذلك يسمّى عالمًا
+      </p>
+
+      <p n="Informed Traveller Takes Risky Road">
+        ولو أنّ رجلًا كان عالمًا بطريق مخوف ثمّ سلكه على
+        <lb/>
+
+        علم به سُمّي جاهلًا ولعلّه يكون قد حاول نفسه فوجدها قد تركت أشياء وهجمت به
+        <lb/>
+
+        فيما هو أعرف بضررها فيه وعاد بها من ذلك المسلك في الطريق المخوف الذي
+        <lb/>
+
+        عرفته
+      </p>
+
+      <p n="Desire Impedes Judgement">
+        ومن ركب هواه ورفض ما ينبغي أن يعمل بما جرّبه هو أو علم غيره
+      </p>
+
+      <p n="Informed Patient Eats Bad Food">
+        كان
+        <lb/>
+
+        كالمريض العالم برديء الطعام والشراب وخفيفه وثقيله ثمّ تحمله الشره على أكل
+        <lb/>
+
+        رديئه وترك استعمال ما هو أقرب والنجاة والتخلّص من علّته
+      </p>
+
+      <p n="Those in the Know Have No Excuse">
+        وأقلّ الناس عذرًا
+        <lb/>
+
+        في اجتناب محمود الأفعال وارتكاب من أبصره وميزّه وعرف أفضل بعضه
+        <lb/>
+
+        على بعض
+      </p>
+
+      <p n="A Sighted and a Blind Fall into a Ditch">
+        كما أنّه لو كان رجلين أحدهما بصير والآخر أعمى ساقهما الأجل إلى حفرة
+        <lb/>
+
+        فوقعا فيها كانا إذ صار جميعًا في قعرها بمنزلة واحدة في الهلكة
+      </p>
+
+      <p n="The Sighted Man Has No Excuse">
+        غير أنّ البصير أقلّ
+        <lb/>
+
+        عذرًا عند الناس من الضرير إذ كانت له عينان يبصر بهما وذلك بما صار إليه جاهل
+        <lb/>
+
+        غير عارف
+      </p>
+
+      <p n="Scholar Must Discipline Himself">
+        وعلى العالم أن يبدأ بنفسه فيؤدّبها بعلمه ولا يكون غايته اقتناؤه
+        <lb/>
+
+        العلم لمعاونة غيره
+      </p>
+
+      <p n="Water-Spring Benefits Only Others">
+        فيكون كالعين التي يشرب الناس ماءها وليس لها في ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T117953</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="38"/>
+
+      <p n="unassigned">
+        ومن قبل علمائهم كلامًا تامًّا مكتوبًا بالفارسيّة تستفيده
+        <lb/>
+
+        وتفيدنا إيّاه ومهما قدرت عليه أيضًا من الكتب
+        <lb/>
+
+        الذي عند أهل الهند ممّا ليس في خزائننا واحمل معك
+        <lb/>
+
+        من المال ما تريد وعجّل ذلك ولا تقصّر في طلب العلم
+        <lb/>
+
+        الذي في ذلك الكتاب وإن كثرة فيه المنفعة
+        <lb/>
+
+        فإنّ جميع ما في خزائني مبذول لك في طلب العلم
+        <lb/>
+
+        ثمّ أمر الملك المنجمين أن يختاروا له يومًا يخرج فيه
+        <lb/>
+
+        وساعة صالحة يقدم المسير فيها ففعلوا ذلك
+        <lb/>
+
+        وخرج برزويه وحمل معه المال
+        <lb/>
+
+        خمسين جرابًا في كلّ جراب عشرة آلاف دينار ذهب
+        <lb/>
+
+        فلمّا قدم برزويه الحكيم إلى بلاد الهند طاف بباب
+        <lb/>
+
+        المال وجالس السوقة وسأل عن بواب الملك والأشراف
+        <lb/>
+
+        والعلماء والفلاسفة وجعل يغشاهم في مجالسهم
+        <lb/>
+
+        ومنازلهم ويتلقّاهم بالتحيّة بباب الملك ويخبرهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

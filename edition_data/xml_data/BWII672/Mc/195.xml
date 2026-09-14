@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="195"/>
+
+      <p n="The Cat Puts His Trust in the Rat">
+        ما أرجوه لنفسي من الخلاص ثمّ سأشكر ذلك لك ما بقيت
+        <lb/>
+
+        حيًّا وأجازيك بأحسن الجزاء
+      </p>
+
+      <p n="The Rat Explains the Strategy">
+        قال الجرذ فإذا دنوت منك
+        <lb/>
+
+        ورأى ابن عرس والبومة مثل ما يعرفان صلحتنا وكيد
+        <lb/>
+
+        فيفترقان عنّي
+      </p>
+
+      <p n="The Rat Approaches to Cut the Rope">
+        فأقبل الجرذ على تقريض الحبال
+      </p>
+
+      <p n="The Cat Fulfills His Part">
+        فدنا
+        <lb/>
+
+        منه وصالحه
+      </p>
+
+      <p n="The Foes Leave Frustrated">
+        فلمّا عاين ابن عرس والبومة ذلك منهما
+        <lb/>
+
+        أيسا وانصرفا خائبين
+      </p>
+
+      <p n="The Rat Begins to Cut the Rope">
+        فأخذ الجرذ في تقريض الحبال
+        <lb/>
+
+        المشربك بها السنّور
+      </p>
+
+      <p n="The Cat Deems the Rat's Efforts Slow">
+        فاستبطأه السنّور وقال له
+        <lb/>
+
+        ما أراك جادًّا في قطع حبالي ورباطي فإن كنت ظفرت
+        <lb/>
+
+        بحاجتك وندمت عمّا أنت عليه وتريد تتوانى في حاجتي
+      </p>
+
+      <p n="The Noble Must Help">
+        فليس هذا من فعل الكرام الذي يوفون بالعهود ولا فعل
+        <lb/>
+
+        الخليل الوفيّ الصادق ولا صاحب الودّ يتوانى في حاجة
+        <lb/>
+
+        صاحبه إذا قدر عليها
+      </p>
+
+      <p n="The Cat States the Rat's Duty of Reciprocation">
+        ولقد كان لك في عاجل مودّتي
+        <lb/>
+
+        من الأمن والنفع والخلاص من الهلكة ما قد رأيت
+        <lb/>
+
+        فالواجب عليك أن لا تكافئني بضدّ ذلك
+      </p>
+
+      <p n="The Rat Should Forget Enmity">
+        فلا تتذكّر شيئًا
+        <lb/>
+
+        من سالف العداوة الذي بيني وبينك فإنّ الذي حدث
+        <lb/>
+
+        بيننا من المودّة والإخاء لحقيق أن ينسيك ذلك
+      </p>
+
+      <p n="Good Deeds Erase Bad Deeds">
+        وإنّ
+        <lb/>
+
+        الأصيل لا يكون إلّا شكورًا غير حقود تنسيه الخلّة
+        <lb/>
+
+        الواحدة من الإحسان الخلال الكثيرة من الإساءة
+      </p>
+
+      <p n="The Punishment of Betrayal Comes Swiftly">
+        وأعجل العقوبة عقوبة الغدر واليمين الكاذبة ومن
+        <lb/>
+
+        إذا تُضرّع إليه ويُسأل العفو فلم يعفو فذاك فجور
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

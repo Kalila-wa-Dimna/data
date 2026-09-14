@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="38"/>
+
+      <p n="A Merchant Steals from His Partner">
+        عمّا لصاحبه
+      </p>
+
+      <p n="The Merchant Devises a Plot">
+        ففكّر في حيلة يحتال بها في أخذ السمسم من شريكه
+        <lb/>
+
+        فرأى أن يجعل له فيه علامة حتّى يأخذه بالليل
+      </p>
+
+      <p n="The Merchant Executes the Plot">
+        فعمد الى ردائه فغطّى
+        <lb/>
+
+        بها السمسم ثّم انطلق إلى صديق له فأخبره بالذي همّ به من ذلك
+        <lb/>
+
+        وسأله أن يعينه عليه فأبى إلّا حتّى يجعل له نصف ما يأخذ من السمسم
+      </p>
+
+      <p n="The Partner Finds the Garb">
+        ثمّ إنّ شريكه دخل البيت فأبصر سمسمًا مغطّى برداء صاحبه
+      </p>
+
+      <p n="The Partner Moves the Garb">
+        فظنّ أنّه
+        <lb/>
+
+        إنّما غطّاه من الدوابّ والتراب شفقة عليه فقال في نفسه
+        <lb/>
+
+        لقد أحسن شريكي في تغطيته سمسمي وشفقته عليّ ولكنّ سمسمه
+        <lb/>
+
+        أحقّ من أن يغطّى برداءه فجعل الرداء على سمسم صاحبه
+      </p>
+
+      <p n="The Merchant Steals His Own Bale">
+        حتّى إذا
+        <lb/>
+
+        كان الليل جاء شريكه والرجل معه فدخلا البيت جميعًا فجعلا
+        <lb/>
+
+        يلتمسان ويقفوان على السمسم حتّى وقعت يد التاجر على الرداء
+        <lb/>
+
+        فأخذ منه ما أراد فلّما خرجا من البيت أخذ نصفه وأعطى صاحبه
+        <lb/>
+
+        نصفه الآخر
+      </p>
+
+      <p n="The Merchant Notices the Error in the Shop">
+        فلّما أصبح جاء هو وشريكه فدخلا البيت فلمّا رأى
+        <lb/>
+
+        الرجل أنّ السمسم الذاهب هو سمسمه ورأى سمسم صاحبه
+        <lb/>
+
+        وافرًا دعا بالويل والثبور وعرف أنّ الذي أخذ ذلك الرجل غير الذي
+        <lb/>
+
+        كان رداؤه عليه
+      </p>
+
+      <p n="The Merchant Keeps Silent about His Betrayal">
+        وكره أن يذكر شيئًا فيكون معرفة شريكه وغيره بما كان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

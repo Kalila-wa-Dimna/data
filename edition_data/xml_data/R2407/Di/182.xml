@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="182"/>
+
+      <p n="Dimna’s Character is Visible in His Body">
+        هذا الشقيّ دمنة والدلائل على شرّه بائنةٌ فاطلبوا من
+        <lb/>
+
+        يخبركم بشأنه فإنّه بيّنٌ ظاهرٌ في جسمه فتصدّقوا
+        <lb/>
+
+        وتيقّنوا بما فيه من العلامات على نميمته وكذبه وعداوته
+        <lb/>
+
+        للملوك وألزموه العقوبة الذي هو أهلها
+      </p>
+
+      <p n="Body Is the Truest Testimony a Person">
+        فقد
+        <lb/>
+
+        قالت العلماء إنّ أوثق الشهادات على خُلق الرجل
+        <lb/>
+
+        هو سمته والآيات التي تُرى في جسمه مع ما يظهر عليه من سوء
+        <lb/>
+
+        الثناء
+      </p>
+
+      <p n="Judge/Investigator/Audience Request Physiognomical Evaluation">
+        قال القاضي لسيّد الخنازير أنا أعلم أنّ من يعلم
+        <lb/>
+
+        الصور وعلامات السوء في الناس قليل ففسّر وبيّن
+        <lb/>
+
+        لنا ما ترى في صورة هذا الشقيّ الجسور من تلك الآيات
+        <lb/>
+
+        التي كتب الأوائل بها
+      </p>
+
+      <p n="Prominent Courtier Diagnoses Dimna as Traitor">
+        فأخذ سيّد الخنازير بيد دمنة
+        <lb/>
+
+        ثمّ قال قالت العلماء إنّ من كانت عينه اليسرى
+        <lb/>
+
+        أصغر من عينه اليمنى وهو لا يختلج وكان أنفه مائلًا
+        <lb/>
+
+        نحو شدقه الأيمن وإذا مشى يضرب نظره إلى الأرض
+        <lb/>
+
+        فذلك يحثّ نفسه بالغدر والمكر والخديعة والبغضة
+        <lb/>
+
+        للصالحين وهذه العلامات كلّها في هذا الآثم
+      </p>
+
+      <p n="Bodily Marks Are Widespread">
+        قال
+        <lb/>
+
+        دمنة إن كان المخلوقون يؤخذون بالآثار والتشبّه
+        <lb/>
+
+        فذلك كثيرٌ في عامّة المخلوقين
+      </p>
+
+      <p n="Dimna's Third Subtale of Plower Who Told His Wife to Cover Herself First">
+        وأمّا مَثَلك فيما قد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

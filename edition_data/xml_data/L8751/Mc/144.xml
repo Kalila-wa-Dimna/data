@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="144"/>
+
+      <p n="The Rat Points Out Their Common Problem">
+        قد شاركتك في البلاء فلا أرجو لنفسي خلاصًا إلّا بالأمر الذي أرجو لك به الخلاص
+        <lb/>
+
+        فذلك الذي عطّفني عليك
+      </p>
+
+      <p n="The Rat Proves His Sincerity">
+        وستعرف مقالتي أنّه ليس فيها كذب ولا مخادعة قد ترى
+        <lb/>
+
+        مكان ابن عرس كامنًا لي ومكان البومة تريد اختطافي وكلاهما لي ولك عدوّ وهما
+        <lb/>
+
+        يخافانك ويتّقيانك وإن أنت جعلت لي إن أنا دنوت منك أن تؤمّنني فأنجو بذلك منهما
+        <lb/>
+
+        فأنا قاطع حبائلك ومخلّصك ممّا أنت فيه فاطمأنّ إلى ما ذكرت لك وتؤمّنني به
+      </p>
+
+      <p n="People Fail without Mutual Trust">
+        فإنّه ليس
+        <lb/>
+
+        أحد أبعد من الخير من اثنين منزلتهما واحدة وصفتهما مختلفة أحدهما من لا يثق به أحد والآخر
+        <lb/>
+
+        من لا يثق بأحد
+      </p>
+
+      <p n="The Rat Promises Faithfulness">
+        ولك الوفاء عندي بما جعلت لك من نفسي فاقبل منّي واسترسل إليّ ولا تؤخّر
+      </p>
+
+      <p n="The Intelligent Does Not Postpone Action">
+        فإنّ العاقل لا يؤخّر عمله
+      </p>
+
+      <p n="The Cat Should Desire Common Rescue">
+        ولتطبْ به نفسك ببقائي كما طابت نفسي ببقائك فإنّ كلّ واحد
+        <lb/>
+
+        منّا ينجو بصاحبه
+      </p>
+
+      <p n="Sailors Depend on Ships and Vice Versa">
+        كالسفينة والركّاب في البحر بالسفينة تخرج الركّاب من البحر وبهم تخرج
+        <lb/>
+
+        السفينة
+      </p>
+
+      <p n="The Cat Puts His Trust in the Rat">
+        فلمّا سمع السنّور مقالة الجرذ عرف أنّه صادق وسرّه ذلك وقال للجرذ إنّ
+        <lb/>
+
+        قولك شبيهًا بالحقّ والصدق فأنا راغب في هذا الصلح الذي أرجو لنفسي ولك فيه
+        <lb/>
+
+        الخلاص ثمّ سأشكر لك ذلك ما بقيت وأجازيك به أحسن الجزاء
+      </p>
+
+      <p n="The Rat Explains the Strategy">
+        قال الجرذ فإذا دنوت منك
+        <lb/>
+
+        فلتُري ابن عرس والبومة منك ما يعرفان به صلحنا فينصرفان آيسين وأقبل على قرض
+        <lb/>
+
+        حبالك
+      </p>
+
+      <p n="The Cat Fulfills His Part">
+        فلمّا دنا الجرذ من السنّور أخذه فالتزمه
+      </p>
+
+      <p n="The Foes Leave Frustrated">
+        فأيس ابن عرس والبومة منه وانصرفا
+        <lb/>
+
+        خائبين
+      </p>
+
+      <p n="The Rat Begins to Cut the Rope">
+        وأخذ الجرذ في قرض رباط السنّور
+      </p>
+
+      <p n="The Cat Deems the Rat's Efforts Slow">
+        فاستبطأه السنّور وقال ما أراك جادًّا في
+        <lb/>
+
+        قطع رباطي فإن كنت حين ظفرت بحاجتك تبدّلت عمّا كنت عليه وتوانيت في حاجتي
+      </p>
+
+      <p n="The Noble Must Help">
+        فليس هذا للكريم بخلق أن يتوانى في حاجة صاحبه إذا تمكّن من حاجة نفسه
+      </p>
+
+      <p n="The Cat States the Rat's Duty of Reciprocation">
+        وقد
+        <lb/>
+
+        كان لك في عاجل مودّتي من النفع والاستنقاذ من الهلكة ما قد رأيت وأنت حقيق أن
+        <lb/>
+
+        تكافئني
+      </p>
+
+      <p n="The Rat Should Forget Enmity">
+        ولا تكرّر عداوة كانت بيني وبينك
+      </p>
+
+      <p n="Good Deeds Erase Bad Deeds">
+        وأنت حقيق أن تنسيك الخلّة الواحدة من
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

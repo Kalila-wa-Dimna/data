@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="263"/>
+
+      <p n="The Rat King Chides the Silent Vizier">
+        كانت عين الملك مادّة إلى الوزير الثالث فلمّا انتظره ولم يره
+        <lb/>
+
+        يتكلّم قال له بغضب يا هذا إنّ في العالم خلقًا كثيرًا من الناس
+        <lb/>
+
+        وبخاصّة من كان منهم ملك وله صاحب فاضل يثق
+        <lb/>
+
+        برأيه قد يخوضون ويتفاوضون في أشياء كثيرة ممّا يمكن
+        <lb/>
+
+        أن يُعمل فيها ولا يمكن أن يُعمل وهذا الأمر الذي تخايرناه
+        <lb/>
+
+        إن كان من الأمور التي لا يمكن أن تُتمّ ولا ينبغي لنا
+        <lb/>
+
+        أن نصرف العناية إليه
+      </p>
+
+      <p n="The Rat King Has the Third Vizier Respond">
+        فعلى كلّ حال قد كان سبيلك
+        <lb/>
+
+        أن تذكر لنا ما عندك فيه ولا تكون كأنّك أخرس أبكم
+        <lb/>
+
+        لا تقدر على الجواب
+      </p>
+
+      <p n="The Third Vizier Was Listening">
+        فلمّا فرغ الملك من هذا الكلام الذي
+        <lb/>
+
+        كانوا فيه فقال الوزير ليس يجب أن يعذلني الملك حيث
+        <lb/>
+
+        أمسكت عن الكلام إلى هذا الوقت لأنّي فعلت ذلك
+        <lb/>
+
+        لأسمع جميع ما أتى به أصحابي على الكمال وأفكّر ولا أقطع
+        <lb/>
+
+        عليهما الحاضر وأسوس الكلام ثمّ أشرح ذكر ما عندي
+        <lb/>
+
+        فيه بحسب معرفتي
+      </p>
+
+      <p n="The Rat King Requests the Third Vizier's Opinion">
+        قال الملك فقلْ لنا ما عندك
+      </p>
+
+      <p n="The Third Vizier Has No Solution">
+        قال
+        <lb/>
+
+        الوزير ما عندي أكثر من هذا وهو أنّه إن علم الملك أنّ
+        <lb/>
+
+        له حيلة يبلغ بها مراده من هذا الأمر ويحقّق ذلك تحقّقًا صحيحًا
+        <lb/>
+
+        وإلّا فما سبيل له أن يحرص عليه ولا يفكّر فيه لأنّ ما يُتوارث من الآباء
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

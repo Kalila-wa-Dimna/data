@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="281"/>
+
+      <p n="Foes Surround the Rat">
+        وكمن له ونظر فوقه فإذا هو ببومة ترصده على رأسه فخاف إن هو رجع
+        <lb/>
+
+        ورآه أن يثب عليه ابن عرس وإن ذهب يمينًا وشمالًا أن يختطفه
+        <lb/>
+
+        البومة وإن تقدّم فالسنّور أمامه
+      </p>
+
+      <p n="The Rat Weighs His Predicament">
+        فقال الجرذ إنّ هذه
+        <lb/>
+
+        بلايا قد اكتنفتني وشرور لقد تواترت ولا مفرغ لي إلّا عقلي
+        <lb/>
+
+        فلا يكوننّ من شأني الدهش ولا أدع بجهدي أن يذهب نفسي
+        <lb/>
+
+        هذا
+      </p>
+
+      <p n="The Intelligent Always Keeps Alert">
+        وإنّ العاقل لا يتفرّق عنه رأيه ولا تذهب عليه عقله
+        <lb/>
+
+        على حال
+      </p>
+
+      <p n="Intelligence Is Like the Sea">
+        وإنمّا عقول ذوي العقول كالبحر لا يُدرك غوره
+      </p>
+
+      <p n="Situations Do Not Blind the Intelligent">
+        ولا
+        <lb/>
+
+        يبلغ البلاء من ذي الرأي مجهود عقله فيهلكه ولا الرجاء
+        <lb/>
+
+        بلغ منه مبلغًا يبطره ويشكره ويعي عليه أمره
+      </p>
+
+      <p n="The Rat Decides on a Pact with the Cat">
+        ثمّ
+        <lb/>
+
+        قال إنّي لا أرى حيلة أمثل ولا أصلح من مصالحة السنّور
+        <lb/>
+
+        إذ قد نزل به البلاء فلعلّي أقدر على خلاصه ولعلّه
+        <lb/>
+
+        أن لو قد سمع منّي من الكلام الصادق الصحيح الذي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="110"/>
+
+      <p n="The Barber's Wife is Mutilated">
+        وقام نحوها بالشفرة فجدع أنفها وقال خذي هذا فاتحفي به صديقك وهو لا
+        <lb/>
+
+        يشكّ في أنّها امرأته
+      </p>
+
+      <p n="The Wives Swap Back">
+        ثمّ جاءت امرأة الاسكاف فرأت صنع زوجها بامرأة الحجّام فساءها
+        <lb/>
+
+        ذلك وأكبرته وحلّت وثاقه
+      </p>
+
+      <p n="The Mutilated Go-Between Flees">
+        ا فانطلقت إلى منزلها مجدوعة الأنف وكلّ ذلك
+        <lb/>
+
+        بعين الناسك وسمعه
+      </p>
+
+      <p n="The Wife's Next Ploy">
+        ثمّ إنّ امرأة الاسكاف جعلت تبتهل وتدعو على زوجها
+        <lb/>
+
+        الذي ظلمها
+      </p>
+
+      <p n="Only the Razor">
+        ثمّ رفعت صوتها ونادت زوجها أيّها الفاجر الظالم قم فانظر كيف
+        <lb/>
+
+        صنعك بي وصنع الله بي كيف رحمني وردّ أنفي صحيحًا كما كان
+      </p>
+
+      <p n="The Wife Claims a Miracle">
+        فقام وأوقد المصباح
+        <lb/>
+
+        ونظر فإذا أنف زوجته صحيح
+      </p>
+
+      <p n="The Husband is Deceived">
+        فاستغفر إليها وتاب من ذنبه واستغفر إلى ربّه
+      </p>
+
+      <p n="The Husband's Apology">
+        وأمّا امرأة الحجّام فإنّها لمّا وصلت إلى منزلها توصّلت في طلب العذر عند
+        <lb/>
+
+        زوجها وأهلها في جدع أنفها ورفع الالتباس
+      </p>
+
+      <p n="The Barber Wakes">
+        فلمّا كان عند السحر استيقظ الحجّام
+        <lb/>
+
+        فقال لامرأته هات متاعي كلّه فإنّي أريد المضي إلى بعض الأشراف
+      </p>
+
+      <p n="The Barber Asks for His Tools">
+        فأتته بالموسي
+        <lb/>
+
+        فقال لها هاتي الآلة جميعها فلم تأته إلا بالموسي
+      </p>
+
+      <p n="The Barber's Wife's Ruse">
+        فغضب حين أطالت التكرار
+        <lb/>
+
+        ورماها به فألقت نفسها إلى الأرض وولولت وصاحت أنفي أنفي
+      </p>
+
+      <p n="The Barber is Taken to the Judge">
+        وجلّبت حتّى جاء
+        <lb/>
+
+        أهلها وأقرباؤها فرأوها على تلك الحال فأخذوا الحجّام فانطلقوا به إلى القاضي
+      </p>
+
+      <p n="The Barber's Trial">
+        فقال له ما حملك على جدع أنف امرأتك فلم تكن له حجّة يحتجّ بها
+      </p>
+
+      <p n="The Judge's Verdict">
+        فأمر به القاضي
+        <lb/>
+
+        أن يُقتصّ منه
+      </p>
+
+      <p n="The Ascetic Intervenes">
+        فلمّا قُدّم للقصاص وافى الناسك فتقدّم إلى القاضي فقال له
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

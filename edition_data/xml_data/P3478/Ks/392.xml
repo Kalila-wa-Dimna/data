@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3478</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="392"/>
+
+      <p n="unassigned">
+        حالنا وحالك حتّى صرنا إلى هذه الشجرة فإنّما هو من قضاء
+        <lb/>
+
+        الله المقدور فأسعد الخلق من قدّر الله له الخير
+        <lb/>
+
+        وأشقاهم من قدّر الله له بخلاف الخير
+        <lb/>
+
+        باب العلجومين والمرزم وهو باب الشريكين المتفاوضين
+        <lb/>
+
+        يكون أحدهما غاشًّا
+        <lb/>
+
+        وهو باب الشريكين المتفاوضين يكون أحدهما غاشًّا
+        <lb/>
+
+        لصاحبه ذا غائلة وسوء نيّة حريصًا على الاستئثار بالبضاعة
+        <lb/>
+
+        التي يشتركان فيها والاحتواء عليها دون صاحبه قال
+        <lb/>
+
+        الملك للفيلسوف اضرب لي مثل الشريكين المتفاوضين
+        <lb/>
+
+        إذا كان أحدهما غاشًّا لصاحبه ذا غائلة وسوء نيّة حريصًا
+        <lb/>
+
+        على الاستئثار بالبضاعة التي يشتركان فيها والاحتواء
+        <lb/>
+
+        عليها دون صاحبه قال الفيلسوف إنّ من أسباب
+        <lb/>
+
+        السلامة استعمال الحزم ومن الحزم استعمال سوء
+        <lb/>
+
+        الظنّ بالشريك والرفيق حتّي تصحّ سلامة ضميره ومن استعمل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ks</chapter>
+    <chapter>Kw</chapter>
+  </chapter>
+</TEI>

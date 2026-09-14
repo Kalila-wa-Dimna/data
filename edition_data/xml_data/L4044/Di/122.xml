@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="122"/>
+
+      <p n="One Wife Blames the Other for Being Naked">
+        عورتها وقالت الأخرى لزوجها ألا تنظر إلى هذه الفاعلة التي تمشي
+        <lb/>
+
+        عريانة
+      </p>
+
+      <p n="The Man/One Wife Tells Other Wife to Cover Herself First/Mind Her Own Nakedness">
+        فقال لها زوجها ويلك ألا تنظرين أنت إلى نفسك فإنّ جسمك عارٍ
+        <lb/>
+
+        كلّه وأنت تطعنين على التي قد غطت عورتها وتعيبينها بهذا وإليك
+        <lb/>
+
+        العجب
+      </p>
+
+      <p n="Courtier and Audience Are Silenced">
+        فلمّا سمع من حضر من حسن مراجعة دمنة لمن قال فيه شيئًا ورأوا
+        <lb/>
+
+        قوّته على الحجج كفّوا عن القول في أمره
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded, He Is Returned to Prison; End of First Day of Trial">
+        فأمر القاضي بصرفه إلى السجن
+      </p>
+
+      <p n="Leopard &amp; Judge Bring Lion the Court Records Who Has Them Copied">
+        فلمّا كان من الغد من ذلك اليوم دخل القاضي على الأسد في طائفة من
+        <lb/>
+
+        وجوه من كان حضر مجلسه بالأمس فرفع إليه كتابًا فيه ما قال دمنة
+        <lb/>
+
+        في معاذيره فقبض الأسد ذلك الكتاب وأمرهم بالانصراف عنه
+      </p>
+
+      <p n="Lion Reads Court Records to Mother">
+        وأرسل
+        <lb/>
+
+        إلى أمّه فقرأ عليها ذلك
+      </p>
+
+      <p n="Mother Alerts Lion of His Own Benefit and Motivates Her Harsh Words">
+        فشقّ عليها ما رأت من الأسد وعطفه على دمنة
+        <lb/>
+
+        وقالت إن أنا غلظت لك أيّها الملك فلا تغضب قال الأسد افعلي
+        <lb/>
+
+        وأنعمي وقولي ما أحببت قالت ما أراك تعرف ما يضرّك ممّا ينفعك وإنّي
+        <lb/>
+
+        لأحسب دمنة في طول تصريفك النظر في أمره سيهيّج عليك ما لا تقعد
+        <lb/>
+
+        له ولا تقوم ثمّ جرجت عنه غضبانة
+      </p>
+
+      <p n="Men Take Dimna Before Court">
+        فلمّا كان من الغد بعث القاضي إلى
+        <lb/>
+
+        دمنة فوقّفه للعامّة فلم يقولوا شيئًا
+      </p>
+
+      <p n="Judge Deems Court Members' Silent Thoughts to Be Sufficient Proof">
+        فقال له القاضي إنّه وإن سكت من
+        <lb/>
+
+        حضر فلم يقولوا فيك شيئًا وإنّ ظنونهم قد اجتمعت على أنّك مجرم فلم أر لك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="212"/>
+
+      <p n="Carpenter Falls Asleep">
+        من تحت السرير
+      </p>
+
+      <p n="Wife Prompts Question From Lover">
+        فرأتها المرأة فعرفتها فأيقنت بالشرّ فساررت
+        <lb/>
+
+        خليلها أن ارفعْ صوتك فاسألْني أنا أحبّ إليك أم زوجك ففعل
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="Wife Feigns Surprise">
+        فردّت عليه أن يا خليل ما اضطرّك إلى هذه المسألة
+      </p>
+
+      <p n="Wife Says Lovers Serve Only Pleasure">
+        ألست
+        <lb/>
+
+        تعلم أنّا معاشر النساء إنّما نريد الأخلّاء لقضاء الشهوة لا نلتفت
+        <lb/>
+
+        إلى إحسانهم ولا إلى أخلاقهم فإذا قضينا ذلك كانوا عندنا
+        <lb/>
+
+        كغيرهم من الأبعدين
+      </p>
+
+      <p n="Wife Says Husband Is All To Her">
+        فأمّا الزوج فإنّه بمنزلة الأب والأخ
+      </p>
+
+      <p n="Wife Curses Fathless Women">
+        فلحا الله امرأة لا يكون زوجها عندها بعدل نفسها
+      </p>
+
+      <p n="Wifes Speech Charms Carpenter">
+        فلمّا
+        <lb/>
+
+        سمع النجّار من امرأته هذه المقالة رقّ لها ووثق منها بالمودّة
+      </p>
+
+      <p n="Carpenter Waits Till Wife Awakens">
+        ولم يبرحْ من مكانه حتّى أصبح وعلم أنّ الآخر قد ذهب
+        <lb/>
+
+        فخرج من تحت السرير فوجد امرأته متناومة فجعل يذبّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

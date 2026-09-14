@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="107"/>
+
+      <p n="Demons Concerns">
+        الناسك فلا يقدر على أخذه فقال الشيطان بل أنظرْني حتّى آخذ الناسك ثمّ شأنك
+        <lb/>
+
+        والبقرة فأبى كلّ واحد على صاحبه
+      </p>
+
+      <p n="Thief And Demon Shout">
+        فلم يزالا على اختلافهما حتّى نادى اللصّ الناسك
+        <lb/>
+
+        أن استيقظْ أيّها البائس فهذا شيطان يريد أخذك ونادى الشيطان بالناسك
+        <lb/>
+
+        أن استيقظْ أيّها الناسك فإنّ هذا اللصّ يريد أخذ بقرتك
+      </p>
+
+      <p n="Thief And Demon Flee">
+        فانتبه الناسك وجيرانه
+        <lb/>
+
+        بصوتهما فنجا منهما ولم يقدرا على ما أرادا وهربا الخبيثان خائبين
+      </p>
+
+      <p n="Objectors Deems Owls Misled">
+        فلمّا فرغ الثالث
+        <lb/>
+
+        من كلامه قال الأوّل الذي كان أشار بقتل الغراب أراكنّ قد خدعكنّ هذا الغراب
+        <lb/>
+
+        وغرّكنّ كلامه وتضرّعه
+      </p>
+
+      <p n="Objector Asks Reconsideration">
+        فأنتنّ تردن تضييع الرأي وتجسيم الأمر فمهلًا مهلًا
+        <lb/>
+
+        عن هذا الرأي
+      </p>
+
+      <p n="Objector Warns Of Trickery">
+        وانظرْن نظر ذوي الألباب الذين يعرفون أمورهم وأمور
+        <lb/>
+
+        غيرهم ولا يلفتْكنّ من رأيكم
+      </p>
+
+      <p n="Dont Be Credulous">
+        فتكونوا كالعجزة الذين يغترّون بما يسمعون وتلين
+        <lb/>
+
+        قلوبهم عند أوّل ملق من عدوّهم والتضرّع منه وتكونوا بما تسمعون أشدّ تصديقًا منهم
+        <lb/>
+
+        بما يعلمون
+      </p>
+
+      <p n="Mention Deceived Carpenter">
+        كالتاجر الذي كذّب بما رأى وصدّق بما سمع فاغترّ وانخدع
+      </p>
+
+      <p n="King O Request Story D C">
+        قال
+        <lb/>
+
+        الملك وكيف كان ذلك
+      </p>
+
+      <p n="Carpenter Learns Of Wifes Affair">
+        قال الوزير زعموا أن تاجرًا كان له إمرأة يحبّها وكان قد
+        <lb/>
+
+        عشقها رجل فاطّلع على ذلك بعض أهل التاجر فأخبره
+      </p>
+
+      <p n="Carpenter Wants Proof">
+        فأحبّ أن يتيقّن ذلك
+      </p>
+
+      <p n="Carpenter Feigns Work Travel">
+        فقال لامرأته إنّي أُريد الذهاب إلى قرية منّا على فراسخ لبعض أعمال الإمارة وأمكث
+        <lb/>
+
+        هناك أيّامًا فأعدّي لي زادًا
+      </p>
+
+      <p n="Wife Rejoices At Chance">
+        ففرحت المرأة بذلك وهيّأت له زادًا
+      </p>
+
+      <p n="Wife Sees Carpenter Off">
+        فلمّا أمسى قال
+        <lb/>
+
+        لها استوثقي من باب دارك واحتفظي من بيتك حتّى أرجع إليك بعد أيّام وخرج
+        <lb/>
+
+        وهي تنظر حتّى جاوز الباب
+      </p>
+
+      <p n="Carpenter Returns To Hide Under Bed">
+        ثمّ عطف فدخل بيت المرأة الذي فيه سرير فراشه
+        <lb/>
+
+        فدخل تحت السرير
+      </p>
+
+      <p n="Wife Summons Lover">
+        وأرسلت المرأة إلى خليلها أن ائتنا فإنّ التاجر قد انطلق
+        <lb/>
+
+        في حاجة سيغيب فيها أيّامًا فأتاها الرجل
+      </p>
+
+      <p n="Lover Spends The Night">
+        فأطعمته وأسقته ثمّ ضاجعها على
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

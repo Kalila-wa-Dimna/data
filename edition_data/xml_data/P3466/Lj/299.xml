@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="299"/>
+
+      <p n="Kings' Advisors Suffer">
+        يصل إليه في ساعة واحدة من الأذى والخوف ما لا يصل إلى
+        <lb/>
+
+        غيره طول الدهر في عمره
+      </p>
+
+      <p n="Peace over Wealth">
+        وإنّ قليلًا من العيش في أمن وطمأنينة
+        <lb/>
+
+        خير من كثير من العيش في خوف ونصب
+      </p>
+
+      <p n="Lion Reassures Jackal">
+        قال الأسد قد سمعت
+        <lb/>
+
+        مقالتك فلا تتخوّف شيئًا ممّا أراك تتخوّف منه فإنّي لا أجد بدًّا من
+        <lb/>
+
+        الاستعانة بك
+      </p>
+
+      <p n="Jackal Gives Conditions for Service">
+        قال ابن آوى أمّا إذا أبى الملك إلّا ما أبى فليجعل
+        <lb/>
+
+        لي عهدًا إن بغى عليّ أحد من أصحابه ممّن هو فوقي فيخافني على منزلته
+        <lb/>
+
+        وممّن هو دوني فينازعني عن منزلتي وينافسني فيها فذكر للملك ذاكر
+        <lb/>
+
+        ذاكر منهم بلسانه أو بلسان غيره شيئًا ممّا يريد تحميل الملك على
+        <lb/>
+
+        أن لا يعجل عليّ وأن يتثبّت فيما يُرفع إليه من أمري ويفحص عنه ثمّ يصنع
+        <lb/>
+
+        بعد ذلك ما بدا له
+      </p>
+
+      <p n="Jackal Vows Devotion on His Terms">
+        فإذا وُثِق بذلك من الملك أعنته بنفسي وعملت
+        <lb/>
+
+        له فيما ولّاني بنصيحة وحرص واجتهاد على أن لا تجعل على نفسي لباغ
+        <lb/>
+
+        سبيلًا
+      </p>
+
+      <p n="Lion Commits to Conditions">
+        قال الأسد ذلك عليّ
+      </p>
+
+      <p n="Jackal Excels in Position">
+        فولّاه خزائنه واختصّه دون أصحابه
+        <lb/>
+
+        في المنزلة لديه والمشاورة والرأي وازداد به على الأيّام إعجابًا
+        <lb/>
+
+        وزاده كرامة ونيلًا
+      </p>
+
+      <p n="Jackal's Status Stirs Jealousy">
+        وثقل ذلك على من كان يطيف بالأسد
+        <lb/>
+
+        من قرائبه وأصحابه وعمّاله وأهله فعادوه وحسدوه وائتمروا
+        <lb/>
+
+        بينهم ليحمّلوا عليه الأسد ويهلكوه
+      </p>
+
+      <p n="Schemers Frame Jackal">
+        فلمّا أجمعوا على ذلك
+        <lb/>
+
+        أمرهم وكيدهم دسّوا ذات يوم إلى لحم كان الأسد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="109"/>
+
+      <p n="Dimna Criticizes Courtiers for Speaking Indiscriminately">
+        |كرامةُ المَلْكِ وفرطُ برِّهِ ### لقد غدا مع حلمِهِ وصبرِهِ
+        <lb/>
+
+        |كباعثٍ لمَن ببابِ قصرِهِ ### لأن يحطّوا مِن عظيمِ قدرِهِ
+        <lb/>
+
+        |فأصبحَ الواحدُ لا يدري متى ### يجبُ أن ينطُقَ أو أن يسكُتا
+      </p>
+
+      <p n="The Mother Chastises Dimna's Duplicity">
+        |قالت وقد شقَّ عليها الوالدِهْ ### مقالُهُ وَهْيَ لهُ معانِدَهْ
+        <lb/>
+
+        |كيف يكونُ في الورى مُؤدِّبا ### لغيرِهِ من قد أضاعَ الأَدَبا
+        <lb/>
+
+        |أو كيف يغدو يا خبيثُ ناصِحا ### سِواهُ مَن لا يقبلُ النصائِحا
+      </p>
+
+      <p n="Dimna Enumerates 5 Duplicitous Types">
+        |قال لها دمنةُ إنّ مَن عَمِلْ ### ما ليس مخصوصًا بِهِ فقد جَهِلْ
+        <lb/>
+
+        |شبيهَ مرءٍ يضعُ الرَّمادا ### في موضعٍ يستوجبُ السَّمادا
+        <lb/>
+
+        |ورجلٍ مثلَ النساءِ قد فَعَلْ ### وامرأةٍ لابسةٍ زيَّ الرَّجُلْ
+        <lb/>
+
+        |والضيفِ يستملكُ ربَّ الدارِ ### ومُخبرٍ مَن ليس ذا استِخْبارِ
+        <lb/>
+
+        |وإنّما الخبيثُ مَن لا يعرفُ ### حالَ الورى وأمرَهُمْ فيَهْرِفُ
+        <lb/>
+
+        |كذاك مَن لا يستطيعُ أن يَرُدُ ### عن نفسِهِ وقْعَ مُصابٍ ويصُدْ
+      </p>
+
+      <p n="The Mother Condemns Dimna's Sweet-Talking and Hoping">
+        |قالت له فهلْ تظنُّ قولَكا ### هذا يغُرُّ أوْ يغُشُّ الملِكا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

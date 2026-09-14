@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="322"/>
+
+      <p n="King's Kindness Is Scholar's Merit">
+        السلطان وكان السلطان محسنًا إليه كان الفضل للعالم
+      </p>
+
+      <p n="Jackal Toiled for Lion">
+        وكان
+        <lb/>
+
+        مساءة أصحابك تهون عليه في مسرّتك وكان محتملًا لكلّ ضرر
+        <lb/>
+
+        وصل إليه في جنب منفعتك وكان يشتري راحتك بنصبه
+        <lb/>
+
+        محتملًا للعناء في رضاك غير كاره لسخط غيرك
+      </p>
+
+      <p n="Jackal Hid no Secrets from Lion">
+        ولم يكن يطو عنك
+        <lb/>
+
+        أمرًا ولا يكتمك سرًّا ولا يرى شيئًا احتمله لك أو بذله وإن عظم
+        <lb/>
+
+        عظيمًا
+      </p>
+
+      <p n="Such Advisors Are Like Family">
+        فمن كان من الأصحاب كذلك وإلّا ففارقه واستغني بغيره
+        <lb/>
+
+        عنه وهذه صفته فإنّما منزلته منزلة الآباء والأبناء والإخوان
+      </p>
+
+      <p n="Courtier Exonerates Jackal">
+        فبينما أمّ الأسد في كلامها وهي تعظه إذ دخل على الأسد
+        <lb/>
+
+        بعض من كان ظاهرًا على ابن آوى فأطلع الأسد على أمره وأخبره
+        <lb/>
+
+        ببراءته وأعلمه أنّه كان مبغيًّا عليه
+      </p>
+
+      <p n="Mother Reaffirms Intrigue">
+        فلمّا علمت أمّ الأسد ذلك وأنّ
+        <lb/>
+
+        الملك قد اطّلع على براءة ابن آوى واستبان لهم سلامته مما رقي
+        <lb/>
+
+        إليه عنه قالت قد تقرّر هذا عندك من تظاهر من بغى من جندك
+        <lb/>
+
+        وقد اطّلعت على براءة ابن آوى وجراءة أصحابك وتعاونهم
+        <lb/>
+
+        عليه
+      </p>
+
+      <p n="Lion Must not Tolerate Misdeeds">
+        فلا تسوّغ لهم ذلك ولا ترخّص لهم فيه ولا ترضينّ منهم
+        <lb/>
+
+        ولا تدعنّ تثبّت ذلك بينهم فتكون مشجّعًا لهم على أعظم منه
+      </p>
+
+      <p n="Lion Must Punish Plotters">
+        ولكن عاقبْهم حتّى تنقطع منك الشفقة عليهم فلا يتّخذوك
+        <lb/>
+
+        مركبًا فتعوّدهم الاحتمال على ضرّك وشينك
+      </p>
+
+      <p n="Punishment Shall Deter Further Misdeeds">
+        بل تقتل كلّ من تظاهر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

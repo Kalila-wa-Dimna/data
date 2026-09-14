@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="229"/>
+
+      <p n="Men Receive Their Gifts">
+        كمال الفرس وبعث إلى كباراثرون الحكيم ما يصلح له
+        <lb/>
+
+        من تحف الملوك
+      </p>
+
+      <p n="Queen Shall Choose Gift">
+        قال المَلك أمّا الإكليل والثياب فاحملوها
+        <lb/>
+
+        إلى مجلس النساء ففعل وأحضر إبرخت وأم جرير فأتياه
+        <lb/>
+
+        وخضعا بين يديه ثمّ أنّ المَلك خيّر إبرخت بين أن تأخذ
+        <lb/>
+
+        الإكليل أو الكسوة
+      </p>
+
+      <p n="Hesitating Queen Looks At Vizier">
+        فنظرت إبرخت فيهم ورفعت نظرها
+        <lb/>
+
+        لإيلاد كالمستشيرة له أيّهما تأخذ
+      </p>
+
+      <p n="Vizier Shows Dress King Notices">
+        فأشار إيلاد أن
+        <lb/>
+
+        تأخذ الثياب فحانت من المَلك التفاتة فرأى إيلاد يشير
+        <lb/>
+
+        نحو الثياب
+      </p>
+
+      <p n="Queen Chooses Crown">
+        فحين فهمت إبرخت أنّ المَلك لحظ تركت الثياب
+        <lb/>
+
+        وأخذت الإكليل لكيلا يظنّ المَلك بها ظنًّا سوءًا
+      </p>
+
+      <p n="Vizier Pretends To Be Cross Eyed">
+        وأقام
+        <lb/>
+
+        إيلاد بعد ذلك أربعين سنة كلّما دخل على المَلك يكسر عينه
+        <lb/>
+
+        حتّى يظنّ المَلك أنّ ذلك عادة فيه
+      </p>
+
+      <p n="Intelligence Saves Queen Vizier">
+        ولولا عقل إبرخت
+        <lb/>
+
+        وفعلها ذلك لما نجا من إيلاد وإبرخت أحد
+      </p>
+
+      <p n="King Alternates Nights With Women">
+        وكان
+        <lb/>
+
+        المَلك عادته ينام ليلة عند إبرخت وليلة عند أمّ جرير
+      </p>
+
+      <p n="Queen Serves Rice On Her Night">
+        فذات ليلة كان دوره عند إبرخت وقد وضعت له السفرة
+        <lb/>
+
+        وفي يدها صحن الأرزّ بصحيفة من الذهب
+      </p>
+
+      <p n="Favorite Wears Dress Before King">
+        فدخلت عليهما
+        <lb/>
+
+        أمّ جرير وهي لابسة البدلة وعمّال تتّقد عليها كأنّها
+        <lb/>
+
+        المصابيح فغارت إبرخت من ذلك الكسوة الحسنة
+        <lb/>
+
+        لأنّ أمّ جرير كانت من الملاح القاطعات الفرط وبدنها
+        <lb/>
+
+        كأنّه الدرّ بحقّ وعليها ذلك البدلة وقد أضاءت منها
+        <lb/>
+
+        البيوت وأمّ جرير كالشمس فلمّا رأى المَلك لأمّ جرير تاقت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

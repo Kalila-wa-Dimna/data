@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="132"/>
+
+      <p n="Consequences of Taking Evil Deeds Lightly">
+        عزّ وجلّ أن يقتل بريءً من غير جرمٍ بنميمة فاجرٍ كذّابٍ
+      </p>
+
+      <p n="Punishment of Crime is a Deterrent">
+        وإنّه إذا
+        <lb/>
+
+        عوقب لم يجترئ أحدٌ على أشياءه ما تخوّفا للصعوبة وكان ذلك صلاحًا
+        <lb/>
+
+        للناس
+      </p>
+
+      <p n="Eliminating Criminals Benefits Society">
+        وأيضًا فإنّه إذا قتل ذوا الفجور والكذاب والنميمة كان في
+        <lb/>
+
+        قتله راحةٌ للملك وجنوده فإنّ في كينونته بينهم بلاءٌ عظيمٌ
+        <lb/>
+
+        وشرٌّ لأولياءه
+      </p>
+
+      <p n="Judge Reiterates the Call for Testimony">
+        فينطقْ كلّ امرئ منكم بعلمه ولا تكتموا شيئًا ولا تنطقوا بباطلٍ
+      </p>
+
+      <p n="All Attendees are Silent">
+        فلمّا فرغ القاضي من قوله نظر الجند بعضهم لبعضٍ ثمّ صمتوا
+      </p>
+
+      <p n="Dimna Challenges All Only to Say What They Know">
+        فقال
+        <lb/>
+
+        دمنة ما لكم سكوت لينظر كلّ امرىءٍ منكم ولينطق بما عنده ويعلمه
+      </p>
+
+      <p n="Dimna's Second Subtale of Ignorant Physician">
+        واعلموا أنّ لكلّ قولٍ جواب فمن زعم أنّه قد رأى ما لم يرى وعلم
+        <lb/>
+
+        ما لم يعلم كان حقيقًا أن يصيبه ما أصاب الجاهل
+      </p>
+
+      <p n="Judge Request Tale">
+        قال القاضي
+        <lb/>
+
+        وما أصاب الجاهل
+      </p>
+
+      <p n="Famous Physician Dies or Goes Blind">
+        قال دمنة زعموا أنّه كان في مدينة من مدائن السند
+        <lb/>
+
+        طبيبٌ وكان بالطبّ عالمًا رفيقًا فلمّا مات ذلك الطبيب نظروا
+        <lb/>
+
+        في كتبه وكان ينتفعون بها ويتعلّمون منها
+      </p>
+
+      <p n="Quack Appears in Town">
+        فأتاهم رجلٌ لا علم له
+        <lb/>
+
+        بالطبّ فزعم أنّه طبيبٌ رفيقٌ
+      </p>
+
+      <p n="Pregnant Princess Falls Sick">
+        وكان لملك تلك الأرض ابنةً كريمةً
+        <lb/>
+
+        عليه وكانت حبلى فأصابها بطنٌ وتمشي الدم والأغراس
+      </p>
+
+      <p n="King Sends in Search of Physician">
+        فبعث
+        <lb/>
+
+        الملك في طلب الأطبّاء
+      </p>
+
+      <p n="Blind Physician Prescribes Drug">
+        فأتوا طبيبًا وكان عالمًا وكان منهم على فراسخ
+        <lb/>
+
+        فوجدوه قد عُمي فوضعوا له وجع الجارية فأمرهم أن يسقوها دواءً
+        <lb/>
+
+        يُقال له زامهرار فرجع الرسول إلى الملك فأخبره
+      </p>
+
+      <p n="Quack Ordered to Mix Drug">
+        فأمر الملك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

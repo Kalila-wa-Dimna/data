@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="13"/>
+
+      <p n="One Should Always Seek More Knowledge">
+        شيئًا من العلم ناله وإن كثر وعظم
+      </p>
+
+      <p n="Culture Is the Spark of Life">
+        فإنّ العلم يجلو العقل كما يجلو الذهن
+        <lb/>
+
+        ظلمة النار ويزيدها ضياء
+      </p>
+
+      <p n="Culture Advances One's Rank">
+        والأدب
+        <lb/>
+
+        يرفع منزلة صاحبه
+      </p>
+
+      <p n="Culture Shields from Danger">
+        والعلم ينجي صاحبه
+        <lb/>
+
+        من استعمله
+      </p>
+
+      <p n="Man Notices Burglar but Feigns Sleep">
+        ومن علم ثمّ لم يستعمل علمه لم
+        <lb/>
+
+        ينتفع به وكان مثله في ذلك مثل الرجل
+        <lb/>
+
+        الذي يُقال إنّ سارقًا دخل عليه منزله
+        <lb/>
+
+        ليلًا فانتبه وعلم بمكانه وقال
+        <lb/>
+
+        لأسكتنّ عنه حتّى أنظر ما يصنع
+        <lb/>
+
+        ولأدعنّه حتّى إذا فرغ ممّا يأخذ
+        <lb/>
+
+        قمت إليه فسكت عنه
+      </p>
+
+      <p n="Burglar Steals and Gets Away">
+        وجعل السارق
+        <lb/>
+
+        يطوف بالبيت ويجمع المتاع وطال
+        <lb/>
+
+        تردّده في ذلك البيت فغلب
+        <lb/>
+
+        الرجل النعاس فنام ووافق ذلك
+        <lb/>
+
+        فراغ السارق من جميع ما أراد
+        <lb/>
+
+        وحمل السارق ما كان جمع ومضى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

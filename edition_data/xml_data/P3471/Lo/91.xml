@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="91"/>
+
+      <p n="Explaining the Six Causes">
+        فالإفراط فيها والضرب والشتم وأمّا الزمان فالقمط والموت
+        <lb/>
+
+        ونقص الثمرات وأمّا الخرق فإعمال الشدّة في موضع الغلظة
+      </p>
+
+      <p n="The Lion's Dangerous Infatuation">
+        وإنّ الأسد قد أكرم شتربة إكرامًا هو خليق أن يزار به
+      </p>
+
+      <p n="Kalila Questions Dimna's Plan">
+        فقال
+        <lb/>
+
+        كليلة كيف تطيق شتربة وهو أشدّ منك وأحسن منزلة
+      </p>
+
+      <p n="Cunning Over Strength">
+        قال
+        <lb/>
+
+        دمنة لا تنظر إلى ذلك فإنّ الأمور ليست بالقوّة وربّ ضعيف
+        <lb/>
+
+        قد فعل به هقنه ورأيه ما يعجز عنه كثير من الأشدّاء
+      </p>
+
+      <p n="The Crow and the Snake Parable">
+        أولم يبلغك
+        <lb/>
+
+        أنّ غرابًا قتل الأسود بحيلة من دهائه
+      </p>
+
+      <p n="Kalila Asks for the Story">
+        فقال كليلة وكيف ذلك
+      </p>
+
+      <p n="The Crow's Predicament">
+        فقال زعموا أنّه كان غراب له وكر في شجرة في جبل قربها جحر أسود
+        <lb/>
+
+        فكان كلما فرّخ الغراب أكل الأسود أفراخه فاشتدّ ذلك عليه
+      </p>
+
+      <p n="The Crow Seeks Counsel">
+        فشكا أمره إلى صديقه من بنات آوى وقال إنّي أريد أذهب إلى
+        <lb/>
+
+        الأسود فأنقر عينيه لعلّي أفقرهما إن أنت طاوعتني على ذلك
+      </p>
+
+      <p n="The Jackal's Warning">
+        فقال له بئس الرأي رأيت فدع هذا والتمس أمرًا تصيب به
+        <lb/>
+
+        حاجتك ولا يصل إليك مكروه
+      </p>
+
+      <p n="The Heron and the Crab Parable">
+        وإياّك أن يكون مثلك مثل العجلوم
+        <lb/>
+
+        الذي أراد قتل السرطان فقتل نفسه
+      </p>
+
+      <p n="The Crow Asks for the Story">
+        فقال وكيف كان ذلك
+      </p>
+
+      <p n="The Old Heron's Dilemma">
+        قال كان عجلوم في أجمة متعيّش وفيها سمك كثير فهرم وضعف
+        <lb/>
+
+        ولم يقدر على صيد السمك
+      </p>
+
+      <p n="The Crab Approaches the Heron">
+        فالتمس الحيلة وتحازن واهتمّ فأتاه
+        <lb/>
+
+        السرطان
+      </p>
+
+      <p n="The Crab's Inquiry">
+        فقال ما لي أراك حزينًا مهمومًا
+      </p>
+
+      <p n="The Heron Explains His Sadness">
+        فقال أوما يغني ذلك عنّي وإنّما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

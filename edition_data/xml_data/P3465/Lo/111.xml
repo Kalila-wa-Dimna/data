@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="111"/>
+
+      <p n="The Ascetic Intervenes">
+        أيّها الحاكم لا يشتبهنّ عليك هذا الأمر فإنّ اللصّ ليس هو الذي سرقني وإنّ
+        <lb/>
+
+        الثعلب ليس الوعلان قتلاه وإنّ البغي ليس السمّ قتلها وإنّ امرأة الحجّام ليس زوجها
+        <lb/>
+
+        جدع أنفها وإنّما نحن فعلنا ذلك بأنفسنا
+      </p>
+
+      <p n="The Ascetic's Testimony">
+        فسأله القاضي عن التفسير فأخبره
+        <lb/>
+
+        بالقصّة فأمر بإطلاق الحجّام
+      </p>
+
+      <p n="Dimna Seeks a New Plan">
+        قال دمنة قد سمعت هذا المثل وهو شبيه
+        <lb/>
+
+        بأمري ولعلّي ما ضرّني أحد سوى نفسي ولكن ما الحيلة
+      </p>
+
+      <p n="Kalila Asks for Dimna's Plan">
+        قال كليلة
+        <lb/>
+
+        أخبرني عن رأيك وما تريد أن تعزم عليه في ذلك
+      </p>
+
+      <p n="Dimna's Goal: Restoration">
+        قال دمنة أمّا أنا فلست اليوم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

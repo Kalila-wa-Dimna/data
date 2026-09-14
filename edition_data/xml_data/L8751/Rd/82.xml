@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="82"/>
+
+      <p n="Failure to Punish Dimna will Weaken the Lion’s Authority">
+        في عظيمٍ يرتكبه عقوبتك ولينتشرن من أمرك ما لا تطيق لمّ شعثه ولا شعب صدعه
+        <lb/>
+
+        ولا رتق فتقه
+      </p>
+
+      <p n="Lion Orders Dimna to Be Killed">
+        فلمّا رأى الأسد هوى أمّه في قتل دمنة وكرّرت عليه هذا الكلام
+        <lb/>
+
+        غير واستبان له أنّ دمنة حمله على قتل شتربة وأوطأه عشوةً في أمره فقُتل أشرّ قتلةٍ
+      </p>
+
+      <p n="Commentary That Seeking Others' Harm Will Be Punished">
+        ثمّ قال الفيلسوف للملك فلينظرْ أهل التفكّر في الأمور
+        <lb/>
+
+        في هذا وأشباهه وليعلموا أنّه من يلتمس منفعة نفسه وأراد هلكة غيره ظالمًا
+        <lb/>
+
+        له بخديعةٍ أو مكرٍ وخلابةٍ فإنّه غير مفلتٍ من وباله وعاقبته وشرّ مغبّته وإنّه مكافَأ
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+    <chapter>Rd</chapter>
+  </chapter>
+</TEI>

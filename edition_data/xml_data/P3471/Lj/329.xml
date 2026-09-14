@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="329"/>
+
+      <p n="Jackal's Inner Struggle about Return">
+        من ذلك وإقهارها على الثقة به والطمأنينة إليه بعد الذي
+        <lb/>
+
+        كان منه إليّ في غير كنهه أو حدّثتها أنّه عائد إلى الذي كان لي عليه
+        <lb/>
+
+        في الائتمان والاستراحة لم تشايعني على ذلك وكانت قد رأت
+        <lb/>
+
+        منه ما هي معذورة بالشكّ فيه وقلّة الثقة به
+      </p>
+
+      <p n="Lion Must Accept Jackal's Mistrust of Courtiers">
+        فلا يجدنّ الملك
+        <lb/>
+
+        عليّ من قولي أنّ نفسي غير مطمئنّة لما سبق إليها وأنّي غير واثق
+        <lb/>
+
+        بمن ببابه
+      </p>
+
+      <p n="Jackal Fears Lion's Renewed Wavering">
+        فإنّهم لم يتركوا قصدي وتعمّدي بمثل ما يتعمّد به عدوّ
+        <lb/>
+
+        الملك وإن كان أراد قتلي على ما كنت عليه من النصيحة له بعد أن
+        <lb/>
+
+        ظهرت إذ لم يطّلع على ذات نفسي ثمّ تفضّل عليّ بالعفو بعد وضوح
+        <lb/>
+
+        عذري له فإنّي خائف أن يعرض في قلبك إلى مصطفن لما كان
+        <lb/>
+
+        منك في أمري فيحملك ذلك على إهلاكي
+      </p>
+
+      <p n="Schemers Will Attempt to Cover Up Their Plot">
+        مع أنّ أعدائي سيقولون
+        <lb/>
+
+        إنّا لا ندع إذ لم نستطيع بلوغًا في ابن آوى أن نحتال له عودًا على
+        <lb/>
+
+        بدء لئلّا يرى الملك أنّ الذي رفعنا إليه في أمره كان كذبًا فيسبقوني
+        <lb/>
+
+        الغوائل
+      </p>
+
+      <p n="Jackal Fears Lion's Gullibility">
+        فإذا فعلوا ذلك لم يحتاجوا في قبول الملك ذلك منهم إلى عون
+        <lb/>
+
+        أقوى من هذه التهمة التي وقعت فيها في نفس الملك مع أنّ الملك
+        <lb/>
+
+        لو كان في الثقة وقلّة الاتّهام لي على ما كان عليه ما كان ذلك عنّي
+        <lb/>
+
+        مغنيًا ولما وجدت بدًّا من تخوّف همّته ولو عاد قلبه لي إلى ما كان عليه
+        <lb/>
+
+        لشككت في ذلك لفضيحتي وسوء ظنّه بي وسرعته إلى تصديق
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

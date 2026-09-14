@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="77"/>
+
+      <p n="unassigned">
+        لا يردّ بأسه بمثل الخضوع فغضب الغربان من قولي وفعلوا بي ما ترون فلمّا سمع
+        <lb/>
+
+        ملك البوم قول الغراب قال لأحد من وزرائه ما ترى في الغراب قال الوزير ليس
+        <lb/>
+
+        في أمره نظر إلّا المعاجلة بالقتل فإنّ هذا من أفضل الغربان وفي قتله
+        <lb/>
+
+        لنا فتح عظيم وراحة وكان يُقال من استمكن من الأمر الجسيم فأضاعه لم يقدر عليه
+        <lb/>
+
+        ثانية قال الملك لآخر من وزرائه ما ترى في حال هذا الغراب قال آرى أن لا تقتله
+        <lb/>
+
+        فإنّ العدوّ الذليل الذي لا شوكة له أهل أن يُرحم ويُستبقى ويُصفح عنه
+        <lb/>
+
+        والمستجير الخائف أهل أن يؤمّن ويجار ومع ذلك أن الرجل ربما عطفه على
+        <lb/>
+
+        عدوّه الأمر اليسير
+      </p>
+
+      <p n="Mention Old Man Wife And Thief">
+        كالتاجر الذي عطف على السارق بشيء لم يتعمّد له
+      </p>
+
+      <p n="King O Requests Old Man Story">
+        قال
+        <lb/>
+
+        الملك وكيف كان ذلك
+      </p>
+
+      <p n="Old Man Has Young Wife">
+        قال الوزير زعموا أنّ تاجرًا كان مُكثرًا من المال
+        <lb/>
+
+        وكان كبير السنّ وكانت له امرأة ذات جمال وشباب وكان لها عاشقًا
+      </p>
+
+      <p n="Wife Hates Husband">
+        وكانت لا تُمكّنه
+        <lb/>
+
+        <>
+      </p>
+
+      <p n="Old Man Undiscouraged">
+        وكان التاجر يعلم ذلك فلا يزيده إلّا حبًّا لها
+      </p>
+
+      <p n="Thief Breaks In">
+        ثم أن سارقًا نقب بيت التاجر <>
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

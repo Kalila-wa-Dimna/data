@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="269"/>
+
+      <p n="The Donkey Watches the Stag Return Home">
+        صاحب الأيل بالقرب من الشطّ الذي كان الحمار مربوطًا
+        <lb/>
+
+        فيه ولم يزل الحمار يمدّ عينه وينظر إلى الأيل في رجوعه إلى أن
+        <lb/>
+
+        دخل بيت صاحبه وعلّم على الموضع علامة يعرفه بها
+      </p>
+
+      <p n="The Donkey's Owner Brings Him Home">
+        ثمّ إنّ
+        <lb/>
+
+        صاحب الحمار أيضًا ردّ الحمار إلى بيته وشدّه وطرح له علفه
+      </p>
+
+      <p n="The Donkey Plans an Escape">
+        والحمار مشغول القلب بالمضيّ إلى عند الأيل فلم يهنه أكل
+        <lb/>
+
+        ولا شرب وأخذ يفكّر ويحتال في ذلك وقال ينبغي أن
+        <lb/>
+
+        أجعل هربي إليه في الليل
+      </p>
+
+      <p n="The Donkey Escapes to the Stag">
+        فلمّا جاء الليل واشتغل أصحابه
+        <lb/>
+
+        اجتهد حتّى خلع الباب وخرج هاربًا إلى الدار التي دخل
+        <lb/>
+
+        فيها الأيل
+      </p>
+
+      <p n="The Donkey Watches the Stag Overnight">
+        فلمّا انتهى إليها وجد الباب قد استُوثق منه
+        <lb/>
+
+        فاطّلع من شقّ كان في الباب فرأى الأيل مخلًّى بلا رباط وخشي
+        <lb/>
+
+        الحمار أن يراه الناس فوقف في زاوية إلى الغداة
+      </p>
+
+      <p n="The Stag Is Returned to the River">
+        وأخذ الرجل
+        <lb/>
+
+        الرجل الأيل ومضى به إلى النهر ليسقيه وكان الرجل يمشي
+        <lb/>
+
+        قدّامه يسوقه بحبل في عنقه
+      </p>
+
+      <p n="The Donkey Approaches the Stag">
+        فتقدّم الحمار إلى الأيل وجعل
+        <lb/>
+
+        يماشيه ويخاطبه بلغته ولم يكن الأيل عارفًا بلغة الحمير
+        <lb/>
+
+        فلمّا لم يفهم منه نفر وأخذ يقاتله
+      </p>
+
+      <p n="The Stag's Owner Chases the Donkey Away">
+        والتفت الرجل الذي
+        <lb/>
+
+        كان يسوقه لينظر من الذي يقاتل الأيل فلمّا رأى الحمار يماشي
+        <lb/>
+
+        الأيل أراد أن يأخذه ثمّ قال إن أنا أخذت الحمار احتاج
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

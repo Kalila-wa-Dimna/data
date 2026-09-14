@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="55"/>
+
+      <p n="The Thief Eyes Jar">
+        الحانوت
+      </p>
+
+      <p n="The Thief Takes the Grain">
+        وأتى ليأخذ الخابية التي فيها الورِق فغلط فحمل التي
+        <lb/>
+
+        فيها البرّ ولم يزل في كدّ وتعب حتّى بلغ منزله فلمّا فتحها وعلم ما
+        <lb/>
+
+        فيها ندم
+      </p>
+
+      <p n="The Merchant Forfeits Trust">
+        فقال له الخائن ما أبعدت المثل ولا تجاوزت القياس
+        <lb/>
+
+        وقد عرفت بذنبي وخطائي عليك ويعزّ عليّ غير أنّ النفس الرديئة
+        <lb/>
+
+        تأمر بالفحشاء فقبل الرجل معذرته وضرب عن توبيخه وعن الثقة
+        <lb/>
+
+        به
+      </p>
+
+      <p n="The Reader Should Examine the Parables Carefully">
+        وقد ينبغي للناظر أن لا يجعل غايته التصفّح لتزويقه والإسراف
+        <lb/>
+
+        على ما تضمّن من أمثاله حتّى يأتي على آخره
+      </p>
+
+      <p n="The Reader Should Discern the Aim">
+        بل يقف عند كلّ مثل
+        <lb/>
+
+        منه وكلمة يعرف معناها ليعرف فحواه والغرض الذي أريد
+        <lb/>
+
+        به فإنّه يُشرف به الفكر على معاني لطيفة
+      </p>
+
+      <p n="The Reader Must Always Come Back to the Book">
+        ويجب على قارئ
+        <lb/>
+
+        هذا الكتاب أن يديم النظر فيه والتفتيش على معانيه
+      </p>
+
+      <p n="The Book Is Not about Animals">
+        ولا
+        <lb/>
+
+        يظنّ أنّ الذي قُصد فيه من الأخبار حيلة بهيمين ومحاورة سبع
+        <lb/>
+
+        لثور فيجوز بذلك عن غرضه المقصود إليه
+      </p>
+
+      <p n="A Fisher Finds an Empty Shell">
+        ويكون مثله مثل الصياد
+        <lb/>
+
+        الذي كان في الخلجان يصيد في زورق فبصر ذات يوم في
+        <lb/>
+
+        أرض الماء بصدفة تتلألأ حسنًا فتوهّم أنّها شيء له قدر وثمن
+      </p>
+
+      <p n="The Fisher Abandons His Catch for the Shell">
+        وكان قد ألقى شبكة واشتملت على سمكة هي قوت يومه فخلّاها
+        <lb/>
+
+        ونزل الماء فأخذ الصدفة فلمّا شقّها وجدها فارغة فندم على ترك ما
+        <lb/>
+
+        كان في يده للطمع
+      </p>
+
+      <p n="The Fisher Misses the Pearl">
+        فلما كان في اليوم الثاني رما بشبكته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

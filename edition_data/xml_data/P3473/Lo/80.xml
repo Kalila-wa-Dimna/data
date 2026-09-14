@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="80"/>
+
+      <p n="The Husband's Apology">
+        فانتهت في طلب العذر لنفسها من زوجها
+      </p>
+
+      <p n="The Barber's Wife's Dilemma">
+        فلمّا كان عند
+        <lb/>
+
+        السحر استيقظ الحجّام
+      </p>
+
+      <p n="The Barber Wakes">
+        وقال لها هاتي بمتاعي ؟والجرعد
+        <lb/>
+
+        إنّي أريد أن أتوجّه إلى بعض أكابر البلد
+      </p>
+
+      <p n="The Barber Asks for His Tools">
+        فلم تأتيه إلّا
+        <lb/>
+
+        بالأمواس فقال لها هاتي متاعي كلّه فأعادت إليه بالأمواس
+        <lb/>
+
+        مرارًا
+      </p>
+
+      <p n="The Barber's Wife's Ruse">
+        فغضب زوجها وأخذ الأمواس ورماها بها فرمت
+        <lb/>
+
+        بنفسها إلى الأرض وولّت وصاحت وقالت أنفي أنفي
+      </p>
+
+      <p n="The Barber is Taken to the Judge">
+        ولم تزلْ كذلك حتّى حضر أهلها وأقاربها فوجدوها مجدوعة
+        <lb/>
+
+        الأنف فأخذوا زوجها وانطلقوا به إلى القاضي
+      </p>
+
+      <p n="The Barber's Trial">
+        فقال القاضي
+        <lb/>
+
+        للحجّام ما الذي حملك على أن جدعت أنف زوجتك فلم تكُ
+        <lb/>
+
+        له حجّة يحتجّ بها
+      </p>
+
+      <p n="The Judge's Verdict">
+        فأمر القاضي أن يُعاقب
+      </p>
+
+      <p n="The Ascetic Intervenes">
+        فلمّا قُدّم الحجّام
+        <lb/>
+
+        إلى العقوبة وافاه الناسك وتقدّم إلى القاضي وقال أيّها
+        <lb/>
+
+        القاضي لا يشتبهنّ عليك الأمور إنّ اللصوص ليسوا هم الذين
+        <lb/>
+
+        سرقوا ثيابي وإنّ الثعلب لم يكن فتله الوعلان وإنّ
+        <lb/>
+
+        البغيّة ليس السمّ قتلها وإنّ امرأة الحجّام ليس زوجها جدع
+        <lb/>
+
+        أنفها بل نحن فعلنا ذلك جميعًا بأنفسنا
+      </p>
+
+      <p n="The Ascetic's Testimony">
+        فسأله القاضي عن
+        <lb/>
+
+        تفسير ذلك فأخبره به كلّه
+      </p>
+
+      <p n="Dimna Seeks a New Plan">
+        قال دمنة قد سمعت هذا المثل
+        <lb/>
+
+        فهو شبيه بأمري وما ضرّني أحدًا سوى نفسي ولكن كيف
+        <lb/>
+
+        الحيلة
+      </p>
+
+      <p n="Kalila Asks for Dimna's Plan">
+        قال كليلة أخبرْني ما رأيك في ذلك وما الذي أنت
+        <lb/>
+
+        الذي عازم عليه
+      </p>
+
+      <p n="Dimna's Goal: Restoration">
+        قال دمنة أمّا أنا فلست ألتمس اليوم
+        <lb/>
+
+        أن تزداد منزلتي فوق ما كنت عليه ولكن ألتمس إبقاء ذلك
+        <lb/>
+
+        عليّ
+      </p>
+
+      <p n="The Three Considerations of the Wise">
+        فإنّ ثلاثة أحوال يجب على العاقل أن ينظر فيها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

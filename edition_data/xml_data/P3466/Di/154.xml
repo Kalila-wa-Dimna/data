@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="154"/>
+
+      <p n="Dimna's Second Subtale of Ignorant Physician">
+        لما لا يعلم أنا أعلمه
+      </p>
+
+      <p n="Judge Request Tale">
+        قال الناس كيف كان ذلك
+      </p>
+
+      <p n="Famous Physician Dies or Goes Blind">
+        قال دمنة
+        <lb/>
+
+        كان في بعض المدن طبيب ماهر له رفق وعلم فكبر ذلك الطبيب وضعف
+        <lb/>
+
+        بصره
+      </p>
+
+      <p n="Pregnant Princess Falls Sick">
+        وكان لملك تلك المدينة ابنة قد زوّجها ابن أخ له فعرض
+        <lb/>
+
+        لما ما يعرض للحوامل من نزف الدم والأوجاع والأعراض
+      </p>
+
+      <p n="Blind Physician Prescribes Drug">
+        فجيء بهذا
+        <lb/>
+
+        الطبيب فعرف دواءها وقال لو كنت أبصر خلطت الأدوية
+        <lb/>
+
+        على معرفتي بها وبأجناسها
+      </p>
+
+      <p n="Quack Hears about Sick Princess">
+        وكان في مدينته رجل سفيه فبلغه
+        <lb/>
+
+        الخبر
+      </p>
+
+      <p n="Quack Ordered to Mix Drug">
+        فجاء وادّعى علم الطبّ وأخبرهم أنّه بصير بمعرفة الأخلاط
+        <lb/>
+
+        والعقاقير عالم بطبائع الأدوية المفردة والمركّبة
+        <lb/>
+
+        فأمر الملك أن يُحمل إلى الخزائن ويأخذ من أخلاط
+        <lb/>
+
+        الدواء حاجته
+      </p>
+
+      <p n="Quack Confuses Drug with Poison">
+        فلمّا دخل السفيه إلى الخزانة وعُرضت
+        <lb/>
+
+        الأدوية عليه وليس يدري ما هي ولا له بها علم فأخذ
+        <lb/>
+
+        في جملة ما أخذ منها صرّة فيها سمّ قاتل لوقته وخلطه
+        <lb/>
+
+        في الدواء ولا علم له به ولا معرفة عنده بجنسه
+      </p>
+
+      <p n="Quack Poisons Princess">
+        فلمّا
+        <lb/>
+
+        تمّت أخلاط الدواء سقى الجارية منه شربة فلم تلبثْ
+        <lb/>
+
+        أن ماتت في الحال
+      </p>
+
+      <p n="King Has Quack Drink the Poison Too">
+        فلمّا رأى الملك ذلك دعى بالسفيه
+        <lb/>
+
+        فسقاه شربة من الدواء فمات
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

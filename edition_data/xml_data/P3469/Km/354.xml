@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="354"/>
+
+      <p n="The Second Viziers Proposes Self-Imposed Exile">
+        إلى أن يعلم أهل المدينة أنّهم قد استغنوا بغيبتنا عن السنانير
+        <lb/>
+
+        فإذا لم يجدوا ما يأكلوا إلاّ أقواتهم طردوهم وقتلوهم ونفوهم
+        <lb/>
+
+        وأعدموهم فما طُرد عن المدينة منهم صاروا وحشًا ولا
+        <lb/>
+
+        يعود يسكن المدينة فإذا عُدموا من المدينة عدنا إليها
+        <lb/>
+
+        بأجمعنا آمنين من خطف السنانير
+      </p>
+
+      <p n="King R Runs the Idea by the Third Vizier">
+        قال الملك للوزير
+        <lb/>
+
+        الثالث ما الذي عندك فيما قال صاحبك
+      </p>
+
+      <p n="The Third Vizier Rejects Self-Imposed Exile">
+        قال الوزير
+        <lb/>
+
+        ليس ذلك برأي يُحمد عندي وإنّا لو خرجنا من المدينة
+        <lb/>
+
+        إلى البريّة وأقمنا فيها سنة فعلى كلّ حال ليس
+        <lb/>
+
+        يمكن أن السنانير تفنى في سنة وينالنا في البريّة
+        <lb/>
+
+        من العناء والشقاء ما هوّ أعظم من فزع السنانير وإنّ بالبريّة
+        <lb/>
+
+        لخوفًا أشدّ من ذلك وهوّ أنّ الأساود والجرابيع
+        <lb/>
+
+        والحدأة ينالنا منهم أشدّ ممّا تنال منّا السنانير
+      </p>
+
+      <p n="King R Asks for the Third Vizier's Plan">
+        قال له الملك حقّ ما تقول فهات ما عندك
+      </p>
+
+      <p n="The Second Option Is to Make Dens in Houses">
+        قال له الوزير لا أعرف شيئًا في هذا الباب
+        <lb/>
+
+        غير حيلة واحدة ان وهو أن يحضر الملك أهل حضرته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M487</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="94"/>
+
+      <p n="Kisra Offers Burzoy Regency">
+        على جميع العلماء والأشراف
+      </p>
+
+      <p n="Kisra Urges Burzoy To Take Gifts">
+        وأقسمت عليك إلّا دخلت خزائن مُلكي كلّها
+        <lb/>
+
+        فحملت ما أحببت ولا تخش ولا تنقبض من ذلك وإذا فعلت
+        <lb/>
+
+        ذلك سرّني وأنت أهلًا لذلك
+      </p>
+
+      <p n="Burzoy Praises Kisra">
+        فسجد برزويه للملك
+        <lb/>
+
+        وقال أكرم الله الملك كرامة الدنيا والآخرة وأحسن عنّي جزاءه وثوابه
+        <lb/>
+
+        فإنّي بحمد الله تعالى مستغن عن المال بما رزقني الله تعالى
+      </p>
+
+      <p n="unassigned">
+        على يديك
+      </p>
+
+      <p n="Burzoy Wants No Gift">
+        أيّها الملك السعيد الجدّ العظيم المُلك ولا حاجة لي إلى المال
+        <lb/>
+
+        لما شرّفتني وأدخلتني وأقسمت أنّ ذلك يسرّك
+      </p>
+
+      <p n="Burzoy Honors Kisras Oath">
+        وسأصير إلى الخزائن
+        <lb/>
+
+        وآخذ منها ما أريد طلبًا لرضائك وامتثالًا ﻷمرك
+      </p>
+
+      <p n="Burzoy Takes Gift">
+        ثمّ قصد
+        <lb/>
+
+        خزائن الملك فأخذ منها ما يحبّ من ظرائف خراسان ممّا يصلح للباس
+        <lb/>
+
+        الملوك وأراد بذلك السمعة والذكر في الناس فلمّا قبض برزويه
+        <lb/>
+
+        ما اختاره ورضي به من الثياب
+      </p>
+
+      <p n="Burzoy Expresses Gratitude">
+        قال للملك أكرم الله الملك ومدّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

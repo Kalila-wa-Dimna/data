@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="11"/>
+
+      <p n="The Pauper Chases the Burglar Away, Keeps His Garb">
+        وأعاد البرّ إلى مكانه
+      </p>
+
+      <p n="One Should Not Abandon Hard Work">
+        وليس ينبغي لعاقل أن يركن إلى مثل
+        <lb/>
+
+        هذا فيدع ما يجب عليه من الطلب والعمل في معاش
+        <lb/>
+
+        صلاح معاشه
+      </p>
+
+      <p n="The Fortunate Few Are Not the Model">
+        ولا يقتدي بمن لن تؤاته المقادير وتساعد
+        <lb/>
+
+        عن غير التماس منه لذلك فإنّ أوليك في الناس قليل
+        <lb/>
+
+        وإنّما جمهورهم من يتعب نفسه في السعي لما يُصلح به أمره
+        <lb/>
+
+        فينال بذلك ما يريد
+      </p>
+
+      <p n="One Should Strive for Benefit Not Harm">
+        ليحرص كلّ ذي عقل على أن يكون مكسبه
+        <lb/>
+
+        من أطيب المكاسب وأفضلها وأن يحذّر كل من جرب عنه عسرًا
+        <lb/>
+
+        ونكدًا وجلب عليه غمًّا أو همًّا
+      </p>
+
+      <p n="Dove Does Not Learn from Losing Her Chicks">
+        ولا يكون كالحمامة التي يؤخذ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

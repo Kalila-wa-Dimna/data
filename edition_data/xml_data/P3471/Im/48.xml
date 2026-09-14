@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="48"/>
+
+      <p n="A Sighted and a Blind Fall into a Ditch">
+        في الهلكة
+      </p>
+
+      <p n="The Sighted Man Has No Excuse">
+        غير أن البصير أقلّ عذرًا عند الناس إذ كان له عينان
+        <lb/>
+
+        من الضرير
+      </p>
+
+      <p n="Scholar Must Discipline Himself">
+        وعلى العالم أن يبدأ بنفسه فيؤدّبها بعلمه ولا يكون
+        <lb/>
+
+        غايته اقتناؤه لمفازة غيره والاضطراب عن الارتياض به
+      </p>
+
+      <p n="Water-Spring Benefits Only Others">
+        ولا يكون
+        <lb/>
+
+        كالعين التي يشرب الناس ماءها وليس لها في ذلك شيء من المنفعة
+      </p>
+
+      <p n="Silk Worm Benefits Only Others">
+        أو كدودة القزّ الّتي تحكم صنعتها ولا تنتفع هي منه بشئ
+      </p>
+
+      <p n="Instructing Oneself Comes First">
+        فقد ينبغي
+        <lb/>
+
+        لمن طلب العلم أن يبدأ بنفسه ثمّ بغيره
+      </p>
+
+      <p n="Three Things Are Needed for Worldly Life">
+        وينبغي لصاحب الدنيا
+        <lb/>
+
+        أن يقتنيها ويقتبس منها العلم والمال واتّخاذ المعروف
+      </p>
+
+      <p n="One Should Not Condemn Faults in Others One Has">
+        وليس
+        <lb/>
+
+        ينبغي للعالم أن يعيب على أحد أمرًا يدخل هو في مثله
+      </p>
+
+      <p n="Reader Is Like a Blind Blaming another Blind">
+        فيكون كالأعمى
+        <lb/>
+
+        الذي يعيّر الأعمى بعماه
+      </p>
+
+      <p n="Two Things Do Not Suit Anyone">
+        وقد يقال في أمرين لا يجملان بكلّ أحد
+        <lb/>
+
+        الواحد الملك لا يشارك فيه والثاني الزوجة لا يشارك فيها
+      </p>
+
+      <p n="Fire Consumes Every Log">
+        والحالتان الأولتان مثلهما كمثل النار الّتي تحرق كلّ حطب يلقى
+        <lb/>
+
+        فيها
+      </p>
+
+      <p n="Fire and Water Do Not Mix">
+        والحالتان الأخيرتان كالماء والنار التي لا يمكن اجتماعهما
+      </p>
+
+      <p n="One Should Strive for Benefit Not Harm">
+        ولا ينبغي للعاقل أن يكون حرصه على ما طال مكسبه وحسن نفعه
+        <lb/>
+
+        ولا يتعرّض لما يجلب عليه عيبًا
+      </p>
+
+      <p n="One Should Abide by God's Measures">
+        وقد يقال إنّ الله عزّ وجلّ
+        <lb/>
+
+        جعل لكلّ شئ حدًّا يوقف عليه فمتى تجاوز الأشياء حدّها أوشك
+        <lb/>
+
+        أن يلحقه التقصير عن بلوغها
+      </p>
+
+      <p n="Striving for the Here">
+        ويقال إنّ من كان سعيه لدنيا حصّلها
+        <lb/>
+
+        فحياته عليه
+      </p>
+
+      <p n="A Worldly Man Must Fix Three Things">
+        ويقال ثلاثة أشياء يجب على صاحب الدنيا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

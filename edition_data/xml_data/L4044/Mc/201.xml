@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="201"/>
+
+      <p n="The Noble Must Help">
+        ولا من صنع أهل الوفاء
+      </p>
+
+      <p n="The Cat States the Rat's Duty of Reciprocation">
+        فقد كان لك في عاجل مودّتي من النفع والخلاص من
+        <lb/>
+
+        الهلكة ما قد رأيت فأنت حقيق أن تكافئني بذلك
+      </p>
+
+      <p n="The Rat Should Forget Enmity">
+        وألّا تذكر سالف
+        <lb/>
+
+        العداوة بيننا فإنّ الذي حدث بيني وبينك من الصلح أهل أن ينسيك ذلك مع ما في
+        <lb/>
+
+        الوفاء من الفضل والأجر وما في الغدر من سوء العاقبة
+      </p>
+
+      <p n="Good Deeds Erase Bad Deeds">
+        فإنّ الكريم لا يكون إلاّ
+        <lb/>
+
+        شكورًا غير حقود تنسيه الخلّة الواحدة ممّا يسرّه الخلال الكثيرة مما ساءه
+      </p>
+
+      <p n="The Punishment of Betrayal Comes Swiftly">
+        وأعجل
+        <lb/>
+
+        العقاب عقاب الغدر والأيمان الكاذبة ومن إذا تُضرّع إليه وسُئل العفو
+        <lb/>
+
+        لم يرحم ولم يعف ولم يغفر
+      </p>
+
+      <p n="The Two Kinds of Friends">
+        قال الجرذ إنّ الصديق صديقان طائع ومضطرّ
+        <lb/>
+
+        وكلاهما يلتمس المنافع ويحترس عن المضارّ فأمّا الطائع فيُسترسل ويُعمل له
+        <lb/>
+
+        على كلّ حال
+      </p>
+
+      <p n="Forced Friendship Does Not Last">
+        وأمّا المضطرّ فإنّ له حالة يُسترسل إليه فيها وأخرى أن
+        <lb/>
+
+        يُحترس منه فيها
+      </p>
+
+      <p n="The Intelligent Trades Favors">
+        ولا يزال العاقل يرتهن بعض حاجته منه ببعض ما يتّقى ويخاف
+      </p>
+
+      <p n="Friendship Is Pursued For a Need">
+        وليس عامّة التواصل من المتواصلين إلّا لطلب عاجل النفع وما هو له
+      </p>
+
+      <p n="The Rat Explains the Reasons for Self-Protection">
+        وأنا
+        <lb/>
+
+        واف لك فيما جعلت لك ومحترس منك مع ذلك من حيث أخافك أن يصيبني
+        <lb/>
+
+        منك مثلما تخوّفته ممّا ألجأني إلى مصالحتك وألجأك إليّ فثق بذلك
+      </p>
+
+      <p n="Everything Has Its Time">
+        فإنّ لكلّ
+        <lb/>
+
+        عمل حين يُعمل فيه ولا يُجاوز به حينه
+      </p>
+
+      <p n="The Rat Explains Not Cutting the Last Rope">
+        فأنا قاطع حبائلك لحين القطع وتارك
+        <lb/>
+
+        منها عقدة أرتهنك بها ولا أقطعها إلّا في الساعة التي أعرف أنك تشتغل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

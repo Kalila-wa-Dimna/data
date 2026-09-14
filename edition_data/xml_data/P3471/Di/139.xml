@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="139"/>
+
+      <p n="God Placed Signs of Truth in the World and Prophets to Explain Them">
+        أمور الآخرة بما حمل أهل الثقات من أقاويل الرسل وإنّ الله قد جعل
+        <lb/>
+
+        لكلّ شيءٍ علمًا ولكلّ علمٍ حدًّا فأمّا في الدنيا فقد دلّت عليه رسله وأنبياءه
+        <lb/>
+
+        وتبيّنوا عند ذلك
+      </p>
+
+      <p n="Judge is Certain That Dimna Instigated the Lion against the Ox">
+        ونحن أيضًا قد قبلنا شأنك علمًا بخبر من وثقنا بقوله
+        <lb/>
+
+        وقد انتهينا في علم أمرك إلى حدّه فاستبان لنا أنّك بمكرك ونميمتك وفجورك
+        <lb/>
+
+        حملت سيّدنا على قتل خليله البريء العالم الرؤوف بالرعيّة القيّم بالحقّ
+      </p>
+
+      <p n="King's Mercy Permitted Investigation Despite Convincing Testimony">
+        ولكنّ سيّدنا أصلحه الله لرأفته بالرعيّة ومودّته وحُسن رويّته ورحمته
+        <lb/>
+
+        إيّاهم وحرصه على التثبّت في أمورهم أمر بالتودّد في الفحص عن شأنك
+        <lb/>
+
+        وإن كان القضاء فيك بيّنًا عندنا واضحًا لدينا
+      </p>
+
+      <p n="Dimna Accuses Head of Court of Ignoring Facts">
+        قال دمنة إنّ منطقك
+        <lb/>
+
+        منطق من لا يلتمس الإنصاف ولا يتحرّى بالحقّ ولا رأيًا عندك ولا رحمةً
+        <lb/>
+
+        ولا نظر في أمر مظلوم ولا استنقاذ المكروب
+      </p>
+
+      <p n="After Three Days Dimna's Guilt Is Unproven">
+        وأنت ترى أن أُقتل ولم
+        <lb/>
+
+        أخصم وتعجل إلى موافقة هواك ولم يستضيء لك شيءٌ ممّا عرفت به ولم تمض لك
+        <lb/>
+
+        ثلاثة أيّامٍ بعد في المسألة ولا رأيت أنّي غُلبت في شيء
+      </p>
+
+      <p n="Vile People Dislike Good People">
+        ولكن صدق القائل
+        <lb/>
+
+        إنّ الذي لم يتعوّد العمل بالبرّ من الناس فضلًا عن أن يعوّد نفسه
+        <lb/>
+
+        ما لم يكن من عادتها وعلمها ليس بملومٍ في تهوّره لأنّ الفاجر لا يحبّ أهل الصلاح
+        <lb/>
+
+        ولا من يعمل بأعمال التقاة
+      </p>
+
+      <p n="A Judge Has the Authority to Punish and Reward">
+        قال القاضي لدمنة إنّا نجد في كتب الرسل
+        <lb/>
+
+        أنّه حقٌّ على القاضي العادل أن يعرف المحسنين والمسيئين ليُجزى كلًّا منهما
+        <lb/>
+
+        بعمله لأنّ في إثباته المحسنين وعقوبته المسيئين نشاطًا لأهل الإحسان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="379"/>
+
+      <p n="Jackal Was Accused despite His Loyalty">
+        سبق منه وليس ما أُظهر له من مودّتي ونصيحتي مراقبة منزلتي من غير
+        <lb/>
+
+        نيّة منّي في ذلك
+      </p>
+
+      <p n="Jackal Expects Follow Up Schemes">
+        ولست مع ذلك آمنًا من عداوة أعدائي بتحميل الملك
+        <lb/>
+
+        عليّ بالكذب والباطل إشفاقًا من مكافأتي لهم وحرصًا أن لا يستحقّ عند
+        <lb/>
+
+        الملك كذبهم عليّ
+      </p>
+
+      <p n="Jackal Fears Lion's Gullibility">
+        فإذا فعلوا ذلك لم يحتاجوا في قبول الملك ذلك منهم
+        <lb/>
+
+        إلى عون أقوى من هذه التهمة التي وقعت في نفس الملك مع أنّ الملك
+        <lb/>
+
+        لو كان في الثقة بي وقلّة الاتّهام لي على ما كان عليه ما كان ذلك مُغنيًا
+        <lb/>
+
+        عنّي فلمّا وجدت بدًّا من تخوّف تهمته لنصحي وسوء ظنّه فيّ وسرعته
+        <lb/>
+
+        إلى تصديق فيما يحملونه به عليّ لما أتذكّر من عجلته التي كانت إليّ
+      </p>
+
+      <p n="Jackal Gives Lion the Choice">
+        فإذا كانت لي حال الملك في الثقة بي على ما وصفت فلينظر وجه
+        <lb/>
+
+        ما يريدني عليه من صحبته
+      </p>
+
+      <p n="Lion Says He Tested Jackal">
+        قال الأسد إنّي قد بُلوت طبائعك
+        <lb/>
+
+        وأخلاقك
+      </p>
+
+      <p n="Lion Confirms Jackal's Status">
+        فرأيتها طبائع الكرماء الأخيار
+      </p>
+
+      <p n="The Noble Forgives Misdeeds for One Good Deed">
+        والكريم تنسيه
+        <lb/>
+
+        الخلّة الواحدة من الإحسان ألف إساءة واللئيم بضدّ ذلك
+      </p>
+
+      <p n="Lion Hopes for Renewed Mutual Trust">
+        وأنا واثق
+        <lb/>
+
+        بك وذاكر ما سلف من إحسانك فذكر جميع ما كان عليه ابن آوى
+        <lb/>
+
+        من مودّة الأسد
+      </p>
+
+      <p n="Critical Friend Is Rare">
+        فلمّا فرغ الأسد من كلامه قال ابن آوى
+        <lb/>
+
+        الحائد بنفسه على خليله المتّبع هواه فيما يضرّه الرأي
+        <lb/>
+
+        له والكاذب ممّا هو هيّن يسير فأمّا الخليل العاقل
+        <lb/>
+
+        الناصح الراغب في منفعة خليله بما يعلم وإن ثقل ذلك عليه <>
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

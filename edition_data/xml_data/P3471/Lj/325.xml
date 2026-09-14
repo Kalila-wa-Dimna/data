@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="325"/>
+
+      <p n="Whom to Reinstate">
+        بالشكر فإنّه من كان شكورًا لا يُحبّ تركه قطيعته على حال
+        <lb/>
+
+        من الحالات والخاصّ من الإخوان الوفيّ بالعهد المحبّ للبرّ
+        <lb/>
+
+        المتوقّي للإثم المتعمّد للعامّة بالرحمة لهم وقلّة الحقد والذاكر
+        <lb/>
+
+        لليد الدائم ذكره لأهل ودّه والمستحي الكريم
+      </p>
+
+      <p n="The Faithful Should Be Kept">
+        ومنهم أهل
+        <lb/>
+
+        ورع ودين وفاء ولبّ وحسن خليقة وخلق ولين عريكة
+        <lb/>
+
+        لا يبطرهم غنًى ولا يقنطهم إقتار استقامت طريقتهم فَوَفوا
+        <lb/>
+
+        لإخوانهم وقلّ حقدهم وعرفوا حقّ الله عليهم واجتنبوا كلّ شيء
+        <lb/>
+
+        فيه الإثم لهم
+      </p>
+
+      <p n="Keeping the Virtuous Is Beneficial">
+        فصلة أولئك حقّ ومؤاخاتهم رشد ومخالطتهم
+        <lb/>
+
+        غنيمة أولئك يُقتبس الخير منهم ويُلتمس من عندهم
+      </p>
+
+      <p n="People Who Should Be Kept">
+        ومن عُرف
+        <lb/>
+
+        بالصلاح وكرم العهد والشكر والوفاء والمحبّة واحتمال الأصحاب
+        <lb/>
+
+        والإخوان وإن ثقلت عليه منهم المؤنة فهذا حقيق أن تُغتنم
+        <lb/>
+
+        صلته ويُمتنع من قطيعته
+      </p>
+
+      <p n="Jackal Has Been Tested">
+        وإنّ ابن آوى من أولئك وقد كنت
+        <lb/>
+
+        جرّبت ذلك منه واختبرته من رأيه وعرفته فأنت حقيق
+        <lb/>
+
+        بمراجعته ومواصلته
+      </p>
+
+      <p n="Lion Apologizes to Jackal">
+        فلمّا سمع الأسد ذلك من قول أمّه دعا
+        <lb/>
+
+        بابن آوى عند ذلك فاعتذر إليه ممّا كان منع به وأمر فيه
+        <lb/>
+
+        ووعده خيرًا
+      </p>
+
+      <p n="Lion Wants to Reinstate Jackal">
+        وقال له إنّي أراك ومعيدك إلى منزلتك التي كنت
+        <lb/>
+
+        فيها وزيادة والحالة التي كنت عليها منّي وأعطيك شيئًا أنا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

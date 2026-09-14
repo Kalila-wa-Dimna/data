@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="190"/>
+
+      <p n="Foreigners Translate Parrots' Words, Refuse Meal in House of Sin">
+        فقال بعضهم إنّا لا نأكل طعام أحدٌ ونخونه فقالوا
+        <lb/>
+
+        ذلك لصاحب البيت
+      </p>
+
+      <p n="Falconer's Training of Parrots Is Discovered">
+        قال فسأل القوم أن يكلّموها
+        <lb/>
+
+        بغير ذلك إن كانوا يُحسنوا فلم يجدوهما يحسنان
+        <lb/>
+
+        غير تلك الكلمتين ففهموا أنّها مكيدةٌ قد عملها
+        <lb/>
+
+        البارناي ليشنّع على المرأة ويضرّها
+      </p>
+
+      <p n="Falcon Gouges Out His Eyes">
+        فأمر البارناري
+        <lb/>
+
+        بالدخول عليهم فدخل وعلى يده بازٌ يعلّمه فنادته
+        <lb/>
+
+        مولاته من ورى الحجاب أيّها العبد لنفسه أنت علّمت
+        <lb/>
+
+        البيغان هذا الكلام فقال نعم أنا إذا سألت فأقول
+        <lb/>
+
+        ما قد رأيت فوثب الباز الذي كان على يده فتناول
+        <lb/>
+
+        بمخلابه حدقة البارناري وأخدها
+      </p>
+
+      <p n="Wife Interprets This As God Punishing False Testimony">
+        فقالت مولاته
+        <lb/>
+
+        بحقّ ما أصابك إنّه من الله تعالى بشهادتك ما لم ترى
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded and Court's Members Leave for the Day">
+        فكتب القاضي ما قاله دمنة ثمّ رفعه إلى الأسد
+      </p>
+
+      <p n="The Lion Shows the Records to His Mother Who Warns of Dimna’s Past and Future Crimes">
+        فنظر
+        <lb/>
+
+        فيه ودعا أمّه وأعرضه عليها فقالت أمّ الأسد
+        <lb/>
+
+        أطاب اهتمامي لك وصديقك حيّا وقتلته بغير
+        <lb/>
+
+        ذنبٍ
+      </p>
+
+      <p n="Lion Moved by Mother's Words">
+        فوقع كلامها في نفسه
+      </p>
+
+      <p n="Mother Wants to Keep Source Secret">
+        وقالت إنّي أكره إفشاء
+        <lb/>
+
+        السرّ واستظهر عليه بما أنهت عنه العلماء
+      </p>
+
+      <p n="Mother Persuades Leopard to Testify">
+        ثمّ إنّها
+        <lb/>
+
+        أرسلت إلى النمر وذكرت ما همّ فيه من تدبير الأسد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

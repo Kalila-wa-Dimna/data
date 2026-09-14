@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="182"/>
+
+      <p n="Conceit Caused Dimna's Demise">
+        الهلكة
+      </p>
+
+      <p n="The Schemer Dies Before His Time">
+        فإنّ العلماء قد قالوا لا لمحل وأنت تعلم أنّك حي قبل أجلك
+      </p>
+
+      <p n="Kalila Calls Dimna's Situation Worse Than Death">
+        وأنت قد فارقت كلّ خير نيتك وإثارك هواك أو دفعك الخير
+        <lb/>
+
+        وسرعتك إلى الشرّ
+      </p>
+
+      <p n="Dimna Cites His Greed as Cause for Not Listening">
+        قال دمنة إنّك لم تزلْ تكلّم بالحقّ وتأمر به ولكن
+        <lb/>
+
+        لم أسمع منك لدرك الشقاء واتّباع الشهوة وشره النفس ولولا
+        <lb/>
+
+        ذلك كان فيما وعظتني به ما أستمع له
+      </p>
+
+      <p n="Who Ignores Friends’ Advice Comes to Regret">
+        وقد قالت العلماء أنّ الذي لا
+        <lb/>
+
+        يستمع من إخوانه ونصحائه يصير إلى أمر الندامة
+      </p>
+
+      <p n="Dimna's Ambition Dominated Him">
+        وقد حلّ فيّ
+        <lb/>
+
+        ذلك بي ولكن ما عسيت أن أصنع فإنّ الحرص والشره والشهوة
+        <lb/>
+
+        يغلبن حلم الحليم وعلم العالم
+      </p>
+
+      <p n="Desire for Noxious Food Kills the Patient">
+        كالمريض الذي يعلم أنّ شهوته
+        <lb/>
+
+        من الطعام شرّ له في مرضه وأنه معقبه الوجع الشديد
+        <lb/>
+
+        فلا يدعه لشره نفسه وشهوتها فيزداد مرضًا ولعلّه
+        <lb/>
+
+        يقتله
+      </p>
+
+      <p n="Dimna's Late Recognition of His Greed Doesn't Help">
+        وكذلك أنا حملتني الشهوة ورغبة النفس على الذي
+        <lb/>
+
+        فعلته وأنا أعلم بأنّه لا يصلح فلم يزلْ ذلك من علمي
+      </p>
+
+      <p n="Kalila Advises Dimna to Confess">
+        قال كليلة
+        <lb/>
+
+        والآن أيضًأ آمرك إن سمعت منّي أن تُعرِّفه بذنبك وتُقر بجرمك
+        <lb/>
+
+        فإنّك ميّت لا محالة وإن تقتلْ في الدنيا خير لك من عذاب الآخرة
+        <lb/>
+
+        الدائم
+      </p>
+
+      <p n="Kalila Goes Home">
+        وانطلق كليلة إلى منزلة فوقع في همّ وحزن مخافة أن يؤخذ
+        <lb/>
+
+        بذنب دمنة
+      </p>
+
+      <p n="Kalila Dies">
+        فاستطلق بطنه ومات في ليلته
+      </p>
+
+      <p n="The Mother Calls In Lion's Promise to Act">
+        ولمّا أن كان من غد
+        <lb/>
+
+        دخلت أمّ الأسد على الأسد وقالت اذكرْ الذي وعدتني به البارحة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

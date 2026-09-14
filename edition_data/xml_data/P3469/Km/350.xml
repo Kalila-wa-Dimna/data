@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="350"/>
+
+      <p n="King W Orders the Hole to Be Blocked">
+        وأحكموه واستقرّت الريّاح من الخروج وانحسمت مادّتها
+      </p>
+
+      <p n="A Draught Ensues">
+        فبقي
+        <lb/>
+
+        ذلك البلد جميعه مهموسًا لم يجد فيه نسمة هواء وانقطع منهم
+        <lb/>
+
+        الريح بالكليّة فلم يمضي عليهم حتّى جفّت أشجار ذلك الجبل
+        <lb/>
+
+        وانحلّ وذهب حسنه وجفّت الأرض إلى نحو مئتي فرسخ
+        <lb/>
+
+        وتماوت الحيوان وضجّ العالم وسمت الأرواح وغارت العيون
+        <lb/>
+
+        والمياه وهلك من الناس خلقًا عظيم
+      </p>
+
+      <p n="The People Kill the King and His Court">
+        فلم يزل ذلك بهم إلى
+        <lb/>
+
+        أن ضجّ الناس فوثب من بقي ممّن له رمق وهجموا على دار
+        <lb/>
+
+        الملك وقتلوه ووزيره وأهله وولده
+      </p>
+
+      <p n="The People Burn the Wood Blocking the Hole">
+        فلمّا لم يبق من ذريّة الملك
+        <lb/>
+
+        أحد أعطفوا على ذلك السدّ فأخربوه وأطلقوا النار في تلك
+        <lb/>
+
+        الأحطاب
+      </p>
+
+      <p n="The People Return Home">
+        فلمّا احتكمت النار وقوي حرّها تراجع الناس
+        <lb/>
+
+        إلى مواضعهم
+      </p>
+
+      <p n="The Winds Spread Annihilating Fire">
+        فلمّا بلغت الناس من الحطب منتهاه وجدت
+        <lb/>
+
+        الريح منفسًا فخرجت بحميّة بعد احتباسها فاحتملت النار
+        <lb/>
+
+        معها وذرتها في ذلك البلد جميعه ونسفت الريح من تلك
+        <lb/>
+
+        الأراضي حتّى لم تدع قرية ولا مدينة إلاّ دمّرتها وهلك كلّ
+        <lb/>
+
+        من بقي من الحيوان والناس أجمعين
+      </p>
+
+      <p n="King R Deems Fortune Inevitable">
+        قال ملك الجرذان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="43"/>
+
+      <p n="Analogy of Dog and Bone">
+        فيفرح له
+      </p>
+
+      <p n="Contrast Between Ambitious and Content">
+        فأمّا أهل المروءة والنبل فلا يقنعون بذلك دون أن يسموا إلى
+        <lb/>
+
+        ما هم مستحقّون
+      </p>
+
+      <p n="Lion's Hunting Behavior Analogy">
+        كالأسد الذي يفترس الأرنب فإذا رأى العنز تركها أي الأرنب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

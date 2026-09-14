@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="103"/>
+
+      <p n="The Lion Assembles the Court and Summons Dimna">
+        |وجيءَ بالخبِّ الخبيثِ دمنَهْ ### والحقُّ بادٍ ليس فيهِ ظِنَّهْ
+      </p>
+
+      <p n="The Lion Lowers His Head in Shame">
+        |فأطرقَ الضرغامُ إذ رآهُ ### مُفكّرًا ودمعتْ عيناهُ
+      </p>
+
+      <p n="Dimna Inquires About the Lion's Dejection">
+        |فقال للقومِ وقد تجاهلا ### أظنُّ للهُمام شغلًا شاغِلا
+        <lb/>
+
+        |ما لي أراهُ مُطرِقًا مفكِّرًا ### فما الذي من حادِثِ الدهرِ طرا
+      </p>
+
+      <p n="The Mother Declares Dimna Responsible">
+        |قالت له مغضبةً أمُّ الأسدْ ### وهْي لما يجري هناك بالرَّصَدْ
+        <lb/>
+
+        |إطراقُهُ ندامةٌ إذ تَرَكَكْ ### ولم يكنْ من فورِهِ قد أَهْلَكَكْ
+        <lb/>
+
+        |والآن منك يا خبيثُ يَنْتَقِمْ ### بسوءِ ما قدّمتَهُ ويَصْطَلِمْ
+      </p>
+
+      <p n="Dimna Wants to Know His Alleged Crime">
+        |قال وما ذنبي
+      </p>
+
+      <p n="The Mother Is Outraged by Dimna's Feigned Ignorance">
+        فقالتِ اقْطَعْ ### فأيَّ ذنبٍ فاحِشٍ لم تصْنَعْ
+        <lb/>
+
+        |إنّك لو فكّرتَ في خيانتِكْ ### وعُظْمَ ما بلغتَ في سعايتِكْ
+        <lb/>
+
+        |علِمتَ أنّ القتلَ ليس يشفي ### منك ولا يُقنعْهُ ويكفي
+        <lb/>
+
+        |أوّلُ ما في ذلك استجهالُكا ### بجهلِك الجَمِّ الهُمامَ المالِكا
+        <lb/>
+
+        |وتركُكَ البريءَ من أصحابِهْ ### مُمزَّقًا بظُفرِهِ ونابِهْ
+      </p>
+
+      <p n="Good People Suffer Misfortune Fastest">
+        |قال لها دمنةُ قد أتاني ### تصديقُ ما سمعتُ في زماني
+        <lb/>
+
+        |كان يُقال مَن تناهى واجتهَدْ ### في طلبِ الخيرِ رأى شرَّ نَكَدْ
+      </p>
+
+      <p n="Who Keeps Bad Company Does Not Escape Evil">
+        |وليس هذا مثلَ الهُمامِ ### وجندِهِ الأفاضلِ الكِرامِ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="133"/>
+
+      <p n="Quack Ordered to Mix Drug">
+        ** بالأسفاط التي كان فيها أدوية ذاك الطبيب
+      </p>
+
+      <p n="Quack Confuses Drug with Poison">
+        فأُتي بها فوُضعت بين **
+        <lb/>
+
+        بين يديه وكان جاهلًا فضرب بيده إلى صرّةٍ فيها سمٌّ قاتلٌ فخلط منها
+        <lb/>
+
+        ومن غيرها
+      </p>
+
+      <p n="Quack Identifies Drug to King">
+        ثمّ قال هذا زامهرار
+      </p>
+
+      <p n="King Rewards Quack">
+        فلمّا رأى الملك سرعة خلطه الأدوية
+        <lb/>
+
+        ظنّ أنّه عالمٌ فأمر له بجائزةٍ وكسوة ثمّ خلط الجاهل بدواء يُعرف بميسوس
+      </p>
+
+      <p n="Quack Poisons Princess">
+        ثمّ سقاه الجارية فلمّا وقع في بطنها فقُطّعت أمعاءها وماتت
+      </p>
+
+      <p n="King Has Quack Drink the Poison Too">
+        فأمر الملك
+        <lb/>
+
+        أن يُسقى الجاهل بقيّة ذلك الدواء الذي عمله فلمّا شربه مات لوقته
+      </p>
+
+      <p n="Speaking Ignorantly to Please Others Is Wrong">
+        وإنّما ضربت لكم هذا المثل لكيلا تتكلّموا بما لا تعلموا التماس رضاء غيركم
+        <lb/>
+
+        فإنّما يُجزى كل امرءٍ بعمله وأنا برئٌ ممّا لُطّخت به
+      </p>
+
+      <p n="Prominent Courtier/Head of Court Suggests Physiognomy">
+        فقالت خندريس
+        <lb/>
+
+        وهو رأس الجبّارين لثقته بمنزلته من الملك اسمعوا أيّها الجمع وفكّروا
+      </p>
+
+      <p n="Bodily Marks Are Proof of Character">
+        فإنّ العلماء لم يدعوا شيئًا من آيات الأخيار والأشرار إلّا وقد بيّنوها
+      </p>
+
+      <p n="Dimna’s Character is Visible in His Body">
+        وعلامات الأشرار في هذا الشقى بيّنةٌ وقد يناله مع ذلك بناء سوءٍ
+      </p>
+
+      <p n="Judge/Investigator/Audience Request Physiognomical Evaluation">
+        فقال عظيم الجمع لرأس الجبّارين قد سمعنا ذلك وقليلٌ من يعرفه فأعلمنا
+        <lb/>
+
+        ما الذي قد رأيت في هذا الشقيّ
+      </p>
+
+      <p n="Prominent Courtier Diagnoses Dimna as Traitor">
+        فأخذ بيد دمنة وقال قد قالت
+        <lb/>
+
+        العلماء من كانت عينه اليسرى صغيرةٌ كثيرة الاختلاج وأنفه مائلٌ إلى
+        <lb/>
+
+        شقّه الأيمن وما بين عينيه من الشعر متبدّدٌ وإذا مشى نكّس رأسه
+        <lb/>
+
+        ولا يزال ملثقًا وراءه فإنّه صاحب نميمةٍ وفجورٍ وهذه الصفات في هذا
+        <lb/>
+
+        الشقيّ
+      </p>
+
+      <p n="Bodily Marks Are Claimed to Predict Deeds">
+        قال دمنة كلّنا تحت سماء الله وأرضه وأنتم ذووا أحلام وعلم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="341"/>
+
+      <p n="The Rat King Chides the Silent Vizier">
+        ممّا يمكن أن يعمل فيها ما لا يمكن أن يعمل وهذا الأمر
+        <lb/>
+
+        الذي تخايرناه إن كان من الأمور التي لا يمكن أن تتمّ ولا
+        <lb/>
+
+        ينبغي لنا أن نصرف العناية إليه
+      </p>
+
+      <p n="The Rat King Has the Third Vizier Respond">
+        فعلى كلّ حال قد كان
+        <lb/>
+
+        سبيلك أن تذكر لنا ما عندك فيه رأي ولا تكون كأنّك
+        <lb/>
+
+        أخرس أبكم
+      </p>
+
+      <p n="The Third Vizier Was Listening">
+        فلمّا سمع الملك من هذا الكلام فيما عيّب
+        <lb/>
+
+        به الوزير الثالث قال ليس الواجب أن يعذّبني الملك
+        <lb/>
+
+        حيث أسكت من الكلام إلى هذا الوقت لأنّي فعلت ذلك
+        <lb/>
+
+        لأسمع جميع ما أتوا به أصحابي على الكمال وأنا أفكّر
+        <lb/>
+
+        ولا أقاطع عليهما ثمّ أشرح ما عندي بحسب معرفتي
+      </p>
+
+      <p n="The Rat King Requests the Third Vizier's Opinion">
+        قال
+        <lb/>
+
+        الملك فهات لنا ما عندك
+      </p>
+
+      <p n="The Third Vizier Has No Solution">
+        قال الوزير ما عندي أكثر من
+        <lb/>
+
+        هذا وهو أن أعلّم الملك له حيلة يبلغ بها مراده من
+        <lb/>
+
+        هذا الأمر ويحقق هذا ذلك تحقيقًا صحيحًا وإلّا فما
+        <lb/>
+
+        سبيله أن يحرّض عليه ولا يفكّر فيه لأنّ ما يُتوارث
+        <lb/>
+
+        من الآباء والأسلاف فينا شيء إلّا وقد اجتهدوا فيه فالأمر
+        <lb/>
+
+        لله العظيم بالطبع لا يقدر أحدًا ولا ملك من الملوك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

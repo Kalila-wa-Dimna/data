@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3478</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="417"/>
+
+      <p n="unassigned">
+        السمكة تشبّث في حلقه الخشبة فمات من ذلك ففعلت
+        <lb/>
+
+        الأنثى ما أشار به المرزم عليها وطارت حتّى وقعت
+        <lb/>
+
+        عند الصيّادين الذين وصفهم المرزم فأصابت بعض
+        <lb/>
+
+        السّمك المدخول فيه الخشب فأتت به فألقته قريبًا
+        <lb/>
+
+        من العلجوم فالتقمه فتشبث الخشبة في حلقه فمات والله أعلم
+        <lb/>
+
+        وبقي المرزم والأنثى أيّامًا وجعل المرزم يظهر للأنثى
+        <lb/>
+
+        المودّة ويزيدها في البرّ ثمّ إنّ الأنثى تفاوضت المرزم
+        <lb/>
+
+        ما وعدها من الزوج فسار إلى شجرة فوقع عليها فإذا
+        <lb/>
+
+        هو بابن آوى يلتمس رزقه فصاح به يا ابن آوى أبشر
+        <lb/>
+
+        بما تحبّ فقال له يا ابن آوى وما هو قال إنّ لي عدوًّا
+        <lb/>
+
+        من العلاجيم كأسمن ما يكون منها وأنا أريد أن أخدعه حتّى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kw</chapter>
+  </chapter>
+</TEI>

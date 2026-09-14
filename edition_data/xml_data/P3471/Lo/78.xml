@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="78"/>
+
+      <p n="Dimna's Analogy of Strength and Heavy Burdens">
+        عن الحمل الثقيل
+      </p>
+
+      <p n="The Strong Man with the Burden">
+        ولا تضرّ العاقل الغربة ولا يعنى بالكسب
+        <lb/>
+
+        ذو الحيلة ولا تمنع من التواضع ولين الجانب أحد
+      </p>
+
+      <p n="Kalila on Rulers' Favoritism">
+        قال كليلة
+        <lb/>
+
+        فإنّ السلطان لا يتوخّى بكرامته أفضل من بحضرته مروءة ولكن
+        <lb/>
+
+        يؤثر بذلك من دنا منه
+      </p>
+
+      <p n="Analogy of Vine and Tree Proximity">
+        ويقال إنّ مثل السلطان في ذلك مثل الكرم
+        <lb/>
+
+        الذي لا يعلق بأكرم الشجر ولكن بأدنى منه
+      </p>
+
+      <p n="Comparison to Women's Preferences">
+        وكذلك النساء أيضًا
+        <lb/>
+
+        لا يعلقن بالشرف والجمال ولكن بمن دنى منهنّ ولطف بهنّ
+      </p>
+
+      <p n="Kalila Questioning Dimna's Proximity to the Lion">
+        فكيف
+        <lb/>
+
+        ترجو المنزلة عند الأسد ولست ممّن يدنو منه
+      </p>
+
+      <p n="Dimna's Explanation of Gaining Favor">
+        قال دمنة قد فهمت
+        <lb/>
+
+        ما ذكرت وأنت صادق ولكن اعلم أنّ الذين هم قريبًا من السلطان
+        <lb/>
+
+        قد كانوا وليست تلك منازلهم ثمّ دنوا منه بعد البعد
+      </p>
+
+      <p n="Dimna's Determination to Succeed">
+        فأنا ملتمس
+        <lb/>
+
+        مكانهم وبلوغ منزلتهم بجهدي
+      </p>
+
+      <p n="Kalila's Warning about Dangers of Serving Rulers">
+        وكان يقال لا يواظب على باب
+        <lb/>
+
+        السلطان أحد فيلقي عنه الأنفة ويحتمل الأذى ويكظم الغيظ
+        <lb/>
+
+        ويرفق بالناس إلّا خلص إلى حاجته منه
+      </p>
+
+      <p n="Kalila Questioning Dimna's Strategy">
+        قال كليلة هبك قد وصلت
+        <lb/>
+
+        إلى الأسد فما رفقك الذي ترجو أن تنال منه المنزلة عنده
+      </p>
+
+      <p n="Dimna will Make the Lion See His Benefit">
+        قال لو قد
+        <lb/>
+
+        دنوت من الأسد وعرفت أخلاقه ثمّ رفقت في متابعته وقلّة
+        <lb/>
+
+        المخالفة له فإذا أراد أمرًا هو عندي صوابًا زيّنته له وبصّرته ما فيه
+        <lb/>
+
+        من الرشد وشجّعته عليه حتّى يعمل به وينفذ فيه
+      </p>
+
+      <p n="Dimna will Make the Lion See His Harm">
+        وإذا أراد أمرًا
+        <lb/>
+
+        يخاف ضرّه وشينه بصّرته ما فيه من الضرر وما في تركه من النفع بأرفق
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

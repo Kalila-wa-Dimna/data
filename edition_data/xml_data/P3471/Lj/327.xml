@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="327"/>
+
+      <p n="Lion Must Accept Refusal">
+        بي وأنّه لا ينبغي له استصحابي
+      </p>
+
+      <p n="The Mistreated Cannot Be Trusted">
+        فإنّ من كان قد أصيب بعظيم من البلاء
+        <lb/>
+
+        مثلي غير مستوجب له لا يُطمئنّ إلى مصاحبته
+      </p>
+
+      <p n="Jackal Is Reluctant to Trust Lion Again">
+        وقد كان من الملك
+        <lb/>
+
+        إليّ ما قد علم فلا يأخذنّ في نفسه إن أخبرته أنّي به غير واثق
+      </p>
+
+      <p n="King Must not Trust the Wrongfully Punished">
+        وأنّه لا ينبغي له أن يتّخذني لنفسه ولا يطمئنّ إلى من عاقبته
+        <lb/>
+
+        أشدّ العقوبة على أقطع الذنوب
+      </p>
+
+      <p n="King Must not Trust the Deposed">
+        أو من قد نزعه عن علمه وأزاله
+        <lb/>
+
+        عن مرتبته وأقصاه
+      </p>
+
+      <p n="King Must not Trust the Extorted">
+        أو كان قد سلب ماله ظلمًا وأغرمه في غير
+        <lb/>
+
+        ذنب
+      </p>
+
+      <p n="King Must not Trust Someone Denied Honor">
+        أو كان مقرّبًا للكرامة أهلًا وكان موثوقًا به في الأمور
+        <lb/>
+
+        التي يُحتاج فيها إلى مثله فلم يُعرف ذلك ولم يُؤت إليه ما هو أهل
+        <lb/>
+
+        وأُقصي عن غير عمله
+      </p>
+
+      <p n="King Must not Trust the Unrewarded">
+        أو من عُرف بحسن الرأي والمقدرة والنظر والبصر
+        <lb/>
+
+        فقُرّب لذلك وشوّر وسوّف ثمّ لم يكافأ به ولم يوصل عليه
+      </p>
+
+      <p n="King Must not Trust One Singled out for Punishment">
+        أو من كان
+        <lb/>
+
+        في أناس من نظرائه فأُنعم عليهم في ذنب اجترموه وعوقب
+        <lb/>
+
+        من بينهم ولم يُفعل به مثل الذي أتي إليهم
+      </p>
+
+      <p n="King Must not Trust One Passed Over in Favors">
+        أو كان ممّن قد استوجب
+        <lb/>
+
+        في نظرا له ثوابًا فأثيبوا دونه وفُضّلوا عليه
+      </p>
+
+      <p n="King Must not Trust Someone Denied Justice">
+        أو من كان مظلومًا
+        <lb/>
+
+        فلم يُنظر في أمره ولا فيما ارتُكب منه
+      </p>
+
+      <p n="King Must not Trust the Humiliated">
+        أو ممّن استُهزئ به وأوذي
+        <lb/>
+
+        وصُغّر في مجمع الناس عن غير جرم
+      </p>
+
+      <p n="King Must not Trust Someone Denied Pardon">
+        أو كان أذنب ذنبًا يسيرًا لم يستحقّ
+        <lb/>
+
+        به عقوبة وكان ممّن ينبغي له أن يُعفى عنه لها فلم يُفعل ذلك به
+      </p>
+
+      <p n="King Must not Trust the Greedy and Unsatisfied">
+        أو كان معروفًا بإفراط الحرص والشره والطمع فلم يصبْ بعض سائر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

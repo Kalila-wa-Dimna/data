@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="71"/>
+
+      <p n="A Ruler Must Not Punish Based on Suspicion">
+        وإنّ السلطان لا ينبغي له أن يعاقب على الظنّ والشبهة حتّى يضيء له الأمر ويستبين
+        <lb/>
+
+        فإنّ الدم عظيمٌ شأنه
+      </p>
+
+      <p n="The Lion Wants to Avoid Killing Another Innocent">
+        وإنّي وإن كنت ذا **
+      </p>
+
+      <p n="Dimna Asks for Unimpeachable Investigator">
+        ** أمانةٍ وإسلامٍ لا تأخذه في الحقّ لومة لائمٍ ولا
+        <lb/>
+
+        تكون عنده محاباةٌ لأحدٍ ثمّ يرفع إليه عذري وما يسمع من غيري فينظر فيه ولا يأخذه
+        <lb/>
+
+        في أمري أقاويل البغاة على الحسدة لي
+      </p>
+
+      <p n="Dimna's Station Exposes Him to Jealousy">
+        فإنّها قد كانت لي من الملك منزلةٌ أُنافَسها ومحلّ
+        <lb/>
+
+        بي إليه لها
+      </p>
+
+      <p n="Dimna Claims only Investigation Can Save Him">
+        فإن هو لم يفعل ذلك ويكون رأيه فيّ على ما كان فلا مأمل لي ولا ملجأ
+        <lb/>
+
+        إلّا إلى الله الذي يعلم أسرار العباد وما تُخفي ضمائرهم ولعلّي أن أكون أبصر بذلك منه
+      </p>
+
+      <p n="Doubt and Certainty Must Not Be Confused">
+        وقد كان يقال إنّ الذي يعمل بالشبهة ولا يثبّت عندها
+      </p>
+
+      <p n="Dimna's First Subtale of the Woman Who Mistook Her Servant for Her Lover">
+        يكون أمره كأمر المرأة
+        <lb/>
+
+        التي شبّهت عبدها صديقها وفضحها
+      </p>
+
+      <p n="Lion's Question for Woman's Tale">
+        فقال الأسد وكيف كان ذلك
+      </p>
+
+      <p n="A Merchant's Wife Had a Lover">
+        فقال دمنة زعموا أنّه
+        <lb/>
+
+        كان بأرض كشمير مدينةٌ تسمّى بابرود وكان فيها تاجرٌ يقال له أحمر وكانت له امرأةٌ حسناء
+        <lb/>
+
+        شابّةٌ وكان لها جارٌ مصوّرٌ صديقٌ له فعلقت به
+      </p>
+
+      <p n="Woman Asks Lover to Create a Sign">
+        فقالت له هل تقدر على أن تصنع شيئًا إذا أتيتني
+        <lb/>
+
+        من الليل عرفتك به فخرجت إليك من غير أن تصوّت بي
+      </p>
+
+      <p n="Painter Suggests Black-and-White Coat to Woman">
+        فقال لها نعم أعمل ملاءةً ضوءها
+        <lb/>
+
+        كضوء القمر وسوادها كسواد الحدقة فإذا رأيتيها عليّ فاخرجي فهي آية ما بيني وبينك
+        <lb/>
+
+        فأعجبها ذلك
+      </p>
+
+      <p n="The Woman's Servant Hears About Coat">
+        وسمعه عبدٌ لها
+      </p>
+
+      <p n="Woman's Servant Borrows Coat In Painter's Absence">
+        فلمّا كان بعد أيّامٍ انطلق العبد إلى وليدة صديقها فاستعار
+        <lb/>
+
+        تلك الملاءة فأعطته إيّاها فلبسها
+      </p>
+
+      <p n="Servant Tricks Woman">
+        ومضى إلى سيّدته ليلًا فلمّا رأت الملاءة عليه لم تشكّ
+        <lb/>
+
+        أنّه صديقها فنكحها ثمّ ردّ الملاءة
+      </p>
+
+      <p n="Lover Realizes She Was Tricked">
+        فرجع صديقها من ليلته فلمّا جاءته قالت له ما أمرك فقد
+        <lb/>
+
+        أسرعت العود بعد قضاء حاجتك فعرف أنّه قد دُهي
+      </p>
+
+      <p n="The Lover's Servant Confesses">
+        فرجع إلى منزله فأخذ وليدته فأوجعها
+        <lb/>
+
+        ضربًا فحدّثته بالخبر فأخذ الملاءة فأحرقها
+      </p>
+
+      <p n="Dimna Opposes Acting Upon Doubt">
+        ثمّ قال دمنة للأسد وإنّما ضربت للملك هذا
+        <lb/>
+
+        المثل لئلّا يعجّل في أمرٍ شبّه فيحمل الإصر والوزر
+      </p>
+
+      <p n="Dimna Denies Fear of Death">
+        ولست أقول ما تسمع شفقًا من
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

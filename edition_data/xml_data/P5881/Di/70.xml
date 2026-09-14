@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="70"/>
+
+      <p n="The Lion Feels Misguided by a Schemer">
+        بتحمّل الأشرار وبغيهم ولم أسمع من أحدهم مثل مقالتك هذه
+      </p>
+
+      <p n="The Lion Wants to Conduct an Investigation">
+        فالآن علمت أنّ كثرة البحث
+        <lb/>
+
+        والفحص تظهران الحقّ وتبطلان الباطل
+      </p>
+
+      <p n="The Lion Asks Whether His Mother Has Any News">
+        فأخبريني الآن من ذكر لك ذلك وممّن سمعته
+      </p>
+
+      <p n="The Mother Alludes to Her Secret Knowledge">
+        قالت
+        <lb/>
+
+        له أمّه افعلْ ما أمرتك به وثقْ بقولي واطمئنّ إليّ فإنّي مخبرك بالذي أخبرني ذلك وأطلعني على
+        <lb/>
+
+        السرّ حتّى عرفته
+      </p>
+
+      <p n="Keeping Secrets is Praiseworthy">
+        اعلمْ أبقاك الله أنّ العلماء قد قالوا إنّ أحمد الناس عاقبة في الدنيا والآخرة أكتمهم
+        <lb/>
+
+        للأسرار
+      </p>
+
+      <p n="Scholars Say Various Things">
+        قال لها الأسد قول العلماء على أمور كثيرة وليس قولهم في كلّ خبر وفي كلّ أمر نصيحة
+        <lb/>
+
+        يُعمل بها
+      </p>
+
+      <p n="Leaving Crimes Unreported Leads to Harm">
+        فإنّهم قالوا من اطّلع على ذنب المذنبين فكتمه السلطان ولم يعاقبوا بذنوبهم ولم يُدانوا
+        <lb/>
+
+        بها عوقب بها يوم القيامة الذي كتمها مع الذي عمل بها
+      </p>
+
+      <p n="The Source Wants to Extricate Himself">
+        فإنّ الذي أطلعك على هذا السرّ لم يطلعك
+        <lb/>
+
+        عليه إلّا ليخبرني به
+      </p>
+
+      <p n="The Lion Urges His Mother to Disburden Herself">
+        فحدّثيني بالحديث وبيّني لي الأمر واخلعيه أيضًا من عنقك واتركيني
+        <lb/>
+
+        أعمل فيه بالذي ينبغي
+      </p>
+
+      <p n="The Mother Wants the Lion to Investigate">
+        قالت له أمّه إنّي قد علمت أنّ الأمر كما ذكرت لكنّي إنّما كرّرت عليك القول
+        <lb/>
+
+        لتزداد في الذي سعى في أمره بحثًا وطلبًا وحرصًا فإذا كنت على علم من هذا الأمر وأنت قادر
+        <lb/>
+
+        فما يمنعك من الفحص عنه وتصحيح قولي فيه وتعمل في هذا الأمر ممّا ينبغي لك أن تعمله
+      </p>
+
+      <p n="The Lion Asks Again About the Source">
+        قال لها
+        <lb/>
+
+        الأسد إمّا أن تخبريني بالحديث أو تخبريني باسمه وحقّقي لي جميع الخبر من أوّله إلى آخره على جهته
+      </p>
+
+      <p n="The Mother Quotes the Leopard Anonymously">
+        قال فامتثلت أمّ الأسد ما قال لها ولدها فأخبرته بكلّ كلام كليلة ودمنة ومعاتبة كليلة
+        <lb/>
+
+        لدمنة أخيه في قتل الثور وسعيه بالنميمة وعرّفته بجميع ما ذكر لها النمر من غير أن تبوح باسم صاحب
+        <lb/>
+
+        السرّ فإنّها كتمته
+      </p>
+
+      <p n="The Lion Is Entitled to Kill Dimna">
+        وكانت فيما قالت له والدته لا تدع هذا الخائن الكاذب المخادع أن يعيش فوق ما عاش
+      </p>
+
+      <p n="Divulging Secrets and Shielding a Criminal Is Harmful">
+        فإنّ العلماء قالوا إنّ فساد الأشياء يكون في حالتين إحداهما إفشاء السرّ والآخر ترك عقوبة من استوجب
+        <lb/>
+
+        عقوبته
+      </p>
+
+      <p n="Dimna Caused the Ox's Killing">
+        وما أدخل الفساد بينك وبين الثور وحملك على قتله غير دمنة بمكره وغدره وسعيه وحيلته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

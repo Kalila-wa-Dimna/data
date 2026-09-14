@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="71"/>
+
+      <p n="The Partner Fears Accusation (Monologue)">
+        بعده فماذا يكون حالي عنده إذ فقد عدلًا من أعداله
+        <lb/>
+
+        وربّما يتّهمني أنا
+      </p>
+
+      <p n="The Partner Fears Accusation (Dialogue)">
+        فلم يزل غمّه حتّى وافاه رفيقه فلمّا
+        <lb/>
+
+        رآه مغتمًّا سأله عن حاله فقال إنّي افتقدت عدلًا
+        <lb/>
+
+        من أعدالك ولا أعلم كيف سببه ولا أشكّ في تهمتك
+        <lb/>
+
+        إيّاي وقد أيقنت على غرامتي لك
+      </p>
+
+      <p n="The Merchant Admits Treachery">
+        فقال له لا تغتمّ يا أخي
+        <lb/>
+
+        فإنّ الخيانة أشرّ ما صنع الإنسان والباغي ربّما عاد
+        <lb/>
+
+        وبال بغيه عليه
+      </p>
+
+      <p n="The Merchant Explains Events upon Request">
+        قال له وكيف ذلك فأخبره وقصّ
+        <lb/>
+
+        عليه الواقعة وكيف أخذ العدل وما لقي فيه من الجهد
+        <lb/>
+
+        والخوف
+      </p>
+
+      <p n="The Partner's Parable about the Thief">
+        فقال له رفيقه ما أشبه ما نالك إلّا بما نال
+        <lb/>
+
+        اللصّ من التاجر قال له وكيف كان قال
+      </p>
+
+      <p n="The Thief Who Mistakes Grain for Gold">
+        زعموا أنّه كان
+        <lb/>
+
+        تاجرًا وله في حانوته خابيتان واحدة مملوءة ورقًا
+        <lb/>
+
+        والأخرى مملوءة برًّا
+      </p>
+
+      <p n="The Thief Eyes Jar">
+        فترقّبهما لصّ زمانًا وفي بعض الأيّام
+        <lb/>
+
+        تشاغل التاجر في بعض أشغاله فجاء اللصّ للحانوت وكمن
+        <lb/>
+
+        في بعض نواحيه فلمّا خرج التاجر لمهمّاته
+      </p>
+
+      <p n="The Thief Takes the Grain">
+        خرج اللصّ
+        <lb/>
+
+        من مكمنه ليحمل الخابية التي فيها الورق فغلط وتناول
+        <lb/>
+
+        التي فيها البرّ ولم يزل في كدّ وتعب حتّى صار إلى
+        <lb/>
+
+        منزله فلمّا فتح الخابية ورأى ما فيها ندم حيث لا ينفعه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

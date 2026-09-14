@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="56"/>
+
+      <p n="Intelligent Readers Must Implement Knowledge">
+        الكتاب وعلمه وبلغ نهاية علمه فيه ينبغي له أن يعمل بما علم منه لينتفع
+        <lb/>
+
+        به ويجعله مثالا لا يحيد عنه فإذا لم يفعل ذلك
+      </p>
+
+      <p n="Man Notices Burglar but Feigns Sleep">
+        كان مثله كالرجل الذي
+        <lb/>
+
+        زعموا أنّ سارقًا تسوّر عليه وهو نائم في منزله فعلم به فقال والله لأسكتنّ
+        <lb/>
+
+        حتّى أنظر ماذا يصنع ولا أذعره ولا أعلمه أنّي قد علمت به فإذ بلغ مراده
+        <lb/>
+
+        قمت إليه فنغّصت ذلك عليه ثمّ إنّه أمسك عنه
+      </p>
+
+      <p n="Burglar Steals and Gets Away">
+        وجعل السارق يتردّد وطال
+        <lb/>
+
+        تزّيده في جمع ما يجده فغلب الرجل النعاس فنام وفرغ اللصّ ممّا أراد وأمكنه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

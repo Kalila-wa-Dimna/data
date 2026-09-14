@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="6"/>
+
+      <p n="Burglar Steals and Gets Away">
+        في الدار فغلب على صاحب المنزل النعاس فنام فخرج السارق بالمتاع
+        <lb/>
+
+        وراح
+      </p>
+
+      <p n="Man Discovers Mishap and Laments">
+        ثم إنّه استيقظ بعد ذهاب السارق بمتاعه فقام يدور في البيت
+        <lb/>
+
+        فلم يجد السارق ولم يجد قد بقي في منزله شيء فجعل يلوم نفسه
+        <lb/>
+
+        ويعاتبها ويعض كفّه أسفًا وندمًا أنّ فطنته وعلمه لم ينفعاه
+        <lb/>
+
+        إذ لم يستعمل علمه في وقت حاجته إليه
+      </p>
+
+      <p n="Knowledge Is Complete with Proper Implementation">
+        والعمل لا يتم إلّا بالعمل
+      </p>
+
+      <p n="Scholar Must Act">
+        فلا ينبغي
+        <lb/>
+
+        لطالب العمل أن يترك استعماله إذا حصل له منه مراده وإن كان
+        <lb/>
+
+        لا يضرّ ذلك فترك طلبه أولى من ترك استعماله
+      </p>
+
+      <p n="Man Hears about Traveller">
+        ألا ترى لو أنّ رجلًا
+        <lb/>
+
+        قال
+      </p>
+
+      <p n="Informed Traveller Takes Risky Road">
+        أنّه عارف بطريق مخوفه ثم ركبه فأصابه فيها مكروهًا
+        <lb/>
+
+        لكان هو يتعجّب من عمل نفسه وفعله ذلك وإقدامه على
+        <lb/>
+
+        أمر يعرف وجه القبح فيه والدناءة وسوء العاقبة وهو بذلك
+        <lb/>
+
+        أشدّ اشتياقًا وشغوفًا من ذلك الرجل الذي ركبه الهول
+        <lb/>
+
+        مع معرفته
+      </p>
+
+      <p n="Desire Impedes Judgement">
+        فحمله ذلك على اتّباع هواه فأوقعه في ما يكره وأرداه
+      </p>
+
+      <p n="Informed Patient Eats Bad Food">
+        كالمريض الذي يعرف ثقيل الطعام من خفيفه ثم تحمله الشهوة والشره
+        <lb/>
+
+        على أكل الثقيل منه فيحدث له بذلك الآلام المزمنة
+      </p>
+
+      <p n="Those in the Know Have No Excuse">
+        فأقلّ
+        <lb/>
+
+        الناس عذرًا في ارتكاب قبيح الأفعال من عرف قبح ذلك الشيء
+        <lb/>
+
+        وبأقلّهم عذرًا أيضًا في ترك الأعمال الحسنة من قد عرف فضلها
+        <lb/>
+
+        وحسن عائدتها وما فيها من المنفعة
+      </p>
+
+      <p n="A Sighted and a Blind Fall into a Ditch">
+        كما أنّه لو أنّ رجلين أحدهما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

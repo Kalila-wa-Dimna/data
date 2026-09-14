@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="61"/>
+
+      <p n="unassigned">
+        مرّة ثمّ اعتنق الضوء
+      </p>
+
+      <p n="Deceived Burglar Is Caught">
+        لينزل بجهله فوقع منكّسًا على رأسه
+        <lb/>
+
+        فوثب إليه صاحب البيت بهراوة كان قد أعدّها له فضربه
+        <lb/>
+
+        ضربًا مهينًا وقال له من أنت ويلك
+      </p>
+
+      <p n="Comment On Burglar's Credulity">
+        قال أنا المصدّق بالمحال
+        <lb/>
+
+        المغرور وهذه ثمرة التصديق بالزور وأنا لكلّ ما تعمل به أهل
+        <lb/>
+
+        إذ صدّقتك
+      </p>
+
+      <p n="Burzoy Researches Religions Further">
+        فلما تحرّرت من التصديق بما لا آمن أن يوقعني في
+        <lb/>
+
+        هلكة عدت في البحث عن الأديان والتماس العدل فيها فلم أجد
+        <lb/>
+
+        عند أحد ممّن كلّمت منهم في ذلك جواب ما سألته عنه ولا فيما
+        <lb/>
+
+        ابتدوني به شيئاً يحقّ عليّ في عقلي أن أصدّق به وأتّبعه
+        <lb/>
+
+        فقلت
+      </p>
+
+      <p n="Ancestral Religion Is No Option">
+        إذا لم أجد ثقة آخذ بها فإنّ الرأي أن ألزم دين
+        <lb/>
+
+        آبائي الذين وجدتهم عليه فلمّا ذهبت التمس العذر لنفسي في
+        <lb/>
+
+        ذلك لم أجد في الثبوت على دين آبائي سبيلًا ولا في ذلك عذرًا
+        <lb/>
+
+        أردت الرجوع إلى البحث عن الأديان والنظر فيها فعرض لي قرب
+        <lb/>
+
+        الأجل وسرعة انقطاع الدنيا ففكّرت في ذلك وقلت أمّا أنا
+        <lb/>
+
+        فلا أدري لعلّ فراق الدنيا أسرع من تقلّب كفّي وقد كنت أعمل
+        <lb/>
+
+        أعمالًا أرجو أن تكون من صلاحها ولعلّ ترددّني
+      </p>
+
+      <p n="Burzoy‘s Fear of Death">
+        فيما أردّد فيه
+        <lb/>
+
+        من البحث عن الأديان والهرب من هذا إلى هذا يشغلني عن خير
+        <lb/>
+
+        كثير كنت أعمله ويكون أجلي دون ما ألتمس منه ولعلّي في تردّدي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

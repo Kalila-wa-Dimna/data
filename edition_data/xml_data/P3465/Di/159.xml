@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="159"/>
+
+      <p n="Judge/Investigator/Audience Request Physiognomical Evaluation">
+        لنا ما تقول وأطلعنا على ما ترى في صورة هذا الشقيّ
+      </p>
+
+      <p n="Prominent Courtier Diagnoses Dimna as Traitor">
+        فأخذ سيّد الخنازير
+        <lb/>
+
+        يذمّ دمنة وقال إنّ العلماء قد كتبوا وخبّروا أنّه من كانت عينه
+        <lb/>
+
+        اليسرى أصغر من عينه اليمنى وهي لا تختلج وكان أنفه مائلًا إلى جنبه
+        <lb/>
+
+        الأيمن فهو شقيّ خبيث جامع للخبّ والفجور
+      </p>
+
+      <p n="Dimna's Third Subtale of Plower Who Told His Wife to Cover Herself First">
+        فلمّا سمع دمنة ذلك قال
+        <lb/>
+
+        ما مثلك إلّا مثل رجل قال لامرأته انظري إلى عورتك وبعد ذلك
+        <lb/>
+
+        انظري إلى عورة غيرك
+      </p>
+
+      <p n="Prominent Courtier Requests Tale">
+        قال وكيف كان ذلك
+      </p>
+
+      <p n="A Man and His Two Wives Become War Captives">
+        قال دمنة
+        <lb/>
+
+        زعموا أنّ مدينة أغار عليها العدوّ فقتل وسبا وغنم وانطلق إلى بلاده فاتّفق
+        <lb/>
+
+        أنّه حصل مع رجل في جنده في قسمته رجل حرّاث ومعه امرأتان
+        <lb/>
+
+        له وكان هذا الجنديّ يُسيء إليهم في الطعام واللباس
+      </p>
+
+      <p n="One Wife Blames the Other for Being Naked">
+        فذهب الحرّاث
+        <lb/>
+
+        ذات يوم ومعه امرأتاه يحتطب للجنديّ وهم عراة فأصابت أحدى
+        <lb/>
+
+        المرأتين في طريقها خرقة بالية فوضعتها على سؤتها ثمّ قالت للأحرى
+        <lb/>
+
+        لزوجها ألا تنظر إلى هذه الفاعلة كيف لا تستحيىّ وتستر عورتها
+      </p>
+
+      <p n="The Man/One Wife Tells Other Wife to Cover Herself First/Mind Her Own Nakedness">
+        فقال لها زوجها لو بدأت بالنظر إلى نفسك وإنّ جسمك عار كلّه لمّا عيّرت
+        <lb/>
+
+        صاحبتك بما هو بعينه فيكِ
+      </p>
+
+      <p n="Dimna Reviles Courtier">
+        وشأنكَ عجب أيّها القذر ذو العلامات
+        <lb/>
+
+        الفاضحة القبيحة ثمّ العجب من جرأتك على طعام الملك وقيامك بين يديه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3478</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="421"/>
+
+      <p n="unassigned">
+        هذه الحيلة طار فوقع على شاطئ نهر فأقبل الثعلب
+        <lb/>
+
+        للوقت الذي عُرِف فوقف تحتها ثمّ صاح كما كان
+        <lb/>
+
+        يفعل فأجابته الحمامة بما علّمها ملك الحزين فقال
+        <lb/>
+
+        لها الثعلب أخبريني عن من علّمك هذه وأدع فرخيك
+        <lb/>
+
+        قالت علّمني ملك الحزين
+        <lb/>
+
+        فتوجّه الثعلب حتّى أتى ملك الحزين على شاطئ
+        <lb/>
+
+        النهر فوجده واقفًا فقال له الثعلب يا ملك
+        <lb/>
+
+        الحزين إذا أتتك الريح عن يمينك أين تجعل رأسك
+        <lb/>
+
+        قال عن شمالي قال له فإذا أتتك عن شمالك أين
+        <lb/>
+
+        تجعل رأسك قال أجعله خلفي قال فإذا أتتك
+        <lb/>
+
+        الريح من كلّ مكان وكلّ ناحية أين تجعله قال أجعله
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Df</chapter>
+  </chapter>
+</TEI>

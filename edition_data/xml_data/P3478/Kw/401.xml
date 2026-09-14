@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3478</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="401"/>
+
+      <p n="unassigned">
+        وبينه عداوة وملاحاة فلا تكدّر عليّ ما أحببت أن
+        <lb/>
+
+        يصفوا من مودّتك لي وأغتنم بما أحببت أن أُسرّ به من
+        <lb/>
+
+        من قربك ويُستبدل بالمواصلة بغضًا وهجرًا وبالمودّة
+        <lb/>
+
+        قطيعة قال المرزم أنت الصادقة في قولك المحمودة في
+        <lb/>
+
+        جميع ما يظهر لي منك ولكن كيف لي بالحيلة للذكر حتّى
+        <lb/>
+
+        يرضى ويأذن لي في اتّخذ عشّ في ذلك الغدير قالت
+        <lb/>
+
+        الأنثى الحيلة في ذلك أن تنطلق إلى الذكر فتقول
+        <lb/>
+
+        له كأنّك لا تعلم ما تريد من التحوّل إلى ذلك الغدير أنّي
+        <lb/>
+
+        قد مررت بغدير في موضع كذا وكذا كثير الصيد معتزل
+        <lb/>
+
+        عن الناس والطير وأنا أريد التحوّل إليه فهل لك أن
+        <lb/>
+
+        تمضي معي إليه فإنّ لنا فيه من الصيد كفاية عن مزاحمة
+        <lb/>
+
+        الطير في سمك البحر فإنّه سيخبرك أنّه قد سبقك إلى
+        <lb/>
+
+        ذلك وأنّه يريد تحويل وكره إليه فإن قال لك كذلك فقل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kw</chapter>
+  </chapter>
+</TEI>

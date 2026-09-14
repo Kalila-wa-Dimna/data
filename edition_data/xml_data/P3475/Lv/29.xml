@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="29"/>
+
+      <p n="Burzoy Rejoins Kisra">
+        قدوم برزويه من بلاد الهند أمر بإدخاله عليه فلمّا دخل
+        <lb/>
+
+        عليه خرّ لله ساجدًا وحيّاه بالتحيّة الحسنة
+      </p>
+
+      <p n="Burzoys Exhaustion Shows">
+        فلمّا رفع برزويه
+        <lb/>
+
+        رأسه واستوى قائمًا رأى كسرى رجلا قد نحل جسمه وشاب
+        <lb/>
+
+        رأسه ودقّ عظمه واسودّ لونه وشحُم جلده قد أصابه
+        <lb/>
+
+        وعث السفر وكآبة المنقلب
+        <lb/>
+
+        فهو مقشّف مُنشعث مُغبرّ مندقّ فرقّ له كسرى وعلم
+        <lb/>
+
+        أنّ ذلك لم يلزمه إلّا من تعب شديد واجتهاد كبير
+        <lb/>
+
+        واحتمال مؤنة وتجرّع غيظ في طول لبثه في بلاد
+        <lb/>
+
+        الهند وانتساخه الكتاب
+      </p>
+
+      <p n="Kisra Announces Reward">
+        فقال له كسرى أبشر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

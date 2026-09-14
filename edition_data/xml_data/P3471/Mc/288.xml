@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="288"/>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        حجر جرذ يُسمّى فريدون وإلى جانبه حجر لسنّور يُقال له
+        <lb/>
+
+        روميّ
+      </p>
+
+      <p n="The Cat Is Caught">
+        وكان الصيّادون يأتون الى هنالك التماسًا لصيد
+        <lb/>
+
+        الوحوش والطيور فيصيدون وينصبون شباكهم وحبالهم
+        <lb/>
+
+        ويدفنون الفخاخ والأشراك وغير ذلك وإنّ صيّادًا نصب
+        <lb/>
+
+        حبائله ذات ليلة فوقع فيه روميّ
+      </p>
+
+      <p n="The Rat Seeks Food">
+        وخرج فريدون من جحره
+        <lb/>
+
+        كما كان يخرج لابتغاء ما كان يأكل وهو مع ذلك حذر يلتفت
+        <lb/>
+
+        وينظر فبينما هو في ذلك المكان إذ رأى السنّور قد ولج في الحبائل
+        <lb/>
+
+        مقتنصًا ففرح بذلك
+      </p>
+
+      <p n="Foes Surround the Rat">
+        ثمّ التفت خلفه فأبصر بن عرس قد تبعه
+        <lb/>
+
+        وكمن له ولمّا رفع بصره رأى في غصن من أغصان الشجرة بومة
+        <lb/>
+
+        تراقبه لتأكله فخاف إن هو إنصرف راجعًا أن يثب عليه بن عرس
+        <lb/>
+
+        فيأكله وإن تحرّف يمينًا أو شمالًا ان تختطفه البومة وإن تقدّم
+        <lb/>
+
+        فالسنّور أمامه مفترسه
+      </p>
+
+      <p n="The Rat Weighs His Predicament">
+        فقال هذا بلاء قد أكنفني وشرور قد
+        <lb/>
+
+        تظاهرت عليّ ولا مفزع لي إلاّ إلى عقلي وحيلتي فلا يكوننّ من
+        <lb/>
+
+        شأني الدهش ولا يذهبنّ قلبي شعاعًا ثمّ يُقال لي استعين
+        <lb/>
+
+        بالعلم والتودّد لإحياء النفس حتّى أتخلص من هذا الأمر
+      </p>
+
+      <p n="The Intelligent Always Keeps Alert">
+        فإنّ
+        <lb/>
+
+        العاقل لا يتفرّق عليه رأيه ولا يغرب عنه عقله على حال
+      </p>
+
+      <p n="Intelligence Is Like the Sea">
+        وإنّما
+        <lb/>
+
+        عقول ذوي الرأي والنبل كالبحر العميق الذي لا يُدرك غوره
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

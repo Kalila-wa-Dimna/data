@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="103"/>
+
+      <p n="Dimna's Inquiry About Additional Observations">
+        سماع هذا الصوت
+      </p>
+
+      <p n="Lion's Response to Dimna's Question">
+        قال لم يربْني شيء سوى ذلك
+      </p>
+
+      <p n="Dimna's Advice Against Abandoning Territory">
+        قال دمنة ليس الملك بحقيق
+        <lb/>
+
+        أن يدع مكانه لأجل صوت
+      </p>
+
+      <p n="Proverb About Not Fearing All Sounds">
+        فقد قالت العلماء إنّه ليس من كلّ الأصوات تجب الهيبة
+      </p>
+
+      <p n="Lion's Question About Fearless Sounds">
+        قال الأسد وما مثل ذلك
+      </p>
+
+      <p n="Third Subtale of Fox and Drum">
+        قال دمنة زعموا أنّ ثعلبًا أتى أجمّة فيها طبل
+        <lb/>
+
+        معلّق على شجرة وكلّما هبّت الريح على قضبان تلك الشجرة حرّكتها فتضرب به
+        <lb/>
+
+        الطبل فيُسمع له صوت عظيم مبهر
+      </p>
+
+      <p n="Fox's Approach to the Loud Sound">
+        فتوجّه الثعلب نحوه لأجل ما سمع من عظيم
+        <lb/>
+
+        صوته
+      </p>
+
+      <p n="Fox Splits Drum Expecting Food">
+        فلمّا أتاه وجده ضخمًا فأيقن في نفسه بكثرة الشحم واللحم
+      </p>
+
+      <p n="unassigned">
+        فعالجه حتّى شقّه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

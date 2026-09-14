@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>VAF298</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="135"/>
+
+      <p n="The Stag's Owner Cuts the Donkey's Ears">
+        قطع بها أذني الحمار
+      </p>
+
+      <p n="The Donkey Is Punished upon Return">
+        فرجع الحمار نادمًا فلقي من أصحابه ما كان أشدّ عليه
+        <lb/>
+
+        من قطع أذنيه
+      </p>
+
+      <p n="The Vizier Summarizes the Donkey's Tale">
+        وإنّما ضربت لك هذا المثل لتعلم أنّي لولا هذه المصائب الشديدة
+        <lb/>
+
+        لكان مَن سلف من آبائنا قد طلب ما طلبت ولكن لم يمكنهم ذلك فتركوه
+      </p>
+
+      <p n="King W Insists on a Solution">
+        قال
+        <lb/>
+
+        الملك قد سمعت هذا المثل فلا يفزعني من هذا فإنّه إن لم يتمّ هذا الأمر فنحن
+        <lb/>
+
+        قادرون على أن نخلّص نفوسنا من غير ضرر
+      </p>
+
+      <p n="The Vizier Prays for the King">
+        قال الوزير خار الله لك أيّها الملك
+        <lb/>
+
+        فيما هممت به
+      </p>
+
+      <p n="King W Orders Wood to Be Brought">
+        وأمر الملك أن يُكتب إلى سائر أعماله يعرّفهم بما قد عزم عليه
+        <lb/>
+
+        ويأمرهم أن يجمعوا حطبًا ويُحمل في يوم كذا وكذا ويُجعل في ذلك الثقب ففُعل
+        <lb/>
+
+        ذلك وجُمع من الحطب ما يحود الوصف وتُرك حيث رآه الملك
+      </p>
+
+      <p n="King W Orders the Hole to Be Blocked">
+        فلمّا بدأت الريح
+        <lb/>
+
+        أمر أن يُسدّ ذلك الثقب بالحطب والحجارة سدًّا جيّدًا وثيقًا ففُعل ذلك حتّى لم
+        <lb/>
+
+        يبق للريح منفس يخرج منه فعند ذلك عَدِم أهل الهوي البلد نسيم الهوى
+      </p>
+
+      <p n="A Draught Ensues">
+        وجفّت
+        <lb/>
+
+        الأشجار والبقول وسائر النبات ممّا كان في الجبل وحوله مقدار مئتي
+        <lb/>
+
+        فرسخ في مثلها واعتلّ الناس والدوابّ في مدّة ستّة أشهر وأشرف الناس
+        <lb/>
+
+        على الهلاك
+      </p>
+
+      <p n="The People Kill the King and His Court">
+        وتآمروا بينهم واجتمعوا ونظروا وإذا هم هالكون فحملوا
+        <lb/>
+
+        السلاح وأتوا إلى منزل هوطباد فقتلوه ووزيره وسائر أهله
+      </p>
+
+      <p n="The People Burn the Wood Blocking the Hole">
+        وإنّهم
+        <lb/>
+
+        عمدوا إلى الثقب فانتزعوا الحجارة وأطلقوا النار في الحطب
+      </p>
+
+      <p n="The Winds Spread Annihilating Fire">
+        واشتدّت الريح
+        <lb/>
+
+        وألهبت النار فأحرقت البلدة والناس والأشجار والضياع وعملت النار
+        <lb/>
+
+        مدّة أيّام فلم يبق شيء إلا أحرقته وصار التدبير تدمير
+      </p>
+
+      <p n="The Vizier Summarizes King W's Tale">
+        وإنّما ضربت لك
+        <lb/>
+
+        هذا المثل لتعلم أنّ الشيء إذا جرى في الطبع وسار في العالم لم يمكن نقله
+        <lb/>
+
+        عن حاله وإن عُملت الحيلة في نقله لا يُؤمننّ المضرّة فيه
+      </p>
+
+      <p n="King R Deems Fortune Inevitable">
+        قال بهرام الملك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="378"/>
+
+      <p n="Forgiving Friend Is Rare">
+        الضرر فاحتمله منه إذا استقبله به فإنّ وجود مثله عزيز
+      </p>
+
+      <p n="Lion Must Accept Refusal">
+        فلا يستغلظ
+        <lb/>
+
+        الملك إن أخبرته أنّه لا سبيل له إلى الثقة بي وأنّه لا ينبغي له استصحابي
+      </p>
+
+      <p n="The Mistreated Cannot Be Trusted">
+        فإنّي قد أُصبت بعظيم البلاء غير مستوجب له
+      </p>
+
+      <p n="King Must not Trust the Deposed">
+        <> أو كان قد أزيل عن
+        <lb/>
+
+        مرتبته
+      </p>
+
+      <p n="King Must not Trust the Extorted">
+        أو كان قد سُلب ما له ظلمًا
+      </p>
+
+      <p n="King Must not Trust Someone Denied Honor">
+        أو كان مقرّبًا فأقصي من غير علّة
+      </p>
+
+      <p n="King Must not Trust One Passed Over in Favors">
+        أو
+        <lb/>
+
+        كان قد استحقّه في نظرائه فأُثبتوا دونه وفُضّلوا عليه
+      </p>
+
+      <p n="King Must not Trust One Singled out for Punishment">
+        <> أو عقابًا فعُفي عنهم
+        <lb/>
+
+        دونه أو بلغ منه ما لم يكن يبلغ منهم
+      </p>
+
+      <p n="King Must not Trust Someone Denied Justice">
+        أو كان مظلومًا فلم يُنصف
+      </p>
+
+      <p n="King Must not Trust the Greedy and Unsatisfied">
+        أو
+        <lb/>
+
+        معروفًا بإفراط الحرص والشره
+      </p>
+
+      <p n="Kind Must not Trust the Adversarial">
+        أو كان يرى في منفعة السلطان
+        <lb/>
+
+        له ضرًّا
+      </p>
+
+      <p n="King Must Consider the Untrustworthy as Foes">
+        كلّ هؤلاء السلطان حقيق أن لا يسترسل إليهم
+        <lb/>
+
+        ولا يثق بهم فإنّ كلّ هؤلاء حقيق أن لا يكونوا معه على عدوّه
+      </p>
+
+      <p n="Jackal Was Accused despite His Loyalty">
+        وقد صرت اليوم في نرادي الرأي عرضًا لأعداء الملك وليس ما أنا عليه
+        <lb/>
+
+        للملك من المودّة والنصيحة بمانع الملك من اتّهامي وسوء الظنّ لما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="87"/>
+
+      <p n="The Thief Steals the Garment">
+        بها
+      </p>
+
+      <p n="The Ascetic Pursues the Thief">
+        فلمّا فقد الناسك الثياب عرف أنّه صاحبه فتوجّه في طلبه
+        <lb/>
+
+        نحو مدينة
+      </p>
+
+      <p n="The Fighting Rams">
+        فمرّ في طريقه على وعلين يتناطحان وقد طال انتطاحهما
+        <lb/>
+
+        حتّى سالت منهما الدماء
+      </p>
+
+      <p n="The Fox and the Rams">
+        وجاء ثعلب يلغ دمهما فبينما هو على انكبابه
+        <lb/>
+
+        لشرب الدم التقيا عليه بانتطاحهما وهو غافل فقتلاه
+      </p>
+
+      <p n="The Ascetic Lodges with a Procuress">
+        ومضى
+        <lb/>
+
+        الناسك حتّى دخل المدينة فلم يجدْ بها ما يأوي إلّا بيت امرأة خمّارة
+        <lb/>
+
+        فنزل عليها
+      </p>
+
+      <p n="The Procuress's Problematic Slave Girl">
+        وكانت للمرأة جارية تؤاجرها وكانت الجارية قد علقت
+        <lb/>
+
+        رجلًا فهي تهواه لا تريد غيره فأضرّ مولاتها ذلك
+      </p>
+
+      <p n="The Procuress's Plot">
+        فاصطنعت حيلة
+        <lb/>
+
+        لقتله في تلك الليلة التي أضافت الناسك فيها
+      </p>
+
+      <p n="The Lover is Drugged">
+        فسقت الرجل الخمر حتّى
+        <lb/>
+
+        سكر ونام هو والجارية
+      </p>
+
+      <p n="The Poisonous Reed Pipe">
+        فلمّا استلقى نومًا عمدت مولاتها إلى سمّ
+        <lb/>
+
+        قد ادّخرته في قصبة لتنفخه في دبر الرجل فوضعت القصبة
+        <lb/>
+
+        في دبره وفوها كان في طرف القصبة وهمّت بالنفخ
+      </p>
+
+      <p n="The Plot Backfires">
+        فخرج من الرجل
+        <lb/>
+
+        ريح أطارت السمّ إلى حلق المرأة فوقعت ميّتة وكل ذلك والناسك
+        <lb/>
+
+        ينظر
+      </p>
+
+      <p n="The Ascetic Seeks New Lodging">
+        فلمّا أصبح الناسك مضى متوجّهًا نحو منزل غير ذلك فأضافه
+        <lb/>
+
+        رجل إسكاف
+      </p>
+
+      <p n="The Ascetic and the Shoemaker">
+        وقال الإسكاف لامرأته انظري إلى هذا الناسك وأكرميه وأحسني
+        <lb/>
+
+        إليه واخدميه فقد دعاني بعض إخواني لأشرب عنده
+      </p>
+
+      <p n="The Shoemaker Departs">
+        ثمّ انطلق
+      </p>
+
+      <p n="The Shoemaker's Adulterous Wife">
+        ثمّ انطلق وكانت امرأته قد علقت رجلًا وكان الرسول بينهما امرأة
+        <lb/>
+
+        حجّام
+      </p>
+
+      <p n="The Wife Summons Her Lover">
+        فأرسلت امرأة الإسكاف إلى امرأة الحجّام وأمرتها أن تصير إلى خليلها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

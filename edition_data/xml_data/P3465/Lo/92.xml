@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="92"/>
+
+      <p n="Caretaker's Philosophical Reflection on Fate">
+        من الهلاك لم يغن ذلك عنه شيئًا وربّما عاد اجتهاده في توقّيه وبالًا عليه
+      </p>
+
+      <p n="First Subtable of Man and Wolf (First Beginning)">
+        كالذي
+        <lb/>
+
+        قيل إنّ رجلًا سلك مقازة فيها خوف وكان الرجل خبيرًا بوعث تلك الأرض
+        <lb/>
+
+        وخوفها
+      </p>
+
+      <p n="First Subtable of Man and Wolf (Second Beginning)">
+        فلمّا سار غير بعيد اعترضه ذئب من أخذها وأضراها
+      </p>
+
+      <p n="Man's Escape Attempt from the Wolf">
+        فلمّا رأى
+        <lb/>
+
+        الرجل الذئب خافه ونظر يمينًا وشمالًا يجد موضعًا يتحرّز فيه من الذئب فلم ير
+        <lb/>
+
+        إلّا قرية بخلف واد فذهب مسرعًا نحو القرية
+      </p>
+
+      <p n="Man's Dilemma at the River">
+        فلمّا أتى الوادي لم ير عليه قنطرة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

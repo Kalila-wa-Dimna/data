@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="95"/>
+
+      <p n="Dimna's Fourth Subtale of the Falconer Who Falsely Accuses the Marzuban's Wife">
+        إيّاه بالخير
+      </p>
+
+      <p n="Head of Court Requests Tale">
+        فقال عظيم الجند وكيف كان ذلك
+      </p>
+
+      <p n="Marzuban Had Wife and Servant">
+        فقال دمنة زعموا
+        <lb/>
+
+        أنّه كان لمرزبان في مدينة ماروت امرأة حسناء لبيبة وكان له عبدًا
+        <lb/>
+
+        بازيارًا
+      </p>
+
+      <p n="Falconer Accosted Wife and Is Rejected">
+        قد هويها وعرض لها مرارًا وكَلّ ذلك لا تلتفت إليه
+      </p>
+
+      <p n="Falconer Decides to Take Revenge">
+        فأضمر
+        <lb/>
+
+        فضيحتها
+      </p>
+
+      <p n="Falconer Teaches Parrots False Accusation in Foreign Tongue">
+        فخرج ذات يوم إلى الصيد يقصد طائرين فصادهما وجعل
+        <lb/>
+
+        يعلّم أحدهما بلسان البلخيّة أن يقول أنّي رأيت البوّاب مضاجع
+        <lb/>
+
+        مولاتي وعلّم الآخر أن يقول أمّا أنا فلست قائلًا شيئًا وحفّظهما
+        <lb/>
+
+        ذلك بلسان البلخيّة ولم يكن أهل بلاده يعرفون ذلك الكلام
+      </p>
+
+      <p n="Falconer Gives Parrots to Marzuban">
+        فلمّا كان ذات يوم وهو يشرب وعنده امرأته إذ أتى بهما فصاحا
+        <lb/>
+
+        عنده فأعجبه حسنهما ولم يدر ماذا يقولان
+      </p>
+
+      <p n="Marzuban Gives Parrots to Wife">
+        فأمرها أن تعتني بالاحتفاظ
+        <lb/>
+
+        بهما والإحسان إليهما ففعلت ومكثا عندها شهرًا
+      </p>
+
+      <p n="Marzuban Hosts Foreign Guests">
+        ثمّ أنّه قدم عليه
+        <lb/>
+
+        أناس من بلخ فصنع لهم طعامًا وشرابًا فأصابوا من ذلك ثمّ دعى بالطيرين
+        <lb/>
+
+        فصاحا بتلك الكلمتين
+      </p>
+
+      <p n="Foreign Guests Understand Parrots">
+        فنكّس القوم رؤسهم
+      </p>
+
+      <p n="Foreigners Ask Whether Marzuban Understands Parrots/He Asks Them">
+        وقالوا لصاحب المنزل
+        <lb/>
+
+        لا تغضب إن نحن أخبرناك بما قال طائراك
+      </p>
+
+      <p n="Foreigners Translate Parrots' Words, Refuse Meal in House of Sin">
+        وذاك أنّ أحدهما يزعم
+        <lb/>
+
+        بلسان البلخيّة أنّ البوّاب يفجر بامرأتك وأمّا الآخر فيقول أمّا أنا
+        <lb/>
+
+        فلست بقائل شيئًا وإنّ من سنّتنا أن لا نصيب طعامًا بمنزل فاجرة
+      </p>
+
+      <p n="Falconer Confirms Parrots' Accusations">
+        فنادا البازيار من خارج أنا أشهد أنّ مقالهما صدق ولقد رأيت
+        <lb/>
+
+        ذلك غير مرّة
+      </p>
+
+      <p n="Marzuban Orders Wife to Be Killed">
+        فأمر بقتل امرأته
+      </p>
+
+      <p n="Wife Asks Him to Investigate">
+        فلمّا أُخذت للقتل قالت افحصْ عمّا
+        <lb/>
+
+        ذُكر فسيدلّوك على الحقّ مُر أضيافك أن يكلّموا الطائرين باللغة
+        <lb/>
+
+        البلخيّة
+      </p>
+
+      <p n="The Parrots Will Turn Out to Be Trained">
+        فإن عرفوا غير هاتين الكلمتين فحقّ ما قيل فيّ وإلّا فهذا
+        <lb/>
+
+        من تعليم بازدارك لأنّه راودني عن نفسي فامتنعت عليه
+      </p>
+
+      <p n="Falconer's Training of Parrots Is Discovered">
+        ففعل ذلك
+        <lb/>
+
+        فكلّموها فإذا هما لا يحسنان غيرها فعرفوا أنّها من تعليم البازيار
+      </p>
+
+      <p n="Falcon Gouges Out His Eyes">
+        فأرسل إليه فأتاه وعلى يده بازة فقالت له المرأة وقد دعو يا بازيار
+        <lb/>
+
+        أنت رأيتني علي ما قذفتني به فقال نعم فقالت اللهم إن كان
+        <lb/>
+
+        كاذبًا عليّ فعجّلْ عقوبته فوثب الباز المحمول على يده عليه فنزع عينيه
+        <lb/>
+
+        بمخاليبه
+      </p>
+
+      <p n="Wife Interprets This As God Punishing False Testimony">
+        فقالت له إنّ الله قد عجّل عليك العقوبة والنكال
+        <lb/>
+
+        بكذبك وزعمك أنّك عاينت ما لم ترَ وشهدت عليّ زورًا باطلًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

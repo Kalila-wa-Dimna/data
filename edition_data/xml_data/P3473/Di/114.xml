@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="114"/>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+      <p n="Chapter Title">
+        الباب الرابع باب البحث عن أمر دمنة
+      </p>
+
+      <p n="The King Asks about Dimna's Fate">
+        قال ديشلم
+        <lb/>
+
+        الملك لبيدبا الفيلسوف قد حدّثتني عن الفاجر الماهر
+        <lb/>
+
+        القادر كيف يفسد بالنميمة والمكر الودّ الثابت بين
+        <lb/>
+
+        المتحابّين فحدّثني ما يؤول أمر الرامي بينهما إذا اتضّح
+        <lb/>
+
+        سعيه بالباطل
+      </p>
+
+      <p n="The Philosopher Mentions Dimna's Trial Parable">
+        قال الفيلسوف إنّ الفاجر الغادر الساعي
+        <lb/>
+
+        بالنميمة والكذب ليكون عاقبة أمره إلى ما يكره ومن
+        <lb/>
+
+        أمثال ذلك ما كان من دمنة بعد قتل شتربة وندامة الأسد
+        <lb/>
+
+        عليه حين مراجعته لرأيه ونظره في أمره وإطّلاعه على
+        <lb/>
+
+        غدر دمنة من حجّته ومناظراته له
+      </p>
+
+      <p n="The King Requests the Parable">
+        قال الملك وكيف كان
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="The Philosopher's Answer About the King's Killing">
+        قال الفيلسوف إنّ الأسد لمّا قتل شتربه ندم على قتله
+        <lb/>
+
+        وتذكّر عقله وحسن صحبته خدمته ورأيه وكونه كان أكرم
+        <lb/>
+
+        أصحابه عليه
+      </p>
+
+      <p n="A Leopard Was the Lion's Confidant">
+        وكان من جملة أصحاب الأسد وقريبًا منه وخاصًّا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

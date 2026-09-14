@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="36"/>
+
+      <p n="Carpenter's Return and Punishment">
+        الأوّل
+      </p>
+
+      <p n="Dimna's Response and Ambition">
+        قال دمنة قد سمعت مثلك وفهمته ولكن اعلمْ أنّه ليس كلّ من دنا من
+        <lb/>
+
+        الملوك إنّما يدنو منهم لبطنه فإنّ البطن قد يُحشى بكلّ مكان
+      </p>
+
+      <p n="Superior People Approaching Kings">
+        ولكنّه يلتمس الرفعة
+        <lb/>
+
+        والمنزلة إلى حال يسرّ الصديق ويسوء العدوّ بها وإنّ أدنى الناس وضعافهم القليلة
+        <lb/>
+
+        مروأتهم الذين يرتضون بالدون ويفرحون به
+      </p>
+
+      <p n="Analogy of Dog and Bone">
+        كالكلب الذي يصيب عظمًا يابسًا
+        <lb/>
+
+        فيفرح به
+      </p>
+
+      <p n="Contrast Between Ambitious and Content">
+        وأمّا أهل الفضل والمروءة فلا يغنيهم القليل ولا يرضون بالدون
+        <lb/>
+
+        حتّى يسمّوا إلى ما هم له أهل
+      </p>
+
+      <p n="Lion's Hunting Behavior Analogy">
+        كالأسد الذي يفترس الأرنب فإذا رأى العير ترك
+        <lb/>
+
+        الأرنب وطلب العير
+      </p>
+
+      <p n="Contrast Between Dog and Elephant Behavior">
+        ولا يرى أنّ الكلب يبصبص بذنبه حتّى يلقي له الكسرة والفيل
+        <lb/>
+
+        المتعلّم يعرف فضله وقوّته فإذا قرب إليه علفه مكرهًا لم يأكله حتّى يمسح ويتملّق
+      </p>
+
+      <p n="Life Perspectives on Success and Failure">
+        فمن عاش غير حامل المنزلة ذا فضل على نفسه وأصحابة فهو وإن قلّ عمره طويل العمر
+        <lb/>
+
+        ومن عاش في وحدة وضيق وقلّة خير على نفسه وأصحابه فهو وإن طال عمره قصير
+        <lb/>
+
+        العمر
+      </p>
+
+      <p n="Definition of True Misery">
+        كان يُقال أنّ البائس من طال عمره في ضرّ
+      </p>
+
+      <p n="Comparison to Animals">
+        ويُقال ليعد من البقر من لم يكن
+        <lb/>
+
+        همّ الأبطنة
+      </p>
+
+      <p n="Kalila's Advice on Contentment">
+        قال كليلة قد فهمت مقالتك فراجع عقلك واعلم أنّه إذا كان في
+        <lb/>
+
+        منزلته التي هي منزلته متماسك الحال في أهل طبقته كان حقيقًا أن يقنع ويرضى
+        <lb/>
+
+        وليست لنا من المنزلة نسخط بها حالنا التي نحن فيها
+      </p>
+
+      <p n="Dimna's View on Social Mobility">
+        قال دمنة إنّ المنازل
+        <lb/>
+
+        مشتركة فذو المروءة تنفعه مروءته وترفعه من المنزلة الوضيعة إلى المنزلة
+        <lb/>
+
+        الرفيعة والذي لا مروءة له يحطّ نفسه من المنزلة الرفيعة إلى المنزلة الوضيعة والارتفاع
+        <lb/>
+
+        من صغر المنازل إلى شرفها شديد والانحطاط من الشرف إلى الضعة هيّن
+      </p>
+
+      <p n="Analogy of Lifting Heavy Objects">
+        وإنّما مثل ذلك مثل الحجر الثقيل الذي وقعه إلى الأرض يسير
+      </p>
+
+      <p n="Aspiration for Higher Status">
+        فنحن أحقّ أن نروم
+        <lb/>
+
+        رفعة من الأرض إلى العاتق ما فوقنا من المنازل طاقتنا ونلتمس ذلك بمروءتنا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="275"/>
+
+      <p n="Untrue Friends Seek Only Their Own Benefit">
+        غير ناظر له كنظره لنفسه وكان يريد أن يرهطه بخلاف الحقّ
+        <lb/>
+
+        واتّبع هواه أولئك من الإخوان مردودون
+      </p>
+
+      <p n="Whom One Must Trust">
+        وإنّما ينبغي للعاقل أن
+        <lb/>
+
+        يودّ من تُؤمن سريرته ويكتفى بمحضره عن من غاب عنه
+      </p>
+
+      <p n="Jackal Is Reluctant to Trust Lion Again">
+        وقد كان
+        <lb/>
+
+        من الملك إليّ ما قد علم فلا يجدنّ في نفسه أنّي أخبرته أنّي به غير واثق
+      </p>
+
+      <p n="King Must not Trust the Wrongfully Punished">
+        فإنّه لا ينبغي أن يتّخذ لنفسه ضرًّا ولا يطمئنّ إلى من عاقبه عقوبة على
+        <lb/>
+
+        منازعة من عمله أو خدمته
+      </p>
+
+      <p n="Jackal's Inner Struggle about Return">
+        وقد كان من طمأنني ما كان فلو ذهبت
+        <lb/>
+
+        أحمل نفسي على عيوبها سعت من ذلك وإظهارها على الثقة والطمأنينة
+        <lb/>
+
+        إليه بعد الذي كان منه إليّ في غير كنهه أو حدّثها أنّه عائد إلى
+        <lb/>
+
+        الذي كان عليه من الائتمان والاستراحة نازعتني في ذلك نفسي لما
+        <lb/>
+
+        قد رأيت منه
+      </p>
+
+      <p n="Jackal Gives Lion the Choice">
+        فلينظر الملك فيما ذكرنا
+      </p>
+
+      <p n="Jackal Gives Conditions for Return">
+        فإن جعل لي على نفسه <> أو هو
+        <lb/>
+
+        ردّني إلى منزلتي التي كنت عليها أن يعود إلى ما كان لي عليه فيما مضى من
+        <lb/>
+
+        الطمأنينة والنصح ولا يصدّق عليّ أولئك الأعداء الفجرة فليرى في ذلك
+        <lb/>
+
+        رأيه فإنّي عند أحسن ظنّه وأمله
+      </p>
+
+      <p n="If Unsure, Lion Must Excuse Jackal">
+        وإن كان يتخوّف عليّ وكان
+        <lb/>
+
+        غير واثق بي فإعفاؤه إيّاه أفضل لي وخيرًا له بخاصّة
+      </p>
+
+      <p n="Lion Says He Tested Jackal">
+        فقال الأسد قد
+        <lb/>
+
+        بلوتك واختبرت أمانتك ووفاءك وصدقك وعرفت كذب من تنحّل بك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

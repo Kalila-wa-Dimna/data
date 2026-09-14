@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="44"/>
+
+      <p n="Friend Is Quick Minded">
+        بالكثير من طول الكلام
+      </p>
+
+      <p n="Friend Spares Burzoy Argument">
+        وأقصرت به معك على الإيجاز ورأيت اسعافك إيّاي
+        <lb/>
+
+        بحاجتي ما دلّني على كرمك وحسن وفائك
+      </p>
+
+      <p n="Secrets Safe With Scholars">
+        فإنّ الكلام إذا ألقى إلى الفيلسوف
+        <lb/>
+
+        والسرّ إذا استودع اللبيب الحافظ فقد حُصّن وبلغ به نهاية أمل صاحبه
+      </p>
+
+      <p n="Safe Secret Like Fortress">
+        كما
+        <lb/>
+
+        يُحصّن الشيء النفيس في القلاع الحصينة
+      </p>
+
+      <p n="Friend Responds">
+        قال له الهنديّ
+      </p>
+
+      <p n="Friends Share Everything">
+        لا شيء أفضل من
+        <lb/>
+
+        المودّة ومن خلصت مودّته كان أهلًا أن يخلطه الرجل بنفسه ولا يدّخر عنه شيئًا
+        <lb/>
+
+        ولا يكتمه سرًا
+      </p>
+
+      <p n="Discretion Is Vital For The Educated">
+        فإنّ حفظ السرّ رأس الأدب
+      </p>
+
+      <p n="Secret Better Remain Untold">
+        فإذا كان السرّ عند الأمين
+        <lb/>
+
+        الكتوم فقد احترز من التضييع معما أنّه خليق لا يتكلّم به ولا يتمّ سرّ بين اثنين
+        <lb/>
+
+        قد علماه وتفاوضاه
+      </p>
+
+      <p n="Shared Secret Spreads">
+        فإذا تكلم بالسرّ اثنان فلا بدّ من ثالث من جهته أو جهة
+        <lb/>
+
+        الآخر فإذا صار إلى الثلاث فقد شاع وداع حتى لا يستطيع صاحبه أن
+        <lb/>
+
+        يجحده ويكابر عنه
+      </p>
+
+      <p n="Spread Secrets Like Clouds">
+        كالغيم إذا كان متقطعًا في السماء فقال قائل هذا
+        <lb/>
+
+        غيم متقطع لا يقدر أحد على تكذيبه
+      </p>
+
+      <p n="Friend Is Delighted With Knowing Burzoy">
+        وأنا فقد تداخلني من مودّتك وخلطتك
+        <lb/>
+
+        سرورًا لا يعدله عندي شيء
+      </p>
+
+      <p n="Friend Fears Secret Spreads">
+        هذا الأمر الذي تطلبه منّي اعلمْ أنّه من الأسرار
+        <lb/>
+
+        التي لا تُكتم ولا بد أن يفشوا ويظهر حتى يتحدّث به الناس فإذا فشا فقد
+        <lb/>
+
+        سعيت في هلاكي هلاكًا لا أقدر على الفداء منه بالمال وإن كثر
+      </p>
+
+      <p n="Indian King Is Harsh">
+        منّ ملكنا
+        <lb/>
+
+        فظّ غليظ يعاقب على الذنب الصغير أشدّ العقاب فكيف مثل هذا الذنب العظيم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

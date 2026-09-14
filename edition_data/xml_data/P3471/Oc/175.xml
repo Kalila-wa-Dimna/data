@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="175"/>
+
+      <p n="The Crow King Asks the Fifth Crow, a Spy">
+        للخامس ما تراه فيما قال أصحابك أرأيك القتال أم الصلح أم الخَلي
+        <lb/>
+
+        أم غير ذلك
+      </p>
+
+      <p n="The Spy Rejects Fighting">
+        فقال أمّا القتال فلا ينبغي لنا أن ننصبه فيما بيننا
+        <lb/>
+
+        وبين البوم ما وجدنا إلى غيره سبيلًا لأنهنّ أقوى عليه منّا
+      </p>
+
+      <p n="The Crows Should Not Overestimate Themselves">
+        وقد
+        <lb/>
+
+        قيل من لم يعرف نفسه ويزن قدره مع عدوّه لم يأمن العطب
+        <lb/>
+
+        والهلكة
+      </p>
+
+      <p n="The Crows Should Not Belittle the Enemy">
+        وليس أحد بحقيق أن يزدري عدوّه وإن كان ضعيفًا مهينًا
+        <lb/>
+
+        فكيف بالقويّ ومن فعل ذلك اغترّ ومن اغترّ تمكّنت نفسه وقويت وأهلكته
+        <lb/>
+
+        ولم يسلم
+      </p>
+
+      <p n="The Spy Makes a Suggestion">
+        ولكن يحقّ علينا أن نواددهنّ ونلائمهنّ فإنّا لو كنّا أقوى
+        <lb/>
+
+        منهنّ كان ينبغي لنا أن نفعل ذلك بهنّ حتّى نقدر على حاجتنا
+        <lb/>
+
+        منهنّ
+      </p>
+
+      <p n="Diplomacy Supersedes Force">
+        فإن المرأة ضعيفة وإذا لم يأخذها زوجها باللين والخديعة
+        <lb/>
+
+        وأرادها بالضرب والهوان لم يقف عليها وكذلك إن أظهر لها شدّة المحبّة
+        <lb/>
+
+        فإنّها لم يعطف قلبها عليه وكان عندها بمنزلة لا شيء دونها
+      </p>
+
+      <p n="The Spy Expresses Fear">
+        وأنا
+        <lb/>
+
+        للبوم شديد الهيبة ولو أنّها أضربت عن قتالنا أو تركت أهابها
+        <lb/>
+
+        قبل إيقاعها بنا
+      </p>
+
+      <p n="The Intelligent Is Never Free from Worry">
+        فإنّ الحازم العاقل لا يأمن عدوّه على حال وإن
+        <lb/>
+
+        كان بعيدًا من الزحف إليه وإن كان قريبًا لم يأخذ من مواثبته وإن
+        <lb/>
+
+        رآه منكشفًا له لم يأمن استطراده وكرّته وإن رآه وحيدًا لن يأمن
+        <lb/>
+
+        مكره
+      </p>
+
+      <p n="War Shoud be the Last Resort">
+        وأكيس الأقوام من لم يلتمس الأمر والظفر بالقتال ما وجد
+        <lb/>
+
+        إلى غير القتال سبيلًا
+      </p>
+
+      <p n="War Brings Loss">
+        فإن النفقه في القتال من الأنفس وسائر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

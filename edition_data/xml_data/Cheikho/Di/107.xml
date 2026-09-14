@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="107"/>
+
+      <p n="Dimna's Crime Cannot Be Forgiven">
+        فاعلم أنّه ليس في من بلغ جرمه جرم دمنة لأنّه لا ذنب له أكثر ممّا جنى
+        <lb/>
+
+        دمنة علانيةً وسرًّا خلابته ومكره وتحميل الملك على البريّ من وزرائه السليم
+        <lb/>
+
+        صدره الناصح جيبه حتّى انطوى منه على حسده وقتله على شبهة
+      </p>
+
+      <p n="Harming King and People Cannot Be Pardoned">
+        ثمّ قالت إنّي لست أجهل قول العلماء لتعظيم الفضل في العفو عن
+        <lb/>
+
+        أهل الجرائم ولكنّ الفضل في ذلك إنّما هو فيما دون النفوس أو
+        <lb/>
+
+        جناية العامّة التي يقع فيها الشيئن
+      </p>
+
+      <p n="The Foolish Spread Doubt to Cover Their Crimes">
+        وتحتجّ بها السفهاء عند ما يكون من
+        <lb/>
+
+        أعمالهم السيّئة واستعدّ بها الملك بالأمر الذي يضلّ خطره فيه إن كان إلى
+        <lb/>
+
+        العامّة
+      </p>
+
+      <p n="The Lion Dismisses His Mother">
+        فأمر الأسد أمّه بالانصراف عنه
+      </p>
+
+      <p n="The Lion Assembles the Court and Summons Dimna">
+        وبعث حين أصبح إلى جنوده
+        <lb/>
+
+        فأدخل عليه وجهوههم فأرسل إلى أمّه فحضرت المجلس ثمّ دعا بدمنة فأتي
+        <lb/>
+
+        به
+      </p>
+
+      <p n="Dimna Inquires About the Lion's Dejection">
+        فلمّا أقام بين يديه قلب الأسد يده بالتمثيل به فلمّا رأى دمنة
+        <lb/>
+
+        ذلك أيقن بالهلكة فالتفت إلى بعض من يليه فقال له قولًا خفيًّا هل
+        <lb/>
+
+        حدث من حديث أحزن الملك أو هل كان شيئًا شيءٌ جمعكم له كما أرى
+      </p>
+
+      <p n="The Mother Is Outraged by Dimna's Feigned Ignorance">
+        قالت أمّ الأسد أعظم الحدث حدثك وأشدّ الخيانة خيانتك
+        <lb/>
+
+        واستجهالك الملك وقتلك البريء من وزرائه
+      </p>
+
+      <p n="Good People Suffer Misfortune Fastest">
+        قال دمنة ما أرى الأوّل ترك للأخير مقالًا في شيءٍ من معاريض
+        <lb/>
+
+        الأمور وقد جرى في بعض ما يُقال إنّ أشدّ الناس اجتهادًا في توقّي الشرّ
+        <lb/>
+
+        أكثرهم فيه وقوعًا
+      </p>
+
+      <p n="Who Keeps Bad Company Does Not Escape Evil">
+        ولا يكون للملك وجنوده المثل السوء كذا وقد علمت
+        <lb/>
+
+        أنّ ذلك إنّما قيل في صحبة الأشرار أنّه من صحبه وهو يعلم علمهم كذا
+        <lb/>
+
+        لم يُنَجِّهِ من شروره توقّيه إيّاها
+      </p>
+
+      <p n="Ascetics Shun People's Company">
+        ولذلك انقطعت النسّاك بأنفسها واختارت
+        <lb/>
+
+        الوحدة في الجبال على مخالطة الناس وآثرت العمل لله على العمل لخلقه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="41"/>
+
+      <p n="Burzoy Disguises Misson By Study">
+        وهو فيما بين ذلك يستر بغيته
+      </p>
+
+      <p n="Burzoy Mingles With Indians">
+        وحاجته واتخذ في تلك الحالة لطول
+        <lb/>
+
+        مقامه أصدقاء كثيرة من الأشراف والعلماء والفلاسفة والسوقة
+        <lb/>
+
+        ومن أهل كل طبقة <>
+      </p>
+
+      <p n="Burzoy Chooses Friend">
+        وكان قد اتّخذ من بين أصدقائه رجلًا
+        <lb/>
+
+        واحدًا قد اتّخذ لسرّه وما يجب مشاورته فيه للذي ظهر له من فضله وأدبه
+        <lb/>
+
+        واستبان له صحّة إخائه
+      </p>
+
+      <p n="Burzoy Hides Mission From Friend">
+        وكان يشاوره في الأمر ويرتاح إليه في جميع ما
+        <lb/>
+
+        يدهمّه من الأمور إلّا أنّه كان يكتم منه الأمر الذي قدم من أجله
+      </p>
+
+      <p n="Burzoy Vets Friend">
+        لكي يبلوه
+        <lb/>
+
+        ويختبره وينظر هل هو أهل أن يطلع على سرّه
+      </p>
+
+      <p n="Burzoy Hints At Secret">
+        فقال له يومًا وهما
+        <lb/>
+
+        جالسان يا أخي ما أريد أن أكتمك من أمري فوق الذي كتمتك فاعلم أنّي لأمر
+        <lb/>
+
+        قدمت وهو غير الذي يظهر منّي
+      </p>
+
+      <p n="Signs Suffice For The Intelligent">
+        والعاقل يكتفي من الرجال بالعلامات من
+        <lb/>
+
+        نظره
+      </p>
+
+      <p n="Friend Aware Of Burzoys Secret">
+        قال له الهندي إنّي وإن لم أكن بدأتك واخترتك بما جئت له وإيّاه
+        <lb/>
+
+        أريد وإنّك تكتم أمرًا تطلبه وتظهر غيره فما خفي عليّ ذلك منك
+      </p>
+
+      <p n="Friend Shuns Confrontation">
+        ولكنّي
+        <lb/>
+
+        لرغبني في إخائك كرهت أن أواجهك به وإنّه قد استبان ما تخفيه منّي
+      </p>
+
+      <p n="Friend Infers Burzoys Secret">
+        فأمّا
+        <lb/>
+
+        إذ قد أظهرت ذلك وأفصحت به وبالكلام فيه فإنّي مخبرك عن نفسك
+        <lb/>
+
+        ومظهر لك سريرتك ومعلّمك من حالك التي قدمت لها
+      </p>
+
+      <p n="Friend Guesses Burzoys Mission">
+        فإنّك قدمت
+        <lb/>
+
+        بلادنا لتسلبنا كنوزنا النفسية فتذهب بها إلى بلادك وتسرّ بها ملكك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

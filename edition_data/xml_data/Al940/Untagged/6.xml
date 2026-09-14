@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Al940</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="6"/>
+
+      <p n="unassigned">
+        أعصم العصام الملك بن الملك لويس الثامن عشر أدام الله
+        <lb/>
+
+        بقاءه وجعل بكلّ خير دنياه وعقباه وأصلح به حال بلادنا وأنعم
+        <lb/>
+
+        بدوام ملكه علينا وعلى أولادنا فإنّ سعادته لمملكة فرانسا
+        <lb/>
+
+        بمنزلة النيّر الأعظم المشرق ولرعيّته وأهل بلاده كالأب
+        <lb/>
+
+        الأرحم المشفق ثمّ أسأله عزّ وجلّ أن يجعل تعبي هذا
+        <lb/>
+
+        نافعًا لإخواني وأن يغفر لي تقصيري ونقصاني وأتضرّع
+        <lb/>
+
+        إليه بأن يديم عليّ وعلى كلّ من يطالع هذا الكتاب كثرة ألطافه
+        <lb/>
+
+        ونعمه ويكفينا جميعًا شدّة عذابه ونقمه فإنّه وليّ الخير
+        <lb/>
+
+        والثواب وعنده أحسن المصير وأفضل المآب
+        <lb/>
+
+        كتاب كليلة ودمنة
+        <lb/>
+
+        بــــــسم الله
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

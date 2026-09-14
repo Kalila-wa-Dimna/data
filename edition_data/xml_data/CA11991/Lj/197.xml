@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CA11991</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="197"/>
+
+      <p n="Aides Are Essential to Rule">
+        الرأي والعفاف
+      </p>
+
+      <p n="Kings' Duties Are Many">
+        وأعمال الملك كثيرة ومن يحتاج إليه من العمّال والأعوان أكثر ومن
+        <lb/>
+
+        يجمع منهم الذي ذكرت أيضًا من أصالة الرأي والعفاف قليل
+      </p>
+
+      <p n="King Must Know Everyone">
+        وإنّما السبيل
+        <lb/>
+
+        في الوجه الذي يستقيم به العمل أن يكون الملك عالمًا بمودّة من يريد الانتقامه
+        <lb/>
+
+        به وما عند كلّ رجل منهم من الرأي وما فيه من العيوب
+      </p>
+
+      <p n="King Must Choose Suitable People">
+        فإذا استقرّ ذلك
+        <lb/>
+
+        عنده علمًا علم من يأتمن وعلم ما يستقلّ به وجّه لكلّ من عرف أن
+        <lb/>
+
+        عنده من الأمانة والنجدة والرأي ما يستقلّ بذلك العمل إذا لم يكن فيه
+        <lb/>
+
+        عيب يضرّ بذلك العمل ويتحفّظ من أن يوجّه أحدًا وجهًا يحتاج فيه إلى مروءة
+        <lb/>
+
+        ليست عنده ولا يؤمَن منه عقوبة في عاقبة ما يكره منه
+      </p>
+
+      <p n="King Must Reward and Punish">
+        ثمّ على الملك
+        <lb/>
+
+        بعد ذلك التعهّد والتفقّد لأمورهم لا يخفى عليه إحسان محسن ولا إساءة
+        <lb/>
+
+        مسيء ثمّ عليهم بعد ذلك أن لا يتركوا محسنًا بغير جزاء ولا يقرّوا مسيئًا ولا
+        <lb/>
+
+        عاجزًا على العجر والإساءة
+      </p>
+
+      <p n="Lack of Assessment Damages">
+        فإنّهم إن فعلوا ذلك تهاون المحسن واجترأ
+        <lb/>
+
+        المسيء فينفسد الأوضاع والعمل
+      </p>
+
+      <p n="Philosopher Mentions Parable">
+        ومن أمثال ذلك الأسد والسعهر قال الملك
+        <lb/>
+
+        وكيف كان ذلك
+      </p>
+
+      <p n="Philosopher Tells of Pious Jackal">
+        قال الفيلسوف زعموا أنّه كان بأرض دنداوند ابن آوى وكان
+        <lb/>
+
+        متعفّفًا في بنات آوى وبين الثعالب ولم يك يصنع ما يصنعن ولا يغترّ
+        <lb/>
+
+        بما يغتررن ولا يريق دمًا ولا يأكل لحمًا
+      </p>
+
+      <p n="Pack Denounces Jackal">
+        فخاصمته تلك الصـ السباع وقالوا له
+        <lb/>
+
+        لا نرضى بسيرتك ولا رأيك الذي أنت عليه مع أنّ تطوّعك لا يغني عنك شيئًا
+        <lb/>
+
+        وأنت لا تستطيع أن تكون كأحدنا فتسعى معنا وتفعل فعلنا فما سبب
+        <lb/>
+
+        كفّك عن الدنيا وتركك اللحم
+      </p>
+
+      <p n="Jackal Is not Accountable for Pack's Actions">
+        قال ابن آوى وهو السعهر إنّ صحبتي إيّاكم
+        <lb/>
+
+        لا تؤثمني إذا لم يكن مؤثم
+      </p>
+
+      <p n="Sins Depend only on One's Actions">
+        لأنّ الآثام ليست من قبل الأماكن والأصحاب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

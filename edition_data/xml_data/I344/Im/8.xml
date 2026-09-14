@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="8"/>
+
+      <p n="Scholars Put Knowledge in Book of Fables">
+        السباع والطير والبهائم والوحوش
+      </p>
+
+      <p n="Fables Facilitate Many Types of Discourse">
+        فاجتمعت
+        <lb/>
+
+        لهم من ذلك ثلاث خلال أمّا إحداهنّ فإنّهم
+        <lb/>
+
+        وجدوا منصرفًا في القول وشعوبًا يأخذون فيها
+        <lb/>
+
+        لما أرادوا أن يستخلصوه ممّا وثّقوا به قولهم وصحّحوا
+        <lb/>
+
+        به حججهم
+      </p>
+
+      <p n="Book Is Used for Wisdom, Pleasure, and Knowledge">
+        وأمّا الخصلة الثانية فإنّهم وجدوا
+        <lb/>
+
+        ذلك بالغًا لما يريدون عند أهل العقول والتفكّر
+        <lb/>
+
+        زائدًا لهم فيما أبدوا به من حكمتهم إذا أوردوا فيه
+        <lb/>
+
+        وعرفوا مذاهبه وأمّا الخصلة الثالثة فإنّهم
+        <lb/>
+
+        وجدوه لهوًا للمتعلّم والأحداث لما فيه من ذكر
+        <lb/>
+
+        السباع والطير والوحوش والبهائم فأحبّوا ذلك
+        <lb/>
+
+        واستظرفوه وأحبّوا دراسته وعلمه
+      </p>
+
+      <p n="Acquired Knowledge Manifests in Adulthood">
+        فإذا
+        <lb/>
+
+        أحسنك الحديث واجتمع إليه عقله فتفكّر فيما
+        <lb/>
+
+        حفظ من ذلك أيّام صغره وتدبّر ما كان مفيدًا
+        <lb/>
+
+        في كبره علم أنّه قد ظفر من ذلك بما هو أبلغ له من
+        <lb/>
+
+        دخائر الأموال
+      </p>
+
+      <p n="Bequeathed Treasure Suffices">
+        وكان كالرجل الذي يدرك حين
+        <lb/>
+
+        يدرك فيجد أباه قد ادّخر له كنوزًا من الذهب والفضّة
+        <lb/>
+
+        والجوهر وعقد له عقودًا استغنى بها عن استقبال
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

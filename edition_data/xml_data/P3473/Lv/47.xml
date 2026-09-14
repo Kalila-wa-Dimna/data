@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="47"/>
+
+      <p n="Kisra Opens Treasury">
+        وأمر الملك أن تُفتح خزائن الجواهر والذهب والفضّة والأمتعة
+        <lb/>
+
+        والكسوة
+      </p>
+
+      <p n="Kisra Urges Burzoy To Take Gifts">
+        وأن يُمكّن برزوية يأخذ منها ما شاء
+      </p>
+
+      <p n="Kisra Offers Burzoy Regency">
+        وقال
+        <lb/>
+
+        الملك إنّي حلّيتك بتاج ملكي وأمره أن يلبسه بحضرته
+        <lb/>
+
+        وأجلسه إلى سرير بجانبه وألبسه خلعة من خلع الملوك
+        <lb/>
+
+        وسوّره بأسورة الملوك وقدّمه على خواصّ أهل مملكته على
+        <lb/>
+
+        الإطلاق
+      </p>
+
+      <p n="Burzoy Praises Kisra">
+        فسجد برزوية بين يدي الملك ودعا له وقال
+        <lb/>
+
+        أكرم الله الملك كرامة الدنيا والآخرة وأحسن عنّي جزاءه وثوابه
+      </p>
+
+      <p n="Burzoy Wants No Gift">
+        فإنّي بحمد الله مستغن عن المال بما رزقني الله تعالى على
+        <lb/>
+
+        يديك أيّها الملك السعيد الجدّ العظيم الملك ولا حاجة لي إلى المال
+      </p>
+
+      <p n="Burzoy Honors Kisras Oath">
+        لما شرّفتني به ومكّنتني من خزائنك وذخائرك وأقسمت أنّ
+        <lb/>
+
+        ذلك يسرُّك فسأصير إلى الخزائن وآخذ منها ما أريد طلبًا
+        <lb/>
+
+        لرضاك وامتثالًا ﻷمرك وإبرارًا لقسمك
+      </p>
+
+      <p n="Burzoy Takes Gift">
+        ثمّ قصد خزائن
+        <lb/>
+
+        الثياب فأخذ منها تختًا من ظرائف خراسان ممّا يصلح
+        <lb/>
+
+        للملوك وأراد الملك بذلك السمعة والذكر بين العالم في مستقبل
+        <lb/>
+
+        الزمان قال فلمّا قبض برزوية ما اختار ورضي من الثياب
+      </p>
+
+      <p n="Burzoy Expresses Gratitude">
+        قال أكرم الله الملك ومدّ لنا في عمره أبد الدنيا
+      </p>
+
+      <p n="Favor Merits Gratitude">
+        إنّ الإنسان
+        <lb/>
+
+        إذا أُكرم وأُجبر قلبه وجب عليه الشكر وإن كان قد
+        <lb/>
+
+        استوجب نفعًا لما تجشّمه من مشقّة كان فيها رضى الملك
+      </p>
+
+      <p n="Burzoys Toil Repaid By Honor">
+        وأمّا
+        <lb/>
+
+        أنا فكلّما لقيته من عناء ونصب ومشقّة فلا أريد في مقابلة
+        <lb/>
+
+        ذلك شيئًا لما أعلم لكم فيه من السرور ولي من الشرف
+      </p>
+
+      <p n="Burzoy Serves Kisra Gladly">
+        وإنّي
+        <lb/>
+
+        لم أزل وإلى الآن في رضاكم مخيّرًا ولو نالني كلّ مشقّة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

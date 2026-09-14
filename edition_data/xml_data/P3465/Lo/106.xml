@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="106"/>
+
+      <p n="Dimna Offers to Bring Ox as Servant">
+        لك عبدًا سامعًا مطيعًا
+      </p>
+
+      <p n="Lion's Approval of Dimna's Proposal">
+        قال الأسد دونك وما بدا لك فانطلق إلى الثور
+      </p>
+
+      <p n="Dimna's Confident Approach to Ox">
+        فقال
+        <lb/>
+
+        له غير هائب ولا مكترث إنّ الأسد أرسلني إليك لآتيه بك
+      </p>
+
+      <p n="Dimna's Offer of Safety to Ox">
+        وأمرني إن
+        <lb/>
+
+        أنت عجّلت إليه طائعًا أن يؤمّنك على ما سلف من ذنبك في التأخّر عنه
+        <lb/>
+
+        وتركك لقاءه
+      </p>
+
+      <p n="Ox's Request for Assurance">
+        وإن أنت تأخّرت عنه وأحجمت أن أعجّل إليه فأخبره
+      </p>
+
+      <p n="Ox Inquires about Lion's Identity">
+        قال له شتربة
+        <lb/>
+
+        ومن هو هذا الأسد الذي أرسلك إليّ وأين هو وما حاله
+      </p>
+
+      <p n="Dimna Describes Lion as King of Beasts">
+        قال دمنة هو ملك
+        <lb/>
+
+        السباع ومعه جند كثير من جنسه
+      </p>
+
+      <p n="Ox's Fear Upon Hearing of Lion">
+        فرعب شتربة من ذكر الأسد
+        <lb/>
+
+        والسباع
+      </p>
+
+      <p n="Ox's Acceptance of Dimna's Offer">
+        وقال إن أنت جعلت لي الأمان على نفسي أقبلت معك إليه
+      </p>
+
+      <p n="Dimna Provides Assurance to Ox">
+        فأعطاه
+        <lb/>
+
+        دمنة من الأمان ما وثق به
+      </p>
+
+      <p n="Dimna and Ox Approach Lion Together">
+        وأقبل والثور معه حتّى دخلا على الأسد
+      </p>
+
+      <p n="Lion's Welcoming Inquiry to Ox">
+        فأحسن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

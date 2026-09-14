@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="126"/>
+
+      <p n="Wife Asks Him to Investigate">
+        وسلْ الببّغاءين عمّا سوى ذلك من الكلام بهذا اللسان
+      </p>
+
+      <p n="The Parrots Will Turn Out to Be Trained">
+        فإن كانا يحسنان
+        <lb/>
+
+        غير هاتين الكلمتين فأنت على رأس أمرك وإن لم يكونا يحسنان غير هاتين
+        <lb/>
+
+        الكلمتين فاعلم أنت ومن حضر أنّ هذا الشيء على تلقين الختّال المساور لي على
+        <lb/>
+
+        هذه السوأة
+      </p>
+
+      <p n="Falconer's Training of Parrots Is Discovered">
+        فطلب المرزبان إليهم فسألوا الببغاءين فلم يحسنا بذلك اللفظ
+        <lb/>
+
+        أن ينطقا غير تلك الكلمتين
+      </p>
+
+      <p n="Falcon Gouges Out His Eyes">
+        فدعا المرزبان البازيار فأقبل واثقًا بنفسه
+        <lb/>
+
+        على غير هيئة المريب ولا المذنب فدخل على يده باز فنادته مولاته من وراء
+        <lb/>
+
+        الستر أيّها العدوّ أنت رأيتني على الزنية التي علّمت الببّغاءين فقال أمّا إذا سُئلتُ
+        <lb/>
+
+        فقد قلتُ الذي رأيت فوثب البازي الذي على يده فتناول بمخلبيه حدقتَي البازيار
+        <lb/>
+
+        فانتزعهما
+      </p>
+
+      <p n="Wife Interprets This As God Punishing False Testimony">
+        فقالت مولاته إنّ هذا الذي أصابك أخزاك الله على شهادتك ما لم تره
+      </p>
+
+      <p n="A Liar Suffers Punishment in Here and Hereafter">
+        وإنّما ضربت لك هذا المثل لتزداد علمًا بوخامة عاقبة الشهادة بالكذب
+        <lb/>
+
+        في الدنيا والآخرة
+      </p>
+
+      <p n="A Judge Has the Authority to Punish and Reward">
+        قال القاضي إنّ الحاكم العادل ينبغي له أن يعرف عمل
+        <lb/>
+
+        المحسنين ليجزي المحسنين بإحسانهم والمسيئين بإساءتهم فإذا هو قد أحسن إلى
+        <lb/>
+
+        الفريقين جميعًا فازداد المحسنون حرصًا على الإحسان والمسيئون اجتنابًا للذنوب
+      </p>
+
+      <p n="Judge Enjoins Dimna to Confess">
+        والذي أرى لك ويحك يا دمنة أن تنظر في أمرك وفي الذي غشاك ووقعت
+        <lb/>
+
+        فيه من الإثم فتتوب منه وتعترف بالحقّ
+      </p>
+
+      <p n="Confession Is Better Than a Denial, and Finite Punishment on Earth Better Than Infinite Punishment in Hell">
+        فقد قيل إنّ الذي يُدان بالذنب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

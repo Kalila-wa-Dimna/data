@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="152"/>
+
+      <p n="Dimna Enumerates 5 Duplicitous Types">
+        والذي ينطق بين الجماعة بما لا يسئل عنه
+      </p>
+
+      <p n="Dimna Defines the Ill-Wishing Person">
+        وإنّما الشقيّ من لا
+        <lb/>
+
+        يعرف الأمور والناس ولا يقدر على دفع الشرّ عن نفسه
+        <lb/>
+
+        ولا يستطيع ذلك
+      </p>
+
+      <p n="The Mother Demands Dimna's Silence and Confession">
+        قالت أمّ الأسد أتظنّ أيّها
+        <lb/>
+
+        الغادر المحتال بقولك هذا وأنّه لا يسجنك
+      </p>
+
+      <p n="Dimna Defines as Traitor Who Is Ungrateful for Advice and Kills a Defeated Enemy">
+        قال
+        <lb/>
+
+        دمنة الغادر الذي ** عدوّه من إذا استمكن من عدوّه قتله على غير ذنب
+      </p>
+
+      <p n="The Mother Condemns Dimna's Sweet-Talking and Hoping">
+        قالت أم الأسد أيّها الغادر الكذوب أتظن أنّك ناجٍ من عاقبة
+        <lb/>
+
+        كذبك وأنّ محالك هذا ينفعك مع جرمك العظيم
+      </p>
+
+      <p n="Dimna Claims Truthfulness">
+        قال دمنة
+        <lb/>
+
+        الكذوب الذي يقول ما لم يمكن ويأتي بما لم يفعل وكلامي واضح مبين
+      </p>
+
+      <p n="Silence in an Argument Means Approval">
+        قالت أمّ الأسد العلماء منكم من قضى حاجته فيه ثمّ نهضت فخرجت
+      </p>
+
+      <p n="Lion Hands Dimna Over to Judge for Investigation">
+        فدعى
+        <lb/>
+
+        الأسد دمنة إلى القاضي
+      </p>
+
+      <p n="The Judge Has Dimna Taken to Prison">
+        فأمر القاضي بحبسه وألقى في عنقه حبلًا وانطُلق به إلى
+        <lb/>
+
+        السجن
+      </p>
+
+      <p n="Kalila Seeks out Dimna in Prison">
+        فلمّا انتصف الليل أُخبر كليلة إن دمنة في الحبس فأتاه مستخفيًا
+      </p>
+
+      <p n="Kalila Weeps when Seeing Dimna">
+        فلمّا صحّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

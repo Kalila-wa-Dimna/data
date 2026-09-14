@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="107"/>
+
+      <p n="The Lion Wants to Extricate Himself from Error">
+        فيه غدرًا
+      </p>
+
+      <p n="The Lion Does Not Insist on Knowing His Mother's Source">
+        فإذا رأيت أن لا تخبريني باسم المسرّ إليك وتفسير ما أسرّ
+        <lb/>
+
+        فأخبريني بجملة الأمر
+      </p>
+
+      <p n="The Mother Quotes the Leopard Anonymously">
+        فأخبرته أمّه بجميع ذلك الحديث ثمّ
+      </p>
+
+      <p n="Harming King and People Cannot Be Pardoned">
+        قالت لست
+        <lb/>
+
+        أجهل قول العلماء في تعظيم من الفضل ولكنّ الفصل في ذلك
+        <lb/>
+
+        ربّما هو في دون خيانة العامّة وخيانة الملوك فيما يقع بين الشيئن
+      </p>
+
+      <p n="The Foolish Spread Doubt to Cover Their Crimes">
+        ويحتجّ به السفهاء عند ما يكون من أعمالهم السيّئة وإنّ من فساد
+        <lb/>
+
+        العامّة ترك عقوبة مستوجبي العقوبة
+      </p>
+
+      <p n="The Lion Is Entitled to Kill Dimna">
+        فلا تدع هذا الخائن المفسد
+        <lb/>
+
+        هذا يعيش فوق ما عاش
+      </p>
+
+      <p n="The Lion Assembles the Court and Summons Dimna">
+        فدعا الأسد بوجوه أصحابه فأُدخلوا
+        <lb/>
+
+        عليه ثمّ دعا بدمنة
+      </p>
+
+      <p n="Dimna Inquires About the Lion's Dejection">
+        فلمّا قام بين يديه رأى من حاله وعرف من حال
+        <lb/>
+
+        جلسائه ما أيقن له بالشرّ فالتفت إلى بعض من يليه فقال له قولًا خفيًّا
+        <lb/>
+
+        هل حدث حدث يحزن الملك أو حدث أمر جمعكم له كما أرى
+      </p>
+
+      <p n="The Mother Declares Dimna Responsible">
+        فسمعته
+        <lb/>
+
+        أمّ الأسد فقالت نعم حزن الملك تركه إيّاك حيًّا بعد الذي رأى من
+        <lb/>
+
+        غشّك له وإغرائك إيّاه بأهل نصيحته وليس ينبغي له أن يستبقيك طرفة
+        <lb/>
+
+        عين
+      </p>
+
+      <p n="Dimna Wants to Know His Alleged Crime">
+        قال دمنة ماذا أحدث من أمري
+      </p>
+
+      <p n="The Mother Blames Dimna for Instigating the Lion">
+        قالت أمّ الملك استبان
+        <lb/>
+
+        للملك صنعك به وتحميلك إيّاه بكذبك على شتربة
+      </p>
+
+      <p n="Good People Suffer Misfortune Fastest">
+        قال دمنة
+        <lb/>
+
+        ما أرى الأوّل ترك للآخر مقالًا في شيء من معاريض الأمور فإنّه كان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

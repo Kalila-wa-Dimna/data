@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="121"/>
+
+      <p n="If the Physique Makes People Traitors, Dimna Is Innocent and Excused">
+        ولو كنت علمت هذا الذي لُطّخت به بالعلامات التي أعوذ بالله منها لكان تلك
+        <lb/>
+
+        العلامات التي ألزم منها الله لا أستطيع التى ألزمتنيها وقذفتني بها لا أستطيع
+        <lb/>
+
+        امتناعًا
+      </p>
+
+      <p n="Courtier's Argument Shows His Foolishness">
+        وممّا يدلّ على قلّة علمك بالأحكام ومواقعها
+      </p>
+
+      <p n="Bodily Marks Would Have Effect at an Unforeseeable Time">
+        أنّ الذي ذكرت لو
+        <lb/>
+
+        كان كذلك لم يوجب عليّ شيئًا لأنّ العلامات تُخلق مع صاحبها حين يُخلق
+        <lb/>
+
+        وتولّد معه حين يولد وليس لفعالها وقت في أيّ يوم تكون أو في أيّ عمر
+        <lb/>
+
+        وما ينبغي الحكم أن يقع على أهلها وما حال من لم يبلغ العقل إذا كانت به
+        <lb/>
+
+        العلامات التي ذكرت
+      </p>
+
+      <p n="Dimna Calls Courtier's Claim Foolish">
+        فهذا الدليل لأهل العقل على سفهك وجهلك ولكنّك
+        <lb/>
+
+        سمعت شيئًا لم تعرف موضعه فتكلّمت به في غير حينه ولست بأعلم وأفقه
+        <lb/>
+
+        ممّن حضر ولا بأولاهم بالمنطق ولكنّك تكلّمت فأخطأت
+      </p>
+
+      <p n="Dimna's Third Subtale of Plower Who Told His Wife to Cover Herself First">
+        فمثلك مثل رجل
+        <lb/>
+
+        قال لامرأته استري عورتك ثمّ التمسي بتستير عورة غيرك
+      </p>
+
+      <p n="Prominent Courtier Requests Tale">
+        قال القاضي
+        <lb/>
+
+        وكيف كان ذلك
+      </p>
+
+      <p n="A Man and His Two Wives Become War Captives">
+        قال دمنة كانت بمدينة تُدعى بردحرد فأغار عليها
+        <lb/>
+
+        العدوّ فقتل فيها وسبى وانطلق بمن سبى إلى بلادهم فأصاب رجل منهم
+        <lb/>
+
+        في قسمة السبي حرّاثًا وامرأتين له فكان صاحبهم ذلك يضيّق عليهم في
+        <lb/>
+
+        الطعام والشراب والكسوة
+      </p>
+
+      <p n="One Wife Blames the Other for Being Naked">
+        فانطلق الحرّاث ذات يوم يحتطب ومعه امرأتاه
+        <lb/>
+
+        عريانتان فأصابت إحداهما خرقة بالية في الصحراء فأخذتها فغطّت بها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

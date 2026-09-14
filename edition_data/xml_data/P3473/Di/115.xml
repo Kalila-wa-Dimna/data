@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="115"/>
+
+      <p n="A Leopard Was the Lion's Confidant">
+        عنده نمرًا من جنوده وكان أمينه على أسراره وجميع
+        <lb/>
+
+        أحواله وهو مقبول الكلمة عنده
+      </p>
+
+      <p n="The Leopard Overhears Kalila Chastising Dimna">
+        فلمّا كان بعد قتل
+        <lb/>
+
+        الثور بأيّامٍ تمشّى النمر عند الأسد ثمّ مضى إلى منزله ليلًا
+        <lb/>
+
+        اجتاز على منزل كليلة ودمنة فلمّا انتهى إلى الباب
+        <lb/>
+
+        سمع كليلة وهو يعاتب دمنة ويلومه على إقدامه بالنميمة
+        <lb/>
+
+        بالنميمة والكذب
+      </p>
+
+      <p n="Kalila's Accusation of Dimna">
+        فكان فيما قاله له إنّك قد ارتكتب أمرًا
+        <lb/>
+
+        عظيمًا ودخلت مدخلًا ضيّقًا وجنيت على نفسك جنايةً
+        <lb/>
+
+        عظيمةً وعاقبتها وخيمةً إذا اطّلع
+        <lb/>
+
+        الأسد عليه وانكشف له غدرك فلا يبقى لك في السباع
+        <lb/>
+
+        عاذرٌ ولا ناصرٌ بل تجتمع عليك بالهلاك والقتل مخافة
+        <lb/>
+
+        شركٍ وحذرًا من غوائك
+      </p>
+
+      <p n="Kalila Rejects Dimna as Friend">
+        فأمّا أنا فلست آخذك بعد هذه
+        <lb/>
+
+        الليلة خليلًا ولا بمض بمفضٍ إليك سرًّا
+      </p>
+
+      <p n="One Must Avoid Bad People">
+        فإنّ الحكماء قالوا
+        <lb/>
+
+        تباعد عمّن لا رغبة له في
+      </p>
+
+      <p n="Dimna is Evil and to Be Shunned">
+        وأنا جديرٌ بمباعدتك
+        <lb/>
+
+        فالتمس الخلاص لي ولك بما قد وقر في نفسي ونفس الأسد
+        <lb/>
+
+        من هذا الأمر
+      </p>
+
+      <p n="Dimna Admits His Guilt">
+        قال دمنة لعمري ما أنا برادٍّ ما سلف منّي
+        <lb/>
+
+        ولكنّ الحسد والحرص حملاني على ما فرط منّي
+      </p>
+
+      <p n="The Leopard Confides in the Lion's Mother">
+        فلمّا سمع النمر
+        <lb/>
+
+        ذلك من كلامهما انصرف ودخل على أمّ الأسد وأخذ عليها
+        <lb/>
+
+        عهدًا أنّها لا تفشي ما يُسرّ إليها فجعلت تحلف له ذلك فأخبرها
+        <lb/>
+
+        النمر ما ما سمع من كليلة وإقرار دمنة واعترافه بما صنع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

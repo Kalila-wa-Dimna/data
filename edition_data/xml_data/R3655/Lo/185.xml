@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="185"/>
+
+      <p n="The Crow Seeks Counsel">
+        أستشيرك وأستأذنك في أمر هممت به إن رأيته لي ووافقتني عليه قال وما ذلك
+        <lb/>
+
+        قال أذهب إلى هذا الأسود وهو نائم فأنقر عينيه حتّى أفقأهما
+      </p>
+
+      <p n="The Jackal's Warning">
+        قال ابن آوى
+        <lb/>
+
+        بئست الحيلة احتلت فالتمس أمرًا تصيب فيه ما تصيب من الأسود من غير إهلاكك
+        <lb/>
+
+        لنفسك ولا مخاطرة
+      </p>
+
+      <p n="The Heron and the Crab Parable">
+        وإيّاك أن تكون مثل العلجوم الذي أراد قتل السرطان فقتل نفسه
+      </p>
+
+      <p n="The Crow Asks for the Story">
+        قال الغراب وكيف كان ذلك
+      </p>
+
+      <p n="The Old Heron's Dilemma">
+        قال ابن آوى كان علجوم متعشّشًا في أجمة مخصبة كثيرة
+        <lb/>
+
+        السمك فلمّا هرم لم يستطع الصيدالسمك
+      </p>
+
+      <p n="The Crab Approaches the Heron">
+        فأصابته كآبة وحزن فقعد متحزّنًا فرآه سرطان
+        <lb/>
+
+        فعرف الحزن في وجهه فدنا منه
+      </p>
+
+      <p n="The Crab's Inquiry">
+        وقال له أراك قد علتك كآبة
+      </p>
+
+      <p n="The Heron Explains His Sadness">
+        قال العلجوم وكيف لا
+        <lb/>
+
+        تعلوني كآبة وإنّما كانت معيشتي إلى اليوم أنّي كنت أصيد من ها هنا سمكًا كثيرًا
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="197"/>
+
+      <p n="Advice Outweighs Armies">
+        من الأنهار
+      </p>
+
+      <p n="Resolute King Keeps Reflecting">
+        وليس يخفى على الحازم قدر أمره وأمر عدوّه
+        <lb/>
+
+        وموضع فرصته ومكيدته ولا ينفكّ يعرض الأمور
+        <lb/>
+
+        على نفسه في مجازية أمرًا والأعوان الذي يعتمد عليهم
+        <lb/>
+
+        والعدّة التي يعدّها ويروّي في التقدّم والتأخّر
+      </p>
+
+      <p n="Chance Is Lost Without Advice">
+        فمن لم يكنْ له رأي
+        <lb/>
+
+        ونصيحة من الوزراء لم يلبثْ وإن ساقت إليه الأقدار حظًّا
+        <lb/>
+
+        أن يستديل عليه مقادير السوء بفساد ذلك
+      </p>
+
+      <p n="Chances Favor Intelligent">
+        فإنّ الحظّ المقسوم
+        <lb/>
+
+        لم يُوكّلْ بالحسب والجمال ولكنّه وُكّل بالعاقل المستمع من
+        <lb/>
+
+        ذوي العقول وأنت
+      </p>
+
+      <p n="Spy Praises King C">
+        أيّها الملك كذلك وقد
+      </p>
+
+      <p n="Spys Advice Partially Secret">
+        استشرتني في أمر أريد أن أجيبك في
+        <lb/>
+
+        بعضه علانية وفي بعضه سرًّا
+      </p>
+
+      <p n="Spys Open Advice">
+        فأمّا ما لا أكره أن أعلنه فإنّي كما أكره
+        <lb/>
+
+        القتال وكذلك لا أرى الخضوع والجزع والرضى بذلّ الدهر
+      </p>
+
+      <p n="Dignity Over Life">
+        فإنّ
+        <lb/>
+
+        العاقل يختار الموت صابرًا محافظًا على الحياة إذا كان ذليلًا
+        <lb/>
+
+        وأرى أن نتقدّم النظر في أمرنا ولا ندخل أمرًا فيه عجز
+      </p>
+
+      <p n="Indecision Is Impotence">
+        فإنّ
+        <lb/>
+
+        التواني رأي العجزة
+      </p>
+
+      <p n="Spy Moves To Secret Advice">
+        وأمّا ما أريد أن أشير به سرًّا فليكنْ
+        <lb/>
+
+        سرًّا
+      </p>
+
+      <p n="Victory Requires Guarding Secrets">
+        فإنّه يُقال *إنّما يصيب الملوك الظفر بالحزم والحزم
+        <lb/>
+
+        بالرأي والرأي بتكرار النظر
+      </p>
+
+      <p n="Who May Discover Secret">
+        وإنّما تظهر أسرار الملوك
+        <lb/>
+
+        من قِبل مشاورتهم والبرد والرسل والمستمعين والناظرين في
+        <lb/>
+
+        مخارج الرأي والأعمال والسنّة والنظر ومن
+      </p>
+
+      <p n="Two Benefits Of Guarding Secret">
+        حصّن سرّه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

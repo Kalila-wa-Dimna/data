@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>VAF298</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="47"/>
+
+      <p n="Duty of Courtiers to Share Their Knowledge">
+        على من حضر مجلس الملك أن يطلعه على ما عنده من المنفعة
+      </p>
+
+      <p n="Ruler's Responsibility to Recognize Merit">
+        ويجب على السلطان
+        <lb/>
+
+        أن يبلغ كلّ امرئ من بيته على قدر رأيه ونصيحته
+      </p>
+
+      <p n="Leaders Must Place Things Properly">
+        وليس لأحد وإن كان ملكًا
+        <lb/>
+
+        أن يضيح يضيّع شيئًا منها على غير موضعه ولا يزيله عن منزلته فإنّه بعد
+      </p>
+
+      <p n="Advice against Associating with the Ignorant">
+        ويُقال إنّه لا يُحبّ للرجل أن يصاحب من لا يعرف يمينه من شماله
+      </p>
+
+      <p n="Importance of Associating with the Wise">
+        وإنّما
+        <lb/>
+
+        يستخرج ما عند الرجال ولاتهم قادتهم وما في الذين والتأويل قادتهم
+        <lb/>
+
+        وعلماؤهم
+      </p>
+
+      <p n="Three Things with Varying Degrees of Excellence">
+        وقد قيل في أشياء ثلاثة فيها فضلًا متفاوتًا المقاتل والفيل
+        <lb/>
+
+        على الفيل والعالم على العالم
+      </p>
+
+      <p n="Value of Quality over Quantity in Allies">
+        وكثرة الأعوان إذا لم يكونوا كافين مضرّة
+        <lb/>
+
+        بالعمل وليس بكثرة الأعوان العمل ولكن بصالحيهم وذوي الفضل منهم
+      </p>
+
+      <p n="Analogy of Carrying Heavy Stone vs. Valuable Gem">
+        كالرجل الذي يحمل الحجر الثقيل رجاء الثمن فلا يجد به ثمنًا والرجل يحمل
+        <lb/>
+
+        الياقوت لا ثقل له وهو يجد به الثمن الجزيل
+      </p>
+
+      <p n="Importance of Appropriate Tools for Tasks">
+        والعمل الذي يحتاج إلى الخشب
+        <lb/>
+
+        لا يجزيه القصب وإن كان كثر
+      </p>
+
+      <p n="Dimna's Desire for Recognition Based on Merit">
+        وأحبّ دمنة إذا ناله ما ناله من إكرام الملك إن
+        <lb/>
+
+        يعلم الجماعة إنّ ذلك ليس بمعرفة أبيه بل لرأيه ومروءته
+      </p>
+
+      <p n="Ruler's Criteria for Appointing Officials">
+        فقال إنّ السلطان
+        <lb/>
+
+        لا يقرّب الرجل لقرب آبائه ولا يبعد لبعد آبائه لكنّه ينظر إلى ما عند كلّ رجل
+        <lb/>
+
+        منهم وما ينبغي له
+      </p>
+
+      <p n="Bodily Health Is Most Important">
+        فإنّه لا شيء أقرب للرجل من جلده فمهما يصيبه منه من
+        <lb/>
+
+        علّة حتّى يؤذيه فلا يدفع بلاءه عنه إلّا الدواء الذي يُؤتى به من بعيد
+      </p>
+
+      <p n="Animals Are Treated according to Their Benefit">
+        والجرذ في البيت مجاور ولكن آذاه أخرجه ونفاه والباز وحش غريب
+        <lb/>
+
+        فلأجل نفعه اتّخذه الملوك واقتناه
+      </p>
+
+      <p n="Dimna's Observation of the Lion's Behavior">
+        فلمّا سمع الأسد مقالة دمنة ازداد
+        <lb/>
+
+        له استظرافًا وبه إعجابًا وأحسن الردّ عليه
+      </p>
+
+      <p n="Ruler Must Not Undervalue the Noble">
+        وقال لجلسائه ينبغي للسلطان
+        <lb/>
+
+        أن لا يضيع حقّ ذي حقّ ولا منزلة ذي منزلة
+      </p>
+
+      <p n="A Viper Stepped on Once May Not Bite">
+        ولا يبعده ممّن طبعه الشراسة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

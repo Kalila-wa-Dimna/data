@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="259"/>
+
+      <p n="unassigned">
+        والمستجير الخائف أن يُؤمّن ويحاور ومع ذلك إنّ الرجل ربّما
+        <lb/>
+
+        عطّفه على عدوّه الأمر اليسير
+      </p>
+
+      <p n="Mention Old Man Wife And Thief">
+        كالتاجر الذي عطف على
+        <lb/>
+
+        السارق بشيء لم يتعمّد له
+      </p>
+
+      <p n="King O Requests Old Man Story">
+        قال المَلك وكيف كان
+      </p>
+
+      <p n="Old Man Has Young Wife">
+        ذلك قال الوزير
+        <lb/>
+
+        زعموا أنّ تاجرًا كان مكثرًا من المال وكان كبير السنّ وله امرأة
+        <lb/>
+
+        ذات جمال وشباب وكان لها عاشقًا
+      </p>
+
+      <p n="Wife Hates Husband">
+        وكانت لا تمكّنه من
+        <lb/>
+
+        التزامها
+      </p>
+
+      <p n="Old Man Undiscouraged">
+        وكان التاجر يعلم ذلك فلا يزيده إلّا حبًّا لها
+      </p>
+
+      <p n="Thief Breaks In">
+        ثم إنّ سارقًا نقب بيت التاجر ليلة فدخل فرأيها التاجر
+        <lb/>
+
+        نائمًا والمرأة مستيقظة فذعرت من السارق
+      </p>
+
+      <p n="Wife Hugs Old Man">
+        فوثبت
+        <lb/>
+
+        إلى التاجر فالتزمته فاستيقظ التاجر بالتزامها ففرح
+      </p>
+
+      <p n="Old Man Rewards Thief">
+        وقال أيّها اللصّ أنت في حلّ لما عطّفت عليّ امرأتي
+      </p>
+
+      <p n="King O Asks Third Owl">
+        ثمّ إنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

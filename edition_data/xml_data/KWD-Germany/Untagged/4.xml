@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>KWD-Germany</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="4"/>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        "Das Gericht wird einberufen",
+        <lb/>
+
+        "139",
+        <lb/>
+
+        "Am Morgen aber befahl der König, daß sich alle Alten und Weisen des",
+        <lb/>
+
+        "Volkes und seines Gefolges versammelten. Er sandte auch nach seiner Mutter",
+        <lb/>
+
+        "und nach Dimna, damit sie vor ihm stünden. Und als sie alle im Hofe vor dem",
+        <lb/>
+
+        "König versammelt waren, setzte sich der König mit zu Boden geneigtem",
+        <lb/>
+
+        "Haupte nieder, denn er war über das bestürzt, was er getan hatte, weil er",
+        <lb/>
+
+        "Senesba getötet hatte.",
+        <lb/>
+
+        "",
+        <lb/>
+
+        "Als dies Dimna sah, wußte er, daß der Tag seiner Heimsuchung gekommen",
+        <lb/>
+
+        "war. Nun fürchtete er sich vor dem Tod und sagte zu denen, die vor ihm standen:",
+        <lb/>
+
+        "„Warum zeigt der König eine so böse Miene und ist traurig und betrübt Gibt",
+        <lb/>
+
+        "es etwas Neues, weswegen er uns alle so schnell vor sich rief?" Die Mutter des",
+        <lb/>
+
+        "Löwen erwiderte und sprach Dimna an und sagte: „Was du vom Leiden des",
+        <lb/>
+
+        "Königs und seiner Trübsal siehst, ist nichts anderes, als was dich bis heute",
+        <lb/>
+
+        "leben läßt, weil du versuchtest, dich zum Nächsten des Königs zu machen",
+        <lb/>
+
+        "und ihm Worte von Umsturz berichtetest und ihn durch deine Lügen und Ver-",
+        <lb/>
+
+        "führungskünste dahin brachtest, daß er Senesba tötete." Dimna erwiderte",
+        <lb/>
+
+        "und sprach: „Ich erkenne, daß wahr ist, was die Weisen gesagt haben, wenn sie",
+        <lb/>
+
+        "sagen: Wer sich müht wohlzutun, dem folgt nach dem Undank auch noch]",
+        <lb/>
+
+        "das Unglück. Aber es sei fern, daß dieses Beispiel den König oder sein Gefolge",
+        <lb/>
+
+        "berühre Man sagt ja: Wer sich den Schlechten anschließt, auch wenn er sich",
+        <lb/>
+
+        "an ihren Taten nicht beteiligt, entkommt ihren Schlechtigkeiten doch nicht,",
+        <lb/>
+
+        "mag er sich noch so sehr hüten. Es gibt außer Gott niemanden auf der Welt,",
+        <lb/>
+
+        "der Gutes mit Gutem vergilt, denn das tut außer ihm keiner, aber ich meine,",
+        <lb/>
+
+        "daß keinem gerechtes Handeln so zukommt wie dem König. Und deswegen",
+        <lb/>
+
+        "finden wir Scharen von Heiligen und Gottverehrenden, die in Bergen und",
+        <lb/>
+
+        "Wüsten wohnen und die allen Umgang und ihre Stellung verlassen haben und",
+        <lb/>
+
+        "sich mit den Menschen wegen deren Wertlosigkeit nicht zusammentun, sondern",
+        <lb/>
+
+        "alles mehr zur Ehre Gottes als für irgendetwas dieser Welt tun. Meine Liebe",
+        <lb/>
+
+        "aber galt immer dem König. Und ich erteilte ihm guten Rat. Und ich behütete",
+        <lb/>
+
+        "und bewahrte ihn vor demjenigen, der sich gegen ihn erheben wollte. Und die",
+        <lb/>
+
+        "Gerechtigkeit meines Vorhabens brachte mich in diese Bedrängnis, weil ich",
+        <lb/>
+
+        "ihm ja alles dies offenbarte, was ich an einem feindlich Gesonnenen für ver-",
+        <lb/>
+
+        "dächtig hielt. Und jener Verrat am König wurde enthüllt und ihm offenbar",
+        <lb/>
+
+        "durch die Nachforschungen, mit denen er der Wahrheit nachspürte und sie",
+        <lb/>
+
+        "[schließlich ermittelte. Und wenn er selber will, soll er in der Sache nach-",
+        <lb/>
+
+        "forschen und in sie mit dem Auge der Wahrheit hineinschauen. Dann wird",
+        <lb/>
+
+        "nämlich meinen Worten, die ich ihm berichtete, Gerechtigkeit widerfahren. Das",
+        <lb/>
+
+        "Feuer, das im Stein ist, kann nur mit Geschicklichkeit aus ihm gezogen werden.",
+        <lb/>
+
+        "Und dies hier kann nicht verborgen bleiben, weil ja das Vergehen des Misse-",
+        <lb/>
+
+        "täters um so eher zutage tritt und in der Öffentlichkeit enthüllt und ver-"
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

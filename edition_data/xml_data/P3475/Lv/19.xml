@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="19"/>
+
+      <p n="Burzoy To Write When Done">
+        فاكتب إليّ في سرٍّ مكتوم وأقم مكانك حتي يأتيك إذًا إن شاء
+        <lb/>
+
+        الله
+      </p>
+
+      <p n="Burzoy Accepts">
+        فقبل برزويه وصيّة كسرى بن قباد وضمن له قضاء
+        <lb/>
+
+        حاجته
+      </p>
+
+      <p n="Burzoys Stipend">
+        فأمره له معونة مائة ألف درهم مع ما أمر له
+        <lb/>
+
+        من سائر أصناف الصرف والهدايا
+      </p>
+
+      <p n="Astrologers Set Date">
+        أيّام تجهّز برزويه
+        <lb/>
+
+        وتخيّر من الأياّم خيرها ومن السلكات أوفقها وأسعدها
+      </p>
+
+      <p n="Burzoy Travels To India">
+        ثمّ ودّعه وخرج نحو بلاد الهند
+      </p>
+
+      <p n="Burzoy Inquires About Court">
+        حتي إذا ورد فناء
+        <lb/>
+
+        باب مَلك الهند تنكّر وتزيّن بزينة طلّاب العلم
+        <lb/>
+
+        والخير ممّا في أيدي الناس والملوك فجعل برزويه
+        <lb/>
+
+        سيصفح وجوه الأشراف والعلماء والوزراء حتّى تعرّف بهم
+        <lb/>
+
+        وقرّب نفسه إليهم بعلمه وأدبه فلم يزل يعمل ويتلطّف
+        <lb/>
+
+        للوزراء
+      </p>
+
+      <p n="Burzoy Meets Indian King">
+        حتّى وصل إلى الدخول على ملوك الهند فلمّا دخل
+        <lb/>
+
+        عليه قبّل يده ودعا له بدعاء عجِب منه المَلك فردّ عليه
+        <lb/>
+
+        الملَك تحيّته وقرّبه وسأله عن أمره
+      </p>
+
+      <p n="Burzoy Claim Study Trip">
+        فأخبره أنّه من عُلماء أهل
+        <lb/>
+
+        فارس ومرازبتهم قال فما الذي جاء بك إلى هذه البلاد
+        <lb/>
+
+        قال برزويه قدمت إلى بلادك أيّتها المَلك رجاء أن
+        <lb/>
+
+        أقتبس منها علمًا وأدبًا فإنّه بلغني عن أرضك أنّ
+        <lb/>
+
+        فيها من الحكماء وأهل الأدب ما ليس عندنا بأرض فارس
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T2281</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="66"/>
+
+      <p n="A Merchant Steals from His Partner">
+        والآخر بعيد عنه
+      </p>
+
+      <p n="The Merchant Devises a Plot">
+        فأضمر الذي هو قريب من الحانوت أن يسرق
+        <lb/>
+
+        متاع رفيقه وفكّر في الحيلة فقال إن أنا جئت ليلًا لم آمن
+        <lb/>
+
+        أخذ متاعي فيذهب تعبي باطلًا ولكن أعمل الحيلة أعلّم
+        <lb/>
+
+        علامة
+      </p>
+
+      <p n="The Merchant Executes the Plot">
+        فأخذ رداءه فألقاه على عدل من أعدال رفيقه ثمّ
+        <lb/>
+
+        انصرف إلى منزله وخلّف رفيقه في الحانوت
+      </p>
+
+      <p n="The Partner Finds the Garb">
+        فلمّا أراد الآخر
+        <lb/>
+
+        الانصراف إلى منزله قام ليصلح متاعه فوجد رداء صاحبه
+        <lb/>
+
+        فوق متاعه
+      </p>
+
+      <p n="The Partner Moves the Garb">
+        فقال هذا رداء صاحبي قد نسيه وما الرأي
+        <lb/>
+
+        أن أدعه هنا بل أجعله على عدل من أعداله فإذا سبقني
+        <lb/>
+
+        وجاء وجد رداءه موضوعًا بجنبه وأخذ الرداء وألقاه على عدل
+        <lb/>
+
+        رفيقه وذهب إلى سبيله
+      </p>
+
+      <p n="The Merchant Steals His Own Bale">
+        فلمّا كان الليل جاء قريب
+        <lb/>
+
+        المنزل والتمس الرداء فاحتمله هو والحمّال واقتلعاه من داخل
+        <lb/>
+
+        الحانوت وذهب يريد به منزله فلمّا وصل إلى منزله وألقاه
+        <lb/>
+
+        عن ظهر الحمّال وانحدر به إلى داخل المنزل واستلقى على قفاه
+        <lb/>
+
+        ليسترح لنفسه ممّا ناله من شدّة المعالجة وقوّة الحركة
+        <lb/>
+
+        وثقل الحمل وهو يظنّ أنّه ظافر بما أصاب
+      </p>
+
+      <p n="The Merchant Discovers the Error at Home">
+        فلمّا أصبح نظر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

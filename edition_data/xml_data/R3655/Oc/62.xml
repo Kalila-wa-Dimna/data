@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="62"/>
+
+      <p n="The Crow King Asks the First Crow">
+        من الخمسة ما رأيك في هذا الأمر
+      </p>
+
+      <p n="Escape Should Be the Recourse">
+        قال رأيي ما سبق إليه الأول فإنّهم قالوا ليس
+        <lb/>
+
+        للعدوّ الحَنِق الذي لا يُطاق إلّا الهرب منه
+      </p>
+
+      <p n="The Crow Kings Asks the Second Crow">
+        قال الملك للثاني ما رأيك في هذا
+        <lb/>
+
+        الأمر
+      </p>
+
+      <p n="Escape Is No Recourse">
+        قال أمّا ما أشار به من الهرب
+      </p>
+
+      <p n="The Downsides of Escape Are Explained">
+        فلا أراه لأن لا يطأ عدوّنا وطننا فنذلّ له عند
+        <lb/>
+
+        أوّل نكبة أصابتنا ولا ينبغي لنا ذلك
+      </p>
+
+      <p n="Recourse Should be Made to Planning and Preparing">
+        ولكن نجمع رأينا ونستعدّ لعدوّنا ونذكّي
+        <lb/>
+
+        العيون والطلائع فيما بيننا وبينهم ونحترس من الغرّة فإن أقبل إلينا عدوّنا لقينا مستعدّين
+      </p>
+
+      <p n="The Crows Should Fight Back the Owls">
+        فقاتلناه قتالًا غير مزاحفة
+      </p>
+
+      <p n="Escape Should Not Be the First Choice">
+        وتلقى أطرافنا أطراف لعدوّ ونحترز بحرزنا
+        <lb/>
+
+        <> وندافع الأيام بين عدوّنا
+      </p>
+
+      <p n="Escape Is To Be Sought Only at Defeat">
+        حتّى نصيب فرصتنا وبغيتنا وإلّا هربنا وقد أبلينا
+      </p>
+
+      <p n="Input from the Five Wise Crows is Sought">
+        فيهم خمسة غربان يُعرفون بفضل الرأي وكان الملك يُشاورهم
+      </p>
+
+      <p n="The Crow King Asks the First Crow">
+        فقال الملك للأول
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

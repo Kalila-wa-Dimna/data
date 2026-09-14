@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="245"/>
+
+      <p n="Resolute King Keeps Reflecting">
+        يستعين بهم عليها العدوة التي يعدّ لها
+      </p>
+
+      <p n="Chance Is Lost Without Advice">
+        فمن لم يرَ ذلك مع أصحابه
+        <lb/>
+
+        والوزراء من أهل ثقاته الذين يعرف صدق قولهم لم يلبثْ وإن ساق
+        <lb/>
+
+        إليه القدر حظًّا أن يضيع
+      </p>
+
+      <p n="Chances Favor Intelligent">
+        فإنّ الفضل المقسوم لم يُقسمْ للجهّال ولا
+        <lb/>
+
+        للحسب التامّ ولكنّه وُكلّ بالعاقل المستمع من ذوي العقول
+      </p>
+
+      <p n="Spy Praises King C">
+        وأنت أيّها الملك كذلك
+      </p>
+
+      <p n="Spys Advice Partially Secret">
+        وقد أشرت برأي وأمر أجد أن أجيبك
+        <lb/>
+
+        في بعضه علانية وفي بعضه سرًّا
+      </p>
+
+      <p n="Spys Open Advice">
+        أمّا ما لا أكره إعلانه
+        <lb/>
+
+        من الأمر الذي أريد ذكره فهو أنّي كما لا أرى القتال كذلك
+        <lb/>
+
+        لا أرى الخضوع والرضى بالذلّ
+      </p>
+
+      <p n="Dignity Over Life">
+        فإنّ العاقل الكريم يختار
+        <lb/>
+
+        الموت صابرًا ومحافظًا على الحياة فأرى أن لا يؤخّر النظر
+        <lb/>
+
+        في أمرنا ولا يكن من شأننا التثبّط والتهاون
+      </p>
+
+      <p n="Indecision Is Impotence">
+        فهو رأس العجز
+      </p>
+
+      <p n="Spy Moves To Secret Advice">
+        وأمّا ما أريد إسراره
+      </p>
+
+      <p n="Victory Requires Guarding Secrets">
+        فإنّه قلّ ما يصيب من الملوك الظفر
+        <lb/>
+
+        بالحزم وإحالة الرأي من قبل مشاورتهم
+      </p>
+
+      <p n="Kind Needs Confidant">
+        ولا بدّ من مستشار
+        <lb/>
+
+        مأمون يفضي إليه به ويعاونه فإنّ المستشير وإن كان
+        <lb/>
+
+        أفضل من المستشار
+      </p>
+
+      <p n="Advice To King Like Fuel To Fire">
+        فإنّه يزداد برأيه رأيًا كما تزداد النار
+        <lb/>
+
+        بالودك ضوءًا
+      </p>
+
+      <p n="How To Give Advice">
+        وعلى المستشار موافقة المستشير على
+        <lb/>
+
+        صواب ما يرى والرفق به في تقصيره عن بلوغ الرأي لهما
+        <lb/>
+
+        في العقل
+      </p>
+
+      <p n="Secritive Wise King Prospers">
+        وإذا كان الملك محصّنًا للأسرار متخيّرًا للوزراء مهيبًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

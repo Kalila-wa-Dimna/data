@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="87"/>
+
+      <p n="Duty of Courtiers to Share Their Knowledge">
+        وحقّ على من حضر السلطان أن يطلعه على ما عنده من المنفعة
+        <lb/>
+
+        والرأي والأدب
+      </p>
+
+      <p n="Leaders Must Place Things Properly">
+        فإنّه يُقال شيئان ليس لأحد وإن كان ملكًا أن يضع
+        <lb/>
+
+        شيئًا منها في غير موضعه ولا أن يزيله عن موضعه ومنزلته أحدهما
+        <lb/>
+
+        حلية الرأس والآخر حلية الرِجْل
+      </p>
+
+      <p n="Analogy of Misplaced Ornaments">
+        فإنّه يُعدّ جاهلًا من عقد على رأسه
+        <lb/>
+
+        حلية الرجلين وعلى رجليه حلية الرأس
+      </p>
+
+      <p n="Analogy of Comparing Precious Stones to Lead">
+        ومن يقيس الياقوت واللؤلؤ
+        <lb/>
+
+        بالرصاص فليس ذلك تصغيرًا باللؤلؤ والجوهر ولكنّه جهل من فعل
+        <lb/>
+
+        ذلك به
+      </p>
+
+      <p n="Advice against Associating with the Ignorant">
+        ولذلك يُقال لا يصحبنّ امرء صاحبًا لا يعرف ليمينه فضلًا
+        <lb/>
+
+        على شماله
+      </p>
+
+      <p n="Importance of Associating with the Wise">
+        وإنّما يستخرج ما عند الرجال ولاتهم وما عند الجند قوّادهم
+        <lb/>
+
+        وما عند أهل الدين علماؤهم
+      </p>
+
+      <p n="Value of Quality over Quantity in Allies">
+        وإنّ كثرة الأعوان إذا لم يكونوا ذوي بصيرة
+        <lb/>
+
+        بالعمل فإنّ العمل ليس رجاؤه بكثرة الأعوان لكن بصالح الأعوان
+      </p>
+
+      <p n="Importance of Appropriate Tools for Tasks">
+        والعمل الذي يُحتاج فيه إلى الجذوع لا يجزيه القصب وإن كثر
+      </p>
+
+      <p n="Ruler's Duty to Recognize Merit Regardless of Status">
+        فأنت
+        <lb/>
+
+        حقيق ألّا تحقّر مروءة تجدها عند رجل صغير المنزلة فإنّ
+        <lb/>
+
+        الصغير ربّما عظم فعظم
+      </p>
+
+      <p n="Analogy of Repurposing Animal Sinew for Royal Use">
+        كالعصب يُؤخذ من الميتة فإذا عُمل به
+        <lb/>
+
+        القوس أُكرم فقبض عليه الملوك فاحتاجوا إليه في بأسهم ولهوهم
+      </p>
+
+      <p n="Dimna's Desire for Recognition Based on Merit">
+        وأحبّ دمنة أن يناله من كرامة الملك ما يناله والقوم يعلمون
+        <lb/>
+
+        أنّ ذلك ليس لمعرفة أبيه فقط ولكن لرأي دمنة ومروءته
+      </p>
+
+      <p n="Ruler's Criteria for Appointing Officials">
+        فقال
+        <lb/>
+
+        إنّ الملوك لا يقرّبون الرجال لقرب آبائهم ولا يباعدوهم لبعدهم
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

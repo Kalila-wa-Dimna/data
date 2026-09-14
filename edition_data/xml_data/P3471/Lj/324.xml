@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="324"/>
+
+      <p n="The Faithless Should Be Given Up">
+        فمن لا ينبغي أن يواصله على حال فإنّه الكفور للحسنى الجريء على
+        <lb/>
+
+        ارتكاب الإثم الزاهد في الخير المنزوع منه الرحمة ومن مواصلته
+        <lb/>
+
+        ضرّ بلاء وفتنة ومن لا يرجو العمل ثوابًا ولا يتخوّف من عمل شيء
+        <lb/>
+
+        عقابًا ولا يؤمن ببعث ولا بحساب ولا بجزاء ولا بنشور
+      </p>
+
+      <p n="The Irascible Should Be Given Up">
+        ومنهم
+        <lb/>
+
+        السريع الغضب الشره النفس القصير القامة الأجرود الأزرق
+        <lb/>
+
+        العينين المفرط الشهوة الشديد الحرص التابع لهواه وشهوته
+      </p>
+
+      <p n="The Irreconcilable Should Be Given Up">
+        ومن إذا سخط لم يقدر له أحد علي رضاه والمتتابع في غيّه
+        <lb/>
+
+        ومكره والمعروف بالخيانة والخديعة والخلابة والمفرط في كلّ
+        <lb/>
+
+        شيء والجائز فوق حدّه
+      </p>
+
+      <p n="The Hedonistic Should Be Given Up">
+        ومنهم صاحب لذّات ولهو وشرب
+        <lb/>
+
+        ولعب قد قُذف عنه الحياء فاستحسن ما ارتكب فاجتناب
+        <lb/>
+
+        أولئك والمباعدة عنهم غنيمة ليس فوقها وهي أفضل ما في العاجل
+        <lb/>
+
+        والآجل
+      </p>
+
+      <p n="Cutting off Some People Is Gain">
+        ومنهم من إذا ظُفر بقطيعته كان الرأي أن يُغتنم
+        <lb/>
+
+        ذلك ويُمتنع من معاودته
+      </p>
+
+      <p n="The Vile To Be Cut Off">
+        فمن عُرف بالشرارة ولزم العهد
+        <lb/>
+
+        وقلّة الوفاء والشكر والبعد من الورع والرحمة والجحود
+        <lb/>
+
+        لثواب الآخرة وعقابها وإفراط الشره والحرص والسرعة
+        <lb/>
+
+        إلى سوء الظنّ والقطيعة والإبطاء عن المعاودة والمراجعة
+        <lb/>
+
+        فقطيعته أجزم الرأي
+      </p>
+
+      <p n="Whom to Reinstate">
+        وقد ينبغي أن يواصل من يُعرف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

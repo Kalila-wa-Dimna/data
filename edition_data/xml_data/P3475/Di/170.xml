@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="170"/>
+
+      <p n="The Mother Declares Dimna Responsible">
+        قتل شتربة
+      </p>
+
+      <p n="Good People Suffer Misfortune Fastest">
+        قال دمنة اسمع الذي كان يقال حقًّا الذي
+        <lb/>
+
+        يجهد نفسه في طلب الرزق والخير والعمل به الشرُّ والبلاء
+        <lb/>
+
+        إليه أسرع
+      </p>
+
+      <p n="Ascetics Shun People's Company">
+        ولذلك توجد عامّة النسّاك يدَعون مخالطة
+        <lb/>
+
+        الناس ومحادثتهم
+      </p>
+
+      <p n="Dimna Claims He Only Warned Lion of Ox's Treason">
+        فإنّه حملني النصح للملك والثقة عليه
+        <lb/>
+
+        على أن أطلعه على من أراد الغدر به والوثوب عليه وأعلمته
+        <lb/>
+
+        الذي ارتبت به منه وتبيّن لي
+      </p>
+
+      <p n="Dimna Says the King Saw the Same Signs">
+        فاستبان له منه الذي حدّثته
+        <lb/>
+
+        ولم يركبْ ما ركب إلّا على بصيرة وإن هو أيضًا تحرّى الأمر
+        <lb/>
+
+        اليوم وسأل عنه ونظر عرف مصداق ما كنت قلت له
+      </p>
+
+      <p n="Hidden Fire Is Extracted Only with List/Labor">
+        فإنّ النار قد يكون في الحجر والعود فتُستخرج النار منهما
+        <lb/>
+
+        بالحيل وليس يخفى مثل هذا
+      </p>
+
+      <p n="Hidden Crimes Are Exposed by Investigation">
+        فإنّ جرم المجرم إذا فحص عنه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

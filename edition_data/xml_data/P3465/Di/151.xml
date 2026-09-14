@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="151"/>
+
+      <p n="First Speaker Leaves Dejected/Is Silenced">
+        مستحيًا منكسرًا
+      </p>
+
+      <p n="The Mother Is Amazed by Dimna's Verbosity">
+        فقالت أمّ الأسد لدمنة لقد عجبت منك
+        <lb/>
+
+        أيّها المحتال لقلّة حيلتك وكثرة قِحتك وسرعة
+        <lb/>
+
+        جوابك لمن كلّمك
+      </p>
+
+      <p n="Dimna Calls the Mother Biased">
+        قال دمنة لأنّك تنظرين إلىّ
+        <lb/>
+
+        بعين واحدة وتسمعين منّي بأذن واحدةً مع إنّ شقاوة جدّي قد زوت
+        <lb/>
+
+        عنّي كلّ شئ حتّى لقد سعوا إلى الملك بالنميمة عليّ
+      </p>
+
+      <p n="Dimna Criticizes Courtiers for Speaking Indiscriminately">
+        وقد صار من بباب الملك
+        <lb/>
+
+        لاستخفافهم به وطول كرامته إيّاهم وما هم فيه من العيش والنعمة لا يدرون
+        <lb/>
+
+        في أيّ وقت ينبغي لهم الكلام ولا متى يجب عليهم السكوت
+      </p>
+
+      <p n="The Mother Chastises Dimna's Duplicity">
+        قالت
+        <lb/>
+
+        ألا تنظروا إلى هذا مع عظم ذنبه كيف يجعل نفسه بريئًا كمن لا ذنب له
+      </p>
+
+      <p n="Dimna Enumerates 5 Duplicitous Types">
+        قال
+        <lb/>
+
+        دمنة إنّ الذين يعملون غير أعمالمهم كالذي يضع الرماد موضعًا ينبغي أن يضع فيه الرمل
+        <lb/>
+
+        ويستعمل فيه ؟الشرحين والرجل الذي يلبس لباس المرأة والمرأة
+        <lb/>
+
+        التي تلبس لباس الرجل والضيف الذي يقول أنا ربّ البيت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

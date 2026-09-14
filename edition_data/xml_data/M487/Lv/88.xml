@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M487</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="88"/>
+
+      <p n="Burzoy Had Prepared Argument">
+        وطرقًا
+      </p>
+
+      <p n="Friend Is Quick Minded">
+        فلمّا انتهيت إلى ما بدأتني به من اطّلاعك على أمري الذي قدمت له
+        <lb/>
+
+        وألقيت عليّ ما هو في ذات نفسي ورغبتك فيما ألقيت من القول اكتفيت باليسير
+        <lb/>
+
+        من الخطاب معك وعرفت بالصغير الكبير واستغنيت عن طول الكلام وسررت
+        <lb/>
+
+        بما قسم الله لك من العقل والأدب
+      </p>
+
+      <p n="Friend Spares Burzoy Argument">
+        الذي كفيتني به مؤنة الكلام واقتصرت به
+        <lb/>
+
+        معك على الإيجاز في الجواب ورأيت من إسعافك إيّاي لحاجتي ما دلّني على كرمك
+        <lb/>
+
+        وحسن رأيك
+      </p>
+
+      <p n="Secrets Safe With Scholars">
+        فإنّ الكلام إذا أُلقي إلى الفيلسوف والسرّ إذا أُودع إلى اللبيب
+        <lb/>
+
+        الفطن فقد حصّنه وبلغ به غاية أمل
+      </p>
+
+      <p n="Friend Responds">
+        صاحبه قال
+      </p>
+
+      <p n="Friends Share Everything">
+        الهنديّ لا شيء أفضل
+        <lb/>
+
+        من المودّة ومن خلصت مودّته كان أهلًا أن يخلصه الرجل لنفسه ولا يدّخر عنه
+        <lb/>
+
+        شيئًا ولا يكتمه سرًّا
+      </p>
+
+      <p n="Discretion Is Vital For The Educated">
+        فإنّ رأس الأدب حفظ السرّ
+      </p>
+
+      <p n="Secret Better Remain Untold">
+        فإن كان السرّ مودعًا عند الإنسان
+        <lb/>
+
+        وهو أمين عليه فقد أحرزه من التضييع مع أنّه خليق أن يتكلّم سرًّا ولا يتمّ أمرًا
+        <lb/>
+
+        بين اثنين قد يعلمان به ويتعاوصاه
+      </p>
+
+      <p n="Shared Secret Spreads">
+        فإذا تكلّم بالسرّ اثنين فلا بدّ من الثالث
+        <lb/>
+
+        من جهة أحد الاثنين فإذا صار إلى ثلاثة فقد شاع وذاع حتّى لا يستطيع
+        <lb/>
+
+        صاحبه أن يجحده ويكابر عنه
+      </p>
+
+      <p n="Spread Secrets Like Clouds">
+        كالغيم إذا كان متقطّعًا في السماء فقال قائل أرى
+        <lb/>
+
+        غيم متقطّع فلم يقدر أحد على تكذيبه
+      </p>
+
+      <p n="Friend Is Delighted With Knowing Burzoy">
+        وأمّا أنا فقد داخلني من موّدتك وإخائك
+        <lb/>
+
+        سرورًا لا يبدّله عنّي شيئًا
+      </p>
+
+      <p n="Friend Fears Secret Spreads">
+        وهذا الأمر الذي تطلبه منّي أنا أعلم أنّه من الأسرار
+        <lb/>
+
+        التي لا تنكتم ولا بدّ أن يفشو ويظهر حتّى يتحدّث به الناس فلا آمن عليّ فقد
+        <lb/>
+
+        سعيت بي في هلاكي هلاكًا لا أقدر على الفداء له بالمال وإن كثر
+      </p>
+
+      <p n="Indian King Is Harsh">
+        فإنّ مَلكنا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

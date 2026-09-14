@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="186"/>
+
+      <p n="Dimna Gives Ruzbeh Half, Asks Him to Put in Good Word with Lion and Mother and Report Their Words to Him">
+        فلمّا وضعه بين يديه أعطاه حصّة كليله منه ثمّ
+        <lb/>
+
+        أوصاه إذا دخل على الأسد أن يتوصّل إلى حقّه بمعروفٍ
+      </p>
+
+      <p n="Ruzbeh Accepts Gift">
+        فأخذ السعهر ذلك فدفنه
+      </p>
+
+      <p n="Leopard &amp; Judge Bring Lion the Court Records Who Has Them Copied">
+        ولمّا كان من الغد استأذنوا
+        <lb/>
+
+        الجماعة للدخول على الأسد فأذن لهم فدخلوا ووضعوا
+        <lb/>
+
+        الكتاب بين يديه
+      </p>
+
+      <p n="Judge Orders Leopard and Judge to Return Dimna Before Court">
+        ودُعي دمنة وخرجوا الجماعة من عند
+        <lb/>
+
+        الأسد
+      </p>
+
+      <p n="Lion Reads Court Records to Mother">
+        فلمّا خرجوا دعى الأسد أمّه وقرأ عليها الكتاب
+      </p>
+
+      <p n="Mother Alerts Lion of His Own Benefit and Motivates Her Harsh Words">
+        فقالت إذا غلظت في القول فلا تلومني فإنّك لا تعلم
+        <lb/>
+
+        ضررك من نفعك أما قلت لك لا تسمع قول هذا
+        <lb/>
+
+        المجرم المأسي إلينا قديمًا
+      </p>
+
+      <p n="Ruzbeh Reports Mother's Words to Dimna">
+        وكان حاضر السعهر يسمع
+        <lb/>
+
+        قول أمّ الأسد فخرج سريعًا وحدّث دمنة الحديث
+        <lb/>
+
+        جميعه
+      </p>
+
+      <p n="Men Take Dimna Before Court">
+        فبينما هما كذلك إذ أتى لدمنة آتٍ استدعاه
+        <lb/>
+
+        إلى القاضي
+      </p>
+
+      <p n="Head of Court Deems Extant Facts Sufficient">
+        فلمّا حضر بين يديه افتتح سيّد المجلس
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

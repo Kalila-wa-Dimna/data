@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="38"/>
+
+      <p n="Secret Keeper Like Immutable Object">
+        الرياح ولا يقدر شيء على إزالته
+      </p>
+
+      <p n="Friend Responds">
+        فقال الهنديّ
+      </p>
+
+      <p n="Friends Share Everything">
+        لا شيء أفضل
+        <lb/>
+
+        من المودّة ومن كانت له مودّة كان أهلًا أن يخلطه الرجل
+        <lb/>
+
+        بنفسه ولا يدّخره شيء عنده
+      </p>
+
+      <p n="Discretion Is Vital For The Educated">
+        ورأس الأدب حفظ السرّ
+      </p>
+
+      <p n="Secret Better Remain Untold">
+        فإذا كان السرّ عند الأمين الحافظ فهو موضعه إنّه خليق
+        <lb/>
+
+        أن لا ينكتم ولا يكون سرّ للسانين تكلّما به
+      </p>
+
+      <p n="Shared Secret Spreads">
+        فإذا تكلّم بسرّ لسانان
+        <lb/>
+
+        فلا بدّ أن يبلغ ثالثًا فإذا تكلّم به ثلاثة شاع حتّى لا يستطيع
+        <lb/>
+
+        صاحبه أن يجحده
+      </p>
+
+      <p n="Spread Secrets Like Clouds">
+        كالغيم إذا كان منقطعًا فقال رجلًا
+        <lb/>
+
+        إنّ هذا الغيم منقطع لم يقدر أحد على تكذيبه بلّ صدّقه الناس
+        <lb/>
+
+        أجمعون وقالوا كما يقول
+      </p>
+
+      <p n="Friend Is Delighted With Knowing Burzoy">
+        وأمّا أنا فقد أصابني من مودّتك
+        <lb/>
+
+        وخلطتك سرور وفرح لا يخلطه شيء
+      </p>
+
+      <p n="Friend Fears Secret Spreads">
+        وهذا الأمر الذي تطلبه
+        <lb/>
+
+        فأنا أعلم أنّه لا ينكتم ولا بدّ أن يفشو حتّى يُتحدّث به في المجالس وإذا
+        <lb/>
+
+        فشا وعلن هلك نفسي به هلاكّا لا أقدر على الفداء منه بالمال
+        <lb/>
+
+        وإن كثر
+      </p>
+
+      <p n="Indian King Is Harsh">
+        فإنّ ملكنا فظّ غليظ يُعاقب على الذنب الصغير أشدّ العقاب
+        <lb/>
+
+        فإذا كان الذنب مثل هذا الذنب العظيم الذي يحملني عليه مودّتك لم يُردّ غضبه
+        <lb/>
+
+        وعقابه عنّي شيئًا
+      </p>
+
+      <p n="Scholars Commend Discrete Friend">
+        قال برزويه إنّ العلماء قد مدحوا الصديق إذا
+        <lb/>
+
+        كتم سرّ صديقه
+      </p>
+
+      <p n="Burzoy Entrusts Secret To Friend">
+        وهذا الأمر الذي له قدمت إيّاك تعمدّت به
+        <lb/>
+
+        وإليك أفشيته ومنك أرجو نجاحه وهو جسيم وخطر عظيم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

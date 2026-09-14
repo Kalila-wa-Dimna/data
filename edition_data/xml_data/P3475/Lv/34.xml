@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="34"/>
+
+      <p n="Kisra Recounts Burzoys Merits">
+        لنا وما كان من اجتهاده فيما ورد به عليكم من بلاد الهند
+        <lb/>
+
+        وانتساخه هذا الكتاب النفيس والأدب الأنيق مع مخاطرة
+        <lb/>
+
+        بنفسه وماله ودمه
+      </p>
+
+      <p n="Kisra Urges Buzurgmihr To Excel">
+        فأنا أحبّ أن نسعفه بحاجته
+      </p>
+
+      <p n="Chapter To Match Truth">
+        وتضع له في
+        <lb/>
+
+        أوّل هذا الكتاب بابًا باسمه على موافقة الحقّ وأمر واجب
+      </p>
+
+      <p n="Chapter To Support Kings Authority">
+        كي يكون تحريضًا لمن قرأه على طاعة الملوك موافقتهم
+        <lb/>
+
+        إن شاء الله
+      </p>
+
+      <p n="Buzurgmihrs Zeal For Task">
+        فلمّا سمع بزرجمهر وصيّة كسرى
+      </p>
+
+      <p n="Contents Of Bu Chapter">
+        فأطنب في وضع الكتاب
+        <lb/>
+
+        واجتهد في تأليفه
+      </p>
+
+      <p n="Chapter Read Publicly">
+        حتّى إذا فرغ منه استأذن فدخل على
+        <lb/>
+
+        كسرى فقرأه عليه
+      </p>
+
+      <p n="Bu Chapter Well Received">
+        فتعجّب كسرى ومن بحضرته من ذلك
+      </p>
+
+      <p n="Chapter Placed First">
+        ودعا
+        <lb/>
+
+        بكتاب كليلة ودمنة فوضع باب برزويه
+        <lb/>
+
+        في صدر هذا الكتاب حياة منه لبرزويه فيما صنع وتحريضًا
+        <lb/>
+
+        للعامّة والخاصّة في الدخول في طاعة الملوك والنزول
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

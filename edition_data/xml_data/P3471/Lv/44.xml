@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="44"/>
+
+      <p n="Invocation For Kisras Elevation">
+        وقرّت العين ورزقك في الدنيا الشرف الذي تفوق به جميع
+        <lb/>
+
+        المخلوقين وفي الآخرة أفضل المنازل مع الصالحين المستوجبين
+        <lb/>
+
+        جنّات النعيم
+      </p>
+
+      <p n="Burzoy Buzurgmihr Exit">
+        ثمّ ودّع الملك وخرج ومضى بزرجمهر ابن البختكان
+      </p>
+
+      <p n="Buzurgmihr Begins Composition">
+        وأخذ في ضعة الباب
+      </p>
+
+      <p n="Contents Of Bu Chapter">
+        ووصف أمر برزويه من أوّل ما دفعه أبوه
+        <lb/>
+
+        في تعليم الطبّ إلى أن بعثه الملك إلى الهند بأحسن ما يعذر عليه
+        <lb/>
+
+        من الوصف وذكر سيرته وزهده في الدنيا وتنقّله من حال إلى حال
+        <lb/>
+
+        واستخفافه بالدنيا ورغبته في الآخرة
+      </p>
+
+      <p n="Chapter Read Publicly">
+        فلمّا فرغ أعلم أنوشروان
+        <lb/>
+
+        فجمع له العلماء والأشراف والسوقة وحضر برزويه وبزرجمهر
+        <lb/>
+
+        جميعًا فأمر أنوشروان أن يقوم قائمًا فيقرأ ما صنع وألّف
+        <lb/>
+
+        على كافّة من حضر فقال برزجمهر وقام على منبر عال على الناس وقرأ
+        <lb/>
+
+        عليهم باب برزويه
+      </p>
+
+      <p n="Bu Chapter Well Received">
+        فلمّا فرغ منه عجب الملك ومن حضر ممّا أوتي بزرجمهر
+        <lb/>
+
+        من فضل وعقل وأدب وعلم وكمال وممّا اجتهد فيه في فضل
+        <lb/>
+
+        برزويه من غير كذب منه ولا ادّعى باطل
+      </p>
+
+      <p n="Kisra Rewards Buzrgmihr">
+        وأمر له بجائزة عظيمة
+        <lb/>
+
+        من المال والحلل
+      </p>
+
+      <p n="Burzoy Thanks Kisra For Chapter">
+        وقام إليه برزويه على الملك فقال أدام الله لك
+        <lb/>
+
+        الكرامة فقد بالغت في إكرامي بما صنعت ومننّت وشرّفتني
+        <lb/>
+
+        وتوهّمت باسمي وذكرى ما دام هذا الكتاب في الدنيا
+      </p>
+
+      <p n="Burzoy Invokes Longevity For Kisra">
+        فأحسن الله
+        <lb/>
+
+        عنّي جزائك في الدنيا والآخرة بأحسن وأفضل ما جزى به أحدًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

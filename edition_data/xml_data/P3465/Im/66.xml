@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="66"/>
+
+      <p n="The Youngest Brother Decides To Help">
+        أمسك هذا المال فإنّي أرجو أن ينفعني اللّه به ويغني أخوتي على يديّ فإنّما
+        <lb/>
+
+        هو مالي ومال أبيهما وإنّ أولى الإنفاق على صلة الرحم وإن بعد فكيف بإخوتي
+      </p>
+
+      <p n="The Youngest Brother Shares His Wealth">
+        فأنفذ فأحضرهما وشاطرهما بماله
+      </p>
+
+      <p n="The Reader Must Always Come Back to the Book">
+        وكذلك يجب على قارئ هذا
+        <lb/>
+
+        الكتاب أن يديم النظر فيه
+      </p>
+
+      <p n="A Fisher Finds an Empty Shell">
+        وإلاّ فيكون مثله مثل الصيّاد الذي كان في بعض
+        <lb/>
+
+        الخلجان كان ذات يوم في الماء صائدًا إذ بصر في الماء صدفة فتوهّمها شيئًا
+      </p>
+
+      <p n="The Fisher Abandons His Catch for the Shell">
+        فألقى الشبكة في البحر فشملت على سمكة كانت قوت يومه فخلّاها وقذف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

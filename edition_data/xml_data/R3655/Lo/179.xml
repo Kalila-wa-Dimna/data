@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="179"/>
+
+      <p n="Lion's Increasing Favor Towards Ox">
+        وائتمنه على أسراره وشاوره في أموره لا يزيده الأيّام به إلّا إعجابًا ورغبة فيه وتقريبًا
+        <lb/>
+
+        له حتّى صار أخصّ أصحابه به
+      </p>
+
+      <p n="Dimna's Jealousy of Ox's Favor">
+        فلمّا رأى دمنة أنّ الأسد قد خلا بشتربة دون أصحابه
+        <lb/>
+
+        وأنّه صاحب رأيه وخلوته ولهوه ومؤاكلته حسد شتربة حسدًا بلغ منه كلّ غيظ
+      </p>
+
+      <p n="Dimna Complains to Kalila">
+        فشكا ذلك إلى كليلة
+      </p>
+
+      <p n="Dimna's Lament">
+        وقال له ألا تعجب من صنيعي وعجز رأيي ونظري فيما ينفع
+      </p>
+
+      <p n="The Thief Steals the Garment">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+      <p n="Dimna's Lament">
+        الأسد وإغفالي نفع نفسي وضرّها حيث جلبت ثورًا غلبني على منزلتي
+      </p>
+
+      <p n="Kalila Introduces the Ascetic's Parable">
+        قال
+        <lb/>
+
+        كليلة أصابك ما أصاب الناسك
+      </p>
+
+      <p n="Dimna Asks About the Ascetic">
+        قال وكيف كان ذلك
+      </p>
+
+      <p n="Fourth Subtale of Ascetic and Thief">
+        قال كليلة زعموا أنّ ناسكًا
+        <lb/>
+
+        أصاب من بعض الملوك كسوة فاخرة فبصر به سارق وهي معه
+      </p>
+
+      <p n="The Thief Deceives the Ascetic">
+        فأقبل إلى الناسك وقال
+        <lb/>
+
+        إنّي أريد أن أصحبك أتعلّم منك
+      </p>
+
+      <p n="The Thief Gains the Ascetic's Trust">
+        فتبعه وصحبه متشبّهًا به رفيقًا له حسن الخدمة حتّى ظفر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

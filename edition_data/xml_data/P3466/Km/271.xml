@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="271"/>
+
+      <p n="The Stag's Owner Cuts the Donkey's Ears">
+        فلمّا رأى كلبه وهيجانه قال إن أنا أخذته لم آمن من بليّة
+        <lb/>
+
+        يفعلها بي ولكن أعلّم فيه علامة حتّى إذا رأيته مع صاحبه
+        <lb/>
+
+        طالبته بثأري فأخرج سكّينًا كانت معه وقطع بها أذني
+        <lb/>
+
+        الحمار
+      </p>
+
+      <p n="The Donkey Is Punished upon Return">
+        وعاد الحمار إلى دار أصحابه وكان الذي نزل به
+        <lb/>
+
+        من صاحبه أشدّ من قطع أذنيه
+      </p>
+
+      <p n="The Donkey Recognizes His Ancestors' Wisdom">
+        فحينئذ فكّر الحمار وقال لقد
+        <lb/>
+
+        كان آبائي أسبق إلى هذا الأمر ولكن خافوا من سوء عاقبته
+        <lb/>
+
+        وامتنعوا
+      </p>
+
+      <p n="King W Insists on a Solution">
+        قال الملك قد سمعت هذا ولكن ما سبيلك
+        <lb/>
+
+        أن تخاف من هذا الأمر فإنّه والعياذ بالله إن لم يتمّ لنا ما
+        <lb/>
+
+        نريده منه فلا بأس عليك فإنّا على كلّ حال قادرون على خلاص
+        <lb/>
+
+        أنفسنا من سوء عاقبته
+      </p>
+
+      <p n="The Vizier Prays for the King">
+        فلمّا رأى الوزير أنّ الوزير الملك مشته لتمام
+        <lb/>
+
+        هذا الأمر لم يماره فيه قال أصلح الباب وغيره
+      </p>
+
+      <p n="King W Orders Wood to Be Brought">
+        ثمّ إنّ
+        <lb/>
+
+        الملك أمر بالمناداة في جميع أعماله ألّا يبقى رجل شابّ إلّا يصير
+        <lb/>
+
+        إلى بابنا في اليوم الفلانيّ من شهر الفلانيّ ومعه حِمْل حطب
+        <lb/>
+
+        من الجبل فعمل الناس على هذا
+      </p>
+
+      <p n="King W Knows When the Winds Subside">
+        وكان الملك قد عرف الوقت
+        <lb/>
+
+        الذي ينقص فيه هبوب الرياح
+      </p>
+
+      <p n="King W Orders the Hole to Be Blocked">
+        فلمّا كان في ذلك اليوم
+        <lb/>
+
+        حضر الناس ومعهم الحطب فأمرهم أن يحشوه في ذلك
+        <lb/>
+
+        الثقب ويسدّوا فم الثقب بالحجارة وأن يبنوا دكّة عظيمة في وجه الثقب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

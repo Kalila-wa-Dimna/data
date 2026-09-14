@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>KWD-Englisch</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="3"/>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        "CHAPTER 2",
+        <lb/>
+
+        "",
+        <lb/>
+
+        "about the case; for I am afraid that I will perhaps regret the",
+        <lb/>
+
+        "killing of Ichnelates in a similar way as I do that of the bull."",
+        <lb/>
+
+        "And his mother said, "I didn't suppose that you, my child,",
+        <lb/>
+
+        "would have doubts about me." And the lion said, "I'm not",
+        <lb/>
+
+        "doubting you, mother, but I want to bring the truth to",
+        <lb/>
+
+        "light." And his mother said, "I'm afraid that if I were to do",
+        <lb/>
+
+        "this, I might appear unscrupulous."",
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        The first investigation of Ichnelates.
+        <lb/>
+
+        "When the lion had heard this from his mother, he sum-",
+        <lb/>
+
+        "moned all his subjects and sent for Ichnelates as well. When",
+        <lb/>
+
+        "Ichnelates saw that the lion was dejected, he said to those",
+        <lb/>
+
+        "nearby, "Why do I see that the lion is so gloomy and so de-",
+        <lb/>
+
+        "jected?" And the lion's mother replied and said, "The only",
+        <lb/>
+
+        "reason he's dejected is for allowing you to continue among",
+        <lb/>
+
+        "the living until now after you persuaded him through trick-",
+        <lb/>
+
+        "ery and cunning to kill the poor bull." Ichnelates said, "I",
+        <lb/>
+
+        "see that anyone who strives for good must be ready to ac-",
+        <lb/>
+
+        "cept misfortune rather than recognition for their good",
+        <lb/>
+
+        "deeds, and I think this is why ascetics have said farewell to",
+        <lb/>
+
+        "human society and have sought the desert. Since I am well-",
+        <lb/>
+
+        "disposed toward the king, I reported to him about the bull",
+        <lb/>
+
+        "and ruined the latter's plot. So, if you investigate carefully",
+        <lb/>
+
+        "what I reported to him, you will find that my report was",
+        <lb/>
+
+        "completely true: for the fire that is present in flint and",
+        <lb/>
+
+        "in wood reveals itself in some way, and when crimes that are",
+        <lb/>
+
+        "",
+        <lb/>
+
+        "175"
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

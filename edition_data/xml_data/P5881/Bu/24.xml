@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="24"/>
+
+      <p n="Burzoy Studies Medicine">
+        من نعمه عليّ وإحسانه إليّ أنّي كنت أكرم ولد أبوي عليهما وأعزّهما عندهما وأنّهما
+        <lb/>
+
+        أسلماني في تعليم الطبّ حين بلغت سبع سنين
+      </p>
+
+      <p n="Burzoy Consults His Soul About Its Ambitions">
+        فلمّا فهمت علم الطبّ وعرفت فضله
+        <lb/>
+
+        وشكرت لأبوي وفضلهما ورأيهما في ذلك ورغبت في علم الطبّ وحرصت عليه حتّى إذا
+        <lb/>
+
+        أحطت به علمًا وأحررته فهمًا وبلغت منه ما تمنّت نفسي أقبلت على مداواة المرضى
+        <lb/>
+
+        وهممت بذلك أمرت نفسي بالأمور التي إيّاها يطلب الناس وإليها يسعون
+      </p>
+
+      <p n="The Four Objects of Human Pursuit">
+        وقلت أيّ
+        <lb/>
+
+        الخلال ينبغي لمثلي في عملي أن يطلب وأيّها أحرى إن هو طلبه أن يكون أصوب المال أم
+        <lb/>
+
+        اللذّات أم اتّحاد الإخوان أم أمر الآخرة
+      </p>
+
+      <p n="Seeks the Reward of the Hereafter">
+        فاستدللت على الخيار منها ما وجدته محمودًا
+        <lb/>
+
+        عند العقلاء
+      </p>
+
+      <p n="The Virtue of Practising Medicine">
+        ولم أجده مذمومًا عند أحد من أهل العلم وعند جميع الملل فوجدت في كتب
+        <lb/>
+
+        الطبّ أنّ أفضل الأطبّاء من واظب نفسه على طبّه ولا يطلب بذلك إلّا أجر الآخرة
+        <lb/>
+
+        فعزمت على الطبّ ابتغاء طلب الآخرة لا ابتغي لذلك ثمنًا
+      </p>
+
+      <p n="Selling a Ruby for a Cheap Pearl">
+        كالتاجر الذي باع جوهره وكان مصيبًا من ثمنها غناء الدهر لا يساوي شيئًا
+      </p>
+
+      <p n="The Profession of Medicine Benefits Both in This World and the Hereafter">
+        مع أنّي وجدت
+        <lb/>
+
+        في كتب الطبّ أنّ الطبيب المبتغي بطبّه أجر الآخرة لا ينقصه ذلك من حظّه في الدنيا
+      </p>
+
+      <p n="A Farmer Harvests Weeds Along with the Wheat">
+        وأنّ
+        <lb/>
+
+        مثله في ذلك مثل الزارع إنّما ينثر الأرض ويعمّرها ابتغاء الربح لا ابتغاء العشب ثمّ هي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

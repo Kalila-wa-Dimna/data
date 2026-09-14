@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="76"/>
+
+      <p n="Judge Reiterates the Call for Testimony">
+        منكم بعمله ولا يكتم حقًّا ولا يثبت باطلًا
+      </p>
+
+      <p n="All Attendees are Silent">
+        فلمّا سمع الجند ذلك نظر بعضهم إلى بعضٍ
+        <lb/>
+
+        ثمّ أنصتوا ومسّكوا
+      </p>
+
+      <p n="Dimna Challenges All Only to Say What They Know">
+        فقال دمنة ما لي أراكم سكوتًا لا تنطقون وصموتًا لا تجيبون
+        <lb/>
+
+        ليتكلّم كلّ امرءٍ منكم بعلمه واعلموا أنّ لكلّ قولٍ جوابًا
+      </p>
+
+      <p n="Dimna's Second Subtale of Ignorant Physician">
+        وأنّه من زعم أنّه رآى ما لم ير وعلم
+        <lb/>
+
+        ما لم يعلم خليقٌ أن يصيبه ما أصاب الطبيب
+      </p>
+
+      <p n="Judge Request Tale">
+        فقال القاضي وكيف كان ذلك
+      </p>
+
+      <p n="Famous Physician Dies or Goes Blind">
+        قال
+        <lb/>
+
+        دمنة زعموا أنّه كان في مدينةٍ من مدائن الهند طبيبٌ عالمٌ رفيقٌ فمات فنظروا في
+        <lb/>
+
+        كتبه فكانوا ينتفعون بها ويعملون منها
+      </p>
+
+      <p n="Quack Appears in Town">
+        فأتاهم رجلٌ غريبٌ فزعم أنّه طبيبٌ وأنّ له رفقًا
+        <lb/>
+
+        ونظرًا ولم يكن كذلك
+      </p>
+
+      <p n="Pregnant Princess Falls Sick">
+        وكانت لملكهم ابنةٌ كريمةٌ عليه حبيبةً إليه وكانت حاملًا فأصابها
+        <lb/>
+
+        بطنٌ فجعلت
+      </p>
+
+      <p n="King Sends in Search of Physician">
+        فبعث في طلب الأطبّاء
+      </p>
+
+      <p n="Blind Physician Prescribes Drug">
+        فأتت رسله رجلًا منهم كان له علمٌ على
+        <lb/>
+
+        رأس فرسخٍ فوجدوه قد عمي فوصفوا له وجع ابنه الملك فأمرهم أن يسقوها دواءً يقال له
+        <lb/>
+
+        زامهران فرجعوا إلى الملك فأخبروه بذلك
+      </p>
+
+      <p n="Quack Ordered to Mix Drug">
+        فطلب طبيبًا يصلح لهم ذلك الدواء فأتاهم ذلك
+        <lb/>
+
+        المتطبّب الغريب فأخبره أنّه عارفٌ بالأدوية وأخلاطها فأمر الملك بالأسفاط التي
+        <lb/>
+
+        كانت فيها أدوية المتطبّب المتوفّي
+      </p>
+
+      <p n="Quack Confuses Drug with Poison">
+        فجيء بها فوضعت بين يديه فأخذ من إحداها صرّةً كان فيها سمّ
+        <lb/>
+
+        قاضٍ فجعل منه ومن غيره دواءً
+      </p>
+
+      <p n="Quack Identifies Drug to King">
+        وقال هذا زامهران
+      </p>
+
+      <p n="King Rewards Quack">
+        فلمّا رأى سرعة فراغه من ذلك
+        <lb/>
+
+        ظنّ أنّه عالمًا فأمر له بحليةٍ وكسوةٍ
+      </p>
+
+      <p n="Quack Poisons Princess">
+        ثمّ سُقيت الجارية فلم تلبثْ أن تقطع أمعاءها فماتت
+      </p>
+
+      <p n="King Has Quack Drink the Poison Too">
+        فأمر
+        <lb/>
+
+        الملك فسُقى المتطبّب من ذلك الدواء الذي صنع لابنة الملك فهلك
+      </p>
+
+      <p n="Speaking Ignorantly to Please Others Is Wrong">
+        ثمّ قال دمنة وإنّما ضربت
+        <lb/>
+
+        لكم هذا المثل لكيلا تتكلّموا بغير علمٍ تلتمسون به رضاء غيركم
+      </p>
+
+      <p n="Dimna Interprets the Tale">
+        فإنّما يجزى كلّ امرئٍ بما عمل
+        <lb/>
+
+        وأنا بريءٌ ممّا لطّخت به فاتّقوا الله ما استطعتم
+      </p>
+
+      <p n="Prominent Courtier/Head of Court Suggests Physiognomy">
+        فقال رأس الخبّازين لثقته بمنزلته من
+        <lb/>
+
+        الملك اسمعوا أيّها الجند وفكّروا فيما أقول لكم
+      </p>
+
+      <p n="Bodily Marks Are Proof of Character">
+        فإنّ العلماء لم يدعوا شيئًا من آيات الأخبار والأسرار
+        <lb/>
+
+        إلّا بيّنوه
+      </p>
+
+      <p n="Dimna’s Character is Visible in His Body">
+        وإنّ علامات الفجور في هذا الشقيّ ظاهرةٌ باديةٌ ودلائلها فيه غير خافية وقد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="54"/>
+
+      <p n="Bequeathed Treasure Suffices">
+        فيما يعمله من أمر معيشته فأغناه ما أشرف عليه من الحكمة عن
+        <lb/>
+
+        الحاجة إلى غيرها من وجوه الأدب
+      </p>
+
+      <p n="Reader Must Decode Parables">
+        لمن قرأ هذا الكتاب أن يعرف الوجوه
+        <lb/>
+
+        التي وُضعت له وإلى أيّ غاية جرى مؤلّفه فيه عندما نسبه إلى البهائم
+        <lb/>
+
+        وأضافه إلي غير مفصح وغير ذلك من الأجعال التي جعلها مثالًا وأمثلًا
+        <lb/>
+
+        فإنّ قارئه متى لم يفعل ذلك لم يدري ما أريد بتلك المعاني ولا أيّ ثمرة
+        <lb/>
+
+        يجتني منها ولا أيّ نتيجة تحصل له من مقدّمات ما تضمّنه هذا الكتاب
+      </p>
+
+      <p n="Hasty Reader Benefits Nothing">
+        وأنّه
+        <lb/>
+
+        من <> استتمام قراءته إلى آخره دون معرفة ما يقرأ منه لم يعد عليه
+        <lb/>
+
+        شيء يرجع عليه نفعه
+      </p>
+
+      <p n="Indiscriminate Reader Benefits Nothing">
+        ومن استكثر من جمع العلوم وقراءة الكتب
+        <lb/>
+
+        من غير إعمال الرويّة فيما يقرؤه
+      </p>
+
+      <p n="Treasure Discovered">
+        كان خليقًا أن يصيبه إلاّ أصاب الرجل
+        <lb/>
+
+        الذي زعمت العلماء أنّه اجتاز ببعض المفاوز فظهر له موضع آثار الكنوز
+        <lb/>
+
+        فجعل يحفر ويطلب فوقع على شيء من عين وورق
+      </p>
+
+      <p n="Discoverer Hires Help">
+        فقال في نفسه إن أنا أخذت
+        <lb/>
+
+        في نقل هذا المال قليلا قليلا طال عليّ وقطعني اللاشتغال بنقله وإحراره
+        <lb/>
+
+        عن اللذّة بما أصيب منه ولكن سأستأجر أقوامًا يحملونه إلي منزلي وأكون
+        <lb/>
+
+        أنا آخرهم ولا يكون بقي ورائي شيء يشغل فكري بفعله ونقله
+      </p>
+
+      <p n="Discoverer Expects Success">
+        وأكون
+        <lb/>
+
+        قد استظهرت لنفسي في إراحة بدني عن الكدّ بيسير أجرة أعطيها لهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

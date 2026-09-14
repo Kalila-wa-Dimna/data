@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="96"/>
+
+      <p n="A Liar Suffers Punishment in Here and Hereafter">
+        وإنّما ضربت لك هذا المثل لتعلم أنّه من عمل بمثل ما عمل به البازدار
+        <lb/>
+
+        من البهتان كان جزاؤه العقوبة في العاجل والآجل
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded and Court's Members Leave for the Day">
+        ثمّ إنّ القاضي كتب
+        <lb/>
+
+        ما قال دمنة وأرسل به إلى السجن وانطلق عظيم الجند إلى الملك وتعرّف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

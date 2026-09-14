@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="108"/>
+
+      <p n="Lover Spends The Night">
+        السرير فلبثا في شأنهما ليلًا طويلًا يتحدّثان
+      </p>
+
+      <p n="Carpenter Falls Asleep">
+        حتّى غلب التاجر النعاس فنام فخرجت رجلاه
+        <lb/>
+
+        من تحت السرير
+      </p>
+
+      <p n="Wife Prompts Question From Lover">
+        فرأتهما امرأته فأيقنت بالسوء فسارّت عشيقها أن ارفعْ صوتك
+        <lb/>
+
+        فاسألْني أنا أحبّ إليكي أم زوجك فسألها الرجل عن ذلك
+      </p>
+
+      <p n="Wife Feigns Surprise">
+        فقالت يا خليلي ما يضطرّك
+        <lb/>
+
+        إلى هذه المسألة
+      </p>
+
+      <p n="Wife Says Lovers Serve Only Pleasure">
+        ألست تعلم أنّا معاشر النساء إنّما نريد الرجل لقضاء الشهوة ولا نلتفت
+        <lb/>
+
+        إلى حسانهم ولا أخلاقهم ولا إلى شيء من أمورهم فإذا قضينا من أحدهم حاجتنا كان
+        <lb/>
+
+        كغيره من الأباعد
+      </p>
+
+      <p n="Wife Says Husband Is All To Her">
+        وإنّما الزوج معادل الأخ والولد
+      </p>
+
+      <p n="Wife Curses Fathless Women">
+        فلحا الله إمرأة لا يكون عندها
+        <lb/>
+
+        زوجها كعديل نفسها فلا أسمعك تذكره مرّة أخرى
+      </p>
+
+      <p n="Wifes Speech Charms Carpenter">
+        فلمّا سمع التاجر هذه المقالة
+        <lb/>
+
+        من امرأته رقّ لها وأخذته العبرة والرحمة ووثق منها بالمودّة
+      </p>
+
+      <p n="Carpenter Waits Till Wife Awakens">
+        فلم يبرحْ كراهة
+        <lb/>
+
+        أن يؤذيهما ولم يزلْ مكانه حتّى أصبح وعلم أن الخليل قد خرج وخرج من تحت السرير
+        <lb/>
+
+        فوجد امرأته نائمة فقعد عند رأسها وجعل يذبّ عنها
+      </p>
+
+      <p n="Carpenter Forgives Wife">
+        حتّى انتبهت قال يا حبيبة نفسي
+        <lb/>
+
+        نامي فقد بتّي ساهرة ولولا كراهة ما ساءك لكان بيني وبين ذلك الوجل أمر شديد
+      </p>
+
+      <p n="Carpenters Story Motivation">
+        وإنّما ضربت لك هذا المثل إرادة أن لا تكون كذلك التاجر المكذّب بصره
+      </p>
+
+      <p n="Suspect A Fawning Foe">
+        وإنّ كثيرًا
+        <lb/>
+
+        من العدوّ ولا يستطيع ضرّ عدوّه بالمباعدة على ذلك حتّى يلتمسه بالمقاربة والمماسّة
+      </p>
+
+      <p n="Objector Became Fearful Of Crows">
+        وإنّي
+        <lb/>
+
+        لم أخفْ الغربان قطّ تخوّفي مذ رأيت هذا الغراب وسمعت مقالتكم فيه
+      </p>
+
+      <p n="King O Ignores Objector">
+        فلم يلتفتْ ملك
+        <lb/>
+
+        البوم إلى كلامه
+      </p>
+
+      <p n="Spy Well Accommodated">
+        وأمر ملك البوم بالغراب أن يحمل إلى مكانهم ووصّى أن يُصنع به خيرًا ويُكرم
+      </p>
+
+      <p n="Advice Mistrust Spy">
+        فقال الوزير الذي كان يشير بقتلته إذا لن يقتل هذا الغراب فليكنْ منزلته على ذلك
+        <lb/>
+
+        منزلة العدوّ المخوف شرّه المحترس منه فإنّ الغراب ذا إرب ومكر ومكائد ولا أراه
+        <lb/>
+
+        ولج إلى هاهنا إلّا لما يصلحه ويفسدنا
+      </p>
+
+      <p n="Everyone Trusts Spy">
+        فلم يرفعْ الملك بقوله رأسًا ولم يمنعْه من الإكرام للغراب
+        <lb/>
+
+        والإحسان إليه
+      </p>
+
+      <p n="Spy Charms By Eloquence">
+        وجعل الغراب يكلّمه إذا دخل عليه بألطف ما يجد وكلّم البوم إذا خلا بهنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

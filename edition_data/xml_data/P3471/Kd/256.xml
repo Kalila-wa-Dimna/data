@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="256"/>
+
+      <p n="Vizier Shows Dress King Notices">
+        إيلاد بالكسوة بمؤخّر عينه فرفع الملك رأسه فرآه فلمّا ظنّت
+        <lb/>
+
+        هليب وهي إبراخت أن الملك قد أبصر غمزها بعينيه
+      </p>
+
+      <p n="Queen Chooses Crown">
+        رفضت الذي أراها
+        <lb/>
+
+        إيلاد وأخذت الاكليل مخافة أن يسيء الظنّ بها
+      </p>
+
+      <p n="Vizier Pretends To Be Cross Eyed">
+        فمكث بعد ذلك إيلاد
+        <lb/>
+
+        أربعين سنة مستحى من الملك لا يدخل عليه إلّا كسر عينه وأوهم
+        <lb/>
+
+        أنّه أحول في ذلك اليوم شفقًا من أن يتّهمه ومعرفة بأنّه لو اطّلع
+        <lb/>
+
+        على أنّ بينهما شيئًا قتلها
+      </p>
+
+      <p n="Intelligence Saves Queen Vizier">
+        ولولا عقل إبراخت ولطافة معرفتها
+        <lb/>
+
+        بأنّها لو اطّلع على أنّ بينهما شيئًا قتلها ولوّلا عقل إبراخت ولطافة
+        <lb/>
+
+        معرفة إيلاد لم ينج أحد منهما من القتل
+      </p>
+
+      <p n="King Alternates Nights With Women">
+        وكان الملك يكون له
+        <lb/>
+
+        ليلة عند إبراخت تتولّى خدمته وليلة عند جوزقناه تتولّى منه
+        <lb/>
+
+        مثل ذلك
+      </p>
+
+      <p n="Queen Serves Rice On Her Night">
+        فلمّا أتى هليب في ليلتها صنعت له أرزًا وكذلك سنّة ملوك
+        <lb/>
+
+        الهند أن يكون أكثر طعامهم الأرز فدخلت على الملك وفي يدها صحفة
+        <lb/>
+
+        من ذهب فيها أرز والإكليل على رأسها فقامت على رأس الملك
+        <lb/>
+
+        بالصحفة وهو يطعم منها
+      </p>
+
+      <p n="Favorite Wears Dress Before King">
+        فلّما علمت جوزقناه أنّ الملك عند
+        <lb/>
+
+        هليب غارت على إبراخت فلبست تلك الكسوة ثمّ دخلت في المقصورة
+        <lb/>
+
+        التي فيها الملك مع إبراخت وكان ضوء تلك الثياب كشعاع الشمس
+        <lb/>
+
+        فأضاءت الدار وما فيها من تلك الثياب وصارت جوزقناه في تلك
+        <lb/>
+
+        الثياب مثل الشمس الطالعة ثمّ قامت بين يدي الملك فلمّا رأى الملك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

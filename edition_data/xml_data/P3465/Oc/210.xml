@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="210"/>
+
+      <p n="Lover Spends The Night">
+        زوجها طول ليله
+      </p>
+
+      <p n="Carpenter Falls Asleep">
+        ثمّ إنّ النجّار غلبه النعاس فنام فمدّ رجله فخرجت من تحت
+        <lb/>
+
+        السرير
+      </p>
+
+      <p n="Wife Prompts Question From Lover">
+        فلمّا رأتها زوجته عرفتها فأيقنت بالشرّ فقالت لخليلها سلْني وارفعْ
+        <lb/>
+
+        صوتك وسلْني أيّما أحبّ إليك زوجك أو أنا فسألها
+      </p>
+
+      <p n="Wife Feigns Surprise">
+        فقالت يا خليلي ما يضطرّك
+        <lb/>
+
+        إلى هذه المسألة
+      </p>
+
+      <p n="Wife Says Lovers Serve Only Pleasure">
+        ألم تعلم أنّا معاشر النساء إنّما نريد الأخلّاء لقضاء الشهوة
+        <lb/>
+
+        فقط ولا نلتفت إلى أحسابهم ولا أنسابهم ولا إلى ما يتغيّر من أمورهم
+      </p>
+
+      <p n="Wife Says Husband Is All To Her">
+        وأمّا الزوج فهو بمنزلة الوالد والأخ
+      </p>
+
+      <p n="Wife Curses Fathless Women">
+        فقبّح الله إمرأة لا يكون زوجها عديل
+        <lb/>
+
+        نفسها ولا متعّتك بعد هذا بلذّة
+      </p>
+
+      <p n="Wifes Speech Charms Carpenter">
+        فلمّا سمع زوجها كلامها رقّ لها وأخذته
+        <lb/>
+
+        الرحمة
+      </p>
+
+      <p n="Carpenter Waits Till Wife Awakens">
+        فلمّا أصبح خرج من تحت السرير فوجد امرأته نائمة فقعد عند رأسها
+        <lb/>
+
+        يروّحها
+      </p>
+
+      <p n="Carpenter Forgives Wife">
+        فلمّا انتبهت قال لها يا حبيبة قلبي نامي فقد بتّ ساهرة ولولا كراهة
+        <lb/>
+
+        ما يسوؤك لكان بيني وبين ذلك الرجل صخب وأمر شديد
+      </p>
+
+      <p n="Carpenters Story Motivation">
+        وإنّما ضربت
+        <lb/>
+
+        لك المثل إرادة ألّا تكون كذلك النجّار الذي كذّب بما رأي وصدّق بما سمع
+      </p>
+
+      <p n="King O Ignores Objector">
+        فلم
+        <lb/>
+
+        يلتفتْ الملك إلى قوله ثمّ
+      </p>
+
+      <p n="unassigned">
+        إنّ الغراب قال للملك يومًا وعنده جماعة من البوم
+        <lb/>
+
+        وفيهنّ الوزير الذي أشار بقتله أيّها الملك قد علمت ما جرى عليّ من الغربان
+        <lb/>
+
+        وأنّه لا يستريح قلبي دون أخذي بثأري منهنّ وإنّي قد نظرت في ذلك فإذا بي
+        <lb/>
+
+        لا أقدر على ما رمت لأنّي غراب وقد رُوي عن العلماء أنّهم قالوا من طابت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

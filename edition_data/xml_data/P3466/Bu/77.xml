@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="77"/>
+
+      <p n="unassigned">
+        نص
+        <lb/>
+
+        نص
+        <lb/>
+
+        نص
+        <lb/>
+
+        نص
+      </p>
+
+      <p n="Chapter Title">
+        باب الأسد والثور
+      </p>
+
+      <p n="Introduction to the Story's Theme">
+        وهو مثل المتحاببين يقطع بينهما الخؤون الكاذب
+      </p>
+
+      <p n="King's Request for a Parable">
+        قال ديشلم الملك لبيدنا الفيلسوف وهو رأس الفلاسفة
+        <lb/>
+
+        اضرب لي مثل الرجلين المتحاببين كيف يقطع بينهما الخؤون الكذّاب
+        <lb/>
+
+        ويحملهما على العداوة والتقاطع والتدابر
+      </p>
+
+      <p n="Philosopher's Response and Story Introduction">
+        قال بيدنا إذا ابتُلي الرجلان
+        <lb/>
+
+        المتحاببان بأن يدخل بينهما الكذوب المحتال لم يلبنا أن يتقاطعا ويتدابرا
+      </p>
+
+      <p n="Setting: Wealthy Merchant and His Sons">
+        ومن أمثال ذلك أنّه كان بأرض دستابد تاجرًا مكثرًا وكان له بنون ثلاثة
+      </p>
+
+      <p n="Sons' Mismanagement of Wealth">
+        فلمّا أدركوا أسرعوا في مال أبيهم ولم يحترفوا يكسبون بها مالًا فلامهم أبوهم
+        <lb/>
+
+        ووعظهم
+      </p>
+
+      <p n="Father's Advice: Three Pursuits and Four Necessities">
+        وكان من قوله لهم أنّه قال يا بنيّ إنّ صاحب الدنيا يطلب
+        <lb/>
+
+        ثلاثة أمور لا يدركها إلّا بأربعة أشياء
+      </p>
+
+      <p n="Three Worldly Pursuits">
+        أمّا الثلاثة التي يطلب فالسعة
+        <lb/>
+
+        في المعيشة والمنزلة في الناس والزاد إلى الآخرة
+      </p>
+
+      <p n="Four Necessities for Achieving Pursuits">
+        وأمّا الأربعة التي
+        <lb/>
+
+        يحتاج إليها في درك هذه الثلاثة فاكتساب المال من أحسن وجه
+        <lb/>
+
+        ثمّ حسن القيام بما اكتسب منه والتميّز له ثمّ إنفاقه فيما يصلح المعيشة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

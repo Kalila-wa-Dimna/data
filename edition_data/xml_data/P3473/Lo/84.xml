@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="84"/>
+
+      <p n="The Heron's Promise">
+        منكنّ سمكتين
+      </p>
+
+      <p n="The Heron's Treachery">
+        ثمّ شرع يحمل منهنّ في كلّ يوم ما استطاع
+        <lb/>
+
+        فينطلق إلى بعض التلال فيأكلهنّ
+      </p>
+
+      <p n="The Crab's Request">
+        حتّى إذا كان في
+        <lb/>
+
+        بعض الأيّام لقاه السرطان وقال له إنّي استوحشت
+        <lb/>
+
+        من هذا المكان وخفت على نفسي من الأقلعة فيه فهل لك
+        <lb/>
+
+        أن تحملني إلى ذلك الغدير أيضًا
+      </p>
+
+      <p n="The Crab Discovers the Truth">
+        فحمله العلجوم وصار به نحو
+        <lb/>
+
+        التلّ فنظر السرطان إلى عظام السمك مجموعة فعلم أنّ
+        <lb/>
+
+        العلجوم صاحبها وأنّه يريد به مثل ذلك
+      </p>
+
+      <p n="The Crab's Resolve">
+        فقال في نفسه
+        <lb/>
+
+        إذا لقي الرجل عدوّه في الموطن الذي يعلم أنّه هالك فيه
+        <lb/>
+
+        إن قاتل أو لم يقاتلْ فهو مقتول فليُقتلْ كريمًا ولا
+        <lb/>
+
+        يُقتلْ ذميمًا
+      </p>
+
+      <p n="The Heron is Killed">
+        ثمّ إنّه أهوى بمقصّه على العلجوم فعصره عصرة
+        <lb/>
+
+        مات فيها وتخلّص السرطان وعاد إلى السمك فأخبرهنّ
+        <lb/>
+
+        الخبر
+      </p>
+
+      <p n="The Moral: A Trickster's Downfall">
+        وإنّي لم أضرب لك هذا المثل إلّا لتعلم أنّ بعض الحيل مهلكة
+        <lb/>
+
+        للمحتال ولكنّي أدلّك على أمر إن أنت قدرت عليه
+        <lb/>
+
+        كان فيه هلاك الأسود وخلاصك بسلامة منه
+      </p>
+
+      <p n="The Crow Asks for the Plan">
+        قال
+        <lb/>
+
+        الغراب وما ذاك
+      </p>
+
+      <p n="The Jackal's Plan">
+        قال ابن آوى تنطلق وتنظر في طيرانك
+        <lb/>
+
+        لعلّك أن تظفر بشيء من الحليّ ولا تزال تطير به
+        <lb/>
+
+        حتّى تبرح طائرًا واقعًا حيث لا يفوتك أعين الناس ولا يزال
+        <lb/>
+
+        يتطلّبك الناس حتّى تأتي إلى جحر الحيّة فترمي به فإذا
+        <lb/>
+
+        انتهى الناس إليه أخذوا الحليّ وقتلوا الأسود وأراحوك
+        <lb/>
+
+        منه
+      </p>
+
+      <p n="The Crow Snatches the Necklace">
+        فانطلق الغراب محلّقًا فرأى امرأة من بنات العظماء
+        <lb/>
+
+        فوق سطح وقد وضعت ثيابها وحليّها لتغتسل فاختطف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

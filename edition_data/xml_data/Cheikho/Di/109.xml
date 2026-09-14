@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="109"/>
+
+      <p n="Stirred Up Mud Stinks">
+        رائحته أو نتنت فاليوم يزيده فوحًا وظهورًا
+      </p>
+
+      <p n="Dimna Cites His Staying as Proof of Innocence">
+        ولو كنت أعرف مع ذلك
+        <lb/>
+
+        لنفسي ذنبًا أو جرمًا لوجدت في الأرض مذهبًا ولما لزمت باب الملك انتظر
+        <lb/>
+
+        ثواب عملي
+      </p>
+
+      <p n="Dimna Asks for Unimpeachable Investigator">
+        ولكنّي أحبّ أن يأمر الملك من يلي الفحص عن أمري
+        <lb/>
+
+        أن يرفع إليه في كلّ يومٍ ما يكشف من عذري وبراءتي ليرى فيّ رأيه
+        <lb/>
+
+        ويفتّش بعض أمري ببعضٍ ولا يعمل في أمري بشبهات أهل البغي والعداوة
+      </p>
+
+      <p n="Dimna Cites Ox's Treason as Proof for Being Falsely Suspected">
+        فإنّ الذي رأى الملك من تشبيههم عليه ما قد استبان من عداوة الثور
+        <lb/>
+
+        جديرٌ أن يمنعه من الإقدام على قتلي بعد الذي علم من نصيحتي وحوطتي
+        <lb/>
+
+        عليه
+      </p>
+
+      <p n="Dimna's Station Exposes Him to Jealousy">
+        ومن رأيه الذي قد علم الملك من منزلتي في نفسي من خساسة الحال
+        <lb/>
+
+        وصغر الخطر وإنّي لست أستطيع أن أدفع نفسي عن نسبة العبودية ولا
+        <lb/>
+
+        أطمع فيما يطمع فيه من فوقي
+      </p>
+
+      <p n="Dimna Appeals to Lion for Justice">
+        فإنّي وإن كنت عبد الملك فإنّ لي من عدله
+        <lb/>
+
+        نصيبًا أعرف أنّ الملك معطينيه من نفسي في حياتي وبعد موتي فإن كان
+        <lb/>
+
+        الملك أجمع على دفعي إلى من يبحث عن أمري وينظر في براءتي فإنّي أرغب
+        <lb/>
+
+        إلى الملك أن لا يغفل أمري وأن يأمر برفع معاذيري إليه يومًا بيوم
+      </p>
+
+      <p n="Dimna Claims only Investigation Can Save Him">
+        فإن كان
+        <lb/>
+
+        الملك للبلاء المقدور عليّ وقلّة استطاعتي لامتناع من القدر غير متروٍّ في أمري
+        <lb/>
+
+        ولا متبحّثٍ عن شأني ولا صارف العقوبة عنّي لقول أهل الشرارة
+        <lb/>
+
+        والمحال على غير ذنبٍ سلف منّي فليس لي ناصر ألجأ إليه إلّا الله فإنّه
+        <lb/>
+
+        كاشف الكرب
+      </p>
+
+      <p n="Doubt and Certainty Must Not Be Confused">
+        وقد قالت العلماء إنّه من صدّق فيما يشبّه عليه بما ينبغي
+        <lb/>
+
+        الشكّ فيه وكذّب بما ينبغي أن يصدّق فيه
+      </p>
+
+      <p n="Dimna's First Subtale of the Woman Who Mistook Her Servant for Her Lover">
+        أصابه ما أصاب المرأة التي
+        <lb/>
+
+        بذلت بنفسها لعبدها حتّى فضحها بتشبيه عليها
+      </p>
+
+      <p n="Lion's Question for Woman's Tale">
+        قال الأسد وكيف كان ذلك
+      </p>
+
+      <p n="A Merchant's Wife Had a Lover">
+        مثل قال دمنة زعموا أنّه كان بمدينة تاثرون في أرضٍ تدعى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

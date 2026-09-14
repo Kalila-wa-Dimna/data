@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="198"/>
+
+      <p n="The Resolute Attains His Need">
+        بالحزم ظفر بحاجته
+      </p>
+
+      <p n="The Parable of the Cat and Rat Is Invoked">
+        ومن المثل في ذلك مثل السنّور والجرذ اللذين اصطلحا حتّى كان
+        <lb/>
+
+        ذلك الرأي لهما وكان في صلحهما خلاصهما من الورطة الشديدة التي كانا
+        <lb/>
+
+        تورّطا فيها
+      </p>
+
+      <p n="The King Requests the Full Parable">
+        قال الملك وكيف كان ذلك قال العالم
+      </p>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        زعموا أنّه كان
+        <lb/>
+
+        بأرض كذا وكذا شجرة تُسمّى الهرود وكان في أصلها جحر جرذ يُسمّى أفريدون
+        <lb/>
+
+        وكان قريبًا من ذلك المكان جحر سنّور يُسمّى رومي
+      </p>
+
+      <p n="The Cat Is Caught">
+        وكان ناس من الصيّادين
+        <lb/>
+
+        قد اعتادوا تلك الشجرة لطلب الصيد فنصب صيّاد حبائله ذات ليلة فيما
+        <lb/>
+
+        هنالك فوقع فيه السنّور
+      </p>
+
+      <p n="The Rat Seeks Food">
+        وخرج الجرذ يدبّ ويطلب بعض ما يصلحه وهو
+        <lb/>
+
+        مع ذلك ينظر ويلتفت ويحذر فبينما هو يمشي اذ رأى السنّور مقتنصًا في الحبائل
+        <lb/>
+
+        ففرح بذلك
+      </p>
+
+      <p n="Foes Surround the Rat">
+        ثمّ التفت الجرذ خلفه فنظر ابن عرس قد كمن له ثمّ رفع رأسه نحو
+        <lb/>
+
+        الشجرة فإذا هو ببومة على الشجرة ترصده فخاف إن انصرف الى جحره أن يثب
+        <lb/>
+
+        عليه ابن عرس وإن ذهب يمينًا أو شمالًا أن تختطفه البومة وإن تقدّم فالسنّور
+        <lb/>
+
+        أمامه
+      </p>
+
+      <p n="The Rat Weighs His Predicament">
+        فقال الجرذ عند ذلك اكتنفتني وتظاهرت عليّ أمور نغّصت عليّ
+        <lb/>
+
+        سروري بما ألقي على السنّور ولا أرى مفزعًا إلّا إلى الله تعالى وأن اعمل بعقلي
+        <lb/>
+
+        وحيلتي فأوّل ذلك أن لا يكون شأني الدهش فيذهب عقلي شعاعًا
+      </p>
+
+      <p n="The Intelligent Always Keeps Alert">
+        فإنّ العاقل لا يتفرّق عليه رأيه ولا يغرب عنه عقله على حال وإنّما ذوي العقول
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

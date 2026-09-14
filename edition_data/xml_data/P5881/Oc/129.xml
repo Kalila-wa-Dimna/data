@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="129"/>
+
+      <p n="Wife Sees Carpenter Off">
+        بيتك ونفسك ثمّ إنّه توجّه وهي تنظر إليه
+      </p>
+
+      <p n="Carpenter Returns To Hide Under Bed">
+        فلمّا توارى عنها عاد ودخل منزله وكمن
+        <lb/>
+
+        تحت السرير فظنّت المرأة أنّه مضى
+      </p>
+
+      <p n="Wife Summons Lover">
+        فأرسلت من ساعتها إلى صديقها وأعلمته بسفره
+        <lb/>
+
+        وأنّه غير راجع إلى أيّام فأتاها صديقها
+      </p>
+
+      <p n="Lover Spends The Night">
+        فبات عندها
+      </p>
+
+      <p n="Carpenter Falls Asleep">
+        فبينما هما يتحدّثان إذ نام زوجها
+        <lb/>
+
+        وهو تحت السرير ومدّ رجليه فخرجت رجله من تحت السرير
+      </p>
+
+      <p n="Wife Prompts Question From Lover">
+        فعرفته زوجته فقالت لصديقها
+        <lb/>
+
+        عند ذلك ارفع صوتك واسألني وقل لي أيّما أحبّ إليك أنا أم زوجك كلّ ذلك حيلة منها ومكرًا
+        <lb/>
+
+        قال فسألها صديقها عمّا قالت
+      </p>
+
+      <p n="Wife Feigns Surprise">
+        فقالت له لعمري لئن ظننت أنّ أحدًا من الناس أحبّ إليّ من
+        <lb/>
+
+        زوجي وأكرم عليّ وأبرّ عليّ لقد أخطأت وخاب ظنّي
+      </p>
+
+      <p n="Wife Says Lovers Serve Only Pleasure">
+        لأنّنا معاشر النساء لا نحبّ الأخلّاء
+        <lb/>
+
+        إلّا لقضاء الشهوة وبلوغ الدنيا ولا نلتفت إلى إحسانهم ولا إلى شيء من أمورهم فإذا قضينا من
+        <lb/>
+
+        أحدهم حاجتنا كان عندنا كغيره من الأبعدين
+      </p>
+
+      <p n="Wife Says Husband Is All To Her">
+        لأنّ الزوج أفضل للمرأة من الولد والأخ والأب
+        <lb/>
+
+        لأن كدّه وسعيه لها وعليها وأنا لك بعد ذلك مُحبّة ووادّة
+      </p>
+
+      <p n="Wife Curses Fathless Women">
+        فلعن الله امرأة لا يكون
+        <lb/>
+
+        زوجها عندها عديل نفسها
+      </p>
+
+      <p n="Carpenter Hears Wifes Speech">
+        قال فلمّا سمع زوجها منها هذه المقالة وثق منها بالمحبّة والمودّة
+        <lb/>
+
+        لقولها ذلك
+      </p>
+
+      <p n="Wife Says She Values Husband">
+        ثمّ قالت لصديقها والله إنّ أصبع من يد زوجي أو رجله أفضل عندي منك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

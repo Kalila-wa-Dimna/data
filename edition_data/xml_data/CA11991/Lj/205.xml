@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CA11991</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="205"/>
+
+      <p n="King Must not Trust One Passed Over in Favors">
+        نظرائه ثوابًا فأثيبوا دونه وفُضّلوا عليه
+      </p>
+
+      <p n="King Must not Trust One Singled out for Punishment">
+        أو عقابًا فعُفي عنهم دونه أو بُلغ
+        <lb/>
+
+        منهم ما لم يبُلغ منه
+      </p>
+
+      <p n="King Must not Trust Someone Denied Justice">
+        وكان مظلومًا فلم يُنصف
+      </p>
+
+      <p n="King Must not Trust the Greedy and Unsatisfied">
+        أو كان معروفًا بإفراط الحرص
+        <lb/>
+
+        والشره
+      </p>
+
+      <p n="Kind Must not Trust the Adversarial">
+        أو كان يرى في منفعة السلطان ضررًا أو في ضرّه نفعًا
+      </p>
+
+      <p n="King Must Consider the Untrustworthy as Foes">
+        كلّ هولاء لا يسترسل
+        <lb/>
+
+        إليهم ولا يثق بهم فإنّهم حقيقون لأن يكونوا عليه مع عدوّه
+      </p>
+
+      <p n="Jackal Was Accused despite His Loyalty">
+        وقد صرت اليوم
+        <lb/>
+
+        في بادي الرأي عرضًا لأعداء الملك وليس ما أنا عليه للملك من المودّة والنصيحة
+        <lb/>
+
+        يمنع الملك من تهمتي وسوء الظنّ بي لما سبق منه وليس ما أُظهر له من مودّتي
+        <lb/>
+
+        ونصيحتي مراقبة من غير سيّئة منّي في ذلك
+      </p>
+
+      <p n="Jackal Expects Follow Up Schemes">
+        ولست مع هذا آمن من عودة
+        <lb/>
+
+        أعدائي بتحميل الملك عليّ بالكذب والباطل إشفاقًا من مكافأتي إيّاهم وحرصًا
+        <lb/>
+
+        على أن يتحقّق عند الملك كذبهم
+      </p>
+
+      <p n="Jackal Fears Lion's Gullibility">
+        فإذا فعلوا ذلك لم يحتاجوا في قبول الملك منهم
+        <lb/>
+
+        إلى عون أقوى من هذه التهمة التي وقعت في نفس الملك مع أنّ الملك لو كان
+        <lb/>
+
+        في الثقة بي وقلّة الاتّهام لي على ما كان عليه ما كان ذلك عنّي مغنيًا ولما
+        <lb/>
+
+        وجدت برًّا من خوف تهمة لنصيحتي وسوء ظنّه بي وسرعته إلى تصديق أعدائي
+        <lb/>
+
+        فيما تحملونه عليّ لما أتذكّر من عجلته التي كانت
+      </p>
+
+      <p n="Jackal Gives Lion the Choice">
+        فإذا كانت حال الملك في
+        <lb/>
+
+        الثقة عليّ ما وصفت فلينظر ما وجه ما يريد لي من صحبته
+      </p>
+
+      <p n="Lion Says He Tested Jackal">
+        قال الأسد إنّي قد
+        <lb/>
+
+        بلوت طبائعك وأخلاقك
+      </p>
+
+      <p n="Lion Confirms Jackal's Status">
+        فمنزلتك في نفسي منزلة الكرماء الأخيار
+      </p>
+
+      <p n="The Noble Forgives Misdeeds for One Good Deed">
+        والكريم
+        <lb/>
+
+        تنسيه الخلّة الواحدة من الإحسان ألف خلّة من الإساءة واللئيم تنسيه خلّة
+        <lb/>
+
+        واحدة من الإساءة ألف خلّة من الإحسان
+      </p>
+
+      <p n="Lion Hopes for Renewed Mutual Trust">
+        فأنا واثق أنّه سينسيك ما سلف
+        <lb/>
+
+        من إحساننا وما نستأنف ما فرّطناه في أمرنا وقد عدنا إلى الثقة بك بعد
+        <lb/>
+
+        في الثقة بنا لما قلناه فإنّه كان ذلك في ذلك غبطة وسرور
+      </p>
+
+      <p n="Lion Is Pleased with Jackal">
+        فعاد ابن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

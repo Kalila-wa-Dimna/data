@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="79"/>
+
+      <p n="Caretaker's Philosophical Reflection on Fate">
+        انقضت مدّته وحانت منيّته فهو وإن اجتهد في التوقّي والحذر
+        <lb/>
+
+        من الأمور الذي يخاف فيها على نفسه لم يقدر أن يدفع منها شيئًا
+        <lb/>
+
+        ولم يصير إلّا إلى العناد وربّما عاد اجتهاده في توقّيه وحذره من الأمر
+        <lb/>
+
+        الذي منه حذر فيعطب ويهلك
+      </p>
+
+      <p n="First Subtable of Man and Wolf (First Beginning)">
+        كالرجل الذي قيل إنّه سلك
+        <lb/>
+
+        مفازة خوف السباع وكان الرجل قد علم بخوف تلك المفازة
+        <lb/>
+
+        ولم يمتنع من الخروج إليها
+      </p>
+
+      <p n="First Subtable of Man and Wolf (Second Beginning)">
+        فلم يمكث إلّا قليلًا حتّى عرض له ذئب أخبثها
+        <lb/>
+
+        وأضراها
+      </p>
+
+      <p n="Man's Escape Attempt from the Wolf">
+        فلمّا نظر الرجل إلى الذئب قاصدًا نحوه خافه ونظر يمينًا
+        <lb/>
+
+        وشمالًا يطلب موضعًا يتحرّز فيه من الذئب فلم يرقب في ذلك
+        <lb/>
+
+        الموضع إلّا قرية خلف واد فمضى متوجّهًا نحوها
+      </p>
+
+      <p n="Man Jumping into the River and Rescue">
+        وخاض في ذلك الوادي في
+        <lb/>
+
+        وسط الماء وهو لا يحسن السباحة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

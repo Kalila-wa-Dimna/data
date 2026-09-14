@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="73"/>
+
+      <p n="The Youngest Brother Weighs the Situation">
+        وتضييع مال أبيهما أقبل على نفسه يشاورها
+        <lb/>
+
+        ولم يفكّر في سوء تصرّف الإخوان
+      </p>
+
+      <p n="The Youngest Reflects on Wealth">
+        وقال يا نفس
+        <lb/>
+
+        إنّما المال يطلبه صاحبه ويجمعه من كلّ وجه
+        <lb/>
+
+        لبقاء حاله وصلاح دنياه وشرف المنزلة في
+        <lb/>
+
+        أعين الناس والاستغناء عمّا في يديهم وصرفه
+        <lb/>
+
+        في وجوهه من صلة الرحم والإنفاق عليهم وعلى
+        <lb/>
+
+        الولد والإفضال على الإخوان
+      </p>
+
+      <p n="Allocating Wealth Poorly is Poverty">
+        ومن كان له مال ولم
+        <lb/>
+
+        ينفقه في حقوقه كان فقيرًا وإن كان موسرًا
+      </p>
+
+      <p n="A Wealth Well Spent Brings Praise">
+        وإن
+        <lb/>
+
+        هو أحسن إمساكه والقيام عليه لم يعدم الأمرين جميعًا
+        <lb/>
+
+        من ذنبًا يبقى عليه بإنفاقه وحمدًا يُثاب عليه
+      </p>
+
+      <p n="The Youngest Brother Decides To Help">
+        لكن
+        <lb/>
+
+        الرأي هو أن أمسك هذا المال الذي قد رُزقته
+        <lb/>
+
+        وأرجو أن ينفعني الله به ويغني إخوتي على يديّ
+        <lb/>
+
+        فإنّما هو مال أبي وأبيهما فإنّ الأولى إنفاق المال
+        <lb/>
+
+        في وجهه وهو صلة الرحم وإن بعدت
+      </p>
+
+      <p n="The Youngest Brother Shares His Wealth">
+        وأقبل
+        <lb/>
+
+        على صنوف التجارات التي أضربا عنها إخوته وصرف
+        <lb/>
+
+        لأخويه ما يسعفهما وعاهدهما في ترك استعمال
+        <lb/>
+
+        ما كانا أخذا فيه من تلف مالهما وأن يحرصا على كثرة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

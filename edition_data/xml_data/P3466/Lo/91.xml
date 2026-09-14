@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="91"/>
+
+      <p n="Lion's Concerns about Suffering, Greedy and Malevolent Courtiers">
+        جفوته على جرم أو كان سُعي عليه عند سلطانه أو كان
+        <lb/>
+
+        معروفًا بالشره والحرص أو كان قد أصابه ضرّ وضيق
+        <lb/>
+
+        فلم ينتعشْ أو كان قد اجترم جرمًا فهو يخاف العقوبة أو
+        <lb/>
+
+        كان شرّيرًا لا يحبّ الخير أو كان قد وُقف منه على خيانة
+      </p>
+
+      <p n="Lion's Concerns about Requistioned and Deposed Courtiers">
+        أو كان قد أُحيل بينه وبين ذات يده من السلطان أو مال
+        <lb/>
+
+        أو كان يلي عملًا فعُزل عنه أو انتُقص منه أو شُورك بينه
+        <lb/>
+
+        وبين غيره فيه
+      </p>
+
+      <p n="Lion's Concerns about Harshly Punished Courtiers">
+        أو كان قد اجترم جرمًا مع نظرائه
+        <lb/>
+
+        فعُفي عنهم وعُوقب دونهم أو عُوقبوا جميعًا فبلغ منه في
+        <lb/>
+
+        العقوبة ما لم يبلغْ من أحد منهم
+      </p>
+
+      <p n="Lion's Concerns about Impious and Inimical Courtiers">
+        أو كان لعدوّ السلطان
+        <lb/>
+
+        موادعًا ولمسالميه عدوًّا
+      </p>
+
+      <p n="Advice against Trusting Certain Types of People">
+        كلّ هؤلاء ليس السلطان حقيقًا
+        <lb/>
+
+        بالاسترسال إليهم والثقة بهم والائتمان إليهم
+      </p>
+
+      <p n="Lion's Reflection on Dimna's Character and Past Treatment">
+        وإنّ دمنة
+        <lb/>
+
+        داهية وقد كان ببابي مطروحًا مجفوًّا
+      </p>
+
+      <p n="Lion's Fear of Dimna's Potential Betrayal">
+        فلعلّه قد كان
+        <lb/>
+
+        احتمل عليّ بذلك ضغنًا ولعلّ ذلك يحمله على خيانتي وإعانة عدوّي
+        <lb/>
+
+        عليّ وتنقيصي عنده فيميل عليّ معه ويدلّه على عوراتي
+      </p>
+
+      <p n="Lion's Restless Contemplation">
+        فلم يزلْ
+        <lb/>
+
+        الأسد يفكّر في ذلك وشبهه حتّى أدركه الجزع فقام من مجلسه
+        <lb/>
+
+        وجعل يمشي ويتقدّم وينظر إلى الطريق حتّى لاح له دمنة مقبلًا
+      </p>
+
+      <p n="Lion's Relief Upon Seeing Dimna Alone">
+        فلمّا
+        <lb/>
+
+        رآه وحده ليس معه أحد اطمأنّت نفسه ورجع إلى مكانه إرادة ألّا يظنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

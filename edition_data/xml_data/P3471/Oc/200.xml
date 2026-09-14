@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="200"/>
+
+      <p n="Carpenter Falls Asleep">
+        كلّ الذي يعملان إذ غلب على النجار النعاس فنام وخرجت
+        <lb/>
+
+        رجله من تحت السرير
+      </p>
+
+      <p n="Wife Prompts Question From Lover">
+        فبصرت بها المرأة فأيقنت بالسوء وسارّت
+        <lb/>
+
+        صديقها أن ارفع صوتك فسلني أيّنا أحبّ إليك أنا أم زوجك
+        <lb/>
+
+        فإذا أنا امتنعت عليك فألحّ عليّ فأخبرك بذلك وبما أريد فسألها
+        <lb/>
+
+        الرجل من ذلك
+      </p>
+
+      <p n="Wife Feigns Surprise">
+        فردّت عليه المرأة أن يا خليلي من اضطرّك إلى هذه
+        <lb/>
+
+        المسألة قال فبحقّي عليك إلّا ما أخبرتني
+      </p>
+
+      <p n="Carpenter Hears Wifes Speech">
+        والنجّار يسمع ذلك
+        <lb/>
+
+        كلّه وقد استيقظ من نومه وعرف مكان الرجل على سريره
+      </p>
+
+      <p n="Wife Says Lovers Serve Only Pleasure">
+        فقالت تعلم أنّنا معشر النساء إنّما نريد الأخلّاء لقضاء
+        <lb/>
+
+        الشهوة ولسنا نلتفت إلى أحسابهم ولا إلى أخلاقهم ولا إلى
+        <lb/>
+
+        شيء من أمورهم فإذا قضينا من أحدهم حاجتنا كان كغيره من
+        <lb/>
+
+        الأباعد
+      </p>
+
+      <p n="Wife Says Husband Is All To Her">
+        ولإن ظننّت أن أحدًا من الناس أحبّ إليّ من زوجي
+        <lb/>
+
+        وأكرم عليّ منه وآثر عندي من حسن صورته لقد أسأت
+        <lb/>
+
+        الظنّ فإنّ الزوج خير للمرأة من الوالدة والوالد والولد
+        <lb/>
+
+        والأخ منزلهم لأنّ كدّه وسعيه إنّما هو لها وعليها
+      </p>
+
+      <p n="Wife Curses Fathless Women">
+        فقبّح الله امرأة لا يكون زوجها عندها آثر من نفسها ولا يكون
+        <lb/>
+
+        حياته أحبّ إليها من حياتها
+      </p>
+
+      <p n="Wife Says She Values Husband">
+        وأنا لك وادّة وإصبع من يد زوجي
+        <lb/>
+
+        أو رجله أحبّ إليّ منك فلا أسمع منك تذكُره مرّة أخرى
+      </p>
+
+      <p n="Wifes Speech Charms Carpenter">
+        فلمّا سمع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

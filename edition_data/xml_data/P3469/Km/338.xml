@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="338"/>
+
+      <p n="The Philosopher Answers">
+        من العظائم وينال بسببه فوائدًا كبار
+      </p>
+
+      <p n="The Parable of the King of Rats">
+        كما ملك أفاد به ملك
+        <lb/>
+
+        الجرذان من وزيره الناصح فائدة تخلّص بها هوّ وجميع
+        <lb/>
+
+        الجرذان من الشدّة
+      </p>
+
+      <p n="The King Requests the Parable">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="A Prosperous City">
+        قال
+        <lb/>
+
+        بيدنا زعموا أنّه كان في أرض البراهمة بقعة تُسمّى دوران
+        <lb/>
+
+        مسافتها ألف فرسخ وكان في وسط تلك البقعة مدينة
+        <lb/>
+
+        تُسمّى أيل زينون وكان عليها خيرات كثيرة وكان أهلها
+        <lb/>
+
+        يتصرّفون في معايشهم كما يحبّون
+      </p>
+
+      <p n="The City Is Ruled by a Rat King">
+        وكان في تلك المدينة
+        <lb/>
+
+        جرذ يُسمّى مهراز وكان ممتلكًا على جميع الجرذان التي
+        <lb/>
+
+        في تلك المدينة ورساتيقها
+      </p>
+
+      <p n="The Rat King Has Three Viziers">
+        وكان له ثلاث وزراء
+        <lb/>
+
+        يشاورهم في الأمور يُسمّى أحدهم ذوذامه وكان
+        <lb/>
+
+        ذو عقل وحكمة وكان الملك وما معترفًا بفضله وكان
+        <lb/>
+
+        يُسمّى الثاني شيرع ويُسمّى الثالث بغداد
+      </p>
+
+      <p n="They Discuss the Threat of the Cats">
+        فحضروا
+        <lb/>
+
+        يومًا وتفاوضوا في أشياء كثيرة إلى أن انتهى بهم الكلام
+        <lb/>
+
+        أن قالوا هل في استطاعتنا أن نزيل عنّا ما قد توارثناه
+        <lb/>
+
+        من أسلافنا من الحزن والفزع والخوف من السنانير أوّلًا
+      </p>
+
+      <p n="One Should Leave the Past and Act for the Future">
+        فبدأ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>VAF298</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="46"/>
+
+      <p n="Dimna's Persistence Despite Warnings">
+        ومن ترك الأمر الذي لعلّه يبلغ به حاجته هيبة ومخافة فليس ببالغ
+      </p>
+
+      <p n="Three Challenging Pursuits Requiring Courage">
+        وقد
+        <lb/>
+
+        قيل في أمور ثلاثة لا يستطعها أحد إلّا بارتفاع همّة وبلوغ عظيم
+        <lb/>
+
+        خطر منها عمل السلطان وتجارة البحر ومناجزة العدوّ
+      </p>
+
+      <p n="Two Proper Places for Noble Man">
+        وقد قالت العلماء
+        <lb/>
+
+        في الرجل الفاضل إنّه لا ينبغي أن يُرى إلّا في مكانين لا يليق به غيرهما إمّا
+        <lb/>
+
+        مع الملوك مكرّمًا وإمّا مع النسّاك متبتّلًا
+      </p>
+
+      <p n="Two Places for Elephant’s Splendor">
+        كالفيل إنّما بهاؤه وجماله
+        <lb/>
+
+        في مكانين إمّا في البرّيّة وحشيًّا وإمّا للملوك مركبًا
+      </p>
+
+      <p n="Kalila's Blessing for Dimna's Decision">
+        قال كليلة خار الله
+        <lb/>
+
+        لك فيما عزمت عليه
+      </p>
+
+      <p n="Dimna Approaching the Lion">
+        ثمّ إنّ دمنة انطلق حتّى سلّم على الأسد
+      </p>
+
+      <p n="Lion Inquiring About Dimna's Identity">
+        فقال لقرابته
+        <lb/>
+
+        من هذا
+      </p>
+
+      <p n="Identification of Dimna">
+        قالوا فلان بن فلان
+      </p>
+
+      <p n="Lion Recognizing Dimna's Father">
+        قال قد كنت أعرف أباه
+      </p>
+
+      <p n="Lion Questioning Dimna's Whereabouts">
+        ثم سأله أين كنت
+        <lb/>
+
+        تكون
+      </p>
+
+      <p n="Dimna's Response about His Loyalty">
+        قال لم أزلْ بباب الملك مرابطًا رجاء أن يحضر أمرًا أعرفه فأعين الملك
+        <lb/>
+
+        عليه بمالي ونفسي
+      </p>
+
+      <p n="Dimna on the Value of Overlooked Individuals">
+        فإنّ باب الملك تكثر فيه الأمور التي ربّما احتيج فيها إلي من لا
+        <lb/>
+
+        نوبة له فلا يصغر منزلته عند الملك
+      </p>
+
+      <p n="Analogy of Useful Discarded Objects">
+        فإنّ العود المطروح في الأرض ربّما
+        <lb/>
+
+        انتفع به منتفع يحكّ به أذنه
+      </p>
+
+      <p n="Lion's Positive Impression of Dimna">
+        فلمّا سمع الأسد كلام دمنة أعجبه وظنّ
+        <lb/>
+
+        أن هذه نصيحة ورأيًا
+      </p>
+
+      <p n="A Noble Man May Be Obscure">
+        فأقبل عليه ثمّ قال لقرابته إنّ الرجل العالم ذو المروءة
+        <lb/>
+
+        ليكون حامل الذكر صغير المنزلة فتأبى مروءته إلّا أن يستثير ليُعرف
+      </p>
+
+      <p n="Analogy of a Flame's Inevitable Rise">
+        كالشعلة
+        <lb/>
+
+        من النار التي تنبئ عن نفسها وتأبى إلّا ارتفاعها
+      </p>
+
+      <p n="Dimna Seizing the Opportunity to Impress">
+        فلمّا عرف دمنة أنّ الأسد
+        <lb/>
+
+        قد أعجب به قال له إنّ رعيّة الملك ومن يختصّ به جدراء أن يعرّفوا الملك
+        <lb/>
+
+        ما عندهم من العلم أو مروءة ويبدّلوا له النصيحة فإنّ الملك لا يعرفهم ولا
+        <lb/>
+
+        ينزلهم منازلهم إلّا بذلك
+      </p>
+
+      <p n="Analogy of Hidden Crop's True Value">
+        كالزرع المدفون في الأرض من الحنطة والشعير
+        <lb/>
+
+        وسائر الأنواع فلا يعلم أحد علمه حتّى يكون هو الذي يظهر ويخرج
+      </p>
+
+      <p n="Duty of Courtiers to Share Their Knowledge">
+        ويجب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

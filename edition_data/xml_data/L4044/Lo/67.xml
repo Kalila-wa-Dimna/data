@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="67"/>
+
+      <p n="The Rabbit's Delay">
+        الأرنب متباطئة حتّى جاوزت الساعة التي كان الأسد يأكل فيها ثمّ أقبلت
+        <lb/>
+
+        تدبّ وحدها رويدًا وقد جاع الأسد حين أبطأ غداؤه فغضب وقام عن
+        <lb/>
+
+        مربضه يتمشّى وينظر
+      </p>
+
+      <p n="The Lion's Confrontation">
+        فلمّا رأى الأرنب قال من أين جئت وأين الوحوش
+      </p>
+
+      <p n="The Rabbit's Lie">
+        قالت أنا رسول الوحوش بعثنني إليك بأرنب معي فلمّا أن كنت ممّا هاهنا
+        <lb/>
+
+        قريبًا لقيني أسد فانتزعها منّي
+      </p>
+
+      <p n="The Usurper's Claim">
+        فقال أنا أولى بهذه الأرض ووحشها
+      </p>
+
+      <p n="Recounting the Lie">
+        قالت
+        <lb/>
+
+        فقلت له إنّ هذا غداء الملك أرسلت به الوحوش إليه فلا تغضبنّه فسبّك
+        <lb/>
+
+        وشتمك
+      </p>
+
+      <p n="The Rabbit Reports">
+        وأقبلت مسرعة لأوذنك بذلك
+      </p>
+
+      <p n="The Lion's Rage">
+        فغضب الأسد فقال انطلقي معي
+        <lb/>
+
+        فأريني هذا الأسد
+      </p>
+
+      <p n="Leading the Lion to the Well">
+        فانطلقت الأرنب بالأسد إلى جبّ ذي ماء صاف
+        <lb/>
+
+        غمر
+      </p>
+
+      <p n="The Rival's Location">
+        فقالت هذا مكان الأسد
+      </p>
+
+      <p n="Feigned Fear">
+        وأنا أفرق منه إلّا أن تجعلني في حضنك
+        <lb/>
+
+        حتّى أريكه
+      </p>
+
+      <p n="Held by the Lion">
+        فاحتضنها الأسد
+      </p>
+
+      <p n="Pointing at the Reflection">
+        فقالت له الأرنب أشرف على الجبّ وانظر
+        <lb/>
+
+        الأسد
+      </p>
+
+      <p n="Held by the Lion">
+        فأشرف فأبصر خياله وخيال الأرنب في حضنه في الماء
+      </p>
+
+      <p n="The Lion Sees His Reflection">
+        فلمّا نظر
+        <lb/>
+
+        خياله وخيال الأرنب وثب في الجبّ ليقاتله فغرق في الجبّ وفلتت الأرنب
+      </p>
+
+      <p n="Kalila's Conditional Approval">
+        قال كليلة إن أنت قدرت على هلاك الثور في شيء ليس على الأسد منه
+        <lb/>
+
+        مضرّة فشأنك فإنّ مكان الثور قد أضرّ بي وبك وبغيرنا من الجند
+      </p>
+
+      <p n="Kalila's Warning">
+        وإن أنت
+        <lb/>
+
+        لم تستطع ذلك إلّا بما ينقص الأسد فلا تشتر بذلك فإنّه غدر منّي ومنك ولؤم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

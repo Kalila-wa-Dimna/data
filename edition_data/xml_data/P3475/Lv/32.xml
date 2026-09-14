@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="32"/>
+
+      <p n="Kisra Opens Treasury">
+        والأثثة والمتاع
+      </p>
+
+      <p n="Kisra Urges Burzoy To Take Gifts">
+        فأمر برزويه وأقسم عليه أن يأخذ
+        <lb/>
+
+        من خزائن المُلك ما أحبّ
+      </p>
+
+      <p n="Burzoy Praises Kisra">
+        فخرّ برزويه بين يدي
+        <lb/>
+
+        كسرى ساجدًا لله تعالى وله مكفّرًا فلمّا رفع رأسه
+        <lb/>
+
+        واستوى قائمًا قال له عشت الدهر أيّها المَلك حميدًا
+        <lb/>
+
+        مُخلّدًا
+      </p>
+
+      <p n="Burzoy Wants No Gift">
+        إنّا بحمد الله نعمته قد أفادنا الله في دولتك
+        <lb/>
+
+        ما لم نؤمّله ونرجوه وكلّ ما أنعم الله به علينا من
+      </p>
+
+      <p n="Kisra Announces Reward">
+        أيّها العبد المطيع لمولاه الناصح مَلكه ببشرى صالحة
+        <lb/>
+
+        فإنّا لا ندَع رَفْدَك والنظر إليك ونحن صانعون
+        <lb/>
+
+        بك أفضل ما رجوت وأمّلت إن شاء الله تعالى
+      </p>
+
+      <p n="Kisra Opens Treasury">
+        فأمر كسرى
+        <lb/>
+
+        عند ذلك أن تُفتح له أبواب خزائن الذهب والفضة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

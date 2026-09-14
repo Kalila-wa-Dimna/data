@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CA11991</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="204"/>
+
+      <p n="Lion Must Punish Plotters">
+        جندك
+      </p>
+
+      <p n="Lion Must not Underestimate Wrongdoers">
+        ولا تغترّنّ بسلطانك عليهم فيدعوك ذلك لأمرين من صَغارهم والتهاون
+        <lb/>
+
+        بأمرهم
+      </p>
+
+      <p n="Grass Rope Ties Elephant">
+        فإنّ الحشيش الذي لا قوّة إذا جُمع ففُتل صار منه الحبل القويّ الذي
+        <lb/>
+
+        مسكوا به الفيل المغتلم الشديد القويّ
+      </p>
+
+      <p n="Lion Should Reinstate Jackal">
+        وأرى أن تردّ ابن آوى إلى منزلته ولا
+        <lb/>
+
+        يؤيسنّك مناصحته بما فرّطت في شأنه
+      </p>
+
+      <p n="The Wronged Person Need not Be Feared">
+        فليس كلّ من أُسيء إليه <>
+      </p>
+
+      <p n="The Intelligent Must Rank People by Character">
+        ينبغي أن يُترك
+        <lb/>
+
+        الناس في ذلك منازلهم على اختلاف ما بينهم
+      </p>
+
+      <p n="Cutting off Some People Is Gain">
+        فإنّ منهم من إذا ظُفر بقطيعته
+        <lb/>
+
+        كان الرأي أن يُغتنم ذلك منه ويُمتنع من معاودته
+      </p>
+
+      <p n="Some People Should Never Be Cut Off">
+        ومنهم من لا ينبغي تركه
+        <lb/>
+
+        وقطعه على حال من الأحوال
+      </p>
+
+      <p n="The Vile To Be Cut Off">
+        لما عُرف من الشرّ ونقض العهد وقلّة الوفاء
+        <lb/>
+
+        والشكر والبعد من الورع والرحمة والجود لثواب الآخرة وعقابها والحسد
+        <lb/>
+
+        والشرّ والسرعة إلى سوء الظنّ والقطيعة والإبطاء عن المراجعة فقطعُه
+        <lb/>
+
+        حزم الرأي
+      </p>
+
+      <p n="People Who Should Be Kept">
+        ومن عُرف بالصلاح وكرم العهد والشكر والوفاء والمحبّة للناس
+        <lb/>
+
+        والسلامة من الحسد والحقد والبعد من الأذى والاحتمال للأصحاب والإخوان
+        <lb/>
+
+        فإن ثقلت عليه المؤنه فهذا حقيق بأن يُمتنع من قطيعته
+      </p>
+
+      <p n="Lion Apologizes to Jackal">
+        فحينئذ دعا
+        <lb/>
+
+        الأسد بابن آوى فاعتذر إليه
+      </p>
+
+      <p n="Lion Wants to Reinstate Jackal">
+        وأخبره بما هو منطوٍ له عليه وأنّه معيده إلى
+        <lb/>
+
+        منزلته وولايته
+      </p>
+
+      <p n="Forgiving Friend Is Rare">
+        فقال ابن آوى إنّه من كان من الأصحاب محتملًا لأتقك
+        <lb/>
+
+        صاحبه بالإغلاظ والخلاف فيما يتخوّف عليه منه الضرر فاحتمله منه إذا
+        <lb/>
+
+        استقبله به فإنّ وجود مثله عزيز
+      </p>
+
+      <p n="Lion Must Accept Refusal">
+        ولا سصعمر يستعظمنّ الملك إن أخبرته
+        <lb/>
+
+        أن لا سبيل إلى الثقة بي ولا ينبغي له صحبتي
+      </p>
+
+      <p n="The Mistreated Cannot Be Trusted">
+        فإنّ من كان قد أصيب لعمـ
+        <lb/>
+
+        من البلاء غير مستوجب له
+      </p>
+
+      <p n="King Must not Trust the Deposed">
+        وكان قد أُزيل عن مرتبته وولايته
+      </p>
+
+      <p n="King Must not Trust the Extorted">
+        أو كان <>
+        <lb/>
+
+        سُلب ما له ظلمًا
+      </p>
+
+      <p n="King Must not Trust Someone Denied Honor">
+        أو كان مقرّبًا فأُقصي عن غير زلّة
+      </p>
+
+      <p n="King Must not Trust One Passed Over in Favors">
+        أو كان قد استحقّ <>
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

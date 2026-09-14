@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="195"/>
+
+      <p n="Old Man Undiscouraged">
+        ما في نفسها فلا يزيده ذلك إلّا حبًّا لها وعجبًا بها
+      </p>
+
+      <p n="Thief Breaks In">
+        فبينما هما
+        <lb/>
+
+        نائمين في مضاجعهما والرجل مستلق وامرأته مستيقظة إذ دخل
+        <lb/>
+
+        سارق عليهما فذعرت منه المرأة
+      </p>
+
+      <p n="Wife Hugs Old Man">
+        فوثبت على زوجها فالتزمته
+        <lb/>
+
+        فاستيقظ الزوج عند ذلك بالتزامها له فقال من أين هذه النعمة
+        <lb/>
+
+        ليت شعري ما بدا لك وما عطّفك عليّ
+      </p>
+
+      <p n="Old Man Notices Thief">
+        ورفع رأسه فلمّا بصر
+        <lb/>
+
+        بالسارق عرف أن الخشية منه هي التي دعتها إلى ما صنعت
+      </p>
+
+      <p n="Old Man Rewards Thief">
+        فقال
+        <lb/>
+
+        له أيّها اللصّ قد أتيت إلى ما أنا بشكره جدير وقد وفّقت لي من أنا
+        <lb/>
+
+        له محبّ وهو لي مباعد وعطّفت به عليّ فخذ من متاع البيت
+        <lb/>
+
+        ما بدا لك فأنت في حلٍّ من كلّ ما أخذت من مالي ومتاعي ولك الفضل عليّ
+        <lb/>
+
+        واليد عندي للذي مكّنني من معانقة هذه المرأة التي لي
+      </p>
+
+      <p n="King O Asks Third Owl">
+        ثمّ إنّ الملك
+        <lb/>
+
+        سأل الثالث من وزرائه عن رأيه في الغراب
+      </p>
+
+      <p n="Spy To Be Kept For Counsel">
+        فقال أرى ستُبقيه
+        <lb/>
+
+        ولا تقتله وتُحسن إليه فإنّه خليق أن يناصحك ويكون عينًا لكم على
+        <lb/>
+
+        الغربان
+      </p>
+
+      <p n="Turn Foes Against Each Other">
+        فإنّه من إحكام تمكّن الرجل من أعدائه أن يستدخل منهم
+        <lb/>
+
+        أعوانًا على الباقين
+      </p>
+
+      <p n="Dispute Between Foes Is Beneficial">
+        وإنّ ذو العقل يرى ظفرًا حسنًا معاداة بعض
+        <lb/>
+
+        عدوّه بعضًا فإنّ في اشتغال بعض العدوّ ببعض واختلافهم
+        <lb/>
+
+        نجاة ورجاء أنّه يصيب منهنّ منفعته
+      </p>
+
+      <p n="Mention Thief Demon Story">
+        مثل الذي وصل إلى الناسك
+        <lb/>
+
+        الذي نجا من البلاء عند اختلاف اللصّ والشيطان في تنازعهما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

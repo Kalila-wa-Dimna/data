@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="187"/>
+
+      <p n="The Crab's Request">
+        جاءه السرطان فقال وأنا أيضًا قد أشفقت من مكاني هذا فاذهب بي إلى ذلك المكان
+      </p>
+
+      <p n="The Crab Discovers the Truth">
+        فحمل
+        <lb/>
+
+        السرطان مسرورًا على خصب يومه حتّى إذا دنا من التلّ نظر إلى عظام السمك مجموعة
+        <lb/>
+
+        على ذلك التلّ فعرف أنّ العلجوم هو صاحبها وأنّه يريد به مثلها
+      </p>
+
+      <p n="The Crab's Resolve">
+        فقال إذا لقي اللاتي
+        <lb/>
+
+        عدوّه في المواطن التي يعلم أنّه هالك فيها إن قاتل وإن لم يقاتل فهو حقيق أن يقاتل كرمًا
+        <lb/>
+
+        وحفاظًا
+      </p>
+
+      <p n="The Heron is Killed">
+        فأهوى بكلبتيه إلى عنق العلجوم فعصره عصرة مات منها ووقع عنه السرطان
+        <lb/>
+
+        ومضى إلى السمك المتخلّف فأخبرهنّ قال
+      </p>
+
+      <p n="The Moral: A Trickster's Downfall">
+        ابن آوى إنّما ضربت لك هذا المثل لتعلم أنّ بعض
+        <lb/>
+
+        الحيلة مهلكة للمحتال ولكنّي أدلّك على أمر إن فعلت ذلك وقدرت عليه كان فيه هلاك
+        <lb/>
+
+        الأسود
+      </p>
+
+      <p n="The Crow Asks for the Plan">
+        قال وما ذلك
+      </p>
+
+      <p n="The Jackal's Plan">
+        قال أرى لك أن تنطلق محلّقًا تبتغي وتنظر لعلّك تظفر بحليّ
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

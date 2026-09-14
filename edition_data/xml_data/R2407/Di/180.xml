@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="180"/>
+
+      <p n="Due Process Will Be Followed">
+        وصحّة يقين فإذا استوجب المقابلة بالقتل يكون
+        <lb/>
+
+        بالتثبيت لا بالعجلة والهوى
+      </p>
+
+      <p n="No One Should Withhold Testimony">
+        فاستمثلوا قول سيّدكم
+        <lb/>
+
+        ولا تكتموا بما علمتم من أمره شيئًا
+      </p>
+
+      <p n="Consequences of Taking Evil Deeds Lightly">
+        ** ومن علم بشيءٍ وأخفاه
+        <lb/>
+
+        فقد شاركه في الإثم والعقوبة
+      </p>
+
+      <p n="Judge Calls for Testimony on Three Accounts">
+        وثانيًا إذا عاقب الملك
+        <lb/>
+
+        المذنب بذنبه كان أسلم للملك وجنده من الشرّ
+        <lb/>
+
+        وثالثًا الراحة من أهل الريب والفجور وقطع أسباب
+        <lb/>
+
+        التطرّق
+      </p>
+
+      <p n="Dimna Challenges All Only to Say What They Know">
+        قال دمنة من لم يتأيّد في الأمور ويعمل فيها
+        <lb/>
+
+        بحسن النظر والرويّة والعلم الصائب والرأي الثاقب
+      </p>
+
+      <p n="Dimna's Second Subtale of Ignorant Physician">
+        أصابه ما أصاب الطبيب الجاهل بالطبّ
+      </p>
+
+      <p n="Judge Request Tale">
+        قال القاضي
+        <lb/>
+
+        وكيف كان ذلك
+      </p>
+
+      <p n="Famous Physician Dies or Goes Blind">
+        قال دمنة زعموا أنّه كان في بعض
+        <lb/>
+
+        المدائن طبيبٌ له رفقٌ وعلمٌ وكان ذا خطر عظيم لما يجري
+        <lb/>
+
+        على يديه من مقادير العافية في من يعالج بطبّه وأدويته
+        <lb/>
+
+        فكَبُر ذلك الطبيب وهرم وضعف بصره
+      </p>
+
+      <p n="Pregnant Princess Falls Sick">
+        وكان
+        <lb/>
+
+        لملك تلك المدينة ابنةٌ قد زوّجها لابن أخٍ له
+        <lb/>
+
+        فعرض لها ما يعرض للحوامل من الأوجاع
+      </p>
+
+      <p n="Blind Physician Prescribes Drug">
+        فأرسل الملك
+        <lb/>
+
+        إلى ذلك الطبيب الأعمى فحضر بين يديه وسأله وسأل
+        <lb/>
+
+        الجارية عن مرضها فأعلموه سببه وما هو فعرف دواءها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

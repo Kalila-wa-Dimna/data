@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="65"/>
+
+      <p n="Those in the Know Have No Excuse">
+        مذمومها من كان أبصر من الجاهل بها وعرف فضل بعضها
+        <lb/>
+
+        على بعض
+      </p>
+
+      <p n="A Sighted and a Blind Fall into a Ditch">
+        كما أنّه لو أنّ رجلين أحدهما بصير والآخر
+        <lb/>
+
+        ضرير جاء بهما الأجل إلى حفرة فوقعا فيها صارا
+        <lb/>
+
+        كلاهما في قعرها بمنزلة واحدة في الهلكة
+      </p>
+
+      <p n="The Sighted Man Has No Excuse">
+        غير أنّ البصير
+        <lb/>
+
+        أقلّ عذرًا عند الناس إذ كان له عينان يبصر بهما وأمّا
+        <lb/>
+
+        الضرير جاهل بما صار إليه
+      </p>
+
+      <p n="Scholar Must Discipline Himself">
+        والعالم يؤدّب نفسه بعلمه
+        <lb/>
+
+        ولا يكون غايته من العلم اقتناء معاندة غيره
+      </p>
+
+      <p n="Water-Spring Benefits Only Others">
+        فيكون كالعين
+        <lb/>
+
+        التي تشرب الناس ماءها وليس لها بذلك شيء من المنفعة
+      </p>
+
+      <p n="Silk Worm Benefits Only Others">
+        أو كدود القزّ الذي يحكم صنعته ولا ينتفع منه بشيء
+      </p>
+
+      <p n="Instructing Oneself Comes First">
+        وينبغي لطالب العلم أن يبدأ بعظة نفسه ثمّ عليه
+        <lb/>
+
+        بعد ذلك أن يعلّم ويعظ غيره
+      </p>
+
+      <p n="Three Things Are Needed for Worldly Life">
+        فإنّ خلالًا ثلاثة لا ينبغي
+        <lb/>
+
+        لصاحب الدنيا أن يقتبسها ويقنيها منها العلم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

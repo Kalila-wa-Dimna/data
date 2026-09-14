@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="302"/>
+
+      <p n="Lion Must Punish Jackal">
+        فقال للأسد أمّا إذا اطّلع الملك من ابن آوى على هذه الخيانة
+        <lb/>
+
+        فلا يعفونّ عنه فإنّه إن عفا عنه لم يعد أحد يطلع الملك
+        <lb/>
+
+        على خيانة خائن ولا ذنب مذنب
+      </p>
+
+      <p n="Lion Has Jackal Arrested">
+        فأمر الملك بابن آوى أن
+        <lb/>
+
+        يُخرج من عنده ويُحتفظ به
+      </p>
+
+      <p n="Courtiers Are Amazed at Lion's Unawareness">
+        فلمّا خرج من عنده قال بعض
+        <lb/>
+
+        جلساء الأسد إنّي لأعجب من رأي الملك مع معرفته بالأمور
+        <lb/>
+
+        كيف خفي عليه أمر هذا المتألّه حتّى اليوم ولم يعرف خبثه ومخادعته
+      </p>
+
+      <p n="Courtiers Expect Jackal's Pardon">
+        قال آخر أعجب من هذا أنّي لا أراه يفحص عن هذا بعد ما ظهر له
+      </p>
+
+      <p n="False Message and Death Sentence">
+        فأرسل إلى الأسد بعضهم رسولًا برسالة كاذبة على لسان ابن آوى
+        <lb/>
+
+        إلى الأسد فغضب الأسد منها وأمر بابن آوى أن يُقتل
+      </p>
+
+      <p n="Lion's Mother Delays Execution">
+        فبلغ ذلك
+        <lb/>
+
+        أمّ الأسد فعرفت أنّ الأسد قد عجل في أمره فأرسلت إلى
+        <lb/>
+
+        الذين أمروا بقتله أن يؤخّروه
+      </p>
+
+      <p n="Mother Questions Lion">
+        ودخلت على ابنها فقالت لأيّ
+        <lb/>
+
+        ذنب أمرت بابن آوى أن يُقتل فأخبرها بالأمر فقالت عجلت
+        <lb/>
+
+        يا ابني
+      </p>
+
+      <p n="The Intelligent Deliberates">
+        وإنّما يسلم العاقل من الندامة بترك العجلة والأناة
+        <lb/>
+
+        والتثبّت
+      </p>
+
+      <p n="Haste Causes Regret">
+        والعجل لا يزال يجتني من عمله ثمرة الندامة لضعف
+        <lb/>
+
+        رأيه وقلّة نظره
+      </p>
+
+      <p n="Kings Need Deliberateness Most">
+        وليس أحد أحوج إلى التؤدة والتثبّت من
+        <lb/>
+
+        الملوك
+      </p>
+
+      <p n="Chain of Dependence up to King's Virtues">
+        فإنّ المرأة بزوجها والولد بوالديه والمتعلّم بالمعلّم والجند
+        <lb/>
+
+        بالقائد والناسك بالدين والعامّة بالملوك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

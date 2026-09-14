@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>JBE-Hebrew</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="57"/>
+
+      <p n="Ruzbeh Reports Mother's Words to Dimna">
+        ויגד לו כל הדברים. ואת הכתוב בספרים.
+      </p>
+
+      <p n="Men Take Dimna Before Court">
+        וישלח השופט והנמר ושרי החיילים
+        <lb/>
+
+        והגבורים. להביא את דמנה לדין והוכח בדברים.
+        <lb/>
+
+        צורת דמנה והחיילים
+      </p>
+
+      <p n="Head of Court Deems Extant Facts Sufficient">
+        ויאמר לו שר הצבא כבר נודעו לי שקריך וכזביך. וזדונך ורוע לבבך. אבל צוה
+        <lb/>
+
+        המלך שלא תמות כי אם על פי עדים נאמנים. ועל דעת שופטים והזקנים. ברוב
+        <lb/>
+
+        חמלתו. וצדקתו ואמונתו.
+      </p>
+
+      <p n="Judge is Certain That Dimna Instigated the Lion against the Ox">
+        וכבר נודע מכל בגדת ופשעת. כי בן מות אתה. כי בוגד
+        <lb/>
+
+        אתה בכל חבריך. וברוב כשפיך בעצמת חבריך.
+      </p>
+
+      <p n="Dimna Accuses Head of Court of Ignoring Facts">
+        ויאמר דמנה אין בדבריך לא
+        <lb/>
+
+        חמלה ולא חנינה. ואין בפיך נכונה. הלא צוה המלך שופטיו ושוטריו להחזיק כל
+        <lb/>
+
+        בדק. ושפטו את העם משפט צדק. ואתה הולך אחר רוחך. ושמת תאותך נכחך.
+        <lb/>
+
+        וכל לבך להשחיתני. וכל יצרך להמיתני. וכן יאות לך כי הפושע אין בלבו כי אם
+        <lb/>
+
+        להרע ולהעיק. כי רשע מכתיר את הצדיק.
+      </p>
+
+      <p n="A Judge Has the Authority to Punish and Reward">
+        ויאמר השופט מצוה על כל שר ונדיב
+        <lb/>
+
+        לחום על כל שונא גזל בעולה. לתת לו לחם ושמלה. ולשלם לרשע כרשעתו.
+        <lb/>
+
+        ולעשה הרע כרעתו. אזי יוסיף הישר יושר על ישרו. וישוב המרד והקושר מקשרו.
+      </p>
+
+      <p n="Punishment In Here Is Better Than In Hereafter">
+        וטוב לך שתשולם ברגע קטון בארץ. משתשולם מחר עד לעולם בכלה ובקרץ.
+      </p>
+
+      <p n="Judge Enjoins Dimna to Confess">
+        על כן הודה עוניך. ותן נא כבוד לקניך.
+      </p>
+
+      <p n="Confessing Crime Has Good Consequences">
+        והמודה עונו בעולם הזה נסלח. להציל
+        <lb/>
+
+        נפשו מני שחת וחייתו מעבור בשלח. ולמה זה תכחש בכל נתעב ונאלח. והוא לא
+        <lb/>
+
+        תצלח. ואיך קולך בתוכחת תשא. בגוי אשר צדקה עשה.
+      </p>
+
+      <p n="Dimna Agrees with Judge's Rationale">
+        ויאמר דמנה אדוני השופט
+        <lb/>
+
+        דברת כפי חכמתך. בצדק כל אמרתיך.
+      </p>
+
+      <p n="One Must Not Sacrifice Hereafter for Here">
+        חייך וחי נפשך. כי הצדיק אשר לא ימכור
+        <lb/>
+
+        מחרתו ביומו. לא יחליף תומו במומו. אשר לא יפתוהו עולם כולה. ושנאן גולה.
+        <lb/>
+
+        ודבש מר. וריח נמר. ושנים משונים. וחיים מעונים.
+      </p>
+
+      <p n="Dimna Did Not Commit This Great Sin">
+        ואני בר בכל מפעלי. חף אנכי
+        <lb/>
+
+        ולא עון לי. ואיך אעיד עלי ואעמום על גבי. אשר לא צויתי ולא עלה על לבי.
+        <lb/>
+
+        ואיך אשקור לנפשי ואפשע. אין אדם משים עצמו רשע. וחלילה לכל איש לענות
+        <lb/>
+
+        שקר בעמיתו. אף כי יענה שקר בנפשו ובגויתו. האעיד על נפשי מעשים אשר לא
+        <lb/>
+
+        עשיתי. לא אוכל ללכת באלה כי לא נסיתי.
+      </p>
+
+      <p n="A Judge Must Not Pass Verdict Based on Uncertain Thoughts">
+        אדוני השופט דבר אדם אל יטך.
+        <lb/>
+
+        למען תזכה בשפטך. ואל תשפטוני בעדות דבר השפתים. להשמעות אזנים. פן
+        <lb/>
+
+        יקרכם אשר קרה למדבר בלי דעת. כי לשמועה נשמעת.
+      </p>
+
+      <p n="Head of Court Requests Tale">
+        ויאמר שר הצבא והשופט
+        <lb/>
+
+        איכה היה הדבר.
+      </p>
+
+      <p n="Marzuban Had Wife and Servant">
+        ויאמר דמנה אמרו כי היה בארץ מרואת איש ולו אשה יפה ונאמנת.
+      </p>
+
+      <p n="Falconer Accosted Wife and Is Rejected">
+        ולו עבד
+        <lb/>
+
+        צייד אוהב לשכב אתה והיא ממאנת.
+      </p>
+
+      <p n="Falconer Decides to Take Revenge">
+        ויבקש עליה דברים שקרים. ושם לה עלילות
+        <lb/>
+
+        דברים.
+      </p>
+
+      <p n="Falconer Teaches Parrots False Accusation in Foreign Tongue">
+        ויהי היום ויצא לצוד ויקרה לו קן ושם שני בני שממית. ויעש להם קן
+        <lb/>
+
+        בביתו וילמדם לדבר דבר תרמית. למד האחד לדבר ראיתי השוער שוכב עם
+        <lb/>
+
+        גברתי. וילמד האחר לדבר אני לא אומר מום במקום שבתי. וילמדם אלו הדברים
+        <lb/>
+
+        בלשון הבלכים. כמעשה איש תככים. ולא היו אנשי המדינה יודעים הלשון
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

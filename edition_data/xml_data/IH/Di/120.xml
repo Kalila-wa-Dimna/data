@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="120"/>
+
+      <p n="Judge Orders Leopard and Judge to Return Dimna Before Court">
+        |وأصبحَ القومُ فقال الأَسَدُ ### عودوا عسى اليومَ نرى مَن يَشْهَدُ
+      </p>
+
+      <p n="Lion Reads Court Records to Mother">
+        |ثمّ أتتُهُ أمُّهُ فشَرَحا ### لها الذي كانَ لهُ قد أُوضِحا
+      </p>
+
+      <p n="Mother Alerts Lion of His Own Benefit and Motivates Her Harsh Words">
+        |فغضِبتْ منه وقالت دمنَهْ ### بكيدِهِ ألقاكَ في ذي المِحنَهْ
+        <lb/>
+
+        |وهو يراكَ عاجِزًا ضعيفا ### لا تهتدي لمذهبٍ سَخيفا
+        <lb/>
+
+        |وخرجتْ مِن عندِهِ
+      </p>
+
+      <p n="Ruzbeh Reports Mother's Words to Dimna">
+        فمرّا ### جاسوسُهُ يشرَحُ ذاكَ الأَمْرا
+      </p>
+
+      <p n="Men Take Dimna Before Court">
+        |وأحضروهُ فأتى الجماعَهْ ### فقال كم مِن حِكمةٍ مُضاعَهْ
+      </p>
+
+      <p n="Head of Court Deems Extant Facts Sufficient">
+        |قال لهُ عظيمُهُمْ قد صحَّ لي ### ما جئتَهُ مِن مُعجِباتِ الحِيَلِ
+        <lb/>
+
+        |وصحَّ عندَ المَلِكِ المطاعِ ### أنّكَ ذو مكرٍ وذو خِداعِ
+        <lb/>
+
+        |ولا يشكُّ في جميعِ أمرِكا ### ولا بما جَرَرْتَهُ بمَكْرِكا
+      </p>
+
+      <p n="King's Mercy Permitted Investigation Despite Convincing Testimony">
+        |لكنّهُ قد آثرَ التشبُّثا ### كيْ لا يقولُ قائلٌ قد عَنَتا
+      </p>
+
+      <p n="Dimna Accuses Head of Court of Ignoring Facts">
+        |قال له دمنةُ إنّ منطِقَكْ ### لمُظهِرٌ للحاضرينَ خُلُقَكْ
+        <lb/>
+
+        |أنّك فظٌٌّ ليس فيكَ رافَهْ ### فأنتَ حقًّا مِحنةٌ وآفَهْ
+        <lb/>
+
+        |تريدُ قتلي لعِبًا وجَهْلا ### ولا تريدُ للصلاحِ فِعْلا
+      </p>
+
+      <p n="Vile People Dislike Good People">
+        |وأنتَ معذورٌ لأنّ الجاهِلا ### ُيبغِضُ بالطبعِ الكريمَ العاقِلا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

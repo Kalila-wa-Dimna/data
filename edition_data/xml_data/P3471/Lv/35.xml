@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="35"/>
+
+      <p n="Burzoy Hides Mission From Friend">
+        الأمر الذي هو بغيته
+      </p>
+
+      <p n="Burzoy Vets Friend">
+        وكان يبلوه ويجرّبه باللطف وينظر
+        <lb/>
+
+        هل يراه موضعًا أن يطلعه على سرّه يبحث على ذلك مدّته حتّى وثق
+        <lb/>
+
+        به وعرفه وعلم أنّه لما استودع من السرّ موضع ولما يطلب محتمل
+        <lb/>
+
+        وبما سُئل مسعفًا وفيما استعين به عليه مجتهدًا
+      </p>
+
+      <p n="Burzoy Lavishes Gift On Friend">
+        فازداد له اسعافًا
+        <lb/>
+
+        وإلطافًا وكان إلى ذلك اليوم الذي رجا فيه أن يكون قد ظفر بحاجته
+        <lb/>
+
+        وقد أعظم النفقة مع طول الغيبة وفي إلطاف الإخوان ومجالستهم
+        <lb/>
+
+        على الطعام والشراب لطلب الثقاة منهم لحاجته
+      </p>
+
+      <p n="Burzoy Opens Up To Friend">
+        فلم يطمئنّ إلى أحد
+        <lb/>
+
+        ممّن آخى إلّا إلى صديقه الذي ذكرنا
+      </p>
+
+      <p n="Process Of Vetting Friend">
+        فأمّا ما كلّم به برزويه صديقه
+        <lb/>
+
+        وردّه عليه وكيف فتّش برزويه عقله حتّى وثق به فأكثر من أن
+        <lb/>
+
+        يحصيه كتابة
+      </p>
+
+      <p n="Burzoy Trusts Friend">
+        فلمّا علم ما عنده وصحّت طويّته له
+      </p>
+
+      <p n="Burzoy Hints At Secret">
+        قال له برزويه يومًا
+        <lb/>
+
+        وهما خاليان يا أخي ما أحبّ أن أكتمك من امري شيئًا أكثر ممّا قد كتمتك
+        <lb/>
+
+        وقد تحققّت أنّي لك آمن ما حيّيت والأمر غير ما ظهر لك ولغيرك
+        <lb/>
+
+        منّي
+      </p>
+
+      <p n="Signs Suffice For The Intelligent">
+        والعاقل يكتفي من صاحبه بالعلامات في نظره وإشارة بيده
+        <lb/>
+
+        فيعلم من نفسه وما ينطوي عليه قلبه ويُضمره
+      </p>
+
+      <p n="Friend Aware Of Burzoys Secret">
+        قال له الهندي إنّي
+        <lb/>
+
+        وإن لم أكن بسرّك عارفًا وأخبرتك بما له جئت وإيّاه طلبت
+        <lb/>
+
+        وأنت مظهر غيره فإنّ ذلك لم يكن عنّي مخفيّ فاعلم ذلك
+      </p>
+
+      <p n="Friend Shuns Confrontation">
+        ولكنّي لرغبتي
+        <lb/>
+
+        في إخائك كرهت أن أواجهك بأنّ قد ظهر لي ما تكتم وبان ما أنت له
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

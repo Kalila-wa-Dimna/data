@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="136"/>
+
+      <p n="unassigned">
+        عليه الغراب توهّم عجز الغراب الظبي وتخلّيه فترك قوسه
+        <lb/>
+
+        والسلحفاة وطلبه فدنا الجرذ من السلحفاة وقطع وثاقها
+        <lb/>
+
+        ونجت وقرض وتر القوس فقطعه فحين عاين الظبي قرب
+        <lb/>
+
+        الصيّاد فرّ هاربًا وطار الغراب ورجع الصيّاد
+        <lb/>
+
+        خائبًا فوجد وتره مقطوعًا وقد تخلّصت السلحفاة فاستوحش
+        <lb/>
+
+        من تلك الأرض وأسرع الخروج منها وقال هذه أرض السحرة
+        <lb/>
+
+        فلا أعود أقربها واجتمع الغراب والظبي والجرذ والسلحفاة وهنوّا
+        <lb/>
+
+        بعضهم بعضًا بالسلامة على التخليص من الهلكة بمودّة بدءوا
+        <lb/>
+
+        بها واجتماع كلمة وقفوا عندها وجمع قلوبهم على الموافقة والا
+        <lb/>
+
+        والاستمتاع بعضهم البعض فلا نسأل الذي قد أُعطي
+        <lb/>
+
+        العقل والقوّة والهمّة والفكرة والمعرفة بالأمور هو أولى
+        <lb/>
+
+        بتواصل الإخوان ومصافاتهم وموافاتهم وأحرى أن يلتمس من
+        <lb/>
+
+        ما هو أعظم من ذلك
+      </p>
+
+      <p n="Chapter Title">
+        الباب السادس باب البوم والغراب والغربان
+      </p>
+
+      <p n="The King Understood Previous Chapter">
+        قال الملك للفيلسوف قد سمعت مثل الإخوان وتعاونهم
+        <lb/>
+
+        ووفاء بعضهم لبعض
+      </p>
+
+      <p n="The King Asks about Fawning Foes">
+        فاضربْ لي مثل العدوّ الذي لا ينبغي
+        <lb/>
+
+        أن تغترّ به وإن أبدى تملّقًا وتضرّعًا
+      </p>
+
+      <p n="The Parable of the Owls and the Crows">
+        قال الفيلسوف
+        <lb/>
+
+        من اغترّ بالعدوّ ووثق به ربّما يبديه من التضرّع والخداع
+        <lb/>
+
+        أصابه ما أصاب البوم والغراب
+      </p>
+
+      <p n="The King Requests the Parable">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="The Crow Kingdom and the Owl Kingdom">
+        قال زعموا أنّه كان في بعض الجبال شجرة عظيمة وكان فيها
+        <lb/>
+
+        وكرًا لغراب كان معظّمًا في الغربان وملكًا على جنسه وكان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Rd</chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

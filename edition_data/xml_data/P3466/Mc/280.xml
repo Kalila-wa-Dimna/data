@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="280"/>
+
+      <p n="The King Requests the Full Parable">
+        قال الملك وكيف كان ذلك قال الفيلسوف
+      </p>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        زعموا أنّه
+        <lb/>
+
+        كان بمكان كذا وكذا شجرة من اليبروط عظيمة وكان في أصلها
+        <lb/>
+
+        حجر جرذ يُسمّى فيروز وكان بالقرب من ذلك المكان مكان
+        <lb/>
+
+        لسنّور يُقال له روميّ
+      </p>
+
+      <p n="The Cat Is Caught">
+        وكان الصيادون ربّما التمسوا صيد
+        <lb/>
+
+        الوحوش والطير قرب تلك الشجرة وأنّ صيّادًا نصب حبائلًا له
+        <lb/>
+
+        ذات يوم فوقع فيها السنّور
+      </p>
+
+      <p n="The Rat Seeks Food">
+        وخرج الجرذ يدبّ ليبتغي ما يأكل
+        <lb/>
+
+        وهو مع ذلك حذر يتلفت وينظر فلمّا رأي السنّور مقتنصًا
+        <lb/>
+
+        في الحبائل فرح بذلك
+      </p>
+
+      <p n="Foes Surround the Rat">
+        ثمّ التفت خلفه فأبصر ابن عرس
+        <lb/>
+
+        قد تبعه وكمن له ونظر فوقه فإذا بومة في الشجرة ترصده
+        <lb/>
+
+        فخاف إن انصرف راجعًا أن يثب عليه ابن عرس وإن ذهَب
+        <lb/>
+
+        يمينًا وشمالًا أن تخطفه البومة وإن هو تقدّم أمامه أكله
+        <lb/>
+
+        السنّور
+      </p>
+
+      <p n="The Rat Weighs His Predicament">
+        فقال هذه بلايا قد اكتنفتني وشرور قد تظاهرت عليّ
+        <lb/>
+
+        ولا مفرغ لي إلاّ عقلي وحيلتي وليس ينبغي أن يغلب عليّ الدهش
+        <lb/>
+
+        ولا يذهب عقلي شعاعًا
+      </p>
+
+      <p n="The Intelligent Always Keeps Alert">
+        فإنّ العاقل لا يتفرّق عليه رأيه ولا يغرب
+        <lb/>
+
+        عنه عقله على حال
+      </p>
+
+      <p n="Intelligence Is Like the Sea">
+        وإنّما عقول ذوي العقول كالبحر
+        <lb/>
+
+        الذى لا يُدرك غوره
+      </p>
+
+      <p n="Situations Do Not Blind the Intelligent">
+        ولا يبلغ البلاء من ذي الرأي مجهوده فيهلكه
+        <lb/>
+
+        ولا الرجاء ينبغي له أن يبلغ منه مبلغًا ينظره ويسكره ويعمي عليه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

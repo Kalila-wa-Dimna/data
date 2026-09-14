@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="158"/>
+
+      <p n="Quack Confuses Drug with Poison">
+        فأخذ في جملة ما أخذ منها صرّة فيها سمّ قاتل لوقته وخلطه في الأدوية
+        <lb/>
+
+        ولا علم له به ولا معرفة بجنسه
+      </p>
+
+      <p n="Quack Poisons Princess">
+        فلمّا تمّت أخلاط الأدوية سقى الجارية منه
+        <lb/>
+
+        فماتت لوقتها
+      </p>
+
+      <p n="King Has Quack Drink the Poison Too">
+        فلمّا عرف الملك ذلك دعا بذلك السفيه فسقاه من ذلك
+        <lb/>
+
+        الدواء فمات من ساعته
+      </p>
+
+      <p n="Acting upon Suspicion is Wrong">
+        وإنّما ضربت لكم هذا المثل لتعلمون ما يدخل
+        <lb/>
+
+        على القائل والعالم من الزلّة في الشبهة والخروج عن الحدّ
+      </p>
+
+      <p n="Dimna Interprets the Tale">
+        فمن خرج منكم
+        <lb/>
+
+        عن حدّه أصابه ما أصاب ذلك الجاهل ونفسه الملومة وقد قالت العلماء
+        <lb/>
+
+        ربّما جُزى المتكلّم بقوله والكلام بين أيديكم فانظروا لأنفسكم
+      </p>
+
+      <p n="Prominent Courtier/Head of Court Suggests Physiognomy">
+        فتكلّم
+        <lb/>
+
+        سيّد الخنازير لإدلاله وتيهه بمنزلته عند الأسد فقال يا أهل الشرف
+        <lb/>
+
+        من العلماء اسمعوا مقالتي وعوا بأحلامكم كلامي
+      </p>
+
+      <p n="Bodily Marks Are Proof of Character">
+        فالعلماء قالوا
+        <lb/>
+
+        في معنى الصالحين أنّهم يعرفون بسيماهم وأنتم معاشر ذوي
+        <lb/>
+
+        ذوي الأقدار بحسن صنع الله لكم وتمام نعمته لديكم تعرفون الصالحين بسيماهم
+        <lb/>
+
+        وصوّرهم وتخبرون الشئ الكبير بالشئ الصغير
+      </p>
+
+      <p n="Dimna’s Character is Visible in His Body">
+        وهاهنا أشياء كثيرة
+        <lb/>
+
+        تدلّ على هذا الشقيّ دمنة وتخبر عن شرّه فاطلبوها على ظاهر جسمه وباطنه
+        <lb/>
+
+        لتستيقنوا وتسكنوا إلى ذلك
+      </p>
+
+      <p n="Judge/Investigator/Audience Request Physiognomical Evaluation">
+        قال القاضي لسيّد الخنازير قد علمت
+        <lb/>
+
+        وعلم الجماعة الحاضرون أنّك عارف بما في الصور من علامات السوء ففسّر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

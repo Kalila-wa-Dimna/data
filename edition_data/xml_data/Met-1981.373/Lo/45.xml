@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="45"/>
+
+      <p n="Dimna's Explanation of Gaining Favor">
+        قد كانوا وليست تلك حالتهم عندهم فتقرّبوا بعد البعد عنهم وتدنّوا منهم
+        <lb/>
+
+        بعد النأي منهم
+      </p>
+
+      <p n="Dimna's Determination to Succeed">
+        وأنا ملتمس مثل ذلك وطالب بلوغه
+      </p>
+
+      <p n="Kalila's Warning about Dangers of Serving Rulers">
+        وقد قيل لا يواظب
+        <lb/>
+
+        أحد على باب السلطان طارحًا عنه الأنفة يكظم الغيظ ويترفّق بنفسه إلّا وصل إلى
+        <lb/>
+
+        مراده
+      </p>
+
+      <p n="Dimna will Make the Lion See His Benefit">
+        ولو دنوت من الأسد وعرفت أخلاقه تلطّفت في متابعته فإذا أراد أن
+        <lb/>
+
+        يفعل صوابًا زيّنته له حتّى يعمل به
+      </p>
+
+      <p n="Dimna will Make the Lion See His Harm">
+        وإذا همّ بما فيه مضرّته بيّنته له وراجعته
+        <lb/>
+
+        عنه حتّى أنال منه ما لم ينلهْ غيري من قربه
+      </p>
+
+      <p n="Clever Speech Can Twist the Truth">
+        فإنّ الرجل الأديب لو شاء أن يبطل
+        <lb/>
+
+        الحقّ ويحقّ الباطل فعل
+      </p>
+
+      <p n="Analogy of Skilled Painter's Illusions">
+        كالمصوّر الماهر الذي يصوّر التماثيل في الحائط كأنّها
+        <lb/>
+
+        داخلة فيه وليست بداخلة ويصور أخرى كأنّها خارجة عنه وليست بخارجة
+      </p>
+
+      <p n="Dimna's Expectation of the Lion's Response">
+        فإذا رأى منّي ذلك التمس إكرامي وتقريبي إليه وحظيت عنده ولديه
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

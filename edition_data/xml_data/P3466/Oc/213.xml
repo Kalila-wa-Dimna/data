@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="213"/>
+
+      <p n="Carpenter Waits Till Wife Awakens">
+        عنها
+      </p>
+
+      <p n="Carpenter Forgives Wife">
+        حتّى إذا انتبهت قال لها نامي يا حبيبة نفسي فإنّك بتّ
+        <lb/>
+
+        ساهرة ولولا كراهة ما ساءك لكان بيني وبين ذلك الرجل صخب
+        <lb/>
+
+        شديد ولكنّي أكرمك لما أعرف منك وأنّي أحبّ الناس إليك
+      </p>
+
+      <p n="Carpenters Story Motivation">
+        وإنّما ضربت لكم هذا المثل لئلّا تكونوا كالنجار الذي كذّب بما
+        <lb/>
+
+        أبصر وصدّق بما سمع من امرأته
+      </p>
+
+      <p n="Suspect A Fawning Foe">
+        فلا تصدّقنّ هذا الغراب واعلموا
+        <lb/>
+
+        أنّ كثيرًا من العدوّ لا يقدر على ضرّ عدوّه بالمباعدة حتّى يلتمسه بالمقاربة
+      </p>
+
+      <p n="Objector Became Fearful Of Crows">
+        وإنّي لم أخفْ الغراب قطّ حتّى رأيت هذا الغراب وسمعت مقالتكم
+        <lb/>
+
+        فيه
+      </p>
+
+      <p n="King O Ignores Objector">
+        فلم يلتفتْ ملك البوم إليه
+      </p>
+
+      <p n="Spy Well Accommodated">
+        وأمر بالغراب أن يُحمل إلى منازل
+        <lb/>
+
+        البوم ويُكرم ويُستوصى به خيرًا
+      </p>
+
+      <p n="Advice Mistrust Spy">
+        قال البوم الذي أشار بقتله
+        <lb/>
+
+        إن لم تقتلوا هذا الغراب فليكنْ بمنزلة العدوّ المخوف فإنّ الغراب
+        <lb/>
+
+        ذو مكر ولا أراه جاء هاهنا إلّا لما يصلحه ويفسد أمرنا فلم
+      </p>
+
+      <p n="Everyone Trusts Spy">
+        يرفعْ
+        <lb/>
+
+        الملك بقوله رأسًا ولم يمتنعْ الملك من إكرام الغراب والإحسان
+        <lb/>
+
+        إليه
+      </p>
+
+      <p n="Spy Charms By Eloquence">
+        وجعل الغراب يكلّمه إذا دخل عليه ويكلّم البوم إذا خلا
+        <lb/>
+
+        بهنّ كلامًا رفيقًا ليزددن به في كلّ يوم ثقة وإليه استرسالًا
+        <lb/>
+
+        وله تصديقًا
+      </p>
+
+      <p n="unassigned">
+        ثمّ إنّه قال يومًا وعنده جماعة من البوم فيهنّ البوم
+        <lb/>
+
+        الذي كان يشير بقتله ليبلّغ بعضكم عنّي الملك أنّ الغربان
+        <lb/>
+
+        قد وترنني وترة عظيمة بما عذّبنني وفضحنني ولن يستريح قلبي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="50"/>
+
+      <p n="Invocation For Kisras Elevation">
+        تفوق به على جميع الملوك وبلّغك أفضل المنازل من كرامة الآخرة
+        <lb/>
+
+        مع الصالحين المستوجبين لجنّات النعيم
+      </p>
+
+      <p n="Buzurgmihr Rejoices">
+        وأمّا بزرجمهر فإنّه
+        <lb/>
+
+        سُرّ بذلك بمخاطبة الملك سرورًا عظيمًا
+      </p>
+
+      <p n="Invocation For Kisras Renown">
+        وقال إنّ الملك أدام
+        <lb/>
+
+        الله سروره بنيل المراد وشمل بعدله الرعايا والعباد ونشر
+        <lb/>
+
+        حسن سيرته في سائر البلاد وألهج ألسنة العالم بالدعاء
+        <lb/>
+
+        له في كلّ ناد من حاضر وباد وبعد
+      </p>
+
+      <p n="Buzurgmihrs Zeal For Task">
+        فقد شرّفني الملك
+        <lb/>
+
+        شرفًا باقيًا إلى الأبد وإنّي ممتثل لما أمر به مجتهدًا في المبالغة
+        <lb/>
+
+        فيه مشمّر عن ساق الجدّ والاجتهاد غير مقصّر في ذلك
+      </p>
+
+      <p n="Burzoy Buzurgmihr Exit">
+        ثمّ
+        <lb/>
+
+        وعده ووقّت له وقت الفراغ منه وخرج برزوية وبزرجمهر
+        <lb/>
+
+        من عند الملك منصرفين إلى منازلهما
+      </p>
+
+      <p n="Buzurgmihr Begins Composition">
+        وشرع بزرجمهر في
+        <lb/>
+
+        تأليف ذلك وترتيبه
+      </p>
+
+      <p n="Contents Of Bu Chapter">
+        ووصف برزوية من أوّل أمره من مبتدأ
+        <lb/>
+
+        مولده واشتغاله بالعلوم إلى آخر أمره على أحسن نظام وألطف
+        <lb/>
+
+        تأليف وأبلغ وصف وأبدع تصريف
+      </p>
+
+      <p n="Buzurgmihr Omits Nothing">
+        ولم يدع من تا ترجمته شيئًا
+        <lb/>
+
+        إلّا وجمعه في ذلك
+      </p>
+
+      <p n="Chapter Read Publicly">
+        ولمّا أن فرغ منه أعلم الملك بذلك فجمع الحكماء والعلماء
+        <lb/>
+
+        والوزراء والأكابر والقوّاد وخواصّ المملكة وأهل المناصب وجلس
+        <lb/>
+
+        في دست مملكته لهم جلوسًا ظاهرًا وأمر بزرجمهر يقرأ الكتاب
+        <lb/>
+
+        وبرزوية إلى جانب بزرجمهر فابتدأ بقراءة ترجمته في برزوية
+        <lb/>
+
+        إلى آخره
+      </p>
+
+      <p n="Bu Chapter Well Received">
+        فسرّ الملك بذلك وتعجّب من بحضرته من بلاغته وعجائب
+        <lb/>
+
+        حكمته وأثنوا عليه خيرًا وشكروا له ترجمته في برزوية ومداحه
+        <lb/>
+
+        إيّاه من غير كذب ولا ادّعاء باطل
+      </p>
+
+      <p n="Kisra Rewards Buzrgmihr">
+        وأفاض عليهما الملك من ملابس
+        <lb/>
+
+        بس الملك خلعًا فاخرة ورفع منزلتهما لديه وقرّبهما إليه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

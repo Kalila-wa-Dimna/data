@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="294"/>
+
+      <p n="The Cat Calls Back the Rat">
+        البلاء الحسن المنعم عليّ
+      </p>
+
+      <p n="The Cat Reminds the Rat of their Friendship">
+        ما يمنعك من الدنوّ منّي لأجزيك بأحسن
+        <lb/>
+
+        ما أبليتني وأطعمك ثمرة عملك فادن منّي ولا تخف فما نفسي بأعزّ
+        <lb/>
+
+        عليّ من نفسك فهلمّ إليّ ولا تقطع إخائي
+      </p>
+
+      <p n="If One Gives Up a Friend One Loses Out">
+        فإنّه من اتّخذ صديقًا
+        <lb/>
+
+        ثمّ أضاع ربّ إخائه وصداقته حُرم ثمرة الإخاء وأيس من نفعة
+        <lb/>
+
+        الإخوان ولم يطمئنّ إليه أهل مودّته
+      </p>
+
+      <p n="The Cat Suggests a Reward">
+        وإنّ يدك عندي اليد التي
+        <lb/>
+
+        لا تُنسى وإنّ والله أنت حقيق أن يلتمس مكأفأتي إيّاك بذلك
+        <lb/>
+
+        ومجازاة إخواني وأصدقائي لك به
+      </p>
+
+      <p n="The Cat Reassures the Rat">
+        فلا تخافنّ منّي شيئًا واعلم
+        <lb/>
+
+        أنّ ما في قلبي وعندي لك مبذول واجتهد على أن يصدّقه
+        <lb/>
+
+        بما قال وحلف له أن لا يبقه سوءًا
+      </p>
+
+      <p n="The Treatment of Friends or Foes">
+        قال الجرذ إنّ الذي لا يحسن
+        <lb/>
+
+        مداراة الأعداء والأصدقاء يضرّ نفسه ويهلكها والعداوة والصداقة
+        <lb/>
+
+        مواضع وأقدار ينبغي للعاقل أن يجري فيها على ما ينبغي منها
+      </p>
+
+      <p n="The Rat Distinguishes Hidden from Overt Enmity">
+        وربّ عداوة باطنة ظاهرها صداقة هي أشدّ من العداوة
+        <lb/>
+
+        الظاهرة
+      </p>
+
+      <p n="Riding an Elephant's Tusk">
+        ومن لم يحترس منها وقع فيها موقع الرجل الذي
+        <lb/>
+
+        ركب باب الفيل المغتلم ثمّ يغلبه النعاس
+      </p>
+
+      <p n="An Enemy Is Befriended in Times of Need">
+        وإنّما يُسمّى الصديق
+        <lb/>
+
+        صديقًا لما يُرجى من نفعه والعدوّ عدوًّا لما يُخاف من ضرّه فإنّ
+        <lb/>
+
+        العاقل إذا رجا نفع العدوّ وأبدى له الصداقة وإذا خاف
+        <lb/>
+
+        ضرّ الصديق أظهر له العداوة
+      </p>
+
+      <p n="One Should Not Befriend an Enemy Indefinitely">
+        ولا ينبغي للعاقل أن يؤاخي أخًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="182"/>
+
+      <p n="Accepting Oppression Aids Foes">
+        فإنّه يقال من رضى بالذلّ فقد وضع نفسه وأعان عدوّه عليها
+        <lb/>
+
+        وجعل ذلك ذريعة إليه
+      </p>
+
+      <p n="The Owls Would Overdemand">
+        مع أنّ البوم لا يرضين إلّا بالخراج الثقيل
+        <lb/>
+
+        الماقط الذي لا يقوى عليه
+      </p>
+
+      <p n="The Crows Should Be Wary and Prepared">
+        وينبغي لنا أن نكون على حذر وتأهّب
+        <lb/>
+
+        فإن هنّ أقبلن لقتالنا حاددناهنّ إيّاه وصبرنا لأمر الله فلعلّ الله
+        <lb/>
+
+        أن يظفّرنا بهنّ وينصرنا عليهنّ
+      </p>
+
+      <p n="The Crow King Asks the Fifth Crow, a Spy">
+        ثمّ قال للخامس ما ترى فيما
+        <lb/>
+
+        قال أصحابك
+      </p>
+
+      <p n="The Spy Rejects Fighting">
+        قال لم يقولوا شيئًا فإنّه ينبغي لنا أن لا ينصب للبوم
+        <lb/>
+
+        القتال ما وجدنا لغيره سبيلا لأنّهنّ أقوى عليه منّا
+      </p>
+
+      <p n="The Crows Should Not Overestimate Themselves">
+        وقد قيل
+        <lb/>
+
+        إنّ من لم يعرف قدر نفسه وقوله واغترّ لضعفه لقتاله للعدوّ القويّ به
+        <lb/>
+
+        فقد أراد هلكها والضرّ لها
+      </p>
+
+      <p n="The Crows Should Not Belittle the Enemy">
+        فليس أحد بحقيق أن يزدري عدوّه
+        <lb/>
+
+        وإن كان مهينًا
+      </p>
+
+      <p n="The Spy Makes a Suggestion">
+        ولكنّه يحقّ علينا أن نواعدهنّ فإنّا لو كنّا أقوى منهنّ
+        <lb/>
+
+        كان ينبغي لنا أن نفعل ذلك بهنّ حتّى نقدر على حاجتنا
+      </p>
+
+      <p n="Diplomacy Supersedes Force">
+        فإنّ المرأة الضعيفة
+        <lb/>
+
+        إذا لم يأخذها زوجها باللين والخديعة وأراد أخذها بالضرب والهوان
+        <lb/>
+
+        لم تستقرّ عنده ولم تعطف عليه
+      </p>
+
+      <p n="Fighting the Owls Is Fatal">
+        ولا أرى لنا قتال إلى البوم ولا إلى عوار بهنّ
+        <lb/>
+
+        فإنّ العدوّ القويّ وإن كان منّا بعيدًا فليس ينبغي لنا أن نغترّ إلى ذلك منه
+        <lb/>
+
+        وإن لم يقوى لقتالنا فلم يقدر على حذر ونضع أمره على المكايدة بحذر أن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="7"/>
+
+      <p n="A Sighted and a Blind Fall into a Ditch">
+        بصير والآخر أعمى وقعا في جبّ وهلكا ولم ينجو الضرير من الهلكة لأنّه وقع في
+        <lb/>
+
+        البئر ولم يبصرها فكان معذورًا لأنّه فرقًا ظاهرًا بين حال الضرير والبصير
+      </p>
+
+      <p n="The Sighted Man Has No Excuse">
+        فلذلك
+        <lb/>
+
+        لا يُقام العذر لا على البصير في هلاكهما جميعًا في البئر وكان عند العقلاء وأهل
+        <lb/>
+
+        المعرفة أقلّ عذرًا من الضرير المحجوب الذي لا يعلم كيف يذهب
+      </p>
+
+      <p n="Scholar Must Discipline Himself">
+        ومن كان طلبه
+        <lb/>
+
+        العلم لغيره كي يُعلّمه ويعرّفه
+      </p>
+
+      <p n="Water-Spring Benefits Only Others">
+        فإنّما هو بمنزلة العين الجارية التي ينتفع
+        <lb/>
+
+        الناس بمائها وليس له من المنفعة بها شيئًا
+      </p>
+
+      <p n="Instructing Oneself Comes First">
+        فيجب على من طلب العلم
+        <lb/>
+
+        أن يبدأ أولًا ببعضه على نفسه ثم عليه بعد ذلك أن يقتبسه لغيره
+        <lb/>
+
+        ويعلّمه لمن سواه
+      </p>
+
+      <p n="Three Things Are Needed for Worldly Life">
+        فيصلح لصاحب الدنيا أن يجتمع له ثلاثة أشياء منها
+        <lb/>
+
+        العلم والمال واتّخاذ المعروف عند الناس
+      </p>
+
+      <p n="Things Should Not Pursued without Premeditation">
+        فقد قيل إنّه لا يجوز لصاحب
+        <lb/>
+
+        الدنيا أن يطلب أمرًا ويتعب نفسه فيها وليس له منه منفعة
+      </p>
+
+      <p n="Some Readers Err in This">
+        وقد نرى بعض
+        <lb/>
+
+        يقف على هذا الكتاب ويقرأه ويجهد فيه نفسه وقد ترك العمل به والتدبّر
+        <lb/>
+
+        لمعانيه
+      </p>
+
+      <p n="The Passive Reader Is Like a Blind">
+        فإذا هو كالأعمى الذي غلب عليه الحيرة فلا ينبغي لمن عقل أن يطلب أمرًا
+        <lb/>
+
+        فيه مضرّة لصاحبه وهو يتحقّق أن القادر مأخوذ بقدره
+      </p>
+
+      <p n="A Merchant Steals from His Partner">
+        ومن فعل ذلك
+        <lb/>
+
+        كان حقيقًا أن يصيبه ما أصاب صاحب السمسم الذي بلغني عنه أنّه كان رجلًا يبيع
+        <lb/>
+
+        السمسم وكان له شريك وكان سمسمهما في بيت واحد غير أنّ سمسم كلّ واحد منهما ناحية
+      </p>
+
+      <p n="The Merchant Devises a Plot">
+        فأحبّ أحدهما أن يذهب بما لشريكه من السمسم فجعل له علامة حتّى إذا جاء الليل عرفه
+      </p>
+
+      <p n="The Merchant Executes the Plot">
+        فعمل إلى ردائه فغطّاه به ثم انطلق إلى صديق له وأخبره بالذي همّ به من ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

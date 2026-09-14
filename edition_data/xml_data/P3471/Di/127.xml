@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="127"/>
+
+      <p n="A Merchant's Wife Had a Lover">
+        مصوّرٌ وكان المصوّر قد عَلِق امرأة التاجر
+      </p>
+
+      <p n="Woman Asks Lover to Create a Sign">
+        فلمّا كان ذات يومٍ قالت المرأة
+        <lb/>
+
+        لصديقها هل تقدر على أن تصنع شيئًا إذا جئت من الليل أعرف به مجيئك
+        <lb/>
+
+        فأخرج إليك من غير أن نصوّت
+      </p>
+
+      <p n="Painter Suggests Black-and-White Coat to Woman">
+        قال نعم أصنع ملائة ببياضٍ وسوادٍ بياضها
+        <lb/>
+
+        كبياض القمر وسوادها كسواد الحدقة فإذا رأيتي الملائة فاخرجي فإنّها
+        <lb/>
+
+        علامةٌ ما بيني وبينك فأعجب ذلك المرأة
+      </p>
+
+      <p n="The Woman's Servant Hears About Coat">
+        وسمع عبدها كلامها
+      </p>
+
+      <p n="Woman's Servant Borrows Coat In Painter's Absence">
+        فلمّا كان بعد
+        <lb/>
+
+        أيّامٍ انطلق المصوّر إلى دار الملك ليعمل فيها وانطلق العبد إلى وليدة المصوّر
+        <lb/>
+
+        وكان لها مُلاطفًا فاستعار الملاءة
+      </p>
+
+      <p n="Servant Tricks Woman">
+        فلبسها وانطلق إلى سيّدته ليلًا فلمّا رأت
+        <lb/>
+
+        الملاءة ظنّت ولم تشكّ أنّه المصوّر فأمكنته من نفسها ثمّ ردّ الملاءة
+      </p>
+
+      <p n="Lover Realizes She Was Tricked">
+        وأتى
+        <lb/>
+
+        المصوّر المرأة فلمّا رأتها قالت له ما لك الليلة أسرعت الكرّة بعد
+        <lb/>
+
+        حاجتك فلمّا سمع المصوّر ذلك منها عرف أنّه قد دُهي
+      </p>
+
+      <p n="The Lover's Servant Confesses">
+        فرجع إلى منزله
+        <lb/>
+
+        فأخذ وليدته فأوجعها ضربًا
+      </p>
+
+      <p n="Dimna Opposes Acting Upon Doubt">
+        وإنّما ضربت لك هذا المثل إرادةً أن لا
+        <lb/>
+
+        يعجل الملك في أمري بشبهةٍ
+      </p>
+
+      <p n="Dimna Denies Fear of Death">
+        ولست أقول هذا كراهةً للموت فإنّه وإن كان
+        <lb/>
+
+        كريهًا فلا منجى منه وكلّ حيٍّ ميّتٍ
+      </p>
+
+      <p n="Dimna Would Die for Lion">
+        ولو كانت لي مائة نفسٍ وأعلم أنّ
+        <lb/>
+
+        هوى الملك في تِلافهنّ طبت له بذلك نفسًا
+      </p>
+
+      <p n="First Speaker Accuses Dimna of Self-Interest">
+        فقال بعض الجند لم
+        <lb/>
+
+        ينطق بهذا الحبّ الملك ولكنّه لنفسه والتماس العذر
+      </p>
+
+      <p n="Dimna Claims Right to Self-Defense">
+        فقال له دمنة
+        <lb/>
+
+        ويلك وهل على امرئ في التماس العذر عيبٌ وهل أحدًا أقرب إلى الإنسان
+        <lb/>
+
+        من نفسه فإذا لم يلتمسْ لها العذر لمن يلتمس
+      </p>
+
+      <p n="Dimna Calls First Speaker Self-Hating">
+        لقد ظهر منك ما لم تملكْه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="142"/>
+
+      <p n="Falconer Accosted Wife and Is Rejected">
+        امرأة مولاه لما رأى عندها من الجمال فراودها عن نفسها وألحّ في ذلك
+        <lb/>
+
+        فامتنعت منه وأبت أن تتابعه وأعرضت عنه ولم تلتفت إليه
+      </p>
+
+      <p n="Falconer Decides to Take Revenge">
+        فأضمر في نفسه أن يفضحها عندما آيس منها وخاف من ناحيتها
+        <lb/>
+
+        وأجمع رأيه في الحيلة في ذلك
+      </p>
+
+      <p n="Falconer Teaches Parrots False Accusation in Foreign Tongue">
+        فخرج ذات يومٍ إلى الصيد فأصاب
+        <lb/>
+
+        فرخيّ ببّغاء فهيّأ لهما وكرًا وفرّق بينهما وجعل يُعلّم أحدهما يقول
+        <lb/>
+
+        إنّي رأيت البوّاب مضاجعًا مولاتي على فراش سيّدي وعلّم الآخر
+        <lb/>
+
+        أمّا أنا فلست قائلًا شيئًا وعلّمهما ذلك في سبعة أشهر بلسان البلخيّة
+        <lb/>
+
+        فحدقا تلك الكلمتين
+      </p>
+
+      <p n="Falconer Gives Parrots to Marzuban">
+        ثمّ ألطف بهما العبد مولاه فقبلهما منه مولاه
+        <lb/>
+
+        وسُرّ بهما وأعجبه كلامهما وحلاوة أصواتهما ولم يدر ما يقولان
+        <lb/>
+
+        أنّ كلاهما كان بالبلخيّة وكان الرجل مرزويًّا لم يفقه كلام أهل
+        <lb/>
+
+        بلخ وعوّض المولى عبده الكسوة الفاخرة والعطاء الحسن
+      </p>
+
+      <p n="Marzuban Gives Parrots to Wife">
+        ثمّ أمر امرأته
+        <lb/>
+
+        بالاحتفاظ بهما وحسن التعاهد لهما بما يصلحهما من الصلف
+        <lb/>
+
+        ففعلت المرأة ذلك فمكثا عندها شهرًا
+      </p>
+
+      <p n="Marzuban Hosts Foreign Guests">
+        ثمّ قدم الناس من عظماء أهل
+        <lb/>
+
+        بلخ على المرزويّ وكان بينهم مودّةً وإخاءً فأضافهم ووضع لهم
+        <lb/>
+
+        طعامًا وهيّأ لهم شرابًا فلمّا طعموا وشربوا أمر المرزويّ بالببغائتين
+        <lb/>
+
+        فأتى بهما ليعجبهم فيهما
+      </p>
+
+      <p n="Foreign Guests Understand Parrots">
+        فلمّا أتى بهما صاحتا بتلك الكلمتين
+        <lb/>
+
+        بذلك اللّسان الذي علمّهما البازيار فلمّا سمع البلخيّون ما يقولون
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

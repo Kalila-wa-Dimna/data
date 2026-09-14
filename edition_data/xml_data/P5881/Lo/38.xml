@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="38"/>
+
+      <p n="Analogy of Dog and Bone">
+        العظم اليابس فيفرح به
+      </p>
+
+      <p n="Contrast Between Ambitious and Content">
+        وأمّا أهل المروءة والفضل فلا يقنعون بذلك دون أن
+        <lb/>
+
+        يسموا إلى ما هم مستحقّين
+      </p>
+
+      <p n="Lion's Hunting Behavior Analogy">
+        كالأسد الذي يفترس الأرنب فإذا رأى العير تركها
+        <lb/>
+
+        وأخذه
+      </p>
+
+      <p n="Contrast Between Dog and Elephant Behavior">
+        أولًا ترى أنّ الكلب يبصبص بذنبه حتّى تلقى إليه اللقمة والفيل يعرف
+        <lb/>
+
+        قوّته وفضله فإذا قُدّم إليه علفه لم يأكله حتّى يتملّق بذنبه
+      </p>
+
+      <p n="Life Perspectives on Success and Failure">
+        فمن عاش وهو غير
+        <lb/>
+
+        خامل المنزلة ذا فضلٍ على نفسه وأصحابه فهو وإن قصر عمره طويل العمر ومن
+        <lb/>
+
+        كان في وحدة وضيق وقلّة خير على نفسه فهو وإن طال عمره قصير العمر
+      </p>
+
+      <p n="Definition of True Misery">
+        وقد قيل
+        <lb/>
+
+        إنّ البائس من طالت حياته في ضرّ ونكد وبؤس
+      </p>
+
+      <p n="Comparison to Animals">
+        وليُعدّ من البهائم من يكن همّته
+        <lb/>
+
+        بطنه وفرجه
+      </p>
+
+      <p n="Kalila's Advice on Contentment">
+        قال كليلة قد فهمت ما قلته فراجع عقلك واعلم أنّ لكلّ
+        <lb/>
+
+        إنسان منزلة وقدرًا فحقيق على الإنسان أن يقنع ويرضى
+      </p>
+
+      <p n="Dimna's View on Social Mobility">
+        قال دمنة إنّ المنازل
+        <lb/>
+
+        متنازعة مشتركة فذو المروءة ترفعه مروءته إلى المنزلة الرفيعة والذي لا مروءة
+        <lb/>
+
+        له تحطّ نفسه من المنزلة الرفيعة إلى المنزلة الرذيلة والارتفاع إلى الشرف شديد
+        <lb/>
+
+        والاتضّاع منه هيّن
+      </p>
+
+      <p n="Analogy of Lifting Heavy Objects">
+        كالحجر الثقيل الذي حمله على العاتق شديد وطرحه إلى الأرض
+        <lb/>
+
+        هيّن
+      </p>
+
+      <p n="Aspiration for Higher Status">
+        فنحن أحقّ أن نروم ما فوقنا ولا نقيم على حالتنا هذه
+      </p>
+
+      <p n="Ability to Change Circumstances">
+        ونحن نقدر على الانتقال
+        <lb/>
+
+        منها إلى غيرها
+      </p>
+
+      <p n="Kalila's Inquiry about Dimna's Plan">
+        قال كليلة فماذا الرأي الذي يجمع عليه
+      </p>
+
+      <p n="Dimna's Strategy to Approach the Lion">
+        فقال دمنة أريد أن أتعرّض
+        <lb/>
+
+        للأسد عند هذه الفرصة فإنّه ضعيف الرأي وقد التبس عليه وعلى جنده أمرهم
+        <lb/>
+
+        فلعلّي على هذه الحالة أدنو من الأسد فأصيب منه مكانًا وجاهًا
+      </p>
+
+      <p n="Kalila's Doubt about Lion's Confusion">
+        قال كليلة وما يدريك
+        <lb/>
+
+        أنّ الأسد قد التبس عليه أمره
+      </p>
+
+      <p n="Dimna's Confidence in His Judgment">
+        قال دمنة بالرأي والحسّ
+      </p>
+
+      <p n="Dimna's Confidence in Reading the Lion">
+        فإنّ الرجل ذو الرأي ربّما
+        <lb/>
+
+        عرف أمر صاحبه وسرّه وتعرّف باطن أمره بما يظهر له من هيئته وأمره وربّما عُرف ذلك
+        <lb/>
+
+        برأيه وشكله
+      </p>
+
+      <p n="Kalila Questioning Dimna's Assumptions">
+        قال له كليلة وما يدريك لعلّ ذلك غير ما وصفت
+      </p>
+
+      <p n="Dimna's Reliance on Intuition and Observation">
+        قال دمنة
+        <lb/>
+
+        بل عرفت ذلك بالرأي والظنّ
+      </p>
+
+      <p n="Dimna's Explanation of Reading People's Intentions">
+        فإنّ الرجل ذو النبل ربّما عرف حال صاحبه وغامض
+        <lb/>
+
+        أمره بما يظهر له ويراه من حاله وصنعه لعلّ ذلك أن يكون من قبل دلّه وشكله
+      </p>
+
+      <p n="Kalila Questioning Dimna's Proximity to the Lion">
+        قال كليلة
+        <lb/>
+
+        كيف ترقو المنزلة عند الأسد ولست صاحب سلطان وليس لك بخدمة الملوك وأدبهم
+        <lb/>
+
+        معرفة
+      </p>
+
+      <p n="Dimna's Explanation of Gaining Favor">
+        قال دمنة قد فهمت ما ذكرت وصدقت فيما قلت لكنّي أعلم أنّ الذي لهم المنازل
+        <lb/>
+
+        الحسنة عند السلطان وقد كانوا وليست تلك منزلتهم عنده يُقربون منه بعد التبعّد
+        <lb/>
+
+        عنهم دنوا البصر بعد النأي منهم
+      </p>
+
+      <p n="Dimna's Determination to Succeed">
+        فأنا ملتمس مثل ذلك
+      </p>
+
+      <p n="Kalila's Warning about Dangers of Serving Rulers">
+        وقد قيل لا يواظب على باب
+        <lb/>
+
+        السلطان إلّا ثقة فيتحمل الأذى ويكظم الغيظ ويرفق في أمره ويكتم سرّه إلّا حافظ إلى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

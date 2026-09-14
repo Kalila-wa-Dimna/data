@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="46"/>
+
+      <p n="Burzoys Effort In Translation">
+        وأنصب بدنه ليلًا نهارًا
+      </p>
+
+      <p n="Burzoy Translates Under Duress">
+        وهو مع ذلك وجل فزع من ملك
+        <lb/>
+
+        خائفًا على نفسه أن يذكر الكتاب في وقت فلا يصادفه
+        <lb/>
+
+        في خزانته
+      </p>
+
+      <p n="Burzoy Writes To Kisra">
+        فلمّا فرغ من انتساخ الكتاب وغيره ممّا أراد من
+        <lb/>
+
+        الكتب فكتب إلى أنوشروان أعلمه
+      </p>
+
+      <p n="Kisra Reads Letter">
+        فلمّا وصل إليه الكتاب
+        <lb/>
+
+        سرّ بذلك سرورًا شديدًا
+      </p>
+
+      <p n="Kisra Fears Fate">
+        ثمّ تخوّف معاجلة المقادير أن
+        <lb/>
+
+        أن تنفض عليه فرحه
+      </p>
+
+      <p n="Kisra Calls Burzoy Back">
+        فكتب إلى برزويه يأمره بتعجيل القدوم
+      </p>
+
+      <p n="Burzoy Returns To Persia">
+        فسار برزويه متوجهًّا نحو كسرى
+      </p>
+
+      <p n="Burzoys Exhaustion Shows">
+        فلما رأى الملك ما قد مسّه من
+        <lb/>
+
+        الشحوب والتعب والنصب
+      </p>
+
+      <p n="Kisra Announces Reward">
+        قال له أيّها العبد الناصح الذي
+        <lb/>
+
+        يأكل ثمرة ما قد غرس أبشر وقرّ عينًا فإنّي مشرّفك وبالغ بك
+        <lb/>
+
+        أفضل درجة
+      </p>
+
+      <p n="Kisra Orders Rest">
+        وأمره أن يريح بدنه سبعة أيّام
+      </p>
+
+      <p n="Kisra Holds K D Public Reading">
+        فلمّا كان اليوم
+        <lb/>
+
+        السابع أمر الملك أن تجتمع إليه الأمراء والعلماء فلمّا اجتمعوا
+        <lb/>
+
+        أمر برزويه بالحضور فحضر ومعه الكتب ففتحها وقرأها على من حضر من
+        <lb/>
+
+        أهل المملكة
+      </p>
+
+      <p n="K D Well Received">
+        فلمّا سمعوا ما فيها من العلم فرحوا فرحًا شديدًا وشكروا الله
+        <lb/>
+
+        على ما رزقهم ومدحوا برزويه وأثنوا عليه
+      </p>
+
+      <p n="Kisra Opens Treasury">
+        وأمر الملك أن تفتح
+        <lb/>
+
+        لبرزويه خزائن اللؤلؤ والزبرجد والياقوت والذهب
+        <lb/>
+
+        والفضة
+      </p>
+
+      <p n="Kisra Urges Burzoy To Take Gifts">
+        وأمره أن يأخذ من الخزائن ما شاء من مال أو
+        <lb/>
+
+        كسوة
+      </p>
+
+      <p n="Kisra Offers Burzoy Regency">
+        وقال يا برزويه إني قد أمرت أن تجلس على مثل
+        <lb/>
+
+        سريري هذا وتلبس تاجًا وتترأّس على جميع الأشراف
+      </p>
+
+      <p n="Burzoy Praises Kisra">
+        فسجد برزويه للملك ودعى له وطلب من الله وقال
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

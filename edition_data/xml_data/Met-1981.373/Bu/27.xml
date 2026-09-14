@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="27"/>
+
+      <p n="Burglars Cheer At Spell">
+        قال له ثمّ ماذا كنت تفعل قال ثمّ كنت أقوم فلا يبقى في البيت مال إلّا بدا لي
+        <lb/>
+
+        وقويت عليه ثمّ أقولها أيضًا وأصعد من حيث نزلت فلا يشعر بي أحد ففرح
+        <lb/>
+
+        اللصوص وقالوا لقد ظفرنا الليلة بأمر عظيم أذهب الله تعالى به عنّا الجزع وأمنّا
+        <lb/>
+
+        به السلطان
+      </p>
+
+      <p n="Husband Explains Execution">
+        ثمّ أطالوا المكث والسكوت حتى ظنّوا أنّ الرجل وزوجته ناما
+        <lb/>
+
+        فدنا رئيسهم إلى مدخل الضوء وقال شولم شولم تسع مرّات واعتنق الضوء
+      </p>
+
+      <p n="Deceived Burglar Is Caught">
+        لينزل
+        <lb/>
+
+        فوقع منكّسًا على رأسه فوثب الرجل صاحب البيت إليه بهراوة وضربه ضربًا
+        <lb/>
+
+        وجيعًا حتّى أثخنه وقال له من أنت
+      </p>
+
+      <p n="Comment On Burglar's Credulity">
+        قال أنا المصدّق المخدوع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

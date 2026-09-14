@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="151"/>
+
+      <p n="unassigned">
+        ومدّ به أحيانًا كذلك فإنّي أرجو أن يزايله فلا ينصرف القانص إلّا وقد فرغت
+        <lb/>
+
+        من قطع رباط السلحفاة ونجوت بها ففعل ذلك الظبي والغراب كما أمرهما
+        <lb/>
+
+        الجرذ وفعل القانص كما ظنّ به الجرذ ولم ينصرفْ إلّا وقد قطع الجرذ رباط السلحفاة
+        <lb/>
+
+        ونجوا جميعًا فلمّا وجد القانص مقطوعًا لم يرَ فيما هنالك شيئًا وقلّ ذلك فيما
+        <lb/>
+
+        أبصر ظبيًا متظالعًا وأبصر الغراب واقعًا كأنّه يأكل وليس
+        <lb/>
+
+        يأكل فاستوحش مكانه وارتاب لما رأى وقال إنّ هذه الأرض لأرض جنّ
+        <lb/>
+
+        أو سحرة فانصرف مذعورًا موليًا لا يلتفت إلى شيء ولا يلوى عليه فاجتمع
+        <lb/>
+
+        الظبي والغراب والسلحفاة والجرذ راجعات إلى عريشهن آمنات تمّ الباب
+      </p>
+
+      <p n="Chapter Title">
+        باب الغربان والبوم
+      </p>
+
+      <p n="Abstract">
+        وهو مثل العدوّ الذي لا يوثق به وإن أظهر النصيحة والصحبة والجود في
+        <lb/>
+
+        العلانية
+      </p>
+
+      <p n="The King Understood Previous Chapter">
+        قال الملك قد سمعت بمثل الإخوان المتصافين المتحابّين
+        <lb/>
+
+        المتعاونين
+      </p>
+
+      <p n="The King Asks about Fawning Foes">
+        فاضربْ لي مثل المغترّ بالقدر والمبدئ بالتضرّع والملق يريد
+        <lb/>
+
+        به الخديعة والمكر بعدوّه وما يصيبه من اغتراره
+      </p>
+
+      <p n="The Parable of the Owls and the Crows">
+        قال الفيلسوف
+        <lb/>
+
+        من اغترّ بالعدوّ الأديب المعروف بالعداوة أصابه ما أصاب البوم من الغربان
+      </p>
+
+      <p n="The King Requests the Parable">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="The Crow Kingdom and the Owl Kingdom">
+        قال العالم زعموا أنّه كان في جبل من
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Rd</chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

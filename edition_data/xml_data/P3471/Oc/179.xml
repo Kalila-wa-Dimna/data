@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="179"/>
+
+      <p n="Kind Needs Confidant">
+        من استشارة ناصح مأمون يُفضي إليه سرّه ويعاونه على الرأي
+        <lb/>
+
+        فإنّ المستشير وإن كان أفضل علمًا يستشيره ويأمره فإنّه يستجذب
+        <lb/>
+
+        بذلك قوّة وعقلًا
+      </p>
+
+      <p n="Advice To King Like Fuel To Fire">
+        ويزداد برأيه رأيًا كما تزداد النار بالودك
+        <lb/>
+
+        والدهن ضوءًا
+      </p>
+
+      <p n="How To Give Advice">
+        وعلى المستشار موافقة المستشير على صواب
+        <lb/>
+
+        ما يرى فإن كان في ذلك منفعة الرعيّة وثّقه واطده عليه وإن
+        <lb/>
+
+        كان في شكّ منه أوضحه له وإن كان على يقين لفضله زاد فيه رغبة
+        <lb/>
+
+        وعليه الرفق به في تبصيره خطأ إن أتى به وتقليب الرأي وإحالته
+        <lb/>
+
+        فيما شكّ فيه المردود عن خطئه حتّى يوضح ذلك فيستقيم شأنه
+      </p>
+
+      <p n="Bad Advice Like Misdirected Curse">
+        فإذا لم
+        <lb/>
+
+        يكن المستشار كذلك فهو مع المستشير مع عدوّه كالرجل الذي يرقي
+        <lb/>
+
+        الشيطان ليرسله على الإنسان فإذا لم يحكم الرقية كان الشيطان
+        <lb/>
+
+        إنمّا يلتبس بالراقي وإيّاه بآخذ
+      </p>
+
+      <p n="Secritive Wise King Prospers">
+        وإذا كان الملك محصّنًا للأسرار
+        <lb/>
+
+        مستشيرًا للوزراء مهيبًا في أنفس العامّة بعيدًا أن يُعلم ما في نفسه
+        <lb/>
+
+        ولا يضيع عنده حسن بلاء مبليّ ولا يسلم منه ذو جرم مقيّدًا
+        <lb/>
+
+        لما يفيد وما ينفق محصّنًا لذلك كان سليقًا أن لا يُسلب صالح ما أوتي
+      </p>
+
+      <p n="Ranks Of Secrets">
+        وللأسرار أيّها الملك منازل فمن السرّ ما يدخل فيه الرجلان ومنه
+        <lb/>
+
+        ما يُستعان فيه بالقوم
+      </p>
+
+      <p n="Only King C And Spy To Know Secret">
+        ولا أرى لهذا السرّ في قدر منزلته أن يُستعان
+        <lb/>
+
+        فيه إلّا أربعة أذنان ولسانان
+      </p>
+
+      <p n="Question On Origin Of Enemity">
+        فلمّا سمع ملك الغربان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

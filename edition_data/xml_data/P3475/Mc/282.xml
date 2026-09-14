@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="282"/>
+
+      <p n="The Rat Proves His Sincerity">
+        إذا دنوت منك فأنجو منهما فإنّي سأقطّع حبائلك وأخلّصك
+        <lb/>
+
+        ممّا أنت فيه فاطمأنّ لما ذكرت لك وثق به
+      </p>
+
+      <p n="People Fail without Mutual Trust">
+        فإنّه ليس أجد
+        <lb/>
+
+        أبعد من الخير من اثنين أحدهما أن لا يثق به والآخر
+      </p>
+
+      <p n="The Rat Decides on a Pact with the Cat">
+        لا خداع فيه أن يفهم ويسمع منّي ويثق بمعونتي له ويسلس لذلك
+        <lb/>
+
+        الصلح ولعلّه من السنّور بصلاح
+      </p>
+
+      <p n="The Rat Comes Up to the Cat">
+        ثمّ دنا من السنّور
+        <lb/>
+
+        قال له كيف حالك
+      </p>
+
+      <p n="The Cat Acknowledges Being Trapped">
+        قال له كالذي تهوي من الضنك والضيق
+      </p>
+
+      <p n="The Rat Points Out Their Common Problem">
+        قال الجرذ لعمري لقد كنت يسرّني ما ساءك وأرى ما أضاق
+        <lb/>
+
+        عليك سعة ولكنّي قد شاركتك في البلاء فلا أرجو لنفسي
+        <lb/>
+
+        حالًا أتخلّص بها إلّا بما أرجو لك به الخلاص
+      </p>
+
+      <p n="The Rat Proves His Sincerity">
+        وستعرف صدق
+        <lb/>
+
+        مقالتي أنّه ليس فيها كذب ولا مخادعة فقد ترى مكان ابن
+        <lb/>
+
+        عرس كامنًا لي ومكان البومة تريد اختطافي وكلاهما لك ولي عدوّ
+        <lb/>
+
+        وهما يخافانك ويتّقيانك فإن أنت جعلت لي أن تؤمّنني
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

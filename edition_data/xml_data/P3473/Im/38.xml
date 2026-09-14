@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="38"/>
+
+      <p n="A Gardner Neglects His Harvest">
+        وقرب حصاده تشاغل عنها بجمع الكلام الذي في الزرع
+        <lb/>
+
+        فهلك تشاغله ما كان أحسن فائدة وأجمل عائدة عليه
+      </p>
+
+      <p n="The Reader Needs Stamina and Focus">
+        وقال ينبغي لطالب العلم الجدّ والسهر وإفراغ البال وخلوّ
+        <lb/>
+
+        الذرع وإظهار الحرس وقوّة الهمّة والصبر والدأب فإنّه
+        <lb/>
+
+        متى لم يكن ذلك لم ينتفع بما طلب منه ولم ينل من غرضه إلّا ما
+        <lb/>
+
+        أتعب نفسه
+      </p>
+
+      <p n="The Teacher and the Student are Partners">
+        وقال إنّ الفيلسوف وتلميذه بمنزلة الشريكين
+        <lb/>
+
+        أحدهما أكثر مالًا من الآخر
+      </p>
+
+      <p n="Friends Reach Agreement by Counseling">
+        فأقلّهما مالًا يحبّ أن يلحق بصاحبه والآخر
+        <lb/>
+
+        يحبّ أن يزداد على ما بيده وهما لا يلتقيان إلّا عند المشا
+        <lb/>
+
+        المشاورة
+      </p>
+
+      <p n="The Preface Is for Explaining the Target Audience">
+        وإنّما قدّمت هذه المقدّمة لئلّا يظنّ ظانّ أنّ فلاسفة
+        <lb/>
+
+        الهند وضعت هذا الكتاب لظاهره دون باطنه وإنّها إنّما
+        <lb/>
+
+        وضعته للرعيّة دون الملوك والأصاغر دون الأكابر
+      </p>
+
+      <p n="The Book Has Four Aims">
+        وممّا ينبغي
+        <lb/>
+
+        لمقتني هذا الكتاب وللناظر فيه أن يعلم أنّه ينقسم إلى أربعة
+        <lb/>
+
+        وهي الغرض منه
+      </p>
+
+      <p n="The First Aim Is to Attract the Youth">
+        فالأوّل منها ما وُضع فيه على ألسنة الحيوان
+        <lb/>
+
+        الغير ناطقة ليسارع إلى قراءته واقتناءه أهل الهزل من الشباب
+        <lb/>
+
+        والأحداث فيستمال به قلوبهم من التعجّب بصنوف التصوير والأصباغ
+        <lb/>
+
+        والألوان ليكون قلوب نساء الملوك وغلمانهم إليه
+        <lb/>
+
+        أميل وحرصهم عليه أشدّ وحبّهم له أكثر لما يسمعوا ويروا من حسن
+        <lb/>
+
+        تطريق حسن نوادر الحيوان
+      </p>
+
+      <p n="The Second Aim Is to Please Kings">
+        الثاني يظهر من تحقيق صور الحيوان
+        <lb/>
+
+        بأصناف التخطيط والألوان والأصباغ والصناعة البديعة
+      </p>
+
+      <p n="The Third Aim Is to Benefit Craftsmen">
+        الثالث أن تقتنيه الملوك لأنفسهم ولمن دونهم فترغب في
+        <lb/>
+
+        ذلك الرعيّة ويكثر بذلك نسخه فلا يُهمل أمره ولا ينقطع ذكره
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

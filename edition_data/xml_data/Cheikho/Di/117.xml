@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="117"/>
+
+      <p n="Lion Orders Leopard and Judge to Try Dimna">
+        فأمر الأسد القاضي والنمر بتعجيل النظر في أمر دمنة والمسألة عنه في
+        <lb/>
+
+        عامّة الناس وأن يرفعوا إليه ما يلحق بدمنة من ذنبٍ أو سبيلٍ وما ادّعى
+        <lb/>
+
+        دمنة من عذرٍ أو مخرجٍ
+      </p>
+
+      <p n="Leopard and Judge Convene Trial">
+        فخرج النمر والقاضي ينظران في ذلك من أمره فبعث إلى دمنة من
+        <lb/>
+
+        يأتي به فلمّا أتوا به توسّط محفل مجلسهم
+      </p>
+
+      <p n="Leopard Recalls the Lion’s Sorrow for Killing the Ox">
+        فانتصب قائمًا فجهر النمر بصوته
+        <lb/>
+
+        وقال إنّكم قد علمتم معشر الجند الذي دخل على الملك من الخونة في
+        <lb/>
+
+        قتل شتربة شفقًا من أن يكون أنهوا باطلًا في أمره وشبّه عليه دمنة
+        <lb/>
+
+        بالكذب في السعاية به والذي يحبّ أن يستضيء به من ذلك ونصبه إيّانا
+        <lb/>
+
+        للنظر في ذلك
+      </p>
+
+      <p n="No One Should Withhold Testimony">
+        فأنتم محقّون ألّا تكتموه سرًّا ولا تذّخروه نصحًا ولا تخفوا
+        <lb/>
+
+        عليه جرمًا
+      </p>
+
+      <p n="Leopard Calls for Testimony">
+        فليقلْ كلّ امرئٍ منكم بما يعلم
+      </p>
+
+      <p n="Due Process Will Be Followed">
+        فإنّه لا يجب أن تفرط يده
+        <lb/>
+
+        بعقوبة أحدٍ لهوًى له أو لغيره فذلك عن غير استحلالٍ من المعاقب
+        <lb/>
+
+        للعقوبة بجنايته
+      </p>
+
+      <p n="Judge Calls for Testimony on Three Accounts">
+        قال القاضي قد سمعتم الذي قيل لكم فلا ينبغي لأحدٍ منكم
+        <lb/>
+
+        كتمان شيءٍ ممّا علم من خصالٍ ثلاثٍ
+      </p>
+
+      <p n="Importance of Due Process">
+        إحداهنّ الصدق فيما استشهدتم
+        <lb/>
+
+        عليه
+      </p>
+
+      <p n="Consequences of Taking Evil Deeds Lightly">
+        وألّا تجعلوا العظيم من الحقّ صغيرًا فأيّ عظيمٍ أعظم من ستر عورةٍ
+        <lb/>
+
+        من أورط الأخيار واستزلّهم وأهلك بعضهم ببعضٍ بسعايته كذبًا ومينًا
+        <lb/>
+
+        الكاتم عليه بريءٌ كذا من ضرّ جنايته ولا بعيدًا من أن يكون شريكًا له في
+        <lb/>
+
+        عمله
+      </p>
+
+      <p n="Punishment of Crime is a Deterrent">
+        والثانية عقوبتنا المذنب مقمعةٌ لأهل الريبة مصلحةٌ للملك والرعيّة
+      </p>
+
+      <p n="Eliminating Criminals Benefits Society">
+        والثالثة أنّ الأشرار إذا نفوا من الأرض زاد ذلك الرعيّة تواصلًا والصالحين
+        <lb/>
+
+        سرورًا وأهل السرور والتناصح اغتباطًا
+      </p>
+
+      <p n="Judge Reiterates the Call for Testimony">
+        فليقلْ كلّ امرئٍ منكم ما علم لكيما
+        <lb/>
+
+        يكون القضاء في ذلك على الحقّ لا على الهوى والظنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="67"/>
+
+      <p n="Pauper Is in Terrible Hardship">
+        وأقاربه فلم يكن عند أحد فضل يجود به
+      </p>
+
+      <p n="A Burglar Breaks Into His House">
+        عليه فبينما
+        <lb/>
+
+        هو ذات يوم أو ليلة من الليال إذ أبصر سارقًا يجول في
+        <lb/>
+
+        منزله فقال والله ما في منزلي شيء أخاف عليه من السارق
+        <lb/>
+
+        فليجتهد جهده فبينما السارق يجول إذ وقعت
+        <lb/>
+
+        يده على خابية فيها حنطة
+      </p>
+
+      <p n="The Burglar Attempts to Steal the Jar's Contents">
+        فقال والله لا أحبّ أن يذهب
+        <lb/>
+
+        عنائي باطلًا لعلّي في هذه الليلة لا أجد موضعًا آخر
+        <lb/>
+
+        فأحمل هذه الحنطة وأقنع بها فعمد إلى إزار كان معه
+        <lb/>
+
+        فبسطه ليصبّ عليه الحنطة
+      </p>
+
+      <p n="The Pauper Panics">
+        فلمّا رآه صاحب البيت
+        <lb/>
+
+        قال ليس لي صبر على مثل هذا يذهب بقوتي وأبقى أنا
+        <lb/>
+
+        جائعًا
+      </p>
+
+      <p n="The Pauper Chases the Burglar Away, Keeps His Garb">
+        ثمّ صاح بالسارق ووثب من مكانه وبيده عصاه
+        <lb/>
+
+        فلم يكن للسارق إلّا النجاة بنفسه وترك إزاره
+        <lb/>
+
+        فأخذه صاحب البيت واكتسى به
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

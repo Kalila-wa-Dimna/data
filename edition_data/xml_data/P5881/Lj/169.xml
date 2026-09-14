@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="169"/>
+
+      <p n="The Irascible Should Be Given Up">
+        لشهوته وهواه
+      </p>
+
+      <p n="The Irreconcilable Should Be Given Up">
+        المتمادي في غيّه ومكره المعروف بالخديعة والحيل
+      </p>
+
+      <p n="The Hedonistic Should Be Given Up">
+        ومنهم صاحب لذّة
+        <lb/>
+
+        وشهوة ولعب وشرب ويستحسن كلّ ما عمله فالمباعدة من أولئك أفضل من العاجل والآجل
+      </p>
+
+      <p n="unassigned">
+        ومنهم
+      </p>
+
+      <p n="The Faithful Should Be Kept">
+        أهل دين وعقل وحياء وصبر وشكر ووفاء عهد وحسن خلق ولين عريكة لا يبطرهم
+        <lb/>
+
+        غنًى ولا يحوّلهم فقر استقامت طريقتهم وقلّ حقدهم وعرفوا حقّ الله عليهم واجتنبوا كلّ
+        <lb/>
+
+        ما فيه إثم
+      </p>
+
+      <p n="Keeping the Virtuous Is Beneficial">
+        فأولئك إخاؤهم رشد ومخالطتهم غنم يُقتبس الخير منهم ويُطلب ما عندهم
+      </p>
+
+      <p n="Jackal Has Been Tested">
+        وإنّ
+        <lb/>
+
+        ابن آوى من أولئك وقد جرّبت ذلك منه مرارًا واختبرته زمانًا
+      </p>
+
+      <p n="Lion Apologizes to Jackal">
+        قال فلمّا سمع الأسد كلام أمّه
+        <lb/>
+
+        أدعى بابن آوى فاعتذر منه ممّا كان إليه في حقّه
+      </p>
+
+      <p n="Lion Wants to Reinstate Jackal">
+        وقال له إنّي معيدك على ما كنت عليه ومعطيك
+        <lb/>
+
+        ما أنت أهله ومؤتمنك على ما كنت فيه وجاعلك عندي في أعلى المنازل ورافعك في أعلى
+        <lb/>
+
+        المراتب لأنّك أهل لذلك ومستحقّه
+      </p>
+
+      <p n="Untrue Friends Seek Only Their Own Benefit">
+        قال له ابن آوى إنّ شرّ الأخلاق من التمس منفعة نفسه
+        <lb/>
+
+        بضرّ أخيه وكان غير ناظر له وإلى مصالحه كنظره لنفسه أو كان يريد أن يرضيه بخلاف الحقّ
+        <lb/>
+
+        واتّباع هواه فأولئك من الإخوان مردودون
+      </p>
+
+      <p n="Whom One Must Trust">
+        وإنّما ينبغي للملك أن يودّ من يأمن سريرته
+        <lb/>
+
+        ويحمد عاقبة علانيته ويكتفى برأيه ويثق بوفائه ويترك المجادلة في مغيبه ومشهده
+        <lb/>
+
+        أولئك تكون الثقة بهم والطمأنينة إليهم
+      </p>
+
+      <p n="Jackal Is Reluctant to Trust Lion Again">
+        وقد كان من أمر الملك ما قد علم فلا يحدّث في نفسه
+        <lb/>
+
+        إن أخبرته أنّي غير واثق به
+      </p>
+
+      <p n="King Must not Trust the Wrongfully Punished">
+        وأنّه ينبغي له أن يتّخذني لنفسه ولا يطمئنّ إلى من عاقبتَه
+        <lb/>
+
+        أشدّ العقوبة
+      </p>
+
+      <p n="King Must not Trust the Deposed">
+        ممّن نزعه عن عمله
+      </p>
+
+      <p n="King Must not Trust the Extorted">
+        فأخذ ماله وأغرمه في غير ذنب
+      </p>
+
+      <p n="King Must not Trust Someone Denied Honor">
+        أو كان للكرامة أهلًا
+        <lb/>
+
+        وكان ممّن يُوثق به في الأمور التى يُحتاج فيها إلى مثله فلم يُعرف ذلك ولم يُؤت إليه
+        <lb/>
+
+        ما هو أهله
+      </p>
+
+      <p n="King Must not Trust the Unrewarded">
+        أو من عُرف بحسن الرأي والمقدرة ولم يُوصل إليه
+      </p>
+
+      <p n="King Must not Trust One Singled out for Punishment">
+        وكان في أناس فأُنعم عليهم
+        <lb/>
+
+        عند ذنب اجترموه وعوقب من بينهم ولم يُفعل به مثل ما أوتي إليهم
+      </p>
+
+      <p n="King Must not Trust Someone Denied Justice">
+        أو كان مظلومًا فلم
+        <lb/>
+
+        يُنظر في أمره ولا فيما ارتُكب منه
+      </p>
+
+      <p n="King Must not Trust Someone Denied Pardon">
+        أو كان أذنب ذنبًا يسيرًا لم يستحقّ فيه عقوبة وكان
+        <lb/>
+
+        بالمنزلة التي ينبغي له أن يُعفى عنه فيها فلم يُفعل ذلك
+      </p>
+
+      <p n="King Must not Trust the Greedy and Unsatisfied">
+        أو كان من أهل الطمع والشره فلم
+        <lb/>
+
+        يصبْ بعض ما يرجوه ولا ما يوافقه
+      </p>
+
+      <p n="King Must Consider the Untrustworthy as Foes">
+        فأولئك الأصناف أهل أن لا يتّخذهم الملك ولا يسرع
+        <lb/>
+
+        إليهم
+      </p>
+
+      <p n="Jackal Expects Lion's Mistrust">
+        قال ابن آوى وأنا قد نُزّلت منزلة من كان مثلهم فإن كان قلبي سليمًا على مثل الذي كان
+        <lb/>
+
+        عليه فلعلّه أن لا يكون يعلم بذات نفسي فلا يثق بي ولا يطمئنّ إليّ ويقول إنّ ابن آوى لا
+        <lb/>
+
+        ينسى الذي لقيه من الهوان فإنّ الذي يظهر لي منه ليس بحقيقة
+      </p>
+
+      <p n="Jackal Fears Renewed Schemes">
+        وإنّما خوفي أنّهم يحملوك عليّ
+        <lb/>
+
+        مرّة أخرى
+      </p>
+
+      <p n="Jackal's Inner Struggle about Return">
+        فلو ذهبت أن أحمل نفسي على غير ما تيقّنت من ذلك أو ظاهرًا على الثقة والطمأنينة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

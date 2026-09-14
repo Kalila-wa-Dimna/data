@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="114"/>
+
+      <p n="Eliminating Criminals Benefits Society">
+        |قتلُ الشِّرارِ راحةُ الخِيارِ ### مِن سوقةٍ ومَلِكٍ جَبّارِ
+      </p>
+
+      <p n="All Attendees are Silent">
+        |فأطرقوا لأنّهُمْ لم يعلموا ### شيئًا وخافوا الإثمَ إن تكلَّموا
+      </p>
+
+      <p n="Dimna Challenges All Only to Say What They Know">
+        |قال لهم دمنةُ قولوا واصْدِقوافإنّني من صِدقِكُمْ لا أُشفِقُ
+        <lb/>
+
+        |وأَيْقَنوا أنّ لكُمْ مَعادا ### وحاكِمًا يجزي بهِ العِبادا
+        <lb/>
+
+        |وقولُكُمْ يُقْضى بهِ ويُحْكَمُ ### ويُستحلُّ فيهِ نفسٌ ودَمُ
+      </p>
+
+      <p n="Dimna's Second Subtale of Ignorant Physician">
+        |وإنّ من قال بما لا يعلمُ ### هو الطبيبُ الجاهلُ المذمَّمُ
+      </p>
+
+      <p n="Judge Request Tale">
+        |قال لهُ القاضي وكيف كانا ### أُذكرْ فأنتَ تُحسنُ البَيانا
+      </p>
+
+      <p n="Famous Physician Dies or Goes Blind">
+        |قال طبيبٌ في بلادِ السِّنْدِ ### قد جازَ في الحكمةِ كلَّ حَدِّ
+        <lb/>
+
+        |شفى بهِ اللهُ كثيرًا وبَرا ### بطبِّهِ جماعةً مِمَّنْ بَرا
+        <lb/>
+
+        |فماتَ والموتُ سبيلُ الخَلْقِ ### لم ينتفعْ بطبِّهِ والحِذْقِ
+      </p>
+
+      <p n="Quack Appears in Town">
+        |ثمّ ادَّعى بعضُ الرجالِ فضلَهْ ### وقال قد أصبحتُ فيه مِثْلَهْ
+      </p>
+
+      <p n="Pregnant Princess Falls Sick">
+        |فمرضتْ بنتُ أميرِ البَلَدَهْ ### وعظُمتُ أوجاعُها في المَعِدَهْ
+      </p>
+
+      <p n="Blind Physician Prescribes Drug">
+        |فاستوصفوا لها طبيبًا فَهِما ### لكنّهُ كانَ كَفيفًا هَرِما
+        <lb/>
+
+        |فقال أَعْطوها دواءً وَصَفَهْ ### ولم يكنْ فيهِمْ طبيبٌ عَرَفَهْ
+      </p>
+
+      <p n="Quack Ordered to Mix Drug">
+        |قالوا اطْلُبوا لنا طبيبًا يعرِفُهْ ### لعلّه بحِذقِهِ يؤلِّفُهْ
+        <lb/>
+
+        |فجاءَ هذا الجاهلُ الطبيبُ ### فقال إنّي عارفٌ لبيبُ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

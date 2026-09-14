@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="23"/>
+
+      <p n="Burzurgmihr's Introduction">
+        قال برزويه الطبيب رأس أطبّاء فارس وهو الذي ولي استنساخ هذا الكتاب وترجمه في كتاب الهند
+      </p>
+
+      <p n="Burzoy's Parents">
+        إنّ أبي
+        <lb/>
+
+        كان في المقاتلة وكانت أمّي من عظماء الزمازمة
+      </p>
+
+      <p n="Burzoy Studies Medicine">
+        وكانت ممّن ابتدأني ربّي من نعمه أنّي كنت أكرم ولد أبويّ
+        <lb/>
+
+        عليهما وكانا أشدّ افتقادًا لي من سائر إخوتي وأنّهما أسلماني في تعليم الطبّ وصناعته حتّى بلغت سبع سنين
+      </p>
+
+      <p n="Burzoy Consults His Soul About Its Ambitions">
+        فلمّا بلغت علم الطبّ وحرصت عليه حتّى إذا ؟أسدت منه علمًا وبلغت ما ائتمنت به نفسي على مداواة المرضى
+        <lb/>
+
+        وهممت بذلك أمرت نفسي وخبرتها في الأمور الأربعة التي تطلبها الناس وإليها يسعون
+      </p>
+
+      <p n="The Four Objects of Human Pursuit">
+        فقلت يا نفسي أيّ هذا
+        <lb/>
+
+        الخلال الأحوال ينبغي لمثلي في مثل علمه أن يطلب وأيّها أحرى إن هو يطلبه أن يدرك منه حاجته المال أم اللذّات
+        <lb/>
+
+        أم الصوت أي الحسن الذكر أم أمر الآخرة
+      </p>
+
+      <p n="Seeks the Reward of the Hereafter">
+        فاستدللت على الخيار من ذلك فوجدت الطبّ محمودًا عند العقلاء
+      </p>
+
+      <p n="The Virtue of Practising Medicine">
+        ولم أجده
+        <lb/>
+
+        مذمومًا عند أحد من أهل الأديان والملل
+      </p>
+
+      <p n="The Profession of Medicine Benefits Both in This World and the Hereafter">
+        ووجدت في كُتُب الطبّ أنّ الطبيب المبتغي بطبّه أجر الآخرة
+        <lb/>
+
+        لا ينقصه ذلك في الدنيا من حظّه
+      </p>
+
+      <p n="A Farmer Harvests Weeds Along with the Wheat">
+        وإنّ مثله في الدنيا مثل الزارع إنّما يؤثر الأرض ويعمّرها ابتغاء
+        <lb/>
+
+        الحبّ لا ابتغاء العشب
+      </p>
+
+      <p n="Burzoy Practices Medicine Without Pay or Envy of Colleagues">
+        فأقبلت على مداواة المرضى ابتغاء الأجر ولم أدع مريضًا أرجو له البرء ولا أحدًا أرجو
+        <lb/>
+
+        له الشفاء إلّا بلغت في ذلك جهدي فمن قدرت على القيام عليه قمت عليه ووصفت له وأمرته وأعطيته
+        <lb/>
+
+        جميع ما يحتاج من الدواء
+      </p>
+
+      <p n="Working Without Expecting Reward">
+        ولم أرد من أحد ممّن فعلت به ذلك رجاء ولا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>B0022</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="264"/>
+
+      <p n="King Instists Giving Gift">
+        فقال الملك إنّه قد شاع لنا في هذا الأمر ذكر عظيم وفخر جسيم فلا
+        <lb/>
+
+        تحتشمنّ يا بلاذ وخذ الذي يصيبك وقرّ به عينًا
+      </p>
+
+      <p n="Vizier Accepts Gift">
+        قال بلاذ
+        <lb/>
+
+        ليهب الملك ما يريد وإن يرى أن يختصّ أوّلًا بشيء فليفعل
+      </p>
+
+      <p n="Men Receive Their Gifts">
+        فأخذ الملك الفيل الأبيض وأعطى ابنه أحدى الفرسين وأعطى إبلاذ
+        <lb/>
+
+        السيف الخالص وأعطى كاك الفرس الآخر وأعطى كبارايرون
+        <lb/>
+
+        لباس الكتّان ممّا يلبس الملوك وأكرمه على ذلك بعطاء جزيل
+        <lb/>
+
+        من عنده وأعطى البازين بن أخيه الكريم عليه
+      </p>
+
+      <p n="Queen Shall Choose Gift">
+        وأعطى الإكليل
+        <lb/>
+
+        واللباس الجلد حوان لإبزاخت ويقال إنّه أخذ الإكليل
+        <lb/>
+
+        ودفعه إلى بلاذ وقال احمل هذا بين يديك إلى مجلس الحريم
+        <lb/>
+
+        فلمّا حمله بلاذ دخل الملك أحضر النساء وقدّم إبزاخت
+        <lb/>
+
+        أن تأخذ وأمر أن تأخذ منها ما شاءت
+      </p>
+
+      <p n="Hesitating Queen Looks At Vizier">
+        فنظرت إبزاخت
+        <lb/>
+
+        ورأت كلّ ذلك سنّيًا فنظرت إلى بلاذ وغمزته أن يشير
+        <lb/>
+
+        عليها ماذا اختاره
+      </p>
+
+      <p n="Vizier Shows Dress King Notices">
+        فأشار إليها بلاذ أن خذي الثياب فلحق
+        <lb/>
+
+        الملك بهما وبرمزهما
+      </p>
+
+      <p n="Queen Chooses Crown">
+        فأدركت ما لحقت به الملك وخافت على
+        <lb/>
+
+        نفسها وعلى بلاذ من القتل فاختارت التاج لضدّ ما قصده
+        <lb/>
+
+        لها بلاذ
+      </p>
+
+      <p n="Vizier Pretends To Be Cross Eyed">
+        قيل وعاش بلاذ بعد ذلك أربعين سنة كلّما دخل
+        <lb/>
+
+        على الملك كسر عينه حتّى لا يظنّ الملك أنّه كان بينه وبين
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

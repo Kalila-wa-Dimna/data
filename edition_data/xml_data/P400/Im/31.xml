@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="31"/>
+
+      <p n="Reader Must Read Well and Reflect">
+        ينبغي لمن يقرأ هذا الكتاب واجب الاقتداء بمن كان قبله من أهل
+        <lb/>
+
+        الحكمة والفضل وأن يبتدئ بجودة قراءته وحسن التفهّم
+      </p>
+
+      <p n="Hasty Reader Benefits Nothing">
+        وأن لا يكون
+        <lb/>
+
+        غايته منه بلوغ آخره دون معرفته بما يقرأ منه فإنّه من كانت
+        <lb/>
+
+        غايته استتمام قراءته عن غير التفهّم منه ولا غايته بما فيه وليس
+        <lb/>
+
+        ينتفع بقراءته هو ولا يستفيد منه ما يعود به على نفسه
+      </p>
+
+      <p n="Reading Without Implementation Is Labour Lost">
+        ومن
+        <lb/>
+
+        ألزم نفسه الإباحة في طلب العلم والمناظرة على دراسة الكتب
+        <lb/>
+
+        عن غير إلزام منه لنفسه بالعمل بالصواب والاتّباع للحقّ فليس له من
+        <lb/>
+
+        ثمرة ما جمع إلّا الكدّ والعناء
+      </p>
+
+      <p n="Treasure Discovered">
+        وكان كالرجل الذي ذكرت
+        <lb/>
+
+        العلماء أنّه ذات يوم في بعض المفاوز فظهر له كنزًا فلمّا فتحه
+        <lb/>
+
+        ونظره رآه كنزًا لا عهد له بمثله
+      </p>
+
+      <p n="Discoverer Hires Help">
+        فقال في نفسه إن أنا أحدّث
+        <lb/>
+
+        في نقل ما وجدت واحترازي الأوّل فالأوّل منه طال عليّ ذلك
+        <lb/>
+
+        ومنعني الشغل بنقله ولكن أستأجر رجالًا ينطلقون به إلى منزلي
+        <lb/>
+
+        ثمّ أتبعتهم
+      </p>
+
+      <p n="Helpers Take Treasure">
+        ففعل ذلك فحمل كلّ رجل منهم ما أطاق لينطلق به إلى منزل
+        <lb/>
+
+        الرجل وجعل الأوّل فالأوّل من الرجال ينطلقون بما معهم إلى منازلهم
+        <lb/>
+
+        فلم يزالا في ذلك حتّى نفد الكنز فانطلق الرجل إلى منزله بعد الفراغ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

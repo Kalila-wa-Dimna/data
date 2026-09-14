@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="12"/>
+
+      <p n="Dove Does Not Learn from Losing Her Chicks">
+        فراخها فتُذبح فلا يمنعها ذلك من أن تعود فتفرّخ في موضعها
+        <lb/>
+
+        أو تقيم مكانها حتّى تُؤخذ ثانية فتُذبح
+      </p>
+
+      <p n="The Wavering Judge">
+        ولا يكون كقاضي
+        <lb/>
+
+        الحبل إذ جاءه الخصمان فحكم لواحد ثمّ جاءه الآخر فحكم له
+      </p>
+
+      <p n="One Should Abide by God's Measures">
+        ويُقال إنّ الله تعالى جعل لكلّ شيء حدًّا يُوقف عليه
+        <lb/>
+
+        فمن جاز في الأشياء حدّها كان كالمقصّر عنها
+      </p>
+
+      <p n="Striving for the Hereafter">
+        ويُقال إنّ
+        <lb/>
+
+        من كان سعيه لآخرته كانت حياته له
+      </p>
+
+      <p n="Striving for the Here">
+        ومن كان سعيه
+        <lb/>
+
+        لدنياه لا لآخرته كانت عليه
+      </p>
+
+      <p n="Striving for the Here and the Hereafter">
+        ومن كان سعيه لدنياه وآخرته
+        <lb/>
+
+        كانت حياته له وعليه
+      </p>
+
+      <p n="Reader Must Heed the Instructions of the Preface">
+        فمن قرأ هذا الكتاب فليتدبّر
+        <lb/>
+
+        هذا الباب منه وليبدأ به فإنّه من عرف ما فيه
+        <lb/>
+
+        اكتفى به عن غيره إن شاء الله تعالى
+      </p>
+
+      <p n="The Translator Added the Preface">
+        وإنّا لمّا قرأنا وحاولنا
+        <lb/>
+
+        القلة من اللسان الفارسيّ إلى اللسان العربيّ أحببنا أن
+        <lb/>
+
+        نلحق فيه آثارًا للعربيّة ويستبين فيه المقيّس المتعلّم
+        <lb/>
+
+        أمره كما وصفنا والله الموفّق
+      </p>
+
+      <p n="Chapter Title Mission">
+        بعثة المَلك
+        <lb/>
+
+        برزويه إلى بلاد الهند في طلب هذا الكتاب
+      </p>
+
+      <p n="God Created Cause For Everything">
+        قد جعل الله تعالي لكلّ شيء سببًا ولكلّ علّة مجرًى
+        <lb/>
+
+        يجري الله ذلك على يديه ويقدّره له في دولته وأيّام
+        <lb/>
+
+        عمره
+      </p>
+
+      <p n="God Inspired Books Import">
+        فكان من علّة انتساخ هذا الكتاب ونقله من
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

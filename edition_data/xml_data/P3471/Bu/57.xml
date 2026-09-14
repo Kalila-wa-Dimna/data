@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="57"/>
+
+      <p n="Addressing the Soul: The Family Passes Away">
+        ورضاهم
+      </p>
+
+      <p n="Addressing the Soul: Wealth Passes Away">
+        يا نفس لا تغترّي بالغنى والمنزلة ولا تطمئنّي إليهما
+        <lb/>
+
+        فإنّ صاحب ذلك لا يبصر صغيرًا ما يُستعظم منه حتّى يفارقه
+      </p>
+
+      <p n="Shed Hair is Thrown Away">
+        فيكون
+        <lb/>
+
+        كشعر الرأس الذي يخدمه صاحبه ما دام على رأسه فإذا سقط عنه
+        <lb/>
+
+        رمى به وقذره
+      </p>
+
+      <p n="Addressing the Soul: Healing One Man Is Reward in Itself">
+        يا نفس دومي على مداواة المرضى ولا تقولي إنّ المريض
+        <lb/>
+
+        الطبيب ذو مؤنة شديدة والناس بمنافع الطبّ وفضله جهّال
+        <lb/>
+
+        ولكن اعتبري برجل يفرّج عن رجل كربة تحلّ به ويستنقذه منها
+        <lb/>
+
+        حتّى يعود على يديه إلى ما كان عليه من الراحة والنعمة أليس هو حقيق
+        <lb/>
+
+        بجزيل الثواب وعظيم الأجر هذا لمن يفعل هذا برجل واحد يُرجى له
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="Addressing the Soul: Healing Many People Brings Divine Reward">
+        فكيف بمن يداوي الخلق الكثير ابتغاء الأجر فيصيرون بعد
+        <lb/>
+
+        الأوجاع والأسقام المهلكة الحائلة بينهم وبين الدنيا ونعيمها
+        <lb/>
+
+        إلى أحسن ما يكون عليه من الحال فمن أحقّ من هذا بجزيل الثواب
+        <lb/>
+
+        وكريم المنقلب
+      </p>
+
+      <p n="Addressing the Soul: Not to Gamble with the Hereafter">
+        ويا نفس لا تبعدنّ عليك الآخرة الدائمة ولا تميلي
+        <lb/>
+
+        إلى الدنيا الفانية فتكوني في طلب الحقير الذليل وتركهم الكثير
+      </p>
+
+      <p n="The Seller of Sandalwood Below Its Price">
+        كالتاجر الذي زعموا أنّه كان له ملو بيت من الحرير خاطر بنفسه
+        <lb/>
+
+        في طلبه وأتعبها فلمّا أراد بيعه قال في نفسه إنّي إن بعته موزونًا
+        <lb/>
+
+        محرّرًا طال عليّ ولكنّي أبيعه بغير وزن فباعه مجازفة بأحسن الثمن
+        <lb/>
+
+        وأدناه
+      </p>
+
+      <p n="The Soul Admits Defeat">
+        فلمّا نصحت نفسي بهذا وبصّرتها إيّاه لم تجد محيصًا منه ولا مذهبًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

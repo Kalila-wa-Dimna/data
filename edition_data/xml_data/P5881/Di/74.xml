@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="74"/>
+
+      <p n="Dimna Opposes Acting Upon Doubt">
+        وإنّما ضربت لك هذا المثل لئلّا تعجل في أمر قد اشتبه عليك فيتحوّل الضرر والوزر فإنّ
+        <lb/>
+
+        من الشبهة أشياء كثيرة فيها عيب وضرر
+      </p>
+
+      <p n="Dimna Applies the Tale's Deception to Ox to Justify His Killing">
+        وقد علمت أيّها الملك بفضل ما أعطاك الله تعالى
+        <lb/>
+
+        وفضّلك به فلا تعجل في أمري لئلّا يدخل عليك في آخرتك نقص وقد كان بانَ للملك
+        <lb/>
+
+        حال الثور وعداوته ومعالجته للقتال فما ينبغي لك أن تشكّ في ذلك ولا تحزن على
+        <lb/>
+
+        قتله ولا تتأسّف على موته ومن كان مثلك من الملوك في الحلم والعلم والكرم والرأي
+        <lb/>
+
+        السديد أن لا يصحّ عليه كلام أهل الفجور
+      </p>
+
+      <p n="Dimna Denies Fear of Death">
+        مع أنّي يهون عليّ الموت إذا علمت أنّ الملك يصحّ منه
+        <lb/>
+
+        ذلك بالموافقة إذا قتلني
+      </p>
+
+      <p n="The Sinner Who Accepts Death Is Saved in Hereafter">
+        فإنّ العلماء قد قالوا من أصاب خطيئة أو إثمًا ثمّ أسلم نفسه للقتل
+        <lb/>
+
+        يُعدّ من الصالحين ويُعفى عنه يوم القيامة وينجّيه ذلك في الآخرة من عذاب النار
+      </p>
+
+      <p n="Dimna Would Die for Lion">
+        فينبغي لمثلي
+        <lb/>
+
+        أن يسلّم نفسه فداء عن الصالحين ولو كانت له مائة نفس لكنت حقيقًا أن أسلّمها في رضاء
+        <lb/>
+
+        الملك
+      </p>
+
+      <p n="Dimna Says His Merit Protects Him from Calumny">
+        وقد علمت أنّ الله تعالى يعيذه أن يهلك مثلي وأنا من أهل ودّه ونصيحته فلا
+        <lb/>
+
+        تأخذني بقول أهل الكذب والفجور من غير ذنب ولا جرم
+      </p>
+
+      <p n="First Speaker Accuses Dimna of Self-Interest">
+        قال فبينما هو في هذا القول إذ قال
+        <lb/>
+
+        له بعض الجند يا دمنة لم تنطق بهذا الكلام حبًّا للملك ولا كرامة لكن لخلاص نفسك
+        <lb/>
+
+        ممّا وقعت فيه
+      </p>
+
+      <p n="Dimna Claims Right to Self-Defense">
+        فقال دمنة مجيبًا هل عليّ في ذلك عيب وهل عيب أقرب إلى الإنسان من
+        <lb/>
+
+        نفسه فإذا قام بعذره لم يمقت وإذا لم يقم عنها العذر فمن يعتذر
+      </p>
+
+      <p n="Dimna Calls First Speaker Self-Hating">
+        ومثلك لا ينبغي
+        <lb/>
+
+        أن يكون لسانًا للسلطان بل ينبغي له أن يكون مع دوابّه
+      </p>
+
+      <p n="The Mother Is Amazed by Dimna's Verbosity">
+        قالت له أمّ الأسد إنّ العجب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

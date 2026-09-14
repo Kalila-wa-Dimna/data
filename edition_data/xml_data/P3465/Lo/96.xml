@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="96"/>
+
+      <p n="Dimna's Response and Ambition">
+        ما ذكرت ولكن اعلم أنّ كلّ من يدنو من الملوك ليس يدنو منهم لبطنه
+      </p>
+
+      <p n="Superior People Approaching Kings">
+        وإنّما
+        <lb/>
+
+        يدنو منهم ليسرّ الصديق ويكبت العدوّ وإنّ من الناس من لا مروءة له وهم الذين
+        <lb/>
+
+        يفرحون بالقليل ويروضن بالدون
+      </p>
+
+      <p n="Analogy of Dog and Bone">
+        كالكلب الذي يصيب عظمًا يائسًا فيفرح
+        <lb/>
+
+        به
+      </p>
+
+      <p n="Contrast Between Ambitious and Content">
+        وأمّا أهل الفضل والمروءة فلا يقنعهم القليل ولا يرضون به دون أن
+        <lb/>
+
+        تسمو به نفوسهم إلى ما هم له أهل
+      </p>
+
+      <p n="Lion's Hunting Behavior Analogy">
+        كالأسد الذي يفترس الأرنب فإذا
+        <lb/>
+
+        رأى البعير تركها وطلب البعير
+      </p>
+
+      <p n="Contrast Between Dog and Elephant Behavior">
+        ألّا ترى أنّ الكلب يبصبص بذنبه حتّى يرمى له كسيرة
+        <lb/>
+
+        وإنّ الفيل المعترف بفضله وقوّته إذا قدّم إليه علفه لا يعتلفه حتّى يمسح ويتملّق
+      </p>
+
+      <p n="Life Perspectives on Success and Failure">
+        من عاش ذا مال وكان ذا فضل وأفضال على أهله وإخوانه فهو وإن قلّ
+        <lb/>
+
+        عمره طويل العمر ومن كان في عيشه ضيق وقلّة وإمساك على نفسه وذويه
+        <lb/>
+
+        فالمقبور أحنا منه
+      </p>
+
+      <p n="Comparison to Animals">
+        ومن عمل لبطنه وقنع وتركه أسوأ ذلك عدّ من البهائم
+      </p>
+
+      <p n="Kalila's Advice on Contentment">
+        قال كليلة قد فهمت ما قلت فراجع عقلك واعلم أنّ لكلّ إنسان منزلة
+        <lb/>
+
+        وقدرًا فإن كان في منزلة بل هو فيها متماسكًا كان حقيقًا أن يقنع وليس
+        <lb/>
+
+        لنا من المنزلة ما يحطّ حالنا التي نحن عليها
+      </p>
+
+      <p n="Dimna's View on Social Mobility">
+        قال دمنة إنّ المنازل
+        <lb/>
+
+        متنازعة مشتركة على قدر المروءة فالمرء ترفعه مروءته من المنزلة الوضيعة
+        <lb/>
+
+        إلى المنزلة الرفيعة ومن لا مروءة له ويحطّ نفسه من المنزلة الرفيعة إلى المنزلة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

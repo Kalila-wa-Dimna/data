@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="35"/>
+
+      <p n="Burzoy Explains the Allegory">
+        فشبّهت الدنيا بالبئر المملوءة بآفات وشرور ومخاوف والغصنين
+        <lb/>
+
+        بالحياة والجرذ الأسود بالليل والأبيض بالنهار يقرضان الأجل والحيّات
+        <lb/>
+
+        بالطبائع الأربعة لا يدري متى تهيج به وشبّهت التنّين بالموت الذي
+        <lb/>
+
+        يصير الإنسان إليه إذا وقع في أسفل البئر وشبّهت العسل بالحلاوة
+        <lb/>
+
+        القليلة التي تصيب الإنسان فتشغله عن نفسه وتنسيه آخرته وتلهيه
+        <lb/>
+
+        عن التحيّل لخلاصها
+      </p>
+
+      <p n="Burzoy‘s Contentment and Hope for Future Guidance">
+        فرأيت أن أصلح ما استطعت من عملي لعلّي
+        <lb/>
+
+        أصادف فيما أمامي دليلًا على هداي وسلطانًا على نفسي فأقمت
+        <lb/>
+
+        على ما وصفت من حالي وانصرفت
+      </p>
+
+      <p n="Burzoy Returns from India with Books inc. KD">
+        من بلاد الهند إلى بلادي بعد أن
+        <lb/>
+
+        انتسخت من كتبها هذا الكتاب العجيب والله أعلم بالصواب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

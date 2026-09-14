@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="82"/>
+
+      <p n="Consequences of Monkey's Actions">
+        فخرّ مغشيًّا عليه
+      </p>
+
+      <p n="Carpenter's Return and Punishment">
+        وكان أشدّ من ذلك ما لقي من النجّار
+      </p>
+
+      <p n="Dimna's Response and Ambition">
+        قال
+        <lb/>
+
+        دمنة قد سمعت قولك وفهمت مثلك ولكن اعلمْ أنّه ليس كلّ من يدنو
+        <lb/>
+
+        من الملوك إنّما يدنو منهم لبطنه فإنّ البطون قد تُحشى بكلّ مكان
+      </p>
+
+      <p n="Superior People Approaching Kings">
+        ولكنّه
+        <lb/>
+
+        يلتمس أن يسرّ الصديق ويكبت العدوّ فإنّ لئام الناس وضعفاءهم
+        <lb/>
+
+        ومن لا مروءة له منهم الذين يرضون بالقليل ويفرحون به
+      </p>
+
+      <p n="Analogy of Dog and Bone">
+        كالكلب
+        <lb/>
+
+        الذي يصيب عظمًا يابسًا فيفرح به
+      </p>
+
+      <p n="Contrast Between Ambitious and Content">
+        وأمّا أهل المروءة والفضل فلا يرضيهم
+        <lb/>
+
+        القليل ولا يفرحون به دون أن يسمو لما هم له أهل
+      </p>
+
+      <p n="Lion's Hunting Behavior Analogy">
+        كالأسد الذي يفترس
+        <lb/>
+
+        الأرنب فإذا رأى العنز ترك الأرنب وطلب العنز
+      </p>
+
+      <p n="Contrast Between Dog and Elephant Behavior">
+        أولا ترى أنّ
+        <lb/>
+
+        الكلب يبصبص بذنبه كثيرًا حتّى تُلقى إليه الكسرة وأنّ
+        <lb/>
+
+        الفيل المغتلم بعلمه بقوّته وفضله إذا قُدّم إليه علفه مكرهًا
+        <lb/>
+
+        لم يعتلفه حتى يُمسح له ويُتملّق له
+      </p>
+
+      <p n="Life Perspectives on Success and Failure">
+        ومن عاش غير خامل الذكر ذا فضل
+        <lb/>
+
+        على نفسه وأصحابه فهو وإن قلّ عمره طويل العمر ومن كان عيشه
+        <lb/>
+
+        في ضيق وقلّة خير على نفسه وأصحابه فالمقبور خير منه
+      </p>
+
+      <p n="Comparison to Animals">
+        ومن عمل
+        <lb/>
+
+        لبطنه وقنع وترك ما سوى ذلك عُدّ من البهائم فإنّه يُعدّ من البهائم
+        <lb/>
+
+        والبقر والغنم من لم يكن همّته إلّا بطنه وفرجه
+      </p>
+
+      <p n="Kalila's Advice on Contentment">
+        قال كليلة
+        <lb/>
+
+        قد فهمت ما قلت فراجعْ عقلك واعلمْ أنّ لكلّ إنسان منزلة
+        <lb/>
+
+        وقدرًا فمن كان في منزلته التي هو متماسكًا كان حقيقًا أن يقنع ويرضى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="243"/>
+
+      <p n="Fulfillment Of Last Dream">
+        وكان ذلك تفسير الحلم الثامن الذي كان كناربزون نوّه للملك
+        <lb/>
+
+        بطرف منه ولم يفسّره له
+      </p>
+
+      <p n="King Expresses Anger To Vizier">
+        فدعا الملك لبلاذ وقال يا بلاذ ألا
+        <lb/>
+
+        ترى إلى الملك العالم الفاضل كيف حقّرته هذه الامرأة وصنعت به
+        <lb/>
+
+        ما صنعت
+      </p>
+
+      <p n="King Orders To Execute Queen">
+        فانطلق بها فاضرب عنقها ولا ترحمها
+      </p>
+
+      <p n="Vizier Decides To Spare Queen">
+        فخرج بلاذ
+        <lb/>
+
+        بابراخت من عند الملك وقال في نفسه ما أنا بقاتلها حتّى يسكن
+        <lb/>
+
+        غضب الملك
+      </p>
+
+      <p n="Vizier Praises Queen">
+        فإنّها امرأة عاقلة سعيدة من الملكات ليس لها
+        <lb/>
+
+        في النساء عدل في العقل والحلم والكمال
+      </p>
+
+      <p n="King Will Miss Queen">
+        وليس الملك بصابر عنها
+        <lb/>
+
+        وقد خلّص الله بها إلى اليوم أنفسنا من القتل والهلكة مع منافع
+        <lb/>
+
+        كثيرة وأعمال صالحة ورجاؤنا فيها أعظم
+      </p>
+
+      <p n="Vizier Fears Risk Of Rush">
+        ولست آمنًا أن يقول
+        <lb/>
+
+        الملك أما استطعت أن تؤخّر أمرها وتتأنّى في قتلها حتّى تؤامرني
+      </p>
+
+      <p n="Viziers Action Depends On King">
+        فلست قاتلها حتّى أنظر ما يكون من رأي الملك فيها فإن ندم على قتلها
+        <lb/>
+
+        جئته بها
+      </p>
+
+      <p n="Vizier Reflects On Benefits">
+        وكنت قد عملت ثلاثة أعمال عظيمة أنجيت إبراخت من القتل
+        <lb/>
+
+        وسليّت حزن الملك وامتننت بذلك على أهل المملكة بحياتها
+        <lb/>
+
+        فإنّها تقيّة تحبّ الآخرة والبرّ
+      </p>
+
+      <p n="Vizier Might Execute Order">
+        وإن هو لم يذكرها ولم يشتق إليها
+        <lb/>
+
+        أمضيت فيها أمره
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="273"/>
+
+      <p n="The People Burn the Wood Blocking the Hole">
+        والحجارة من الباب وطرحوا في ذلك الحطب النار
+        <lb/>
+
+        فالتهب
+      </p>
+
+      <p n="The People Return Home">
+        فلمّا بدأ في اللهيب عاد الناس إلى مواضعهم
+      </p>
+
+      <p n="The Winds Spread Annihilating Fire">
+        ثمّ
+        <lb/>
+
+        إنّ الريح التي كانت قد اختفت في مدّة الستة أشهر
+        <lb/>
+
+        خرجت بحميّة شديدة وحملت النار معها فألقتها في جميع
+        <lb/>
+
+        ذلك البلد ودار هبوب الرياح يومين وليلتين فلم يبق في
+        <lb/>
+
+        ذلك البلد مدينة ولا قرية ولا حصن ولا شجرة ولا إنسان
+        <lb/>
+
+        ولا ماشية ولا حيوان إلّا هلك بالنار والريح
+      </p>
+
+      <p n="The Vizier Summarizes King W's Tale">
+        قال ملك
+        <lb/>
+
+        الجرذان قد سمعت هذا الحديث ولكن يُقال أيضًا إنّ
+        <lb/>
+
+        من رام أمرًا من الامور الصعبة التي تُرجى من عاقبته البلوغ
+        <lb/>
+
+        إلى أمر كبير ثمّ فزغ من عارض سوء يلحقه فيه فكفّ عنه لم يرتقي
+        <lb/>
+
+        إلى رتبة عالية إلّا أن يتّفق له ذلك اتّفاقًا
+      </p>
+
+      <p n="Fortune Is the Attainment of a Legacy">
+        وإنّ من السعادة
+        <lb/>
+
+        وحسن البخت أن يكون الإنسان في هذه العالم مشهور بعمل
+        <lb/>
+
+        الخير وليس يتهيّأ لأحد من الناس أن يحمل معه من هذا العالم
+        <lb/>
+
+        شيئًا ينفعه إلّا ما عمله
+      </p>
+
+      <p n="The Vizier Advises against Causing Disaster">
+        قال الوزير وقد قالت الحكماء أيضًا
+        <lb/>
+
+        من جلب على نفسه آفة بيده لم يستأهل أن يخلص منها ومن
+        <lb/>
+
+        كان سببًا لموت نفسه لم يكن له موضع في الجنّة
+      </p>
+
+      <p n="King R Insists on Proceeding">
+        قال
+        <lb/>
+
+        الملك أمّا أنا فأقول إن ساعدتني بمشورتك فزنا به
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

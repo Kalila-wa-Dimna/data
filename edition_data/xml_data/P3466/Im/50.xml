@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="50"/>
+
+      <p n="Culture Advances One's Rank">
+        منزلة صاحبه على كلّ رتبة
+      </p>
+
+      <p n="Culture Shields from Danger">
+        والعمل به ينجي من الهلكات
+      </p>
+
+      <p n="Man Notices Burglar but Feigns Sleep">
+        ومن
+        <lb/>
+
+        علم العلم ثمّ لم ينتفع به فمثله كمثل الرجل الذي يُقال إنّ سارقًا تسوّر
+        <lb/>
+
+        عليه وهو نائم في منزله فعلم به وقال والله لأسكتنّ حتّى أنظر ما
+        <lb/>
+
+        يصنع فإذا بلغ مراده قمت إليه فنغّصت ذلك عليه
+      </p>
+
+      <p n="Burglar Steals and Gets Away">
+        وجعل
+        <lb/>
+
+        السارق يطوف في البيت ويجمع ما وجد فغلب على الرجل النوم
+        <lb/>
+
+        فنعس وفرغ اللصّ ممّا أراد فحمله وخرج
+      </p>
+
+      <p n="Man Discovers Mishap and Laments">
+        فاستيقظ الرجل من نومه
+        <lb/>
+
+        فوجد السارق قد فاز بما أخذ من متاعه فأقبل على نفسه يلومها
+        <lb/>
+
+        ويعاتبها وعرف أنّه لم ينتفع بما علمه من أمر اللصّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

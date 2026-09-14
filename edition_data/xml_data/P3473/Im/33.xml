@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="33"/>
+
+      <p n="The Pauper Chases the Burglar Away, Keeps His Garb">
+        وغدا به كاسيًا
+      </p>
+
+      <p n="One Should Not Abandon Hard Work">
+        وليس ينبغي للعاقل أن يركن إلى مثل هذا
+        <lb/>
+
+        ويدع ما إلى ما يجب عليه من الجدّ في العمل والدأب في الاكتساب
+      </p>
+
+      <p n="The Fortunate Few Are Not the Model">
+        ولا ينظر إلى ما يؤاتيه في الاكتساب ولا إلى ما يوافقه من المقادير
+        <lb/>
+
+        ويساعده على غير التماس منه لذلك
+      </p>
+
+      <p n="One Should Strive for Benefit Not Harm">
+        وينبغي أن يكون حرصه
+        <lb/>
+
+        على ما فيه مكسبه وحسن نفعه ولا يعرّض بنفسه لما يكون فيه
+        <lb/>
+
+        عناؤه غالبًا
+      </p>
+
+      <p n="Dove Does Not Learn from Losing Her Chicks">
+        فيكون كالحمامة التي تُسمّن الأفراخ للذبح ولا يمنعها
+        <lb/>
+
+        ذلك من أن تعود تفرّخ في موضعها وتقيم في مكانها وتُؤخذ الفراخ
+        <lb/>
+
+        الثانية فتُذبح
+      </p>
+
+      <p n="Striving for the Here and the Hereafter">
+        ويُقال من كان سعيه لآخرته ودنياه فحياته
+        <lb/>
+
+        له وعليه
+      </p>
+
+      <p n="Striving for the Here">
+        ومن كان سعيه لدنياه خاصّة فحياته عليه لا له
+      </p>
+
+      <p n="A Worldly Man Must Fix Three Things">
+        ويُقال ثلاثة أشياء يجب على صاحب الدنيا إصلاحها وا
+        <lb/>
+
+        والابتذال لنفسه فيها منها أمر معيشته ومنها ما بينه وبين
+        <lb/>
+
+        الناس ومنها التماس ما يكسبه الذكر الجميل بعده
+      </p>
+
+      <p n="Three Things in a Man Engender Inefficiency">
+        وقد قيل في
+        <lb/>
+
+        أمور من كنّ فيه لم يستقم له عمل منها التواني ومنها تضييع
+        <lb/>
+
+        الفرص ومنها التصديق لكلّ مخبر
+      </p>
+
+      <p n="Many Are Credulous">
+        وربّ رجل لا يقبله عقله
+        <lb/>
+
+        ولا يعرف استقامته فيصدّق به
+      </p>
+
+      <p n="One Needs to Keep Desire in Check">
+        وينبغي للعاقل أن يكون
+        <lb/>
+
+        متيقّظًا لذلك
+      </p>
+
+      <p n="One Needs to Check the Veracity of Information">
+        ولا يغترّ بقول كلّ أحد ولا يتهاون في
+        <lb/>
+
+        الأمر إذا التبس عليه ولا ينهزم ويقدم حتى يتبيّن الصواب
+        <lb/>
+
+        ويستوضح الحقيقة
+      </p>
+
+      <p n="One Should Not Continue on the Wrong Path">
+        ولا يكون كالرجل الذي يجوز على الطريق
+        <lb/>
+
+        التي ليس هي بطريق ويستقرّ على الضلال فيها فلا يزداد في
+        <lb/>
+
+        السير جهدًا إلّا ازداد في القصد بعدًا
+      </p>
+
+      <p n="Man Rubs Itchy Eye and Loses It">
+        وكالرجل الذي تقذى
+        <lb/>
+
+        عينه فلا يزال يحكّها حتّى صارت الحكّة سببًا لذهابها
+      </p>
+
+      <p n="The Intelligent Should Believe in Fate">
+        ويجب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

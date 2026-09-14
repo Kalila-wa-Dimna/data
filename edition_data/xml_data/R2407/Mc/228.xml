@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="228"/>
+
+      <p n="unassigned">
+        رأسه ونتف لحيته ويقول ليتني لم أُرزق
+        <lb/>
+
+        هذا الولد على ماحمّلني من المشقّة على قتل من كان
+        <lb/>
+
+        عندي سلة وله عليّ حقّ الصحبة والتربية
+        <lb/>
+
+        وكان عطوفًا عليّ شفوقًا ثمّ دخلت المرأة وهو يبكي
+        <lb/>
+
+        فقالت ما شأنك وهذا الأسود وابن عرس مقتولان
+        <lb/>
+
+        فأخبرها الخبر بكماله فهذه ثمرة العجلة في الأمور
+        <lb/>
+
+        والإساءة بغير رويّة ولا تثبّت تمّ باب الناسك
+        <lb/>
+
+        وابن عرس على التمام والكمال لله العزّة والجلال
+      </p>
+
+      <p n="Chapter Title">
+        الباب السابع
+        <lb/>
+
+        وهو باب السنّور والجرذ
+      </p>
+
+      <p n="Abstract">
+        وهو مثل من كثرت أعداؤه
+        <lb/>
+
+        وكشفوه من كلّ جانب وأشرف على الهلاك فالتمس
+        <lb/>
+
+        الخروج بموالاة بعض الأعداء
+      </p>
+
+      <p n="The King Asks about Escaping Enemies">
+        قال الملك قد سمعت
+        <lb/>
+
+        هذا المثل فاضرب لي مثل رجل كثرت أعداؤه وحصروه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Aw</chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

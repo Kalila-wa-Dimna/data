@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="172"/>
+
+      <p n="The Crow Kingdom and the Owl Kingdom">
+        ملك منهنّ
+      </p>
+
+      <p n="The Owls Attack the Crows">
+        فخرج ملك البوم ذات ليلة لعداوة لم تزل بين البوم
+        <lb/>
+
+        والغربان فوقعن على الغربان فأكثرن فيهنّ القتل والجراح
+      </p>
+
+      <p n="The Morning in the Battle Aftermath">
+        ولم يعلم
+        <lb/>
+
+        ملكهنّ بذلك حتّى كان الغد فلمّا رأى ما لقي جنده اهتمّ وحزن
+      </p>
+
+      <p n="The Crow King Evaluates the Damage">
+        ثمّ فكّر
+        <lb/>
+
+        في نفسه وأمره وجمع الغربان وقال أيّتها الغربان قد ترون ما لقينا
+        <lb/>
+
+        من بنات البوم وكم منكنّ قد أصبح قتيلًا وجريحًا ومكسور الجناح ومنتوف
+        <lb/>
+
+        الريش
+      </p>
+
+      <p n="The Crow King Fears Recurring Aggression">
+        وأشدّ ما أصابكن منهنّ ضرّهما بكنّ وجرأتهنّ عليكنّ فاجمعوا
+        <lb/>
+
+        رأيكم وصحّحوا نظركم لأنفسكم
+      </p>
+
+      <p n="Input from the Five Wise Crows is Sought">
+        وكان فيهنّ خمس غربان هنّ معترفات
+        <lb/>
+
+        لهنّ بحسن الرأي يسندوا إليهنّ الأمور ويفزعون إليهنّ عند النوائب
+        <lb/>
+
+        وكان الملك يشاورهنّ وينتهي إلى رأيهنّ لما يعرف من علمهنّ وعملهنّ
+        <lb/>
+
+        ورفقهنّ ونظرهنّ في الأمور واحتيالهنّ فخلا بهنّ وسألهنّ عن
+        <lb/>
+
+        رأيهنّ فيما أصابهنّ
+      </p>
+
+      <p n="The Crow King Asks the First Crow">
+        وقال لأصغرهنّ ما تشير به فإنّه قد كان ما قد
+        <lb/>
+
+        رأيت ولسنا نأمن برجعتهنّ
+      </p>
+
+      <p n="Escape Should Be the Recourse">
+        قال رأيي فيه ما قد سبقت إليه العلماء
+        <lb/>
+
+        إذ قالوا ليس للعدوّ الحَنِق الذي لا يُطاق دواء إلاّ الهرب منه واللجأ إلى الموئل
+        <lb/>
+
+        والحزن الذي يبعد به عنه
+      </p>
+
+      <p n="The Crow Kings Asks the Second Crow">
+        ثمّ سأل الملك الثاني عمّا تكلّم فيه الأوّل
+        <lb/>
+
+        ورأيه فيه
+      </p>
+
+      <p n="Escape Is No Recourse">
+        فقال أمّا ما أشار به عليك هذا من الفرار
+      </p>
+
+      <p n="The Downsides of Escape Are Explained">
+        فلا أراه حزمًا
+        <lb/>
+
+        أن نُخلّي عن أوطاننا ونذلّ لعدوّنا ونترك أثقالنا ومعايشنا ونهرب
+        <lb/>
+
+        عند أوّل نكبة أصابتنا ولا ينبغي لنا ذلك
+      </p>
+
+      <p n="Recourse Should be Made to Planning and Preparing">
+        ولكن نجمع أمرنا ونستعدّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

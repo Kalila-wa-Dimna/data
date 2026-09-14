@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="35"/>
+
+      <p n="Chapter Placed First">
+        عند أمرهم
+      </p>
+
+      <p n="Reader To Know Books Import">
+        فمن قرأ هذا الكتاب فليعرف السبب الذي
+        <lb/>
+
+        جُلب فيه كتاب كليلة ودمنة من بلاد الهند وليعرف فضل
+        <lb/>
+
+        طاعة الملوك على سائر الأعمال وأنّ الشريف من شرّفته
+        <lb/>
+
+        الملوك في دولتها
+      </p>
+
+      <p n="Reader To Know Books Aspect">
+        فمن قرأ هذا الكتاب فليعرف الوجه
+        <lb/>
+
+        الذي وُضع عليه فإنّه من لم يعرف ذلك لم يدر إلى أيّ
+        <lb/>
+
+        غاية يجرى منها وأيّ شيء يُجتنى منه والله المُوفّق
+        <lb/>
+
+        للصواب باب برزويه الطبيب
+      </p>
+
+      <p n="Burzurgmihr's Introduction">
+        قال برزويه المتطبّب
+      </p>
+
+      <p n="Burzoy's Parents">
+        إنّ أبي كان من المقاتلة وكانت
+        <lb/>
+
+        أمّي من بنات عظماء الزمازمة وفقهائها في دينهم
+      </p>
+
+      <p n="Burzoy Studies Medicine">
+        وكان ممّا بتدأني به ربّي من نعمته عليّ أنّي كنت
+        <lb/>
+
+        من أكرم ولد أبويّ عليهما وأنّهما أسلماني في
+        <lb/>
+
+        تعليم الطبّ حين بلغت سبع سنين
+      </p>
+
+      <p n="Burzoy Consults His Soul About Its Ambitions">
+        فلمّا بلغت
+        <lb/>
+
+        أن أعرف أمور الطبّ وفضله شكرت لأبويّ رأيهما
+        <lb/>
+
+        في ذلك ورغبت في تعليم الطبّ وحرصت عليه
+        <lb/>
+
+        حتّى شددت منه علمًا وبلغت ما تمنّت نفسي
+        <lb/>
+
+        على مداواة المرضى وهممت بذلك ثمّ أمرت نفسي
+        <lb/>
+
+        وخيّرتها من الأمور الأربعة التي إيّاها يطلب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

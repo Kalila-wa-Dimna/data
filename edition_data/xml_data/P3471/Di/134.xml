@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="134"/>
+
+      <p n="Bodily Marks Are Claimed to Predict Deeds">
+        بالكلام وقد سمعتم ما قال فاسمعوا منّي إنّ هذا لظنّ أنّه ليس
+        <lb/>
+
+        أحدٌ أعلم منه وإنّ ما يفعله الناس من الخير والشرّ ممّا يعلمونه بالعلامات
+        <lb/>
+
+        والشامات التي في أجسادهم
+      </p>
+
+      <p n="Human Action Would Be Meaningless">
+        فإن كان ذلك كذلك فلا أسمع أحدًا
+        <lb/>
+
+        يقدر أن يعمل خيرًا ولا شرًّا إلّا بالعلامات التي فيه وإنّما تُجزون
+        <lb/>
+
+        بذلك وتعاقبون عليه وليس إليّ من أمري شيءٌ فليس هو مجتهدًا في الخير
+        <lb/>
+
+        وإن اجتهد بنافعةٍ ولا بضارّة اشتاته
+      </p>
+
+      <p n="If the Physique Makes People Traitors, Dimna Is Innocent and Excused">
+        ولو كان ما قرب به من هذا
+        <lb/>
+
+        الأمر حقًّا ومعاذ الله من ذلك لكنت معدودًا لأنّني مجبورٌ عليه ومنقادٌ
+        <lb/>
+
+        إليه وكفى بمقالتي هذه دليلًا لذوي الألباب على براءتي وسوء رأيه
+        <lb/>
+
+        وخطأ مقالته
+      </p>
+
+      <p n="Dimna's Third Subtale of Plower Who Told His Wife to Cover Herself First">
+        وإن أمر هذا الشبيه بالذي قال لامرأته الذي بالنظر
+        <lb/>
+
+        في أمر نفسكي ثمّ تفرغي لعيب الناس
+      </p>
+
+      <p n="Prominent Courtier Requests Tale">
+        قال رأس الجبّارين وكيف ذلك
+      </p>
+
+      <p n="A Man and His Two Wives Become War Captives">
+        قال دمنة كانت فتنةٌ أغار فيها العدوّ فقتلوا لمقاتليه واستباحوا
+        <lb/>
+
+        بقيّة أهلها فلمّا قسّموها صار رجلٌ من الأكّار وامرأتان له في حِصّة
+        <lb/>
+
+        رجلٍ كان شجيعًا فضيّق عليهم وأجاعهم وأعراهم وأمروا أن يؤدّوا إليه
+        <lb/>
+
+        حربيّة مسماه في كلّ يوم
+      </p>
+
+      <p n="One Wife Blames the Other for Being Naked">
+        فخرج الأكّار مع امرأتيه ليحتطب فأتت
+        <lb/>
+
+        إحدى امرأتيه في طريقها خرقةٌ فسترت بها عورتها فنادت صاحبتها
+        <lb/>
+
+        الأكّار وقالت انظر إلى هذه الفاجرة لا تستحي أن تمشي عريانة
+      </p>
+
+      <p n="The Man/One Wife Tells Other Wife to Cover Herself First/Mind Her Own Nakedness">
+        فقال
+        <lb/>
+
+        زوجها أيّها القنيّة لو بدأت بالنظر إلى نفسك فواريت عورتك لم تغيّري
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

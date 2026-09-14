@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BE00360</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="215"/>
+
+      <p n=". Crow Lost What It Had">
+        فلم يدرك ما طلب ونسى ما كان في يده
+      </p>
+
+      <p n="Monk Motivates Story">
+        وإنّي ضربت لك
+        <lb/>
+
+        هذا المثل لما رأيت منك أنك أقبلت على لسان العبرانيّة
+        <lb/>
+
+        وذلك مما لا يشاكلك وأخاف أن لا تدركه وتنسى كلامك
+      </p>
+
+      <p n="Dont Seek Foreign Things">
+        وقد قيل أنه ليعدّ جاهلاً من تكلّف من الأمور ما ليس
+        <lb/>
+
+        يشاكله وليس هو من أهلها
+      </p>
+
+      <p n="Changing Governors Harm">
+        واعلم أنّ الولاة نقله
+        <lb/>
+
+        تعاهدهم ذلك من الرعيّة تجرى في ذلك سوء التدبير
+        <lb/>
+
+        بينهم في المملكة والناس يتقلّبون في الطبقات والمنازل
+        <lb/>
+
+        بعضهم فوق بعض فلذلك كثرت تجارتهم وجرت
+        <lb/>
+
+        لهم المعائش وتأدب بذلك الأشراف
+      </p>
+
+      <p n="Chapter End">
+        انقضى باب
+        <lb/>
+
+        الناسك والضيف
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

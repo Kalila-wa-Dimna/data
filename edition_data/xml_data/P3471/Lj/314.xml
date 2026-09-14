@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="314"/>
+
+      <p n="Jackal Vows Devotion on His Terms">
+        أن لا أجعل له على نفسي سبيلًا
+      </p>
+
+      <p n="Lion Commits to Conditions">
+        قال الأسد فإنّ ذلك لك
+        <lb/>
+
+        عليّ
+      </p>
+
+      <p n="Jackal Excels in Position">
+        فولّاه خزائنه واختصّه دون أصحابه في المنزلة والمشاورة
+        <lb/>
+
+        والرأي فازداد به على الأنام عجبًا كلّما فحصه وزاده كرامة وفوّض
+        <lb/>
+
+        إليه عمله
+      </p>
+
+      <p n="Jackal's Status Stirs Jealousy">
+        فثقل ذلك على كلّ من كان يطيف الأسد ويطوف عليه
+        <lb/>
+
+        من قرابته وصحابته وعمّاله فعادوه وحسدوه واتّفقوا ليحمّلوا
+        <lb/>
+
+        الأسد عليه فيهلكوه عنده
+      </p>
+
+      <p n="Schemers Frame Jackal">
+        فلمّا اجتمعوا على ذلك من كيدهم
+        <lb/>
+
+        دسّوا إلى لحم كان الأسد استظرفه واستطابه وأمره بالاحتفاظ
+        <lb/>
+
+        به وكان يرفعه في أحصن موضع طعامه وأحرزها ليُعاد عليه فسرقوه
+        <lb/>
+
+        ثمّ أرسلوا به إلى منزل ابن آوى فوضعوه في مكان لا يطّلع هو عليه
+      </p>
+
+      <p n="Scheme Triggers Lion's Rage">
+        فلمّا كان من الغد ودعا الاسد بغدائه فقدَ ذلك اللحم والتمسه
+        <lb/>
+
+        فلم يجده ولم يقدر عليه وغاب ابن آوى وحضر الذين أرادوا به
+        <lb/>
+
+        المكر والمكيدة للقذف عليه فاحتشد الأسد في طلب اللحم حتّى
+        <lb/>
+
+        غضب فلمّا رأوا ذلك منه نظر بعضهم إلى بعض
+      </p>
+
+      <p n="Schemers to Impart Difficult News">
+        ثمّ قال أحدهم قول
+        <lb/>
+
+        المخبر الناصح إنّه لا بدّ لنا من أن نخبر الملك عن علمنا فيما يضرّه وينفعه
+        <lb/>
+
+        وإن شقّ ذلك على من شقّ عليه ممّن يكره نشره
+      </p>
+
+      <p n="Schemers Accuse Jackal">
+        إنّه قد بلغني أنّ ابن
+        <lb/>
+
+        آوى ذهب بذلك اللحم إلى منزله فأكله
+      </p>
+
+      <p n="Schemers Say Jackal Is Unlikely to Steal">
+        قال آخر ما أرى أن يكون
+        <lb/>
+
+        هذا شبيهًا ولكن انظروا وافحصوا عن ذلك
+      </p>
+
+      <p n="Character Is Difficult to Know">
+        فإنّ معرفة الخلائق شديدة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

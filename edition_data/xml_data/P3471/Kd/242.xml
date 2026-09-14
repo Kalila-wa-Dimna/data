@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="242"/>
+
+      <p n="Brahmins Dramatize Dreams">
+        معجبًا لم يسمع بمثله فيما مضى وما أشدّ وأعظم ما تتخوّفه منها
+      </p>
+
+      <p n="Brahmins Request Delay">
+        فإن شئت أيّها الملك أذنت لنا في الخروج عنك ومناظرين
+        <lb/>
+
+        بعضًا بعضًا فيها وقراءة كتبنا وما نجد من التأويل فيها ويكون
+        <lb/>
+
+        لبثنا فيما نؤقّته ستّة أيام ثمّ نعود إلى الملك يوم السابع فنخبره
+        <lb/>
+
+        بتأويلها ووجدان العمل في الخلاص من مكروهها وغمّها
+        <lb/>
+
+        والذي يتخوّف منها
+      </p>
+
+      <p n="King Grants Delay">
+        فرضي الملك قولهم وأذن لهم في الخروج
+      </p>
+
+      <p n="King Order Brahmins Counsel">
+        وقال
+        <lb/>
+
+        اعملوا رأيكم فيما تعلمون أنّه يوافقني
+      </p>
+
+      <p n="Brahmins Promise Good">
+        فقالوا نفعل أيّها الملك
+      </p>
+
+      <p n="Brahmins See Chance">
+        فخرجوا من عنده واجتمعوا فقال بعضهم لبعض إنّ هذا الملك
+        <lb/>
+
+        قد قتل منّا إثنا عشر ألف محدث ولم يطل العهد منذ فعل ذلك
+        <lb/>
+
+        وأباد أهل ملّتنا وخرّب المتديّنين منّا وقد استمكنّا منه إذ افضى
+        <lb/>
+
+        إلينا سرّه وعرفنا فرقه من رؤياه
+      </p>
+
+      <p n="Brahmins Plan Revenge">
+        ولعلّنا ننتقم منه إن نحن أغلظنا
+        <lb/>
+
+        له في القول وأجبناه بما رأى في منامه فيحمله الخوف على أن يتابعنا
+        <lb/>
+
+        على ما نريد فندرك بذلك أثآرنا فليجتمع رأيكم على ذلك
+      </p>
+
+      <p n="Brahmins Will Order Killings">
+        ونقول
+        <lb/>
+
+        له إنّ في هذا الذي رأيت قتلك وذهاب ملكك عنك إلى أعدائك
+        <lb/>
+
+        ولن يُدفع ذلك عنك إلّا بقتل من يكون كريمًا من أهلك ووزرائك
+        <lb/>
+
+        ونقول له قد نظرنا في كتبنا فلم يُصرف ما رأيت إلّا قُتل من نسمّي لك
+      </p>
+
+      <p n="Kings Anticipated Question">
+        فإن قال ومن تريدون أن تقتلوا
+      </p>
+
+      <p n="Brahmins List Of Victims">
+        قلنا إبرخت امرأتك وابنها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

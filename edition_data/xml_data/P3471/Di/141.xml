@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="141"/>
+
+      <p n="Dimna, Being Innocent, Cannot Confess What He Did Not Do">
+        بما لم أعمل وأن أبوء بذنبٍ لم أذنبه فأكون بغيًّا على نفسي وشريكًا لمن أراد
+        <lb/>
+
+        قتلي فإنّك قد تعرف عقاب من فعل ذلك بنفسه وقتلها في الآخره
+      </p>
+
+      <p n="One Must Not Sacrifice Hereafter for Here">
+        وإنّ
+        <lb/>
+
+        من سعادة المرء أن لا يبيع آخرته بدنياه ولا يشتري روحًا يسيرًا بعذابٍ
+        <lb/>
+
+        طويلٍ
+      </p>
+
+      <p n="Killing Dimna Would Be Unjust">
+        وأنا بريء المساحة بارز العذر فإن أردتم قتلي مظلومًا بهذا
+        <lb/>
+
+        العرف فإنّ ذلك غير ضارٍ بي في الآخرة وإنّي صابر في البراءة المظلومين
+        <lb/>
+
+        الذين قُتلوا على غير ذنبٍ وكفى بالله ناصرٌ إليّ ومتى فعلتم بي ذلك رجوت
+        <lb/>
+
+        أن لا يكون شرّ أموري لي عاجلًا وآجلًا
+      </p>
+
+      <p n="Dimna Want to Spare Court Sin and Regret in Hereafter">
+        وأنا أقول لكم أيّها الجمع اليوم
+        <lb/>
+
+        مقالتي أم اذكروا حساب الآخرة وعقابها لكيلا تندموا غدًا حين لا تنفع
+        <lb/>
+
+        الندامة
+      </p>
+
+      <p n="On Judgement Day Every One Will Account for His Actions">
+        ثمّ اذكروا الجزاء في الآخرة فأنّ أهل هذا العالم جاءوا عراةً كلّهم
+        <lb/>
+
+        يخرج عريانًا لا يضقن بشيءٍ من عظمةٍ ولا مُلكٍ ولا سلطانٍ كانوا يغبطون
+        <lb/>
+
+        به ولا بهجةٍ ولا مالٍ ولا أهلٍ ولا ولدٍ ولا أثاثٍ ولا منزلٍ إلّا ما قالوا
+        <lb/>
+
+        وعملوا
+      </p>
+
+      <p n="Everyone Should Say Only What They Know">
+        فلا يقولنّ في أمري إلّا بما علم فإنّ الذي يقول لما يعلم قد علمته
+        <lb/>
+
+        ثم يشهد عليه
+      </p>
+
+      <p n="Dimna's Fourth Subtale of the Falconer Who Falsely Accuses the Marzuban's Wife">
+        يصيبه ما أصاب البازيار ار قال بما لم يعلم وادّعى على
+        <lb/>
+
+        امرأة مولاه ليهلكها ببهتانٍ قذفها به ممّا لم يحط به خبرًا
+      </p>
+
+      <p n="Head of Court Requests Tale">
+        قال عظيم
+        <lb/>
+
+        الجثّة وما ذلك
+      </p>
+
+      <p n="Marzuban Had Wife and Servant">
+        قال دمنة زعموا أنّه كان في مدينة مَرْو رجل مرزبان
+        <lb/>
+
+        مذكور الاسم وكان له امرأةٌ يُقال لها بهاربويه وكانت جميلة حسنًا
+        <lb/>
+
+        لبيبة حصانًا من النساء وكان للرجل عبدًا رقيقًا يحمل البزاة
+      </p>
+
+      <p n="Falconer Accosted Wife and Is Rejected">
+        فهوى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

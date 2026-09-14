@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="76"/>
+
+      <p n="The Reader Needs Stamina and Focus">
+        وقال أيضًا ينبغي لطالب العلم الجدّ والتشمير
+        <lb/>
+
+        وإفراغ البال وإظهار الحرص وقوّة الهمّة والصبر
+        <lb/>
+
+        والملازمة فإنّه متي لم يكن كذلك لم ينتفع بما
+        <lb/>
+
+        طلب منه ولم يستفد من أغراضه إلّا ما أتعب فيه
+        <lb/>
+
+        نفسه
+      </p>
+
+      <p n="The Teacher and the Student are Partners">
+        وقيل إنّ الفيلسوف وتلميذه بمنزلة
+        <lb/>
+
+        الشريكين يكون أحدهما بما ظهر له منه كما أنّ
+        <lb/>
+
+        رجلًا لو قُدّم له جوز صحيح لم ينتفع به حتّى يكسره
+        <lb/>
+
+        وينتفع بما فيه
+      </p>
+
+      <p n="Friends Reach Agreement by Counseling">
+        وكان كالرجل الذي طلب المشي
+        <lb/>
+
+        مع آخر وحاول أن يسبقه فأقلّهما ما لا يجب أن
+        <lb/>
+
+        يلحق صاحبه والآخر يجب أن يزداد إلّا ما عنده
+        <lb/>
+
+        وهما لا يلتقيان إلّا عند المشاورة
+      </p>
+
+      <p n="The Preface Is for Explaining the Target Audience">
+        وإنّما قدّمت هذه
+        <lb/>
+
+        المقدّمة لئلّا يظنّ ظان أنّ الفلاسفة وضعت هذا
+        <lb/>
+
+        الكتاب لظاهره دون علم باطنه وأنّها إنّما وضعته
+        <lb/>
+
+        للرعيّة دون الملوك وللأصاغر دون الأكابر
+      </p>
+
+      <p n="The Book Has Four Aims">
+        وينبغي
+        <lb/>
+
+        للناظر في هذا الكتاب وقانيه أن يعلم أنّه ينقسم
+        <lb/>
+
+        إلى أربعة أغراض
+      </p>
+
+      <p n="The First Aim Is to Attract the Youth">
+        منها ما وضع فيه على ألسن الحيوان
+        <lb/>
+
+        الغير ناطقة ليسارع إلى قراءته أهل الهزل من الشباب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

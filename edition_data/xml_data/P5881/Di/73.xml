@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="73"/>
+
+      <p n="Servant Tricks Woman">
+        فأخذتها منه زوجة المصوّر وتركها في مكانها الذي أخذتها منه
+      </p>
+
+      <p n="Lover Realizes She Was Tricked">
+        فلمّا مضى من الليل نصفه عاد المصوّر إلى منزله ولبس الملاءة ثمّ أتى إلى المرأة فلمّا
+        <lb/>
+
+        رأته مقبلًا أتت إليه مسرعة وقالت له لقد أسرعت في الرجعة أما قد قضيت حاجتك
+        <lb/>
+
+        فما الذي أتى بك ثانية فلمّا سمع المصوّر ذلك منها علم أنّه قد دهته داهية
+      </p>
+
+      <p n="The Lover's Servant Confesses">
+        فانصرف ولم يدنو منها وأخذ زوجته فأوجعها ضربًا فأخبرته الخبر كلّه فحرّق
+        <lb/>
+
+        الملاءة وندم على تعريضه إلى ما شاركه فيه غيره
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

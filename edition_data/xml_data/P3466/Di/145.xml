@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="145"/>
+
+      <p n="The Mother Places the Lion's Benefit Over That of the Subjects">
+        ولكنّي أحبّ أن أخبرك به بما فيه من المصلحة لك
+        <lb/>
+
+        وإن وصل خطأه وضرره إلى العامّة فأضرارهم على خيانة الملك
+        <lb/>
+
+        ممّا لا يدفع الشرّ عنهم
+      </p>
+
+      <p n="The Foolish Spread Doubt to Cover Their Crimes">
+        وبه يحتجّ السفهاء ويدخلون الشبهة على ما
+        <lb/>
+
+        يكون من أعمالهم القبيحة وأشدّ معارّهم إقدامهم على ذي الحزم
+        <lb/>
+
+        الشريف
+      </p>
+
+      <p n="The Mother Quotes the Leopard Anonymously">
+        ثمّ أخبرت الأسد بجميع ما ألقاه إليها النمر من غير
+        <lb/>
+
+        أن تخبره باسمه
+      </p>
+
+      <p n="The Lion Assembles the Court and Summons Dimna">
+        فأمر الأسد عند ذلك فأحضر جميع جنده وخواصّه
+        <lb/>
+
+        وجلس مجلسًا عامًّا وأمر بدمنة فأُتي به
+      </p>
+
+      <p n="The Lion Lowers His Head in Shame">
+        فلمّا مثل بين يديه نكّس
+        <lb/>
+
+        الأسد رأسه حياء ممّا فعل بشتربة وحزنًا عليه
+      </p>
+
+      <p n="Dimna Inquires About the Lion's Dejection">
+        فالتفت عند
+        <lb/>
+
+        ذلك دمنة إلى بعض جلساء الأسد فقال له على خفية هل حدث
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

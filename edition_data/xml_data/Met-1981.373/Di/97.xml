@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="97"/>
+
+      <p n="Dimna's Testimony Is Recorded and Court's Members Leave for the Day">
+        سائرهم
+      </p>
+
+      <p n="The Court Hears Dimna's Arguments Seven More Days Without Reaching Verdict">
+        وبقي دمنة بعد ذلك سبعة أيّام محبوسًا لم يقدر أحد أن يثبت
+        <lb/>
+
+        عليه شيء من ذنبه ولا يخصمه ويلزمه حجّته
+      </p>
+
+      <p n="The Mother Warns the Lion of Leaving Dimna Unpunished">
+        ثمّ إنّ أمّ الأسد قالت لئن
+        <lb/>
+
+        أنت خليت سبيل دمنة بعد الذي ارتكب من الأمر العظيم
+      </p>
+
+      <p n="Failure to Punish Dimna will Weaken the Lion’s Authority">
+        ليتجرئنّ عليك
+        <lb/>
+
+        جندك ولا يتخوّفك منهم أحد
+      </p>
+
+      <p n="Lion Orders Dimna to Be Killed">
+        فغضب الأسد عند ذلك ثمّ استبان
+        <lb/>
+
+        له أنّ دمنة هو الذي حمله على قتل شتربة فأمر به فُقتل شرّ قتلة
+      </p>
+
+      <p n="Commentary That Seeking Others' Harm Will Be Punished">
+        ثمّ قال
+        <lb/>
+
+        الفيلسوف للملك فلينظر أهل الفكر في الأمور في هذا وأشباهه
+        <lb/>
+
+        وليعلموا أنّه من التمس منفعته بهلاك غيره ظلمًا فإنّ العقوبة تكون إخراسه
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

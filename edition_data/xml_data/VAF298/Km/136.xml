@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>VAF298</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="136"/>
+
+      <p n="King R Deems Fortune Inevitable">
+        قد فهمت هذا المثل إلّا أنّه قد قيل من أشرف صعب عليه وعلم أنّ له منه فائدة
+        <lb/>
+
+        اشتدّ قلبه وفرح به الناس والناس لا يرجون في دنياهم هذه غير الاسم الطيّب
+        <lb/>
+
+        وحسن الثناء وهم الباقيان ولا بدّ من أن أسارع في هذا الأمر إلى أن يتمّ
+      </p>
+
+      <p n="The Vizier Is in Want of a Solution">
+        قال
+        <lb/>
+
+        رودباد لمّا رأى حرصه لإتمام الأمر أنا أشر على الملك أن يجمع العلماء
+        <lb/>
+
+        والجهّال ويستمع من كلّ منهم على قدر مشورته ورأيه
+      </p>
+
+      <p n="The Wise and the Ignorant Think Differently">
+        فالحكيم يحدّث بحكمته
+        <lb/>
+
+        والجاهل يحدّث بما جرى له من جهله على نفسه
+      </p>
+
+      <p n="One Could Consult the Wise or the Ignorant">
+        فإنّ الصواب ليس يخفى فيما بينهما
+        <lb/>
+
+        ومن مفاوضتهما ليستدلّ على ما ينفع ويضرّ ولا ينفع الصواب أن تعرب عن
+        <lb/>
+
+        المشورة
+      </p>
+
+      <p n="The Vizier Trusts the King Would Take the Advice">
+        وكذلك أنا أريد أن أفحص عنه وأشاور نفسي فيه وأقول ما فيه الصواب
+        <lb/>
+
+        والنفع
+      </p>
+
+      <p n="King R Appreciates the Vizier's Candor">
+        قال بهرام قد صدقت فيما قلت فلمّا ابتدأت بهذا القول وكشف
+        <lb/>
+
+        هذا السرّ اتّكالًا على حكمتك وحلمك فأنا أثق بعد القضاء والقدر أن لا يكون تمام
+        <lb/>
+
+        هذا الأمر إلّا بفضل رأيك وتمييزك
+      </p>
+
+      <p n="The Third Vizier Concludes">
+        قال رودباد إنّما قلت هذا القول ليعرف
+        <lb/>
+
+        الملك الواجب فيه مع فضله وهمّته
+      </p>
+
+      <p n="King R Asks the Youngest Vizier">
+        ثمّ أقبل على أصغر وزرائه وقال أنت يا هذا
+        <lb/>
+
+        ما تقول في أمرنا الذي قد تشاجرنا فيه
+      </p>
+
+      <p n="The Youngest Viziers Proposes to Bell the Cats">
+        قال الوزير الصواب عندي أن نجمع
+        <lb/>
+
+        لهم أجراسًا أكثر ما نقدر عليه ثمّ نجعل في عنق كلّ سنّور منها جرسًا فإذا
+        <lb/>
+
+        تحرّك وأقبل أحسّينا به فنحترز منه فلا يقدر علينا
+      </p>
+
+      <p n="King R Runs the Idea by the Second Vizier">
+        قال الملك ما تقول فيما
+        <lb/>
+
+        قال صاحبك
+      </p>
+
+      <p n="The Second Vizier Rejects Belling the Cats">
+        قال لست أقبل ذلك ولا أشير به أحسب أنّا جمعنا الأجراس
+        <lb/>
+
+        من يجعلها في عنق السنانير
+      </p>
+
+      <p n="The Second Viziers Proposes Self-Imposed Exile">
+        بل أقول قولًا لعلّ فيه رشدًا اعلمْ أيّها الملك
+        <lb/>
+
+        أنّه ينبغي لنا بأجمعنا أن نجتمع ونرحل عن المدينة ونسكن البرّيّة
+        <lb/>
+
+        سنة واحدة ونسافر إلى مدائن أخر حتّى يتوهّم أهل البلد أنّ الجرذان
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

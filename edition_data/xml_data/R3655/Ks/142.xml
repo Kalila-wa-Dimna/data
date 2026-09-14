@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="142"/>
+
+      <p n="unassigned">
+        ابن آوى إنّ الملوك أحقّاء باختيار الأعوان فيما يهتمّون به من أعمالهم من غير إكراه
+        <lb/>
+
+        فإنّ المكره لا يستطيع المبالغة في العمل وأنا لعمل السلطان كاره وليست لي
+        <lb/>
+
+        ولا بالسلطان قوّة وأنت ملك السباع عندك من أجناس الوحش عدد وفيهم نبل
+        <lb/>
+
+        وقوّة فإن استعنت بهم أعانوك قال الأسد دع هذا فإنّي غير معفيك من العمل
+        <lb/>
+
+        قال ابن آوى إنّما يستطيع صحبة السلطان رجلان لست واحدًا منهما إمّا فاجر ينال حاجته
+        <lb/>
+
+        بفجوره وإمّا رجل مهين غافل فأمّا من أراد أن يصحب الملوك بالصدق والنصيحة والعفاف
+        <lb/>
+
+        لا يخالط ذلك بغيره فقلّ ما تستقيم له صحبتهم ﻷنّه يجتمع عليه عدوّه وصديقه بالعداوة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ks</chapter>
+  </chapter>
+</TEI>

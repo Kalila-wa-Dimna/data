@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="324"/>
+
+      <p n="Brahmins Request Delay">
+        أن نتطلّق فنفكّر فيه ستّة أيّام ثمّ نأتيك في السابع فنخبرك به ولعلّنا
+        <lb/>
+
+        نستطيع أن ندفع ما نتخوّف منه فعلناه
+      </p>
+
+      <p n="King Grants Delay">
+        فقال الملك نعم
+      </p>
+
+      <p n="King Order Brahmins Counsel">
+        فاعملوا
+        <lb/>
+
+        برأيكم فيما تعلمون أنّه يوافقني
+      </p>
+
+      <p n="Brahmins Promise Good">
+        فقالوا نعم أيّها الملك
+      </p>
+
+      <p n="Brahmins See Chance">
+        فخرجوا واِجتمعوا
+        <lb/>
+
+        وقالوا لم يطل العهد مذ قتل مِنّا اثني عشر ألفًا وقد استمكنّا منه
+        <lb/>
+
+        أفضى إلينا بسرّه وعرفنا حرقته من رؤياه
+      </p>
+
+      <p n="Brahmins Plan Revenge">
+        ولعلّنا ننتقم
+        <lb/>
+
+        منه إن نحن أغلظنا له القول فيحمله الخوف على أن يتابعنا
+        <lb/>
+
+        لى ما نريد فنقول له
+      </p>
+
+      <p n="Brahmins Will Order Killings">
+        ونأمره أن يدفع إلينا من كَرُم عليه
+        <lb/>
+
+        من أهله ووزرائه ونقول له إنّا قد نظرنا في كتبنا فلم نجد ما
+        <lb/>
+
+        يصرف لك ما رأيت إلّا قتل ما نسمّي لك
+      </p>
+
+      <p n="Kings Anticipated Question">
+        فإذا قال ومن تريدون
+      </p>
+
+      <p n="Brahmins List Of Victims">
+        قلنا
+        <lb/>
+
+        اِمرأتك براخت وابنها خوين وابن أخيك وبلاذ صاحب
+        <lb/>
+
+        أمرك فإنّه ذوا حيلة وغنم كاتبك ولسانك وسيفك والفيل
+        <lb/>
+
+        الأبيض الذي تقاتل عليه والفيلين العظيمين والفرس
+        <lb/>
+
+        التي تركب والبختيّ الذي تسير عليه وكنانزون الفقيه
+      </p>
+
+      <p n="King Shall Bath In Blood">
+        ليجعل دماءهم في أبزن ثمّ يقعدك فيه
+      </p>
+
+      <p n="unassigned">
+        فإذا أردنا أن نخرجك
+        <lb/>
+
+        منه اجتمعنا معشر البرهميين من الآفاق الأربعة فرقيناك
+        <lb/>
+
+        ومسحنا عنك وغسلّناك بالماء والدهن الطيّب ثم صيّرناك
+        <lb/>
+
+        إلى مجلسك فيُذهب الله عنك ما تحذر ممّا رأيت فإنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

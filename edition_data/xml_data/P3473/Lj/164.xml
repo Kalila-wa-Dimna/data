@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="164"/>
+
+      <p n="Lion Offers Viziership">
+        محتاج وقد بلغني عنك العفاف والعقل وحسن السيرة
+        <lb/>
+
+        فلمّا أن قدمت عليّ ازددت فيك رغبة ومنك قربة وإنّي مواليك
+        <lb/>
+
+        من أعمالي أمرًا جسيمًا ورافعك إلى منزلة شريفة وجاعلك خاصّتي
+      </p>
+
+      <p n="King Must not Impose Service">
+        قال ابن آوى إنّ أحقّ الأشياء بالملوك اختيار الأعوان
+        <lb/>
+
+        فيما يلتمسون من أعمالهم وأمورهم وأن لا يكرهون أحدًا بذلك
+        <lb/>
+
+        لأنّ المُكره لا يستطيع المبالغة في العمل
+      </p>
+
+      <p n="Jackal Declines Position">
+        وأنا لعمل السلطان
+        <lb/>
+
+        كاره وليس لي به لا تجربة ولا رفق بأمور السلطان
+      </p>
+
+      <p n="Lion Has Eager Candidates">
+        وأنت ملك
+        <lb/>
+
+        السباع وعندك منهم عدد كثير وفيهم شدّة وقوّة وهم على
+        <lb/>
+
+        العمل حرص ولهم به رفق فإن استعنت بهم اغتبطوا بذلك
+        <lb/>
+
+        لأنفسهم وأغنوا عنك في سائر الأعمال
+      </p>
+
+      <p n="Lion Does not Excuse Jackal">
+        قال الأسد دع عنك
+        <lb/>
+
+        المقالة فإنّي غير معفيك من العمل
+      </p>
+
+      <p n="Two Kinds Serve Kings">
+        قال ابن آوى إنّما
+        <lb/>
+
+        يستطيع صحبة السلطان رجلان لست أنا بواحد منهما إمّا
+        <lb/>
+
+        فاجر مصانع ينل حاجته بفجوره ومصانعته وإمّا مهين
+        <lb/>
+
+        مغفّل لا يبالي بما كان
+      </p>
+
+      <p n="Good Advisor Is Hated">
+        وأمّا من أراد أن يخدم السلطان با
+        <lb/>
+
+        بالصدق والنصيحة والعفاف ولا يخلط ذلك بمصانعة
+        <lb/>
+
+        قلّ ما يستطيع ذلك فإنّه يجتمع عليه صديقه بالعداوة وعدوّه
+        <lb/>
+
+        بالحسد
+      </p>
+
+      <p n="Threats against Good Advisor">
+        فأمّا الصديق فينافسه في المنزلة ويبغي عليه فيها
+        <lb/>
+
+        ويعاديه وأمّا العدوّ فيضطغن عليه بنصحية لسلطانه
+        <lb/>
+
+        واستغناء السلطان به عنهم فإذا اجتمع فيه هذان
+        <lb/>
+
+        الصنفان فقد عرّض نفسه للمهالك
+      </p>
+
+      <p n="Lion Promises Jackal Protection">
+        قال الملك لا يكن بغي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

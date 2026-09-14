@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P2789</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="344"/>
+
+      <p n="A Fisher Finds an Empty Shell">
+        الذي كان في بعض الخلجان فكان ذات يوم في الماء صائدًا إذ أبصر
+        <lb/>
+
+        صدفة فتوهّمها شيئًا
+      </p>
+
+      <p n="The Fisher Abandons His Catch for the Shell">
+        فألقى شبكته موضعها فاشتملت على
+        <lb/>
+
+        سمكة قريبًا منها فخلّاها وقذف نفسه في الماء ليأخذ الصدفة
+        <lb/>
+
+        فلمّا أخرجها وجدها فارغة لا شيء فيها ممّا ظنّ فندم على ما ترك
+        <lb/>
+
+        من يده للطمع وتأسّف على ما فاته
+      </p>
+
+      <p n="The Fisher Misses the Pearl">
+        فلمّا كان في اليوم الثاني تنحّى عن
+        <lb/>
+
+        ذلك الموضع ورمى شبكته فأصابت حوتًا صغيرًا فحاول أخذه
+        <lb/>
+
+        ورأى أيضًا صدفة سنيّة فلم يلتفت إليها وساء ظنه بها فتركها
+      </p>
+
+      <p n="Another Fisher Wins the Pearl">
+        فاجتاز بها غيره من الصيّادين فأخذها فوجد فيها درّة
+        <lb/>
+
+        تساوي أموالًا كثيرة فازداد أيضًا عُسرة وندامة على محاولة
+        <lb/>
+
+        أخذ السمكة وتركه تلك
+      </p>
+
+      <p n="The Superficial Readers Miss the Meaning">
+        وكذلك الجهّال على إغفال أمر التفكّر
+        <lb/>
+
+        في أمر هذا الكتاب وترك الوقوف على أسرار معانيه والأخذ بظاهره
+        <lb/>
+
+        دون باطنه
+      </p>
+
+      <p n="Humor Seeking Readers">
+        فقد قالت العلماء مثل الذي يظفر بعلم الفلسفة وبدعه
+        <lb/>
+
+        ويصرف همّته إلى النظر إلى أبواب الهزل
+      </p>
+
+      <p n="A Gardner Neglects His Harvest">
+        كرجل أصاب أرضًا
+        <lb/>
+
+        طيّبة فأخذها وزرعها وسقاها حتّى إذا قرب خيرها وأنبعت
+        <lb/>
+
+        تشاغل عنها بما فيها من الزهر وقطع الشوك فأهلكه بتشاغله
+      </p>
+
+      <p n="The Book Has Four Aims">
+        فينبغي للناظر في هذا الكتاب ومقتنيه أنه يعلم أنّه ينقسم إلى
+        <lb/>
+
+        أربعة أغراض
+      </p>
+
+      <p n="The First Aim Is to Attract the Youth">
+        أحدها ما قصد فيه واضعه على ألسنة
+        <lb/>
+
+        البهائم الغير ناطق ليسارع إلى قراءته واقتنائه وأهل الهزل
+        <lb/>
+
+        في اللسان فتميل قلوبهم إليه لأن الغرض النوادر من جهة الحيوانات
+      </p>
+
+      <p n="The Second Aim Is to Please Kings">
+        والثاني إظهار خيالات الحيوانات بصنوف الألوان والأصباغ
+        <lb/>
+
+        ليكون أنسًا لقلوب الملوك ويكون حرصهم عليه ابتداء
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="155"/>
+
+      <p n="Resolute King Keeps Reflecting">
+        قدر أمره وأمر عدوّه وموضع فرصته ومكيدته ولا ينفكّ يعرض الأمور على
+        <lb/>
+
+        نفسه أمرًا أمرًا ويروّي في التقديم والتأخير في الأعوان الذي يعتمد عليهم
+        <lb/>
+
+        فيها
+      </p>
+
+      <p n="Chance Is Lost Without Advice">
+        فمن لم يكنْ له رأي ولم يكنْ له من أهل الرأي والعقل وزراء يقبل منهم ويعمل
+        <lb/>
+
+        برأيهم لم يلبثْ وإن ساقت الأقدار إليه حظّا أن تفجأه مقادير السوء بفساد
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="Chances Favor Intelligent">
+        فإنّ أقسام الخير لم توجدْ على الحسن ولا على الجمال ولكنّها وُجّهت
+        <lb/>
+
+        للعادل المستمتع بذوي العقول من نصحائه
+      </p>
+
+      <p n="Spy Praises King C">
+        وأنت أيّها الملك كذلك
+      </p>
+
+      <p n="Spys Advice Partially Secret">
+        وقد
+        <lb/>
+
+        استشرتني في أمر جوابك منّي في بعضه علانيّة وفي بعضه سرّا
+      </p>
+
+      <p n="Spys Open Advice">
+        فأمّا العلانيّة
+        <lb/>
+
+        فإنّي كما كرهت القتال فكذلك أكره الخضوع بالخراج والرضى بذلّ القهر
+      </p>
+
+      <p n="Dignity Over Life">
+        وإنّ العاقل الكريم يختار الموت صابرًا محافظًا على الحياة خرسًا ذليلًا
+        <lb/>
+
+        وأرى أن لا يؤخّر هذا الأمر ولا يدخل عليك فيه تثبّطا وتهاونا
+      </p>
+
+      <p n="Spy Moves To Secret Advice">
+        وأمّا
+        <lb/>
+
+        السرّ منه فليكن مستورًا
+      </p>
+
+      <p n="Victory Requires Guarding Secrets">
+        فإنّه كان يُقال إنّما يصيب الملوك الظفر بالحزم
+        <lb/>
+
+        والحزم بإجالة الرأي والرأي بتكرير النظر وتحصين الأسرار
+      </p>
+
+      <p n="Two Benefits Of Guarding Secret">
+        ومن حصّن
+        <lb/>
+
+        سرّه فله من تحصينه خلّتان إمّا ظفر بما يريد وإمّا سلامة من العيب
+        <lb/>
+
+        والضرّ إن أخطأه الظفر
+      </p>
+
+      <p n="Kind Needs Confidant">
+        ولا بدّ لصاحب السرّ من مستشار مؤتمن يفضي إليه
+        <lb/>
+
+        سرّه ويعاونه على النظر فيه فإن المستشير وإن كان أفضل من المستشار
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

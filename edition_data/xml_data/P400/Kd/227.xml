@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="227"/>
+
+      <p n="Philosopher Adds Good Wife">
+        المُواتيَة
+      </p>
+
+      <p n="Without Advice One Fails">
+        فإنّ الرّجُل وإنْ كَان شُجَاعًا لَسْنًا ثُمّ لمْ يَكُن له حِلم فَإنَّه ينهضُه
+        <lb/>
+
+        الأمر اليَسير حَائِرًا فيه القَبيح وَالضَعيف لجهَالتِه ويُبطل رأي نصيحَتِه
+        <lb/>
+
+        وإن أصاب ظفرًا وكُفي رُشدًا وأصاب حَزْمًا صَارَت عَاقبَة أمرِه فيه
+        <lb/>
+
+        إلى النَدَامَة
+      </p>
+
+      <p n="Fortunate King">
+        وإذَا كان عَلى خلاَف ذَلك من الفَضْل ونُبل الوزير ثُمّ أعَانَه
+        <lb/>
+
+        القضاء أصاب الفَلَاح عَلَى مَنْ خَاصَمَه والغَلبَة لِمَنْ وأمّاه
+      </p>
+
+      <p n="King And Vizier Tale Mention">
+        كما زُعم
+        <lb/>
+
+        لَنَا ما كَان بين مَلك الهِند وبين بلَار وَامرَأتِه
+      </p>
+
+      <p n="Pious Vizier">
+        كان ناسكًا
+        <lb/>
+
+        مجتهدًا حَسَن الخُلق لَبيبًا حليمًا كَامِلًا عالِمًا
+      </p>
+
+      <p n="King Dreams">
+        فبينَما الملك
+        <lb/>
+
+        نائمًا على السّرِير يعني سَرير مُلكِه إذْ رأى في منَامِه ثَمانية أحلام
+        <lb/>
+
+        فاستيقَظ عند كلّ واحد منها
+      </p>
+
+      <p n="King Summons Brahmins">
+        فدعا البرهميّين وَهُم النُسّاك
+      </p>
+
+      <p n="King Has Brahmins Interpret Dreams">
+        فَقَصّ عَلَيهم وَأَمَرَهُمْ أَنْ يُعَبِّرُوهَا
+      </p>
+
+      <p n="Brahmins Dramatize Dreams">
+        فقَالُوا لَه قَدْ رَأَيْت أَيُّها الملك أَمْرًا
+        <lb/>
+
+        مُنكرًا معجبًا لم يُسْمَعْ بمثله فيما مَضَى مِن الزمَان وإلى الآن
+      </p>
+
+      <p n="Brahmins Request Delay">
+        فَإنْ أَحْبَبْت
+        <lb/>
+
+        أنْ نَنْطَلِق فَنُفَكّر فيه سِتَّة َأَيّام ثُمّ نَأتِيك فِي اليوم السَّابع فَنُخْبِرُك
+        <lb/>
+
+        به وَلَعَلّنَا نَسْتَطيع أنْ نَدفع مَا تتَخَوّف مِنْه فعلمنَا
+      </p>
+
+      <p n="King Grants Delay">
+        فقال الملك نَعَم
+      </p>
+
+      <p n="King Order Brahmins Counsel">
+        فاستعملُوا رَأيَكُم فِيمَا تَعْلَمُون أنَّه يُوافِقُني
+      </p>
+
+      <p n="Brahmins Promise Good">
+        فَقَالُوا نَفْعَل أيُّهَا الملك
+      </p>
+
+      <p n="Brahmins See Chance">
+        فخَرَجُوا فاجْتَمعُوا فقَالوا لمْ يَطُل العهد مُذْ قَتَل مِنَّا اثني عَشَر ألفًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

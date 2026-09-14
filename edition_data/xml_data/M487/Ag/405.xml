@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M487</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="405"/>
+
+      <p n="unassigned">
+        وأخذت في النسك والعبادة فلمّا رأى الشعهر ذلك وأنّ اللبؤة قد
+        <lb/>
+
+        أضرّت بالثمار تقدّم إليها قال للبؤة قد كنت أظنّ أن الثمار العام
+        <lb/>
+
+        لم تحمل لمّا افتقدتهما وقد رأتيك تأكليها وأنت آكلة اللحم وتركت
+        <lb/>
+
+        رزقك وأقبلت على رزق غيرك فانتقصت الثمار علمت أنّ الشجر قد حمل
+        <lb/>
+
+        العام كما كان يحمل قبل اليوم وإنّما أوتينا في نقصان ذلك منك فويل
+        <lb/>
+
+        للشجر والثمار وآكلها من الوحش ما أسرع هلاكها لمّا دخل عليهم من ليس
+        <lb/>
+
+        له حقّ انتهى فلمّا سمعت اللبؤة ذلك من الشعهر تركت الثمار وأقبلت
+        <lb/>
+
+        على أكل الحشيش والعبادة
+      </p>
+
+      <p n="Chapter Title">
+        الباب الثاني عشر
+        <lb/>
+
+        باب الناسك والضيف
+      </p>
+
+      <p n="King Understood Last Chapter">
+        قال المَلك للفيلسوف قد فهمت ما ذكرت ممّن يدع ضرّ غيره لضرّ
+        <lb/>
+
+        يصيبه أو بليّة تدخل عليه
+      </p>
+
+      <p n="King Ask Seek Wrong Work">
+        فأخبرني عن من يدع عمله الذي
+        <lb/>
+
+        يليق به ويشاكله ويطلب سواه فلا يدركه فيراجع الذي في يديه
+        <lb/>
+
+        فلا يقدر عليه
+      </p>
+
+      <p n="King Requests A G Story">
+        قال المَلك وكيف كان ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lh</chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

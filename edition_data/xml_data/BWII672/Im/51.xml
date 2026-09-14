@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="51"/>
+
+      <p n="Two Things Do Not Suit Anyone">
+        في مشاركة مُلك السلطان أو يطمع رجل في مشاركة زوجة أحد
+      </p>
+
+      <p n="Fire and Water Do Not Mix">
+        فالحالان محال مثالهما كمثل الماء والنار فهذا لا يمكن أن
+        <lb/>
+
+        يجتمعا
+      </p>
+
+      <p n="Pauper Is in Terrible Hardship">
+        ومثاله زعموا أنّ رجلًا به فاقة شديدة فألجأه ذلك
+        <lb/>
+
+        أن يسأل أصدقائه وأقاربه فلم يكن عند أحد فضل يجود
+        <lb/>
+
+        به عليه
+      </p>
+
+      <p n="A Burglar Breaks Into His House">
+        فبينما هو ذات يوم أو ذات ليلة إذ أبصر سارقًا تسوّر
+        <lb/>
+
+        منزله فقال والله ما في منزلي شيئًا أخشى عليه من السارق
+        <lb/>
+
+        فليجهد بأحمض ما عنده فبينما السارق يجول إذ وقفت يده
+        <lb/>
+
+        على خابية فيها حنطة
+      </p>
+
+      <p n="The Burglar Attempts to Steal the Jar's Contents">
+        فقال والله ما أحبّ أن يروح تعبي
+        <lb/>
+
+        ضائعًا وربّما ما أجد في ليلتي شيئًا ولكنّي أحمل هذه الحنطة
+        <lb/>
+
+        وأقنع بها فعمد إلى إزار كان متوسّطه فبسطه وصبّ عليه جميع ما في
+        <lb/>
+
+        الخابية
+      </p>
+
+      <p n="The Pauper Panics">
+        فقال صاحب البيت ليس لي على مثل هذا صبر كيف أدعه
+        <lb/>
+
+        يذهب بقوتي فيجتمع عليّ الجوع والعري وهذان الاثنان ما اجتمعا
+        <lb/>
+
+        على أحد إلّا أهلكوه
+      </p>
+
+      <p n="The Pauper Chases the Burglar Away, Keeps His Garb">
+        ثمّ وثب على السارق وبيده عصاة قويّة
+        <lb/>
+
+        كانت عند رأسه فلم يبق للسارق شغل إلّا النجاة بنفسه وترك
+        <lb/>
+
+        إزاره فأخذه صاحب البيت ولبسه وأصبح كاسيًا
+      </p>
+
+      <p n="One Should Not Abandon Hard Work">
+        وليس ينبغي
+        <lb/>
+
+        للعاقل أن يركن إلى مثل هذا ويدع ما يجب عليه من الجدّ
+        <lb/>
+
+        في العمل والاجتهاد في السلوك والاكتساب
+      </p>
+
+      <p n="The Fortunate Few Are Not the Model">
+        وأطبق الجمهور
+        <lb/>
+
+        على أنّ من أتعب نفسه في السعي فيما يصلح به أمره لينال
+        <lb/>
+
+        بذلك بغيته
+      </p>
+
+      <p n="One Should Strive for Benefit Not Harm">
+        ويحرص على ما طلب من حسن منفعته نفسه ولا
+        <lb/>
+
+        يتعرّض لما يتظاهر عليه غلبه ويجتنبه وإن تعرّض لما يغلبه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

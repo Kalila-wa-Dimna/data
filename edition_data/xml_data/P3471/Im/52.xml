@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="52"/>
+
+      <p n="The Youngest Reflects on Wealth">
+        بين الناس والاستغناء به عن فضل ما في أيدي الناس وصرفه عن
+        <lb/>
+
+        وجوهه من صلة الرحم والإنفاق على الولد والفضل على الإخوان
+      </p>
+
+      <p n="Allocating Wealth Poorly is Poverty">
+        فمن كان له مال ولم ينفقه في حقوقه كان كالذي يعدّ فقيرًا وإن كان
+        <lb/>
+
+        موسرًا
+      </p>
+
+      <p n="A Wealth Well Spent Brings Praise">
+        وإن هو أحسن إمساكه مع القيام عليه لم يعدم الأمرين
+        <lb/>
+
+        جميعًا أمّا من دين يبقى عليه أو حمدًا يضاف إليه
+      </p>
+
+      <p n="False Spending Brings Regret">
+        ومتى قصد بإنفاقه
+        <lb/>
+
+        غير الوجوه التي عُدّت له لم يعدم أن يتلفه ويبقى عليه حسرة
+        <lb/>
+
+        وندامة
+      </p>
+
+      <p n="The Youngest Brother Decides To Help">
+        لكن الرأي إلى أن أشيل هذا المال الذي قد رُزقته فإنّي
+        <lb/>
+
+        أرجو أن ينفعني الله به ويغني إخواتي على يديّ فإنّما هو مال
+        <lb/>
+
+        أبي وأبيهم
+      </p>
+
+      <p n="The Youngest Brother Shares His Wealth">
+        فأقبل على صنوف التجارات التي كان أصرفها عنها
+        <lb/>
+
+        وقصّر فيها ثمّ إنّه صرف إليهما من المال ما يسعهما وعهد إليهما في
+        <lb/>
+
+        ترك استعمال ما كان أخذا فيه من إتلاف مالهما والانكماش علي
+        <lb/>
+
+        اكتسابها فكثرت أرباحهما وعاد إلى ما كانا عليه
+      </p>
+
+      <p n="The Reader Must Always Come Back to the Book">
+        وكذلك يجب
+        <lb/>
+
+        يجب على قارئ هذا الكتاب أن يديم النظر فيه والتفتيش
+        <lb/>
+
+        على معانيه
+      </p>
+
+      <p n="The Book Is Not about Animals">
+        ولا يظنّ أنّ الذي قُصد فيه من الأخبار حيلة بهيمتين
+        <lb/>
+
+        مجاور سبع وثور فيجوز بذلك عن غرضه المقصود إليه
+      </p>
+
+      <p n="A Fisher Finds an Empty Shell">
+        ويكون مثله مثل الصيّاد الذي كان يصيد في الخلجان في زورق
+        <lb/>
+
+        فبصر ذات يوم في أرض الماء صدفة تلألأ حسنًا فتوهّم أنّها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

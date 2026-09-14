@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="207"/>
+
+      <p n="Mention Thief Demon Story">
+        عليه
+      </p>
+
+      <p n="King Request Thief Demon Story">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="Story Thief Demon Cow">
+        قال الوزير زعموا أنّ ناسكًا أصاب من
+        <lb/>
+
+        رجل بقرة حلوبة فانطلق بها يقودها إلى منزله فعرض له لصّ أراد سرقتها وتبعه
+        <lb/>
+
+        شيطان يريد اختطافه
+      </p>
+
+      <p n="Thief And Demon Plot">
+        فقال الشيطان للصّ من أنت قال أنا اللصّ <>
+        <lb/>
+
+        أسرق هذه البقرة من الناسك إذا نام فمن أنت قال أنا الشيطان أُريد
+        <lb/>
+
+        اختطافه إذا نام وأذهب به فاتّفقا على هذا <> إلى المنزل فدخل منزله ودخلا
+        <lb/>
+
+        خلفه
+      </p>
+
+      <p n="Man Goes To Sleep">
+        وأدخل البقرة فربطها في زاوية المنزل وتعشّى ونام
+      </p>
+
+      <p n="Thief And Demon Confer">
+        فأقبل اللصّ
+        <lb/>
+
+        والشيطان يأتمران فيه واختلفا على من يبدأ بشغله أوّلًا
+      </p>
+
+      <p n="Demons Concerns">
+        فقال
+        <lb/>
+
+        الشيطان للصّ إن أنت بدأت بـأخذ البقرة ربّما استيقظ وصاح واجتمع الناس
+        <lb/>
+
+        فلا أقدر على أخذه فأنظرْني ريثما آخذه وشأنك وما تريد
+      </p>
+
+      <p n="Thiefs Concerns">
+        فأشفق اللصّ
+        <lb/>
+
+        إن بدأ الشيطان باختطافه ربّما استيقظ فلا يقدر على أخذ البقرة فقال
+        <lb/>
+
+        لا بل أنظرْني أنت حتى آخذ البقرة وشأنك وما تريد
+      </p>
+
+      <p n="Thief And Demon Shout">
+        فلم يزالا في المجادلة
+        <lb/>
+
+        هكذا حتّى نادى اللصّ أيّها الناسك انتبهْ فهذا الشيطان يريد اختطافك
+        <lb/>
+
+        ونادى الشيطان أيّها الناسك انتبهْ فهذا اللصّ يريد أن يسرق بقرتك
+      </p>
+
+      <p n="Thief And Demon Flee">
+        فانتبه
+        <lb/>
+
+        الناسك وجيرانه بأصواتهما وهرب الخبيثان
+      </p>
+
+      <p n="Objectors Deems Owls Misled">
+        قال الوزير الأكبر
+        <lb/>
+
+        أظنّ أنّ الغراب قد خدعكنّ ووقع كلامه في نفس الغبيّ منكنّ موقعه
+      </p>
+
+      <p n="Objector Asks Reconsideration">
+        فزدن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

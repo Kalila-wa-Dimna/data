@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>H170</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="49"/>
+
+      <p n="The Youngest Reflects on Wealth">
+        من كلّ وجه لبقاء حاله وصلاح دنياه وشرف منزلته في أعين الناس واستغنائه
+        <lb/>
+
+        عمّا في أيديهم وصرفه في وجهه من صلة الرحم والإنفاق على الولد والإفضال على الإخوان
+        <lb/>
+
+        إذا لم يكن لدة
+      </p>
+
+      <p n="Allocating Wealth Poorly is Poverty">
+        ممّن كان له مال <> كالذي يُعدّ فقيرًا وإن كان موسرًا
+      </p>
+
+      <p n="A Wealth Well Spent Brings Praise">
+        وإن هو أحسن إمساكه
+        <lb/>
+
+        والقيام عليه لم يعدم الأمرين جميعًا في دنيا تضاف إليه وحمدًا يبقى عليه
+      </p>
+
+      <p n="False Spending Brings Regret">
+        ومتى قصد بإنفاقه
+        <lb/>
+
+        غير الوجوه التي حدثت له لم يلبث ويبقى عليه حسرة وندامة
+      </p>
+
+      <p n="The Youngest Brother Decides To Help">
+        ولكن الرأي في أن أمسك
+        <lb/>
+
+        هذا المال فإنّي أرجو أن ينفعني الله تعالى ويغني بإخوتي على يدي فإنّما هو مال أبي وأبيهما
+        <lb/>
+
+        وإنّ أولى الإنفاق صلة الرحم وإن بعد فكيف بإخوتي
+      </p>
+
+      <p n="The Youngest Brother Shares His Wealth">
+        ثمّ شاطرهما
+      </p>
+
+      <p n="The Reader Must Always Come Back to the Book">
+        وكذلك يجب على
+        <lb/>
+
+        قارئ هذا الكتاب أن يديم النظر فيه
+      </p>
+
+      <p n="A Fisher Finds an Empty Shell">
+        فيكون مثله مثل الصيّاد الذي كان في بعض
+        <lb/>
+
+        الخلجان فكان ذات يوم في الماء صائدًا إذ أبصر بصدفة فتوهّمها شيئًا
+      </p>
+
+      <p n="The Fisher Abandons His Catch for the Shell">
+        فألقى بشبكته
+        <lb/>
+
+        فاشتملت على سمكة كانت قريبًا منها فخلّاها وقذف نفسه في الماء ليأخذ الصدفة
+        <lb/>
+
+        فلمّا أخرجها وجدها فارغة لا شيء ممّا ظنّ فندم على ترك ما في يده للطمع وتأسّف على
+        <lb/>
+
+        ما فاته
+      </p>
+
+      <p n="The Fisher Misses the Pearl">
+        فلمّا كان في اليوم الثاني تنحّى عن ذلك المكان ورمى شبكته وأصاب حوتًا صغيرًا
+        <lb/>
+
+        فحاول أخذه ورأى أيضا صدفة سنية فلم يلتفت إليها وساء ظنه بها وتركها
+      </p>
+
+      <p n="Another Fisher Wins the Pearl">
+        فاجتاز
+        <lb/>
+
+        بعض الصيّادين بذلك المكان فوجدها فأخذها فوجد فيها درّة تساوي مالًا
+        <lb/>
+
+        فازداد أيضًا ندامة لترك صدفة لها قيمة
+      </p>
+
+      <p n="The Superficial Readers Miss the Meaning">
+        وكذلك الجهّال على إغفال أمر التفكّر والاغترار
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

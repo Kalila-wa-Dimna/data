@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="106"/>
+
+      <p n="The Mother Feels Criticized by the Lion">
+        نصحك مرتابٌ ولا أرى عليك في ذلك من ضررٍ في إفشاء ذلك الأمر إليّ
+      </p>
+
+      <p n="The Mother Has Three Reasons for Keeping the Secret">
+        قالت أمّ الأسد بل ضررٌ منه عليّ في خلالٍ ثلاثةٍ أمّا واحدةٌ
+        <lb/>
+
+        فانقطاع ما بيني وبين صاحب هذا السرّ من المودّة لإباحتي بسرّه وأمّا
+        <lb/>
+
+        الأخرى فخيانتي لما استُحفظت من الأمانة
+      </p>
+
+      <p n="The Mother Deems That Divulging Will Harm Her Credibility">
+        وأمّا الثالثة فوجل من
+        <lb/>
+
+        كان يسترسل إليّ قبل اليوم منّي وقطعهم أسرارهم عنّي
+      </p>
+
+      <p n="The Lion Does Not Insist on Knowing His Mother's Source">
+        قال الأسد الأمر على ما قلت وما أنا عمّا كرهت بالمفتّش وما يختلج
+        <lb/>
+
+        في صدري الارتياب بنصحك فأخبريني بجملة الأمر إذ كرهت أن تخبريني
+        <lb/>
+
+        باسم صاحب السرّ وتفشين ما أسرّ إليك منه
+      </p>
+
+      <p n="The Mother Quotes the Leopard Anonymously">
+        فأخبرته بجملة ذلك الحديث ولم تسمّ ذاكر ذلك له
+      </p>
+
+      <p n="A Ruler Must Not Spare Traitors">
+        وكان فيما قالت
+        <lb/>
+
+        أن قالت إنّه لا ينبغي للولاة والرؤساء استبقاء الخونة الفجرة أهل الغدر
+        <lb/>
+
+        والنميمة والمحال والإفساد بين الناس بفساد الناس بصلاحهم وأولى من
+        <lb/>
+
+        نفى عن الناس من يفسدهم وساق إليهم ما يصلحهم القادة المتولّون
+        <lb/>
+
+        لأمورهم
+      </p>
+
+      <p n="The Lion Is Entitled to Kill Dimna">
+        وأنت بقتل دمنة حقيقٌ
+      </p>
+
+      <p n="Divulging Secrets and Shielding a Criminal Is Harmful">
+        فإنّه قد كان يُقال إنّ إفساد أجلّ
+        <lb/>
+
+        الأشياء من قِبَل خصلتين إذاعة السرّ وائتمان أهل الغدر
+      </p>
+
+      <p n="Dimna Caused the Ox's Killing">
+        وإنّ الذي أنشب
+        <lb/>
+
+        العداوة بينك وبين شتربة أنصح الوزراء وخير الإخوان حتّى قتلته
+        <lb/>
+
+        غدر دمنة وجهالته ومكره وخيانته
+      </p>
+
+      <p n="The Lion Discovered Dimna's Hidden Nature">
+        وقد اطّلعت على مكنونه وبدا لك
+        <lb/>
+
+        ما كان يخفي عليك وعلمته نحو ما كان يذكر من حديثه إيّاك قبل اليوم
+      </p>
+
+      <p n="Punishing Dimna Brings Comfort">
+        فالراحة لك ولجندك إن ظهر منه ما كان يَكتُم وعلن منه ما كان يبطن
+        <lb/>
+
+        قلبه فاقتله عقوبةً لجريمته وأبقا وأبق على جندك فيما يستقيل يستقبل
+        <lb/>
+
+        من شرّه فإنّه ليس على مثلها إن انتعش بمأمونٍ
+      </p>
+
+      <p n="Dimna's Crime Cannot Be Forgiven">
+        ولعلّك أيّها الملك
+        <lb/>
+
+        أن تركن إلى ما أمر به من العفو عن أهل الجرم فإن روَّيت في ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

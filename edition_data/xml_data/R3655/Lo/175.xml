@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="175"/>
+
+      <p n="unassigned">
+        وقال له امض
+      </p>
+
+      <p n="Dimna's Departure to Investigate the Sound">
+        فانطلق دمنة نحو المكان الذي فيه شتربة
+      </p>
+
+      <p n="Scene 4. The Lion's Monologue">
+        فلمّا فصل دمنة
+        <lb/>
+
+        من عند الأسد فكّر الأسد في أمره وندم على إرساله حيث أرسله
+      </p>
+
+      <p n="Lion's Regret After Dimna's Departure">
+        وقال في
+        <lb/>
+
+        نفسه ما أصبت في ائتماني دمنة على ما ائتمنته عليه
+      </p>
+
+      <p n="Lion's Concerns about Suffering, Greedy and Malevolent Courtiers">
+        فإنّ الرجل الذي يحضر السلطان
+        <lb/>
+
+        إذا كان قد أُطيلت جفوته غير مجترم لذلك أو كان مبغيًّا عليه أو كان معروفًا
+        <lb/>
+
+        بالحرص والشره أو كان قد أصابه ضرّ وضيق فلم ينتعش أو كان شرّيرًا لا يحبّ
+        <lb/>
+
+        الخير
+      </p>
+
+      <p n="Lion's Concerns about Requistioned and Deposed Courtiers">
+        أو كان قد حيل بينه وبين ما في يديه من سلطان أو مال أو كان يلي عملًا
+        <lb/>
+
+        ففُرّق عليه أو انتُقص منه أو شُورك بينه وبين آخر فيه
+      </p>
+
+      <p n="Lion's Concerns about Harshly Punished Courtiers">
+        أو كان قد أجرم جرمًا في نظرائه
+        <lb/>
+
+        فعُفي عنهم وعُوقب أو عُوقبوا جميعًا فبلغ منه ما لم يبلغ منهم
+      </p>
+
+      <p n="Lion's Concerns about Courtiers Others Were Preferred Over">
+        أو كان قد أبلى بلاء في
+        <lb/>
+
+        نظرائه ففُضّلوا عنه في الجزاء أو كان له معاد أو حاسد ففُضّل عليه في المنزلة والجاه
+      </p>
+
+      <p n="Lion's Concerns about Impious and Inimical Courtiers">
+        أو كان غير موثوق به في الدين أو كان يرجو في شيء ممّا يضرّ السلطان نفعًا أو كان
+        <lb/>
+
+        يخاف في شيء ممّا ينفعه ضرًّا أو كان لعدوّ السلطان موادعًا
+      </p>
+
+      <p n="Advice against Trusting Certain Types of People">
+        كلّ هؤلاء ليس
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

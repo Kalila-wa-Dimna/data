@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3478</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="406"/>
+
+      <p n="unassigned">
+        فضول صيده فإنّه آمن في نفسه منّا وهو بنا مغترّ فإذا
+        <lb/>
+
+        دنونا منه وثبت إليه وتعمّدت عينيه ففقأتهما بمخالبي
+        <lb/>
+
+        ثمّ وثب كلّ واحد من باقي السنانير فيشغل موضعًا منه فلا
+        <lb/>
+
+        يذهب عنه حتّى يتركه ميّتًا وإن عطب في ذلك واحد منّا أو
+        <lb/>
+
+        اثنان ففي الراحة منه عوض ففعلوا ذلك فلمّا صاد الذئب
+        <lb/>
+
+        وحشًا ليأكله وحمله إلى بعض الكهوف اجتمع ملك السنانير
+        <lb/>
+
+        مع عدّة من أصحابه يتبعونه فلمّا انتهى إلى الموضع الذي
+        <lb/>
+
+        كان يأكل فيه وثب عليه المشير على الملك ففقاء عينيه بمخاليبه
+        <lb/>
+
+        وتركه بغير بصر ثمّ وثب عليه الملك فقطع ذنبه بأسنانه
+        <lb/>
+
+        ووثب كلّ واحد من السنانير فجرحه فلم يذهبوا
+        <lb/>
+
+        عنه حتىّ قتلوه
+        <lb/>
+
+        وإنّما ضربت لك هذه المثل لتعلمي أنّ في مكان المرزم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kw</chapter>
+  </chapter>
+</TEI>

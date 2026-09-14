@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="157"/>
+
+      <p n="Analogy of Rapidly Depleting Kohl">
+        سريع فناؤه
+      </p>
+
+      <p n="Consequences of Miserliness and Mismanagement">
+        وإن هو اكتسب وأصلح وثمّر ثمّ أمسك عن إنفاق المال في أبوابه
+        <lb/>
+
+        ومواضعه كان ممّن يُعدّ فقيرًا ليس له مال ثمّ لم يمنع ذلك ماله من أن يفارقه
+        <lb/>
+
+        من حيث لا يدرك منه شيئًا
+      </p>
+
+      <p n="Analogy of Overflowing Water Reservoir">
+        كمحبس الماء الذي لا يزال المياه تنصبّ إليه فإذا
+        <lb/>
+
+        لم يكن له مخرج ومغيض بالقدر الذي ينبغي أوشك أن تنبثق بثوق فيذهب
+        <lb/>
+
+        الماء ضياعًا
+      </p>
+
+      <p n="Sons' Acceptance of Father's Advice">
+        ثمّ إنّ بني التاجر اتّعظوا بقول أبيهم وأخذوا برأيه
+      </p>
+
+      <p n="Eldest Son's Journey and Ox Cart Incident">
+        فانطلق
+        <lb/>
+
+        الأكبر متوجّهًا نحو أرض يُقال لها منون فأتى في طريقه على مكان فيه وحل
+        <lb/>
+
+        شديد كثير ومعه عجلة يجرّها ثوران يُدعى أحدهما شتربة والآخر
+        <lb/>
+
+        بيدبة فوحل شتربة في ذلك الوحل فاستخرجه الرجل بعد جهد شديد وتعب
+      </p>
+
+      <p n="Merchant Leaving a Man to Care for the Ox">
+        فخلّف التاجر عنده رجلًا يقيم عليه أيّامًا فإذا رآه قد صلح وأفاق أتبعه به
+      </p>
+
+      <p n="Description of the Caretaker's Actions">
+        فلمّا كان من غد ذلك اليوم برم الرجل بموضعه فترك الثور ولحق بالتاجر
+        <lb/>
+
+        فأخبره أنّ الثور قد مات
+      </p>
+
+      <p n="Ox's Journey to a Lush Meadow">
+        ثمّ أنّ الثور انبعث من مكانه فلم يزل يدبّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

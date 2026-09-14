@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="90"/>
+
+      <p n="Chapter Title">
+        باب الأسد والثور وهو أوّل الكتاب
+      </p>
+
+      <p n="King's Request for a Parable">
+        قال ديشلم الملك لبيدبا الفيلسوف وهو رأس البراهمة اضرب لي مثل
+        <lb/>
+
+        المتحابّين الذي يقطع بينهما الكذوب المحتال حتّى يحملهما على العداوة والبغضاء
+      </p>
+
+      <p n="Philosopher's Response and Story Introduction">
+        قال
+        <lb/>
+
+        قال بيدبا إذا ابتلي المتحابّين بأن يدخل بينهما الكذوب المحتال لم يلبثا أن يتقاطعا
+        <lb/>
+
+        ويتدابرا
+      </p>
+
+      <p n="Setting: Wealthy Merchant and His Sons">
+        ومن أمثال ذلك أنّه كان بأرض دستاوبد رجل شيخ وكان له ثلاث
+        <lb/>
+
+        بنين
+      </p>
+
+      <p n="Sons' Mismanagement of Wealth">
+        فلمّا بلغوا أشدّهم أسرعوا في ما أبيهم ولم يكونوا احترفوا بحرفة يكسبون لأنفسهم
+        <lb/>
+
+        وأبيهم خيرًا فلامهم أبوهم ووعظهم على سوء فعلهم
+      </p>
+
+      <p n="Father's Advice: Three Pursuits and Four Necessities">
+        وكان من قوله لهم يا بنيّ
+        <lb/>
+
+        إنّ صاحب الدنيا يطلب ثلاثة أمور لن يدركها إلّا بأربعة أشياء
+      </p>
+
+      <p n="Three Worldly Pursuits">
+        أمّا الثلاثة
+        <lb/>
+
+        التي يطلب فالسعة في الرزق والمنزلة في الناس والزاد في الآخرة
+      </p>
+
+      <p n="Four Necessities for Achieving Pursuits">
+        وأمّا
+        <lb/>
+
+        الأربعة التي يحتاج إليها في درك هذه الثلاثة فاكتساب المال من أحسن
+        <lb/>
+
+        وجه ثمّ حسن القيام فيما اكتسب منه ثمّ إنفاقه فيما يصلح المعيشة ويرضي
+        <lb/>
+
+        الأهل والإخوان فيعود عليهم منفوعه في الآخرة
+      </p>
+
+      <p n="Failure to Achieve Goals Without Proper Management">
+        فمن ضيّع شيئًا من هذه الأحوال
+        <lb/>
+
+        لم يدرك ما أراد من حاجته لأنّه لم يكن تسبّب ولم يكن له مال يعيش به
+      </p>
+
+      <p n="Consequences of Poor Financial Management">
+        وإن
+        <lb/>
+
+        هو كان ذا مال واكتساب ثمّ لم يحسن القيام به أوشك أن يفنى ويبقى
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

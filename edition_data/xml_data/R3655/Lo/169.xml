@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="169"/>
+
+      <p n="Ruler's Responsibility to Recognize Merit">
+        مرتبته على قدر رأيه ونصيحته وما يوجد عنده من المنفعة والدين
+      </p>
+
+      <p n="Leaders Must Place Things Properly">
+        فإنّه قد كان
+        <lb/>
+
+        يُقال في أمرين ليس لأحد وإن كان ملكًا أن يضع شيئًا منها على غير موضعه
+        <lb/>
+
+        ولا أن يزيله عن مرتبته أحدهما حلية الرِجل والآخر حلية الرأس
+      </p>
+
+      <p n="Analogy of Misplaced Ornaments">
+        فإنّه لا يُعدّ جاهلًا
+        <lb/>
+
+        إلّا من عقد على رأسه حلية رجليه وحلى رجليه بحلية رأسه
+      </p>
+
+      <p n="Analogy of Comparing Precious Stones to Lead">
+        ومن ضبّب اللؤلؤ
+        <lb/>
+
+        والياقوت بالرصاص فليس ذلك تصغيرًا للياقوت واللؤلؤ ولكنّه جهل ممّن فعله
+      </p>
+
+      <p n="Advice against Associating with the Ignorant">
+        ولذلك كان يُقال لا يصاحبنّ الرجل صاحبًا لا يعرف ليمينه وشماله مواضعهما
+      </p>
+
+      <p n="Importance of Associating with the Wise">
+        وإنّما
+        <lb/>
+
+        يستخرج ما عند الرجال ولاتهم وما عند الجنود قادتهم وما في الدين والتأويل علماؤه
+      </p>
+
+      <p n="Three Things with Varying Degrees of Excellence">
+        وقد قيل في أشياء ثلاثة فضل ما بينهم متفاوت فضل المقاتل على المقاتل والفيل
+        <lb/>
+
+        على الفيل والعالم على العالم
+      </p>
+
+      <p n="Value of Quality over Quantity in Allies">
+        وكثرة الأعوان إذا لم يكونوا متحرّين مضرّة بالعمل
+        <lb/>
+
+        فإنّ العمل ليس رجاؤه بكثرة الأعوان ولكن بصلح الأعوان
+      </p>
+
+      <p n="Analogy of Carrying Heavy Stone vs. Valuable Gem">
+        كالرجل الذي
+        <lb/>
+
+        يحمل الحجر فيثقل به نفسه ولا يجد به ثمنًا والرجل الذي يحمل الياقوت فلا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

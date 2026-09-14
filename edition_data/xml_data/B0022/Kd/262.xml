@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>B0022</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="262"/>
+
+      <p n="unassigned">
+        من يقوم بين يديك بفيل أبيض لا يلحقه الخيل وأمّا ما رأيت
+        <lb/>
+
+        على رأسك شبيه النار فإنّه يأتيك من ملك أزرق من يقوم
+        <lb/>
+
+        بين يديك بإكليل من ذهب مكلّل بالدرّ والياقوت وأمّا
+        <lb/>
+
+        ما رأيت من الطير الأبيض الذي رأيته ضرب رأسك بمنقاره
+        <lb/>
+
+        فلست مفسّر لك ذلك اليوم وليس بضارّك فلا توجلن منه
+        <lb/>
+
+        ولكن فيه بعض السخط والإعراض عمّن تحبّ وهذا تفسير
+        <lb/>
+
+        أحلامك وأمّا هذه الرسل والبرد والهدايا فإنّهم يأتوك
+        <lb/>
+
+        بعد سبعة أيّام جميعًا ويقومون بين يديك
+      </p>
+
+      <p n="King Is Thankful">
+        فلمّا سمع
+        <lb/>
+
+        الملك كلامه أمن على نفسه ممّن كان خائف منه وفرح
+        <lb/>
+
+        واستبشر وسجد للحكيم المعبّر سجود تحيّة لا سجود
+        <lb/>
+
+        عبوديّة ورجع إلى منزله
+      </p>
+
+      <p n="King Informs Queen">
+        وقال لزوجته ابزاخت إنّ الحكيم
+        <lb/>
+
+        العالم كبارايرون قد قصّ لي ما سرّني
+      </p>
+
+      <p n="King Awaits Fulfilment">
+        وإنّي منتظرًا ما قال
+        <lb/>
+
+        بعد أسبوع
+      </p>
+
+      <p n="Gift Receiving Ceremony">
+        فلمّا كان اليوم السابع لبس ثيّاب الملك
+        <lb/>
+
+        وتزيّن ووضع تاجه وإكليله على رأسه وأحضر أكابر علماء
+        <lb/>
+
+        المملكة فأخذوا مجالسهم فلم يلبثوا أن جاءت الرسل
+        <lb/>
+
+        والهدايا كما شرح الحكيم كبارايرون
+      </p>
+
+      <p n="Kings Joy">
+        فلمّا نظر إلى حسن
+        <lb/>
+
+        تلك الهدايا وجوهر منافعها فرح فرحًا شديدًا
+      </p>
+
+      <p n="King Regrets Relating Dreams">
+        وقال ما فوقت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

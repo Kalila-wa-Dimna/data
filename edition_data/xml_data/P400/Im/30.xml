@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="30"/>
+
+      <p n="Scholars Commit to Debate and Prefer It">
+        العناية بذلك وتناقص بعضهم بعضًا جعلوا بذلك فضل مرادهم
+      </p>
+
+      <p n="Scholars Record Knowledge">
+        فصنعوا
+        <lb/>
+
+        ما أرادوا من ذلك وبلغوه بطول أعمارهم وصفو أفكارهم
+      </p>
+
+      <p n="Scholars Put Knowledge in Book of Fables">
+        فكان
+        <lb/>
+
+        من ذلك ما وصفوه على البهائم والطير
+      </p>
+
+      <p n="Fables Facilitate Many Types of Discourse">
+        فاجتمع لهم أمران أمّا
+        <lb/>
+
+        هم فوجدوا متصرّفًا في القول وشعوبًا يأخذون فيها وأمَّا هو
+        <lb/>
+
+        فجمع أن يكون لهوًا وحكمة
+      </p>
+
+      <p n="Book Is Used for Wisdom, Pleasure, and Knowledge">
+        فأحياه الله لحكماء لحكمته والجهّال
+        <lb/>
+
+        للهو به وحثّوا على دراسته
+      </p>
+
+      <p n="Acquired Knowledge Manifests in Adulthood">
+        فإذا احتبك الجذب منهم وجُمع له عقل
+        <lb/>
+
+        وتفكّر فيما حفظ من ذلك من أيّام صغره فقد رُمي في صدره من
+        <lb/>
+
+        نور علمه أنّه قد ظفر من ذلك بما هو خير وأنفع من ذخائر المال الملوك
+      </p>
+
+      <p n="Bequeathed Treasure Suffices">
+        فكان الذي يدرك متّخذًا إيّاه قد كنز له كنوزًا من الذهب والفضّة
+        <lb/>
+
+        وأعقد له عقدًا استغنى به عن استقبال السعي في طلب المعيشة
+      </p>
+
+      <p n="Knowledge Has Many Branches">
+        ولم يكن إذا كثرت صنوف العلم ثمّ كثرت فروع كلّ صنف منها حتّى
+        <lb/>
+
+        لا يستكمل منها شيء ولا بدّ أن تكرّ العلل التي تجري عليها أقاويل العلماء
+      </p>
+
+      <p n="Reader Must Decode Parables">
+        فمن قرأ هذا الكتاب فليعلم الوجه الذي وُضع عليه فإنّه من
+        <lb/>
+
+        لم يعرف ذلك لم يدر أيّ غاية يجري فيه ومتى يُجتنى منه وما أراد الحكماء
+        <lb/>
+
+        وأهل العقول مع ما نسبوا إليه من أمثالهم الموصوفة
+      </p>
+
+      <p n="Reader Must Read Well and Reflect">
+        فأوّل ما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

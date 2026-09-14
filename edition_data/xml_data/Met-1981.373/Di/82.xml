@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="82"/>
+
+      <p n="unassigned">
+        نص مؤقّت
+        <lb/>
+
+        نص مؤقّت
+        <lb/>
+
+        نص مؤقّت
+        <lb/>
+
+        نص مؤقّت
+        <lb/>
+
+        نص مؤقّت
+        <lb/>
+
+        نص مؤقّت
+        <lb/>
+
+        نص مؤقّت
+        <lb/>
+
+        نص مؤقّت
+        <lb/>
+
+        نص مؤقّت
+        <lb/>
+
+        نص مؤقّت
+        <lb/>
+
+        نص مؤقّت
+        <lb/>
+
+        نص مؤقّت
+        <lb/>
+
+        نص مؤقّت
+        <lb/>
+
+        نص مؤقّت
+        <lb/>
+
+        نص مؤقّت
+        <lb/>
+
+        نص مؤقّت
+        <lb/>
+
+        نص مؤقّت
+      </p>
+
+      <p n="Chapter Title">
+        باب الفحص عن أمر دمنة
+      </p>
+
+      <p n="The King Asks about Dimna's Fate">
+        قال الملك للفيلسوف قد فهمت كلامك فأخبرني ما كان
+        <lb/>
+
+        من اعتذار دمنة حتّى حين أمر الأسد بقتله
+      </p>
+
+      <p n="The Philosopher's Answer About the King's Killing">
+        قال الفيلسوف
+        <lb/>
+
+        بلغنا أنّ الأسد لمّا قتل شتربة ومرّ عليه أيّام ندم على معاجلته
+        <lb/>
+
+        إيّاه بالقتل وكان يطيل مسامرة أصحابه
+      </p>
+
+      <p n="A Leopard Was the Lion's Confidant">
+        فلمّا كان ذات ليلة
+        <lb/>
+
+        خرج النمر وكان معلّم الأسد وأمينه
+      </p>
+
+      <p n="The Leopard Overhears Kalila Chastising Dimna">
+        يطلب قبسًا من بيت
+        <lb/>
+
+        كليلة فلمّا انتهى إلى الباب إذا هو بكليلة يعاتب دمنة ويعذله
+        <lb/>
+
+        على سوء رأيه وصنعه في أمر شتربة من غير ذنب أسداه إليه
+      </p>
+
+      <p n="Kalila Predicts Dimna's Doom">
+        ويعلمه
+        <lb/>
+
+        أنّه غير ناج من الأسد وأنّه لا بدّ أن يطّلع على ما كان من نميمته وكذبه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

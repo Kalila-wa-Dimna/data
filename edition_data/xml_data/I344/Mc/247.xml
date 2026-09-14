@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="247"/>
+
+      <p n="The Treatment of Friends or Foes">
+        لا يحسن مداراة الأعداء والأصدقاء أضرّ بنفسه وأهلكها
+      </p>
+
+      <p n="One Should Not Befriend an Enemy Indefinitely">
+        وللعداوة وللصداقة مواضع لا ينبغي للعاقل أن يوافي
+        <lb/>
+
+        أخًا قد كان له عدوًّا إلّا على حال ضرورة
+      </p>
+
+      <p n="Young Cattle Only Nurse for a While">
+        فإنّ أولاد الدوابّ
+        <lb/>
+
+        تتبع أمّهاتها
+      </p>
+
+      <p n="Enmity Turns into Friendship in Times of Need">
+        والرجل إذا كان عدوًّا ثمّ صار خليلًا
+        <lb/>
+
+        في سبب منفعة تنقطع خلّته إذا انقطعت منفعته
+        <lb/>
+
+        ويصير إلى العداوة وأنت لي عدوّ
+      </p>
+
+      <p n="Heated Water Cools Down">
+        ومثل ذلك كالماء
+        <lb/>
+
+        الذي يسخن بالنار فإذا فُرّق بينه وبين النار
+        <lb/>
+
+        عاد إلى البرودة
+      </p>
+
+      <p n="The Cat Is the Rat's Worst Enemy">
+        وأنت لي عدوّ مثل ذلك فكيف
+        <lb/>
+
+        تستقيم أن تكون الخلّة بيننا
+      </p>
+
+      <p n="The Cat Desires the Rat for Food">
+        وأنا لا أعلم أنّ لك
+        <lb/>
+
+        إليّ حاجة
+      </p>
+
+      <p n="The Rat Departs to Safety">
+        ثمّ أخذ بالحزم والاحتراس من السنّور
+      </p>
+
+      <p n="The Ending of the Chapter">
+        تمّ الباب
+      </p>
+
+      <p n="unassigned">
+        باب المَلك والطائر قنزة وهو
+        <lb/>
+
+        باب الموتور وكيف ينبغي للذي وتره أن يحذره
+        <lb/>
+
+        قال المَلك للفيلسوف قد سمعت هذا المثل
+        <lb/>
+
+        فاضرب لي مثل الموتور وكيف ينبغي للذي وتره
+        <lb/>
+
+        أن يحذره قال الفيلسوف مثل ذلك
+        <lb/>
+
+        مثل المَلك والطائر قنزة قال المَلك وكيف كان
+        <lb/>
+
+        ذلك قال الفيلسوف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+    <chapter>Kb</chapter>
+  </chapter>
+</TEI>

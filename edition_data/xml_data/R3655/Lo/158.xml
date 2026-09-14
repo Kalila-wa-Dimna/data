@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="158"/>
+
+      <p n="Ox's Journey to a Lush Meadow">
+        نحو مرج مخصب كثير الماء والمرعى ثمّ انتهى إليه
+      </p>
+
+      <p n="Ox's Physical Transformation and Attitude Change">
+        فلم يلبث أن امتلأ
+        <lb/>
+
+        شحمًا فأشر وبطر
+      </p>
+
+      <p n="Ox's Loud Bellowing and Behavior">
+        وجعل يحكّ قرنيه بالأرض ويخور ويرفع صوته بالخوار
+      </p>
+
+      <p n="The Lion and His Animal Subjects">
+        وكان بقربه أسد وهو مَلك الناحية ومعه سباع كثيرة ومن الذئاب وبنات
+        <lb/>
+
+        آوى والثعالب وسائر السباع
+      </p>
+
+      <p n="Lion's Overconfidence and Poor Judgment">
+        وكان الأسد ممّن هو منفرد برأيه غير كاف
+      </p>
+
+      <p n="Lion's Reaction to Unfamiliar Sound">
+        وإنّ الأسد لمّا سمع خوار الثور ولم يكن رأى ثورًا قطّ ولا سمع خواره رعب
+      </p>
+
+      <p n="Concerned for Appearance, Lion Stays Immobile">
+        وكره أن يفطن لذلك جنده وأقام مكانه
+      </p>
+
+      <p n="Introduction of Kalila and Dimna">
+        وكان فيمن معه ابنا آوى يُدعى
+        <lb/>
+
+        أحدهما كليلة والآخر دمنة
+      </p>
+
+      <p n="Kalila and Dimna's Characteristics">
+        وكلاهما كانا ذا دهاء وأدب
+      </p>
+
+      <p n="Dimna's Ambitious Nature">
+        وكان دمنة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="67"/>
+
+      <p n="Dimna's Observation of Lion's Behavior">
+        لأخيه لكليلة يا أخي ما شأن الأسد لم يبرح من مكانه
+        <lb/>
+
+        ولم ينشط
+      </p>
+
+      <p n="Kalila's Caution about Meddling">
+        قال له كليلة وما شأنك أنت وشأن هذه
+        <lb/>
+
+        المسألة
+      </p>
+
+      <p n="Dimna's Perspective on Serving Kings">
+        ونحن على باب الملك الذي لنا آخذين لما أحبّ
+        <lb/>
+
+        تاركين ما يكره ولسنا من أهل المرتبة الذي يتناول أهلها
+        <lb/>
+
+        كلام الملوك والنظر في أمورهم
+      </p>
+
+      <p n="Kalila's Warning and Monkey Parable">
+        فأمسكْ عن هذا واعلمْ أنّه من
+        <lb/>
+
+        تكلّف من المعقول والعقل ما ليس من شأنه أصابه ما أصاب
+        <lb/>
+
+        القرد من النجّار **
+      </p>
+
+      <p n="Second Subtale of Monkey of Carpenter">
+        قال كليلة زعموا أنّ قردًا رأى نجّارًا يشقّ
+        <lb/>
+
+        خشبة على وتدين
+      </p>
+
+      <p n="Monkey's Misinterpretation">
+        وهو راكب عليها
+      </p>
+
+      <p n="Monkey's Attempt to Imitate">
+        ثمّ إنّ النجار قام ذهب لبعض
+        <lb/>
+
+        شأنه وقام القرد وتكلّف ما ليس من شغله
+      </p>
+
+      <p n="Monkey's Positioning on Wood">
+        فركب الخشبة
+      </p>
+
+      <p n="Monkey's Predicament">
+        فتدلّت خصيتاه في شقّ الخشبة
+      </p>
+
+      <p n="Monkey Removing Wedges">
+        فنزع الوتد الذي في الشقّ
+      </p>
+
+      <p n="Consequences of Monkey's Actions">
+        فلزمت الشقّ على خصيتيه فخرّ مغشيًّا عليه
+      </p>
+
+      <p n="Carpenter's Return and Punishment">
+        ثمّ إنّ النجّار
+        <lb/>
+
+        وافاه فرآه على تلك الحالة ونزل بها عليه حتّى أثخنه
+        <lb/>
+
+        ضربًا فكان ما لقي من النجّار أشدّ ممّا أصابه
+      </p>
+
+      <p n="Dimna's Response and Ambition">
+        قال دمنة سمعت
+        <lb/>
+
+        قولك وفهمت معنى ما ذكرت ولكن اعلمْ إنّه ليس كلّ من يدنو من
+        <lb/>
+
+        الملوك إنّما يدنو منهم لبطنه فالبطون تُحشى بكلّ مكان
+      </p>
+
+      <p n="Superior People Approaching Kings">
+        ولكنّه
+        <lb/>
+
+        يلتمس أن يسرّ الصديق ويكبت العدوّ ومن الناس من لا مروءة
+        <lb/>
+
+        له وهم الذين يرضون بالقليل ويفرحون بالدون
+      </p>
+
+      <p n="Analogy of Dog and Bone">
+        كالكلب
+        <lb/>
+
+        الذي يصيب عظمًا يابسًا فيفرح فيه
+      </p>
+
+      <p n="Contrast Between Ambitious and Content">
+        فأمّا أهل المروءة والفضل
+        <lb/>
+
+        فلا يقنعهم القليل ولا يرضون به دون أن تسمو أنفسهم إلى
+        <lb/>
+
+        ما هم له أهل
+      </p>
+
+      <p n="Lion's Hunting Behavior Analogy">
+        كالأسد الذي يفترس الأرنب فإذا رأى البعير
+        <lb/>
+
+        ترك وطلب البعير
+      </p>
+
+      <p n="Contrast Between Dog and Elephant Behavior">
+        ألا ترى إلى الكلب يبصبص بذنبه حتّى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

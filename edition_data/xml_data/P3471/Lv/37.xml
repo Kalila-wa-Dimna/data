@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="37"/>
+
+      <p n="Traits Ensure Safety">
+        والخير والمتجنّب السوء والخسران
+      </p>
+
+      <p n="Burzoy Has These Traits">
+        وهذه الخصال كلّها قد بانت
+        <lb/>
+
+        لي فيك وصحّت منك
+      </p>
+
+      <p n="Burzoy Came To Steal Indian Knowledge">
+        فالله يحفظك يا صديقي ويعينك على الحاجة
+        <lb/>
+
+        التي قدمت إليها وصادقتني من أجلها وهي سلب ديني وعلمي وفخري
+      </p>
+
+      <p n="Burzoy Deserves Help">
+        وقد علمت أنّ مثلك إذا اجتمعت فيه هذه الخصال أهل أن يُسعف
+        <lb/>
+
+        بحاجته ويُشفّع في طلبته ويُعطى سؤله
+      </p>
+
+      <p n="Friend Is Afraid">
+        مع أنّ حاجتك التي تطلب
+        <lb/>
+
+        قد عذّبت نفسي وأدخلت عليّ الفرق والخشية
+      </p>
+
+      <p n="Friend Is Loyal Despite Deceit">
+        فلمّا عرف برزويه
+        <lb/>
+
+        أنّ الهندي قد عرف أنّ مصادقته كانت مكرًا وحيلًا لطلب حاجته
+        <lb/>
+
+        وقد أنزل ذلك منه أنّه اختلاس وسلب لم يعتب عليه بل ردّ عليه
+        <lb/>
+
+        ردّ الشاكرين والأخ على أخيه باللين والإسعاف والاطمئنان
+      </p>
+
+      <p n="Burzoy Sure Of Success">
+        ووثقّ بقضاء حاجته
+      </p>
+
+      <p n="Burzoy Had Prepared Argument">
+        وقال له أنّي قد كنت هيّأت كلامًا كثيرًا
+        <lb/>
+
+        ووضعت له أصولًا وشعّبت منه شعوبًا
+      </p>
+
+      <p n="Friend Is Quick Minded">
+        فلمّا أنهيت إليك
+        <lb/>
+
+        منه طرفًا اكتفيت به <> أنت عمّا سواه فعرفت باليسير الكثير
+        <lb/>
+
+        لحسن قسم الله عزّ وجل في العقل والأدب
+      </p>
+
+      <p n="Friend Spares Burzoy Argument">
+        فكفيتني مؤنة الكلام
+        <lb/>
+
+        والجواب بالاستعان بالحاجة كما قد بدا منك
+      </p>
+
+      <p n="Secrets Safe With Scholars">
+        فإنّ الكلام إذا
+        <lb/>
+
+        انتهى إلى العلماء والسرّ إذا استودع العقلاء فقد ثبت
+        <lb/>
+
+        وبلغ غاية الأمل صاحبه وصار قويًّا ثابتًا
+      </p>
+
+      <p n="Safe Secret Like Fortress">
+        كثبات القصر الذي
+        <lb/>
+
+        أحكم أساسه بالصخر
+      </p>
+
+      <p n="Secret Keeper Like Immutable Object">
+        والجنادل الذي لا تزعزعه ولا تحرّكه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

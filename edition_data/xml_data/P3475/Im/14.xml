@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="14"/>
+
+      <p n="Kings Need The Book">
+        الملوك وسفه أحلامها ورأفتها ورحمتها
+      </p>
+
+      <p n="Kisra Desires The Book">
+        ولذلك لم يدع
+        <lb/>
+
+        أنوشروان كسرى بن قباد اقتناء الكتاب الذي بلغه عنه
+        <lb/>
+
+        أنّه ببلاد الهند وإضمامه إلى نفسه ومُلكه والعمل بحسن
+        <lb/>
+
+        تدبيره وعجائبه ممّا يقرّبه من الله تبارك وتعالى اسمه
+        <lb/>
+
+        ويزجره عن معاصيه
+      </p>
+
+      <p n="Kisra Ponders Who To Assign">
+        ولمّا عزم على ما أراد من أمره
+        <lb/>
+
+        وهمّ باقتناء كتاب كليلة ودمنة والبعثة في انتساخه
+        <lb/>
+
+        قال في نفسه من لهذا الأمر العظيم والأدب النفيس
+        <lb/>
+
+        والفخر الجليل الذي تزّيّن به ملوك الهند وفارس
+      </p>
+
+      <p n="Kisra Keen For Indian Book">
+        وقد
+        <lb/>
+
+        هممت أن لا أدع مع بُعد الشقّة وصعوبة الأمر ومخاطرة
+        <lb/>
+
+        منّا بأنفسنا طلب هذا الكتاب حتّى يصل إليّ نسخه
+        <lb/>
+
+        وتأليفه على إتقانه ورصانة أبوابه وعجائبه وحسن
+        <lb/>
+
+        تدبيره ومنافعه من أقاويل العلماء وتصنيف العلماء
+        <lb/>
+
+        الحكماء وتمييز العقلاء بأمثال متقنة وأحاديث معجبة
+        <lb/>
+
+        وتدبير محكم
+      </p>
+
+      <p n="Books Expected Benefits">
+        حتّى كاد العاقل أن يجتني من حلاوة ثمرته
+        <lb/>
+
+        وقرب مأخذه وكنز مذاهبه ومكاسبه ويزجر
+        <lb/>
+
+        النفس عن مساوئها ومعاصيها في اتّباع هواها
+      </p>
+
+      <p n="Kisra Reflects On Difficulty">
+        فلمّا
+        <lb/>
+
+        محّض كسرى ابن قباد الرأي فيما عزم عليه والعمل فيما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

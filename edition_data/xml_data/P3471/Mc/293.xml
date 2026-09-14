@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="293"/>
+
+      <p n="The Intelligent Trades Favors">
+        ولا يزال العاقل يرتهن منه بعض حاجته ببعض لما يخاف ويتّقي
+      </p>
+
+      <p n="Friendship Is Pursued For a Need">
+        وليس عامّة التواصل والتحابّ بين الخلق إلّا لالتماس عاجل النفع
+        <lb/>
+
+        أو مرجوّه
+      </p>
+
+      <p n="The Rat Acknowledges His Remaining Obligation">
+        وقد قضيت عملي وبقي ما عليّ
+      </p>
+
+      <p n="The Rat Explains the Reasons for Self-Protection">
+        وأنا واقف لك بما جعلت
+        <lb/>
+
+        لك ومحترس في ذلك من أن يصيبني منك ما هو ألجأني إلى صلحك
+      </p>
+
+      <p n="Everything Has Its Time">
+        ولكلّ عمل حين ينبغي أن يُعمل به فيه
+      </p>
+
+      <p n="Bad Timing Brings Failure">
+        وما لم يكن العمل في حينه
+        <lb/>
+
+        لم يُنتفع بثمرة عمله وما لا ينتفع بثمرة عمله فلا عاقبة له
+      </p>
+
+      <p n="The Rat Explains Not Cutting the Last Rope">
+        وأنا قاطع
+        <lb/>
+
+        حبائلك لحينها والوقت الذي يُرجى لك فيه درك الخلاص غير
+        <lb/>
+
+        أنّي تارك عقدة واحدة أرتهنها منك رهينة فلا أقطعها
+        <lb/>
+
+        إلّا في الساعة التي أعلم أنّك عنّي فيها مشغول
+      </p>
+
+      <p n="The Rat Cuts All but One Rope">
+        ففعل ذلك
+      </p>
+
+      <p n="The Huntsman Approaches">
+        حتّى إذا أصبحا إذا هما بالصيّاد قد أقبل من بعيد
+      </p>
+
+      <p n="The Cat Expects to Die">
+        فلمّا أبصر
+        <lb/>
+
+        به السنّور استبسل ونظر إلى الجرذ
+      </p>
+
+      <p n="The Rat Resolves to Cut the Last Rope">
+        فقال له الجرذ ليطمئنّ
+        <lb/>
+
+        قلبك إلى وفائي الآن حين جاء موضع الجدّ في قطع ما بقي من
+        <lb/>
+
+        حبائلك
+      </p>
+
+      <p n="The Rat Fulfills the Pact">
+        فلم يدن الصيّاد حتّى فرغ الجرذ على سوء ظنّ من السنّور
+        <lb/>
+
+        ودهش
+      </p>
+
+      <p n="The Cat and the Rat Escape">
+        فلمّا أفلت السنّور غدا إلى الشجرة فصعدها وانجحر الجرذ
+        <lb/>
+
+        إلى جحر وأخذ الصيّاد حبائله المتقطّعة وانصرف خائبًا
+      </p>
+
+      <p n="The Cat Calls Back the Rat">
+        ثم إنّ الجرذ خرج بعد ذلك من جحره فرأى السنّور من بعيد فكره
+        <lb/>
+
+        أن يدنو منه ولم يقربه فناداه السنّور أيّها الصديق ذوا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

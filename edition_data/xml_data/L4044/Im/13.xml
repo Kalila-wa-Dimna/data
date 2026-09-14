@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="13"/>
+
+      <p n="Scholars Put Knowledge in Book of Fables">
+        الحيّل ويبتغون في إخراج ما عندهم من العلل حتى كان من تلك العلل وضع
+        <lb/>
+
+        بليغ الكلام ومنمّقه على أفواه البهائم والطير
+      </p>
+
+      <p n="Fables Facilitate Many Types of Discourse">
+        فاجتمع لهم بذلك خلال
+        <lb/>
+
+        أمّا هم فوجدوا منصرفًا في القول وصوبًا يأخذون فيها ولهوًا وحكمة
+      </p>
+
+      <p n="Book Is Used for Wisdom, Pleasure, and Knowledge">
+        فاحتمله
+        <lb/>
+
+        الحكماء لحكمته والسخفاء للهوه والمتعلّمون من الأحداث وغيرهم فنشطوا
+        <lb/>
+
+        لعلمه وخفّ عليهم حفظه
+      </p>
+
+      <p n="Acquired Knowledge Manifests in Adulthood">
+        فإذا احتنك الحدث واجتمع له العلم تدبّر ما
+        <lb/>
+
+        كان حفظ ممّا صار مقيّدًا مزبورًا في صدره وهو لا يدري ما هو عرف أنّه
+        <lb/>
+
+        قد ظفر من ذلك بكنوز عظام
+      </p>
+
+      <p n="Bequeathed Treasure Suffices">
+        فكان كالرجل الذي يدرك حين يدرك
+        <lb/>
+
+        فيجد آباءه قد خفروا كنوزًا من الذهب والفضة واعتقدوا له عقدًا
+        <lb/>
+
+        استغنى بها عن استعمال السعي والطلب
+      </p>
+
+      <p n="Knowledge Has Many Branches">
+        ولم يكن لمّا أن كثرت فروع كل صنف
+        <lb/>
+
+        منها حتى لا يُستكمل منها شيء أن تكثر العلل التى تجري عليها أقاويل
+        <lb/>
+
+        العلماء
+      </p>
+
+      <p n="Reader Must Decode Parables">
+        فمن قرأ هذا الكتاب فليعرف الوجه الذي وُضع عليه فإنّه إن لم
+        <lb/>
+
+        يعرف ذلك لم يدر إلى أيّ غاية يجري فيه وأيّ شيء جنى منه
+      </p>
+
+      <p n="Reader Must Read Well and Reflect">
+        فأوّل
+        <lb/>
+
+        ما ينبغي لمن طلب هذا الكتاب أن يبتدئ وجوده وقراءته والتثبّت
+      </p>
+
+      <p n="Hasty Reader Benefits Nothing">
+        وأن
+        <lb/>
+
+        لا تكون غايته منه بلوغ آخره ولكن الوقوع على معانيه ومعرفته بما يقرأ
+        <lb/>
+
+        منه والتفكّر فيه فإنّه من كان همّه منه بلوغ آخره لا الإحكام لما يقرأ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

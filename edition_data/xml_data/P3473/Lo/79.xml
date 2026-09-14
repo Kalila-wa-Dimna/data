@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="79"/>
+
+      <p n="The Go-Between's Inquiry">
+        الإسكافيّ سكرًا جاءت امرأة الحجّام إلى امرأة الإسكافيّ وهي
+        <lb/>
+
+        موثوقة ** قد أطال الرجل يعني خليلها الجلوس على
+        <lb/>
+
+        الباب فما تأمرين
+      </p>
+
+      <p n="The Wives Swap Places">
+        قالت امرأة الإسكافيّ إن شئت أحسنتي
+        <lb/>
+
+        إليّ وحلّيتيني وأربطك مكاني حتّى أنطلق إليه وأعود مسرعة
+        <lb/>
+
+        إليك
+      </p>
+
+      <p n="The Swap is Made">
+        قالت امرأة الحجّام إنّي فاعلة ذلك فحلّتها وصارت
+        <lb/>
+
+        مكانها في الوثاق
+      </p>
+
+      <p n="The Shoemaker Wakes">
+        فاستيقظ الإسكافيّ قبل أن ترجع امرأته
+        <lb/>
+
+        فناداها باسمها فلم تجبْه فازداد حنقًا وغيظًا وخافت
+        <lb/>
+
+        امرأة الحجّام أن تتكلّم فينكر صوتها فدعاها مرارًا فلم تجبْه
+      </p>
+
+      <p n="The Barber's Wife is Mutilated">
+        فقام إليها بالشفرة فجدع أنفها وقال خذي هذا والحقي
+        <lb/>
+
+        بصديقك فنام
+      </p>
+
+      <p n="The Wives Swap Back">
+        فجاءت امرأة الإسكافيّ من عند خليلها فوجدت
+        <lb/>
+
+        صاحبتها مجدوعة الأنف وزوجها راقد فحلّتها من
+        <lb/>
+
+        وثاقها وأوثقت نفسها
+      </p>
+
+      <p n="The Mutilated Go-Between Flees">
+        ومضت الأخرى إلى بيتها وذلك
+        <lb/>
+
+        كلّه بعين الناسك وسمعه
+      </p>
+
+      <p n="The Wife's Feigned Prayer">
+        ثمّ إنّ امرأة الإسكاف رفعت
+        <lb/>
+
+        صوتها تدعو ربّها وتتضرّع وتدعو على زوجها
+      </p>
+
+      <p n="A Prayer for a Miraculous Restoration">
+        وتقول
+        <lb/>
+
+        اللهمّ إن كان زوجي ظلمني فأعد عليّ أنفي كما كان صحيحًا
+        <lb/>
+
+        سويًّا
+      </p>
+
+      <p n="Only the Razor">
+        ثمّ نادت زوجها وقالت أيّها الظالم الفاجر الباغي
+        <lb/>
+
+        انظرْ إلى فعلك وفعل ربّك وسخطه عليك ورحمته إيّاي فقد
+        <lb/>
+
+        عاد أنفي صحيحًا على الرغم منك
+      </p>
+
+      <p n="The Wife Claims a Miracle">
+        قال لها الإسكافيّ ما هذا
+        <lb/>
+
+        الكلام يا فاجرة ثمّ قام وأشعل سراجًا ونظر إليها فإذا أنفها
+        <lb/>
+
+        صحيحًا
+      </p>
+
+      <p n="The Husband is Deceived">
+        فاستغفر لها وتاب وسألها أن ترضى عنه وحلّها
+        <lb/>
+
+        وأرضاها
+      </p>
+
+      <p n="The Husband's Apology">
+        وأمّا امرأة الحجّام فإنّها توصّلت إلى بيتها ليلًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

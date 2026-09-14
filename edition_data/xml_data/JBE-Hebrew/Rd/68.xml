@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>JBE-Hebrew</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="68"/>
+
+      <p n="unassigned">
+        ונקרעו בנדיו ונשברו כליו. והעורב והעכבר מלענים עליו. וירץ הצבי עד אליהם.
+        <lb/>
+
+        ויצחק עליו עמהם. ויאמר הציייד אין זה כי אם מקום מכשפים ושדים. ילעינו
+        <lb/>
+
+        לציידים. ומפני שדים וציים. ואוחים. המקום הזה ישם. שעירים ירקדו שם.
+        <lb/>
+
+        ויחרר חרדה. וינס בפחד ובהפזה. וישובו העורב והצבי והעכבר אל הסלחפאה
+        <lb/>
+
+        אחותם. ותרב תחת הגפן שמחתם. והתחדשה אהבתם ואחוחם.
+        <lb/>
+
+        ויאמר המלך לדוד חכמות כבר הבינותי תחבולות קטני העוף והשרץ והחיות
+        <lb/>
+
+        ונבזיהם ותנמולם הטוב כי איש לאחיו ירוץ בעת צרתו. להצילו מרעתו. ומי יתן
+        <lb/>
+
+        והיו בני אדם ישרי לב כמוהם. להיות נאמנים לריעיהם. אז יהיו צדיקים. ורצון
+        <lb/>
+
+        קוניהם מפיקים. ואז יהי שלום ביניהם. ורעה לא תבא אליהם.
+        <lb/>
+
+        נשלם שער היונה העגוקה
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Rd</chapter>
+  </chapter>
+</TEI>

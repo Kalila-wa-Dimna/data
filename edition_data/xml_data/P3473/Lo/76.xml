@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="76"/>
+
+      <p n="Analogy of Wind and Trees">
+        الحشيش لكنّها تحطم عظام الشجر وطوال النخل
+      </p>
+
+      <p n="Dimna Offers to Bring Ox as Servant">
+        قال دمنة
+        <lb/>
+
+        لا تهابنّ أيّها الملك منه شيئًا ولا يكبرنّ في نفسك أمره فأنا
+        <lb/>
+
+        آتيك به ليكون لك عبدًا سامعًا مطيعًا
+      </p>
+
+      <p n="Lion's Approval of Dimna's Proposal">
+        ففرح الأسد بقوله
+        <lb/>
+
+        وقال دونك فأسرعْ فانطلق دمنة إلى الثور
+      </p>
+
+      <p n="Dimna's Confident Approach to Ox">
+        وقال غير هائب
+        <lb/>
+
+        ولا متلكلك إنّ الأسد أرسلني إليك لآتيه بك
+      </p>
+
+      <p n="Dimna's Offer of Safety to Ox">
+        وأمرني إن
+        <lb/>
+
+        أنت عجّلت إليه طائعًا أن أؤمّنك على ما سلف من ذنبك
+        <lb/>
+
+        في التأخّر عنه
+        <lb/>
+
+        وتركك لقاءه
+      </p>
+
+      <p n="Ox's Request for Assurance">
+        وإن أنت تأخّرت فأنا أرجع إليه عجلًا فأخبره
+        <lb/>
+
+        بذلك وعصيانك عليه وإحجامك عنه فيأتيك من قِبله من لا طاقة
+        <lb/>
+
+        لك به
+      </p>
+
+      <p n="Ox Inquires about Lion's Identity">
+        فقال شتربة به ومن هو هذا الذي أرسلك إليّ وأمرك
+        <lb/>
+
+        أن تخاطبني بذلك وأين هو
+      </p>
+
+      <p n="Dimna Describes Lion as King of Beasts">
+        قال دمنة هو ملك السباع وسلطان
+        <lb/>
+
+        الوحوش ومعه جند كثيرة من جنسه وغير جنسه ومن الأعوان
+        <lb/>
+
+        خلق كثير
+      </p>
+
+      <p n="Ox's Acceptance of Dimna's Offer">
+        فلمّا سمع شتربة ذلك قال لدمنة إن أنت جعلت
+        <lb/>
+
+        لي الأمان توجّهت معك إليه
+      </p>
+
+      <p n="Dimna Provides Assurance to Ox">
+        فأعطاه دمنة من الأمان ما
+        <lb/>
+
+        وثق به
+      </p>
+
+      <p n="Dimna and Ox Approach Lion Together">
+        ثمّ أقبلا جميعًا حتّى دخلا على الأسد
+      </p>
+
+      <p n="Lion's Welcoming Inquiry to Ox">
+        فأحسن الأسد
+        <lb/>
+
+        مثوى شتربة وقال متى قدمت هذه البلاد وما أقدمكها
+      </p>
+
+      <p n="Ox Recounts His Story to Lion">
+        فقصّ عليه شتربة قصّته
+      </p>
+
+      <p n="Lion Invites Ox to Stay">
+        فقال له الأسد الزمْني فإنّي
+        <lb/>
+
+        مكرمك ومحسن إليك فدعا له
+        <lb/>
+
+        وأثنى عليه
+      </p>
+
+      <p n="Lion's Growing Trust in Ox">
+        ثمّ إنّ الأسد قرّب شتربة ولاطفه وأكرمه
+        <lb/>
+
+        وآنس به رأيًا وعقلًا
+      </p>
+
+      <p n="Lion's Increasing Favor Towards Ox">
+        فأعانه على أسراره وشاوره في أموره
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

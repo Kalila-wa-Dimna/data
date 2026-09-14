@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>VAF298</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="137"/>
+
+      <p n="The Second Viziers Proposes Self-Imposed Exile">
+        قد انتقلوا عنهم فيقولون ما نصنع بالسنانير لا حاجة لنا بها فيطردوها
+        <lb/>
+
+        خارج المدينة وتهلك فعند ذلك نعود إلى مساكننا ونطمئنّ
+      </p>
+
+      <p n="King R Runs the Idea by the Third Vizier">
+        قال الملك
+        <lb/>
+
+        لرودباد ما عندك فيما قال شيزع
+      </p>
+
+      <p n="The Third Vizier Rejects Self-Imposed Exile">
+        قال رودباد لا أحمده ولا أذمّه أحسب
+        <lb/>
+
+        أن قد خرجنا عن البلد أترى تبيد السنانير في ستّة أشهر وتهلك كلّها بأسرها
+        <lb/>
+
+        فنحصل نحن على الغربة والشقاء ونحن مع ذلك لم نعتد الغربة والبرّيّة فلو أقمنا
+        <lb/>
+
+        هذه المدّة ورجعنا بعد ذلك لعاد الخوف ولم نعدمه فإن كانت السنانير
+        <lb/>
+
+        قد بادت ما يؤمّنّا إذا رجعنا واستقرّينا في المدينة أن يخرج خبرنا وتُطلب
+        <lb/>
+
+        السنانير وتُجلب من كلّ مكان فنعود إلى ما كنّا عليه من الخوف وقد حصلت
+        <lb/>
+
+        لنا الغربة
+      </p>
+
+      <p n="King R Asks for the Third Vizier's Plan">
+        قال بهرام لرودباد فأنت ما تقول
+      </p>
+
+      <p n="The Second Option Is to Make Dens in Houses">
+        قال رودباد أقول قولًا وأرجو
+        <lb/>
+
+        أن يتمّ ينبغي أن يأمر الملك بإحضار كلّ جرذ في المدينة وحولها ويأمر أن
+        <lb/>
+
+        يُحتفر في البيت الذي فيه مستقرًا في الحائط سبعة أثقاب كذا كلهم كافّة
+        <lb/>
+
+        ثمّ يُحتفر ثلاثة أثقاب آخر الموضع الذي فيه الثياب والفرش والآلة ويحتفرون
+        <lb/>
+
+        ثقبًا كبيرًا ويجعلون فيه قوت عشرة أيّام
+      </p>
+
+      <p n="The Vizier's Aim Is to Damage Household Items">
+        فإذا فعلوا ذلك سرنا جميعًا وعساكرنا
+        <lb/>
+
+        فحللنا في منزل أجلّ من في المدينة وأغناهم الذي ليس في بيته إلّا سنّور
+        <lb/>
+
+        واحد فيكون في الموضع الذي فيه القوت ونرتّب جرذًا على ثقب من السبعة
+        <lb/>
+
+        أثقاب من داخل ليحفظه ويرصد السنانير ويشتغلن عن طلبتنا ونخرج
+        <lb/>
+
+        جميعًا من الأثقاب فلا نهمّ بمأكول ولا مشروب بل نعمل في تقطيع الثياب
+        <lb/>
+
+        والمتاع والآلة
+      </p>
+
+      <p n="The House Owner Gets a Second Cat">
+        فإذا رأى أهل البيت الفساد قالوا ليس ينفعنا سنّور واحد
+        <lb/>
+
+        فيزداد آخر
+      </p>
+
+      <p n="The Rats Increase the Damage">
+        فنخرج ثانية فنزيد في الفساد أكثر من الأوّل
+      </p>
+
+      <p n="The House Owner Gets a Third Cat">
+        فتقول القوم نريد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="280"/>
+
+      <p n="The King Asks about Escaping Enemies">
+        يتخوّف ووفّى لمن صالح كيف يلتمس موقع الصلح
+      </p>
+
+      <p n="The Philosopher Responds that Emotions Change">
+        قال الفيلسوف
+        <lb/>
+
+        إنّ العداوة كلّها لا يثبت وتدوم وكثير من المودّة يتحوّل بغضًا
+        <lb/>
+
+        كثير من العداوة يتحوّل صلحًا على حوادث الأمور والعلل
+      </p>
+
+      <p n="The Intelligent Adapts to Situations">
+        وذوو الرأي يجدون لكلّ حال من ذلك برأيهم وعلمهم ما يرجون
+        <lb/>
+
+        نيل ما عند عدوّهم أو الإياس ممّا عند صديقهم
+      </p>
+
+      <p n="Enmity Must Not Stop One from Requesting Help">
+        ولا
+        <lb/>
+
+        تمنع ذلك الفعل عداوة كانت في نفسه لعدوّه من
+        <lb/>
+
+        مقاربته والتماس ما عنده إذا طمع منه في دفع مخوف
+        <lb/>
+
+        أو جرّ مرغوب فيه ولا يعدّ بالرأي في إحداث المؤانسة
+        <lb/>
+
+        والموادعة
+      </p>
+
+      <p n="The Parable of the Cat and Rat Is Invoked">
+        ومن أمثال ذلك الجرذ والسنّور
+      </p>
+
+      <p n="The King Requests the Full Parable">
+        قال المَلك وكيف
+        <lb/>
+
+        كان ذلك
+      </p>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        قال الفيلسوف زعموا أنّه كان بأرض كذا وكذا شجرة
+        <lb/>
+
+        عظيمة كثيرة الأغصان في أصلها جحر جرذ يُسمّى
+        <lb/>
+
+        أفريدون وقريب من ذلك جحر آخر لسنّور يُقال له روميّ
+      </p>
+
+      <p n="The Cat Is Caught">
+        وكان الصيادون ربّما التمسوا صيد الوحش والطير
+        <lb/>
+
+        بذلك المكان وأنّ صيادًا نصب حباله ذات ليلة
+        <lb/>
+
+        فوقع فيها روميّ
+      </p>
+
+      <p n="The Rat Seeks Food">
+        وخرج الجرذ في ابتغاء ما يأكل وهو
+        <lb/>
+
+        يتوقّى السنّور يمينًا وشمالًا فيصير بروميّ مقتنصًا في الحبال
+        <lb/>
+
+        ففرح فرحًا شديدًا
+      </p>
+
+      <p n="Foes Surround the Rat">
+        والتفت خلفه فرأى ابن عرس وتبعه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

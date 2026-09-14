@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="56"/>
+
+      <p n="The Fisher Misses the Pearl">
+        فأصاب حوتًا صغيرًا فحاول أخذها فبصر بصدفة تشبه تلك
+        <lb/>
+
+        الصدفة فلن يلتفت إليها وساء بها ظنّه فتركها
+      </p>
+
+      <p n="Another Fisher Wins the Pearl">
+        واجتاز بها غيره فاستخرجها فوجد فيها درّة فازداد الصيّاد
+        <lb/>
+
+        حسرة وندامة
+      </p>
+
+      <p n="The Superficial Readers Miss the Meaning">
+        وكذلك الجهّال في أمر التفكّر
+      </p>
+
+      <p n="The Reader Needs Stamina and Focus">
+        وينبغي لطالب
+        <lb/>
+
+        العلم استعمال الجدّ والتشمير وإفراغ البال وقوّة الهمة
+        <lb/>
+
+        والصبر فإنّه متى لم يكن كذلك لم ينتفع بما طلب
+      </p>
+
+      <p n="The Preface Is for Explaining the Target Audience">
+        وإنّما قدّمت
+        <lb/>
+
+        هذه المقدّمة لئلّا يظنّ ظانّ أنّ فلاسفة الهند وضعت هذا
+        <lb/>
+
+        الكتاب لظاهره دون علم باطنه وأنّها إنّما وضعته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

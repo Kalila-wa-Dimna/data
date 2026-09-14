@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="36"/>
+
+      <p n="Burzoy Consults His Soul About Its Ambitions">
+        الناس ويسعون إليها
+      </p>
+
+      <p n="The Four Objects of Human Pursuit">
+        فقلت إنّ هذه الأربعة ينبغي لمثلي
+        <lb/>
+
+        في عقلي أن يطلب وأيّها أجزى إن هو طلب أن يدرك منها
+        <lb/>
+
+        حاجته المال أم اللذّات أم الصيت أم أمر الآخرة
+      </p>
+
+      <p n="Seeks the Reward of the Hereafter">
+        فاستدللت على الجسد من ذلك أنّي وجدت الطبّ
+        <lb/>
+
+        محمودًا عند العقلاء
+      </p>
+
+      <p n="The Virtue of Practising Medicine">
+        ولم أجده مذمومًا عند
+        <lb/>
+
+        أحد من أهل الأديان ووجدت في كُتُب الطبّ
+        <lb/>
+
+        أنّ أفضل الأطبّاء من واظب على طبّه لا يبتغي
+        <lb/>
+
+        بذلك إلّا أجر الآخرة ولا يبتغي لذلك ثمنًا
+      </p>
+
+      <p n="Selling a Ruby for a Cheap Pearl">
+        فيكون
+        <lb/>
+
+        كالتاجر الذي باع ياقوتة نفيسة كان مصيبًا من ثمنها عناء
+        <lb/>
+
+        الدهر بخرزة لا تساوي شيئًا
+      </p>
+
+      <p n="The Profession of Medicine Benefits Both in This World and the Hereafter">
+        ووجدت الطبيب في كُتُب
+        <lb/>
+
+        الطبّ المبتغي بطبّه أجر الآخرة لا ينقصه
+        <lb/>
+
+        ذلك من حظّه في الدنيا
+      </p>
+
+      <p n="A Farmer Harvests Weeds Along with the Wheat">
+        وإنّ مثله في
+        <lb/>
+
+        ذلك مثل الزارع الذي إنّما يثير الأرض
+        <lb/>
+
+        ويغمرها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

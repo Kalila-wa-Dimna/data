@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="116"/>
+
+      <p n="Evil Sown Sprouts in Its Own Time">
+        وإن تُقدّم في زرعه فهذا أوان نبت ما زرعته لنفسي
+      </p>
+
+      <p n="Dimna Fears for Kalila">
+        وممّا يزيد هذا البلاء عليّ
+        <lb/>
+
+        شدّة تخوّفي إيّاك أن تُتّهم في أمري لما كان بيني وبينك
+      </p>
+
+      <p n="Kalila Will Be Forced to Betray Dimna">
+        فلعلّك أن تأتيك عقوبة
+        <lb/>
+
+        وإن اعترفت ببعض ما كنت أطلعتك عليه من أمري
+      </p>
+
+      <p n="Sincere Kalila Will Suffer by Association with Dimna">
+        فيدخل عليّ في ذلك موتتان
+        <lb/>
+
+        أحدهما ما يصل إليك فلا تُتّهم على البعد أفكيف لمن كانت منزلته منك منزلتي
+      </p>
+
+      <p n="One Lies under Physical Pain">
+        قال كليلة قد عرفت ما قلت وقد قالت العلماء إنّ الأجساد لا تصبر
+        <lb/>
+
+        على العذاب ولا تسمع من القول عند ذلك بكلّ ما دُفع به عنها من حقّ أو
+        <lb/>
+
+        باطل
+      </p>
+
+      <p n="Kalila Advises Dimna to Confess">
+        وإنّي لأرى لك إذ أُنزلت بهذا الحال أن تتوب من ذنبك وتعترف
+        <lb/>
+
+        بما كان منك فتخرج نفسك من تبعة الآخرة بالتوبة ممّا صنعت فإنّك لا
+        <lb/>
+
+        محالة هالك فلا تجمع على نفسك هلاك العاجل والآجل
+      </p>
+
+      <p n="Dimna Wants to Await the Verdict">
+        فقال دمنة قد
+        <lb/>
+
+        نصحت وأصبت وأنا ناظر فيما ذكرت ثمّ مجازيك في ذلك
+      </p>
+
+      <p n="Kalila Goes Home">
+        وانصرف كليلة مغمومًا
+        <lb/>
+
+        مكروبًا خائفًا فمضى على وجهه هائمًا
+      </p>
+
+      <p n="Prisoner Overhears Their Dialogue">
+        وكان في ناحية السجن
+        <lb/>
+
+        سبع محبوس وكان ما تراجع كليلة ودمنة بينهما من القول يسمعه فحفظ ذلك
+        <lb/>
+
+        وسكت عليه
+      </p>
+
+      <p n="Dimna Misses Kalila">
+        وبلغ دمنة هروب كليلة فبكى طويلًا أسفًا عليه وحزن على
+        <lb/>
+
+        فراقه وقال ما أصنع الآن بالحياة وقد فارقني الأخ الصالح والصديق
+        <lb/>
+
+        الناصح كليلة ما أرى ما قيل إلّا حقًّا
+      </p>
+
+      <p n="Misfortunes Never Come Singly">
+        إنّ الإنسان إذا ابتُلي فأدبر بخته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

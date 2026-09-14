@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M487</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="102"/>
+
+      <p n="Buzurgmihr To Spare No Effort">
+        لمحبّته العلوم
+      </p>
+
+      <p n="Chapter To Be The Best">
+        واحرص أن يكون عرض هذا الكتاب المنسوب إلى برزويه
+        <lb/>
+
+        أفضل من أعراض الأبواب كلّها عند الخاصّ والعامّ وأشدّ مشاكلة لحال
+        <lb/>
+
+        هذا العلم كلّه
+      </p>
+
+      <p n="Chapter To Eternize Buzurgmihr">
+        وكن أسعد الناس كلّهم بذلك لانفرادك بهذا الكتاب
+      </p>
+
+      <p n="Kisra Orders Chapters Place">
+        واجعله أوّل تلك الأبواب
+      </p>
+
+      <p n="Kisra Plans Public Reading">
+        وإذا وضعته موضعه أعلمني ﻷجمع أهل مملكتي
+        <lb/>
+
+        وتقرأه عليهم فيظهر فضلك واجتهادك في محبّتنا فيكون لك ذلك
+        <lb/>
+
+        فخرًا عظيمًا
+      </p>
+
+      <p n="Invocation For Kisras Elevation">
+        فلمّا سمع برزويه مقالة الملك ورأى عظيم حظّه عنده
+        <lb/>
+
+        خرّ له ساجدًا وقال أدام الله لك أيّها الملك البقاء والسرور الذي
+        <lb/>
+
+        تفوق به على جميع المخلوقين وبلّغك أفضل المنازل في الآخرة مع الصالحين
+        <lb/>
+
+        المستوجبين جنّات النعيم
+      </p>
+
+      <p n="Buzurgmihr Rejoices">
+        ولمّا سمع برزجمهر ذلك سرّ سرورًا شديدًا
+      </p>
+
+      <p n="Buzurgmihrs Zeal For Task">
+        وقال شرّفني الملك بذلك شرفًا باقيًا على الأبد وإنّي مجتهد مبالغ مشمّر
+        <lb/>
+
+        عن ساق الاجتهاد في ذلك
+      </p>
+
+      <p n="Burzoy Buzurgmihr Exit">
+        ووعده وقت الفراغ منه ثمّ خرج برزويه
+        <lb/>
+
+        وبزرجمهر من عند الملك إلى منازلهما
+      </p>
+
+      <p n="Buzurgmihr Begins Composition">
+        وأخذ بزرجمهر في تأليف ذلك الباب
+        <lb/>
+
+        وعمله
+      </p>
+
+      <p n="Contents Of Bu Chapter">
+        فوصف فيه برزويه من أوّل ما وضعاه أبواه في التعليم وحرصهم على
+        <lb/>
+
+        ذلك إلى أن بعثه أنوشروان إلى بلاد الهند في طلب الكتاب والعلوم فجاء
+        <lb/>
+
+        بزرجمهر في ذلك كلّه أحسن نظم وتأليف وتشريف على ما كان أحرز من
+        <lb/>
+
+        أمر برزويه وأدبه وفهمه وما ظهر له من استهانته الدنيا وقلّة اكتراثه بها
+      </p>
+
+      <p n="Buzurgmihr Omits Nothing">
+        ولم يدع حسن خلائق برزويه شيئًا إلّا جمعه في ذلك الشرح
+      </p>
+
+      <p n="Chapter Read Publicly">
+        ثمّ أعلم الملك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

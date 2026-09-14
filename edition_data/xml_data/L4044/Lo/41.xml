@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="41"/>
+
+      <p n="Philosopher's Response and Story Introduction">
+        إذا ابتُلي الرجلان بدخول الكذوب الخؤون بينهما تقاطعا وتدابرا وتفاسد
+        <lb/>
+
+        ما بينهما
+      </p>
+
+      <p n="Setting: Wealthy Merchant and His Sons">
+        ومن أمثال ذلك أنّه كان بأرض دستنابد تاجر مكثر وله
+        <lb/>
+
+        بنون
+      </p>
+
+      <p n="Sons' Mismanagement of Wealth">
+        فلمّا أدركوا شرعوا في مال أبيهم ولم يحترفوا حرفة يكتسبون بها مالًا
+        <lb/>
+
+        فلامهم أبوهم ووعظهم
+      </p>
+
+      <p n="Father's Advice: Three Pursuits and Four Necessities">
+        وكان ممّا قال لهم يا بنيّ إنّ صاحب الدنيا يطلب
+        <lb/>
+
+        ثلاثة أمور لن تُدرك إلّا بأربعة أشياء
+      </p>
+
+      <p n="Three Worldly Pursuits">
+        أمّا الثلاثة التي يطلب فالسعة في
+        <lb/>
+
+        المعيشة والمنزلة في الناس والزاد إلى الآخرة
+      </p>
+
+      <p n="Four Necessities for Achieving Pursuits">
+        وأمّا الأربعة التي يحتاج
+        <lb/>
+
+        إليها في إدراك هذه الثلاثة فاكتساب المال من أحسن وجوهه ثمّ حسن
+        <lb/>
+
+        القيام لما اكتسب والتثمير له ثمّ عليه ثمّ التثمير ثمّ إنفاقه فيما يصلح المعيشة ويرضي به الله تعالى والأهل
+        <lb/>
+
+        والإخوان ويعود في الآخرة نفعه عليه
+      </p>
+
+      <p n="Failure to Achieve Goals Without Proper Management">
+        فمن أضاع شيئا من هذه الخلال الأربع
+        <lb/>
+
+        لم يدرك ما أراد من حاجة فإنّه إن لم يكتسب لم يكن له مال يعيش به
+      </p>
+
+      <p n="Consequences of Poor Financial Management">
+        وإن كان هو ذو
+        <lb/>
+
+        مال وذو اكتساب ثمّ ولم يحسن القيام عليه أوشك أن يفنى ويبقى بغير
+        <lb/>
+
+        مال
+      </p>
+
+      <p n="Rapid Depletion of Poorly Managed Wealth">
+        وإن هو أنفقه ولم يثمّره لم تمنعه قلّة الإنفاق من سرعة النفاق
+      </p>
+
+      <p n="Analogy of Rapidly Depleting Kohl">
+        كالكحل
+        <lb/>
+
+        الذي لا يؤخذ منه إلّا مثل الغبار ثمّ هو مع ذلك سريع فناؤه
+      </p>
+
+      <p n="Consequences of Miserliness and Mismanagement">
+        وإن كانت نفقته
+        <lb/>
+
+        في غير مواضع الحقوق كان بمنزلة الفقير الذي لا مال له ثمّ لم ينفعه ذلك
+        <lb/>
+
+        من تلاف المال للمقادير والعلل
+      </p>
+
+      <p n="Analogy of Overflowing Water Reservoir">
+        كالمكان الذي لا تزال تنصب فيه المياه فإنّه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

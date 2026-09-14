@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="255"/>
+
+      <p n="The Cat Fulfills His Part">
+        السنّور وأمّنه ودنا منه
+      </p>
+
+      <p n="The Foes Leave Frustrated">
+        فلمّا أبصر ذلك ابن عرس والبومة انصرفا من
+        <lb/>
+
+        ذلك المكان
+      </p>
+
+      <p n="The Rat Begins to Cut the Rope">
+        وأخذ الجرذ في قطع الشرك فجعل يقطعه سلكًا سلكًا
+      </p>
+
+      <p n="The Cat Deems the Rat's Efforts Slow">
+        فلمّا رأى السنّور الجرذ ليس بجادّ في قطع الشرك قال له يا خليلي ما منعك
+        <lb/>
+
+        أن تجتهد في قطع الشرك له والفراغ لعلّ الذي يمنعك من ذلك أنّك
+        <lb/>
+
+        قد صرت إلى حاجتك من الأمن
+      </p>
+
+      <p n="The Noble Must Help">
+        وإن كان ذلك كذلك فليس ذلك من
+        <lb/>
+
+        فِعل الصالحين
+      </p>
+
+      <p n="The Rat Must Fulfill the Pact">
+        وكما أنّي أسرعت في خلاصك فلذلك فلتكن أنت في
+        <lb/>
+
+        الاجتهاد في خلاصه
+      </p>
+
+      <p n="The Rat Should Forget Enmity">
+        وإن كنت تذكر العداوة القديمة فلست
+        <lb/>
+
+        حقيقًا أن تفعل ذلك مع بلائي عندك الذي مثله ودونه شكر
+      </p>
+
+      <p n="Good Deeds Erase Bad Deeds">
+        والحسنة الواحدة تمحو عندهم سيّئات كثيرة
+      </p>
+
+      <p n="The Two Kinds of Friends">
+        قال
+        <lb/>
+
+        الجرذ إنّّ الأخلّاء خليلان وأحدهما الخليل المصافي ينبغي الذي
+        <lb/>
+
+        يؤثر خليله على نفسه وأهله وماله
+      </p>
+
+      <p n="Forced Friendship Does Not Last">
+        وأمّا الخليل الذي اضطرّ إلى
+        <lb/>
+
+        مودّة صاحبه فربّما ثبت وتمّت المودّة بينهما وكثيرًا
+        <lb/>
+
+        ما ينفسخ فلا ينمي ولا يتمّ
+      </p>
+
+      <p n="The Intelligent Protects Himself">
+        ولكن ينبغي للعاقل أن يحفظ لسانه فإنّ الذي
+        <lb/>
+
+        يصالح العدوّ ويثق به ويعمل عمله ولا يحفظ نفسه
+      </p>
+
+      <p n="Trusting a Foe Is Like Eating Bad Food">
+        يكون صلحه ذلك
+        <lb/>
+
+        كالذي يأكل مع من يتبع هوى نفسه فتضعف عن هضمه معدته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="20"/>
+
+      <p n="Indian King Permits Stay">
+        فقال له المَلك أقم بمكانك فإنّي قد أذنت لك في المقام في
+        <lb/>
+
+        جوارنا وما نعول ممّا نمنع منه أنفسنا فدعا له برزويه
+        <lb/>
+
+        وخرج من عنده
+      </p>
+
+      <p n="Burzoy Mingles With Indians">
+        فجعل يختلف إلى الوزراء والعلماء ومن
+        <lb/>
+
+        علم أنّ عنده شيئًا من الأدب رجاء أن يقع على كتاب كليلة
+        <lb/>
+
+        ودمنة
+      </p>
+
+      <p n="Burzoy Takes Pseudonym">
+        وقال في نفسه ينبغي لي أن أفتخر على العلماء
+        <lb/>
+
+        وأُسمّي نفسي المظفّر
+      </p>
+
+      <p n="Burzoy Becomes Famous">
+        فعُرف به واشتهر باسمه وعقله
+        <lb/>
+
+        وعلمه وأدبه فأقبل الناس من علماء الهند يأتونه
+        <lb/>
+
+        فلمّا استأنس برزويه واطمأنّت به البلاد لم يكن همّته
+      </p>
+
+      <p n="Burzoy Claim Study Trip">
+        وأنا أحبّ طلب الأدب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="98"/>
+
+      <p n="A Leopard Was the Lion's Confidant">
+        |راحَ مِن المجلسِ الليلِ النمِرْ ### وقد كان ساهَرَهُ حتّى سهِرْ
+        <lb/>
+
+        |وَهْوَ أخصُّ القومِ جمعًا عندَهْ ### قلّده خراجَهُ وجندَهْ
+      </p>
+
+      <p n="The Leopard Overhears Kalila Chastising Dimna">
+        |فمرّ ما بين البيوتِ قابِسا ### نارًا يرى بضوءها الحنادِسا
+        <lb/>
+
+        |لمّا دنا من البيوتِ سمِعا ### كليلةً لصوتهِ قد رفَعا
+      </p>
+
+      <p n="Kalila Predicts Dimna's Doom">
+        |يقول يا دمنةَ لستَ ناجِيا ### فلا تكنْ منه الخلاصِ راجِيا
+        <lb/>
+
+        |لا بدَّ أن يظهرَ ما فعلْتا ### له وإن يظهرْ له هلكْتا
+      </p>
+
+      <p n="Kalila's Accusation of Dimna">
+        |حينئذٍ يجتمعُ الهَوانُ ### عليك والقتلُ ولا غفرانُ
+        <lb/>
+
+        |لأنّهم يخشَوْن شرَّ مكرِكا ### والقتلُ لا شكَّ مُزيلُ شرِّكا
+      </p>
+
+      <p n="Kalila Rejects Dimna as Friend">
+        |ولستُ بعد اليومِ أرتضيكا ### خلًّا ولكنّي أتّقيكا
+        <lb/>
+
+        |ولستُ بعد اليومِ أُفشي سرًّا ### لك لأنّي منك أخشى الضُّرّا
+      </p>
+
+      <p n="Dimna is Evil and to Be Shunned">
+        |وإنّني بالبعدِ عنك أهلُ ### إن جزاءَ القربِ منك القَتْلُ
+      </p>
+
+      <p n="Kalila Accuses Dimna of Causing the Ox's Killing">
+        |فإنّما القَسْوَرُ غضبانُ لِما ### جرى وسوءَ فعلِهِ قد علِما
+      </p>
+
+      <p n="The Leopard Confides in the Lion's Mother">
+        |فأخبرَ النمرُ به أمَّ الأسَدْ ### وكان في الصِّدقِ لديْها معتمًدْ
+        <lb/>
+
+        |مِن بعد أن حلّفها لا تُظهرُ ### لأحدٍ ما جاءَ عنه يُخبرُ
+      </p>
+
+      <p n="The Mother Goes to the Lion and Finds Him Sad">
+        |فدخلتْ على ابنِها بالبكرَهْ ### فوجدتْه مُطرقًا ذا فكرَهْ
+      </p>
+
+      <p n="The Mother Says Grief is Weakening">
+        |قالت له فكرُك في ما فاتا ### مُصيبةٌ تُنغّصُ الحياتا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

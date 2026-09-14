@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="267"/>
+
+      <p n="Queen Serves Rice On Her Night">
+        إنّ الملك ذات ليلة كان عند هلبت وكان يكون ليلة عند هلبت
+        <lb/>
+
+        وليلة عند حوقناه فلمّا انتهى إلى هلبت في ليلتها اصطنعت
+        <lb/>
+
+        له أرزًّا وكذلك سنّة الملوك بالمبتدأ أن يكون أكثر
+        <lb/>
+
+        طعامهم الأرزّ فدخلت على الملك وفي يدها صحفة من
+        <lb/>
+
+        ذهب فيها الأرز والإكليل على رأسها فقامت
+        <lb/>
+
+        على رأس الملك بالصحفة فجعل يطعم منها
+      </p>
+
+      <p n="Favorite Wears Dress Before King">
+        فلّما علمت
+        <lb/>
+
+        حوقناه أنّ الملك عند هلبت غارت من ذلك
+        <lb/>
+
+        فلبست تلك الكسوة ثمّ دخلت المقصورة التي
+        <lb/>
+
+        كان فيها الملك مع هلبت وكانت تبرق تلك
+        <lb/>
+
+        الثياب كشعاع الشمس الطالعة فلمّا رأى الملك
+        <lb/>
+
+        ذلك أحبّ حوقناه واشتاق إليها
+      </p>
+
+      <p n="King Insults Queen">
+        فقال لهلبت
+        <lb/>
+
+        إنّك لجاهلة حين تأخذين الإكليل وتدعين الكسوة
+        <lb/>
+
+        التي لم يُرى مثلها قطّ
+      </p>
+
+      <p n="King Praises Favorite">
+        وإنّ حوقانه لأحسن منك
+        <lb/>
+
+        عقلًا وأكمل رأيًا وأشبه بنساء الملوك
+      </p>
+
+      <p n="Queen Pours Rice Over King">
+        فلمّا سمعت هلبت قوله وتسفيه رأيها ومدحه
+        <lb/>
+
+        حوقناه اغتاظت فضربت بالصحفة رأس الملك
+        <lb/>
+
+        فتناثر الأرزّ على رأسه ووجهه ولحيته
+      </p>
+
+      <p n="Fulfillment Of Last Dream">
+        وكان
+        <lb/>
+
+        ذلك تصديق الرؤيا التي لم يفسّرها له كينارون
+        <lb/>
+
+        العالم وكتمها منه لأجل حكم القضاء والقدر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

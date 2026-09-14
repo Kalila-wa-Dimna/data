@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M487</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="98"/>
+
+      <p n="Burzoy Wants Bio Chapter">
+        البختكان ويقسم عليه أن يعمد فكره ورزانته ويجتهد في رأيه
+        <lb/>
+
+        وأدبه ويقرع فكره في نظم تأليف كلام متقن محكم
+        <lb/>
+
+        ويجعل فيه بابًا يذكر فيه أمري ويصف فيه حالي
+      </p>
+
+      <p n="Buzurgmihr To Give His Best">
+        ولم يدع
+        <lb/>
+
+        من المبالغة في ذلك أقصى ما يقدر عليه من البلاغة
+      </p>
+
+      <p n="New Chapters Placement">
+        ويأمره
+        <lb/>
+
+        الملك إذا استتمّ كلامه وأن يجعله أوّل الأبواب قبل
+        <lb/>
+
+        باب الأسد والثور
+      </p>
+
+      <p n="Burzoy Wants Legacy">
+        فإنّه لا يزال ذكره باقيًا إلى الأبد وحيث
+        <lb/>
+
+        ما قُرئ هذا الكتاب
+      </p>
+
+      <p n="Kisra And Nobles Impressed">
+        فلمّا سمع أنوشروان والعلماء والحكماء مقالته
+        <lb/>
+
+        وما سأله تعجّبوا من عقله وما سمت إليه نفسه من محبّته
+        <lb/>
+
+        لبقاء الذكر الجميل واستحسنوا طلبته واختياره
+      </p>
+
+      <p n="Kisra Deems Request Light">
+        فقال أنوشروان
+        <lb/>
+
+        حبًّا وكرامة يا برزويه إنّك أهل أن تُسعف بحاجتك
+        <lb/>
+
+        وأن تُعاون على بغيتك
+      </p>
+
+      <p n="Kisra Recounts Burzoys Merits">
+        ثمّ أقبل أنوشروان على بزرجمهر وقال
+        <lb/>
+
+        قد عرفت مناصحة برزويه لنا وتجربته مرضاتنا وتجشّمه المخاوف
+        <lb/>
+
+        والمهالك ممّا يقرّبه منّا وابتغائه ما يسرّنا وما ابتدى إلينا من
+        <lb/>
+
+        المعروف وما أفدنا على يديه من الحكمة والأدب الباقي لنا فخره
+      </p>
+
+      <p n="Burzoy Wants Immaterial Gift">
+        وأنّا عرضنا عليه من خزائننا لنجزيه ما كان من ذلك الأفعال
+        <lb/>
+
+        بالأموال والجواهر وغيرها من الثياب فلم تمل بغيته إلى شيء من
+        <lb/>
+
+        هذا وكانت بغيته وطلبه منّا أمرًا يسيرًا ومن أتمّ الثواب منّا له
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

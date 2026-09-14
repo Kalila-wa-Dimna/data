@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="264"/>
+
+      <p n="The Third Vizier Has No Solution">
+        والأسلاف فينا شيء إلّا وقد اجتهدوا فيه والأمر لله بالتطبّع
+        <lb/>
+
+        لا يقدر أحد ولا ملك من الملوك بأن يغيّر طباع الناس
+      </p>
+
+      <p n="Affairs Need God and Nature">
+        قال
+        <lb/>
+
+        الملك ليس ما يُتوارث من الجنس فقط ولكن لكلّ أمر من الأمور
+        <lb/>
+
+        وإن صغر وقلّ لا يمكن أن يتمّ إلّا بعناية من فوق
+      </p>
+
+      <p n="Nature Cannot Be Fended Off">
+        قال
+        <lb/>
+
+        الوزير الأمر على ما قال الملك ولكن إذا كان لم يكن وليس
+        <lb/>
+
+        لمقاومة الشيء الذي يُتوارث مع الجنس وجه فترْكُه صلح ومن
+        <lb/>
+
+        قاوم ما يُتوارث في الصلح فكلّه تعارض فيه وقد أيقن وفزع
+        <lb/>
+
+        منه وربّما أتى الأمر إلى أحوال من العطب لا يُتلافى وربّما لا يعود
+        <lb/>
+
+        الحال فيه إلى ما كانت أوّلًا وربّما عاد في رحال طويل ما
+        <lb/>
+
+        أصاب الملك الذي يُحدَّث عنه
+      </p>
+
+      <p n="The Rat King Requests the Tale of King W">
+        قال الملك وكيف كان
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="A Kingdom with a Hole in the Mountain">
+        قال الوزير زعموا أنّه كان على بعض نواحي النيل
+        <lb/>
+
+        ملك وكان في بلده جبل شامخ كثير الأشجار والثمار والعيون
+        <lb/>
+
+        وكانت الوحوش وسائر الحيوان والحيوانات التي في ذلك
+        <lb/>
+
+        البلد يعيشون من ذلك الجبل
+      </p>
+
+      <p n="Winds Blow through the Mountain Hole">
+        وكان من في ذلك الجبل ثقب يخرج
+        <lb/>
+
+        منه هواء من سبعة أجزاء من جميع الرياح التي تهبّ في الثلاثة أقاليم
+        <lb/>
+
+        ونصف إقليم المعالم
+      </p>
+
+      <p n="The Palace Is Near the Hole">
+        وبالقرب من ذلك الثقب بيت في غاية حسن
+        <lb/>
+
+        البناء ولم يكن له نظير في العالم كلّه وكان الملك وأسلافه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

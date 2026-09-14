@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="70"/>
+
+      <p n="The Partner Moves the Garb">
+        فقال هذا رداء صاحبي وأظنّ أنّه قد نسيه فأدعه
+        <lb/>
+
+        له هاهنا على أعداله فربّما يرجع إلى الحانوت
+        <lb/>
+
+        فيجده مكانه فأخذه وألقاه على عدل من أعدال
+        <lb/>
+
+        رفيقه وقفل الحانوت وانصرف
+      </p>
+
+      <p n="The Merchant Steals His Own Bale">
+        فلمّا كان الليل
+        <lb/>
+
+        جاء رفيقه ومعاه رجل قد اتّفق معه على ما عزم عليه
+        <lb/>
+
+        فصار إلى الحانوت وفتحه وطلب الرداء في الظلمة
+        <lb/>
+
+        فوجده على الأعدال مرميّ فاحتملا تعب وجهد إلى أن
+        <lb/>
+
+        أخرجاه وحملاه حتّى صار به إلى منزله
+      </p>
+
+      <p n="The Merchant Discovers the Error at Home">
+        فلمّا أضاء النهار
+        <lb/>
+
+        نظر وإذا هو بعض أعداله فندم غاية الندم وانطلق نحو
+        <lb/>
+
+        الحانوت فوجد رفيقه قد سبقه إليه وفتح الحانوت
+        <lb/>
+
+        فوجد عدل رفيقه فاقد فاغتمّ لذلك
+      </p>
+
+      <p n="The Partner Fears Accusation (Monologue)">
+        وقال وا أسفاه
+        <lb/>
+
+        من رفيقي الصالح الذي أمّنني على ماله وخلّفني بالحانوت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

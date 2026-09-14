@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T117953</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="47"/>
+
+      <p n="unassigned">
+        ففتحت وقرأها على رؤوس الناس فلمّا سمعوا ما فيها
+        <lb/>
+
+        من العلوم والعقل والعجائب الذي تكلّم بها على ألسن
+        <lb/>
+
+        الحيوان تعجّبوا
+        <lb/>
+
+        من ذلك ومن تلك الأمثال والمقاييس التي تضمنتها
+        <lb/>
+
+        تلك الأبواب وشكروا الله تعالى على ما رزقهم ومدحوا
+        <lb/>
+
+        برزويه ودعوا له وأثنوا عليه وشكروا له بما نصب
+        <lb/>
+
+        بدنه وعاناه حتى أدرك لهم من العلوم ما رواه ورأوه
+        <lb/>
+
+        في تلك الكتب وأمر الملك أن يفتح لبرزويه خزائن
+        <lb/>
+
+        الذهب والفضّة واللؤلؤ والزبرجد وخزائن
+        <lb/>
+
+        الكسوة والثيّاب وقال الملك إنّي حكيتك
+        <lb/>
+
+        بتاج ملكي وأمره أن يأخذ من الخزائن ما شاء
+        <lb/>
+
+        وقال يا برزويه إنّي قد أمرت أن تجلس على مثل
+        <lb/>
+
+        سريري هذا وتلبس تاجًا وترؤس على جميع العلماء
+        <lb/>
+
+        والأشراف وأقسمت عليك إلاّ دخلت خزائن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="311"/>
+
+      <p n="Pack Denounces Jackal">
+        وتفعل فعلنا فما الذي يشبه كفّك عن الدماء وتركك أكل اللحم
+      </p>
+
+      <p n="Jackal Is not Accountable for Pack's Actions">
+        قال ابن آوى إنّ صحبتي إيّاكنّ لا يؤثمني إذا لم أفعل ذلك أنا
+        <lb/>
+
+        بنفسي ولم أؤثمها
+      </p>
+
+      <p n="Sins Depend only on One's Actions">
+        فإنّ الآثام ليست من قبل القلوب والأعمال
+      </p>
+
+      <p n="Sin Is Independent from Place">
+        ولو
+        <lb/>
+
+        كان صاحب المكان الصالح يكون عمله فيه صالحًا وصاحب المكان
+        <lb/>
+
+        السوء يكون عمله فيه مسيئًا فحينئذ كان يكون من قتل في المساجد
+        <lb/>
+
+        لم يأثم ومن استحيا في معارك القتال أثِم
+      </p>
+
+      <p n="Jackal's Heart Is Distant from Others">
+        وإنّي إنّما أصحبكم بنفسي
+        <lb/>
+
+        ولم يصحبكم منّي قلبي ولا عملي لأنّي أعرف ثمرة الأعمال
+      </p>
+
+      <p n="Lion Hears of Jackal">
+        ثمّ إنّ ابن آوى
+        <lb/>
+
+        ثبت على حالته تلك واشتهر بالنسك والثالثة في أمثاله والنبالة
+        <lb/>
+
+        في الرأي حتّى بلغ ذلك أسدًا كان ملك سباع بتلك الناحية
+        <lb/>
+
+        فرغب فيه وفيما بلغه عنه من العفاف والصدق والأمانة
+      </p>
+
+      <p n="Lion Verifies Jackal's Qualities">
+        فأرسل إليه فأتاه وكلّمه ونابشه فأعجبه ثمّ دعاه بعد أيّام إلى صحبته
+      </p>
+
+      <p n="Lion Offers Viziership">
+        فقال له إنّ مُلكي عظيم وأعمالي كثيرة وأنا إلى الأعوان محتاج وقد
+        <lb/>
+
+        ذُكر لي منك نبل وعفاف وفضل ثمّ قدمت إليّ فرأيت فيك تصديق
+        <lb/>
+
+        ما بلغني عنك فازددت فيك رغبة فأنا مولّيك من عملي جسيمًا
+        <lb/>
+
+        ورافع منزلتك إلى منزلة أهل الشرف والرفعة وجاعل لك منّي مكانًا
+        <lb/>
+
+        وخاصّة
+      </p>
+
+      <p n="King Must not Impose Service">
+        قال ابن آوى إنّ الملوك أحقّاء باختيار الأعوان
+        <lb/>
+
+        لما يهتمّون به من أمورهم وأعمالهم ولا يكرهوا أحدًا على ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

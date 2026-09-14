@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="63"/>
+
+      <p n="Man Memorizes from Yellow Folio">
+        فانصرف المتعلّم بها إلى منزله وجعل يكثر من قراءتها
+        <lb/>
+
+        وهو لا يقف على معانيها ولا يعرف ما فيها ثمّ إنّه
+        <lb/>
+
+        جلس ذات يوم في محفل من أهل الأدب والعلم
+        <lb/>
+
+        وهو يظنّ أنّه قد اكتفى بما قرأه من الصحيفة
+      </p>
+
+      <p n="Man Reads from Yellow Folio and Errs">
+        فأخذ في
+        <lb/>
+
+        محاورتهم فمرّت له كلمة أخطأ فيها فقال له بعضهم
+        <lb/>
+
+        إنّك قد أخطأت فيما نطقت به والأوجه فيه غير ما
+        <lb/>
+
+        نطقت فقال كيف أخطئ وأنا قرأت الصحيفة الصفراء
+        <lb/>
+
+        وهي في منزلي
+      </p>
+
+      <p n="Using the Yellow Folio Proved His Ignorance">
+        وكانت قراءته لها لتوجب عليه الحجّة
+        <lb/>
+
+        وزاده ذلك قربًا من الجهل وبعدًا من الأدب
+      </p>
+
+      <p n="Intelligent Readers Must Implement Knowledge">
+        ثمّ إنّ العالم
+        <lb/>
+
+        العاقل إذا فهم هذا الكتاب وعلمه وبلغ نهايته
+        <lb/>
+
+        وجب عليه أن يعمل به لينتفع بما علم منه ويجعله
+        <lb/>
+
+        مالًا يعيش به
+      </p>
+
+      <p n="One Should Always Seek More Knowledge">
+        فإنّه يُقال ينبغي للعالم العاقل أن
+        <lb/>
+
+        يستكثر من العلم
+      </p>
+
+      <p n="Culture Is the Spark of Life">
+        فإنّه يجلو العقل كما يجلو الزيت
+        <lb/>
+
+        ظلمة النار ويزيدها ضياء
+      </p>
+
+      <p n="Culture Advances One's Rank">
+        وهو يرفع منزلة صاحبه
+        <lb/>
+
+        على كلّ رتبة
+      </p>
+
+      <p n="Culture Shields from Danger">
+        والعلم ينجي من الهلكات
+      </p>
+
+      <p n="Man Notices Burglar but Feigns Sleep">
+        ومن علم
+        <lb/>
+
+        ولم يعمل به يشبه الرجل الذي قيل إنّه أحسّ
+        <lb/>
+
+        بسارق قد تسوّر عليه ودخل منزله وعلم به
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

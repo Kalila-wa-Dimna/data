@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="59"/>
+
+      <p n="God's Blessings Arrive When Least Expected">
+        وليس ينبغي للعاقل أن يغبط أحدًا ساق اللّه إليه صنعًا وقد كان
+        <lb/>
+
+        راجيًا منه غير ذلك
+      </p>
+
+      <p n="Pauper Is in Terrible Hardship">
+        ومن أمثال هذا أنّ رجلًا كان به فاقة وجوع
+        <lb/>
+
+        وعري فألجأه ذلك إلي أن سأل أقاربه وأصدقاءه فلم يكن عند أحد منهم من
+        <lb/>
+
+        فضل يعود عليه
+      </p>
+
+      <p n="A Burglar Breaks Into His House">
+        فبينما هو ذات ليلة في منزله إذ بصر بسارق في
+        <lb/>
+
+        منزله فقال واللّه ما في منزلي شيء أخاف عليه فليجهد السارق جهده فبينما
+        <lb/>
+
+        السارق يجول إذ وقعت يده على خابية فيها حنطة
+      </p>
+
+      <p n="The Burglar Attempts to Steal the Jar's Contents">
+        فقال السارق واللّه ما
+        <lb/>
+
+        أحبّ أن يكون عنائي الليلة باطلًا ولعلّي لا أصل إلي موضع آخر
+        <lb/>
+
+        ولكن سأحمل هذه الحنطة ثمّ بسط قميصه ليصبّ عليه الحنطة
+      </p>
+
+      <p n="The Pauper Panics">
+        فقال
+        <lb/>
+
+        الرجل يذهب هذا بالحنطة وليس ورائي سواها فيجتمع عليّ مع العري ذهاب
+        <lb/>
+
+        ما كنت أقتات به وما يجتمعان واللّه هاتان الخلّتان على أحد إلاّ
+        <lb/>
+
+        أهلكتاه <>
+      </p>
+
+      <p n="The Pauper Chases the Burglar Away, Keeps His Garb">
+        ثمّ صاح بالسارق وأخذ هراوة كانت عند رأسه <> فلم
+        <lb/>
+
+        يكن للسارق حيلة إلاّ الهرب منه وترك قميصه ونجا بنفسه فغدا
+        <lb/>
+
+        الرجل به كاسيًا <>
+      </p>
+
+      <p n="One Should Not Abandon Hard Work">
+        وليس ينبغي أن يركن إلى مثل هذا ويدع ما يجب
+        <lb/>
+
+        عليه الحذر والعمل في هذا لصلاح معاشه
+      </p>
+
+      <p n="The Fortunate Few Are Not the Model">
+        ولا ينظر إلى من يؤاتيه
+        <lb/>
+
+        المقادير وتساعده على غير التماس منه فإنّ أولئك في الناس قليل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

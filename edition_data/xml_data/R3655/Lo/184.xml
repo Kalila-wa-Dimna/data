@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="184"/>
+
+      <p n="unassigned">
+        وهو الذي ذكرت لك أنّه خليق أن يشينه ويضرّه
+      </p>
+
+      <p n="Kalila Questions Dimna's Plan">
+        قال كليلة وكيف تطيق الثور وهو
+        <lb/>
+
+        أشدّ منك وأكرم على الأسد وأكثر صديقًا وأعوانًا
+      </p>
+
+      <p n="Cunning Over Strength">
+        قال دمنة لا تنظر إلى ضعفي
+        <lb/>
+
+        وصغري فإنّ الأمور ليست بالعظم والشدّة وربّ صغير ضعيف قد عمل بذهنه وأربه
+        <lb/>
+
+        وحيلته ما يعجز عنه كثير من الأقوياء الأشدّاء
+      </p>
+
+      <p n="The Crow and the Snake Parable">
+        أولم يبلغك أنّ غرابًا ضعيفًا
+        <lb/>
+
+        احتال للأسود حتّى قتله
+      </p>
+
+      <p n="Kalila Asks for the Story">
+        قال كليلة وكيف كان ذلك
+      </p>
+
+      <p n="The Crow's Predicament">
+        قال دمنة كان غراب في شجرة
+        <lb/>
+
+        في الجبل وكان قربه جحر أسود وكان إذا فرّخ الغراب كلّ سنة ذهب الأسود إلى فراخه
+        <lb/>
+
+        فأكلها في وكره
+      </p>
+
+      <p n="The Crow Seeks Counsel">
+        فلمّا فعل ذلك مرّات شكا إلى صديق له من بنات آوى وقال أردت أن
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

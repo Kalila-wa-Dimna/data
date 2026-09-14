@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="179"/>
+
+      <p n="unassigned">
+        وإنما ضربت لك هذا المثل لتعلم أنّ الجاهل ربّما انصرف عن أمر يحلّ به فيحجزه عن ذلك
+        <lb/>
+
+        فنزول عمّا كان عليه ويتوب منه ومن غيره كاللبوة التي كانت تأكل اللحم والوحوش
+        <lb/>
+
+        فلمّا سمعت كلام الشعهر وما وعظها به تركت أكل اللحم وأقبلت على العبادة ثمّ قال
+        <lb/>
+
+        الفيلسوف للمَلك والناس أحقّ بالنظر في ذلك والأخذ به والرأي التامّ لهم فيه وقد
+        <lb/>
+
+        قيل ما لا ترضاه لنفسك فلا تصنعه بغيرك فإنّ ذلك هو العدل وفيه رضى الله سبحانه وتعالى
+        <lb/>
+
+        فافهم ذلك ترشد وتسعد إن شاء الله تمّ باب اللبوة والإسوار
+      </p>
+
+      <p n="Chapter Title">
+        باب الناسك والضيف
+      </p>
+
+      <p n="King Understood Last Chapter">
+        قال الملك للفيلسوف قد فهمت ما ذكرت من مثل من يدع ضرّ غيره لألم يصيبه أو بليّة
+        <lb/>
+
+        تنزل به
+      </p>
+
+      <p n="King Ask Seek Wrong Work">
+        فأخبرني عمّن يدع عمله الذي يليق به ويشاكله ويطلب ما سواه فلا يُدركه
+        <lb/>
+
+        فيرجع للذي كان في يده فلا يقدر عليه فيبقى حيرانًا متردّدًا
+      </p>
+
+      <p n="Mention A G Story">
+        كالناسك والضيف
+      </p>
+
+      <p n="King Requests A G Story">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="Story Ascetic Guest">
+        قال الفيلسوف زعموا أنّه كان بأرض الكرخ ناسكًا مجتهدًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lh</chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

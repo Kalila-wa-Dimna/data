@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>VAF298</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="132"/>
+
+      <p n="The Third Vizier Has No Solution">
+        المؤيّد أن أمرًا نزل بنا وبآبائنا وانتهى إلينا وثبت في دوننا ولم يقدر
+        <lb/>
+
+        من سلف يزيله فلا تحسب أنّ فيه حيلة ولا للملائكة وكيف الناس الذين هم
+        <lb/>
+
+        أضعف قوّة فالواجب أن يُترك هذا الأمر ولا يُحرّض عليه
+      </p>
+
+      <p n="Affairs Need God and Nature">
+        فإنّ كلّ عمل صغير
+        <lb/>
+
+        له كبير لا يتمّ إلّا بحركة من فوق وينبغي أن لا تسل ولا تحرص ولا تجتهد في شيء
+        <lb/>
+
+        من الأذى
+      </p>
+
+      <p n="Nature Cannot Be Fended Off">
+        كما أصاب هوطباد
+      </p>
+
+      <p n="A Kingdom with a Hole in the Mountain">
+        وكان في بلده جبل يعرف باسم له وكان ذلك
+        <lb/>
+
+        الجبل كثير الأشجار والنبات مطّرد العيون والأنهار وسائر الأنعام والوحش
+        <lb/>
+
+        كانت فيه يردون منه ويرعون فيه
+      </p>
+
+      <p n="Winds Blow through the Mountain Hole">
+        وكان في أصل ذلك الجبل ثقب يخرج منه ريح
+        <lb/>
+
+        عظيم
+      </p>
+
+      <p n="The Palace Is Near the Hole">
+        وكان يقربه منزل يقال له بنهرخال أحسن ما يكون من المواضع وكان
+        <lb/>
+
+        هوطباد ورهطه سكّان في ذلك الموضع وكانت الريح في بعض الأوقات
+        <lb/>
+
+        تؤذيهم فأرادوا الرحيل ولم يروا ترك الوطن لخصب البلد فأقاموا على تلك
+        <lb/>
+
+        الحال يحتملون شدّة الريح ومقاساتها في كلّ أوان
+      </p>
+
+      <p n="King W Consults with the Vizier On Wind Issue">
+        وكان هوطباد قد
+        <lb/>
+
+        اختصّ له وزير يشاوره في جميع أموره فأحضره وقال اعلم أنّنا في هذا
+        <lb/>
+
+        الموضع في خصب وخير وسعة وحياتنا لذيذة وأمورنا مستقيمة لولا
+        <lb/>
+
+        الريح كان شبيهًا بالجنّة
+      </p>
+
+      <p n="King W Wants to Block the Hole">
+        ولكن نريد أن نعمل الحيلة في سدّ هذا الثقب فيزول
+        <lb/>
+
+        عنّا شدّة الريح ويتكامل سرورنا ونصير كأهل الجنّة
+      </p>
+
+      <p n="The Vizier Is Willing to Execute">
+        قال الوزير أيّها الملك
+        <lb/>
+
+        إنّي لأمرك سامع مطيع
+      </p>
+
+      <p n="King W Is Not Satisfied with the Response">
+        قال الملك لا يغنيني هذا الجواب
+      </p>
+
+      <p n="The Vizier Defers to the Opinion of King W">
+        قال الوزير أمّا أنا فلست
+        <lb/>
+
+        أقول شيئًا وإنّ هذا الأمر الذي تظنّه لا يقدر يزيله أحد من الناس ولا
+        <lb/>
+
+        يزيله إلّا ربّ العالمين
+      </p>
+
+      <p n="The Affair Is Simpler for Man">
+        قال الملك الأمر على ما ذكرت وإنّي لأعلم أنّ كلّ ما يعرض
+        <lb/>
+
+        في أنفسنا هذا لا يعرض إلاّ بأمر الله وهذا الأمر الذي نظنّه سهل على أيدي الناس
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

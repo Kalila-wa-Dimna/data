@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="178"/>
+
+      <p n="Dimna's Offer of Safety to Ox">
+        ذنبك في التأخّر عنه وتركك لقاءه
+      </p>
+
+      <p n="Ox's Request for Assurance">
+        وقال له إن أنت تلكّأت أن أسرع الرجعة إليه
+        <lb/>
+
+        فأخبره بذلك
+      </p>
+
+      <p n="Ox Inquires about Lion's Identity">
+        فقال شتربة ومن هذا الأسد الذي أرسلك إليّ وأين هو
+      </p>
+
+      <p n="Dimna Describes Lion as King of Beasts">
+        قال دمنة هو ملك
+        <lb/>
+
+        السباع
+      </p>
+
+      <p n="Ox's Fear Upon Hearing of Lion">
+        فرعب شتربة من ذكر السباع والأسد
+      </p>
+
+      <p n="Ox's Acceptance of Dimna's Offer">
+        وقال لدمنة إن أنت جعلت
+        <lb/>
+
+        لي الأمان أقبلت معك إليه
+      </p>
+
+      <p n="Dimna Provides Assurance to Ox">
+        فأعطاه دمنة ما وثق به
+      </p>
+
+      <p n="Dimna and Ox Approach Lion Together">
+        ثمّ انطلقا جميعًا حتّى دخلا على الأسد
+      </p>
+
+      <p n="Lion's Welcoming Inquiry to Ox">
+        فأحسن الأسد مساءلته وقال له متى قدمت هذه البلاد وما أقدمكها
+      </p>
+
+      <p n="Ox Recounts His Story to Lion">
+        فاقتصّ
+        <lb/>
+
+        شتربة على الأسد قصّته
+      </p>
+
+      <p n="Lion Invites Ox to Stay">
+        فقال له الأسد الزمني فإنّي مكرمك ومحسن إليك فدعا له
+        <lb/>
+
+        شتربة وأثنى عليه
+      </p>
+
+      <p n="Lion's Growing Trust in Ox">
+        وإنّ الأسد قرّب شتربة وأكرمه وألطفه ففتّش منه رأيًا وعقلًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

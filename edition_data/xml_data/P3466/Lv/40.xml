@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="40"/>
+
+      <p n="Friend Guesses Burzoys Mission">
+        بها إلى بلادك وتسرّ بها ملكك وكان قدومك بالمكر
+        <lb/>
+
+        ومصادقتك بالخديعة
+      </p>
+
+      <p n="Friend Stays Devoted To Burzoy">
+        ولكنّي لمّا رأيت صبرك ومواظبتك
+        <lb/>
+
+        على طلب حاجتك والتحفّظ من أن تسقط في الكلام مع طول
+        <lb/>
+
+        مدّتك عندنا بشيء يُستدلّ به على سريرتك وأمرك ازددت
+        <lb/>
+
+        رغبة في إخائك وثقة بعقلك وأحببت مودّتك
+      </p>
+
+      <p n="Friend Distinguishes Burzoy">
+        فإنّي لا أعلم
+        <lb/>
+
+        أنّي رأيت في الرجال رجلًا هو أرصن عقلًا منك ولا أكتم لسرّه
+        <lb/>
+
+        منك ولا سيّما في بلاد غربة ومملكة غير مملكتك
+        <lb/>
+
+        وعند قوم لم تعرف سنّتهم وأمرهم
+      </p>
+
+      <p n="Traits Of Prudence">
+        وإنّ عقل الرجال ليبين
+        <lb/>
+
+        في ثمان خصال أنا مفسّرها لك إن شاء الله تعالى الأولى الرفق
+        <lb/>
+
+        والتلطّف والثانية أن يعرف الرجل نفسه فيحفظها والثالثة
+        <lb/>
+
+        طاعة الملوك وتحرّي ما يُرضيهم
+      </p>
+
+      <p n="Traits Of Secrecy And Speech">
+        والرابعة معرفة الرجل موضع
+        <lb/>
+
+        سرّه كيف ينبغي أن يطلع عليه صديقه والخامسة أن يكون على
+        <lb/>
+
+        باب الملوك أديبًا ملق اللسان والسادسة أن يكون لسرّه
+        <lb/>
+
+        وسرّ غيره حافظًا والسابعة أن يكون على لسانه قادرًا فلا
+        <lb/>
+
+        يطلع من كلام إلاّ ما يأمن تبعته والثامنة إذا كان في
+        <lb/>
+
+        مجلس فلا يتكلّم بما لا يُسأل عنه
+      </p>
+
+      <p n="Burzoy Has These Traits">
+        وقد استبانت لي هذه الخصال
+        <lb/>
+
+        كلّها فيك ووضحت لي منك
+      </p>
+
+      <p n="Burzoy Came To Steal Indian Knowledge">
+        فالله يحفظك ويعينك على الذي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

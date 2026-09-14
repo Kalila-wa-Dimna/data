@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="65"/>
+
+      <p n="Analogy of Overflowing Water Reservoir">
+        كنجسن الماء الذي لا تزال المياه تنصبّ فيه فإن لم
+        <lb/>
+
+        يكن له مخرج ومفيض يتنفّس منه الماء بقدر ما ينبغي خرب
+        <lb/>
+
+        وسال من نواحي كثيرة وربّما انخرق الخرق العظيم وذهب
+        <lb/>
+
+        الماء ضياعًا
+      </p>
+
+      <p n="Sons' Acceptance of Father's Advice">
+        ثمّ إنّ بني الشيخ اتّعظوا بقول أبيهم وأخذوا به
+        <lb/>
+
+        وعلموا أنّ فيه الخير فعملوا به
+      </p>
+
+      <p n="Eldest Son's Journey and Ox Cart Incident">
+        فانطلق أكبرهم نحو أرض يُقال لها
+        <lb/>
+
+        منون فأتى في طريقه على مكان فيه وحل كثير وكان معه عجلة
+        <lb/>
+
+        يجرّها ثوران يُقال لأحدهما شنزبة والآخر بندبة
+      </p>
+
+      <p n="Ox Getting Stuck in Mud">
+        فتوحّل شنزبة بذلك المكان فعالجه الرجل وأصحابه حتّى بلغ
+        <lb/>
+
+        بهم الجهد فلم يقدروا على إخراجه
+      </p>
+
+      <p n="Merchant Leaving a Man to Care for the Ox">
+        فذهب التاجر وخلّف رجلًا
+        <lb/>
+
+        عنده يحفظه إلى أن ينشف الوحل ويبعث به
+      </p>
+
+      <p n="Description of the Caretaker's Actions">
+        فلمّا بات الرجل
+        <lb/>
+
+        استوحش وخاف على نفسه فترك الثور والتحق بصاحبه
+        <lb/>
+
+        فأخبر أنّه مات
+      </p>
+
+      <p n="Caretaker's Philosophical Reflection on Fate">
+        وقال له إنّ إنسانًا إذا انقضت مدّته
+        <lb/>
+
+        وحانت منيّته فهو وإن اجتهد في التوقّي من الأمور التي
+        <lb/>
+
+        يخاف منها على نفسه الهلاك لم يغن ذلك عنه شيئًا وربّما
+        <lb/>
+
+        عاد اجتهاده في حذره وتوقّيه وبالًا عليه
+      </p>
+
+      <p n="First Subtable of Man and Wolf (First Beginning)">
+        كالذي قيل إنّ
+        <lb/>
+
+        رجلًا سلك مفاوز فيها خوف من السباع وكان الرجل
+        <lb/>
+
+        خبيرًا بوعث تلك الأرض وخوفها
+      </p>
+
+      <p n="First Subtable of Man and Wolf (Second Beginning)">
+        فما سار غير بعيد حتّى
+        <lb/>
+
+        اعترضه ذئب من أحدّها وأضراها
+      </p>
+
+      <p n="Man's Escape Attempt from the Wolf">
+        فلمّا رأى الرجل
+        <lb/>
+
+        الذئب قاصده خاف ونظر يمينًا وشمالًا ليرى موضعًا يريد
+        <lb/>
+
+        يتحصّن فيه من الذئب فلم ير إلّا قرية خلف واد فمضى
+        <lb/>
+
+        مسرعًا نحو القرية
+      </p>
+
+      <p n="Man's Dilemma at the River">
+        حتّى أتى الوادي فلم ير على الماء قنطرة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

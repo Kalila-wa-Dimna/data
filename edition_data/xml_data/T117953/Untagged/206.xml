@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T117953</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="206"/>
+
+      <p n="unassigned">
+        وإن تقدّم في فالسنّور أمامه فقال في نفسه هذا بلاء وشرور
+        <lb/>
+
+        قد تظاهرت عليّ ولا يتفرّع لي إلاّ إلى عقلي وحيّلي فلا يكوننّ
+        <lb/>
+
+        من حالي الدهش ولا يذهب قلبي شعاعًا وإنّ العاقل لا يتفرّق عليه ولا
+        <lb/>
+
+        يغرب عنه حال
+        <lb/>
+
+        وإنما عقل ذوي العقول كالبحر الزاخر الذي لا يُدرك غوره ولا
+        <lb/>
+
+        يليغ من ذوي الرأي عقله فيهلكه ولا ينبغي لي إلاّ صلح السنّور
+        <lb/>
+
+        فإنّه قد نزل به من البلاء مثل الذي نزل بي ولعلّه لو سمع كلامي
+        <lb/>
+
+        الذي أكلّمه من القول الصحيح الصادق الذي لا خداع فيه أن يفهم
+        <lb/>
+
+        عنّي ويطمع في معونتي ويستبشر بصلحي ولعلّه أن يكون لي وله في
+        <lb/>
+
+        ذلك خلاص ممّا نحن فيه ثمّ إنّه دنى من السنّور وقال له كيف
+        <lb/>
+
+        حالك قال له كالذي تحبّ من الصيّاد قال الجرذ ولا أكذب
+        <lb/>
+
+        لعمري وقد كنت إنمّا أجزي وما شال وما أراه ضيّق عليك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

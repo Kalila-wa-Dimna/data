@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="102"/>
+
+      <p n="unassigned">
+        نص ملئ فراغ
+        <lb/>
+
+        نص ملئ فراغ
+        <lb/>
+
+        نص ملئ فراغ
+        <lb/>
+
+        نص ملئ فراغ
+        <lb/>
+
+        نص ملئ فراغ
+      </p>
+
+      <p n="Chapter Title">
+        باب
+        <lb/>
+
+        الفحص عن أمر دمنة
+      </p>
+
+      <p n="On Seeking One's Benefit by Others' Harm">
+        وهو باب من أراد منفعته بضرّ غيره إلى ما يؤول إليه أمره
+      </p>
+
+      <p n="The King Asks about Dimna's Fate">
+        قال الملك للفيلسوف قد سمعت حديثك في مِحال العدوّ المحتال
+        <lb/>
+
+        كيف أفسد اليقين بالشبهة حتّى أزال المودّة وأدخل العداوة
+        <lb/>
+
+        فحدّثني إن رأيت كيف اطّلع الأسد على ذنب دمنة حتّى قتله وكيف كانت
+        <lb/>
+
+        معاذيره ودفعه عن نفسه
+      </p>
+
+      <p n="The Philosopher's Answer About the King's Killing">
+        قال بيدبا الفيلسوف إنّا وجدنا في كتب خبر دمنة أنّ الأسد لمّا قتل
+        <lb/>
+
+        شتربة ندم على معاجلته بالقتل وتذكّر حرمته
+      </p>
+
+      <p n="A Leopard Was the Lion's Confidant">
+        وكان من جنود الأسد
+        <lb/>
+
+        وقرابته نمرٌ كان من أكرم أصحابه عليه وأخصّهم عنده منزلةً وأطولهم به
+        <lb/>
+
+        خلوةً بالليل والنهار وكان الأسد بعد قتله شتربة يطيل مسامرة أصحابه
+        <lb/>
+
+        ليقطع عنه بحديثهم بعض ما قد داخله من الكآبة والحزن بقتله الثور وإنّ
+        <lb/>
+
+        النمر لبث في سمره ذات ليلةٍ حتّى مضت هدأةٌ من الليل
+      </p>
+
+      <p n="The Leopard Overhears Kalila Chastising Dimna">
+        ثمّ خرج من
+        <lb/>
+
+        عنده منصرفًا إلى منزله وقد كان منزل كليلة ودمنة قرب منزل الأسد فدنا
+        <lb/>
+
+        النمر من منزلهما ليصيب قبسًا يستضيء به وكانا مترافقين
+        <lb/>
+
+        فسمع النمر محاورتهما ونصت لهما حتّى سمع كلامهما كلّه ووجد كليلة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="320"/>
+
+      <p n="Imaginary Hair in Eye Taken for Real">
+        أنّه ليس بشعر ولو أبصر بعقله عَلِم أنّه لو كان شعرًا أبصره
+        <lb/>
+
+        غيره كما أبصره هو لتحيّره وتغيير مرضه
+      </p>
+
+      <p n="Firefly Is Mistaken for Fire">
+        وكالجاهل الذي
+        <lb/>
+
+        يرى البعوضة في ظلمة الليل فيقضي عليها بالمعاينة أنّها نار فإذا
+        <lb/>
+
+        لمسها تبيّن له خطأ قضائه فيها
+      </p>
+
+      <p n="King Should Have Investigated">
+        وأنت أيّها الملك فقد كنت حقيقًا
+        <lb/>
+
+        أن تنظر في أمر ابن آوى نظر تثبّت وتعرف برأيك وعلمك وحسن
+        <lb/>
+
+        تمييزك وترجع إلى نفسك
+      </p>
+
+      <p n="Jackal Eats no Meat">
+        فتقول أنّى يكون هذا وكيف يكون
+        <lb/>
+
+        هذا وهو لا يأكل اللحم ولا يقربه تنزّهًا عنه ورغبة في رفضه
+        <lb/>
+
+        وقد تعلم أنّ الذي كنت تطعمه منه التماس إكرامه به
+      </p>
+
+      <p n="Jackal Gave Back Meat">
+        كان يزيده
+        <lb/>
+
+        في مطبخك ويوفّره عليك في طعامك وطعام جندك
+      </p>
+
+      <p n="Accusing Jackal after Testing Him Is Absurd">
+        فكيف اتّهمته
+        <lb/>
+
+        بعد اختبارك إيّاه ولا تتفكّر
+      </p>
+
+      <p n="Jackal Is Unlikely to Steal Meat">
+        فتعلم أنّه ليس بخليق أن يتعرّض
+        <lb/>
+
+        لسرقة لحم قليل استودعته إيّاه وأمرته بالاحتفاظ به فيرسله
+        <lb/>
+
+        إلى بيته ثمّ يجحدك إيّاه ويتبرّأ من أن يكون موضعه
+      </p>
+
+      <p n="King Must Investigate Now">
+        فافحص عن
+        <lb/>
+
+        أمره وبالغ في ذلك
+      </p>
+
+      <p n="The Inferior always Envy the Superior">
+        واعلم أنّه لم يزالوا الجهّال يحادّون العلماء
+        <lb/>
+
+        ولم يزالوا اللئام يحسدون الكرام والأشرار يبغضون الأخيار
+        <lb/>
+
+        والجبناء يكرهون الشجعان ويتمحّلون ما استطاعوا ليوقعوهم
+        <lb/>
+
+        ويرون منافعهم لهم ضارًّا لاستثقالهم للحقّ وعداوتهم لأهل
+        <lb/>
+
+        الدين والعلم والمروءة والفضل
+      </p>
+
+      <p n="Jackal's Superiority Causes Envy">
+        وإنّ ابن آوى لم يزال كثير العلم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

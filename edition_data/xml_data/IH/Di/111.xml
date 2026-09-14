@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="111"/>
+
+      <p n="unassigned">
+        |وكنتَ
+      </p>
+
+      <p n="Conceit Caused Dimna's Demise">
+        خَبًّا مُعجَبًا برأيِكا ### وواثِقًا باللطفِ مِن دهائِكا
+        <lb/>
+
+        |حتّى رُميتَ بالنآدِ الصَّيْلَمِ ### من يَثْنِ أبطالَ الرجالِ يُكْلَمِ
+      </p>
+
+      <p n="The Schemer Dies Before His Time">
+        |رُبَّ لطيفٍ قد سعى واحْتالا ### عادَ عليه كيدُهُ وَبالا
+        <lb/>
+
+        |بُعْدًا وسُحْقًا للذكاءِ والأَدَبْ ### إذا دعا صاحَِبُه إلي العَطَبْ
+        <lb/>
+
+        |لا خَيْرَ في فضلٍ يجُرُّ نَقْصا ### أردتَ قُربًا فغدوتَ تُقْصى
+      </p>
+
+      <p n="Kalila Calls Dimna's Situation Worse Than Death">
+        |لَهْفي على ذاك الذكاءِ والحِكَمْ ### كم أَبْرَما نَقْضًا وكم سَدّا ثُلَمْ
+        <lb/>
+
+        |لا تَجْزَعَنْ فكلُّ شيءٍ يَهْلَكُ ### المرءُ يبكي والقضاءُ يَضْحَكُ
+        <lb/>
+
+        |هذا وربَّ حكمةٍ لا تنفعُ ### إنّ الشقاءَ بالشقيِّ مولَعُ
+        <lb/>
+
+        |ما كنت إلّا داءَ نفسِ الحاسِدِ ### والناسُ أَلْفٌ مِنهُمُ كَواحِدِ
+      </p>
+
+      <p n="Dimna Cites His Greed as Cause for Not Listening">
+        |قال له دمنةُ نِعمَ الصاحِبُ ### أنت ونِعمَ الخِلُّ والمُقارِبُ
+        <lb/>
+
+        |لقد نصحتَ جاهِدًا لا تَأْتَلي ### وقلتَ لي نصيحةً لا تَفْعَلِ
+        <lb/>
+
+        |وكيف لا أفعلُ والمقادِرُ ### تعمى بها الأبصارُ والبصائِرُ
+      </p>
+
+      <p n="Who Ignores Friends’ Advice Comes to Regret">
+        |من استغشَّ الناصِحَ الشَّفيقا ### كان بما يكرَهُهُ حَقيقا
+        <lb/>
+
+        |من خالفَ الرأيَ غَوى ومَن عَجِلْ ### زلّ وإن كان لَبيبًا وخَجِلْ
+        <lb/>
+
+        |من لم يخَفْ عواقِبَ الأمورِ ### آلَ به الأَمْنُ إلى المَحْذورِ
+        <lb/>
+
+        |من لم يطِعْ نصيحةَ اللبيبِ بُلي بكلّ مُشكلٍ صَعوبِ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>H170</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="45"/>
+
+      <p n="A Burglar Breaks Into His House">
+        أخاف عليه فليجتهد السارق جهده فبينما السارق يجول إذ وقعت يده على
+        <lb/>
+
+        خابية فيها حنطة
+      </p>
+
+      <p n="The Burglar Attempts to Steal the Jar's Contents">
+        فقال السارق والله ما أحبّ أن يكون عنائي الليلة باطلًا
+        <lb/>
+
+        ولعلّ لا أصل إلى موضع آخر ولكنّي سأحمل هذه الحنطة ثمّ بسط رداءه وكان
+        <lb/>
+
+        طمعه ليصبّ عليه الحنطة
+      </p>
+
+      <p n="The Pauper Panics">
+        فقال الرجل ليس لي على هذا صبر فذهب هذا بهذه
+        <lb/>
+
+        الحنطة وليس ورائي سواها فيجتمع عليّ العري وذهاب ما كنت أقتات
+        <lb/>
+
+        به ولا يجتمعان والله هاتان الخلّتان على أحد إلّا أهلكتاه
+      </p>
+
+      <p n="The Pauper Chases the Burglar Away, Keeps His Garb">
+        ثمّ صاح بالسارق
+        <lb/>
+
+        وأخذ هراوة كانت عند رأسه فلم يكن للسارق إلّا الهرب منه وترك رداءه ونجا
+        <lb/>
+
+        بنفسه فأخذه الرجل فغدا به كاسيًا
+      </p>
+
+      <p n="One Should Not Abandon Hard Work">
+        وليس ينبغي أن يركن إلى مثل هذا ويدع ما يجب عليه
+        <lb/>
+
+        من العمل والهذر والغدر في مثل هذا الصلاح لمعاشه
+      </p>
+
+      <p n="The Fortunate Few Are Not the Model">
+        ولا ينظر إلى من تؤاتيه المقادير وتساعده
+        <lb/>
+
+        على غير الناس منه فإن أولئك في الناس قليل والجمهور منهم من أتعب نفسه في
+        <lb/>
+
+        الكدّ والسعي فيما يصلح أمره وينال به ما أراد
+      </p>
+
+      <p n="One Should Strive for Benefit Not Harm">
+        وينبغي أن يكون حرصه على ما
+        <lb/>
+
+        طاب كسبه وحسن نفعه ولا يعرض نفسه لما يجلب عليه العناء والشقاء
+      </p>
+
+      <p n="Dove Does Not Learn from Losing Her Chicks">
+        فيكون كالحمامة
+        <lb/>
+
+        التي تفرّخ الفراخ للذبح ولا يمنعها من ذلك أن تعود فتفرّخ في موضعها
+        <lb/>
+
+        وتقيم بمكانها وتؤخذ الثانية أفراخها فتذبح
+      </p>
+
+      <p n="One Should Abide by God's Measures">
+        وقد يقال إنّ الله تعالى قد
+        <lb/>
+
+        جعل لكلّ شيء سببًا موقف عليه من تجاوزت به الأشياء حدّها وأوشك أن يلحقه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

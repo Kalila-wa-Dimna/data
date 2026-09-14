@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="330"/>
+
+      <p n="unassigned">
+        وإنّما ضربت لك هذا المثل لتعلم أنّ الجاهل ربّما انصرف
+        <lb/>
+
+        لضرّ يصيبه عن ضرّ الناس كاللبؤة التي انصرف لما
+        <lb/>
+
+        لقيت في شبليها عن أكل اللحوم ثمّ أكل الثمار بقول
+        <lb/>
+
+        الورشان وأقبلت على النسك والعبادة والناس أحقّ بحسن
+        <lb/>
+
+        النظر في ذلك فإنّه قد قيل ما لا ترضاه لنفسك فلا ترضاه
+        <lb/>
+
+        لغيرك ولا تأتيه إليه فإنّ في ذلك عدل وفي العدل
+        <lb/>
+
+        رضا الله تعالى ورضا الناس
+      </p>
+
+      <p n="Chapter Title">
+        باب الناسك والضيف
+      </p>
+
+      <p n="King Understood Last Chapter">
+        قال ديشلم الملك لبيدنا الفيلسوف قد سمعت هذا المثل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lh</chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

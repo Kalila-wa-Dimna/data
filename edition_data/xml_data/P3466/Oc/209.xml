@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="209"/>
+
+      <p n="Thief Breaks In">
+        وامرأته مستيقظة فذعرت من السارق
+      </p>
+
+      <p n="Wife Hugs Old Man">
+        فوثبت على التاجر
+        <lb/>
+
+        فالتزمته فانتبه بعناقها فقال من أين جاءت هذه النعمة
+      </p>
+
+      <p n="Old Man Notices Thief">
+        فلمّا
+        <lb/>
+
+        بصر بالسارق
+      </p>
+
+      <p n="Old Man Rewards Thief">
+        ناداه أيّها الرجل أنت في حلّ من جميع ما أخذت
+        <lb/>
+
+        من مالي ولك الفضل عليّ بما عطّفت من ردّ هذه على عناقي
+      </p>
+
+      <p n="King O Asks Third Owl">
+        قال
+        <lb/>
+
+        ثمّ إنّ الملك سأل الثالث من وزرائه عن الغراب
+      </p>
+
+      <p n="Spy To Be Kept For Counsel">
+        فقال أرى
+        <lb/>
+
+        أن تستبقيه وتحسن إليه فإنّه خليق أن يناصحك
+      </p>
+
+      <p n="Dispute Between Foes Is Beneficial">
+        فإنّ ذا العقل
+        <lb/>
+
+        يرى ظفرًا عظيمًا معاداة بعض عدوّه بعضًا ففي اختلاف العدوّ
+        <lb/>
+
+        واشتغال بعضهم ببعض
+      </p>
+
+      <p n="Mention Thief Demon Story">
+        مثل الذي كان من اختلاف اللصّ
+        <lb/>
+
+        والشيطان وخلاص الرجل
+      </p>
+
+      <p n="King Request Thief Demon Story">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="Story Thief Demon Cow">
+        قال الوزير زعموا أنّ ناسكًا أصاب من رجل بقرة فانطلق
+        <lb/>
+
+        بها يقودها وبصر به لصّ فتبعه يريد سرقتها وتبع اللصّ
+        <lb/>
+
+        شيطان في زيّ إنسان
+      </p>
+
+      <p n="Thief And Demon Plot">
+        فقال اللصّ للشيطان ما أنت قال شيطان
+        <lb/>
+
+        أريد أتبع هذا الناسك فإذا نام الناس خبلته وقال اللصّ أنا
+        <lb/>
+
+        أريد أن أتبعه فإذا نام سرقت هذه البقرة فانتهيا إلى
+        <lb/>
+
+        منزله
+      </p>
+
+      <p n="Man Goes To Sleep">
+        فدخل الناسك بيته وشدّ بقرته
+      </p>
+
+      <p n="Thiefs Concerns">
+        فلمّا نام الناس
+        <lb/>
+
+        أشفق اللصّ إن بدأ الشيطان بالرجل أن يصيح فيجتمع الناس بصوته
+        <lb/>
+
+        فلا يقدر على البقرة فقال للشيطان أنظرْني آخذ البقرة وشأنك والرجل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

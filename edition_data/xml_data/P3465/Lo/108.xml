@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="108"/>
+
+      <p n="The Fox and the Rams">
+        الدماء إذ أقبل عليه الوعلان بنطاحهما فقتلاه
+      </p>
+
+      <p n="The Ascetic Lodges with a Procuress">
+        ومضى الناسك حتّى دخل تلك
+        <lb/>
+
+        المدينة فلم يجدْ فيها قرى إلّا بيت امرأة فنزل بها واستضاف بها وكان للمرأة جارية
+      </p>
+
+      <p n="Animals Are Treated according to Their Benefit">
+        تؤاجر لها
+      </p>
+
+      <p n="The Procuress's Problematic Slave Girl">
+        وكانت قد علقت رجلًا وهي له مريدة وقد أضرّ ذلك بمولاتها
+      </p>
+
+      <p n="The Procuress's Plot">
+        فاحتالت
+        <lb/>
+
+        لقتل الرجل في تلك الليلة التي استضاف بها الناسك ثمّ إنّ الرجل وافاها
+      </p>
+
+      <p n="The Lover is Drugged">
+        فأسقته
+        <lb/>
+
+        من الخمرة حتّى سكر ونام ونامت الجارية إلى جانبه
+      </p>
+
+      <p n="The Poisonous Reed Pipe">
+        فلمّا استقلّا نومًا عمدت
+        <lb/>
+
+        إلى سمّ كانت قد أعدّته في قصبة لتنفخه في دبر الرجل
+      </p>
+
+      <p n="The Plot Backfires">
+        فلمّا أرادت ذلك بدرت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

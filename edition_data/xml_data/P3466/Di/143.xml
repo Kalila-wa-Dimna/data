@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="143"/>
+
+      <p n="Kalila Predicts Dimna's Doom">
+        وقال في بعض قوله يا دمنة إنّ الذي أتيت من النميمة والخلابة
+        <lb/>
+
+        سيظهر للأسد ويطّلع عليه ولست بناج منه يا دمنة إلّا
+        <lb/>
+
+        بأشدّ ما يعاونوه أهل الذنوب
+      </p>
+
+      <p n="Kalila Rejects Dimna as Friend">
+        ولست أنا أيضًا بمتّخذك بعد اليوم خلًّا
+        <lb/>
+
+        ولا مفش إليك سرًّا ولا مساكنك في منزل
+      </p>
+
+      <p n="Kalila Accuses Dimna of Causing the Ox's Killing">
+        لِما حملت سيّدنا على خليله
+        <lb/>
+
+        البريء العالم الرفيق شتربة ولم تزل به حتّى اتّهمه فقتله
+      </p>
+
+      <p n="The Leopard Confides in the Lion's Mother">
+        فلمّا سمع النمر
+        <lb/>
+
+        قول كليلة رجع فدخل على أمّ الأسد فحدّثها الحديث كلّه بما سمع
+      </p>
+
+      <p n="The Mother Goes to the Lion and Finds Him Sad">
+        فلمّا أصبحت أمّ الأسد دخلت على الأسد فلمّا رأت شدّة حزنه على شتربة
+      </p>
+
+      <p n="The Mother Asks About the Cause of Grief">
+        قالت يا سيّد السباع ما هذا الحزن الذي قد أخذ منك وغلب عليك
+      </p>
+
+      <p n="The Lion Misses the Ox and Regrets Killing Him">
+        قال لها حزنت على عقل شتربة وكلّما تذكّرت صحبته ومواظبته
+        <lb/>
+
+        عليّ وما كنت أسمع من مؤامرته وأسكن إليه في مشاورته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

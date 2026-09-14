@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="85"/>
+
+      <p n="The Mother Asks the Lion to Punish Dimna">
+        فإن كنت عندك كذلك فعاقبْ هذا الفاجر عقوبة أمثاله
+      </p>
+
+      <p n="The Lion Asks Again About the Source">
+        فقال الأسد ما عليك في إخباري منقصة
+      </p>
+
+      <p n="The Mother Deems That Divulging Will Harm Her Credibility">
+        فقالت لا يطمئنّ بعدها
+        <lb/>
+
+        أحد إلى قولي ويكون سبب سقوطي عند من استودعني سرّه وائتمنني
+        <lb/>
+
+        عليه
+      </p>
+
+      <p n="The Lion Realizes His Mother Will Keep the Source Secret">
+        فلمّا سمع الأسد ذلك علم أنّ الذي أخبرها ثقة
+      </p>
+
+      <p n="The Lion Assembles the Court and Summons Dimna">
+        فأرسل
+        <lb/>
+
+        الأسد إلى دمنة وأحضر الجند
+      </p>
+
+      <p n="The Lion Lowers His Head in Shame">
+        ونكّس رأسه بينهم حياء من
+        <lb/>
+
+        قتل شتربه
+      </p>
+
+      <p n="Dimna Inquires About the Lion's Dejection">
+        فلمّا رأى ذلك دمنة قال لبعض من يليه ما شأن
+        <lb/>
+
+        الأسد كئيبًا مهمومًا هل حدث أمر حتّى جمعكم إليه
+      </p>
+
+      <p n="The Mother Declares Dimna Responsible">
+        فقالت أمّ
+        <lb/>
+
+        الأسد إنّما ترى ذلك من حال الأسد لتركه إيّاك إلى اليوم حيًّا بعد
+        <lb/>
+
+        صنعك به وحملك إيّاه بنميمتك وفجورك على قتل شتربة
+      </p>
+
+      <p n="Good People Suffer Misfortune Fastest">
+        فقال
+        <lb/>
+
+        دمنة ما قلت أسمع الذي يُقال إلّا حقًّا إنّ الذي يجهل نفسه في طلب
+        <lb/>
+
+        الخير البلاء منه أسرع إلى غيره
+      </p>
+
+      <p n="Dimna Claims He Only Warned Lion of Ox's Treason">
+        وقد حملني النصح للملك والإيثار
+        <lb/>
+
+        له على نفسي أن أطلعته على المغرّ به وأعلمته بالذي رأى من السلامات
+        <lb/>
+
+        والشاه مات
+      </p>
+
+      <p n="Dimna Says the King Saw the Same Signs">
+        فاستبان به ذلك وما فعل شيئًا إلّا عن بصيرة وإن هو
+        <lb/>
+
+        أيضًا بحث عن الأمر وسأل عنه ونظر فيه عرف صدق ما كنت قلت
+        <lb/>
+
+        له
+      </p>
+
+      <p n="Hidden Crimes Are Exposed by Investigation">
+        فإنّ جرم المجرم وإذا فُحص عنه وتبيّن ازداد استنارة
+      </p>
+
+      <p n="Stirred Up Mud Stinks">
+        كما أنّ كلّ شقّتين
+        <lb/>
+
+        من حمأة أو غيرها إذا حُرّكت ظهر ريحها وقذرها
+      </p>
+
+      <p n="Dimna Cites His Staying as Proof of Innocence">
+        ولو كنت مذنبًا
+        <lb/>
+
+        لهربت في الأرض وكان لي فيها مستبطنًا ونجوت فلم أقم بباب
+        <lb/>
+
+        الملك ولكنّي لثقتي وبرائتي ونصيحتي لم أبرح ولم أفارقه
+      </p>
+
+      <p n="Dimna Asks for Unimpeachable Investigator">
+        وأنا أرغب
+        <lb/>
+
+        إليه إن كان في شكّ من ذلك أن لا يأخذه في الحقّ لومة لائم
+        <lb/>
+
+        ولا يكون عنده محاباة لأحد ولا يُرفع إليه ما سمع من غيري
+        <lb/>
+
+        ولا يأخذ بأقاويل البغاة والحسدة
+      </p>
+
+      <p n="Dimna's Station Exposes Him to Jealousy">
+        فإنّه قد كانت لي منه منزلة أُنافَس
+        <lb/>
+
+        فيها من يصل إليه
+      </p>
+
+      <p n="Dimna Claims only Investigation Can Save Him">
+        وإن هو لم يقبل ذلك فرأيه غلط ولا ملجأ إلّا إلى
+        <lb/>
+
+        الله الذي يعلم السرائر وخفيّ الضمائر لعلّى أن لا أكون ناظرًا ذلك
+        <lb/>
+
+        منه
+      </p>
+
+      <p n="Doubt and Certainty Must Not Be Confused">
+        وقد كان يُقال إنّ الذي يعمل بالشبهة ولا يتأنّى عندها
+        <lb/>
+
+        ولا يتثبّت فيها
+      </p>
+
+      <p n="Dimna's First Subtale of the Woman Who Mistook Her Servant for Her Lover">
+        يكون أمره كأمر المرأة التي شبّهت عبدها
+        <lb/>
+
+        بصديقها ففضحها
+      </p>
+
+      <p n="Lion's Question for Woman's Tale">
+        فقال الأسد وكيف كان ذلك
+      </p>
+
+      <p n="A Merchant's Wife Had a Lover">
+        قال دمنة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

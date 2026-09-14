@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="53"/>
+
+      <p n="unassigned">
+        فقال له الأسد ما حبسك عنّي ولم أرك في هذه المدّة فأخبرني بما جرى لك وما أخّرك عنّي
+      </p>
+
+      <p n="Dimna's Vague and Ominous Reply">
+        فقال دمنة لم يكن إلّا خيرًا إن شاء الله تعالى
+      </p>
+
+      <p n="The Lion Asks if Something Happened">
+        قال له الأسد هل حدث أمر
+      </p>
+
+      <p n="Dimna Confirms Unwanted Events">
+        قال دمنة نعم قد حدث
+        <lb/>
+
+        ما لم يكن الملك يريده ولا يختاره
+      </p>
+
+      <p n="The Lion Asks What Happened">
+        قال له الأسد وما ذاك
+      </p>
+
+      <p n="Dimna Claims the News is Grave and Requires Privacy">
+        قال دمنة هو كلام فظيع شنيع
+      </p>
+
+      <p n="The Lion Urges Dimna to Speak in Private">
+        قال الأسد أخبرني به
+      </p>
+
+      <p n="Dimna's Preamble on Delivering Unpleasant Advice">
+        قال دمنة إنّه ما كان من كلام يكرهه سامعه لم يشجّع عليه قائله وإن
+        <lb/>
+
+        كان ناصحًا مشفقًا إلّا أن يتمّ بفعل المنصوح له فإنّه إذا كان كذلك احتمل القول وعرف
+        <lb/>
+
+        ما فيه من الفضل لأنّه ما كان فيه من نفع فهو له
+      </p>
+
+      <p n="Dimna Praises the Lion's Wisdom to Justify His Frankness">
+        وأنت أيّها الملك وافي الحلم زاكي العلم
+        <lb/>
+
+        فأنا مخبرك بما تكره وواثق بمعرفتك بنصحي لك
+      </p>
+
+      <p n="Dimna States His Duty to Speak">
+        وقد تعرض في صدري أنّك غير مصدّق لقولي لكنّي
+        <lb/>
+
+        إذا ذكرت أنفسنا معًا سترى الوحوش أنّها لا قوام لها إلّا بك لم أجد بدًّا من أداء الحقّ
+        <lb/>
+
+        الذي يلزمني إليك والطاعة التي لا بدّ منها لك وإن أنت لم تسألني عنه أو خفت أنّك لا
+        <lb/>
+
+        تقبله منّي
+      </p>
+
+      <p n="The Maxim of Not Hiding Advice from a Ruler">
+        فإنّه من كتم السلطان نصحه والأطبّاء مرضه والإخوان رأيه فقد غشّ نفسه
+      </p>
+
+      <p n="The Lion Asks for the Advice">
+        فقال الأسد وما ذاك
+      </p>
+
+      <p n="Dimna Accuses Shatraba of Slandering the Lion's Strength">
+        قال دمنة حدّثني الصدوق الأمين أنّ شتربه خلا برؤوس جندك
+        <lb/>
+
+        وقال لهم إنّي قد تلوت الأسد وخبرت رأيه وقوّته فإذا ذلك منه ضعف وعجز
+      </p>
+
+      <p n="Dimna Claims Shatraba is a Traitor Seeking the Throne">
+        فلمّا
+        <lb/>
+
+        بلغني ذلك عنه عرفت أنّه خؤون كاذب إلّا أنّك أكرمته وقرّبته وجعلته نظير نفسك
+        <lb/>
+
+        فهو يرى نفسه أنّه مثلك وأنّك إن زلت عن مكانك كأنّ له ملكك
+      </p>
+
+      <p n="The Maxim of Striking Down a Rival Before Being Struck">
+        وقد قيل إذا عرف الملك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

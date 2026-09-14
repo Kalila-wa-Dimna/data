@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="193"/>
+
+      <p n="Dimna Again Praises the Lion's Judgment">
+        ولا تؤخّره فإنّك لا تأمن أن يفوتك ثمّ لا تستدركه
+      </p>
+
+      <p n="The Parable of the Three Types of Men">
+        فإنّه كان يُقال الرجال ثلاثة حازمان
+        <lb/>
+
+        وعاجز
+      </p>
+
+      <p n="Defining the Resolute Man and the More Resolute Man">
+        فأحد الحازمين من إذا نزل به البلاء لم يدهش ولم يذهب قلبه شعاعًا ولم يعيى برأيه
+        <lb/>
+
+        وحيلته وكيده التي بها يرجو النجاة وأحزم من هذا المتقدّم المعدّ الذي يعرف الأمر قبل
+        <lb/>
+
+        وقوعه
+      </p>
+
+      <p n="Defining the Helpless Man and Introducing the Tale of the Three Fish">
+        وأمّا العاجز فهو في تردّد وأماني حتّى يهلك ومثل ذلك مثل السمكات الثلاث
+      </p>
+
+      <p n="The Lion Asks for the Tale of the Fish">
+        قال الأسد وكيف كان ذلك
+      </p>
+
+      <p n="The Story Begins: Three Fish in a Pond">
+        قال دمنة زعموا أنّ غديرًا كان فيه ثلاث سمكات عظام
+        <lb/>
+
+        كيّسة وأكيس منها وعاجزة وكان ذلك الغدير بنجوة من الأرض لا يكاد يقربه الناس
+      </p>
+
+      <p n="Two Fishermen Discover the Pond">
+        فلمّا
+        <lb/>
+
+        كان ذات يوم مرّ صيادان على ذلك الغدير فتواعدا أن يرجعا بشبكتيهما فيصيدان السمكات
+        <lb/>
+
+        الثلاث
+      </p>
+
+      <p n="The Most Resolute Fish Escapes Immediately">
+        فأمّا السمكة
+        <lb/>
+
+        الكيّسة فارتابت
+        <lb/>
+
+        وتخوّفت وما وقعت
+        <lb/>
+
+        أن خرجت <>
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

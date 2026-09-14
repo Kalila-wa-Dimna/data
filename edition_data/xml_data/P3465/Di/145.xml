@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="145"/>
+
+      <p n="unassigned">
+        ويضربه دمنة فترك مجاورة كليلة وتقدّم إلى الأسد فقال له ليهنئك الظفر
+        <lb/>
+
+        إذا أهلك الله أعدائك فماذا يجزيك أيّها الملك قال أنا حزين على عقل شتربة
+        <lb/>
+
+        ورأيه وأدبه قال له دمنة لا ترحمه أيّها الملك فإنّ العاقل لا يرحم من
+        <lb/>
+
+        يخافه وإنّ الرجل الحازم ربما بغض الرجل وكرهه كالذي تلدغه الحيّة
+        <lb/>
+
+        في إصبعه فيقطعها ويتبريء منها مخافةً أن يسري سمّها إلى بدنه فرضي
+        <lb/>
+
+        الأسد بقول دمنة ثمّ علم بعد ذلك بكذبه وغدره وفجوره فقتله شرّ قتلة
+        <lb/>
+
+        انقضى باب الأسد والثور
+      </p>
+
+      <p n="Chapter Title">
+        باب الفحص عن أمر دمنه
+      </p>
+
+      <p n="The King Asks about Dimna's Fate">
+        قال ديشلم الملك لبيديا الفيلسوف قد حدّثتني عن الواشي الماهر
+        <lb/>
+
+        بالمحال كيف يفسد بالنميمة المودّة الثابتة بين المتحابّين فحدّثني
+        <lb/>
+
+        إن رأيت بما كان من حال دمنة وإلى ما آل مآله بعد قتل شتربة وما كان
+        <lb/>
+
+        من معاذيره عند الأسد وأصحابه حين راجع الأسد رأيه في الثور وأدخل
+        <lb/>
+
+        النميمة على دمنة وما كانت حجّته التي احتجّ بها
+      </p>
+
+      <p n="The Philosopher's Answer About the King's Killing">
+        قال الفيلسوف إنّا وجدت
+        <lb/>
+
+        في حديث دمنة أنّ الأسد حين قتل شتربة ندم على قتله وذكر قديم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

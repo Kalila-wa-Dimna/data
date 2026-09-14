@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="70"/>
+
+      <p n="Love and Hate Are Reciprocal">
+        له في نفسه مثل ذلك
+      </p>
+
+      <p n="The Mother Asks About the Lion's Feelings Toward the Ox">
+        فأعلمني كيف كانت نفسك قبل قتلك إيّاه وبعده
+      </p>
+
+      <p n="The Lion Finds no Fault with the Ox">
+        فقال الأسد
+        <lb/>
+
+        ما زلت لشتربة سليم الصدر واثقًا به معجبًا برأيه آخذًا منه مستميلًا إليه وما نكرت
+        <lb/>
+
+        من نفسي به شيئًا من قبل قتله ولا بعده
+      </p>
+
+      <p n="The Lion's Remorse for Killing the Ox">
+        وإنّي لنادمٌ على ما كان منّي متلهّفٌ عليه موجعٌ له
+      </p>
+
+      <p n="The Lion Finds the Ox's Innocence Hard to Bear">
+        وما أشكل عليّ الرأي أنّه بريئًا ممّا لطّخ به صحيح الأديم غير متّهمٍ
+      </p>
+
+      <p n="The Lion Feels Misguided by a Schemer">
+        ولكنّه حملني على ما صنعته
+        <lb/>
+
+        خدع الفاجر دمنة ونميمته وزخرفته الكلام والكذب الذي لم يكن شتربة له خليقًا ولا
+        <lb/>
+
+        به حرّيًا
+      </p>
+
+      <p n="The Lion Asks Whether His Mother Has Any News">
+        ولكن أعلميني هل سمعت شيئًا أو حدّثك به أحدٌ
+      </p>
+
+      <p n="Accounts Must Be Confirmed by a Trusted Source">
+        فإنّ الرأي إذا كان موافقًا
+        <lb/>
+
+        للخبر الموثوق به كان أشدّ للبصيرة وأثلج للصدر وأحرى تقدّم المرء يد له على غير الشبهة
+        <lb/>
+
+        والشكّ
+      </p>
+
+      <p n="The Mother's Source Attributes Dimna's Act to Envy of the Ox">
+        قالت أمّ الأسد حدّثني الأمين غير المأمون أنّ دمنة لم يركب من شتربة
+        <lb/>
+
+        الذي ركب بحملته إيّاك عليه إلّا لحسده إيّاه على منزلته من نفسك
+      </p>
+
+      <p n="Lion Asks for Source but Mother Wants to Keep It Secret">
+        فقال الأسد من
+        <lb/>
+
+        أخبرك بذلك فقالت أمّ الأسد إنّه قد استحفظنيه والمستكتَم مؤتمنٌ
+      </p>
+
+      <p n="Sharing Entrusted Secrets Betrays Trust">
+        ومن أفشى
+        <lb/>
+
+        سرًّا استودعه فقد خان أمانته ومن فعل ذلك فهو بشرّ المنازل في المعاد
+      </p>
+
+      <p n="Serious Crimes Do Not Allow Secrecy">
+        فقال الأسد
+        <lb/>
+
+        لعمري لقد صدقت وإنّ ذلك لعلى ما وصفت وليس هذا ممّا ينبغي أن يُكتم بل يحقّ على صاحبه
+        <lb/>
+
+        أن ينقله ويظهر شهادته عليه ويستكمل الأجر فيه ولا يبطل حقًّا عليه ثمّ لا سيّما في دم المظلوم
+      </p>
+
+      <p n="Hiding a Crime Is Complicity">
+        فإنّ الكاتم ذنب المجترم في وزرٍ منه ما شاركه إيّاه فيه
+      </p>
+
+      <p n="A Ruler Must Not Punish Based on Suspicion">
+        وإنّ السلطان لا ينبـ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

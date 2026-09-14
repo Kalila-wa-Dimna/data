@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="154"/>
+
+      <p n="The Cat States the Rat's Duty of Reciprocation">
+        كان لك في عاجل مودّتي من الأمن والنفع والنجاة من الهلكة
+        <lb/>
+
+        ما قد رأيت وأنت حقيق أن تكافيني بذلك
+      </p>
+
+      <p n="The Rat Should Forget Enmity">
+        ولا تذكرنّ
+        <lb/>
+
+        شيئًا من سالف العداوة بيني وبينك فإنّ الذي تجدّد
+        <lb/>
+
+        ما بيننا من المودّة والعهد والذمام لحقيق أن ينسيك ذلك
+      </p>
+
+      <p n="Good Deeds Erase Bad Deeds">
+        وإنّ الكريم لا يكون إلّا شكورًا غير حقود تنسيه الخلّة
+        <lb/>
+
+        الواحدة من الإحسان الخلال الكثيرة من الإساءة
+      </p>
+
+      <p n="The Punishment of Betrayal Comes Swiftly">
+        وإنّّ أعجل
+        <lb/>
+
+        العقوبة عقوبة الغدر واليمين الكاذبة ومن إذا تضرّع إليه
+        <lb/>
+
+        الصديق لم يقبل وسُئل العفو فلم يعفو
+      </p>
+
+      <p n="The Two Kinds of Friends">
+        قال الجرذ الصديق
+        <lb/>
+
+        صديقان صديق طائع وصديق مضرّ وكلاهما يلتمس المنافع
+        <lb/>
+
+        ويحترز من المضارّ فأمّا الطائع منهما فالمرء لمسترسل إليه في جميع
+        <lb/>
+
+        الأحوال
+      </p>
+
+      <p n="Forced Friendship Does Not Last">
+        وأمّا المضطرّ فإنّ له أحوالًا يُسترسل إليه فيها
+      </p>
+
+      <p n="The Intelligent Trades Favors">
+        ولا يزال العاقل يرتهن منه ببعض حاجته لبعض ما بقي وليس غلبة
+        <lb/>
+
+        التواصل بعد النجاة إلّا لالتماس عاجل النفع
+      </p>
+
+      <p n="The Rat Explains the Reasons for Self-Protection">
+        وأنا واف لك
+        <lb/>
+
+        بما جعلته لك منّي ومحترز في ذلك من أن يصيبني
+      </p>
+
+      <p n="Ill-Timed Harvest">
+        ما أصاب الجاني
+        <lb/>
+
+        للثمر في غير وقته
+      </p>
+
+      <p n="Everything Has Its Time">
+        فإنّ لكلّ عمل وقت
+      </p>
+
+      <p n="Bad Timing Brings Failure">
+        وما لم يكن في وقته وحينه
+        <lb/>
+
+        فلا عاقبة له
+      </p>
+
+      <p n="The Rat Explains Not Cutting the Last Rope">
+        وأنا قاطع حبالك لحينها غير أنّي تارك منها
+        <lb/>
+
+        عقدة واحدة أرتهنك بها ولا أقطعها إلّا في الساعة التي أعرف
+        <lb/>
+
+        إنّك بها عنّي مشغول
+      </p>
+
+      <p n="The Rat Cuts All but One Rope">
+        ففعل ذلك
+      </p>
+
+      <p n="The Huntsman Approaches">
+        حتّى إذا هما أصبحا أتاهما
+        <lb/>
+
+        الصيّاد
+      </p>
+
+      <p n="The Rat Resolves to Cut the Last Rope">
+        فحين رآه من بعيد مقبلًا قال الجرذ الآن الصيَّاد قد
+        <lb/>
+
+        أقبل وهذا وقت الجدّ والاجتهاد في قطع حبالك
+      </p>
+
+      <p n="The Rat Fulfills the Pact">
+        ثمّ شرع في
+        <lb/>
+
+        قرض العقد فلم يقرب الصيّاد منهما حتّى فرغ من قرضها على
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

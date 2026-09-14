@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T117953</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="51"/>
+
+      <p n="unassigned">
+        المخاوف والمهالك فيما يقرّبه منّا وابتغائه ما يسرّنا
+        <lb/>
+
+        وما أسدى إلينا من المعروف وما أفدنا على يده من
+        <lb/>
+
+        الحكمة والأدب الباقي لنا فخره وما عرضنا عليه
+        <lb/>
+
+        من خزائننا لنجتزيه ما كان من ذلك الأفعال
+        <lb/>
+
+        بالأموال والجواهر وغيرها من الثيّاب فلم يميل
+        <lb/>
+
+        بعينيه إلى شيء منها وكانت بغيته وطلبه
+        <lb/>
+
+        منّا أمرًا يسيرًا من أتمّ الثواب فناله والكرامة
+        <lb/>
+
+        الجليلة عنده وإنّي أحبّ أن نتكلّم في ذلك ونسعفه
+        <lb/>
+
+        بمقالته وما يحبّه واعلم أنّنا نسرّ به ولا تدع من الاجتهاد
+        <lb/>
+
+        شيئًا والمبالغة إلاّ بلغت
+        <lb/>
+
+        ولو نالتك فيه مشقّة وهوّ أن تكتب بابًا مضاهيًّا
+        <lb/>
+
+        لتلك الأبواب الذي في الكتاب وتذكر فيه فضل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

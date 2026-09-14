@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="296"/>
+
+      <p n="unassigned">
+        وأوضحت لك جواب ما سألتني منها واجتهدت لك في ذلك رأيي
+        <lb/>
+
+        وفكري ومبلغ فطنتي التماس فصاحتك فامض حسن النية منك
+        <lb/>
+
+        بإعمال فكرك وعقلك فيما وضعت لك فإنّه ليس الآمر بأسعد من
+        <lb/>
+
+        المطيع له فيه ولا الناصح بأولى بالنصيحة من المنصوح له فيها ولا
+        <lb/>
+
+        المعلم نافعه بالعلم ممّن يتعلمه منه تمّ ذلك
+        <lb/>
+
+        بحمد الله وعونه وذلك في يوم الإثنين الخامس
+        <lb/>
+
+        والعشرين من شهر ربيع الآخر عام خمس وخمسين وسبعمائة
+        <lb/>
+
+        للهجرة النبوية على ساكنها أفضل الصلاة والسلم
+        <lb/>
+
+        على يد العبد الفقير المعترف بالتقصير الراجي عفو ربّه الملك القدير
+        <lb/>
+
+        محمد بن أحمد بن صفي بن قاسم بن عبدالرحمن الصوفي الشهير بابن الغزولي
+        <lb/>
+
+        عفا الله عنه وعن مالكه وقارئه ومستمعه وجميع المسلمين آمين آمين
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

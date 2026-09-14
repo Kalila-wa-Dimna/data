@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3478</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="398"/>
+
+      <p n="unassigned">
+        وإنّما ضربت لك هذه المثل لتعلمي أنّه لا ينبغي للعاقل
+        <lb/>
+
+        وإن كان مضطرًّا أن يحمل على نفسه المخاطرة في الطلب
+        <lb/>
+
+        رجلًا في موضع كذا وكذا من هذه الجزيرة إلى جانب
+        <lb/>
+
+        حجر تنّين كنت أعرفه فأنا أرجو أن يكون قد قتله
+        <lb/>
+
+        وأنا منطلق إلى باب ذلك الجحر وداخل الجحر فإنيّ
+        <lb/>
+
+        وجدت التنّين مقتولًا أخذت دماغه وأتيتك به
+        <lb/>
+
+        قال القرد الجرب إنّي قدرت على ذلك فافعله فإنّك
+        <lb/>
+
+        تصل به رحمي وتصيب به الثواب من الله فانطلق
+        <lb/>
+
+        القرد حتّى أتى إلى الجحر وكان واسعًا ورأى للحوّ
+        <lb/>
+
+        هناك آثار كثيرة فلم يشكّ في قتله التنّين فلمّا
+        <lb/>
+
+        دخل وجد التنّين حيًّا فوثب عليه فالتقمه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kw</chapter>
+  </chapter>
+</TEI>

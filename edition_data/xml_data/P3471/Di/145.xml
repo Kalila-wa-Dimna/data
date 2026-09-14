@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="145"/>
+
+      <p n="A Liar Suffers Punishment in Here and Hereafter">
+        الدنيا ولا في الآخرة
+      </p>
+
+      <p n="The Court's Hostility Has Continued for a Third Day">
+        فكان هذا من خصومتهم وفعلهم في اليوم
+        <lb/>
+
+        الثالث إلى انتصاف النهار
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded and Court's Members Leave for the Day">
+        وكتب الكاتب قولهم في صحيفةٍ ودفعها
+        <lb/>
+
+        إلى النمر سيّد ذلك الجمع وأرسلوا بدمنة إلى السجن ثمّ ارتفع الجند كلّهم
+        <lb/>
+
+        وانطلق عظماؤهم مع عظيم الجمع إلى منزل الملك ليحضروا غداءه وانصرف
+        <lb/>
+
+        سائرهم إلى رحالهم
+      </p>
+
+      <p n="The Court Hears Dimna's Arguments Seven More Days Without Reaching Verdict">
+        ثمّ حُبس دمنة بعد ذلك سبع ليالٍ ليقول بعذره
+        <lb/>
+
+        ويتكلّم بحجّته قلم يقدروا على أن يقرّروه بشيءٍ من ذنبه ولا استطاعوا
+        <lb/>
+
+        أن يخصموه
+      </p>
+
+      <p n="The Mother Warns the Lion of Leaving Dimna Unpunished">
+        فقالت أمّ الأسد الذي استبان لها من جرم دمنة للأسد
+        <lb/>
+
+        قولًا كثيرًا فكان فيما قالت له أيّها الملك إنّك إن تركت دمنة
+        <lb/>
+
+        وخلّيت سبيله مع عظيم جرمه فأجني ما هو أعظم منه فلا تلُمْ في ذلك
+        <lb/>
+
+        أحدًا من جندك إن فعل مثل هذا وأعظم منه
+      </p>
+
+      <p n="Failure to Punish Dimna will Weaken the Lion’s Authority">
+        فإنّ جندك إن علموا أنّك
+        <lb/>
+
+        لا تعاقب أهل الذنوب ازدادوا عليك جرأةً وأضرّ ذلك بك وعليك
+        <lb/>
+
+        وليشرن من أمرك ما لا تطيق تكثّم شعثه ولا تشعّب صدعه ولا رتق
+        <lb/>
+
+        فتقه
+      </p>
+
+      <p n="Lion Orders Dimna to Be Killed">
+        فلمّا سمع الأسد هذا القول من أمّه وكرّرت عليه تثبّت في أمر
+        <lb/>
+
+        دمنة حتّى استبانت له نميمة ذلك واطلّع على ضلالته وفجوره واستبان
+        <lb/>
+
+        له أن دمنة قد كان حمله على وعثٍ وأوطأه عشوةً في أمر الثور شتربه
+        <lb/>
+
+        أمر به أن يولى حبسه ويضيّق عليه حتّى يموت جوعًا وعطشًا ففعل
+        <lb/>
+
+        ذلك به فلم يلبث أن مات أشرّ موتة
+      </p>
+
+      <p n="Commentary That Seeking Others' Harm Will Be Punished">
+        ثمّ قال الفيلسوف للملك حقًّا ينظر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

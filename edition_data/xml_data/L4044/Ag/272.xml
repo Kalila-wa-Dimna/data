@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="272"/>
+
+      <p n="Dont Seek Unattainable">
+        فيرجع عليه من ثقل ذلك وغمّه ما يُضرّ به
+      </p>
+
+      <p n="Be Satisfied With What You Have">
+        وأنت سعيد الجدّ بما تجد
+        <lb/>
+
+        وزهدت فيما لا تجد وصرفت نفسك عنه ورضيت بما تجد
+      </p>
+
+      <p n="Monk Spoke Hebrew">
+        وكان الناسك
+        <lb/>
+
+        يتكلّم بلسان العبرانيّة
+      </p>
+
+      <p n="Guest Fancies Hebrew">
+        فاستحسن الضيف كلامه وأعجبه
+      </p>
+
+      <p n="Guest Tries To Learn Hebrew">
+        فتكلّف أن يتعلّمه
+        <lb/>
+
+        وعالج نفسه على ذلك أيّامًا فلم يحسنه
+      </p>
+
+      <p n="Mention Crow Story">
+        فقال الناسك لضيفه ما أخلقك
+        <lb/>
+
+        أن تقع فيما تركت من كلامك وتتكلّف من تعلّم كلام العبرانية ما وقع فيه الغراب
+        <lb/>
+
+        مرّة
+      </p>
+
+      <p n="Guest Request Crow Story">
+        قال الضيف وكيف كان ذلك
+      </p>
+
+      <p n=". Crow Story Intro">
+        فقال الناسك زعموا أنّ غرابًا
+        <lb/>
+
+        رأى مرّة حجلة وهي تدرج فأعجبته مشيتها وطمع في تعلّمها وراض نفسه عليها ولم
+        <lb/>
+
+        يقدر على إحكامها
+      </p>
+
+      <p n=". Crow Lost Original Walk">
+        فانصرف إلى مشيته التي كان عليها فإذا هو لا يحفظها
+        <lb/>
+
+        فصار حيران متردّد لم يدرك ما طلب ولم يحسن لما كان في يديه حفظًا
+      </p>
+
+      <p n="Monk Motivates Story">
+        وإنّما
+        <lb/>
+
+        ضربت لك هذا المثل لتعلم أنّك خليق إن تركت لسانك وتكلّفت علم ما لا
+        <lb/>
+
+        يشاكلك من كلام العبرانيّة لا تدركه وأن تنسى الذي كان في يدك من
+        <lb/>
+
+        غيره
+      </p>
+
+      <p n="Dont Seek Foreign Things">
+        فإنّه قد قيل يعدّ جاهلًا من طلب من الأمر ما لا يشبهه وليس من
+        <lb/>
+
+        أهله ولم يدركه آباؤه ولا أحد من قبله ولا يُعرفون بمثله
+      </p>
+
+      <p n="Changing Governors Harm">
+        ثمّ قال الفيلسوف
+        <lb/>
+
+        للملك فالولاة في قلّة تعاهدهم الرعيّة في هذا وأشباهه ألوم وأسوأ تدبيرًا
+        <lb/>
+
+        لأنّ تنقّل الناس من بعض المنازل وتركهم منها ما قد لزموه وجرت المعايش
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

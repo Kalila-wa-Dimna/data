@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="18"/>
+
+      <p n="Kisra Explains Choosing Burzoy">
+        فلمّا حضر قال له إنّا انتخبناك لموضع حاجتنا وتفرّسنا
+        <lb/>
+
+        فيك الخير وأقلناه بك أن تكون علي ما أردناه من إصابة
+        <lb/>
+
+        هذه الجناية
+      </p>
+
+      <p n="Kisra Commissions Burzoy">
+        التي نحن مرسلوك فيها فكن على قدر ظنّنا
+        <lb/>
+
+        بك والرجاء فيك فإنّا رافعو درجتك ومجزلو عطيّتك
+        <lb/>
+
+        وجائزتك فشمّر لإنفاذ أمرنا وتأهّب للشخوص إلى بلاد
+        <lb/>
+
+        الهند في انتساخ كليلة ودمنة الذي بلغنا عنه ما فيه
+        <lb/>
+
+        من العجائب والأمثال لكي لا تفخر ملوك الهند علي ملوك فارس
+        <lb/>
+
+        بهذا الكتاب وأن تكون في أناة وتحرّز وحيلة ولطف وسياسة
+        <lb/>
+
+        وخضوع إلى أن تصل إلى حاجتك
+      </p>
+
+      <p n="Burzoy To Write When Done">
+        فإذا أصبت حاجتك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

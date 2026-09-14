@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="151"/>
+
+      <p n="Withholding Advice Would Have Made Kalila Complicit">
+        ولكلّ موضع مجال ولو كنت قصّرت في عظتك حين كنت
+        <lb/>
+
+        في عافية لكنت اليوم شريكك في البلاء
+      </p>
+
+      <p n="Conceit Caused Dimna's Demise">
+        غير أنّ العُجب قهر رأيك
+        <lb/>
+
+        وغلب على عقلك وقد كنت أضرب لك كثيرًا من الأمثال
+      </p>
+
+      <p n="The Schemer Dies Before His Time">
+        وقد
+        <lb/>
+
+        قالت العلماء إنّ المحتال يموت قبل احتياله
+      </p>
+
+      <p n="Kalila Calls Dimna's Situation Worse Than Death">
+        وليس قولهم يموت
+        <lb/>
+
+        بمعنى انقطاع الحياة ولكن أشاروا إلى تقديم جميل الذكر والمنزلة
+        <lb/>
+
+        وهما طلبي إليك ونصيحتي لك
+      </p>
+
+      <p n="The Sinner Who Accepts Death Is Saved in Hereafter">
+        قال دمنة قد عرفت صدق
+        <lb/>
+
+        مقالتك وقد قالت العلماء لا تجزع من العذاب إذا وُقف
+        <lb/>
+
+        منك على الخطيئة ولأن تُعذّب في الدنيا بجرمك خير لك
+        <lb/>
+
+        من أن تُعذّب به في الآخرة في جهنّم مع الأثمة
+      </p>
+
+      <p n="Kalila Judges Dimna's Situation Grave and Punishment Imminent">
+        قال كليلة
+        <lb/>
+
+        قد قبلت قولك ولكنّ فعل ذلك شديد وعذاب الأسد
+        <lb/>
+
+        ومؤاخذته عظيمة وعقابه أليم
+      </p>
+
+      <p n="Prisoner Overhears Their Dialogue">
+        وكان بقربهما في السجن فهد
+        <lb/>
+
+        معتقل يسمع كلامهما ولا يريانه فعرف معاتبة دمنة وكليلة
+        <lb/>
+
+        على ما كان من دمنة وإقرار دمنة بسوء عمله وعظيم ذنبه
+        <lb/>
+
+        فحفظ المحاورة بينهما وكتمها ليشهد بها إن هو سُئل عنها
+      </p>
+
+      <p n="Kalila Goes Home">
+        ثمّ إنّ كليلة انصرف إلى منزله
+      </p>
+
+      <p n="The Mother Calls In Lion's Promise to Act">
+        ودخلت أمّ الأسد على الأسد
+        <lb/>
+
+        فقالت له يا سيّد الوحوش والملوك حاشاك أن تنسى ما قلت
+        <lb/>
+
+        البراحة فإنّك أمرت به لوقته وأرضيت بذلك ربّ العباد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

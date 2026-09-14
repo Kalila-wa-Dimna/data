@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="68"/>
+
+      <p n="The Superficial Readers Miss the Meaning">
+        وترك الوقوف على أسرار معانيه والأخذ بظاهره دون الأخذ
+        <lb/>
+
+        بباطنه
+      </p>
+
+      <p n="Humor Seeking Readers">
+        فصرف همّته ألى النظر في أبواب الهزل
+      </p>
+
+      <p n="A Gardner Neglects His Harvest">
+        كرجل
+        <lb/>
+
+        أصاب أرضًا طريّة حرّة وحبًّا صحيحًا فزرعها وسقاها حتّى
+        <lb/>
+
+        إذا قرب خيرها وأينعت تشاغل عنها بجمع ما فيها من الزهر وقطع الشوك
+        <lb/>
+
+        فأهلك بتشاغله عمّا كان أحسن فائدة وأجمل عائدة
+      </p>
+
+      <p n="The Book Has Four Aims">
+        وينبغي للناظر في
+        <lb/>
+
+        أمر هذا الكتاب أن يعلم أنّه ينقسم على أربعة أغراض
+      </p>
+
+      <p n="The First Aim Is to Attract the Youth">
+        أحدها
+        <lb/>
+
+        ما قصد فيه على وضعه على السنة البهائم غير الناطقة ليسارع
+        <lb/>
+
+        إلى قراءته أهل الهزل من الشبّان فتستمال به قلوبهم لأنّ الغرض النوادر
+        <lb/>
+
+        من حيل الحيونات <>
+      </p>
+
+      <p n="The Second Aim Is to Please Kings">
+        والثّاني إظهار خيالات الحيوان بصنوف
+        <lb/>
+
+        الأصباغ والألوان ليكون أنسًا لقلوب الملوك ويكون حرصهم
+        <lb/>
+
+        عليه أشدّ للنزهة <>
+      </p>
+
+      <p n="The Third Aim Is to Benefit Craftsmen">
+        والثالث أن يكون هذه الصفة فيتّخذه الملوك
+        <lb/>
+
+        والسوقة فيكثر بذلك انتساخه ولا يبطل فيخلق على مرور الأيّام
+        <lb/>
+
+        ولينتفع بذلك المصوّر والناسخ أبدًا
+      </p>
+
+      <p n="The Fourth Aim Is Directed at Philosophers">
+        والغرض الرابع الأقصى وذلك
+        <lb/>
+
+        مخصوص بالفيلسوف خاصّة
+      </p>
+
+      <p n="The Ending of the Preface">
+        انقضى باب عرض الكتاب
+      </p>
+
+      <p n="unassigned">
+        وهذه ترجمة الأبواب كلّها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

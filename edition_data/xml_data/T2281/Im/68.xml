@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T2281</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="68"/>
+
+      <p n="The Thief Who Mistakes Grain for Gold">
+        أنّ تاجرًا كان له خابيتان أحداهما مملوءة ورِقًا والآخرة
+        <lb/>
+
+        برًّا
+      </p>
+
+      <p n="The Thief Eyes Jar">
+        ففطن به لصّ وترقّب غيبة التاجر مدّة طويلة إلى
+        <lb/>
+
+        أن اشتغل التاجر في يعض الأيّام بشغل أشغله عن تفقّد
+        <lb/>
+
+        حانوته فبادر اللصّ إلى فتح الحانوت
+      </p>
+
+      <p n="The Thief Takes the Grain">
+        واقتلع الخابية وحملها
+        <lb/>
+
+        وظنّ أنّها خابية الورِق ولم يزل في كدّ وتعب إلى
+        <lb/>
+
+        أن بلغ منزله فلمّا فتحها وجدها خابية البرّ فواقعه الندم
+      </p>
+
+      <p n="The Merchant Forfeits Trust">
+        قال ما بعدت المثل منّي غير أنّ النفس أمّارة بالسوء وإنّي
+        <lb/>
+
+        لمستغفر لديك وداخل في تجاوز خطاء عليك فقبل الرجل
+        <lb/>
+
+        معذرته ورجع عن توبيخه واحتذر
+      </p>
+
+      <p n="The Reader Should Examine the Parables Carefully">
+        وينبغي للناظر في
+        <lb/>
+
+        هذا الكتاب أن لا يجعل النظر لقصد تزاويقه ولا يتصفّح
+        <lb/>
+
+        أوراقه لينظر إلى أشكاله وتذاويقه
+      </p>
+
+      <p n="The Reader Should Discern the Aim">
+        بل يجب عليه أن
+        <lb/>
+
+        يبحث في حكمته وإشاراته ليعرف نحو كلامه وما
+        <lb/>
+
+        أُريد به من الغرض فإنّه إن اعتمد ذلك أوصله الفكر
+        <lb/>
+
+        فيه إلى معاني لطيفة
+      </p>
+
+      <p n="The Book Is Not about Animals">
+        ولا يتصوّر في عقله أنّ الذي
+        <lb/>
+
+        قُصد به مجاورة بهيمين أو مشاورة سبع لثور فيخطئ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

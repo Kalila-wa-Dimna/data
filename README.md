@@ -21,4 +21,4 @@ Source: `s3://kalila-pages-prod/public/data_prod/edition_data/`
 
 ## Sync date
 
-Synced from production S3 on 2026-09-14.
+Synced from production S3 on 2026-09-15.

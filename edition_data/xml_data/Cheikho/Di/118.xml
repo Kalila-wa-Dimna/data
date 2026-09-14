@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="118"/>
+
+      <p n="All Attendees are Silent">
+        فلمّا قصّ قائلهم قوله سكت من حضر فلم ينطقْ منهم أحدٌ بكلمة
+        <lb/>
+
+        لأنّهم لم يعلموا من علمه علمًا واضحًا يتكلّمون به وكرهوا القول بالظنون خوفًا
+        <lb/>
+
+        أن يدخل قولهم حكمًا أو يوقع قتلًا
+      </p>
+
+      <p n="Dimna Challenges All Only to Say What They Know">
+        فلمّا رأى دمنة سكوتهم تكلّم فقال
+        <lb/>
+
+        إنّي لو كنت مجرمًا سررت بسكوتكم عن القول في أمري ولكنّي بقدر ما
+        <lb/>
+
+        قد علمتم ذلك إذ لم تعلموا لي جرمًا لأنّ كلّ من لم يُعلم له جرمٌ فلا سبيل
+        <lb/>
+
+        عليه فهو البريء المعذور ولا بدّ أن تقولوا فيّ بعلمكم وليعلم بذلك من عسى
+        <lb/>
+
+        أن يقول في أمري قولًا فإنّ لكلّ عاقبةٍ عاجلةً أو آجلةً أو منطقه في
+        <lb/>
+
+        أمري حكمٌ في إحياء نفسي أو موتها
+      </p>
+
+      <p n="Dimna's Second Subtale of Ignorant Physician">
+        فمن عرّضني لعطب بغير علمٍ أو قال
+        <lb/>
+
+        في أمري بالشبهة والظنّ أصابه عن عاقبة قوله ما أصاب المتطبّب
+        <lb/>
+
+        الذي انتجب علم ما لا علم له به
+      </p>
+
+      <p n="Judge Request Tale">
+        قال القاضي وكيف كان ذلك
+        <lb/>
+
+        مثل
+      </p>
+
+      <p n="Famous Physician Dies or Goes Blind">
+        قال دمنة زعموا أنّه كان ببعض مدائن السند متطبّبٌ له وفق
+        <lb/>
+
+        وعلم وكان مع ذلك ذا حظوةٍ فيما يجري على يديه من مقادير العافية فيما
+        <lb/>
+
+        يعالج به الناس من طبّه وأدويته فمات ذلك المتطبّب وانتفع الناس بما في
+        <lb/>
+
+        كتبه
+      </p>
+
+      <p n="Quack Appears in Town">
+        وإنّ رجلًا سفيهًا ادّعى علم الطبّ وأشاع ذلك في الناس
+      </p>
+
+      <p n="Pregnant Princess Falls Sick">
+        وكان
+        <lb/>
+
+        لملك تلك المدينة ابنةٌ فزوّجها ابن أخٍ له فحملت فعرض لها ما يعرض
+        <lb/>
+
+        للحوامل من الأوجاع فوجدت لذلك ألمًا
+      </p>
+
+      <p n="King Sends in Search of Physician">
+        فبعث الملك بطلب الأطبّاء
+      </p>
+
+      <p n="Blind Physician Prescribes Drug">
+        فذُكر
+        <lb/>
+
+        له متطبّبٌ على رأس فراسخ يوصف بعلم الطبّ فبعث إليه فلمّا جاءه الرسول
+        <lb/>
+
+        وجده قد ذهب بصره من الكبر فذكوا له علّة الجارية وما تجد فوصف لها
+        <lb/>
+
+        دواءً له اسمٌ معروفٌ يقال له رامهران قالوا له فاخلط لنا هذا الدواء قال
+        <lb/>
+
+        لست أبصر فأجمع أخلاطه على معرفتي
+      </p>
+
+      <p n="Quack Ordered to Mix Drug">
+        وإنّ ذلك السفيه المدّعي علم الطبّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

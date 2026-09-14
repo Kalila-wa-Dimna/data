@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="266"/>
+
+      <p n="Gift To Be Distributed To All Victims">
+        فقال لهم إنّي قد رأيت أن أقسّم هذه الهدايا بينكم أيّها المواطؤن
+        <lb/>
+
+        أنفسهم على الموت بسببي
+      </p>
+
+      <p n="Subjects Depend On King">
+        قال بلاد أيّها المَلك لا ينبغي لنا أن
+        <lb/>
+
+        نجهد أنفسنا على إسلامنا إيّاها دونك لأنّ قوامنا إنّما هو بك
+      </p>
+
+      <p n="Vizier Rejects Gift">
+        وأمّا الهدايا فإنّها ممّا ليس تصلح لنا وإنّما هي للملوك ولا
+        <lb/>
+
+        تصلح إلّا لهم
+      </p>
+
+      <p n="King Instists Giving Gift">
+        قال المَلك فإنّي أريد أن تأكل ثمرة عملك
+        <lb/>
+
+        وصبرك وتناسيك على الهلاك دوني يا بلاد أنت ومن معك
+        <lb/>
+
+        من أصحابك وقد آليت أن لا أدخل هذه الألطاف خزانتي
+        <lb/>
+
+        حتّى يأخذ كلّ واحد منكم حصّته منها
+      </p>
+
+      <p n="Vizier Accepts Gift">
+        قال بلاد فليبدأ
+        <lb/>
+
+        المَلك فيأخذ ما لا يصلح إلّا له ويرى في الباقي رأيه
+      </p>
+
+      <p n="Men Receive Their Gifts">
+        فأخذ
+        <lb/>
+
+        المَلك الفيل الأبيض والفيلين الآخرين وأعطى جوبير ابنه
+        <lb/>
+
+        أحد الفرسين وأعطى بلاد السيف وأعطى الكاتب الفرس
+        <lb/>
+
+        الآخر وبعث إلى كينارون ثياب الكتّان
+      </p>
+
+      <p n="Queen Shall Choose Gift">
+        وأمّا الإكليل والحلّة
+        <lb/>
+
+        التي لا تصلح إلّا للنساء فإنّه أمر بلاد أن يُوضع الإكليل والحلّة
+        <lb/>
+
+        بين يدي هلبت فلتأخذ أيّها شاءت
+      </p>
+
+      <p n="Hesitating Queen Looks At Vizier">
+        فلمّا رأت هلبت
+        <lb/>
+
+        أنّ كلاهما معجِب في منظره نظرت إلى بلاد ليريها أيّهما
+        <lb/>
+
+        أفضل
+      </p>
+
+      <p n="Vizier Shows Dress King Notices">
+        فأراها بلاد الثياب وأشار عليها بأخذها
+        <lb/>
+
+        فحانت من المَلك التفاتة فرأى إيماء بلاد إلى هلبت
+        <lb/>
+
+        فلمّا رأت هلبت أنّ المَلك قد أبصر إيماء بلاد إليها
+      </p>
+
+      <p n="Queen Chooses Crown">
+        تركت
+        <lb/>
+
+        الذي أشار لها عليه بلاد وأخذت الإكليل لئلّا يرى المَلك
+        <lb/>
+
+        إيماءه لريبة
+      </p>
+
+      <p n="Vizier Pretends To Be Cross Eyed">
+        ومكث بلاد أربعين سنة كلّما دخل على المَلك
+        <lb/>
+
+        كسر عينه وادّعى أنّه أحول في ذلك اليوم لئلّا يتهمه المَلك بشيء
+      </p>
+
+      <p n="Queen Serves Rice On Her Night">
+        ثمّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

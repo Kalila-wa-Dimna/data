@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="344"/>
+
+      <p n="King W Is Not Satisfied with the Response">
+        قال الملك ليس هذا جواب ما قلته لك
+      </p>
+
+      <p n="The Vizier Defers to the Opinion of King W">
+        قال الوزير
+        <lb/>
+
+        ما عندي في هذا الوقت جواب غير هذا والملك أعلم
+        <lb/>
+
+        منّي وأحكم وأشرف جدًّا وأقوى سعدًا وأكثر عرفًا وهو
+        <lb/>
+
+        ملك الدنيا وهذا الأمر الذي يذكره لا يمكن أن يعمل
+        <lb/>
+
+        إلّا بقوّة الهيبة وأمّا المخلوق لا يستطيع بذلك بدًّا
+      </p>
+
+      <p n="Divine Fortune Versus Human Effort">
+        قال
+        <lb/>
+
+        إنّ السعادات التي يسعد بها الناس حتّى يتفاصلون
+        <lb/>
+
+        فيها هي التي تكون من فوق فأمّا ممارسة الأمور ومباشرة
+        <lb/>
+
+        الأعمال فهي مسلّمة إلى الناس
+      </p>
+
+      <p n="King W Asks the Vizier for a Plan">
+        وإن كان اتصال سائر
+        <lb/>
+
+        الأمور لا يكون إلّا بتوفيق من فوق وهذا الأمر من
+        <lb/>
+
+        فعل الناس وعمله بأيديهم لا من أفعال الإله فقلْ ما
+        <lb/>
+
+        عندك فيه
+      </p>
+
+      <p n="The Outcome Is Uncertain">
+        قال الوزير الذي عندي أن يتأمّل الملك
+        <lb/>
+
+        ما يريد أن يفعله فإنّ الكلام فيه الكلام امما وأمّا معرفة
+        <lb/>
+
+        ما يؤول الحال إليه منه من خير وشرّ فذلك خفيّ عن
+        <lb/>
+
+        الناس صعب الإدراك
+      </p>
+
+      <p n="A Donkey Loses His Ears">
+        فلذلك ينبغي تمعين النظر
+        <lb/>
+
+        فيه لئلّا يلحقك ما لحق الحمار الذي ذهب أن يلتمس
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

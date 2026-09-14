@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3468</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="230"/>
+
+      <p n="King R Runs the Idea by the Second Vizier">
+        أيّها الوزير في هذا الأمر الذي أشار به صاحبك
+      </p>
+
+      <p n="The Second Vizier Rejects Belling the Cats">
+        قال لست بحامد
+        <lb/>
+
+        مشورته هبْنا أحضرنا الجلاجل فمن يقدر منّا أن يعلّق واحدًا
+        <lb/>
+
+        منها على أصغر السنانير فضلًا أن يتقدّم إلى ضواريها
+      </p>
+
+      <p n="The Second Viziers Proposes Self-Imposed Exile">
+        والرأي
+        <lb/>
+
+        عندي أن نخرج بأجمعنا من هذه المدينة ونقيم في البرّيّة
+        <lb/>
+
+        سنة واحدة إلى أن يعلم أهل المدينة أنّهم قد استغنوا بغيبتنا
+        <lb/>
+
+        عن السنانير فإذا لم يجدوا ما يأكلوا إلّا أقواتهم طردوهم
+        <lb/>
+
+        وقتلوهم ونفوهم وأعدموهم فمن طُرد عن المدينة صار وحشيًّا
+        <lb/>
+
+        لا يعود يسكن المدينة فإذا عُدموا من المدينة عدنا بأجمعنا
+        <lb/>
+
+        آمنين من تخطّف السنانير
+      </p>
+
+      <p n="King R Runs the Idea by the Third Vizier">
+        قال الملك للوزير الثالث ما الذي
+        <lb/>
+
+        عندك فيما قال صاحباك
+      </p>
+
+      <p n="The Third Vizier Rejects Self-Imposed Exile">
+        قال الوزير ليس ذلك برأي
+        <lb/>
+
+        يُحمد عندي وإنّا لو خرجنا من المدينة إلى البرّيّة وأقمنا
+        <lb/>
+
+        فيها سنة فعلى كلّ حال ليس يمكن أنّ السنانير تفنى في السنة
+        <lb/>
+
+        وينالنا في البرّيّة من العناء والشقاء ما هو أعظم من فزع السنانير
+        <lb/>
+
+        وإنّ بالبرّية تخوفًا أشدّ من ذلك وهو أنّ الأساود والجرابيع
+        <lb/>
+
+        والحدأة ينالنا منهم أشدّ ممّا ينال منّا السنانير
+      </p>
+
+      <p n="King R Asks for the Third Vizier's Plan">
+        قال له
+        <lb/>
+
+        الملك حقّ ما تقول فهات ما عندك
+      </p>
+
+      <p n="The Second Option Is to Make Dens in Houses">
+        قال الوزير لا أعرف
+        <lb/>
+
+        شيئًا في هذا الباب سوى حيلة واحدة وهو أن يحضر
+        <lb/>
+
+        الملك أهل حضرته وجميع الجراذين الذين في هذه المدينة
+        <lb/>
+
+        ويأمرهم أن يتّخذ كلّ واحد منهم في البيت الذي يأوي فيه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

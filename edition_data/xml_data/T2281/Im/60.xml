@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T2281</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="60"/>
+
+      <p n="Chapter Title">
+        كتاب كليلة ودمنة
+      </p>
+
+      <p n="Parables Originated with Scholars of India">
+        وهو بما وصفته علماء الهند
+        <lb/>
+
+        من الأمثال والأحاديث التي أُلهموا أن يُدخلوا فيها
+        <lb/>
+
+        بأبلغ عبارة وأملح إشارة من نحو ماحسن عندهم على
+        <lb/>
+
+        قدر ما انتهى إليه فضلهم
+      </p>
+
+      <p n="Scholars Desire to Be Understood">
+        ولم يزل العلماء من أهل كلّ
+        <lb/>
+
+        ملّة وكلّ لسان يلتمسون أن يُفعل
+      </p>
+
+      <p n="Scholars Put Knowledge in Book of Fables">
+        ويحتالون إلى ذلك
+        <lb/>
+
+        بصنوف الحيل إلى أن جرت الأسباب إلى حكماء الهند
+        <lb/>
+
+        ما أُلهموا إليه وصنعوا هذا الكتاب على أفواه
+        <lb/>
+
+        البهام والطير
+      </p>
+
+      <p n="Fables Facilitate Many Types of Discourse">
+        واجتمع لهم بذلك جلال يُستفاد بها
+        <lb/>
+
+        التاج العود إلى الأفكار
+      </p>
+
+      <p n="Book Is Used for Wisdom, Pleasure, and Knowledge">
+        بحيث يكون ذلك أرجاء موصلًا
+        <lb/>
+
+        إلى الحكمة ورموزًا في الظاهر بسائر الحيوان وأشاروا
+        <lb/>
+
+        إلى باطن الألفاظ والمعاني بما يكون من الحكمة واتّخذه
+        <lb/>
+
+        سفهاء العقول للهو والغُلمة والغلمة
+      </p>
+
+      <p n="Reader Must Decode Parables">
+        فمن قرأ هذا الكتاب
+        <lb/>
+
+        فليعرف قدر الوجه الذي وضع له وإلى أيّ غاية
+        <lb/>
+
+        جرى ما ألّفه وكيف وضعه إلى غير مفصح ولا مصرّح
+        <lb/>
+
+        من الأفعال التي جعلها أمثالا فإنّ قارئه متى لم يتمهّل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

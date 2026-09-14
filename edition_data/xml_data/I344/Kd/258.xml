@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="258"/>
+
+      <p n="Brahmins Dramatize Dreams">
+        فقالوا أيّها المَلك ما أشدّ هذه الرؤيا وأعظم ما يُتخوّف
+        <lb/>
+
+        منها
+      </p>
+
+      <p n="Brahmins Request Delay">
+        فإن شئت أيّها المَلك أذنت لنا في الخروج عنك
+        <lb/>
+
+        ومناظرة بعضنا بعضًا وقراءة كُتُبنا وما نجد من التأويل
+        <lb/>
+
+        فيها فنعود إلى المَلك بعد أيّام بتأويلها ونجهد الحيلة
+        <lb/>
+
+        في الخلاص من مكروهها وغمّها
+      </p>
+
+      <p n="King Grants Delay">
+        فرضي بذلك وأذن لهم في
+        <lb/>
+
+        الخروج
+      </p>
+
+      <p n="Brahmins See Chance">
+        فخرجوا من عنده فاجتمعوا فقال بعضهم لبعض
+        <lb/>
+
+        إنّ هذا المَلك قد قتل منكم اثنا عشر ألفًا وأباد أهل
+        <lb/>
+
+        ملّتنا وأخرب المتديّنين منّا وقد اطّلعنا على سرّه
+        <lb/>
+
+        ووجدنا بذلك علّة لأخذ الثأر منه
+      </p>
+
+      <p n="Brahmins Plan Revenge">
+        فليجتمع رأيكم
+        <lb/>
+
+        على أن نغلظ عليه في القول ونجيبه على ما رأى في منامه
+        <lb/>
+
+        بأشدّ ما يُقدر عليه حتّى يحمله الفرق على أن يصنع ما نقول
+        <lb/>
+
+        له
+      </p>
+
+      <p n="Brahmins Will Order Killings">
+        ونقول له إنّ هذا الذي رأيت فناءك وذهاب
+        <lb/>
+
+        مُلكك عنك إلى أعدائك
+      </p>
+
+      <p n="Brahmins List Of Victims">
+        ولن يدفع ذلك عنك
+        <lb/>
+
+        إلّا أن تقتل هلبت أمّ جوبير أكرم نسائك عليك وجوبير
+        <lb/>
+
+        ابنها أحبّ بنيك إليك وأكرمهم عليك وبلاد وزيرك
+        <lb/>
+
+        ودخيلك وكان كاتبك وصاحب سرّك وكسر سيفك
+        <lb/>
+
+        الأعظم أعظم سيوفك قدرًا وأكثرهم ثمنًا وقتل فيلك
+        <lb/>
+
+        الذي هو مركوبك والفيلين الآخرين والبختي ّ
+        <lb/>
+
+        السريع وكينارون الحكيم العالم
+      </p>
+
+      <p n="King Shall Bath In Blood">
+        ثمّ تجعل دماءهم في
+        <lb/>
+
+        إناء ثمّ نغطّسك فيه سبع مرّات
+      </p>
+
+      <p n="unassigned">
+        ونقعد حولك فنرقّيك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

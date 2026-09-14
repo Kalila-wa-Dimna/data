@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="140"/>
+
+      <p n="A Judge Has the Authority to Punish and Reward">
+        في أحسانهم وزجرًا لأهل الإساءة عن إساءتهم
+      </p>
+
+      <p n="Punishment In Here Is Better Than In Hereafter">
+        فلعمري لأن
+        <lb/>
+
+        يُعاقب امرئٍ بذنبه في الدنيا خيرٌ له من أن يُعاقب في الآخرة
+      </p>
+
+      <p n="Judge Enjoins Dimna to Confess">
+        وأنا أرى لك
+        <lb/>
+
+        يا دمنة أن تبوء بذنبك وتقرّ بإساءتك وتعرف بما كان من صنيعك
+      </p>
+
+      <p n="Confessing Crime Has Good Consequences">
+        فإنّه
+        <lb/>
+
+        خيرٌ لك في عواقب الأمور إن أنت هُديت لذلك ووفقت له
+      </p>
+
+      <p n="Confession Is Better Than a Denial, and Finite Punishment on Earth Better Than Infinite Punishment in Hell">
+        فإنّ الرسل
+        <lb/>
+
+        قد قالوا الذي يُدان بالذنب بعد الصدق منه والاعتراف به أحسن حالًا
+        <lb/>
+
+        من المصرّ على ذنبه الجاحد له وأنت ميّتٌ لا محالة فأن يصيبك بعض
+        <lb/>
+
+        المضض في الدنيا جزاءً لجرمك فتصبر خيرًا لك من أن تُعذّب في جهنّم
+        <lb/>
+
+        الذي لا رحمةً فيها ولا انقطاع لعذابها
+      </p>
+
+      <p n="Dimna Agrees with Judge's Rationale">
+        قال دمنة أيّها القاضي
+        <lb/>
+
+        الصالح نطقتُ بالعدل وقلتُ مقالة الحكماء وتكلّمتُ بالمأثور عن الأنبياء
+      </p>
+
+      <p n="One Must Not Harm One's Soul for the Sake of One's Body">
+        ولكن في كُتب الدين أيضًا كُتب أنّ السعيد من استطاع أن لا يعمل بجسمه عمل
+        <lb/>
+
+        عملًا يضرّ به روحه وأن يحفظ روحه من أن يصيبه بسبب جسمه شرًّا
+        <lb/>
+
+        ومكروهًا يهلكه
+      </p>
+
+      <p n="One Must Harm One's Body for the Sake of One's Soul">
+        وقد قالت العلماء أيضًا أنّ العاقل من أضرّ بجسمه
+        <lb/>
+
+        وتمسّك بروحه
+      </p>
+
+      <p n="One Must Not Hurt People with Undeserved Words">
+        ولا ينبغي أيضًا أن يُقال لأحدٍ شيءٌ ممّا يكرهه
+        <lb/>
+
+        ويؤذيه إذا لم يكن لذلك أهلًا
+      </p>
+
+      <p n="Dimna Despises His Body and Is No Sinner">
+        وإنّي لم أزل لقربي من الآخرة مُهينًا
+        <lb/>
+
+        لجسمي متمسّكًا بروحي
+      </p>
+
+      <p n="Dimna Did Not Commit This Great Sin">
+        فدع أن أكون تعاطيت هذا الذنب الذي
+        <lb/>
+
+        هو أعظم الذنوب
+      </p>
+
+      <p n="Dimna, Being Innocent, Cannot Confess What He Did Not Do">
+        ولكنّي لم أقل كلمة كذبٍ قطّ على أحدٍ فيها عليه أذى أو
+        <lb/>
+
+        مضرّةٍ ولا يستطيع أحدٌ أن ينطق عليّ بها فشديدٌ عليّ الإقرار على نفسي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

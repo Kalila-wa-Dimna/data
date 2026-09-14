@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="99"/>
+
+      <p n="Chance Is Lost Without Advice">
+        لم يلبثْ أن ساق القدر إليه خطأ وأن يضع أمره
+      </p>
+
+      <p n="Chances Favor Intelligent">
+        فإنّ الفضل المقسوم لم يقتصر به الجهّال
+        <lb/>
+
+        ولكن وُكّل بالعاقل المستمع من ذوي العقول
+      </p>
+
+      <p n="Spy Praises King C">
+        وأنت أيّها الملك كذلك
+      </p>
+
+      <p n="Spys Advice Partially Secret">
+        وقد استشرتني
+        <lb/>
+
+        في أمر أريد أن أجيبك في بعضه سرًّا وفي بعضه علانيّة
+      </p>
+
+      <p n="Spys Open Advice">
+        أمّا ما أكره أن أعلنه فكما
+        <lb/>
+
+        أنّي لا أرى القتال كذلك لا أرى الخضوع بالخراج والرضى بذلّ الدّهر
+      </p>
+
+      <p n="Dignity Over Life">
+        فإنّ العاقل
+        <lb/>
+
+        الكريم يختار الموت صابرًا محافظًا على الحياة لا حَزِنًا ذليلًا وأرى أن لا نؤخّر النظر
+        <lb/>
+
+        في أمرنا ولا يكوننّ من شأنك التثبّط والتهاون
+      </p>
+
+      <p n="Indecision Is Impotence">
+        فإنّ من التثبّط والتهاون رأس
+        <lb/>
+
+        العجز
+      </p>
+
+      <p n="Spy Moves To Secret Advice">
+        وأمّا ما أريد إسراره
+      </p>
+
+      <p n="Victory Requires Guarding Secrets">
+        فإنّه قد كان يُقال إنّما يصيب الملوك الظفر بالجزم والحزم
+        <lb/>
+
+        بإجالة الرأي بتحصين الأسرار
+      </p>
+
+      <p n="Who May Discover Secret">
+        وإنّما يُطّلع على السرّ من قِبل خمسة صاحب الرأي
+        <lb/>
+
+        ومن قِبل مشاورته أو البرد أو الرسل المستمعين للكلام أو من قِبل الناظرين في أثر
+        <lb/>
+
+        الرأي مواقع العمل أو من التشبيه والنطق
+      </p>
+
+      <p n="Two Benefits Of Guarding Secret">
+        ومن حصّن فله من تحصينه إيّاه أمران
+        <lb/>
+
+        إمّا ظفر بما يريد وإمّا سلم من ضروره وعتبه إن أخطأه ذلك
+      </p>
+
+      <p n="Kind Needs Confidant">
+        ولا بدّ لصاحب
+        <lb/>
+
+        السرّ من مستشار مأمون يفضي إليه بسرّه ويعاونه على الرأي وإنّ المستشير
+        <lb/>
+
+        وإن كان أفضل من المستشار رأيًا
+      </p>
+
+      <p n="Advice To King Like Fuel To Fire">
+        فإنّه يزداد به رأيًا كما تزداد النار
+        <lb/>
+
+        بالودك ضوءًا
+      </p>
+
+      <p n="How To Give Advice">
+        وعلى المستشار موافقة المستشير على صواب ما يرى والرفق به في مصيره
+        <lb/>
+
+        خطأ إن أتى به وتقليب الرأي فيما يشكل حتّى يتّفق رأيهما
+      </p>
+
+      <p n="Bad Advice Like Misdirected Curse">
+        فإذا لم يكنْ المستشار كذلك
+        <lb/>
+
+        فهو على المستشير مع عدوّه كالرجل الذي يرقي الشيطان ليرسله إلى الإنسان
+        <lb/>
+
+        فإذا لم يحكمْ فيه الرقيّة كان به يلبس وإيّاه يأخذ
+      </p>
+
+      <p n="Secritive Wise King Prospers">
+        وإذا كان الملك محصّنًا للأسرار
+        <lb/>
+
+        متخيّرًا للوزراء مهيبًا في أنفس العامّة بعيدًا من أن يعلم ما في نفسه لا يضيع عنده
+        <lb/>
+
+        حسن بلاء ولا يسلم منه ذو حزم مقدّرًا لم يقتر فيما ينفق ولا يسرف كان خليقًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

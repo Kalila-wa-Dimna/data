@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="261"/>
+
+      <p n="Demons Concerns">
+        أن يتنبّه الناسك فيفوّتها فتنازعا
+      </p>
+
+      <p n="Thief And Demon Shout">
+        فنادى اللصّ أيّها
+        <lb/>
+
+        الناسك إنّ الشيطان يريد أن يأخذك وقال الشيطان إنّ
+        <lb/>
+
+        اللصّ يريد سرقة بقرتك
+      </p>
+
+      <p n="Thief And Demon Flee">
+        فانتبه الناسك وجيرانه وهرب
+        <lb/>
+
+        الناسك الخبيثان
+      </p>
+
+      <p n="Objectors Deems Owls Misled">
+        فلمّا فرغ الوزير الثالث من كلامه قال
+        <lb/>
+
+        الأوّل الذي كان أشار بقتله قد خدعكم بتضرّعه
+      </p>
+
+      <p n="Objector Warns Of Trickery">
+        فانظروا
+        <lb/>
+
+        نظر الألباب
+      </p>
+
+      <p n="Dont Be Credulous">
+        ولا تكونوا كالعجزة الذين يكذّبون أنفسهم
+        <lb/>
+
+        ويصدّقون غيرهم
+      </p>
+
+      <p n="Mention Deceived Carpenter">
+        كالتاجر الذي كذّب ما رأى وسمع وخدع
+        <lb/>
+
+        علمه
+      </p>
+
+      <p n="King O Request Story D C">
+        قال المَلك وكيف كان ذلك
+      </p>
+
+      <p n="Carpenter Learns Of Wifes Affair">
+        قال الوزير زعموا أنّ تاجرًا
+        <lb/>
+
+        كانت له امرأة يحبّها وكانت قد علقت رجلًا فاطّلع على ذلك
+        <lb/>
+
+        منها بعض أهل بيت الرجل فأخبروه عن امرأته بما رأوا
+      </p>
+
+      <p n="Carpenter Wants Proof">
+        فأحبّ التاجر أن يعرف ذلك القول ويستبينه
+      </p>
+
+      <p n="Carpenter Feigns Work Travel">
+        فقال لامرأته
+        <lb/>
+
+        إنّي أريد الذهاب إلى قرية منّا على فراسخ في بعض عمل
+        <lb/>
+
+        الإمارة وماكث هناك أيّامًا فأعدّي لي زادًا
+      </p>
+
+      <p n="Wife Rejoices At Chance">
+        ففرحت
+        <lb/>
+
+        المرأة وصنعت له زادًا
+      </p>
+
+      <p n="Wife Sees Carpenter Off">
+        فلمّا أمسى قال لها استوثقي من
+        <lb/>
+
+        بابك واحفظي بيتك حتّى أرجع بعد أيّام وخرج
+      </p>
+
+      <p n="Carpenter Returns To Hide Under Bed">
+        ثمّ
+        <lb/>
+
+        عاد من مكان خفيّ فصار تحت سريره الذي فراشه فيه
+      </p>
+
+      <p n="Wife Summons Lover">
+        فأرسلت المرأة إلى خليلها أن ائتنا فقد انطلق التاجر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

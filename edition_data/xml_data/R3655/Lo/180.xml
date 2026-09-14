@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="180"/>
+
+      <p n="The Thief Steals the Garment">
+        ونظرإلى أنفها صحيحًا
+      </p>
+
+      <p n="The Husband is Deceived">
+        فلمّا رآه تاب ممّا صنع بها واعتذر إليها وسألها أن ترضى عنه
+        <lb/>
+
+        ففعلت ذلك
+      </p>
+
+      <p n="The Husband's Apology">
+        ولمّا انتهت امرأة الحجّام إلى بيتها وطلبت الحيل وقالت ما عذري عند
+        <lb/>
+
+        زوجي وعند الناس في جدع أنفي
+      </p>
+
+      <p n="The Barber's Wife's Dilemma">
+        فلمّا كان السَحَر استيقظ الحجّام فنادى امرأته
+      </p>
+
+      <p n="The Barber Wakes">
+        وقال لها ائتيني بمتاعي فإنّي أريد أن أدخل على بعض الأشراف
+      </p>
+
+      <p n="The Barber Asks for His Tools">
+        فلم تأته امرأته إلّا بالموسى
+      </p>
+
+      <p n="The Barber's Wife's Ruse">
+        فغضب الحجّام ورماها بالموسى فسقطت وصاحت أنفي أنفي
+      </p>
+
+      <p n="The Barber is Taken to the Judge">
+        فلم تزل تصيح حتّى جاء أولياؤها
+        <lb/>
+
+        فأخذوا زوجها فرفعوه إلى القاضي فساءله
+      </p>
+
+      <p n="The Barber's Trial">
+        وقال له ما حملك على أن جدعت أنف امرأتك
+        <lb/>
+
+        فلم تكن له حجّة يحتجّ بها
+      </p>
+
+      <p n="The Judge's Verdict">
+        فأمر القاضي بالحجّام أن يُعاقب
+      </p>
+
+      <p n="The Ascetic Intervenes">
+        فلمّا قُدّم للعقوبة قال الناسك
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="191"/>
+
+      <p n="The Morning in the Battle Aftermath">
+        فلمّا أصبحت الغربان اجتمعت إلى ملكها
+      </p>
+
+      <p n="The Crow King Evaluates the Damage">
+        فقلن له قد علمت ما لقينا الليلة
+        <lb/>
+
+        من ملك البوم وما منّا إلاّ من أصبح قتيلًا أو جريحًا أو مكسور الجناح أو
+        <lb/>
+
+        منتوف الريش أو مقطوف الذنب
+      </p>
+
+      <p n="The Crow King Fears Recurring Aggression">
+        وأشدّ ما أصابنا ذلك على ضراوتهنّ علينا
+        <lb/>
+
+        وعلمهنّ بمكاننا وهنّ عائدات إلينا غير منقطعات عنّا لعلمهنّ بمكاننا فإنّما
+        <lb/>
+
+        نحن لك ولك أيّها الملك فانظرْ لنا ولنفسك
+      </p>
+
+      <p n="Input from the Five Wise Crows is Sought">
+        وكان في الغربان خمس معترف
+        <lb/>
+
+        لهنّ بحُسن الرأي يُسند إليهنّ في الأمور ويُلقي عليهنّ أزمّة الأحوال وكان
+        <lb/>
+
+        الملك كثيرًا ما يشاورهنّ في الأمر ويأخذ أراءهنّ في الحوادث والنوازل
+      </p>
+
+      <p n="The Crow King Asks the First Crow">
+        فقال الملك للأوّل من الخمس ما رأيك في هذا الأمر
+      </p>
+
+      <p n="Escape Should Be the Recourse">
+        قال رأيي فيه ما
+        <lb/>
+
+        سبقتنا إليه العلماء وذلك أنّهم قالوا ليس للعدوّ الحنق إلّا الهرب منه
+      </p>
+
+      <p n="The Crow Kings Asks the Second Crow">
+        قال الملك للثاني ما رأيك أنت في هذا الأمر
+      </p>
+
+      <p n="Escape Is No Recourse">
+        قال رأيي ما رأى هذا من
+        <lb/>
+
+        الهرب
+      </p>
+
+      <p n="The Downsides of Escape Are Explained">
+        قال الملك لا أرى لكما ذلك رأيًا أن نرحل عن أوطاننا ونخليها
+        <lb/>
+
+        لعدوّنا من أوّل نكبة أصابتنا منه ولا ينبغي لنا ذلك
+      </p>
+
+      <p n="Recourse Should be Made to Planning and Preparing">
+        ولكن نجمع
+        <lb/>
+
+        أمرنا ونستعدّ لعدوّنا ونذكّي نار الحرب فيما بيننا وبين عدوّنا ونحترس
+        <lb/>
+
+        من الغرّة إذا أقبل إلينا فنلقاه مستعدّين
+      </p>
+
+      <p n="The Crows Should Fight Back the Owls">
+        ونقاتله قتالًا غير مراجعين
+        <lb/>
+
+        فيه ولا حامين عنه
+      </p>
+
+      <p n="Escape Should Not Be the First Choice">
+        وتلقى أطرافنا أطراف العدوّ ونحترس في حربنا وندافع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

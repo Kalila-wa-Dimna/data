@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M487</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="87"/>
+
+      <p n="Friend Distinguishes Burzoy">
+        صاحبك وعند قوم لا تعرف أسرارهم وأحوالهم وأمورهم
+      </p>
+
+      <p n="Traits Of Prudence">
+        وإنّ عقل الرجل
+        <lb/>
+
+        الرجل يتبيّن في ثمان خصال الأولى الرفق واللطف الثانية
+        <lb/>
+
+        أن يعرف نفسه فيحفظها الثالثة طاعة الملوك والتحرّي لمراضيهم
+      </p>
+
+      <p n="Traits Of Secrecy And Speech">
+        الرابعة
+        <lb/>
+
+        معرفة موضع سرّه وكيف ينبغي أن يطلع عليه الخامسة أن يكون على
+        <lb/>
+
+        أبواب الملوك أديبًا ماضي اللسان السادسة أن يكون لسرّه وسرّ
+        <lb/>
+
+        غيره حافظًا السابعة أن يكون على لسانه قادرًا فلا يطلع بالكلام إلّا ما
+        <lb/>
+
+        يبين به بغيته الثامنة أنّه إذا كان في المحفل لم يتكلّم بما لم يُسأل
+        <lb/>
+
+        عنه ولم يظهر من الأمور ما يندم عليه
+      </p>
+
+      <p n="Traits Ensure Safety">
+        فمن اجتمعت هذه الخصال
+        <lb/>
+
+        كلّها فيه كان هو الداعي إلى نفسه الجامع لها الخيرات
+      </p>
+
+      <p n="Burzoy Has These Traits">
+        وهذه الخلال
+        <lb/>
+
+        كلّها قد اجتمعت فيك
+      </p>
+
+      <p n="Burzoy Came To Steal Indian Knowledge">
+        وإنّك أجمعت على أن تصافي خلًّا يحفظك
+        <lb/>
+
+        ويعينك على الذي قدمت له ومصادقتك إيّاي إنّما هي لتسلبني رأيي
+        <lb/>
+
+        وفخري وعلمي وأدبي
+      </p>
+
+      <p n="Burzoy Deserves Help">
+        قال اعلم أنّ من كان مثلك من الرجال واجتمعت
+        <lb/>
+
+        فيه هذه الخلال أهلًا أن يُسعف بحاجته ويُساعد على طلبته وبغيته
+      </p>
+
+      <p n="Friend Is Afraid">
+        ولكنّ حاجتك الذي أنت لها طالب وفيها راغب قد أذعرت نفسي
+        <lb/>
+
+        وأدخلت الخشية والفرق عليّ
+      </p>
+
+      <p n="Friend Is Loyal Despite Deceit">
+        فلمّا علم بروزيه أنّ الهندي قد عرف أنّ
+        <lb/>
+
+        مصادقته إيّاه كانت مكرًا وحيلة لطلب حاجته وأنّه قد أنزل به ذلك
+        <lb/>
+
+        من مودّته
+      </p>
+
+      <p n="Burzoy Had Prepared Argument">
+        قال اعلم أخي أرشدك الله أنّني قد هيّأت لهذا
+        <lb/>
+
+        الأمر كلامًا كثيرًا وضعت له أصولًا وشعّبت له شعوبًا وأنشأت له مخارجًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

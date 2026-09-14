@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="113"/>
+
+      <p n="The Mother Condemns Dimna's Sweet-Talking and Hoping">
+        قالت أمّ الأسد أيّها الخائن الفاجر إنّك لتجترئ على مثل هذا
+        <lb/>
+
+        القول عجبًا له يتركك حيًّا
+      </p>
+
+      <p n="Dimna Defines as Traitor Who Is Ungrateful for Advice and Kills a Defeated Enemy">
+        قال دمنة إنّ الخائن الفاجر الذي توقّى بالنصيحة ويمكَّن من عدوّه
+        <lb/>
+
+        ثمّ لا يشكر ذلك ولا يعرفه لمن أتاه به ولكن يريد قتله على غير ذنبٍ
+      </p>
+
+      <p n="Mother Deems Dimna's Parables Worse Than His Crimes">
+        قالت أمّ الأسد لا أسمع لسمع موعظتك وضربك الأمثال لمن
+        <lb/>
+
+        كلّمك أعجب عندي من الذي سلف من خلابتك ومكرك وحسدك
+      </p>
+
+      <p n="Dimna Treats His Case as Exemplum">
+        قال دمنة هذا موضع العظة إن قبلت وموضع الأمثال إن نفعت
+      </p>
+
+      <p n="Crimes Should Distract Dimna from Coining Fables">
+        قالت أمّ الأسد أيّها الغادر الفاجر إنّ في سوء عملك لشاغل لو
+        <lb/>
+
+        عقلت عن ضرب الأمثال
+      </p>
+
+      <p n="Dimna Defines Traitor as Fearing and Opposing Discovery">
+        قال دمنة إنّما الغادر من أخاف من عمل في أمنه وعادى من كشف
+        <lb/>
+
+        له عداوة أعدائه
+      </p>
+
+      <p n="The Mother Calls Dimna a Liar">
+        قالت أمّ الأسد كأنّك ترجو أيّها الكاذب أن تنجو بتسطير المقال ممّا
+        <lb/>
+
+        اجترمت بذلك
+      </p>
+
+      <p n="Dimna Defines White Liar and Claims Fulfillment of His Duty">
+        قال دمنة إنّ الكاذب من كافأ بالإحسان إساءةً وبالخير الشرّ
+        <lb/>
+
+        وبالأمن الخوف وأمّا أنا فقد أنجزت ما وعدت ووفيت العهد
+      </p>
+
+      <p n="The Mother Asks What Duty Dimna Fulfilled">
+        قالت أمّ الأسد ما وعدك الذي أنجزت وعهدك الذي وفيت
+      </p>
+
+      <p n="Dimna Cites His Courage to Speak at Court as Proof">
+        قال دمنة سيّدي يعلم أنّي لو كنت كاذبًا لم أجترئ على الكلام
+        <lb/>
+
+        عنده بالباطل وانتحال الكذب
+      </p>
+
+      <p n="The Lion's Silence Makes the Mother Doubt">
+        فلمّا رأت أمّ الأسد لا يزيده كلام دمنة إلّا لينًا ارتابت وداخلها
+        <lb/>
+
+        الخوف شفقًا أنّ الأسد يرى بعض ما يقول دمنة في براءته وعذره
+      </p>
+
+      <p n="Silence in an Argument Means Approval">
+        فقالت
+        <lb/>
+
+        للأسد إنّ الصمت على حجج الخصم لشبيهٌ بالإقرار بحقيقة ما يقول ومن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="250"/>
+
+      <p n="Philosopher Mentions Parable">
+        وكيف كان ذلك
+      </p>
+
+      <p n="Philosopher Tells of Pious Jackal">
+        قال الفيلسوف زعموا أنّ ابن آوى كان يسكن في بعض
+        <lb/>
+
+        الدجال وكان زاهدًا ناسكًا
+      </p>
+
+      <p n="Lion Hears of Jackal">
+        قد اشتهرت حاله بين السباع بالنسك حتّى
+        <lb/>
+
+        بلغ ذلك أسدًا كان ملك تلك الناحية فرغب في استخدامه وعرف ما بلغه
+        <lb/>
+
+        عنه من العفاف والنزاهة والزهد والأمانة
+      </p>
+
+      <p n="Lion Verifies Jackal's Qualities">
+        فأرسل إليه يستدعيه فلمّا
+        <lb/>
+
+        حضر كلّمه وأنسه فلمّا كان بعد أيّام دعاه إليه
+      </p>
+
+      <p n="Lion Offers Viziership">
+        وقال له تعلم أنّ مالي كثير
+        <lb/>
+
+        وأعواني جمّ غفير وأنا مع ذلك إلى الأعوان محتاج وقد بلغني عنك عفاف
+        <lb/>
+
+        فازددت فيك رغبة وأنا مولّيك من عملي جسيمًا ورافعك إلى منزلة شريفة
+        <lb/>
+
+        وجاعلك من خاصّتي
+      </p>
+
+      <p n="King Must not Impose Service">
+        قال ابن آوى إنّ الاجتباء للأعوان ممّا يهتمّون به في أمورهم
+        <lb/>
+
+        وأعمالهم وهم أحرى ألّا يكرهوا ذلك فإنّ المكره لا يُستطاع بالمبالغة
+      </p>
+
+      <p n="Jackal Declines Position">
+        وإنّي
+        <lb/>
+
+        لعمل السلطان كاره وليس لي به تجربة ولا بأمر السلطان رفق
+      </p>
+
+      <p n="Lion Has Eager Candidates">
+        وأنت ملك
+        <lb/>
+
+        السباع وعندك من أجناس الوحوش عدد كثير فيهم حيل وقوّة ولهم على العمل
+        <lb/>
+
+        حرص وعندهم به رفق وإن أنت استغنيت عنهم اغتبطوا استغنوا لأنفسهم
+      </p>
+
+      <p n="Lion Does not Excuse Jackal">
+        قال
+        <lb/>
+
+        دعْ عنك هذا فإنّي غير معفيك من العمل
+      </p>
+
+      <p n="Two Kinds Serve Kings">
+        قال ابن آوى إنّما يستطيع خدمة
+        <lb/>
+
+        السلطان رجلان لست بواحد منهما إمّا فاجر مصانع ينال حاجته بمصانعته
+        <lb/>
+
+        وإمّا مغفّل لا يحسده يخشاه أحد
+      </p>
+
+      <p n="Good Advisor Is Hated">
+        فمن أراد أن يخدم السلطان بالصدق والعفاف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="173"/>
+
+      <p n="Abstract">
+        وهو مثل العدوّ الذي لا ينبغي أن يُغترّ به وما يصير إليه من مضرّة
+        <lb/>
+
+        عدوّه والحذر منه
+      </p>
+
+      <p n="The King Understood Previous Chapter">
+        قال الملك ديشلم لبيدبا الفيلسوف قد سمعت
+        <lb/>
+
+        مثل الإخوان وتعاهدهم ووقائعهم لبعضهم البعض
+      </p>
+
+      <p n="The King Asks about Fawning Foes">
+        فاضربْ
+        <lb/>
+
+        لي مثل العدوّ الذي لا ينبغي أن يُغترّ به وإن أبدا حلفًا
+        <lb/>
+
+        وتضرّعًا
+      </p>
+
+      <p n="The Parable of the Owls and the Crows">
+        قال الفيلسوف من اغترّ بالعدوّ ووثق به وبما
+        <lb/>
+
+        يبديه من التضرّع والخداع لصاحبه أصابه ما أصاب البوم
+        <lb/>
+
+        والغربان
+      </p>
+
+      <p n="The King Requests the Parable">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="The Crow Kingdom and the Owl Kingdom">
+        قال زعموا أنّه كان
+        <lb/>
+
+        ببعض الجبال شجرة عظيمة من أعالي ما يكون وكان بها
+        <lb/>
+
+        وكر غراب وكان عظيمًا في الغربان وملكًا مقدّمًا عليهم
+        <lb/>
+
+        وكان بالقرب منه ألف من البوم وكان عليها ملكًا منها
+      </p>
+
+      <p n="The Owls Attack the Crows">
+        فخرج ذات يوم ملك البوم بجنده فأغار على تلك الغربان
+        <lb/>
+
+        فقتل منهم خلق كثيرة ومضوا عنهم لمّا دجا الظلام
+      </p>
+
+      <p n="The Morning in the Battle Aftermath">
+        فلمّا
+        <lb/>
+
+        كان من الغد حقّق ملك الغربان رأى من أصحابه الجرحى
+        <lb/>
+
+        والقتلى فجمع أكابر صولية أصحاب الرأي إليه
+      </p>
+
+      <p n="The Crow King Evaluates the Damage">
+        وقال لهم
+        <lb/>
+
+        معاشر الغربان قد رأيتم ما حلّ بكم من البوم وكم قد أصبح
+        <lb/>
+
+        منكم قتيلًا وجريحًا
+      </p>
+
+      <p n="The Crow King Fears Recurring Aggression">
+        ولا شكّ أنهنّ يعلمن بكنّ وبحالكنّ
+        <lb/>
+
+        وعرفهم بكنّ يتلف لكنّ أغراضكنّ فانظرن لأنفسكنّ
+        <lb/>
+
+        ما فيه صلاحكنّ
+      </p>
+
+      <p n="Input from the Five Wise Crows is Sought">
+        قال وكان منهنّ خمسة غربان موهون
+        <lb/>
+
+        بالرأي والحزم وكان الملك يشاورهنّ ويفوّض الرأي
+        <lb/>
+
+        إليهنّ في غالب الأمور
+      </p>
+
+      <p n="The Crow King Asks the First Crow">
+        فقال للأوّل ما رأيك في هذا الحال
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

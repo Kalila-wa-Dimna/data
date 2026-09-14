@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M487</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="89"/>
+
+      <p n="Indian King Is Harsh">
+        ملكًا فظًّا غليظًا يعاقب على الذنب الصغير أشدّ عقاب فإذا كان مثل هذا الذنب
+        <lb/>
+
+        العظيم الذي تحملني المودّة بيني وبينك على أن أسعفك بحاجتك ولم يردّ غضبه
+        <lb/>
+
+        وعقابه عنّي شيء
+      </p>
+
+      <p n="Scholars Commend Discrete Friend">
+        قال بروزيه إنّ العلماء قد مدحت الصديق إذا كتم سرّ صديقه
+        <lb/>
+
+        وأعانه على أموره
+      </p>
+
+      <p n="Burzoy Entrusts Secret To Friend">
+        وهذا الأمر الذي قدمت له لمثلك ادّخرته وعليك أحسسته
+        <lb/>
+
+        وإليك أفشيته وبك أرجو بلوغه ﻷنّه عندي عظيم
+      </p>
+
+      <p n="Burzoy Sure Of Friends Abilities">
+        وأنا واثق بكرم طباعك
+        <lb/>
+
+        ووفور عقلك وجميل أخلاقك أن يكون إدراكي إيّاه على يديك وبك ولو نالك
+        <lb/>
+
+        بسببه كلّ مشقّة ومعاناة
+      </p>
+
+      <p n="Friend Fears Own Kin">
+        وأنا أعلم أنّك لا تخشى منّي ولا تخاف أن نبديه ولكن
+        <lb/>
+
+        تخشى أهل بلدك وبيتك أن يسعوا بك إلى الملك
+      </p>
+
+      <p n="Burzoy Hopes Secret Remains Kept">
+        وأنا أرجو أن لا يشيع هذا
+        <lb/>
+
+        الأمر وتعاهدا جميعًا
+      </p>
+
+      <p n="Friend Provides Book">
+        وأجابه الهنديّ إلى ذلك وتلطّف الهنديّ في أخذ
+        <lb/>
+
+        الكتاب من خزانة الملك وأحضره إلى عند برزويه
+      </p>
+
+      <p n="Joint Translation">
+        واتّفقا على نسخه من
+        <lb/>
+
+        لسان الهنديّة إلى الفارسيّة
+      </p>
+
+      <p n="Burzoys Effort In Translation">
+        فلمّا دفع الهنديّ الكتاب إلى برزويه أكبّ عليه
+        <lb/>
+
+        يفسّره وينسخه مع ما حصل له من كُتُب الهند وعلومها واجتهد وأجهد
+        <lb/>
+
+        نفسه بالملازمة لذلك والدأب فيه
+      </p>
+
+      <p n="Burzoy Translates Under Duress">
+        وهو مع ذلك خائف من الملك على نفسه
+        <lb/>
+
+        لئلّا يذكر الملك الكتاب في وقت من الأوقات فلا يصادفه في خزائنه
+      </p>
+
+      <p n="Burzoy Writes To Kisra">
+        فلمّا فرغ من انتساخ الكتاب وما أراد من سائر الكتب وفرغ كَتَب إلى
+        <lb/>
+
+        الملك أنوشروان مطالعة أنّه قد بلغ ما أراد من حاجته وفرغ من انتساخ الكتب
+        <lb/>
+
+        التي قصدها
+      </p>
+
+      <p n="Kisra Reads Letter">
+        فلمّا وصل الكتاب إلى الملك أنوشروان قرأه وعلم ما فيه سُرّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

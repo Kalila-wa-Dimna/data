@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="104"/>
+
+      <p n="The Leopard Overhears Kalila Chastising Dimna">
+        ممسيًا إلى منزله فمرّ على مسكن كليلة ودمنة وكانا مترافقين في
+        <lb/>
+
+        بيت واحد فسمع كليلة موبّخًا لدمنة فيما كان منه من الغدر
+        <lb/>
+
+        والمكر مذكّرًا له نهيه إيّاه وعصيان دمنة له فسمع النمر كلامهما
+        <lb/>
+
+        كلّه
+      </p>
+
+      <p n="Kalila's Accusation of Dimna">
+        وكان ممّا قال كليلة لدمنة قد ركبت أمرًا عظيمًا قبيحًا
+        <lb/>
+
+        ودخلت من الغدر مدخلًا ضيّقًا وخنت الأسد خيانة عظيمة توشك
+        <lb/>
+
+        عواقبها أن تصرعك وينكشف أمرك فلا يبقى لك من السباع عاذر ولا
+        <lb/>
+
+        ناصر بل تجتمع عليك كلمتهم بالهلاك والقتل
+      </p>
+
+      <p n="Kalila Rejects Dimna as Friend">
+        ولا أرى مقاربتك ولا
+        <lb/>
+
+        مشاركتك رأيًا
+      </p>
+
+      <p n="Dimna Admits His Guilt">
+        قال دمنة قد وقع من الأمر ما لا مردّ له فدع
+        <lb/>
+
+        أيّها الأخ تضييق الأمور عليّ وعلى نفسك واعمل في تغييب ما قرّ في نفس
+        <lb/>
+
+        الأسد منه ولعمري ما أنا الرأيَ فيما سلف منّي بحامد ولكنّ الحرص
+        <lb/>
+
+        والحسد حملاني على ما صنعت
+      </p>
+
+      <p n="The Leopard Confides in the Lion's Mother">
+        فلمّا سمع النمر ذلك من كلامهما انصرف
+        <lb/>
+
+        فدخل على أمّ الأسد وأخذ عليها العهود والمواثيق أن لا تفشي بشيء من
+        <lb/>
+
+        ذلك فجعلت له ذلك فأخبرها بما سمع من كليلة وإقرار دمنة
+      </p>
+
+      <p n="The Mother Goes to the Lion and Finds Him Sad">
+        فلمّا
+        <lb/>
+
+        أصبحت دخلت على الأسد فوجدته مكتئبًا حزينًا لما قد فرط منه
+        <lb/>
+
+        في أمر الثور
+      </p>
+
+      <p n="The Mother Asks About the Cause of Grief">
+        فقالت ما يحزنك فقال
+      </p>
+
+      <p n="The Lion Misses the Ox and Regrets Killing Him">
+        يحزنني قتل الثور وتذكّرت صحبته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

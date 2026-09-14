@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="171"/>
+
+      <p n="Kalila's Accusation of Dimna">
+        على نفسك جنايةً عظيمةً وعاقبتها وخيمةً إذا اطّلع
+        <lb/>
+
+        الأسد على أمرك وانكشف له غدرك فلا يبقى لك في
+        <lb/>
+
+        السباع عاذر ولا ناصرٌ وجميعهم عليك بالتلاف
+        <lb/>
+
+        والقتل مخافةً من شرّك وحذرًا من غوائلك
+      </p>
+
+      <p n="Kalila Rejects Dimna as Friend">
+        وأمّا أنا
+        <lb/>
+
+        فليس اليوم متّخذك خليلٌ ولا مفضي إليك سرًّا
+      </p>
+
+      <p n="One Must Avoid Bad People">
+        فإنّ العلماء قد قالوا تباعد عمّا لا رغبةً له في الخير
+      </p>
+
+      <p n="Dimna is Evil and to Be Shunned">
+        وأنا جديرٌ بمباعدتك فألتمس الخلاص لي ولك ممّا
+        <lb/>
+
+        قد أثّر في نفس الأسد من هذا الأمر
+      </p>
+
+      <p n="Dimna Admits His Guilt">
+        قال دمنة فلعمري
+        <lb/>
+
+        ما أنا برادٍّ ما سلف منّي لكنّ الحرص والحسد حملاني على
+        <lb/>
+
+        ما فرط منّي
+      </p>
+
+      <p n="The Leopard Confides in the Lion's Mother">
+        فلمّا سمع النمر من كلامهما انصرف ودخل
+        <lb/>
+
+        على أمّ الأسد وأخد منها عهدًا أنّها لا تفشي ما
+        <lb/>
+
+        يُسرّ إليها فعاهدته على ذلك فأخبرها بما سمع
+        <lb/>
+
+        من كليله وإقرار دمنة
+      </p>
+
+      <p n="The Mother Goes to the Lion and Finds Him Sad">
+        فلمّا أصبحت أمّ الأسد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>VAF298</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="45"/>
+
+      <p n="Kalila Questioning Dimna's Proximity to the Lion">
+        فكيف يرجو عند الأسد منزلة ولست تدنوا منه
+      </p>
+
+      <p n="Dimna's Explanation of Gaining Favor">
+        قال دمنة قد فهمت ما
+        <lb/>
+
+        ذكرت وأنت صادق ولكن اعلم أنّ الذين لهم قرب عند السلطان وليست
+        <lb/>
+
+        منازلهم وإنّما يدنون بعد البعد
+      </p>
+
+      <p n="Dimna's Determination to Succeed">
+        وإنّما التمس بلوغ مكانهم يجدي
+      </p>
+
+      <p n="Kalila's Warning about Dangers of Serving Rulers">
+        وقد كان
+        <lb/>
+
+        يُقال ما واظب الرجل على باب السلطان وهو يقدر على دفع الأذى وكظم
+        <lb/>
+
+        الغيظ ورفق بالناس إلّا وصل إلى حاجته
+      </p>
+
+      <p n="Kalila Questioning Dimna's Strategy">
+        قال كليلة وهبك وصلت إلى
+        <lb/>
+
+        الأسد فما رفقك الذي ترجو به المنزلة عنده
+      </p>
+
+      <p n="Dimna will Make the Lion See His Benefit">
+        قال دمنة لو قد دنوت من
+        <lb/>
+
+        الأسد وعرفت أخلاقه ثمّ توقّفت على متابعته وقلّة الخلاف عليه فإذا
+        <lb/>
+
+        أراد أمرًا هو في نفسه صواب زيّنته له وبصرته به حتّى يزداد سرورًا
+      </p>
+
+      <p n="Dimna will Make the Lion See His Harm">
+        وإذا
+        <lb/>
+
+        أراد أمرًا أخاف عليه ضرّه بصّرته بما فيه من الضرّ والشين وما في تركه من النفع
+        <lb/>
+
+        بأرفق مأخذ والنيّة
+      </p>
+
+      <p n="Dimna's Hope to Impress the Lion">
+        وأنا أرجو أن يزداد بي الملك خير وأن يرى منّي ما لم
+        <lb/>
+
+        يرى من غيري
+      </p>
+
+      <p n="Clever Speech Can Twist the Truth">
+        فإنّ الرجل الأديب الرفيق لو شاء أن يبطل الحقّ ويحقّ الباطل
+        <lb/>
+
+        لفعل
+      </p>
+
+      <p n="Analogy of Skilled Painter's Illusions">
+        كالمصوّر الماهر الذي يصوّر في الجدار صورة كأنّها خارجة وأخرى
+        <lb/>
+
+        داخلة فيه وليست بداخلة فيه
+      </p>
+
+      <p n="Kalila's Final Warning about Ruler's Danger">
+        قال كليلة إن كان رأيك فإنّي أحذّرك صحبة
+        <lb/>
+
+        الأسد فإنّ صحبة السلطان خطرًا عظيمًا
+      </p>
+
+      <p n="Three Risky Endeavors According to Scholars">
+        وقد قالت العلماء أمور ثلاثة
+        <lb/>
+
+        لا يستجري عليها إلّا أهوج ولا يسلم منها إلّا القليل فأحدها صحبة السلطان
+        <lb/>
+
+        والتماس الأمانة من النساء وائتمانهنّ على الأسرار وشرب السمّ للتجربة
+      </p>
+
+      <p n="Analogy of Ruler to a Dangerous Mountain">
+        وقد شبّهت العلماء السلطان بالجبل الصعب الذي فيه الثمار الطيّبة وهو
+        <lb/>
+
+        معدن الأسودة والنمورة والصعود إليه شديد والمقام فيه أشد من الصعود
+        <lb/>
+
+        إليه
+      </p>
+
+      <p n="Dimna's Persistence Despite Warnings">
+        قال دمنة صدقت فيما وصفت غير أنّه من لم يركبْ الأهوال لم ينلْ الرغائب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

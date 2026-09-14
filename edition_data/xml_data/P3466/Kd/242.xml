@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="242"/>
+
+      <p n="Queen Serves Rice On Her Night">
+        رأسها فقامت على رأسه بالصحفة وهو يطعم
+      </p>
+
+      <p n="Favorite Wears Dress Before King">
+        فلمّا رأت ذلك
+        <lb/>
+
+        حورفتاه غارت على ابراخت فلبست تلك الكسوة ثمّ مرّت بين
+        <lb/>
+
+        يدي الملك وكان ضوء ذلك الثياب وبياضها وشعاعها كشعاع
+        <lb/>
+
+        الشمس وضوؤها فأضاء بها البيت وصارت حورفتاه كالشمس المنيرة
+        <lb/>
+
+        والقمر
+      </p>
+
+      <p n="King Insults Queen">
+        فلمّا رآها الملك اشتاق إليها فقال لابراخت إنّك لجاهلة
+        <lb/>
+
+        حين أخذت الإكليل وتركت الثياب التي ليس في خزائنها مثلها
+      </p>
+
+      <p n="Queen Pours Rice Over King">
+        فلمّا سمعت ابراخت قول الملك ومدحه حورفتاه وتسفيهه رأيها
+        <lb/>
+
+        لبست الغيظ والغضب ودخلها منه أمر عظيم فضربت بالصحفة
+        <lb/>
+
+        التي كانت في يدها رأس الملك فسال الأرز على رأسه وجسمه ولحيته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

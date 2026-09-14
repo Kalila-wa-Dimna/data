@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="119"/>
+
+      <p n="Quack Ordered to Mix Drug">
+        أتاهم فأعلمهم أنّه عارفٌ بذلك الدواء عالمٌ بأخلاطه وصنعته فأمر الملك
+        <lb/>
+
+        بإخراج كتب المتطبّب الميّت إليه وإدخاله الخزانة ليأخذ ممّا فيها من أخلاط
+        <lb/>
+
+        الأدوية
+      </p>
+
+      <p n="Quack Confuses Drug with Poison">
+        فلمّا دخل وأُعرضت عليه أخلاط الأدوية اعتسف الأمر برأيه
+        <lb/>
+
+        وتكاليفه فأخذ منها أشياءً بغير علمٍ ولا معرفةٍ إلّا على الظنّ والشبهة فوقع
+        <lb/>
+
+        في سمٍّ قاتل
+      </p>
+
+      <p n="Quack Poisons Princess">
+        فأخذ وأخلطه وخلطه بأخلاطه تلك ثمّ سقى الجارية فلم
+        <lb/>
+
+        تلبثْ إلّا ساعةً حتّى ماتت
+      </p>
+
+      <p n="King Has Quack Drink the Poison Too">
+        فأخذه الملك فسقاه من دوائه الذي خلطه
+        <lb/>
+
+        فمات
+      </p>
+
+      <p n="Acting upon Suspicion is Wrong">
+        قال دمنة إنّما ضربت لكم هذا المثل لتعرفوا ما يدخل على القائل
+        <lb/>
+
+        بالجهالة والعامل بالشبهة من الإثم
+      </p>
+
+      <p n="Prominent Courtier/Head of Court Suggests Physiognomy">
+        فتكلّم صاحب مائدة الملك اتّباعًا لهوى
+        <lb/>
+
+        أمّ الأسد
+      </p>
+
+      <p n="Dimna’s Character is Visible in His Body">
+        فقال إنّ أحقّ مَن لم يسألْ عنه العامّة ولم يشكلْ أمره على الخاصّة
+        <lb/>
+
+        لَهذا الشقيّ الذي قد ظهرت فيه علامات الشرّ وشامات سمات الفجور
+        <lb/>
+
+        وقد عرف العلماء ما الحكم فيها
+      </p>
+
+      <p n="Judge/Investigator/Audience Request Physiognomical Evaluation">
+        قال رأس القضاة وما تلك العلامات والشامات والسمات فإنّ
+        <lb/>
+
+        من لم يعرف أمرها أكثر من ذلك كذا
+      </p>
+
+      <p n="Prominent Courtier Diagnoses Dimna as Traitor">
+        فجهر صاحب المائدة بصوته
+        <lb/>
+
+        وقال إنّ العلماء قد قالوا إنّ من صغرت عينه اليسرى وكان مع ذلك كثير
+        <lb/>
+
+        اختلال ومال أنفه بعض الميل إلى شقّه الأيمن وبعد ما بين حاجبيه وكانت
+        <lb/>
+
+        منابت شعر جسده ثلاث شعرات ثلاث شعرات وإذا مشى كان أكثر
+        <lb/>
+
+        نظره إلى الأرض ويلتفت تارةً بعد تارةٍ فإنّ ذلك مستجمعٌ للغدر وطباع
+        <lb/>
+
+        الآثام والبغي على الصالحين وهذه العلامات كلّها في دمنة
+      </p>
+
+      <p n="Bodily Marks Are Claimed to Predict Deeds">
+        فلمّا قضى قوله
+        <lb/>
+
+        أكثر دمنة التعجّب من قوله وقال إنّ الأمور يحكم بعضها بعضًا وإنّ
+        <lb/>
+
+        حكم الله صوابًا لا خطأ فيه ولا جور فيه ولا عدوان ولو كانت هذه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

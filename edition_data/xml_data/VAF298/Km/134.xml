@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>VAF298</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="134"/>
+
+      <p n="The Donkey Intrigues the Stag">
+        من هيجانه فاشتغل الأيّل بالنظر إليه عن شرب الماء
+      </p>
+
+      <p n="The Donkey is Encouraged by the Stag">
+        فقال العير أرى هذا الأيل
+        <lb/>
+
+        يلاحظني ويوشك أن يكون قد فرح بي ولذلك امتنع من الشرب وصار ينظر
+        <lb/>
+
+        إليّ بفرح وابتهاج
+      </p>
+
+      <p n="The Donkey Feels Fortunate">
+        ولعلّ الله أرسله لي ليتمّ لي ما أملته
+      </p>
+
+      <p n="The Donkey Watches the Stag Return Home">
+        ولمّا رأى صاحب
+        <lb/>
+
+        الأيل أنّه لا يشرب ردّه وجعل العير يلاحظه لينظر إلى أين يدخل فلم يزل
+        <lb/>
+
+        يرمقه إلى أن دخل إلى منزل صاحبه فاطمأنّ لذلك
+      </p>
+
+      <p n="The Donkey's Owner Brings Him Home">
+        ثمّ إنّ صاحب العير
+        <lb/>
+
+        ساقه إلى منزله وطرح له علفًا
+      </p>
+
+      <p n="The Donkey Plans an Escape">
+        فلم يأكل من شغل قلبه بالأيل وجعل يحتال
+        <lb/>
+
+        كيف يهرب وقال في نفسه ليس لي مخلص إلّا بالليل عند هدوء الناس فأهرب
+        <lb/>
+
+        إلى الأيل وأستجير به وأقيم عنده
+      </p>
+
+      <p n="The Donkey Escapes to the Stag">
+        فلمّا جنّ الليل لم يزل العير يعالج نفسه حتّى
+        <lb/>
+
+        قلع الرسن من رأسه وهرب إلى الموضع الذي فيه الأيل
+      </p>
+
+      <p n="The Donkey Watches the Stag Overnight">
+        وتوارى عن الباب
+        <lb/>
+
+        لئلّا يراه أحدًا
+      </p>
+
+      <p n="The Stag Is Returned to the River">
+        وأخرج الأيل صاحبُه ليسقيه
+      </p>
+
+      <p n="The Donkey Approaches the Stag">
+        فتبعه العير ولم يزل يلاطفه
+        <lb/>
+
+        ويسقع إليه ويسأله المقام عنده والخدمة له والأيل لا يعرف آفته وجعل كلّما
+        <lb/>
+
+        دنا منه يرفسه ويبعده عنه
+      </p>
+
+      <p n="The Stag's Owner Chases the Donkey Away">
+        فاسترابه سائقه والتفت إلى خلفه فرأى العير يتبعه
+        <lb/>
+
+        فأراد أن يأخذه فخشيّ أن يكون له أصحاب فيطلبونه فيقع معهم في صداع
+        <lb/>
+
+        فرفع قضيبًا كان معه وضرب به العير
+      </p>
+
+      <p n="The Donkey Approaches Again">
+        فعاوده يطلب الأيل حتّى لحّ العير أكثر
+        <lb/>
+
+        من سبع مرّات والرجل يضربه ويطرده
+      </p>
+
+      <p n="The Donkey Bites the Stag's Owner">
+        ففكّر العير في نفسه وقال ليس أقدر على
+        <lb/>
+
+        الدنوّ من الأيل دون أن أكبس الرجل كبسة أنتقم منه فيها فوثب على الرجل وعاق
+        <lb/>
+
+        وسطه وعضّه عضّة فأوجعه وجعًا شديدًا
+      </p>
+
+      <p n="The Stag's Owner Cuts the Donkey's Ears">
+        وبقي الرجل مفكّرًا ماذا يصنع
+        <lb/>
+
+        وخشي إن هو عقله عمل به شرًّا من الأوّل فقال ما لي إلّا أقطع أذنيه ليكون علامة
+        <lb/>
+
+        فيه حتّى أعرف صاحبه فأطالبه بما فعل صنع بي حماره فأخرج شفرة كانت معه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

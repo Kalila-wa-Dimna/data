@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P2789</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="341"/>
+
+      <p n="Three Things in a Man Engender Inefficiency">
+        التصديق لكلّ مخبر
+      </p>
+
+      <p n="Many Are Credulous">
+        ورث مخبر شيء عقله ولا يعرف استقامته فيصدّق
+      </p>
+
+      <p n="One Needs to Keep Desire in Check">
+        وينبغي للعاقل أن يكون لهواه متّهمًا
+      </p>
+
+      <p n="One Needs to Check the Veracity of Information">
+        ولا يقبل شيء لا أن لكلّ أحد حديثًا ولا يتمادى
+        <lb/>
+
+        في الخطأ إذا التبس عليه أمره حتّى يتبيّن له الصواب ويستوضح
+        <lb/>
+
+        الحقيقة فيه
+      </p>
+
+      <p n="One Should Not Continue on the Wrong Path">
+        ولا يكون كالرجل الذي يجوز عن الطريق فيستمرّ على
+        <lb/>
+
+        الضلال ولا يزداد في السير إلاّ جهدًا ومن القصد إلاّ بعدًا
+      </p>
+
+      <p n="Man Rubs Itchy Eye and Loses It">
+        كالرجل
+        <lb/>
+
+        الذي تقذى عينه ولا يزال يحكّها حتّى ربّما كان الحكّ سببًا لذهابها
+      </p>
+
+      <p n="The Intelligent Should Believe in Fate">
+        ويجب على العاقل أن يصدّق بالقضاء والقدر ويأخذ بالحزم
+      </p>
+
+      <p n="Do unto Other as to Oneself">
+        ويحبّ للناس ما يحبّ لنفسه ولا يلتمس صلاح نفسه بفساد غيره
+      </p>
+
+      <p n="A Merchant Steals from His Partner">
+        فإنّه من فعل ذلك كان خليقًا أن يصيبه ما أصاب التاجر من رفيقه
+        <lb/>
+
+        فيُقال إنّه كان رجل تاجر وله شريك استأجر حانوتًا وجعل
+        <lb/>
+
+        فيه متاعهما وكان أحدهما قريب المنزل إلى الحانوت
+      </p>
+
+      <p n="The Merchant Devises a Plot">
+        فأضمر في نفسه
+        <lb/>
+
+        أن يسرق من أعدال شريكه شيئًا وفكّر في الحيلة في ذلك وقال إن
+        <lb/>
+
+        أتيت ليلًا لم آمن أن أحمل عدلًا من أعدالي فيذهب عنائي
+      </p>
+
+      <p n="The Merchant Executes the Plot">
+        وأخذ
+        <lb/>
+
+        رداءه وألقاه على العدل الذي يريد أن يأخذه ثمّ انصرف إلى منزله
+      </p>
+
+      <p n="The Partner Finds the Garb">
+        ثمّ جاء شريكه فنظر إلى الرداء
+      </p>
+
+      <p n="The Partner Moves the Garb">
+        فقال هذا والله رداء صاحبي والرأي
+        <lb/>
+
+        أن أضع رداءه على بعض أعداله لأنّه نسيه وربّما يسبقني للحانوت
+        <lb/>
+
+        فيجده ثمّ أخذ الرداء وألقاه على أعدال رفيقه وقفل
+        <lb/>
+
+        حانوته وانصرف إلى منزله
+      </p>
+
+      <p n="The Merchant Steals His Own Bale">
+        فلمّا كان الليل جاء رفيقه ومعه رجل
+        <lb/>
+
+        قد استأجره ليحمل له عدلًا فلمّا جاء إلى الحانوت فتحه وطلب
+        <lb/>
+
+        الإزار في الظلمة فوجده على الأعدال فاحتمل منها عدلًا
+        <lb/>
+
+        بعد الجهد العظيم حتّى اخترجه وجعل الرجل يحمله حتّى أتى إلى منزله
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

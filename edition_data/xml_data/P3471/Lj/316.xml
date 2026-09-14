@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="316"/>
+
+      <p n="Schemers Urge Quick Investigation">
+        ولا بدّ مفتّشًا فالعجل بذلك فإنّ عيونه وحواسّه مبثوثة بكلّ مكان
+      </p>
+
+      <p n="Schemers Say Jackal Will Manipulate Lion">
+        قال آخر إنّي قد علمت أنّ ابن آوى لو قد فُتّش منزله فاطُّلع على
+        <lb/>
+
+        خيانته لاختال بخبّه ومكره حتّى تشبّه على الملك فيعذره ويكذّب
+        <lb/>
+
+        بذلك ويكفّ عنه
+      </p>
+
+      <p n="Schemers Incite Lion's Suspicion">
+        فلم يزالوا بهذا الكلام وأشباهه حتّى وقع ذلك
+        <lb/>
+
+        في نفس الملك الذي هو الأسد واتّهامه لابن آوى
+      </p>
+
+      <p n="Lion Asks Jackal about Meat">
+        وأمر فدعا ابن
+        <lb/>
+
+        آوى فقال ما صنعت باللحم الذي أمرتك بالاحتفاظ به قال دفعته
+        <lb/>
+
+        إلى صاحب الطعام ليقرّبه إلى الملك عند غذائه
+      </p>
+
+      <p n="Lion Asks Steward about Meat">
+        فدعا صاحب الطعام
+        <lb/>
+
+        وكان ممّن شايع القوم وساعدهم على أمرهم فسأله عن اللحم فقال
+        <lb/>
+
+        ما أعطاني شيئًا
+      </p>
+
+      <p n="Meat Is Found in Jackal's House">
+        فبعث الأسد أمناءه ليفتّشوا منزل ابن آوى فلمّا
+        <lb/>
+
+        وصلوا إلى المنزل شمّوا فيه رائحة اللحم لأنّها لا يخفى عليها ريح أبدًا
+        <lb/>
+
+        والكلاب كذلك فدخلوا البيت فوجدوا اللحم فيه فأتوا به الأسد
+      </p>
+
+      <p n="Wolf Steps In">
+        فدنا من الأسد ذئب لم يكن تكلّم في شيء من تلك الأمور وكان
+        <lb/>
+
+        يُظهر أنّه من العدول الذين لا ينطقون إلّا فيما استبان لهم
+        <lb/>
+
+        أنّه الحقّ
+      </p>
+
+      <p n="Lion Must Punish Jackal">
+        فقال للأسد أمّا إذا اطّلع الملك على خيانة ابن آوى
+        <lb/>
+
+        هذا الخبيث فلا يعفونّ عنه فإنّه إن لم يعاقبه لم ينته المسيء عن
+        <lb/>
+
+        إساءته ولم يرغب المحسن في إحسان ولم يظهر الملك على خيانة
+        <lb/>
+
+        خائن ولا ذنب مذنب
+      </p>
+
+      <p n="Lion Has Jackal Arrested">
+        فأمر الأسد بابن آوى أن يُخرج من عنده
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

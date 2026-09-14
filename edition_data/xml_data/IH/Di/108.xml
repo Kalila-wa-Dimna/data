@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="108"/>
+
+      <p n="Dimna Claims Right to Self-Defense">
+        |قال كذاك الألمعي العاقل ### عن نفسه مجادل مناضل
+        <lb/>
+
+        |ماذا الذي أحفظُ إن أَضعتُها ### ومن تُرى أَرفِعُ إن وضعتُها
+        <lb/>
+
+        |هل لي نفسٌ غيرها فأدفعُ ### عنها الأذى مجتهدًا وأمنعُ
+      </p>
+
+      <p n="Who Does Not Protect Himself Is Useless to Others">
+        |ولن يصونَ رهطَهُ وعُرسَهُ ### مِن طالبٍ مَن لا يصونُ نفسَهُ
+        <lb/>
+
+        |الناسُ في ذا كلّهُمْ سواءُ ### حبُّ البقاءِ للأنامِ داءُ
+        <lb/>
+
+        |إذا أهنتُ مُهجتي لم أُكرِمِ ### خلًّا مِن الناسِ ولم أُعظِّمِ
+      </p>
+
+      <p n="Dimna Calls First Speaker Self-Hating">
+        |وقد بدا لدى الورى مِن قولِكا ### ما لم تُطِقْ كتمانَه في صدرِكا
+        <lb/>
+
+        |مِن حسدٍ وبُغضةٍ ذميمَهْ ### تُنشِئُها في نفسِك اللئيمَهْ
+        <lb/>
+
+        |وقد درى كلُّ الحُضورٍ أنّكا ### لستَ تحبُّ قطّ خيرَ نفسِكا
+        <lb/>
+
+        |فأنتَ أولى أن تحبَّ الضَيْرا ### للناسِ إذ لستَ تريدُ الخيْرا
+        <lb/>
+
+        |مِثلُك مَن نُزِّهَ عنه المجلسُ ### فأنت لا شكَّ لهُ مُدنّسُ
+      </p>
+
+      <p n="First Speaker Leaves Dejected/Is Silenced">
+        |فبهتَ القائلُ ممّا أسمعَهْ ### حقًّا لقد أفحمَهُ وقَطَعَهْ
+      </p>
+
+      <p n="The Mother Is Amazed by Dimna's Verbosity">
+        |قالتْ له السيّدةُ اللبيبَهْ ### تركُ الحياءِ والنُّهى عجيبَهْ
+      </p>
+
+      <p n="Dimna Calls the Mother Biased">
+        |فقال لِمْ بمُقلةٍ أبصرتِ ### وأُذنٍ واحدةٍ سمعتِ
+        <lb/>
+
+        |إنّي أرى نَحْسي وشؤمَ جَدّي ### قد سَلَبَ العالَمُ ثوبَ الرُّشْدِ
+        <lb/>
+
+        |فعدلوا جميعُهُمْ إلى الهَوى ### وانطبعَ الإفسادُ مِنهُمْ في القُوى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

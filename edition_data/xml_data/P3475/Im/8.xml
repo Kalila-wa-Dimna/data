@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="8"/>
+
+      <p n="The Merchant Executes the Plot">
+        ثمّ انطلق إلى صديق له وأخبره بالذي همّ به من ذلك وسأله
+        <lb/>
+
+        معاونته عليه فأبى عليه حتّى جعل له نصف ما يأخذ منه
+      </p>
+
+      <p n="The Partner Finds the Garb">
+        ثم إنّ شريك التاجر دخل البيت فأبصر سمسمه مغطًّا
+        <lb/>
+
+        برداء صاحبه
+      </p>
+
+      <p n="The Partner Moves the Garb">
+        فظنّ أنّه إنّما غطّاه من التراب والغبار شفقة
+        <lb/>
+
+        منه عليه فقال في نفسه قد أحسن شريكي في تغطية سمسمي وشفقته عليّ
+        <lb/>
+
+        وليكن سمسمه أحقّ أن يُغطّى بردائه وأخذ الرداء من سمسمه
+        <lb/>
+
+        فجعله على السمسم الذي لصاحبه
+      </p>
+
+      <p n="The Merchant Steals His Own Bale">
+        فلمّا كان الليل جاء
+        <lb/>
+
+        التاجر والرجل معه ودخلا البيت وهو مظلم فجعل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

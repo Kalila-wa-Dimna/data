@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M487</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="83"/>
+
+      <p n="Burzoy Disguises Misson By Study">
+        عن بغيته وحاجته
+      </p>
+
+      <p n="Burzoy Mingles With Indians">
+        واتّخذ أصدقاء كثير لطول مقامه في أهل الهند من
+        <lb/>
+
+        الأشراف والسوقة والعلماء والفقهاء ومن أهل كلّ طبقة وصناعة
+      </p>
+
+      <p n="Burzoy Chooses Friend">
+        وتخيرّ
+        <lb/>
+
+        من بين أصدقائه كلّهم رجلًا واحدًا اتخذه لسرّه وما يحبّ مشاورته
+        <lb/>
+
+        فيه للذي ظهر له من فضل أدبه وحسن عمله واستبان له حجّة إخائه
+      </p>
+
+      <p n="Burzoy Hides Mission From Friend">
+        وكان يشاوره ويرتاح إليه في كلّ ما يهمّه من الأمور إلّا أنّه يكتمه
+        <lb/>
+
+        الأمر الذي قدم له ممّا كان في نفسه
+      </p>
+
+      <p n="Burzoy Vets Friend">
+        حتّى وثق به وعرف أنّه موضع لما يودع
+        <lb/>
+
+        من الأسرار فلم يزل ينتخب من ذات نفسه حتّى وثق به وعرف أنّه موضع لما
+        <lb/>
+
+        يكتمه من الأسرار وفيما يطلب من احتمال مشقّة وساعد وبما يُستعان
+        <lb/>
+
+        عليه معين مجتهد
+      </p>
+
+      <p n="Burzoy Lavishes Gift On Friend">
+        فازداد له إلطافًا وبرًّا وكان ذلك اليوم الذي
+        <lb/>
+
+        رجا فيه أن يظفر بحاجته قد أعظم النفقة مع طول الغيبة والتلطّف
+        <lb/>
+
+        للإخوان ومجالستهم
+      </p>
+
+      <p n="Burzoy Opens Up To Friend">
+        فلم يوطّن نفسه إلى أحد منهم إلّا إلى ذلك الصديق
+        <lb/>
+
+        مع كثرتهم واختياره لهم
+      </p>
+
+      <p n="Process Of Vetting Friend">
+        فأمّا ما كلّم به بروزيه صديقه المختار
+        <lb/>
+
+        منهم وردّ عليه صديقه بعد أن عرف عقله وخبره
+      </p>
+
+      <p n="Burzoy Trusts Friend">
+        ووثق به واطمأنّ
+        <lb/>
+
+        إليه
+      </p>
+
+      <p n="Burzoy Hints At Secret">
+        فقال له وهما يومًا جالسان يا أخي ما أريد أن أكتمك من أمري فوق
+        <lb/>
+
+        الذي كتمتك فاعلمْ أنّي ﻷمر ما قدمت بلادكم وهو غير الذي يظهر منّي
+      </p>
+
+      <p n="Signs Suffice For The Intelligent">
+        والعاقل يكتفي من الرجل بعلامات من نظره حتّى يفهم سرّ نفس أخيه
+        <lb/>
+
+        وما يكتم قلبه عليه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

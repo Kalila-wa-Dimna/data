@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="112"/>
+
+      <p n="Dimna Applies the Tale's Deception to Ox to Justify His Killing">
+        قد استبان من عداوة الثور حتّى استحلّ بذلك قتله وإنّ ذلك جدير أن
+        <lb/>
+
+        يمنعه من الإقدام على قتلي مع علمه لنصيحتي له وحفظي له من وزرائه
+      </p>
+
+      <p n="Dimna Claims Status of Minor Servant">
+        إلى ما قد علم الملك من منزلتي في نفسي من خشانة الحال وصغر الحظّ وأنّي لا
+        <lb/>
+
+        أقدر على رفع نفسي عن نسبة العبوديّة ولا أطمع فيما يسمو إليه من فوقي
+      </p>
+
+      <p n="Dimna Denies Fear of Death">
+        وأنا
+        <lb/>
+
+        وإن كنت عند الملك صغير الحظّ أجد من عدله نصيبًا أعرف أنّ الملك معطينيه
+        <lb/>
+
+        من نفسه في حياتي وبعد موتي يهون عليّ الموت
+      </p>
+
+      <p n="Dimna Would Die for Lion">
+        وأحبّه إن قد علمت أنّ
+        <lb/>
+
+        الملك يطمئنّ ويفرح ويسكن إذا قتلني
+      </p>
+
+      <p n="The Sinner Who Accepts Death Is Saved in Hereafter">
+        فإنّ العلماء قالوا من أصاب خطيئة وإثمًا
+        <lb/>
+
+        ثمّ أسلم نفسه للقتل فدفع بها عن الصالحين عُفي عنه يوم القيامة ونجا من الشرّ
+        <lb/>
+
+        الدائم في الآخرة
+      </p>
+
+      <p n="Dimna Demands Self-Sacrifice from All Servants">
+        وينبغي للحقير مثلي من عبيد الملك الموسوم بالعبوديّة أن
+        <lb/>
+
+        يسلم نفسه فيما يصلح للملك العظيم التقيّ مثلك ثمّ وجب عليه أن يختار عاجل
+        <lb/>
+
+        عقوبة الدنيا على آجل عقوبة الآخرة
+      </p>
+
+      <p n="First Speaker Accuses Dimna of Self-Interest">
+        فقال بعض من حضر الملك من
+        <lb/>
+
+        جنوده أيّها الملك إنّ دمنة ليس يقول ما يقول تعظيمًا للملك ولا توقيرًا
+        <lb/>
+
+        له ولكنّه يريد أن يدفع عن نفسه ما قد نزل به من عاقبة سوء عمله
+      </p>
+
+      <p n="Dimna Claims Right to Self-Defense">
+        قال دمنة
+        <lb/>
+
+        من يحفظ نفسي إن أضعتها ومن يرفعها إن وضعتها هل لي نفس غيرها فأدفع
+        <lb/>
+
+        عنها الردى
+      </p>
+
+      <p n="Who Does Not Protect Himself Is Useless to Others">
+        ولن يصون رهطه من لم يصنْ نفسه أوَما علمتَ أنّه ليس على
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

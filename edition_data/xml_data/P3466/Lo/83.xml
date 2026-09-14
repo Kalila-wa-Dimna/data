@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="83"/>
+
+      <p n="unassigned">
+        وليس لنا من المنزلة ما يسخط له حالنا التي نحن عليه
+      </p>
+
+      <p n="Dimna's View on Social Mobility">
+        قال دمنة
+        <lb/>
+
+        إنّ المنازل متنازعة مشتركة فذو المروءة ترفعه مروءته من المنزلة
+        <lb/>
+
+        الوضيعة إلى المنزلة الرفيعة ومن لا مروءة له تحطّه نفسه من
+        <lb/>
+
+        المنزلة الرفيعة إلى المنزلة الوضيعة والارتفاع من الضعة إلى
+        <lb/>
+
+        المنزلة الشرفة شديد والانحطاط منها هيّن
+      </p>
+
+      <p n="Analogy of Lifting Heavy Objects">
+        ومثل ذلك
+        <lb/>
+
+        مثل الحجر الثقيل الذي رفعه من الأرض إلى العاتق ثقيل وطرحه
+        <lb/>
+
+        من العاتق إلى الأرض هيّن
+      </p>
+
+      <p n="Aspiration for Higher Status">
+        فنحن أحقّ أن نروم ما فوقنا من المنازل
+        <lb/>
+
+        ونلتمس ذلك بمروءاتنا ولا نقيم على منزلتنا
+      </p>
+
+      <p n="Ability to Change Circumstances">
+        ونحن نستطيع التحوّل
+        <lb/>
+
+        عنها
+      </p>
+
+      <p n="Kalila's Inquiry about Dimna's Plan">
+        قال كليلة فما هذا الذي أجمع عليه رأيك
+      </p>
+
+      <p n="Dimna's Strategy to Approach the Lion">
+        قال
+        <lb/>
+
+        دمنة أريد أن أتعرّض للأسد عند هذه الفرصة فإنّ الأسد ضعيف
+        <lb/>
+
+        الرأي وقد التبس عليه وعلى جنده أمرهم ولعلّي على هذه الحالة أن
+        <lb/>
+
+        أدنو من الأسد فأصيب منه منزلة وجاهًا قال كليلة ما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

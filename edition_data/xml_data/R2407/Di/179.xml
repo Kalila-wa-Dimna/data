@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="179"/>
+
+      <p n="The Mother Calls In Lion's Promise to Act">
+        وإنّ أمّ الأسد دخلت عليه
+      </p>
+
+      <p n="Pious Acts and Curbing Sin Cannot Wait">
+        وقالت إنّ العلماء قد قالوا
+        <lb/>
+
+        إنّه لا يجب للعاقل أن يتوانى في عمل التقوى وينبغي أن
+        <lb/>
+
+        يدافع بالعمل بالإثم
+      </p>
+
+      <p n="Who Helps Sinners Becomes Their Accomplice">
+        وإنّ معين صاحب الشرّ يقاسمه
+        <lb/>
+
+        الوزر يوم القيامة
+      </p>
+
+      <p n="Lion Orders Leopard and Judge to Try Dimna">
+        فلمّا سمع الأسد قول أمّه أمر بالنمر
+        <lb/>
+
+        فدخل عليه ثمّ أجلسه مجلس القضاء وأحضر الجند
+        <lb/>
+
+        جميعهم وأمر أن يُعمل على دمنة مجلسًا عامًّا ليسمعوا
+        <lb/>
+
+        الناس ما يقول عن نفسه ويُرفع ذلك إلى الملك
+      </p>
+
+      <p n="Leopard and Judge Convene Trial">
+        ففعلوا
+        <lb/>
+
+        وأحضروا دمنة بين يديّ النمر
+      </p>
+
+      <p n="Leopard Recalls the Lion’s Sorrow for Killing the Ox">
+        ثمّ قام النمر وقال بأعلى صوته
+        <lb/>
+
+        أيّها الجمع اعلموا أن سيّد السباع وملكها يرى
+        <lb/>
+
+        أنّ قتل شتربة على غير جرمٍ بقول دمنة ونميمته
+        <lb/>
+
+        وقد أمرني أن أجلس مجلس الحكم العادل وأفحص عن
+        <lb/>
+
+        أمره
+      </p>
+
+      <p n="Leopard Calls for Testimony">
+        فليقلْ كبيركم وصغيركم ما علم من شأن دمنة
+        <lb/>
+
+        على رؤس الأشهاد
+      </p>
+
+      <p n="Due Process Will Be Followed">
+        ليكون الحكم والقضاء في أمره بالعدل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

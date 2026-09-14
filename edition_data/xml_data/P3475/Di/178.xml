@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="178"/>
+
+      <p n="The Sinner Who Accepts Death Is Saved in Hereafter">
+        يدفع بها عن الصالحين عُفي له يوم القيامة ونجا من الشرّ
+        <lb/>
+
+        يوم في الآخرة
+      </p>
+
+      <p n="Dimna Would Die for Lion">
+        ولو كانت لي مائة نفس أعلم أنّ هوى الملك في
+        <lb/>
+
+        تَلَفهنّ طِبْتُ له بهنّ نفسًا
+      </p>
+
+      <p n="First Speaker Accuses Dimna of Self-Interest">
+        فقال بعض الجند لم تنطق بهذا
+        <lb/>
+
+        لحبّ الملك ولا كرامته ولكنّه لخاصة نفسك والتماس العذر لها
+      </p>
+
+      <p n="Dimna Claims Right to Self-Defense">
+        فقال دمنة ويلك وهل على امرئ في التماس ** أقرب إلى الامتنان
+        <lb/>
+
+        من نفسه فإذا لم يلتمس العذر فمن يلتمس
+      </p>
+
+      <p n="Dimna Calls First Speaker Self-Hating">
+        لقد ظهر منك
+        <lb/>
+
+        ما لم تملكه من الحسد والبغضاء وعرف من سمع قولك أنّك
+        <lb/>
+
+        عدوّ نفسك ومن سوّاها ومثلك لا يصلح أن يكون مع البهائم
+        <lb/>
+
+        دعْ من بحضرة الملك أو أن تكون ببابه
+      </p>
+
+      <p n="First Speaker Leaves Dejected/Is Silenced">
+        فلمّا أن أجابه بذلك
+        <lb/>
+
+        خرج خزيان منتحبًا
+      </p>
+
+      <p n="The Mother Is Amazed by Dimna's Verbosity">
+        فقالت أمّ الأسد إنّ من العجب انطلاق
+        <lb/>
+
+        لسانك بالقول مجيبًا لمن تكلّم وقد كان منك ما كان
+      </p>
+
+      <p n="Dimna Calls the Mother Biased">
+        قال
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

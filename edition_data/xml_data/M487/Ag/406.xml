@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M487</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="406"/>
+
+      <p n="Story Ascetic Guest">
+        قال الناسك زعموا أنّه كان بأرض الكرخ ناسكًا فاستضافه ضيف
+        <lb/>
+
+        يومًا من الأيّام فدعا الناسك لضيفه بتمر لطرفته عندهم فأكلا جميعًا
+      </p>
+
+      <p n="Guest Praise Dates">
+        قال الضيف للناسك ما أحلى هذا التمر
+      </p>
+
+      <p n="No Palm Trees At Home">
+        فليت أرضنا التي نسكنها أرض
+        <lb/>
+
+        نخل وتمر
+      </p>
+
+      <p n="Dont Seek Unattainable">
+        قال الناسك إنّه لا يُعدّ سعيدًا من احتاج إلى ما يجده فتشره لذلك
+        <lb/>
+
+        نفسه ولا يقدر على الصبر عنه
+      </p>
+
+      <p n="Be Satisfied With What You Have">
+        وأنت سعيد الجدّ إذا قنعت بما وجدت وزهدت
+        <lb/>
+
+        فيما لم تجد
+      </p>
+
+      <p n="Monk Spoke Hebrew">
+        وكان الناسك يتكلّم بالعبرانيّة
+      </p>
+
+      <p n="Guest Fancies Hebrew">
+        فاستحسن كلامه وأعجبه
+      </p>
+
+      <p n="Guest Tries To Learn Hebrew">
+        فتكلّف أن يعلمه نفسه بذلك أيّامًا
+      </p>
+
+      <p n="Mention Crow Story">
+        فقال له الناسك ما أحقّك
+        <lb/>
+
+        أن تقع فيما تطلبه من التعليم للسان العبرانيّ فيما وقع فيه الغراب
+      </p>
+
+      <p n="Guest Request Crow Story">
+        قال الضيف وكيف كان ذلك
+      </p>
+
+      <p n=". Crow Story Intro">
+        قال الناسك زعموا أنّ غرابًا رأى حجلة تمشي فأعجبه مشيها وطمع أن
+        <lb/>
+
+        يمشي مشي الحجلة
+      </p>
+
+      <p n=". Crow Lost Original Walk">
+        فلمّا يئس منها أراد أن يعود إلى مشيته الأولى فلم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

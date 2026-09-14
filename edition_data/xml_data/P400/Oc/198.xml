@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="198"/>
+
+      <p n="Wife Hates Husband">
+        وكانت لا تضاجعه بالليل
+      </p>
+
+      <p n="Thief Breaks In">
+        فبينما هما نائمان إذ دخل عليهما
+        <lb/>
+
+        لصّ فاستقظت المرأة فرأته ففزعت منه
+      </p>
+
+      <p n="Wife Hugs Old Man">
+        فالتزمت زوجها فقال
+        <lb/>
+
+        زوجها ليت شعري ما بدا لك فيّ وما الذي أعطفك عليّ
+      </p>
+
+      <p n="Old Man Notices Thief">
+        ورفع رأسه
+        <lb/>
+
+        وإذا اللصّ فعرف أنّ الخشية منه هو الذي دعاها إلى ما صنعت
+      </p>
+
+      <p n="Old Man Rewards Thief">
+        فقال أيّها اللصّ قد آتيت إليّ ما شكره جدير إذ وفّقت ما إن أنا له
+        <lb/>
+
+        محبّ وهو لي مباعد فخذْ من متاع البيت ما بدا لك
+      </p>
+
+      <p n="King O Asks Third Owl">
+        ثمّ قال
+        <lb/>
+
+        ملك البوم للثالث ما رأيك في هذا الغراب
+      </p>
+
+      <p n="Welcome Estranged Friend Of Foe">
+        فقال ما أرى أن تقتله
+        <lb/>
+
+        فإنّ المرء إذا ظفر بصديق عدوّه قد استيقن به وأُسخط وعُذّب كان
+        <lb/>
+
+        باستبقاءه جدير أن يصيب من منفعته
+      </p>
+
+      <p n="Mention Thief Demon Story">
+        <> مثل ما وصل إلى الرجل الذي نجا
+        <lb/>
+
+        من البلاء لقتل الشيطان اللصّ
+      </p>
+
+      <p n="King Request Thief Demon Story">
+        فقال ملك البوم وكيف
+        <lb/>
+
+        كان ذلك
+      </p>
+
+      <p n="Story Thief Demon Cow">
+        مثل فقال زعموا أنّ ناسكًا مرّة أصاب بقرة
+        <lb/>
+
+        حلوبًا فرآها اللصّ فحدّث نفسه باستراقها وانبعث لذلك شيطان
+        <lb/>
+
+        فصحبه في صورة إنسان
+      </p>
+
+      <p n="Thief And Demon Plot">
+        فقال له من أنت وما تريد فقال له
+        <lb/>
+
+        أنا شيطان أطلب هذا الناسك لأخنقه وقال اللصّ وأنا أريد
+        <lb/>
+
+        أذهب ببقرته فاتّبعاه حتّى أتى منزله بعد هدوء من الليل
+      </p>
+
+      <p n="Man Goes To Sleep">
+        فأدخل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

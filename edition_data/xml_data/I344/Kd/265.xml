@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="265"/>
+
+      <p n="unassigned">
+        وأمّا هذه الرسل الذي أخبرتك بها والألطاف فإنّها تأتيك
+        <lb/>
+
+        وبين سبعة أيّام
+      </p>
+
+      <p n="King Is Thankful">
+        فلمّا سمع المَلك ذلك سجد لله شكرًا وأحمد كينارون العالم
+      </p>
+
+      <p n="Kings Joy">
+        واشتدّ فرح المَلك بذلك
+      </p>
+
+      <p n="King Regrets Sharing Secret">
+        ولام نفسه على إفشاء سرّه للبرهميين
+      </p>
+
+      <p n="One Must Consult Right People">
+        فقال المَلك لهذا ينبغي للعاقل مشاورة أهل النصيحة
+      </p>
+
+      <p n="Queens Advice Saved King">
+        فإنّ
+        <lb/>
+
+        هلبتًا أشارت عليّ بخير وإنّي قبلته واغتبطت به وثبّت الله به
+        <lb/>
+
+        مُلكي برأي الأخلّاء والنصحاء
+      </p>
+
+      <p n="King Appreciates Wise Man">
+        واستبان لي قول كينارون العالم وصدقه
+      </p>
+
+      <p n="Gift To Be Distributed To All Victims">
+        ثمّ دعا المَلك هلبتًا وغيرها ممّن كان أُشير عليه بقتله بعد أن توافت
+        <lb/>
+
+        الهدايا عنده والتمام سبعة أيّام والام
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

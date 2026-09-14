@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="190"/>
+
+      <p n="Dimna Calls Courtier Unfit for Court">
+        وعبرته فلمّا رأى دمنة انكساره قال إنّه لينبغي أن يطول
+        <lb/>
+
+        بكاؤك وتشتدّ كآبتك لعلمك أنّ الملك لو قد اطّلع على قدرك
+        <lb/>
+
+        وذنوبك طردك وعزلك عن طعامه وحال بينك وبين
+        <lb/>
+
+        خدمته
+      </p>
+
+      <p n="Lion Appoints a Court Secretary to Report to Him">
+        وكان الأسد قد أمر ابن آوى كان قد عرفه
+        <lb/>
+
+        بالصدق والأمانة والعفاف يُسمّى شهرة أن يُحضر مجمع
+        <lb/>
+
+        الجند ودمنة ويعي ما يرى ويسمع منهم ويأتيه به
+      </p>
+
+      <p n="Lion Is Informed by Court Secretary and Ousts Courtier">
+        فلمّا فرغ
+        <lb/>
+
+        دمنة من مجادلة رأس الخنازير انطلق شهرة إلى الأسد
+        <lb/>
+
+        فأخبره بما سمع فشغل على الأسد مكان رأس الخنازير
+        <lb/>
+
+        من طعامه وخدمته وقذره فأمر بعزله عن عمله وأن
+        <lb/>
+
+        ينجى حيث لا يراه
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded, He Is Returned to Prison; End of First Day of Trial">
+        ومكث دمنة موقوفًا يبحث عنه حتّى
+        <lb/>
+
+        مضت ستّ ساعات من النهار وكتب الكاتب ما سمع
+        <lb/>
+
+        من منازعة دمنة وخصومته من حضره وختم الكتاب
+        <lb/>
+
+        بخاتم النمر والقاضي وأخذ النمر الكتاب وأمر بإعادة
+        <lb/>
+
+        دمنة إلى مسجنه وقام إلى منزله وتفرّقت الجماعة
+      </p>
+
+      <p n="Ruzbeh Is Kalīla's Friend">
+        وانطلق
+        <lb/>
+
+        ابن آوى يُسمّى روزبة كان لكليلة صفيًّا ومن الملك
+        <lb/>
+
+        بمكان خاصّ
+      </p>
+
+      <p n="Ruzbeh/Fayruz Tells Dimna of Kalila's Death">
+        فدخل على دمنة فأخبره بموت كليلة
+      </p>
+
+      <p n="Dimna Grieves for Kalila">
+        واشتدّ
+        <lb/>
+
+        لذلك جزع دمنة وحزنه ورقّته فبكى طويلًا ثمّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

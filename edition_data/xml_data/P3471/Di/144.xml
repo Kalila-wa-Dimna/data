@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="144"/>
+
+      <p n="Wife Asks Him to Investigate">
+        غير هاتين الكلمتين شيئًا
+      </p>
+
+      <p n="The Parrots Will Turn Out to Be Trained">
+        فإن أحسنا الجواب فالأمر على ما يقولان
+        <lb/>
+
+        وما شهد به الفاجر الكذّاب وإن لم يكونا يحسنان من كلام البلخيّة
+        <lb/>
+
+        غير هاتين الكلمتين فاعلم يا سيّدي ومن حضرك أنّ هذا من تعليم
+        <lb/>
+
+        المحتال بازيارك فإنّه كان راودني عن نفسي فأبيت عليه وامتنعت
+        <lb/>
+
+        منه
+      </p>
+
+      <p n="Falconer's Training of Parrots Is Discovered">
+        فطلب الرجل إلى أضيافه البلخيّين أن يكلّموها بالبلخيّة ففعلوا
+        <lb/>
+
+        ذلك فلم يجدوهما يعلمان غير الكلمتين المذوكورتين اللتين علّمهما البازيار
+        <lb/>
+
+        فاستبان للمرزبان ومن حضره حَصانة المرأة وأمانتها وأنهائها
+        <lb/>
+
+        فيما ذكرت وكذب البازيار وافترائه
+      </p>
+
+      <p n="Falcon Gouges Out His Eyes">
+        ثمّ إنّ المزربان أمر بأن يُدخل
+        <lb/>
+
+        عليه البازيار فأُدخل عليه وأبقى بنفسه كأنّه لا ذنب له وعلى يده بازًا
+        <lb/>
+
+        صعبًا كان يعلمه فنادته سيّدته من خلفه ويلك أنت رأيت عليّ
+        <lb/>
+
+        ما قد فتنتني به قال أمّا إذا سألتيني فنعم قد رأيتك على فراش سيّدي
+        <lb/>
+
+        غريرة فوثب الباز الذي على يده فأهوى إلى عينيه فانتزعهما بمخالبيه
+      </p>
+
+      <p n="Wife Interprets This As God Punishing False Testimony">
+        فقالت المرأة لقد عجّل الله لك النِكال وبالعدل أصابك
+        <lb/>
+
+        هذا الجزاء في عينيك اللتين بهما شهدت بما لم تبصره عليّ وقذفك
+        <lb/>
+
+        لي بالزور والباطل
+      </p>
+
+      <p n="A Liar Suffers Punishment in Here and Hereafter">
+        وإنّما ضربت هذا المثل لتزداد علمًا وبصرًا
+        <lb/>
+
+        ورويّةً وتعلموا أنّه ليس لشاهد الزور وناطق الفجور والباطل
+        <lb/>
+
+        مخلصٌ في عاجلٍ ولا آجلٍ ولا يكون لمن شهد بالكذب خيرين له في
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

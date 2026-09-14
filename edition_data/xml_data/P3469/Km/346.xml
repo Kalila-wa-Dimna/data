@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="346"/>
+
+      <p n="The Donkey Wants to Escape Misery">
+        رمح فإنّ آبائي وأجدادي لو اجتهدوا في تلك لكانوا أكفوني
+        <lb/>
+
+        مؤنة الطلب
+      </p>
+
+      <p n="A Stag Comes to the River">
+        فبينما هو يهدم ويبني في تحصيل سلاح إذ
+        <lb/>
+
+        أقبل رجل وعلى يده أيل له قرون من أعظم الخلقة ليسقيه
+        <lb/>
+
+        من ذلك النهر
+      </p>
+
+      <p n="The Stag Impresses the Donkey">
+        فلمّا رأى الحمار ذلك الأيل وتميّز في المعنى
+        <lb/>
+
+        قرونه وأنّه في المعنى الذي أراده دُهش منه
+      </p>
+
+      <p n="The Donkey Wants to Serve the Stag">
+        وقال
+        <lb/>
+
+        ما حمل هذا هذه القرون إلا وعنده رماح وقِسيّ وسائر
+        <lb/>
+
+        أنواح السلاح وبلا شكّ أنّه ماهر في الفروسيّة ولو استوى
+        <lb/>
+
+        لي أنّني أهرب من هذا الموضع إلى هذا الأريل وأخدمه
+        <lb/>
+
+        مدّة وكنت ملازمه لكنت أفرس منه وكان هوّ أيضًا إذا
+        <lb/>
+
+        رأى ملازمتي وخدمتي ونصيحتي لم يبخل عليّ بشيء
+        <lb/>
+
+        من هذا السلاح الذي عنده
+      </p>
+
+      <p n="The Donkey Intrigues the Stag">
+        فلمّا رأى الأريل حال الحمار
+        <lb/>
+
+        وهيجانه وقوّة تخبيطه أمسك عن شرب الماء وبهت
+        <lb/>
+
+        إليه
+      </p>
+
+      <p n="The Donkey is Encouraged by the Stag">
+        فقال الحمار ما يمنعه من الشرب إلاّ رأي رآه فيّ
+        <lb/>
+
+        وأنّه فرح بي
+      </p>
+
+      <p n="The Donkey Feels Fortunate">
+        وأنّ الله وفّق لي هذا عندما فكّرت بسعادة
+        <lb/>
+
+        من فوق يا ليت شعري بأيّ طالع ولدت
+      </p>
+
+      <p n="The Donkey Watches the Stag Return Home">
+        ثمّ إنّ صاحب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

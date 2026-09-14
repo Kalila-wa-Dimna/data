@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="187"/>
+
+      <p n="Head of Court Deems Extant Facts Sufficient">
+        وقال قد أتاني خبرك يا دمنة بالأمس من الأمين
+        <lb/>
+
+        الصادق وليس ينبغي أن يفحص عن شأنك أكثر
+        <lb/>
+
+        من الذي فحصنا وإن كان خبّرنا من نثق بقوله
+      </p>
+
+      <p n="King's Mercy Permitted Investigation Despite Convincing Testimony">
+        لكن
+        <lb/>
+
+        سيّدنا أمرنا بالعودة لإحضارك
+      </p>
+
+      <p n="Dimna Accuses Head of Court of Ignoring Facts">
+        قال دمنة أراك لم
+        <lb/>
+
+        تعد بالعدل في القضاء وليس في دفع المظلوم كمن
+        <lb/>
+
+        لا ذنب له
+      </p>
+
+      <p n="After Three Days Dimna's Guilt Is Unproven">
+        فإن أرى أن أقتل وإن لم فأخصم وتجعل
+        <lb/>
+
+        هذا لموافقة هواك فاجعل وهذا الأمر لم يمضي له ثلاثة
+        <lb/>
+
+        أيّامٍ
+      </p>
+
+      <p n="Vile People Dislike Good People">
+        ولكن صدق الذي قال إنّ الذي تعوّد بالعدل
+        <lb/>
+
+        والبراهين عملُه عمل البرّ وهو مصرٌّ بمن عمله عمل الفاجر
+      </p>
+
+      <p n="A Judge Has the Authority to Punish and Reward">
+        قال القاضي إنّا نجد في كتب الرشد أنّ القاضي العادل
+        <lb/>
+
+        ينبغي له أن يعمل عمل المحسنين ليجازي المحسن بإحسانه
+        <lb/>
+
+        والمسيء بإساءته
+      </p>
+
+      <p n="Judge Enjoins Dimna to Confess">
+        والرأي لك يا دمنة أن تنظر الذي
+        <lb/>
+
+        وقعت فيه من الذنب فتعترف به وتتوب منه
+      </p>
+
+      <p n="A Judge Must Not Pass Verdict Based on Uncertain Thoughts">
+        فأجابه
+        <lb/>
+
+        دمنة أن صالحي القضاة لا يقضون بالظنّ ولا يعملون
+        <lb/>
+
+        به لمعرفتهم أن الظنّ لا يُغني من الحقّ شيئًا
+      </p>
+
+      <p n="Dimna's Knowledge of His Own Innocence Is Certainty">
+        وأنتم جميعكم
+        <lb/>
+
+        إن ظننتم أنّي مجرمٌ فيما فعلت بأمري فإنّي أنا أعلم
+        <lb/>
+
+        منكم بنفسي
+      </p>
+
+      <p n="Judge's Demand of Confession Is False Counsel or Ruse Not Befitting Judges">
+        فأكفف أيّها القاضي عن هذه المقالة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

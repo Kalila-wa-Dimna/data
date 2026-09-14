@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="118"/>
+
+      <p n="Punishment of Crime is a Deterrent">
+        ومنها مواقع الأحكام من نكال أهل الأحداث وعظة أهل البراءة
+        <lb/>
+
+        والتحصين للأمور من ذرّيّة أهل الفساد
+      </p>
+
+      <p n="Eliminating Criminals Benefits Society">
+        ومنها الراحة من أهل المغالّة
+        <lb/>
+
+        والغشّ وقطع أسباب مؤذياتهم على الخاصّة والعامّة
+      </p>
+
+      <p n="All Attendees are Silent">
+        فلمّا قضى قوله
+        <lb/>
+
+        ذلك سكت جميع من حضر ولم ينطقْ أحد منهم بشيء لأنّهم لم يعلموا من أمره
+        <lb/>
+
+        علمًا واضحًا يتكلّموا به وكرهوا القول بالظنون
+      </p>
+
+      <p n="Dimna Challenges All Only to Say What They Know">
+        فلمّا رأى دمنة
+        <lb/>
+
+        سكوتهم تكلّم وقال إنّي لو كنت مجرمًا سُررت بسكوتهم عن القول
+        <lb/>
+
+        في أمري ولكنّي بريء قد علمتم ذلك أو لم تعلموا لي جرمًا لأنّ كلّ من لا
+        <lb/>
+
+        يُعلم له جرم فلا سبيل عليه فهو بريء إذ لا بدّ من أن تقولوا فيّ بعلمكم
+        <lb/>
+
+        وليعلم مع ذلك من عسى أن يقول في أمري أنّ لكلّ قول عاقبة عاجلة
+        <lb/>
+
+        وآجلة وأنّ قوله في أمري حكم في إحياء نفسي أو موتها
+      </p>
+
+      <p n="Dimna's Second Subtale of Ignorant Physician">
+        فمن عرّضني للعطب
+        <lb/>
+
+        بغير علم أو قال في أمري بالظنّ أصاب من عاقبة قوله ما أصاب الطبيب
+        <lb/>
+
+        الذي انتحل من علم ما لم يعلم
+      </p>
+
+      <p n="Judge Request Tale">
+        قال القاضي وكيف كان ذلك
+      </p>
+
+      <p n="Famous Physician Dies or Goes Blind">
+        قال
+        <lb/>
+
+        دمنة كان في بعض المدائن طبيب له رفق وعلم وكان مع ذلك ذو
+        <lb/>
+
+        حظّ ممّا يجري على يديه من مقادير العافية فيما يعالج به الناس من طبّه
+        <lb/>
+
+        وأدويته فكبر ذلك الطبيب وذهب بصره
+      </p>
+
+      <p n="Quack Appears in Town">
+        وإنّ رجلًا سفيهًا ادّعى علم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

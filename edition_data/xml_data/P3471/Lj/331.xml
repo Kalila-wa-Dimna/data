@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="331"/>
+
+      <p n="Lion Repents and Reconciles Jackal">
+        فيما يستقبل أثبت مودّة وأوثق نصيحة ممّا كنّا عليه
+      </p>
+
+      <p n="Lion Hopes for Renewed Mutual Trust">
+        وأنا واثق
+        <lb/>
+
+        أنّه سينسيك ما سلف من إحساننا إليك وما يتجدّد لك من إكرامنا
+        <lb/>
+
+        وعندنا من الكرامة لك والبذل ما بدر من ما فرط منّا في أمرك وقد عدنا
+        <lb/>
+
+        للثقة بك فعُدْ أنت للثقة بنا وبما قبلنا فإنّه كائن لك غبطة
+        <lb/>
+
+        وسرور
+      </p>
+
+      <p n="Lion Reinstates Jackal">
+        ثمّ أمر ابن آوى أن يرجع إلى منزلته التي كانت عليها
+        <lb/>
+
+        وعمله الذي كان يلي من أمر الأسد فرجع فأصاب من الأسد ما أحبّ
+      </p>
+
+      <p n="Lion Punishes Schemers">
+        وحفظ الأسد معرفة الذين بغوا عليه فبغى عليهم في المستقبل
+        <lb/>
+
+        وقتلهم
+      </p>
+
+      <p n="Lion Is Pleased with Jackal">
+        ولم تزلْ الأيّام تزيد ابن آوى سرورًا وتحدث للأسد
+        <lb/>
+
+        بابن آوى انتفاعًا واحتياطًا حتّى هلك
+      </p>
+
+      <p n="Gist Mistreated Is Reinstated">
+        فهذا مثل الملوك <>
+      </p>
+
+      <p n="Philosopher Comments">
+        ثمّ قال الفيلسوف فإذا كان الأسد ينظر في مراجعة وزيره
+        <lb/>
+
+        ونصيحته ويطلب ذلك منه ويرغب فيه وكان وزيره يجيبه
+        <lb/>
+
+        إلى ذلك ويعرف حظّه فيه بعد ما سلف منه إليه
+      </p>
+
+      <p n="People Should Learn from Parable">
+        فالملك وأهل
+        <lb/>
+
+        خاصّته جدراء أن يأخذوا من ذلك بما يزيّن أمورهم ويكون فيه
+        <lb/>
+
+        الرشد لهم والحظّ وعظم التوفيق للخير وكلّ شيء قصدوه يتمّ
+        <lb/>
+
+        لهم إن شاء الله تعالى
+      </p>
+
+      <p n="End of Chapter">
+        تمّ وكمل باب الأسد وابن آوى الناسك
+        <lb/>
+
+        واسمه السفهير الصوّام والحمد لله وحده
+      </p>
+
+      <p n="unassigned">
+        وهو هذا
+        <lb/>
+
+        باب السائح والصائغ الغادر والبير
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

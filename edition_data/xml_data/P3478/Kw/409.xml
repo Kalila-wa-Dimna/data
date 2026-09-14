@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3478</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="409"/>
+
+      <p n="unassigned">
+        الدهر ونوائبه فهل رأيت أحدًا سلم من عثرات الدهر
+        <lb/>
+
+        ونوائبه ونكبات الزمان في نفسه أو في ذوي مودّته
+        <lb/>
+
+        أم رأيت أحدًا دامت له الدنيا بسرورها ونعيمها
+        <lb/>
+
+        فتدوم لنا
+        <lb/>
+
+        قالت الأنثى لقد حدث لك أمرًا فيه غمّ وهمّ وقال المرزم
+        <lb/>
+
+        إنّ ذلك لكذلك وليس إلّا هو فيك فإن أنت أطعتيني
+        <lb/>
+
+        وصرت إلى قولي فتالحر أن يكون في ذلك دفع لما
+        <lb/>
+
+        اشتقنا عليه من البلاء فيك قالت الأنثى وما ذلك
+        <lb/>
+
+        قال المرزم أنّا وإن كنّا متباينتين في الجنس فقد أجرى
+        <lb/>
+
+        الله بيننا الإخاء والخلطة والمؤانسة ما هو أكثر
+        <lb/>
+
+        عندنا ممّا بين الرحم وأشحّ القرابة وإنّ في أكثر القرابات
+        <lb/>
+
+        واللحمة من العداوة وسوء النيّة وفساد الضمير ما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kw</chapter>
+  </chapter>
+</TEI>

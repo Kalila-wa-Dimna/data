@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="52"/>
+
+      <p n="The Rabbit's Request">
+        ولا يقرّبني إليه لعلّي أبطئ عليه ساعة حتّى يتأخر غذاؤه
+      </p>
+
+      <p n="The Animals Agree">
+        فقلن لها لك ذلك
+      </p>
+
+      <p n="The Rabbit's Delay">
+        قال
+        <lb/>
+
+        فانطلقت الأرنب متأخرة حتّى جاوزت الساعة التي كان يتغذّى الأسد فيها وجاع
+        <lb/>
+
+        الأسد جوعًا شديدًا فغضب من ذلك وحرد ثمّ قام عن موضعه يتمشّى وينظر يمينًا
+        <lb/>
+
+        وشمالًا
+      </p>
+
+      <p n="The Lion's Confrontation">
+        فلمّا رآها مقبلة قال ما أبطأك ومن أين جئت
+      </p>
+
+      <p n="The Rabbit's Lie">
+        فقالت له من عند الوحوش وأنا
+        <lb/>
+
+        رسولهم إليك وكانت ب صحبتي أرنب فلمّا كنّا قرّبنا منك تعرّض لنا أسد فانتزعها منّي
+      </p>
+
+      <p n="The Lie Continues">
+        فقلت له إنّها طعام الملك فسبّك وأخطأ عليك
+      </p>
+
+      <p n="The Usurper's Claim">
+        وقال أنا أحقّ منه بهذه الأرض
+        <lb/>
+
+        وما فيها
+      </p>
+
+      <p n="The Rabbit Reports">
+        فأتيتك لأخبرك بذلك
+      </p>
+
+      <p n="The Lion's Rage">
+        قال فغضب الأسد عند ذلك غضبًا شديدًا وقال
+        <lb/>
+
+        لها انطلقي فأرني إيّاه
+      </p>
+
+      <p n="Leading the Lion to the Well">
+        فذهبت به الأرنب إلى جبّ صافي الماء
+      </p>
+
+      <p n="The Rival's Location">
+        فقالت له هذا مكانه وهو
+        <lb/>
+
+        فيه
+      </p>
+
+      <p n="Pointing at the Reflection">
+        قال فنظر الأسد في الجبّ فإذا هو نظر إلى ظلّه فوثب من ساعته وهو لا يشكّ
+        <lb/>
+
+        أنّ الأمر كذلك فغرق الأسد في الماء وولّت الأرنب هاربة
+      </p>
+
+      <p n="Kalila's Conditional Approval">
+        فقال كليلة لدمنة إن قدرت على هلاك الثور بشيء ليس فيه على الأسد مضرّة فشأنك
+        <lb/>
+
+        وإيّاه فإنّه قد أضرّ بك وبنا
+      </p>
+
+      <p n="Kalila's Warning">
+        وإن أنت لم تقدر على ذلك إلّا بما يضرّ الأسد فلا
+        <lb/>
+
+        تقدم على ذلك فإنّه غدر منك ولؤم وكفر
+      </p>
+
+      <p n="Dimna Stays Away from the Lion">
+        قال ثمّ إنّ دمنة ترك الدخول على
+        <lb/>
+
+        الأسد أيّامًا لا يدخل عليه وانقطع منه مدّة طويلة
+      </p>
+
+      <p n="The Lion Asks Dimna About His Absence">
+        ثمّ دخل عليه بعد ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

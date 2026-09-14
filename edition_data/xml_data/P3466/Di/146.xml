@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="146"/>
+
+      <p n="Dimna Inquires About the Lion's Dejection">
+        أمر أحزن الملك وجمعكم له كما أرى
+      </p>
+
+      <p n="The Mother Declares Dimna Responsible">
+        فقالت أمّ الأسد لدمنة
+        <lb/>
+
+        إنّما يحزن الأسد أيّها الخائن بقاؤك حيًّا ولو طرفة عين ولن يدعك
+        <lb/>
+
+        بعد اليوم
+      </p>
+
+      <p n="Dimna Wants to Know His Alleged Crime">
+        قال دمنة وما الذي صنعت حتّى كره سيّدي بقائي
+      </p>
+
+      <p n="The Mother Blames Dimna for Instigating the Lion">
+        قالت أمّ الأسد تحميلك سيّدنا على خليله البريء ووشيُك إليه
+        <lb/>
+
+        بالكذب والنميمة
+      </p>
+
+      <p n="Good People Suffer Misfortune Fastest">
+        قال دمنة ما أرى الأوّل ترك للأخير مقالًا
+        <lb/>
+
+        فإنّه كان يُقال ما أرى الأوّل ترك للأ إنّ أشدّ الناس في
+        <lb/>
+
+        توقّي الشرّ يصيبه الشرّ قبل المستسلم
+      </p>
+
+      <p n="Who Keeps Bad Company Does Not Escape Evil">
+        فلا يكوننّ للمك ولا
+        <lb/>
+
+        لجنوده المثل السوء ولا لخاصّته وقد قيل إنّه من صحب الأشرار وهو
+        <lb/>
+
+        يعلم علمهم كان أذاه من قِبَل نفسه
+      </p>
+
+      <p n="Ascetics Shun People's Company">
+        ولذلك انقطعت النسّاك
+        <lb/>
+
+        بأنفسها واختارت الوحدة على المخالطة وحبّ العمل
+        <lb/>
+
+        لله على حبّ الدنيا وأهلها
+      </p>
+
+      <p n="Only God Rewards Justly">
+        فإنّه ليس من يجزي بالخير خيرًا وبالإحسان
+        <lb/>
+
+        إحسانًا إلّا الله ومن طلب الجزاء على الخير من الناس كان حقيقًا
+        <lb/>
+
+        أن يخطر بالحرمان إذ يخطئ الصواب في خلوص العمل لغير الله وطلب
+        <lb/>
+
+        الجزاء من الناس
+      </p>
+
+      <p n="A King's Advisors Deserve Recognition/A King's Subjects Desire Good Character and Deeds">
+        وإنّ أحقّ ما رغبت فيه رعيّة الملك هو محاسن
+        <lb/>
+
+        الأخلاق ومواقع الصواب وجميل السِيَر
+      </p>
+
+      <p n="Dimna Claims He Only Warned Lion of Ox's Treason">
+        فأمّا أنا فإنّي نصحت
+        <lb/>
+
+        لسيّدي فأطلعته على ما اطّلعت عليه من أمر العدوّ
+      </p>
+
+      <p n="Dimna Feels Ill-Rewarded for Warning the King">
+        فما كان
+        <lb/>
+
+        جزائي منه على النصيحة أن يكره بقائي
+      </p>
+
+      <p n="The Mother Is Outraged by Dimna's Pretended Innocence">
+        قالت أمّ الأسد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

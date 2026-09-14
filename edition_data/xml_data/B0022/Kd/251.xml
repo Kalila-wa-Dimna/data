@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>B0022</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="251"/>
+
+      <p n="King And Vizier Tale Mention">
+        وبلاذ صاحب سرّه ورأيه
+      </p>
+
+      <p n="King Requests Story">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="Pious Vizier">
+        وكان ناسكًا
+        <lb/>
+
+        مجتهدًا لبيبًا حليمًا عالمًا كاملًا في جميع أموره
+      </p>
+
+      <p n="King Dreams">
+        فبينما الملك
+        <lb/>
+
+        ذات ليلة إذ رأى في منامه ثمانية أحلام يستيقظ عند كلّ حلم
+        <lb/>
+
+        منها
+      </p>
+
+      <p n="King Summons Brahmins">
+        فلمّا أصبح دعا البراهمة وهم النساك
+      </p>
+
+      <p n="King Has Brahmins Interpret Dreams">
+        فقصّ رؤياه عليهم وأمرهم
+        <lb/>
+
+        أن يخبروه بتأويلها
+      </p>
+
+      <p n="Brahmins Dramatize Dreams">
+        فقالوا أيّها الملك لقد رأيت أمرًا منكرًا
+        <lb/>
+
+        فضيعًا لم نسمع بمثله
+      </p>
+
+      <p n="Brahmins Request Delay">
+        فإن رأيت أن تنطلق إلى النظر لتأويله ستّة
+        <lb/>
+
+        أيام ونأتيك اليوم السابع بتأويله ولعلّنا نستطيع دفع ما تكرهه
+        <lb/>
+
+        عنك أيّها الملك
+      </p>
+
+      <p n="King Grants Delay">
+        قال انطلقوا
+      </p>
+
+      <p n="King Order Brahmins Counsel">
+        وأتوني بما يسّر من تأويلها
+        <lb/>
+
+        واعملوا رأيكم فيما يوافق
+      </p>
+
+      <p n="Brahmins Promise Good">
+        قالوا سمعًا وطاعة لك أيّها الملك
+      </p>
+
+      <p n="Brahmins See Chance">
+        فخرجوا من عنده واجتمعوا فيما بينهم ثمّ قالوا لم يضلّ العهد
+        <lb/>
+
+        منذ قتل هذا الملك منّا اثني عشر ألفًا وقد تمكّنا منه إذ
+        <lb/>
+
+        أقضى إلينا بسرّه وعرفنا فرقه من ورائه ورؤياه
+      </p>
+
+      <p n="Brahmins Plan Revenge">
+        فلعلّنا أن
+        <lb/>
+
+        ننتقم منه إن نحن غلظنا له في القول ونخوّفه فيحمله الخوف على
+        <lb/>
+
+        أن يتابعنا على ما نريد
+      </p>
+
+      <p n="Brahmins Will Order Killings">
+        فنأمره أن يدفع علينا من يعظم عليه من
+        <lb/>
+
+        أهل مملكته ورأيه فنقول له قد نظرنا في كتبنا فلم نقدر على أن
+        <lb/>
+
+        نصرف عنك شيئًا إلاّ أن تقتل
+      </p>
+
+      <p n="Brahmins List Of Victims">
+        ابزاخت وابنها وجوير وابن
+        <lb/>
+
+        أخيك وبلاذ صاحب أمرك وكان الكاتب ونريد سفيك الذي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

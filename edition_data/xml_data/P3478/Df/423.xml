@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3478</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="423"/>
+
+      <p n="unassigned">
+        وملكت الأقاليم السبعة وأُعطيت من كلّ شيء سببًا في سرور
+        <lb/>
+
+        منك وقرّة عين من رعيّتك بل ومساعدة من القضاء والقدر
+        <lb/>
+
+        لك فإنّه قد تحمل فيك الحِلم والعِلم وزُكّي منك العقل والقول والنية
+        <lb/>
+
+        فلا يوجد في رأيك نقص ولا في قولك سقط ولا عيب وقد
+        <lb/>
+
+        جمعت النجدة واللين فلا تأخذ جبانًا عند اللقاء ولا ضيق
+        <lb/>
+
+        الصدر عند ما ينوبك من الأشياء وقد فحصت لك الأمور
+        <lb/>
+
+        وشرحت لك جواب ما سألتني عنه فأبلغت لك في ذلك غاية
+        <lb/>
+
+        نصحي ورأيي ونظري ومباح ومباح فطنتي التماس قضاء
+        <lb/>
+
+        حقّك وقصر حقي بحسن النيّة منك بإعمال الفكر
+        <lb/>
+
+        والعقل فيما وصفت لك من النصيحة والموعظة
+        <lb/>
+
+        مع أنّه ليس الأمر بالخيرة با بأسعد من المطيع
+        <lb/>
+
+        لرأيه ولا الناصح بأولى بالنصيحة من المنصوح
+        <lb/>
+
+        له ولا العلم بالخير بأسعد به من متعلميه منه فافهم ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Df</chapter>
+  </chapter>
+</TEI>

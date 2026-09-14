@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="38"/>
+
+      <p n="Kisra Explains Choosing Burzoy">
+        فقال له الملك إنّي قد بلغني عنك من فضل عقلك وعلمك وأدبك
+        <lb/>
+
+        وحرصك على طلب العلم حيث كان
+      </p>
+
+      <p n="Kisra Tells Of Mission">
+        وإنّي بلغني عن كتاب بالهند مخزون
+        <lb/>
+
+        في خزائنهم وقصّ عليه ما بلغه من قصّة الكتاب
+      </p>
+
+      <p n="Kisra Commissions Burzoy">
+        وقال له تجهّز
+        <lb/>
+
+        فإنّي مسرّحك إلى أرض الهند فالطف بعقلك وحسن أدبك وتأييدك
+        <lb/>
+
+        لاستخراج الكتاب من خزائنهم ومن قبل علمائهم كلامًا تامًّا
+        <lb/>
+
+        مكتوبًا بالفارسيّة فتستفيدناه فتفيدناه هو وما قدرت عليه من الكتب
+        <lb/>
+
+        التي عند الهند ممّا ليس في خزائننا وملكنا
+      </p>
+
+      <p n="Burzoy Given Ample Funds">
+        واحمل معك من
+        <lb/>
+
+        المال ما تريد وعجّل ذلك ولا تقصّر في طلب العلم
+      </p>
+
+      <p n="Astrologers Set Date">
+        وأمر المنجّمين
+        <lb/>
+
+        فوضعوا له رائحة واختاروا يومًا يسير فيه وساعة صالحة
+      </p>
+
+      <p n="Burzoys Stipend">
+        فخرج وحمل معه من المال خمسين جرابًا في كلّ جراب عشرة آلاف
+        <lb/>
+
+        دينار
+      </p>
+
+      <p n="Burzoy Inquires About Court">
+        فلمّا قدم برزويه بلاد الهند طاف بباب الملك ومجالس
+        <lb/>
+
+        السوقة وسأل عن بوّاب الملك والأشراف والعلماء والفلاسفة
+        <lb/>
+
+        فجعل يعاشرهم في مجالسهم ويتلقّاهم بالتحيّة والمسهلة
+      </p>
+
+      <p n="Burzoy Claim Study Trip">
+        ويخبرهم أنّه رجل غريب قدم بلادهم يطلب العلم والأدب
+        <lb/>
+
+        وأنّه محتاج إلى معاونتهم على ما يطلب من ذلك مع شدّة كتمانه
+        <lb/>
+
+        لما قدم له
+      </p>
+
+      <p n="Burzoy Disguises Misson By Study">
+        فلم يزل بذلك زمانًا طويلًا يتأدّب من علماء الهند بما
+        <lb/>
+
+        هو عالم بجميعه كأنّه لا يعلم شيئًا منه وهو فيما بين ذلك ينقر في السرّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="41"/>
+
+      <p n="Addressing the Soul: Healing Many People Brings Divine Reward">
+        أن يعظم رجاؤه ويثق بحسن الثواب على عمله
+      </p>
+
+      <p n="Addressing the Soul: Not to Gamble with the Hereafter">
+        يا نفس لا تبعدنّ
+        <lb/>
+
+        عليك الآخرة فتميلي إلى العاجلة فتكوني في استعجال
+        <lb/>
+
+        القليل وبيع الكثير بالبشير
+      </p>
+
+      <p n="The Seller of Sandalwood Below Its Price">
+        كالتاجر الذي زعموا أنّه كان
+        <lb/>
+
+        له ملء بيت انجوح فقال إن بعته موازنة طال عليّ فباعه
+        <lb/>
+
+        مجازفة بأخسّ الثمن
+      </p>
+
+      <p n="The Soul Admits Defeat">
+        فلمّا خاصمت نفسي بهذا
+        <lb/>
+
+        وأخذتها به وبصّرتها إيّاه لم تجد مذهبًا فاعترفت
+        <lb/>
+
+        وأقرّت ولهت عمّا كانت تنزع إليه فأقمت على مداواة
+        <lb/>
+
+        المرضى ابتغاء الأجر
+      </p>
+
+      <p n="unassigned">
+        فلم يمنعني ذلك أن أصبت من الدنيا
+        <lb/>
+
+        حظًّا عظيمًا من الملوك قبل أن آتي الهند وبعد
+        <lb/>
+
+        رجوعي ومن الأكفّاء والإخوان فوق الذي كان طمعي يجمح
+        <lb/>
+
+        إليه وفق ما كنت له أهلًا ثمّ نظرت في الطبّ فوجدت
+        <lb/>
+
+        الطبيب لا يستطيع أن يداوي المرضى بدواء يذهب عنه
+        <lb/>
+
+        دواءه فلا يعود إليه ذلك الداء أبدًا وغيره من الأدواء
+        <lb/>
+
+        مثله أو أشدّ منه فلمّا لم أدْرِ كيف ذلك والداء لا يؤمن
+        <lb/>
+
+        عودته أو يفتري أشدّ منه ووجدت عمل الآخرة وهو
+        <lb/>
+
+        الذي يسلّم من الأدواء حتّى يبرأ صاحبه برءًا يؤمن بعد
+        <lb/>
+
+        الأدواء كلّها فاستخففت بالطبّ وأردت النظر فلمّا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

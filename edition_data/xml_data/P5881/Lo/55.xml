@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="55"/>
+
+      <p n="The Helpless Fish is Caught">
+        حتّى صيدت
+      </p>
+
+      <p n="The Lion Doubts Shatraba's Betrayal Due to His Kindness">
+        فقال الأسد لدمنة مثلك مليح قد فهمته ونصحك ما أشكّ فيه ولكنّي
+        <lb/>
+
+        ما أظنّ أنّ الثور يغشّني ولا يتكلّم فيّ ولا يريد بي شرًّا وكيف يفعل ذلك ولم ينله منّي سوء
+        <lb/>
+
+        قطّ ولا مكروه
+      </p>
+
+      <p n="Dimna Argues Shatraba's Ambition Stems from His Promotion">
+        قال دمنة أيّها الملك لا تحمله على ذلك فإنّك لم تدع خيرًا إلّا صنعته له
+        <lb/>
+
+        ولا مرتبة إلّا بلّغته إيّاها ولم يبق له مرتبة يسمو إليها إلّا مرتبتك
+      </p>
+
+      <p n="The Maxim of the Base Man's Ambition">
+        فإنّ اللئيم العاجز
+        <lb/>
+
+        لا يزال ناصحًا نافعًا حتّى يرجع إلى المنزلة التي ليس لها بأهل فإذا بلغها التمس ما فوقها
+        <lb/>
+
+        لا سيّما أهل الخيانة والفجور
+      </p>
+
+      <p n="The Maxim of the Dog's Tail: A Base Man's True Nature">
+        فإنّ اللئيم العاجز لا يخدم السلطان ولا ينصحه إلّا من فقر أو
+        <lb/>
+
+        حاجة يضطرّ إلى ذلك فإذا استغنى وذهبت الهيبة رجع إلى جوهره وعادته فمثله في
+        <lb/>
+
+        ذلك مثل ذنب الكلب الذي يربط ليستقيم فلا يزال مستقيمًا ما دام مربوطًا فإذا حلّ عاد
+        <lb/>
+
+        إلى أصله فانحنى
+      </p>
+
+      <p n="The Parable of the Patient and the Doctor">
+        واعلم أيّها الملك أنّه من لم يقبل من أصحابه ونصحائه ما يقال له لم يحمد غبّ
+        <lb/>
+
+        رأيه كالمريض الذي يدع ما يصفه له الطبيب ويأكل ما تشتهي نفسه
+      </p>
+
+      <p n="The Duty of a Vizier">
+        ويجب على من كان
+        <lb/>
+
+        وزير السلطان أن يبلغ في النصح بما ينفعه ويزيّنه والكفّ له عمّا يضرّه ويشينه
+      </p>
+
+      <p n="Aphorisms on the 'Best of' Things">
+        وخير
+        <lb/>
+
+        الأعوان والإخوان أقلّهم مضرّة وأكثرهم نصيحة وخير الأعمال أحمدها عاقبة وخير النّساء
+        <lb/>
+
+        الموافقة لزوجها وخير الثناء ما كان على أفواه الأحرار وأفضل الملوك الذي لم يخالطه بطر
+        <lb/>
+
+        ولا تكبّر وأغنى الأغنياء من لم يكن الحرص من شأنه وخير الأصدقاء من لم يخاصم صديقه
+        <lb/>
+
+        وخير الأخلاق أعونها على الورع
+      </p>
+
+      <p n="The Danger of a Treacherous Companion">
+        وقد قيل لو أنّ امرئ توسّد النار وافترش الحيّات
+        <lb/>
+
+        ما كان ينبغي أن يهنأه النوم إذا اجترّ من صاحبه عداوة يريد بها إيذاؤه
+      </p>
+
+      <p n="The Helpless King and the Rampaging Elephant">
+        وأعجز الملوك
+        <lb/>
+
+        أخذهم بالهويناء وأشبههم بالفيل المغتلم الذي لا يلتفت إلى شيء فإن أصابه أمر تهاون
+        <lb/>
+
+        به فإذا أضاع الأمور فقد مكّن عدوّه منه
+      </p>
+
+      <p n="The Lion Accepts the Harsh Advice">
+        قال له الأسد أغلظت في القول وغليظ
+        <lb/>
+
+        قول الناصح مجهول
+      </p>
+
+      <p n="The Lion Dismisses the Threat: The Herbivore vs. the Carnivore">
+        لكنّ الثور وإن كان لي عدوّ كما تقول فإنّه لا يقدر لي على ضرّ وكيف يقدر
+        <lb/>
+
+        على ذلك وهو يأكل النبات والخضرة وأنا آكل اللحم والشحم وهو لي طعامًا فليس لي منه خوف
+        <lb/>
+
+        ولا ضرر وليس لي إلى عداوته سبيل بعد الأمان الذي جعلت له وبعد إكرامي إيّاه وثنائي
+        <lb/>
+
+        عليه عند جندي
+      </p>
+
+      <p n="The Lion Fears Breaking His Oath to Shatraba">
+        فإن غدرت به جهّلت نفسي وغدرت بذمّتي
+      </p>
+
+      <p n="Dimna Warns Shatraba May Use Others to Plot">
+        قال له دمنة لا يغرّنك
+        <lb/>
+
+        قولك أنّه طعامك وليس إلى غدره سبيل وإنّ الثور وإن لم يقدر لك على مكيدة من نفسه
+        <lb/>
+
+        احتال لك فيها من قبل غيره
+      </p>
+
+      <p n="The Maxim of the Unknown Guest">
+        وقد قيل إذا أضافك إنسانًا ساعة واحدة وأنت لا تعرفه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

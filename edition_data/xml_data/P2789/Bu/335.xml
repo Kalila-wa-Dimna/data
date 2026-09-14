@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P2789</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="335"/>
+
+      <p n="unassigned">
+        في طلب العقاقير والأدوية وكيف تعلّم بالهند خطوط أهلها ولغتهم
+        <lb/>
+
+        حتّى عاد إلى الهند حين بعثه الملك في كتاب كليلة ودمنة فلمّا أنهاه
+        <lb/>
+
+        أتى به إلى كسرى وعنده العظماء والحكماء ومن دونهم ثمّ قام برزجمهر
+        <lb/>
+
+        فقرأ الكتاب وبروزيه إلى جانبه فلمّا أخذ في وصفه
+        <lb/>
+
+        وانتهى إلى آخره فرح الملك ومن حضر مجلسهم وأثنوا عليه وشكروه
+        <lb/>
+
+        ذلك له ومدحوه أفضل مدح فأمر الملك له بمال عظيٍم وخلع
+        <lb/>
+
+        سنية فاخرة وأواني ذهب فلم يقبل من جميع ذلك شيئًا غير
+        <lb/>
+
+        الكسوة ﻷنّها كانت من لباس حتّى يفتخر برزحمهر بها في لباسها
+        <lb/>
+
+        ثمّ أن بروزيه شكر له ذلك وقبّل رأسه ويديه وأقبل على
+        <lb/>
+
+        الملك فقال أدام الله لك الملك والسعادة والسرور والكفاية
+        <lb/>
+
+        فقد بلغت بي غاية الشرف وأبقيت ذكرى على ممرّ الزمان
+        <lb/>
+
+        انقضى باب بروزية
+      </p>
+
+      <p n="Chapter Title">
+        باب الغرض من هذا الكتاب
+        <lb/>
+
+        ما ترجمه ابن المقفّع
+      </p>
+
+      <p n="Parables Originated with Scholars of India">
+        هذا كتاب كليلة ودمنة
+        <lb/>
+
+        وهو ممّا وضعته علماء الهند من الأمثال والأحاديث التي
+        <lb/>
+
+        أُلهموا إليها أن يُدخلوا فيها أبلغ ما وجدوا من القول
+        <lb/>
+
+        في النحو الذي أرادوا
+      </p>
+
+      <p n="Scholars Desire to Be Understood">
+        ولم تزل العلماء والحكماء في كلّ ملّة وأهل
+        <lb/>
+
+        كلّ مكان يلتمسون أن يُنقل عنهم
+      </p>
+
+      <p n="Scholars Put Knowledge in Book of Fables">
+        ويحتالون في ذلك بصنوف
+        <lb/>
+
+        الحيل ويجتهدوا في إخراج ما عندهم حتّى كان من تلك العلل
+        <lb/>
+
+        وضع هذا الكتاب على أفواه البهائم والطير
+      </p>
+
+      <p n="Fables Facilitate Many Types of Discourse">
+        فاجتمع لهم من
+        <lb/>
+
+        ذلك خلال منها أنّهم وجدوا متصرّفًا في القول وشعوبًا
+        <lb/>
+
+        يأخذون منها وأمّا الكتاب فإنّه جمع حكمة وعلومًا
+      </p>
+
+      <p n="Book Is Used for Wisdom, Pleasure, and Knowledge">
+        اختارته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

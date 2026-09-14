@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="332"/>
+
+      <p n=". Crow Story Intro">
+        قال الناسك زعموا أنّ غرابًا رأى حجلة تدرج فأعجبه مشيها
+        <lb/>
+
+        وطمع في تعليم تلك المشية وراض نفسه بها ليتعلّمها
+      </p>
+
+      <p n=". Crow Lost Original Walk">
+        فترك
+        <lb/>
+
+        مشيته التي كان يحسن ولم يهتدي إلى الرجوع فتخلّع
+        <lb/>
+
+        في مشيته ولم يهتد إليها وتحيّر
+      </p>
+
+      <p n=". Crow Ugly Gait">
+        وصار أقبح الغربان مشيًا
+      </p>
+
+      <p n="Monk Motivates Story">
+        وإنّما ضربت لك هذا المثل لأنّك خليق إن تركت لسانك
+        <lb/>
+
+        وتكلّفت لسان العبرانية آن لا تدركه وتنسى لسانك فترجع
+        <lb/>
+
+        إلى أهلك وأنت أشرّهم لسانًا
+      </p>
+
+      <p n="Dont Seek Foreign Things">
+        فإنّه يُعدّ جاهلًا من تكلّف من
+        <lb/>
+
+        العلم ما لا يشاكله وليس بعمله ولم يؤدّبه عليه آباؤه وأجداده من قبل ولا
+      </p>
+
+      <p n="Changing Governors Harm">
+        قلّة تعاهد ذلك من الرعيّة اليوم وسوء التدبير لأهل مملكتهم في
+        <lb/>
+
+        تنقّل الطبقات والمنازل من بعضها إلى بعض غير الذي وصفوا
+        <lb/>
+
+        به وجرت لهم فيه المعايش والآداب وأعطوا عليه المنزلة
+        <lb/>
+
+        لم يدخل المضرّة عليهم لأنّ في ذلك مضرّة الأشراف وفساد
+        <lb/>
+
+        الطبقة العليا لأنّ الطبقة السفلى تعلوبها وتنازعها فيقع
+        <lb/>
+
+        الأشراف في محاورة اللئام ومنازعتهم إيّاهم منزلتهم
+        <lb/>
+
+        فلا يستحسنون مشاقتهم فيعتدون منهم بترك معايشهم ومنافعهم
+      </p>
+
+      <p n="unassigned">
+        باب السائح والصائغ
+        <lb/>
+
+        قال ديشلم الملك لبيدنا الفيلسوف قد سمعت هذا المثل فاضرب لي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ag</chapter>
+    <chapter>Tg</chapter>
+  </chapter>
+</TEI>

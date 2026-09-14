@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="31"/>
+
+      <p n="Informed Traveller Takes Risky Road">
+        نفسه وجدها قد تركت أشياء وأهجمت به في أمور هو أخوف
+        <lb/>
+
+        من ذلك السالك في الطريق المخوف الذي قد عرفه
+      </p>
+
+      <p n="Desire Impedes Judgement">
+        ومن غلبه
+        <lb/>
+
+        هواه رفض ما ينتفع به ولم يعمل بما علم من العمل
+      </p>
+
+      <p n="Informed Patient Eats Bad Food">
+        كالمريض العالم
+        <lb/>
+
+        برديء الطعام وجيّده وخفيفه وثقيله ثمّ يحمله الشره على
+        <lb/>
+
+        أكل رديئه ويدع استعمال ما هو أقرب إلى النجاة والتخلّص من علّته
+      </p>
+
+      <p n="Those in the Know Have No Excuse">
+        وأقلّ الناس عذرًا من كان أبصر من الجاهل بها وعرف فضل بعضها
+        <lb/>
+
+        على بعض
+      </p>
+
+      <p n="A Sighted and a Blind Fall into a Ditch">
+        كما أنّه لو كان رجلين أحدهما بصير والآخر ضرير جاء بهما
+        <lb/>
+
+        الأجل إلى حفرة فوقعا فيها فصارا جميعًا في قعرها بمنزلة واحدة
+        <lb/>
+
+        في الهلكة
+      </p>
+
+      <p n="The Sighted Man Has No Excuse">
+        غير أنّ البصير أقلّ عذرًا عند الناس إذ كانت له
+        <lb/>
+
+        عينان يبصر بهما من الضرير الذي وقع وهو بما صار إليه جاهل
+      </p>
+
+      <p n="Scholar Must Discipline Himself">
+        وعلى العالم أن يبدأ بنفسه فيعظها ويؤدّبها بعلمه ولا يكون
+        <lb/>
+
+        غايته من العلم اقتناؤه ما يفوز به غيره والعناء له
+      </p>
+
+      <p n="Silk Worm Benefits Only Others">
+        فيكون كدو
+        <lb/>
+
+        كدودة القزّ التي تُحكم بصنعتها ما يتجمّل به غيرها والهلاك لها
+      </p>
+
+      <p n="Instructing Oneself Comes First">
+        وقد ينبغي لمن طلب العلم أن يبدأ بنفسه فيعظها ثمّ عليه بعد ذلك
+        <lb/>
+
+        أن يفيده لغيره
+      </p>
+
+      <p n="Three Things Are Needed for Worldly Life">
+        فإنّ خلالًا ثلاثة لا ينبغي لصاحب العقل أن يتهاون
+        <lb/>
+
+        في اقتنائها تحصيل العلم والاكتساب واتّخاذ المعروف
+      </p>
+
+      <p n="One Should Not Condemn Faults in Others One Has">
+        وليس ينبغي
+        <lb/>
+
+        للعاقل أن يعتب على أحد في أمر يدخل هو في مثله
+      </p>
+
+      <p n="Reader Is Like a Blind Blaming another Blind">
+        فيكون كالأعمى
+        <lb/>
+
+        الذي يعيّر الأعمى في عماه
+      </p>
+
+      <p n="One Must Know When to Halt Pursuit">
+        وينبغي لمن طلب أمرًا أن يكون له به عناية
+        <lb/>
+
+        ونهاية يعمل بها ويقف عندها ولا يفاحش في الطلب
+      </p>
+
+      <p n="A Pursuit without a Clear Goal Is Treacherous">
+        فإنّه يُقال
+        <lb/>
+
+        يقا إنّه من جرى إلى غاية غيره يوشك أن تنقطع به مطيّته
+      </p>
+
+      <p n="One Should Not Seek the Unattainable">
+        وأن لا
+        <lb/>
+
+        يتأسّف على ما لم يمكن إدراكه من دنياه
+      </p>
+
+      <p n="The Here Is Not to Be Preferred Over the Hereafter">
+        ولا يكون لدنياه مؤثرًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="323"/>
+
+      <p n="Punishment Shall Deter Further Misdeeds">
+        عليه بعدوان لئلّا يطمع جاهلًا ويجترئ عدوّ للدين والمملكة
+        <lb/>
+
+        على مثل ذلك منك في نصحائك وأهل مودّتك ويقذفون بمثل هذا
+        <lb/>
+
+        القول في صدرك فتصير منه إلى ندامة وغمّ
+      </p>
+
+      <p n="Lion Must not Underestimate Wrongdoers">
+        ولا تغترّنّ بسلطانك
+        <lb/>
+
+        وتقول إنّي مسلّط عليهم فيدعوك ذلك إلى استصغارهم
+        <lb/>
+
+        والتهاون بأمرهم
+      </p>
+
+      <p n="Grass Rope Ties Elephant">
+        فإنّ العشب من الحشيش الضعيف وإن كان
+        <lb/>
+
+        لا قوّة له إذا جُمع فمثل مثلًا الجبل القويّ الذي يوثَق به الفيل
+        <lb/>
+
+        المغتلم الشديد
+      </p>
+
+      <p n="Lion Should Reinstate Jackal">
+        فاردد ابن آوى إلى منزلته التي كان عليها وخاصّة
+        <lb/>
+
+        منك وليكن صاحب مشورتك وسرّك ولا يمنعك ما كان منك من
+        <lb/>
+
+        الاستهانة وقولك قد أُوذي وقُمع فييأس وانقطع رجاؤه من
+        <lb/>
+
+        أن يعيده إلى مكانه عندك
+      </p>
+
+      <p n="Lion Should Not Fear Jackal's Grudge">
+        ولا تقول في نفسك إنّي قد أسأت
+        <lb/>
+
+        إليه فلست آمن غوائله وتلزم قلبك اليأس من مناصحته ومصاحبته
+        <lb/>
+
+        لما فرط منك
+      </p>
+
+      <p n="The Wronged Person Need not Be Feared">
+        فإنّه ليس كلّ من أُسيء إليه وأوذي تخوّفت غائلته
+        <lb/>
+
+        ولا انقطع الرجاء من منفعته ولا كلّ من عثر عليه بمكروه خيف
+        <lb/>
+
+        غشّه وعداوته يُئس من نصيحته ومودّته ولكن من عرف الأشياء
+        <lb/>
+
+        وضعها في مواضعها
+      </p>
+
+      <p n="The Intelligent Must Rank People by Character">
+        وقد ينبغي للعاقل أن ينزل الناس منازلهم
+        <lb/>
+
+        على اختلاف ما بينهم
+      </p>
+
+      <p n="Whom not to Reinstate">
+        فإنّ الإخوان ليسوا سواء فمنهم لا ينبغي مواصلته
+        <lb/>
+
+        بعد مقاطعته ومعاداته ومنهم لا ينبغي معاداته بعد مواصلته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

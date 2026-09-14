@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="107"/>
+
+      <p n="Dimna Applies the Tale's Deception to Ox to Justify His Killing">
+        |فَهْوَ بشُكرِ ربِّهِ خليقُ ### إذ لم يكنْ لخصمِهِ التوفيقُ
+        <lb/>
+
+        |وردَّ لطفُ الله عنهُ كيدَهُ ### من بعدِ ما أجمعَ فيه أَيْدَهُ
+        <lb/>
+
+        |وإنّما الأولى بهِ مِن الحَزَنْ ### عليهِ لهوٌ وسرورٌ ودَدَنْ
+        <lb/>
+
+        |لو لم يكنْ قد أبطنَ العداوَهْ ### ما جاءَ معتدًّا لهُ قساوَهْ
+        <lb/>
+
+        |مستلْئِمًا مستظهِرًا كأنّهُ ### أيقنَ ما أردتَهُ وظَنَّهُ
+      </p>
+
+      <p n="Lion Should not Kill Dimna Based on Slander">
+        |مِثلُكَ لا يقتلُ ذا البراءَهْ ### من غيرِ ما جُرمٍ ولا إساءَةْ
+        <lb/>
+
+        |بقولِ واشٍ ربّما قال الكذِبْ ### وللوشاةِ نارُ كيدٍ تلتهِبْ
+      </p>
+
+      <p n="Dimna Denies Fear of Death">
+        |وما كرهتُ الموتَ إن كان قَضى ### بهِ عليَّ ولهُ فيهِ رِضى
+      </p>
+
+      <p n="The Sinner Who Accepts Death Is Saved in Hereafter">
+        |فقد روى الأحبارُ والرواةُ ### والثَبْتُ ما تنقلُهُ الثِقاتُ
+        <lb/>
+
+        |أنّ منِ استسلمَ حتّى يُقتَلا ### لزِلّةٍ كان لها ما فَعَلا
+        <lb/>
+
+        |لم يصِلْ حرَّ النارِ في القيامَهْ ### ولم يخَفْ إثمًا ولا ملامَهْ
+      </p>
+
+      <p n="Dimna Asks Lion Not to Hurry Without Investigation">
+        |وإن أكنْ مُحتقَرًا فإنّ لي ### سَهْمًا من العدلِ العميمِ الأَجْزَلَ
+        <lb/>
+
+        |فإن رأى مولايَ أن لا يعجلا ### عليّ قبلَ فحصِهِ تَمَهَّلا
+      </p>
+
+      <p n="Man Strives for the Good as Best He Can">
+        |فما يزالُ المرءُ يستفيدُ ### في أمرِهِ الخيرَ ويستزيدُ
+        <lb/>
+
+        |برأيهِ وحِلمهِ وصبرِهِ ### ما لم يصِرْ في حدِّ أقصى عُمْرِهِ
+      </p>
+
+      <p n="First Speaker Accuses Dimna of Self-Interest">
+        |قال له بعضُ الحُضورِ إنّما ### تدفعُ عن نفسِكَ أن تُصطَلَما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

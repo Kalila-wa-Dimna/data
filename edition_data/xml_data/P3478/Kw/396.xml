@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3478</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="396"/>
+
+      <p n="unassigned">
+        وقد يُوصف في بعض العلاج شحوم الأسد وسموم
+        <lb/>
+
+        الهوامّ وما ينبغي لذي حزم أن يغرّ بنفسه في طلب الأسد
+        <lb/>
+
+        والهوامّ في مواضعها لما في لحومها وسمومها من المنافع
+        <lb/>
+
+        فدعا ما قد تريدين من المسير إلي تلك الجزيرة واحتملي
+        <lb/>
+
+        مع العشّ بما فيه حتّى تحوّله إلى الموضع الذي تريده
+        <lb/>
+
+        فإنّه كثير السمك والقصب خفيّ المكان معتزل عن كلّ
+        <lb/>
+
+        طريق خال من الطير واعلمي أنّه من أطاع الأطبّاء
+        <lb/>
+
+        فيما يخاطر فيه بنفسه لم يأمن أن يصيبه ما أصاب
+        <lb/>
+
+        القرد من طلب دماغ التنّين قالت الأنثي وكيف
+        <lb/>
+
+        كان ذلك قال الذكر
+        <lb/>
+
+        صورة العلجوم يكلّم زوجته
+        <lb/>
+
+        زعموا أنّه كان في بعض الجزائر قرد وكان في خصب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kw</chapter>
+  </chapter>
+</TEI>

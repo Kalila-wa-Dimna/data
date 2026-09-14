@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="159"/>
+
+      <p n="Dimna's Ambitious Nature">
+        أشرفهما نفسًا وأبعدهما همّة وأقلّهما رضاء بحاله
+      </p>
+
+      <p n="Lion's Unfamiliarity with Kalila and Dimna">
+        ولم يكن الأسد عرفهما
+      </p>
+
+      <p n="Dimna's Observation of Lion's Behavior">
+        فقال
+        <lb/>
+
+        دمنة لكليلة ما ترى يا أخي شأن الأسد مقيمًا في مكان واحد ولا ينبسط
+      </p>
+
+      <p n="Kalila's Caution about Meddling">
+        قال كليلة بلى وما شأنك وشأن المسألة عمّا ليس لك
+      </p>
+
+      <p n="Dimna's Perspective on Serving Kings">
+        أمّا نحن فحالنا
+        <lb/>
+
+        حال صدق ونحن على باب مَلكنا واجدون لما نأكل ولسنا من أهل
+        <lb/>
+
+        المرتبة التي يتناول أهلها كلام الملوك وينظرون في أمورهم
+      </p>
+
+      <p n="Kalila's Warning and Monkey Parable">
+        فاسكت
+        <lb/>
+
+        عن هذا الكلام واعلم أنّه من تكلّف من القول والفعل ما ليس من شأنه
+        <lb/>
+
+        أصابه ما أصاب القرد من النجّار
+      </p>
+
+      <p n="Dimna's Inquiry about the Parable">
+        قال دمنة وكيف كان ذلك
+      </p>
+
+      <p n="Dimna Solicits Advice">
+        وما
+        <lb/>
+
+        أصنع إذ
+      </p>
+
+      <p n="Second Subtale of Monkey of Carpenter">
+        قال كليلة زعموا أنّ قردًا رأى نجّارًا يشقّ خشبة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

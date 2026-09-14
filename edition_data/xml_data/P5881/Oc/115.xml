@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="115"/>
+
+      <p n="Escape Should Be the Recourse">
+        فقال الأوّل منهم الحيلة والرأي في هذا الأمر ما كانت الحكماء تذكره فإنّهم كانوا يقولون
+        <lb/>
+
+        إيّاك والعدوّ الذي لا قدرة لك بقتاله فإنّ أمثل الرأي إليك الهرب منه والنجاة من بأسه
+      </p>
+
+      <p n="The Crow Kings Asks the Second Crow">
+        ثمّ أنّ الملك سأل الثاني عن رأي الأوّل
+      </p>
+
+      <p n="Escape Is No Recourse">
+        فقال إنّه لم يقل شيئًا
+      </p>
+
+      <p n="The Downsides of Escape Are Explained">
+        فإنّه لا ينبغي لنا أن نعرّى
+        <lb/>
+
+        بلادنا ونترك أثقالنا ومعايشنا ونهرب عن أوطاننا ونرتحل عنها ونذلّ لعدوّنا في أوّل
+        <lb/>
+
+        بليّة أصابتنا
+      </p>
+
+      <p n="Recourse Should be Made to Planning and Preparing">
+        ولكنّا نجمع أمرنا ونستعدّ لعدوّنا ونكون منهم على حذر ونبعث العيون
+        <lb/>
+
+        والطوالع فيما بيننا وبينهنّ فإن هنّ أقبلن إلينا وجدونا مستعدّين
+      </p>
+
+      <p n="The Crows Should Fight Back the Owls">
+        فنقصد جماعتهم ونكون
+        <lb/>
+
+        للقائهم متأهّبين
+      </p>
+
+      <p n="There Is Hope for Victory">
+        ولعلّنا نصيب منهم ظفرًا ونهزة فنأخذ منهم ما صنعن بنا
+      </p>
+
+      <p n="Escape Should Not Be the First Choice">
+        ولا نبدأ أمرنا بالهرب
+        <lb/>
+
+        عن الأوطان وإضاعة الأموال والأثقال فيكون ما أصابوا من ذلك عونًا لهم علينا
+      </p>
+
+      <p n="The Crow King Asks the Third Crow">
+        ثمّ قال الملك للثالث ماذا ترى فيما قالوا أصحابك
+      </p>
+
+      <p n="The Crow Rejects Prior Input">
+        قال لم يقولوا شيئًا لعمري ما الأيّام والليالي
+        <lb/>
+
+        لنا مستقيمة فيما بيننا وبين البوم
+      </p>
+
+      <p n="Recourse Should be Made to Reconnaissance">
+        لكن نبعث من له فضل ورأي وتدبير فيكون واسطة
+        <lb/>
+
+        فيما بينهم وبيننا ويعلم أخبارهم ويعلمنا ما في أنفسهم منّا
+      </p>
+
+      <p n="The Information Shall Determine a Truce or Tribute">
+        وهل يرضون لنا بأدائنا الخراج
+        <lb/>
+
+        إليهم
+      </p>
+
+      <p n="Truce for a Tribute Should Be Sought">
+        فإن فعلن ذلك كان أفضل لنا من القتال ونقيم مكاننا ونحن آمنين غير خائفين
+      </p>
+
+      <p n="Peace Is Worth the Tribute">
+        فإنّ العلماء
+        <lb/>
+
+        قد قالوا إذا أتاك من عدوّك أمرًا لا تقوى عليه ولا تقوم به فالتمس منه الأمان وأداء الخراج
+        <lb/>
+
+        لما في ذلك من الصلاح
+      </p>
+
+      <p n="Peace Should Come Sooner than Later">
+        وتعجيل ما أشرت به عليك أفضل من تأخيره
+      </p>
+
+      <p n="The Crow King Asks the Fourth Crow">
+        ثمّ قال للرابع ما رأيك فيما
+        <lb/>
+
+        قال أصحابك
+      </p>
+
+      <p n="Paying Tributes Is Debasing">
+        فقال لم يقولوا شيئًا أيّها الملك أرى أنّنا لا نضيّع أنفسنا لهؤلاء القتلة
+        <lb/>
+
+        الرذلة ولا نؤدّي لهم خراجًا فإنّه عار علينا ومذلّة
+      </p>
+
+      <p n="Recourse Is in Going to the Desert">
+        ولعمري لئن ننطلق إلى البرّيّة فنسكنها
+        <lb/>
+
+        ونعالج بها ضنك المعيشة حتّى يفرّج الله أمثل لنا وأفضل
+      </p>
+
+      <p n="Accepting Oppression Aids Foes">
+        فإنّه قد قيل من أقرّ بالذلّ ووضع
+        <lb/>
+
+        نفسه فقد أعان عليه عدوّه
+      </p>
+
+      <p n="The Owls Would Overdemand">
+        مع أنّني أنّي قد عرفت لو أنّنا قد عرضنا عليهم الخراج لم يرضوا منّا
+        <lb/>
+
+        بالخراج القليل الذي لا نقوى عليه
+      </p>
+
+      <p n="Foes Should Be Kept at the Right Distance">
+        وقد كان يُقال قارب عدوّك بعض المقاربة لتنال منه
+        <lb/>
+
+        حاجتك ولا تشتطّ عليه فيجترئ عليك ويطمع فيك
+      </p>
+
+      <p n="The Crow King Asks the Fifth Crow, a Spy">
+        ثمّ قال للخامس ما رأيك فيما قال أصحابك
+      </p>
+
+      <p n="The Spy Rejects Fighting">
+        قال لم يقولوا شيئًا أمّا القتال فلا سبيل إليه لأنّنا لا نقدر عليه
+      </p>
+
+      <p n="The Crows Should Not Overestimate Themselves">
+        وقد قيل إنّه من لم يعرف نفسه
+        <lb/>
+
+        وقوّته وغرّر بنفسه في قتال العدوّ القويّ فقد تعرّض لهلاكه
+      </p>
+
+      <p n="The Crows Should Not Belittle the Enemy">
+        وليس أحد بحقيق أن يزدري عدوّه
+        <lb/>
+
+        وإن كان مهينًا
+      </p>
+
+      <p n="The Spy Makes a Suggestion">
+        لكن يجب علينا أن نحذرهنّ فإنّا لو كنّا أقوى منهم لكان ينبغي لنا أن نعقل ذلك حتّى
+        <lb/>
+
+        نقدر على حاجتنا منهنّ وننال الفرصة في ذلك
+      </p>
+
+      <p n="Diplomacy Supersedes Force">
+        فإنّ المرأة الصعبة إذا لم يأخذها زوجها باللين
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

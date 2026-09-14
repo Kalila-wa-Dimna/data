@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="122"/>
+
+      <p n="Dimna Calls Courtier Unfit for Court">
+        قذارتك وعيوبك ما أعرفه منك عزلك عن طعامه وخدمته
+        <lb/>
+
+        وأبعدك
+      </p>
+
+      <p n="Lion Appoints a Secretary to Inform Him about the Trial">
+        وكان الأسد قد رتّب عندهم شعهرًا
+        <lb/>
+
+        وكان في خدمته وجرّب صدقه وأمانته وأمره أن يسمع ما
+        <lb/>
+
+        يُقال في جموعه وما يكون من أحوالهم
+      </p>
+
+      <p n="Lion Is Informed by Court Secretary and Ousts Courtier">
+        فانطلق إلى الأسد
+        <lb/>
+
+        وأخبره بكلّ ما جرى وحديث رأس الخنازير فأمر الأسد
+        <lb/>
+
+        عند ذلك أن لا يدخل عليه ولا يرى وجهه
+      </p>
+
+      <p n="Dimna's Testimony Is Recorded, He Is Returned to Prison; End of First Day of Trial">
+        وأمر باستمرار حبس
+        <lb/>
+
+        دمنة وكتب جميع ما جرى وختم بخاتم النمر ورجع كلّا إلى متسقرّه
+      </p>
+
+      <p n="Kalila Dies">
+        وإنّ كليلة ممّا حلّ على قلبه من أمر دمنة مرض ومات
+        <lb/>
+
+        من ليلته
+      </p>
+
+      <p n="Ruzbeh Is Kalīla's Friend">
+        وكان شعهر يُسمّى روبه وكان بينه وبين كليلة
+        <lb/>
+
+        إخاءٍ ومودّةٍ
+      </p>
+
+      <p n="Ruzbeh/Fayruz Tells Dimna of Kalila's Death">
+        فانطلق إلى دمنة فأخبره بموت كليلة
+      </p>
+
+      <p n="Dimna Grieves for Kalila">
+        فبكا
+        <lb/>
+
+        دمنة بكاءً شديدًا رحمةً لكليلة وحُزنًا عليه وقال ما
+        <lb/>
+
+        أصنع وقد فارقت الأخ الصدوق
+      </p>
+
+      <p n="Dimna Asks Ruzbeh to Be His Friend">
+        ولكن أحمد الله تعالى
+        <lb/>
+
+        لمّا مات كليلة وأبقى لي من ذوي قرابتي مثلك وإنّي أعلم
+        <lb/>
+
+        أنّك تحبّ منفعتي كحبّك لنفسك
+      </p>
+
+      <p n="Dimna Has Ruzbeh Fetch Their Belongings">
+        فانطلقْ إلى مكان كذا وكذا
+        <lb/>
+
+        وانظر إلى ما جمعت أنا وكليلة فآتنا به ففعل روبه ذلك
+        <lb/>
+
+        وانطلق إلى المكان وأتاه به ووضعه بين يديه
+      </p>
+
+      <p n="Dimna Gives Ruzbeh Half, Asks Him to Put in Good Word with Lion and Mother and Report Their Words to Him">
+        فأعطاه حصّة
+        <lb/>
+
+        كليلة فأعطاه ثمّ أوصاه أنّه إذا دخل على الأسد أن يتوصّى
+        <lb/>
+
+        في حقّه فأخذ الشعهر ذلك فدفنه في ولمّا
+      </p>
+
+      <p n="Leopard &amp; Judge Bring Lion the Court Records Who Has Them Copied">
+        كان من الغد استأذنوا
+        <lb/>
+
+        الجماعة الدخول على الأسد فأذن لهم فدخلوا ووضعوا
+        <lb/>
+
+        الكتاب بين بيديه ودعا دمنة وخرجوا الجماعة من عند الأسد
+      </p>
+
+      <p n="Lion Reads Court Records to Mother">
+        ودعا الأسد بأمّه وقرأ عليها الصحيفة
+      </p>
+
+      <p n="Mother Alerts Lion of His Own Benefit and Motivates Her Harsh Words">
+        قالت إنّي ما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

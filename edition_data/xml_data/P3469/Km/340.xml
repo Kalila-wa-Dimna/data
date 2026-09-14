@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="340"/>
+
+      <p n="Exile Is Death">
+        أن يلتمس موضعًا ينام ويقوم فيه وهوّ خائف فزع
+        <lb/>
+
+        فحياة هذا كموته
+      </p>
+
+      <p n="Two Viziers Praise the Virtues of the Rat King">
+        فلمّا فرغ الملك من كلامه قال له شيرع
+        <lb/>
+
+        وبغداد طوبى لنا حيث أنت رئيس علينا لأنّك في
+        <lb/>
+
+        غاية الفضل والعقل وإصابة الرأي
+      </p>
+
+      <p n="Praise for the Master Covers the Ignorant Servant">
+        وقد قيل إنّ
+        <lb/>
+
+        العبد إذا كان سيّده حكيمًا وهو جاهل فقد يناله بعض
+        <lb/>
+
+        المدح بسبب أفعال سيّده الجميلة
+      </p>
+
+      <p n="The Viziers Rely on the Wisdom of the King">
+        ونحن المتكلّمون على
+        <lb/>
+
+        حكمتك وحسن تدبيرك ونسأل الله الخيرة أن نبلغ
+        <lb/>
+
+        جميع ما نريده من هذا الأمر
+      </p>
+
+      <p n="The Viziers Are Eager to Support the King">
+        ونحن مستعدّين لأمرك
+        <lb/>
+
+        فإنّه سيكون للملك أمر عظيم ولنا تبعة في الذكر
+      </p>
+
+      <p n="The Rats Must Work Together">
+        وإنّه ليجب علينا أن نخاطر ونطرح أنفسنا طرحًا إلى
+        <lb/>
+
+        إلى أن يتمّ لنا ما نريد
+      </p>
+
+      <p n="The Rat King Chides the Silent Vizier">
+        ولمّا فرغ الوزير من هذا الخطاب
+        <lb/>
+
+        كانت عين الملك ممدودة إلى الوزير الثالث فلم يره
+        <lb/>
+
+        يتكلّم فقال له بغضب يا هذا في العالم خلق كثير من
+        <lb/>
+
+        الناس خصوصًا من كان له منهم ملكًا وله صاحب فاضل
+        <lb/>
+
+        يثق برأيه قد يخوضون ويتفاوضون في أشياء كثيرة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="188"/>
+
+      <p n="Judge's Demand of Confession Is False Counsel or Ruse Not Befitting Judges">
+        فإنّها إن كانت منك نصيحةً فقد أخطأت بموضعها
+        <lb/>
+
+        وإن كانت خديعةً فإنّ أقبح الخداع خداع القُضاة
+      </p>
+
+      <p n="A Judge's Speech Becomes a Ruling and Sunna">
+        فانظر واعرف من أهل ذلك وإنّ الخداع والمكروه ليس
+        <lb/>
+
+        من أخلاق صالحي القُضاة وخُذ بصواب أهل الصواب
+        <lb/>
+
+        وانظر ما يحصل لأهل البطر وقلّة الورع وأنا خائفٌ عليك
+        <lb/>
+
+        أيّها القاضي من هذه الحالة وهذا أعظم الوزر والبلاء
+        <lb/>
+
+        والمحن وإنّك لم تزل في عين الملك والجند والخاصّة
+        <lb/>
+
+        والعامّة فاضلًا في رأيك مرتفعًا في عدلك مرضيًّا
+        <lb/>
+
+        في حُكمك وحُلمك وعفافك وفضلك
+      </p>
+
+      <p n="Everyone Should Say Only What They Know">
+        وأمّا أبلّغك
+        <lb/>
+
+        مقالة العلماء أنّ من ادّعى علم ما لا لم يعلم وقال ما لم
+        <lb/>
+
+        يرى وشهد على المغيب
+      </p>
+
+      <p n="Dimna's Fourth Subtale of the Falconer Who Falsely Accuses the Marzuban's Wife">
+        أصابه ما أصاب البارناي
+        <lb/>
+
+        القاذف لمولاته وزعم أنّه رآها مع رجلٍ يفجر بها
+      </p>
+
+      <p n="Head of Court Requests Tale">
+        قال
+        <lb/>
+
+        القاضي وكيف كان ذلك
+      </p>
+
+      <p n="Marzuban Had Wife and Servant">
+        قال دمنة زعموا أنّه كان في
+        <lb/>
+
+        بعض المدن رجلٌ مذكورٌ وكان له امرأةٌ ذات عفافٍ
+        <lb/>
+
+        وجمالٍ وكان له عبد بارناي ماهرًا بالبرانه وعلاجها
+        <lb/>
+
+        كريمًا على مولاه
+      </p>
+
+      <p n="Falconer Accosted Wife and Is Rejected">
+        وكان العبد قد راود مولاته على نفسها
+        <lb/>
+
+        فلم تشأ فلمّا
+      </p>
+
+      <p n="Falconer Decides to Take Revenge">
+        رأى العبد أنّه لم يبلغ مُراده منها أضمر لها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

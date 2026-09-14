@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="241"/>
+
+      <p n="unassigned">
+        فقالت لي ما لي أراك تبكي وهذا الأسود مقتولًا وابن عرس مقتولًا
+        <lb/>
+
+        فأخبرها بذلك وقال هذا ثمرة العجلة دون التثبّت
+      </p>
+
+      <p n="Chapter Title">
+        باب السنّور والجرذ
+      </p>
+
+      <p n="Abstract">
+        وهو باب من يصير
+        <lb/>
+
+        أمر أعداؤه إلى الظفر به كيف يقدر على التخلّص منهم
+      </p>
+
+      <p n="The King Asks about Escaping Enemies">
+        قال المَلك للفيلسوف قد سمعت مثل الرجل
+        <lb/>
+
+        الذي يصير أمره إلى العجلة فاضرب لي مثل الذي تصير
+        <lb/>
+
+        أعداؤه على الظفر به كيف يقدر أن يتخلّص منهم
+      </p>
+
+      <p n="The Philosopher Responds that Emotions Change">
+        قال
+        <lb/>
+
+        الفيلسوف إنّه ينبغي لمن ظفر به أعداؤه وصار إليهم
+        <lb/>
+
+        أن يلتمس صداقة بعض أعدائه ويتّخذه خليلًا ويصالحه
+        <lb/>
+
+        ليهزم بذلك ما يري عدوّه فإنّه من كلّ حين يصير
+        <lb/>
+
+        الصديق صديقًا ولا العدوّ عدوًّا فإذا رأى العدوّ
+        <lb/>
+
+        من عدوّه صداقة أو منفعة لم يقف على عداوته بل
+        <lb/>
+
+        يرجع منه إلى الصداقة والصفاء
+      </p>
+
+      <p n="The Intelligent Adapts to Situations">
+        والعالِم يصبر عند
+        <lb/>
+
+        الاضطرار إلى مصافاة أعدائه والذي لا يعلم
+        <lb/>
+
+        تفسد عنه الوجوه في ذلك فلا يعرف له سببًا
+        <lb/>
+
+        ولا وجهًا حتّى يهلك في العماء
+      </p>
+
+      <p n="The Parable of the Cat and Rat Is Invoked">
+        ومثل ذلك
+        <lb/>
+
+        السّنور والجرذ الذي خلّص كلّ منهما صاحبه
+      </p>
+
+      <p n="The King Requests the Full Parable">
+        قال المَلك وكيف كان ذلك
+        <lb/>
+
+        قال الفيلسوف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Aw</chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

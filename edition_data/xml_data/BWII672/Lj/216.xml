@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="216"/>
+
+      <p n="Jackal Has Been Tested">
+        وأنت حقيق بمراجعته ومواصلته
+      </p>
+
+      <p n="Lion Apologizes to Jackal">
+        فلمّا سمع الأسد كلام
+        <lb/>
+
+        أمّه أمر بإحضار ابن آوى لمجلسه فحضر فدنا منه الأسد
+        <lb/>
+
+        واعتذر إليه ممّا كان منه وقع وأوعده خيرًا وقال
+        <lb/>
+
+        إنّني معتذر إليك ممّا كنت حملت عليه
+      </p>
+
+      <p n="Lion Wants to Reinstate Jackal">
+        ورادّك إلى منزلتك
+        <lb/>
+
+        ورافعك إلى أفخر المنازل
+      </p>
+
+      <p n="Untrue Friends Seek Only Their Own Benefit">
+        قال ابن آوى إنّ أشرّ الأخلّاء
+        <lb/>
+
+        من التمس منفعة نفسه بضرّ غيره وكان لأخيه غير
+        <lb/>
+
+        ناظر كنظره لنفسه وإن كان على خلاف الحقّ وهو
+        <lb/>
+
+        لا يرضيه في اتّباع هواه وكثير ذلك من الأخلّاء
+      </p>
+
+      <p n="unassigned">
+        موجودين
+      </p>
+
+      <p n="Jackal Is Reluctant to Trust Lion Again">
+        وقد كان إليّ من الملك ما قد علم فلا أجد عند نفسي ما أنّي
+        <lb/>
+
+        أعود إلى خدمته وإنّي غير موافق عليه وأوثق به وإنّه
+        <lb/>
+
+        لا ينبغي لي أن أصحبه
+      </p>
+
+      <p n="King Must not Trust the Wrongfully Punished">
+        فإنّ الملوك ينبغي لهم أن لا يثقوا
+        <lb/>
+
+        بمن عاقبوه أشدّ العقاب
+      </p>
+
+      <p n="King Must not Trust the Deposed">
+        فإنّ الملوك أحقّ أن يرفضوا
+        <lb/>
+
+        ذلك منها ممّن عزلوه عن عمل كان فيه
+      </p>
+
+      <p n="King Must not Trust the Extorted">
+        واحتاجوا إلى
+        <lb/>
+
+        ماله من غير جرم
+      </p>
+
+      <p n="King Must not Trust Someone Denied Honor">
+        ولا من كان مستحقًّا للكرامة والإطلاق
+        <lb/>
+
+        ثمّ صحبوه بالنقص له من غير استحقاق لذلك
+      </p>
+
+      <p n="King Must not Trust the Unrewarded">
+        ولا من
+        <lb/>
+
+        قد سُرّ عليه من كان من نظرائه وأكرموه وفضّلوه عليه
+        <lb/>
+
+        بالكرامة
+      </p>
+
+      <p n="King Must not Trust Someone Denied Justice">
+        ولا من كان بالمظالم التي بانت منه بظُلامته
+        <lb/>
+
+        ولا يعفو عنه
+      </p>
+
+      <p n="Kind Must not Trust the Adversarial">
+        ولا من كانت منزلته ضرًّا للملك ونفعًا
+        <lb/>
+
+        له
+      </p>
+
+      <p n="King Must not Trust the Greedy and Unsatisfied">
+        ولا بالشرِه الحريص ولا من اجترم جرمًا
+      </p>
+
+      <p n="Jackal Gives Lion the Choice">
+        فلينظر
+        <lb/>
+
+        الملك فيما ذكرت فإن كان يثق من نفسه بذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

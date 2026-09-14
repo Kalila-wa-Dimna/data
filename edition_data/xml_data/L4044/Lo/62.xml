@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="62"/>
+
+      <p n="Explaining the Six Causes">
+        الأعوان والنصحاء والساسة من أهل الرأي والنجدة والأمانة ويفقد بعض
+        <lb/>
+
+        من هو كذلك وأمّا الفتنة فهو تحارب الناس وتوقّع الحرب بينهم وأمّا الهوى
+        <lb/>
+
+        فالإغرام بالنساء وبالحديث وبالشراب وبالصيد وما أشبه ذلك وأمّا
+        <lb/>
+
+        الفظاظة فإفراط الشدّة حتى يجمع اللسان بالشتم واليد بالبطش في غير موضعهما
+        <lb/>
+
+        وأمّا الزمان فهو ما يصيب الناس من السنين والموت والغرق ونقص الثمرات
+        <lb/>
+
+        وأشباه ذلك وأمّا الخرق فإعمال الشدّة في موضع اللين واللين في
+        <lb/>
+
+        موضع الشدّة
+      </p>
+
+      <p n="The Lion's Dangerous Infatuation">
+        وإنّ الأسد قد أغرم بالثور إغرامًا شديدًا فهو الذي ذكرت
+        <lb/>
+
+        أنّه خليق أن يضرّه ويشينه
+      </p>
+
+      <p n="Kalila Questions Dimna's Plan">
+        قال كليلة وكيف تطيق الثور وهو أشدّ
+        <lb/>
+
+        منك رأيًا وأكرم على الأسد وأكثر أصدقاء وأعوانًا
+      </p>
+
+      <p n="Cunning Over Strength">
+        قال دمنة
+        <lb/>
+
+        لا تنظر إلى صغري فإنّ الأمور ليست تجري على القوّة والضعف فكم من
+        <lb/>
+
+        صغير ضعيف قد بلغ بدهائه ورأيه وحيله ما يعجز عنه كثير من الأقوياء
+        <lb/>
+
+        والأشدّاء
+      </p>
+
+      <p n="The Crow and the Snake Parable">
+        ألم يبلغك أنّ غرابًا احتال على الأسود حتّى قتله
+      </p>
+
+      <p n="Kalila Asks for the Story">
+        قال كليلة
+        <lb/>
+
+        وكيف كان ذلك
+      </p>
+
+      <p n="The Crow's Predicament">
+        قال دمنة زعموا أنّ غرابًا كان له وكر في شجرة في جبل
+        <lb/>
+
+        وكان قربه جحر فيه أسود فكان إذا فرّخ الغراب ذهب الأسود إلى
+        <lb/>
+
+        وكره فأخذ فراخه فأكلها
+      </p>
+
+      <p n="The Crow Seeks Counsel">
+        فلمّا فعل ذلك مرّات وبلغ من الغراب كلّ مبلغ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

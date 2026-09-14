@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="58"/>
+
+      <p n="Humor Seeking Readers">
+        دون البواطن
+      </p>
+
+      <p n="A Gardner Neglects His Harvest">
+        مثله كمثل الرجل والأرض والحبّ زعموا
+        <lb/>
+
+        أنّ رجل أصاب أرض حرّة طيّبة وحملها من أعجب العجب
+        <lb/>
+
+        في غرارته وجهًا صحيحًا فتملّكها وبذرها وسقاها
+        <lb/>
+
+        حتّى أينعت وأثمرت وترعرعت وقرب خيرها تشاغل
+        <lb/>
+
+        عنها بالإنكاش وقَيَمان الشوك والبلّان منها إلى أن
+        <lb/>
+
+        هلكت وهلك ما كان يحسن فائدته له فلو أصلحها
+        <lb/>
+
+        حظي بخيرها
+      </p>
+
+      <p n="The Reader Needs Stamina and Focus">
+        وينبغي لطالب العلم الجدّ والتشمير
+        <lb/>
+
+        وتفريغ البال وخلوّ الزرع وإظهار الحرص وقوّة
+        <lb/>
+
+        الهمّة بالصبر والملازمة فإنّه متى لم يكن ذلك لم ينتفع
+        <lb/>
+
+        بالمقصود ولم يستفد من الثمرة شيء بل أتعب بذلك
+        <lb/>
+
+        نفسه على الفارغ البطّال
+      </p>
+
+      <p n="The Teacher and the Student are Partners">
+        وقيل إنّ الفيلسوف وتلميذه
+        <lb/>
+
+        بمنزلة الشريكين فيقرأ التلميذ ويفسّر الفيلسوف فيخرجا
+        <lb/>
+
+        المعاني معًا لإفادة كلاهما وإلّم يكونا ذلك كذلك فيكون
+        <lb/>
+
+        مثلهما زعموا أنّ رجلًا قدّموا له جوز فارغ ملآن
+        <lb/>
+
+        لم يعرفه لأنّه صحيح فلم ينتفع به إذا لم يكسره فيظهر له
+        <lb/>
+
+        قلبه يعود نفعه إليه وإلّا ما دام صحيح لم ينتفع به أبدًا
+        <lb/>
+
+        لأنّه ما رآه من قبل ولا يعرف اش هو
+      </p>
+
+      <p n="The Preface Is for Explaining the Target Audience">
+        وإنّي قدّمت
+        <lb/>
+
+        هذه المقدّمة لئلّا يظنّ ظانٌّ أنّ الفلاسفة وضعت
+        <lb/>
+
+        هذا الكتاب لظاهره دون باطنه نعم ظاهره وُضع للعامّة
+        <lb/>
+
+        وباطنه للعلماء والملوك وأرباب البصائر
+      </p>
+
+      <p n="The Book Has Four Aims">
+        وفيما ينبغي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

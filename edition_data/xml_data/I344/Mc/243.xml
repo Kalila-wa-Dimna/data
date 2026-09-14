@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="243"/>
+
+      <p n="The Rat Weighs His Predicament">
+        فقال الجرذ ينبغي أن أستعين بالحِلم والتودّد والاحتيال لهذا
+        <lb/>
+
+        الأمر حتّى أتخلّص منه
+      </p>
+
+      <p n="Intelligence Is Like the Sea">
+        فإنّ قلوب العلماء بحور غميقة وهم يعلمون
+        <lb/>
+
+        بها ما بين الخلّتين
+      </p>
+
+      <p n="Situations Do Not Blind the Intelligent">
+        ولا يتّقون بدوام الحياة لهم أيام الرخاء
+      </p>
+
+      <p n="Foes Surround the Rat">
+        فوق غصن من أغصان تلك الشجرة تراقبه لتخطفه فخاف إن
+        <lb/>
+
+        ينصرف راجعًا أن يثبت عليه ابن عرس وإن ذهب يمينًا
+        <lb/>
+
+        أو شمالًا أن تخطفه البومة وإن تقدّم أمامه أن يفترسه السنّور
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="51"/>
+
+      <p n="Knowledge Is Complete with Proper Implementation">
+        وقد يُقال إنّ العلم لا يُنتفع به إلّا بالعمل
+      </p>
+
+      <p n="Knowledge Is a Tree and Action Is the Fruit">
+        لأنّ العلم هو الشجرة والعمل
+        <lb/>
+
+        هو الثمرة
+      </p>
+
+      <p n="Informed Traveller Takes Risky Road">
+        ولو أنّ رجلًا كان عالمًا بطريق مخوف ثمّ سلكه على
+        <lb/>
+
+        علم لم ينتفع بعلمه وسُمي جاهلًا
+      </p>
+
+      <p n="A Sighted and a Blind Fall into a Ditch">
+        كما لو أنّ رجلين أحدهما بصير
+        <lb/>
+
+        والآخر ضرير جلبهم الأجل إلى حفرة فوقعا فيها كانا إذا ماتا
+        <lb/>
+
+        إلى قعرها بمنزلة واحدة في الهلكة
+      </p>
+
+      <p n="The Sighted Man Has No Excuse">
+        غير أنّ البصير أقلّ عذرًا
+      </p>
+
+      <p n="Scholar Must Discipline Himself">
+        وعلى
+        <lb/>
+
+        العالم أن يبدأ بنفسه فيؤدّبها بعلمه ولا يكون غايته اقتناؤه لمفازة
+        <lb/>
+
+        غيره
+      </p>
+
+      <p n="Water-Spring Benefits Only Others">
+        فيكون مثل العين التي يشرب الناس ماءها وليس لها في ذلك
+        <lb/>
+
+        شيء من المنفعة
+      </p>
+
+      <p n="Silk Worm Benefits Only Others">
+        أو كدودة القزّ التي تُحكم صنعها ولا تنتفع هي منه
+        <lb/>
+
+        بشيء
+      </p>
+
+      <p n="Instructing Oneself Comes First">
+        فقد ينبغي لمن طلب العلم أن يبدأ بعظة نفسه ثمّ بغيره
+      </p>
+
+      <p n="Three Things Are Needed for Worldly Life">
+        وإنّ خلالًا
+        <lb/>
+
+        ثلاثة ينبغي لصاحب الدنيا أن يقتبسها ويقبسها منه المال
+        <lb/>
+
+        والعلم واتّخاذ المعروف
+      </p>
+
+      <p n="One Should Not Condemn Faults in Others One Has">
+        وليس ينبغي لأحد أن يعيب على أحد أمرًا
+        <lb/>
+
+        يدخل هو في مثله
+      </p>
+
+      <p n="Reader Is Like a Blind Blaming another Blind">
+        فيكون كالأعمى الذي يعيّر الأعمى بعماه
+      </p>
+
+      <p n="Two Things Suit Everyone">
+        وقد يُقال في
+        <lb/>
+
+        أمرين لا يجملان بكلّ أحدهما النسك والآخر المال
+      </p>
+
+      <p n="Two Things Do Not Suit Anyone">
+        ويقال في
+        <lb/>
+
+        أمرين لا يشارك فيهما الملك لا يشارك في مُلكه والآخر لا
+        <lb/>
+
+        يشارك في زوجته
+      </p>
+
+      <p n="Fire Consumes Every Log">
+        فالحالتان الأولتان مثلهما مثل النار التي تحرق
+        <lb/>
+
+        كل حطب يُقذف فيها
+      </p>
+
+      <p n="Fire and Water Do Not Mix">
+        والحالتان الأخرتان كالماء والنار التي لا يمكن
+        <lb/>
+
+        اجتماعهما عليه <> عناء
+      </p>
+
+      <p n="One Should Abide by God's Measures">
+        وقد يُقال أنّ الله عزّ وجلّ قال لكلّ شيء حدًّا يوقف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="88"/>
+
+      <p n="Man Seeks Short Pleasure">
+        الاهتمام لنفسه وطلب النجاة لها
+      </p>
+
+      <p n="Subtale Man in Well">
+        فالتمست للإنسان مثلًا فإذا مثله
+      </p>
+
+      <p n="Allegory of Man in Well">
+        مثل رجل
+        <lb/>
+
+        نجا من خوف فيل هائج إلى بئر فتدلّى فيها وتعلّق بغضنين كانا على سمائها فوقعت
+        <lb/>
+
+        رجلاه على شيء في طيّ البئر فإذا حيّات أربع قد أخرجن رؤوسهنّ من أجحارهنّ
+        <lb/>
+
+        ثمّ نظر فإذا في قعر البئر تنّين فاتح فاه منتظر له ليقع فيأخذه ورفع بصره إلى
+        <lb/>
+
+        الغصنين فإذا في أصلهما جرذانان أسود وأبيض وهما يقرضان الغصنين دائمان
+        <lb/>
+
+        لا يفتران
+      </p>
+
+      <p n="Man is Distracted by Honey">
+        فبينما هو في النظر لأمره والاهتمام بنفسه إذ بصر قريبًا منه كوارة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

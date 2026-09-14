@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M618</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="38"/>
+
+      <p n="Burzoy Came To Steal Indian Knowledge">
+        يحفظك ويبقيك يا صديقي الذي قدم عليّ وصادقني ليسلبني زينتي وفخري
+      </p>
+
+      <p n="Burzoy Deserves Help">
+        ولعمري
+        <lb/>
+
+        إنّ مثلك من الرجال الذين قد اجتمعت فيهم هذه الخصال المحمودة لأهلّ أن يُسعف
+        <lb/>
+
+        بحاجته
+      </p>
+
+      <p n="Friend Is Afraid">
+        لكنّ حاجتك قد أرعبت قلبي وأدخلت عليّ الخوف والوحشة
+      </p>
+
+      <p n="Friend Is Loyal Despite Deceit">
+        فلمّا عرف بروزيه
+        <lb/>
+
+        أنّ الهنديّ قد وقف على أنّ مصادقته إيّاه كانت على طريق مكر وحيلة لطلب
+        <lb/>
+
+        حاجته وقد أنزل ذلك منزلة اختلاس لحكمه وعلمه وأنّه لم يزجره ولم ينتهره
+        <lb/>
+
+        لكنّه ردّ عليه ردًّا ليّنَا حسنًا كردّ الأخ إلى أخيه باللين والإسعاف فاطمأنّ إليه
+      </p>
+
+      <p n="Burzoy Sure Of Success">
+        ووثق بنجاح حاجته
+      </p>
+
+      <p n="Burzoy Had Prepared Argument">
+        فقال برزويه للهنديّ إنّي كنت هيّأت كلامًا كثيرًا ووضعت
+        <lb/>
+
+        له مقدّمات وأصولًا وشعّبت له شعوبًا وأنشأت له غصونًا وسجرت أطرافًا
+      </p>
+
+      <p n="Friend Is Quick Minded">
+        فلمّا ألقيت إليك منه طرفًا اكتفيت باليسير عن الكثير وبالصغير عن الكبير لما
+        <lb/>
+
+        قسم الله لك من العقل والأدب
+      </p>
+
+      <p n="Friend Spares Burzoy Argument">
+        فكفيتني مؤنة الكلام وأجملت لي في الجواب
+        <lb/>
+
+        باليسير من القول بالإسعاف بحاجتي كما قد بدا لي منك
+      </p>
+
+      <p n="Secrets Safe With Scholars">
+        فإنّ الكلام إذا أُلقي
+        <lb/>
+
+        إلى الفيلسوف والسرّ إذا استُودع اللبيب الحافظ فقد حُصّن وبلغ غاية
+        <lb/>
+
+        أمل صاحبه
+      </p>
+
+      <p n="Safe Secret Like Fortress">
+        كما يُحصَّن الشيء النفيس في القلاع المنيعة من وصول المطرقة
+        <lb/>
+
+        إليه
+      </p>
+
+      <p n="Friend Responds">
+        قال الهنديّ
+      </p>
+
+      <p n="Friends Share Everything">
+        لا شيء أفضل من المودّة ومن خلصت مودّته كان أهلًا أن
+        <lb/>
+
+        يخالطه الرجل بنفسه فلا يؤخّر عنه شيئًا ولا يستر عنه أمرًا
+      </p>
+
+      <p n="Discretion Is Vital For The Educated">
+        فإنّ رأس الأدب
+        <lb/>
+
+        حفظ السرّ
+      </p>
+
+      <p n="Secret Better Remain Untold">
+        فإذا كان السرّ مودعًا عند الأمين الكتوم فقد أُحرز عن
+        <lb/>
+
+        التضييع مع أنّه خليق أن لا يتكلّم فلا يكون سرًّا بين اثنين
+      </p>
+
+      <p n="Shared Secret Spreads">
+        إذا تكلّما
+        <lb/>
+
+        به لسانان فلا بدّ أن يتكلّم به أحد الاثنين وإذا صار إلى ثلاثة فقد
+        <lb/>
+
+        شاع وضاع حتّى لا يستطيع صاحبه أن يجحده أو يكابر عنه
+      </p>
+
+      <p n="Spread Secrets Like Clouds">
+        كالغيم إذا كان
+        <lb/>
+
+        في السماء متقطّعًا <> لم يقدر أحد على تكذيبه
+      </p>
+
+      <p n="Friend Is Delighted With Knowing Burzoy">
+        وأمّا أنا فقد داخلني من مودّتك
+        <lb/>
+
+        وإخائك وخلطتك سرورًا لا يعادله عندي شيء
+      </p>
+
+      <p n="Friend Fears Secret Spreads">
+        وهذا الأمر الذي تطلبه اعلمْ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

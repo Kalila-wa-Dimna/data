@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="331"/>
+
+      <p n="unassigned">
+        بالنار فإنّه يأتيك من قبل ملك جياد من يقوم بين يديك بإكليل
+        <lb/>
+
+        من ذهب وأمّا الطير الأبيض الذي ضرب رأسك بمنقاره فلست
+        <lb/>
+
+        مفسّرا لك ذلك فلا توجلن منه ولكن فيه بعض السخط والإعراض
+        <lb/>
+
+        عمّن تحبّ وأمّا البرد والرسل فإنّم يأتوك إلى سبعة أيّام حتّى
+        <lb/>
+
+        يقوموا بين يديك
+      </p>
+
+      <p n="King Is Thankful">
+        فلمّا سمع الملك ذلك سجد بين يدي كبايرون
+        <lb/>
+
+        وانصرف
+      </p>
+
+      <p n="King Awaits Fulfilment">
+        وقال إنّي ناظر فيما قال
+      </p>
+
+      <p n="Gift Receiving Ceremony">
+        فلمّا كان لليوم السّابع أخذ
+        <lb/>
+
+        الملك زينته وقعد في مجلسه وأذِن للعلماء والعظماء وأتته الهدايا
+      </p>
+
+      <p n="Kings Joy">
+        فاِشتدّ فرحه
+      </p>
+
+      <p n="One Must Consult Right People">
+        وقال ينبغي أن لا يُسمع إلاّ من الأخلاّء وذوي
+        <lb/>
+
+        الرأي والقرابة فقد ثبت ملكي برأي النصحاء والأخلاّء
+      </p>
+
+      <p n="King Appreciates Wise Man">
+        واِستبان لي أيضًا فضل كبايرون وصدق قوله
+      </p>
+
+      <p n="Gift To Be Distributed To All Victims">
+        ثمّ
+        <lb/>
+
+        دعا الملك جوبر كاتبه وبلاذ صاحب أمره وكال الكاتب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

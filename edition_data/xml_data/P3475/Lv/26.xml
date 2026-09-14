@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="26"/>
+
+      <p n="Secret Keeper Like Immutable Object">
+        شيء
+      </p>
+
+      <p n="Burzoy Vows Gratitude">
+        وأنت بحمد الله عدّتي التي أقاتل وعليها أعتمد وبها أصول
+        <lb/>
+
+        ومنها أرجو حاجتي
+      </p>
+
+      <p n="Friend Responds">
+        فأجابه الهنديّ وقال له
+      </p>
+
+      <p n="Secret Uncovered Like Covered Flask">
+        أن حقّك
+        <lb/>
+
+        حفظ الأسرار وكتمانها شبّهته العلماء بغلاف القارورة
+        <lb/>
+
+        المغطّي عليها يراها واحد مملّسة مضمونة محرّزة فإذا نُزع
+        <lb/>
+
+        غلافها تبقى مشهورة مفردة يراها لَكُلُّ أحد
+      </p>
+
+      <p n="Friend Indebted To Burzoy">
+        وقد وجدت مع
+        <lb/>
+
+        قرب العهد بيننا من الكرامة التحف والإلطاف منك ما أندم فيك
+      </p>
+
+      <p n="Friend Fears Secret Spreads">
+        وإنّك تسألني من هذه الحاجة ما أتخوّف أن يشيع ويفطن بنا
+        <lb/>
+
+        حاسد فيكون في ذلك هلاكي واستيصالي
+      </p>
+
+      <p n="Friend Tasked With Hiding Book">
+        فإنّ المَلك قد
+        <lb/>
+
+        استند عليّ في هذا الكتاب وأمرني بكتمانه لئلاّ يشيع ويقع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

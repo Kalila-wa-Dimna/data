@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M487</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="97"/>
+
+      <p n="Burzoy Expresses Gratitude">
+        لنا في عمره أبد الدنيا
+      </p>
+
+      <p n="Favor Merits Gratitude">
+        إنّ الإنسان إذا أُكرم وخُيّر قلبه وجب عليه
+        <lb/>
+
+        الشكر وإن كان قد استوجب نفعًا تجشّمه من مشقّة كان فيها رضى الله
+      </p>
+
+      <p n="Burzoys Toil Repaid By Honor">
+        وكلّ ما لقيت من عناء ونصب ومشقّة فلا أريد في مقابلة ذلك شيئًا لما أعلم
+        <lb/>
+
+        لكم فيه من السرور والشرف
+      </p>
+
+      <p n="Burzoy Serves Kisra Gladly">
+        وإنّي لم أزل وإلى الآن لرضاكم متخيّرًا ولو
+        <lb/>
+
+        نالني كلّ مشقّة في ذلك وأختار التعب والنصب في راحتكم
+      </p>
+
+      <p n="Burzoy Announces Request">
+        وأسأل
+        <lb/>
+
+        الله والملك أن تكون خاصّته بقضاء حاجة فإنّ حاجتي سؤلي فيها وقضائها
+        <lb/>
+
+        فوائد كثيرة
+      </p>
+
+      <p n="Kisra Welcomes Request">
+        قال أنوشروان اسأل فإنّ كلّ حاجة لك من قبلنا
+        <lb/>
+
+        مقضيّة فإنّك عندنا عظيم القدر ولو طلبت شاركتنا في مُلكنا
+        <lb/>
+
+        لأنلناك ذلك ولم نردّ طلبتك فكيف فيما سوى ذلك فقل ولا
+        <lb/>
+
+        تخش فإنّ الأمور كلّها بيدك
+      </p>
+
+      <p n="Burzoy Expects No Reward">
+        قال برزويه أكرم الله الملك إنّ عنائي
+        <lb/>
+
+        في رضاك وانكماشي على طاعتك فإنّي أنا عبدك وما جرى فإنّه لم يكن
+        <lb/>
+
+        عظيمًا عندي ولا واجبًا عليك رضائي
+      </p>
+
+      <p n="Burzoys House Elevated By Kisra">
+        وإنّما الملك لفضل كرامته
+        <lb/>
+
+        وشرف منصبه وتواصل أياديه قصد تشريفي وعمد إلى مجازاتي
+        <lb/>
+
+        وخصّصني وأهل بيتي بعلوّ المرتبة ورفيع الدرجة
+      </p>
+
+      <p n="Burzoy Invokes Blessing On Kisra">
+        حتّى وددت أن يجمع
+        <lb/>
+
+        الله لك شرف الدنيا وكرامة الآخرة فجزاك الله عنّي أفضل الجزاء
+        <lb/>
+
+        وأنالك أجزل الثواب
+      </p>
+
+      <p n="Kisra Repeats Question">
+        قال أنوشروان اذكر حاجتك فعليّ ما يسرّك
+      </p>
+
+      <p n="Burzoy Wants Bio Chapter">
+        فقال برزويه حاجتي أن يأمر الملك أعلى الله أمرك بزرجمهر بن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

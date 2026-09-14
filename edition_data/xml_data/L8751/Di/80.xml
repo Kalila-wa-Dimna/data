@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="80"/>
+
+      <p n="Punishment In Here Is Better Than In Hereafter">
+        يا دمنة لأن تعاقب في الدنيا خيرٌ لك من أن تعاقب في الآخرة
+      </p>
+
+      <p n="Judge Enjoins Dimna to Confess">
+        فبوء بذنبك وقرّ بإساءتك
+        <lb/>
+
+        واعترفْ بما كان من صنيعك
+      </p>
+
+      <p n="Confessing Crime Has Good Consequences">
+        فإنّه أفضل لك عند عواقب الأمور إن أنت هديت إلى ذلك
+        <lb/>
+
+        وخضعت له
+      </p>
+
+      <p n="Dimna Agrees with Judge's Rationale">
+        فقال دمنة أيّها القاضي المصلح نطقت بالعدل وقلت مقالة الحكماء
+      </p>
+
+      <p n="One Must Not Sacrifice Hereafter for Here">
+        لعمري إنّ من سعادة المرء أن لا يبيع آخرةً باقيةً بدنيًا منقطعةٍ فانيةٍ أو لا يشتري
+        <lb/>
+
+        روحًا يسيرًا بعذابٍ دائمٍ
+      </p>
+
+      <p n="Dimna, Being Innocent, Cannot Confess What He Did Not Do">
+        ولكنّي ممّا قذفت به بريءٌ وما كنت أرضى لامرئٍ يقتل مظلوم
+        <lb/>
+
+        ولا أعاون عليه ولا أنطق بالكذب فيه ولا أتفوّه به ولا يعرف ذلك فشديدٌ عليّ أن
+        <lb/>
+
+        أقرّ بما لم أعملْ وأبوء بما لم أجنِ وأفعل فأكون معينًا على نفسي وشريكًا لمن أراد قتلي
+        <lb/>
+
+        فإنّك تعرف عقاب لمن فعل ذلك في الآخرة
+      </p>
+
+      <p n="Killing Dimna Would Be Unjust">
+        وأنا بريء الساحة بارز العذر فإن أنتم
+        <lb/>
+
+        أردتم قتلي مظلومًا فكفى بالله شهيدًا ولي ناصرًا ومعينًا ولعلّ ذلك إن فعلتموه أن لا
+        <lb/>
+
+        يكون شرّ أموري لي عاجلًا
+      </p>
+
+      <p n="Dimna Want to Spare Court Sin and Regret in Hereafter">
+        وأنا أقول مقالتي اليوم ومقالتي أمس اذكروا حساب الآخرة
+        <lb/>
+
+        وعقابها ولا تأسفوا غدًا حين لا تنفع الندامة
+      </p>
+
+      <p n="Dimna's Fourth Subtale of the Falconer Who Falsely Accuses the Marzuban's Wife">
+        وإيّاكم أن يصيبكم كما أصاب القائل ما
+        <lb/>
+
+        لا علم له به وما لم يتبط به خبره
+      </p>
+
+      <p n="Head of Court Requests Tale">
+        فقال عظيم الجند وكيف كان ذلك
+      </p>
+
+      <p n="Marzuban Had Wife and Servant">
+        قال دمنة زعموا أنّه
+        <lb/>
+
+        كانت لمرزبان في مدينة ماروات امرأةٌ حسناء لبيبةٌ وكان لها عبدٌ بازيار
+      </p>
+
+      <p n="Falconer Accosted Wife and Is Rejected">
+        قد هويها وعرض
+        <lb/>
+
+        عليها نفسه مرارًا كلّ ذلك لا تلتفت إليه ولا تقبل عليه
+      </p>
+
+      <p n="Falconer Decides to Take Revenge">
+        وأضمر فضيحتها
+      </p>
+
+      <p n="Falconer Teaches Parrots False Accusation in Foreign Tongue">
+        فخرج ذات يومٍ
+        <lb/>
+
+        إلى الصيد فاصطاد فرخي ببّغاء فيها لهما وكرّر وجعل يعلّم أحدهما إنّي قد رأيت البواب
+        <lb/>
+
+        مضاجعًا لمولاتي والآخر أمّا أنا فلست قائلًا شيئًا فحفظا ذلك بلسان أهل بلخ ولم يكن
+        <lb/>
+
+        المرزبان ولا أهل بلاده يعرفونه
+      </p>
+
+      <p n="Falconer Gives Parrots to Marzuban">
+        فلمّا كان ذات يومٍ وهو يشرب وعنده امرأته إذ أتاه
+        <lb/>
+
+        بهما فصاحا عنده فأعجب بهما ولم يدر ما يقولان
+      </p>
+
+      <p n="Marzuban Gives Parrots to Wife">
+        فأمر امرأته بالاحتفال بهما والاحسان
+        <lb/>
+
+        إليها ففعلت ومكثا عندها شهرًا
+      </p>
+
+      <p n="Marzuban Hosts Foreign Guests">
+        ثمّ إنّه قدم على المرزبان أناسٌ من عظماء أهل بلخ فصنع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

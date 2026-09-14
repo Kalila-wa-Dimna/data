@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="253"/>
+
+      <p n="The Rat Weighs His Predicament">
+        تظامرت عليّ ولا يرجع إلّا لعقلي وحيلتي فلا تكوننّ من شأني الدهش
+        <lb/>
+
+        ولا يذهب قلبي شعاعًا
+      </p>
+
+      <p n="The Intelligent Always Keeps Alert">
+        فإنّ العاقل لا يتفرّق عليه عقله رأيه ولا يعرب
+        <lb/>
+
+        عنه عقله على حال
+      </p>
+
+      <p n="Intelligence Is Like the Sea">
+        ولكن النبل في هذا كالبحر الذي لا يُدرك
+        <lb/>
+
+        غوره
+      </p>
+
+      <p n="Situations Do Not Blind the Intelligent">
+        ولا يبلغ البلاء من ذوي الرأي ولا سيّما مجهود عقله فيهلكه
+        <lb/>
+
+        والرجاء منه مبلغًا
+      </p>
+
+      <p n="The Rat Decides on a Pact with the Cat">
+        ولا أرى حيلة أحسن من التماس صلح السنّور
+        <lb/>
+
+        فإنّه قد نزل به فادح ولعلّي عنّي وطمع في معيشتي ولعلّه يكون في
+        <lb/>
+
+        ذلك لي وله نجاة
+      </p>
+
+      <p n="The Rat Comes Up to the Cat">
+        ثمّ دنا منه فقال له كيف حالك
+      </p>
+
+      <p n="The Cat Acknowledges Being Trapped">
+        قال له
+        <lb/>
+
+        السنّور كالذي تهوى في الضيق والضنك
+      </p>
+
+      <p n="The Rat Points Out Their Common Problem">
+        قال الجرذ لعمري
+        <lb/>
+
+        لقد كان يسوءني ما يسرّك ولربّما كنت أحبّ يضيق عليك أمرك ويقرب
+        <lb/>
+
+        منك أجلك ولكنّه قد نزل بي من الشرّ ما لا يسرّني معه ضيق
+        <lb/>
+
+        مكانك ولا موتك وأنت أيضًا ليس أحد أقدر على تخليصك من هذا
+        <lb/>
+
+        المكان منّي
+      </p>
+
+      <p n="The Rat Proves His Sincerity">
+        وإنّما على ىعرف حدر من ابن عرس والبومة فإنّما يرصداني وأنا
+        <lb/>
+
+        ضعيف لا أطيق دفعهما فإن أنت أمّنتني من نفسك وضنت لي الخلاص
+        <lb/>
+
+        من غيرك مّمن قد اكتنفني ورصدني أنقذتك ممّا أنت فيه وخلّصتك من
+        <lb/>
+
+        وثاقك فاغتنم ذلك
+      </p>
+
+      <p n="The Cat Should Desire Common Rescue">
+        وعاونّي في خلاصك وخلاص نفسي فإنّي كما أحببت بحياتي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

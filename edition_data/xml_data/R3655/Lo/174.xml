@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="174"/>
+
+      <p n="unassigned">
+        أجمة فيها طبل ملقًى فهبّت ريح فجعلت قضبان الشجر تقرع الطبل فيصوّت صوتًا
+        <lb/>
+
+        شديدًا
+      </p>
+
+      <p n="Dimna's Explanation of Not Fearing All Sounds">
+        فسمع الثعلب ذلك الصوت فتوجّه نحوه حتّى أتاه
+      </p>
+
+      <p n="Third Subtale of Fox and Drum">
+        فلمّا رآه ضخمًا وسمع صوته
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+      </p>
+
+      <p n="Third Subtale of Fox and Drum">
+        شديدًا
+      </p>
+
+      <p n="Fox's Approach to the Loud Sound">
+        قال في نفسه إنّ هذا لخليق أن يكون كثير الشحم
+      </p>
+
+      <p n="Fox Splits Drum Expecting Food">
+        فعالجه أشدّ العلاج
+        <lb/>
+
+        حتّى شقّه
+      </p>
+
+      <p n="Fox Finds Drum Empty">
+        فلمّا رآه أجوف قال ما أدري لعلّ أفشل الأشياء أعظمها جثّة وأشدّها
+        <lb/>
+
+        صوتًا
+      </p>
+
+      <p n="Dimna's Application of the Parable to the Lion's Situation">
+        وإنّما ضربت لك المثل رجاء أن يكون هذا الصوت الذي يروّعنا لو قد
+        <lb/>
+
+        انتهينا إليه أيسر أمرًا ممّا في أنفسنا
+      </p>
+
+      <p n="Dimna's Offer to Investigate on the Lion's Behalf">
+        فإن شاء الملك فليبعثني نحو هذا الصوت
+        <lb/>
+
+        ويقم بمكانه حتّى أرجع إليه ببيان ما يريد أن يعلم
+      </p>
+
+      <p n="unassigned">
+        فوافق الأسد ذلك من قوله
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

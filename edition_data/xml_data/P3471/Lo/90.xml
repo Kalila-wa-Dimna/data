@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="90"/>
+
+      <p n="The Ascetic Intervenes">
+        أنفها إنّما نحن فعلنا ذلك بأنفسنا
+      </p>
+
+      <p n="The Ascetic's Testimony">
+        قال القاضي للناسك عن بيان
+        <lb/>
+
+        ذلك وتفسيره فحدّثه بالخبر
+      </p>
+
+      <p n="Dimna Seeks a New Plan">
+        قال دمنة قد سمعت هذا المثل
+        <lb/>
+
+        وهو شبيه بأمري ولعمري ما ضرّني غير نفسي فما الحيلة
+      </p>
+
+      <p n="Kalila Asks for Dimna's Plan">
+        فقال كليلة
+        <lb/>
+
+        أخبرني عن رأيك في ذلك ما هو
+      </p>
+
+      <p n="Dimna's Goal: Restoration">
+        فقال دمنة أمّا أنا فلست <> أن أردّ منزلتي
+        <lb/>
+
+        فوق ما كانت عليه ولكن تعود إلى حالها
+      </p>
+
+      <p n="The Three Considerations of the Wise">
+        فإنّ المرء حقيق أن يتفكّر
+        <lb/>
+
+        فيما مضى من الضرّ عليه والنفع له فيحترس من المكروه أن يعود
+        <lb/>
+
+        عليه فليستوثق ممّا يوافقه ويهرب ممّا لا يوافقه من المحذور
+      </p>
+
+      <p n="Dimna Concludes the Bull Must Die">
+        وإنّي لمّا
+        <lb/>
+
+        نظرت أمري لم أجد شيئًا أهنأ من الاحتيال لأكل شتربة العشب
+        <lb/>
+
+        حتّى يفارق الحياة
+      </p>
+
+      <p n="Justifying the Bull's Death">
+        فإنّي لو قدرت على ذلك صرت إلى حالي الأوّل
+        <lb/>
+
+        عند الأسد ولعلّ ذلك يكون خيرًا له فإنّ فراستي فيه ذلك وأنا أعلم
+        <lb/>
+
+        أنّ قرب الأسد من الثور ممّا يشينه وينقصه
+      </p>
+
+      <p n="Kalila's Disagreement">
+        فقال كليلة
+        <lb/>
+
+        ما أرى على الأسد في شتربة منقصة ولا مضرّة
+      </p>
+
+      <p n="The Six Causes of a Ruler's Downfall">
+        فقال دمنة
+        <lb/>
+
+        إنّ السلطان إنما يُؤتى من قبل الحرمان والفتنة واللهو
+        <lb/>
+
+        والفظاظة والزمان والخرق
+      </p>
+
+      <p n="Explaining the Six Causes">
+        فأمّا الحرمان فهو أن يفقد
+        <lb/>
+
+        الأعوان والنصحاء والسياسة والإنجاد وأمّا الفتنة فمحاربة
+        <lb/>
+
+        الناس ووقوع الاختلاف فيما بينهم وأمّا اللهو والغرام بالنساء
+        <lb/>
+
+        والحديث معهنّ والشرب والصيد وما أشبه ذلك وأمّا الفظاظة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

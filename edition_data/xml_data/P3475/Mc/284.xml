@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="284"/>
+
+      <p n="The Noble Must Help">
+        في حاجة صاحبه إذا قدر عليها
+      </p>
+
+      <p n="The Cat States the Rat's Duty of Reciprocation">
+        وقد كانت لك في مودّتي في
+        <lb/>
+
+        العاجل منفعة ونجاة من الهلكة وأنت حقيق أن تكافئني
+        <lb/>
+
+        بذلك
+      </p>
+
+      <p n="The Rat Should Forget Enmity">
+        وأن لا تذكر عداوة ما بيني وبينك فإنّ الذي تجدّد
+        <lb/>
+
+        بيننا من المودّة يمحو الخلال الكثيرة من الإساءة المتقدّمة
+      </p>
+
+      <p n="The Punishment of Betrayal Comes Swiftly">
+        وأعجل العقوبة عقوبة القدر واليمين الكاذبة ومن
+        <lb/>
+
+        أرخى سبيل العفو كمن لم يعف ولم يرحم
+      </p>
+
+      <p n="The Two Kinds of Friends">
+        قال الجرذ إنّ
+        <lb/>
+
+        الصديق صديقان طائع ومضطرّ وكلاهما يلتمس المنافع
+        <lb/>
+
+        ويحترس من المضارّ فأمّا الطائع منهما فاسترساله
+        <lb/>
+
+        إليه
+      </p>
+
+      <p n="Forced Friendship Does Not Last">
+        وأما المضطرّ من الإخوان فإنّ له أحوالًا لا يُسترسل
+        <lb/>
+
+        إليه فيها وأخرى يبقى فيها
+      </p>
+
+      <p n="The Intelligent Trades Favors">
+        فلا يزال العاقل فيها يرتهن
+        <lb/>
+
+        منه بعض حاجته
+      </p>
+
+      <p n="Friendship Is Pursued For a Need">
+        وليس يجب عليه التواصل والمحابّ بين
+        <lb/>
+
+        الخلق لا التماس العاجل النفع ومرجوّه
+      </p>
+
+      <p n="The Rat Explains the Reasons for Self-Protection">
+        وأنا موف
+        <lb/>
+
+        لك بما جعلت لك على نفسي ومحترس في ذلك منك
+        <lb/>
+
+        أن يصيبني ما هو ألجأني إلى مصالحتك
+      </p>
+
+      <p n="Everything Has Its Time">
+        فإنّ لكلّ عمل
+        <lb/>
+
+        عمل خيرًا
+      </p>
+
+      <p n="The Rat Explains Not Cutting the Last Rope">
+        وأنا قاطع حبائلك في حينها غير أنّي تارك
+        <lb/>
+
+        عقدة أرتهنها منك فلا أقطعها إلّا في الساعة
+        <lb/>
+
+        التي أعرف فيها أنّك مشغول عنّي
+      </p>
+
+      <p n="The Rat Cuts All but One Rope">
+        ففعل ذلك
+      </p>
+
+      <p n="The Huntsman Approaches">
+        حتّى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

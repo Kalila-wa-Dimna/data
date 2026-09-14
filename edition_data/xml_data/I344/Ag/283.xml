@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="283"/>
+
+      <p n="unassigned">
+        فاستضافه ضيف يوما من الأيام فدعا الناسك لضيفه بثمر
+        <lb/>
+
+        لطرفته عندهم فاكلا جميعا فقال الضيف للناسك ما أحلا الثمر
+        <lb/>
+
+        وأطيبه فليت أرضنا الذي نسكنها أرض ثمر ونخل فقال الناسك
+        <lb/>
+
+        أنه لايعد سعيدا من احتاج الي ما يجده فنشره لذلك نفسه ولا يقدر
+        <lb/>
+
+        علي الصبر عن وأنت سعيد الجد اذ قنعت بما وجدت وذهدت فيما
+        <lb/>
+
+        لم تجد وكان الناسك يتكلم بالعبرانية فاستحن كلامه وأعجبه
+        <lb/>
+
+        فتكلف أن يعلمه وعالج نفسه بذلك أياما فقال له الناسك ما أخفك أحقك
+        <lb/>
+
+        أن تقع فيما تطلبه من التعليم للسان العبراني فيما وقع فيه من الغراب
+        <lb/>
+
+        قال الضيف وكيف كان ذلك صورة الناسك
+        <lb/>
+
+        قال الناسك زعموا أن عرابا رأي عجلة تمشي فأعجبه مشيها وطمع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="115"/>
+
+      <p n="The Lion Wants to Avoid Haste">
+        باتّباع نفسي والمعاجلة له دون الفحص والثبات
+      </p>
+
+      <p n="Lion Repeats Question for Mother's Source">
+        فحدّثيني باسم هذا المحدّث
+        <lb/>
+
+        لك الأمين المصدّق فيما زعمت
+      </p>
+
+      <p n="The Mother Names the Leopard">
+        قالت أمّ الأسد الأمين عندي المخبر لي هو المصدّق عندك والمؤتمن
+        <lb/>
+
+        على سرّك وصفيّك ونصيحك النمر
+      </p>
+
+      <p n="Lion Promises to Act and Dismisses His Mother">
+        قال الأسد كوني بخيرٍ واسلمي فإنّي قد بدا لي من الرأي فيما ينبغي
+        <lb/>
+
+        فانصرفت أمّ الأسد بسكون جأشها وطيب نفسها وأخذ الأسد مضجعه
+      </p>
+
+      <p n="The Judge Has Dimna Taken to Prison">
+        ولمّا أُدخل دمنة السجن وغُلظ عليه الوثاق
+      </p>
+
+      <p n="Kalila Seeks out Dimna in Prison">
+        أُخبر كليلة أنّ دمنة قد ردّ
+        <lb/>
+
+        إلى السجن فداخلته له رقّةٌ وأدركته فيه ذمامةٌ كذا لطول الصحبة
+        <lb/>
+
+        والممالحة والإخاء الذي كان بينها فانطلق له مستخفيًا
+      </p>
+
+      <p n="Kalila Weeps when Seeing Dimna">
+        حتّى لقيه في السجن
+        <lb/>
+
+        فبكى كليلة حين نظر إليه وإلى ما هو فيه من الغمّ والضيق والبلاء
+      </p>
+
+      <p n="Kalila Admits Having Been Harsh on Dimna">
+        ثمّ قال
+        <lb/>
+
+        له إنّ ما أنت فيه لكافيك من عظتي ولكن لا يمنع ذلك من أذكارك من
+        <lb/>
+
+        حقّك في النصيحة لك والتقدّمة إليك
+      </p>
+
+      <p n="Withholding Advice Would Have Made Kalila Complicit">
+        فإنّ لكلّ مقالٍ موضعًا ولو كنت
+        <lb/>
+
+        قصّرت في عظتك حين احتجت إلى ذلك منّي في حال العافية كنت اليوم
+        <lb/>
+
+        شريكك في الذنب
+      </p>
+
+      <p n="Conceit Caused Dimna's Demise">
+        ولكنّ الإعجاب بنفسك دخل بك مدخلًا قهر رأيك
+        <lb/>
+
+        وعملك
+      </p>
+
+      <p n="The Schemer Dies Before His Time">
+        وقد كنت أضرب لك مثل قول العلماء إنّ المحتال يموت قبل
+        <lb/>
+
+        أجله
+      </p>
+
+      <p n="Kalila Calls Dimna's Situation Worse Than Death">
+        وليس قولهم يموت قبل أجله انقطاع الحياة ولكن بدخول الأشياء
+        <lb/>
+
+        التي تفسد الحياة كنحو ما أنت فيه ممّا الموت أروح منه
+      </p>
+
+      <p n="Dimna Cites His Greed as Cause for Not Listening">
+        قال دمنة لم تزلْ منذ كنت تقول الحقّ بجهدك وقد كنت تعظني
+        <lb/>
+
+        وتنصحني ولكنّ شدّة النفس والحرص على طلب المنزلة استحال رأيي وسفه
+        <lb/>
+
+        نصحك عندي
+      </p>
+
+      <p n="Desire for Noxious Food Kills the Patient">
+        كالمريض المولع بالطعام الذي عرف أنّه يغلّظ مرضه ويضرّ
+        <lb/>
+
+        بجسمه فيدع معرفته وينقاد لشهوته
+      </p>
+
+      <p n="Evil Sown Sprouts in Its Own Time">
+        وقد عرفت أنّي زرعت لنفسي هذا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

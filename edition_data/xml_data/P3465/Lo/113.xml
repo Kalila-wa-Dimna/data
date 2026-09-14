@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="113"/>
+
+      <p n="The Jackal's Warning">
+        بها
+      </p>
+
+      <p n="The Heron and the Crab Parable">
+        وإيّاك أن يكون مثلك مثل العلجوم الذي أراد قتل
+      </p>
+
+      <p n="The Crab's Inquiry">
+        السرطان فقتل نفسه
+      </p>
+
+      <p n="The Crow Asks for the Story">
+        قال
+        <lb/>
+
+        الغراب وكيف كان ذلك
+      </p>
+
+      <p n="The Old Heron's Dilemma">
+        قال ابن آوى زعموا أنّ علجومًا عشّش في أجمّة
+        <lb/>
+
+        كثيرة السمك فعاش بها ما عاش ثمّ انقطع الماء عن تلك الأجمّة ونفذ السمك فأضرّ
+        <lb/>
+
+        ذلك بالعلجوم فأصابه جوع وجهد شديد
+      </p>
+
+      <p n="unassigned">
+        فجلس حزينًا يلتمس النجاة في أمره فمرّ
+      </p>
+
+      <p n="The Jackal's Warning">
+        به
+      </p>
+
+      <p n="The Heron and the Crab Parable">
+        سرطان فرأى حالته وما هو عليه من الكآبة والحزن
+      </p>
+
+      <p n="The Crab's Inquiry">
+        فدنا منه وقال
+      </p>
+
+      <p n="The Crow Asks for the Story">
+        ما لي أراك
+        <lb/>
+
+        أيّها الطائر هكذا حزينًا
+      </p>
+
+      <p n="The Old Heron's Dilemma">
+        كئيبًا قال العلجوم وكيف لا أحزن وقد كنت
+        <lb/>
+
+        أيّها الطائر هكذا حزينًا كئيبًا قال العلجوم وكيف لا أحزن وقد كنت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

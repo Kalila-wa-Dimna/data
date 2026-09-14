@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="143"/>
+
+      <p n="Foreign Guests Understand Parrots">
+        نظر بعضهم إلى بعضٍ ونكّسوا رؤوسهم حياءً وخجلًا ممّا قالا وظنّوا
+        <lb/>
+
+        أنّ صاحب الدار يفقه كلامهما حتّى فطنوا لذلك بعد فعرفوا أنّه ليس
+        <lb/>
+
+        يفهم ما يتكلّمان به
+      </p>
+
+      <p n="Foreigners Ask Whether Marzuban Understands Parrots/He Asks Them">
+        فقال له أحدهم هل تعلم ما تقول هذه الببّغاء فقال
+        <lb/>
+
+        المرزبان لست أفقه ما يقولان ولكنّه يعجبني تعديدهما فقال أفضلهم
+        <lb/>
+
+        فلا تجدنّ عليّ ولا تغضبن إن أعلمتك ما تقولان فقال لا أجد عليك
+        <lb/>
+
+        بما تقول فأخبرني فإنّك تحمّلني بذلك مِننًا وجميلًا إن أنت أخبرتني
+        <lb/>
+
+        بما يقولان
+      </p>
+
+      <p n="Foreigners Translate Parrots' Words, Refuse Meal in House of Sin">
+        قال فإنّ أحدهما يزعم بلسان البلخيّة أنّ البوّاب يفجر
+        <lb/>
+
+        بامرأة الآخر ويقول الآخر أمّا أنا فلست أقول شيئًا وإنّ من شيمتنا
+        <lb/>
+
+        أن لا نطعم في بيت امرأةٍ فاجرةٍ شيئًا وترى أنّ من فعل ذلك منّا
+        <lb/>
+
+        وجبت عليه عقوبته مثل ما يجب على الفاعل
+      </p>
+
+      <p n="Falconer Confirms Parrots' Accusations">
+        فلمّا قال الرجل ذلك
+        <lb/>
+
+        سمع العبد البازبار من خارج وكان قريبًا من القوم ورفع صوته
+        <lb/>
+
+        كي يسمع المرزويّ فقال وأنا أيضًا أشهد بمقالة الببّغائتين أنّها حقٌّ
+        <lb/>
+
+        فإنّي قد رأيت ذلك مرارًا
+      </p>
+
+      <p n="Marzuban Orders Wife to Be Killed">
+        فأمر المرزبان بامرأته أن تُقتل بعدما أخبرها
+        <lb/>
+
+        بما شهد عليه الطائران والغلام
+      </p>
+
+      <p n="Wife Asks Him to Investigate">
+        فأرسلت إليه المرأة أن لا تعجل وافحص
+        <lb/>
+
+        تأذي إليك من هذا الأمر فإنّه سيبدوا لك ويستبين ما قد فتن به
+        <lb/>
+
+        الفاجر الكذّاب قال لها يا فاجرة وكيف ذلك قالت سأل هؤلاء العظماء
+        <lb/>
+
+        أن يسألوا هذين الببّغاتين ولينظروا هل يعلمان من كلام البلخيّة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

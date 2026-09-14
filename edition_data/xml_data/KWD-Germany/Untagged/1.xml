@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>KWD-Germany</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="1"/>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        "DAS DRITTE KAPITEL",
+        <lb/>
+
+        "DIE UNTERSUCHUNG DES FALLES DIMNA,
+        <lb/>
+
+        "Eine Geschichte vom Ende dessen, der sich am Schaden eines anderen ergötzte",
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        "König Disles hat nun zu Sendebar, dem Weisen, gesagt: »Ich habe deine",
+        <lb/>
+
+        "Worte über die Trügereien eines Arglistigen verstanden, der die Wahrheit",
+        <lb/>
+
+        "mit Worten der Falschheit zu zerstören suchte, bis er die Liebe verdrängte",
+        <lb/>
+
+        "und an ihre Stelle den Haß setzte. Laß mich jetzt wissen, welche Recht-",
+        <lb/>
+
+        "fertigung Dimna schließlich hervorgebracht hat, bis der Löwe dann befohlen",
+        <lb/>
+
+        "hat, ihn zu töten.«",
+        <lb/>
+
+        "",
+        <lb/>
+
+        "Der Weise hat erzählt: »Herr König, es heißt, daß der Löwe, als er Senesba",
+        <lb/>
+
+        "getötet hatte, nach dem Verlaufe einiger Tage bereute, ihn so schnell getötet",
+        <lb/>
+
+        "zu haben. Auch erinnerte er sich seiner guten Ratschläge und seines Ver-",
+        <lb/>
+
+        "standes und vornehmen Verhaltens. Da trachtete der Löwe, immer viel mit",
+        <lb/>
+
+        "seinen Gefährten zusammenzusitzen, die ihn ergötzen sollten, damit dadurch",
+        <lb/>
+
+        "seine Traurigkeit verginge und er aufgeheitert werden könnte. Im Gefolge des",
+        <lb/>
+
+        "Königs war auch ein Leopard. Der war vornehmer und ehrenswerter als die",
+        <lb/>
+
+        "übrigen Gefährten des Königs, daher erkor ihn sich der König zum vertrauens-",
+        <lb/>
+
+        "würdigen Gefährten und Ratgeber, von dem er sich täglich beraten ließ und",
+        <lb/>
+
+        "mit dem er seine Geheimsachen bearbeitete und der ihm den ganzen Tag half.",
+        <lb/>
+
+        "",
+        <lb/>
+
+        "Eines Nachts nun, als dieser Leopard durch die Tür des Hauses Kelilas",
+        <lb/>
+
+        "und Dimnas ging, hörte er Kelilas anklagende Worte gegen Dimna. Es waren",
+        <lb/>
+
+        "Worte, die ihn wegen seines Verrats tadelten, den er am König begangen",
+        <lb/>
+
+        "hatte. Kelila zeigte nämlich Dimna, daß er in all dem schlecht gehandelt hatte,",
+        <lb/>
+
+        "was er gegen den unschuldigen Senesba unternommen hatte. Und er gab",
+        <lb/>
+
+        "ihm zu verstehen, daß er der Hand des Löwen nicht entginge und daß es",
+        <lb/>
+
+        "unmöglich wäre, daß seine Schlechtigkeit und Lügen letztlich nicht offenbart",
+        <lb/>
+
+        "würden und daß er schließlich für seine böse Tat nicht bestraft würde. Er",
+        <lb/>
+
+        "werde schon in die Grube fallen, die er gegraben hatte, und in dem Netz ge-",
+        <lb/>
+
+        "fangen, das er ausgelegt hatte. Dimna antwortete seinem Bruder Kelila und",
+        <lb/>
+
+        "sagte: Schon traf ein, was nicht rückgängig gemacht werden kann. Nun aber"
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="265"/>
+
+      <p n="The Palace Is Near the Hole">
+        من الملوك يسكنون ذلك البيت وكانوا ربّما بادوا بكثرة
+        <lb/>
+
+        هبوب الرياح من ذلك الثقب ولكن بسبب الوطن وحسن
+        <lb/>
+
+        ذلك البيت والموضع لم يكن يتهيّأ لهم أن يتحوّلوا منه
+      </p>
+
+      <p n="King W Consults with the Vizier On Wind Issue">
+        وكان
+        <lb/>
+
+        وكان للملك وزير يشاوره في أموره فاستشاره يومًا من الأيّام
+        <lb/>
+
+        وقال له تعلم أنّا بما قد تقدّمت من أفعال آبائنا الجميلة في نِعم
+        <lb/>
+
+        فائضة وأمورنا تجري على محبّتنا وهذا البيت لولا كثرة هذا
+        <lb/>
+
+        الرياح لكان شبيهًا بالجنّة
+      </p>
+
+      <p n="King W Wants to Block the Hole">
+        ولكنّ سبيلنا أن نجتهد فلعلّنا
+        <lb/>
+
+        أن نجد حيلة نسدّ بها فم هذا الثقب الذي تهبّ منه هذا الرياح
+        <lb/>
+
+        فإنّا إذا فعلنا ذلك كنّا قد ورثنا الجنّة في هذه الدنيا مع ما يكون
+        <lb/>
+
+        لنا فيه من الاسم الجميل المؤبّد
+      </p>
+
+      <p n="The Vizier Is Willing to Execute">
+        قال الوزير أنا عبدك
+        <lb/>
+
+        ومسارع إلى خدمتك وإلى ما تأمره
+      </p>
+
+      <p n="King W Is Not Satisfied with the Response">
+        قال الملك ليس هذا
+        <lb/>
+
+        جواب كلامي
+      </p>
+
+      <p n="The Vizier Defers to the Opinion of King W">
+        قال له الوزير ما عندي في هذا الوقت جواب
+        <lb/>
+
+        غير هذا لأنّ الملك أعلم وأحكم وأشرف منّي وهو ملك
+        <lb/>
+
+        الدنيا وهذا الأمر الذي تذكره لا يمكن أن يُعمل إلّا بقوة
+        <lb/>
+
+        إلهيّة فأمّا الناس فلا يطيقون ذلك لأنّه عظيم وليس
+      </p>
+
+      <p n="unassigned">
+        سبيل الصغير أن يدخل نفسه في الأمر الكبير
+      </p>
+
+      <p n="Divine Fortune Versus Human Effort">
+        قال له
+        <lb/>
+
+        الملك إنّ السعادات التي يسعد بها الناس حتّى يتفاضلون فيها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="18"/>
+
+      <p n="Burzoy Lavishes Gift On Friend">
+        الثقات منهم
+      </p>
+
+      <p n="Burzoy Opens Up To Friend">
+        فلم يكن يطمئنّ إلى أحد منهم إلّا إلى صديقه ذلك
+      </p>
+
+      <p n="unassigned">
+        لمّا
+      </p>
+
+      <p n="Process Of Vetting Friend">
+        ورد عليه
+        <lb/>
+
+        وكيف فتّش عقله
+      </p>
+
+      <p n="Burzoy Trusts Friend">
+        حتّى وثق به واطمأنّ إليه
+      </p>
+
+      <p n="Friend Broaches Secret">
+        أن قال له يومًا وهما جالسان في خلوة
+        <lb/>
+
+        يتحادثان يا أخي المظفّر إنّك قد أوليتني معروفًا جسيمًا وإنّي جدير بإسعافك بما تريد
+        <lb/>
+
+        وقضاء حاجتك وإنّه ليعرض إليّ أنّ الأمر الذي قدمت له هو غير ما يظهر منك
+      </p>
+
+      <p n="Burzoy Hints At Secret">
+        فقال
+        <lb/>
+
+        له برزويه ما أريد أن أكتمك من أمري شيئًا فوق ما كتمتك وأعلمك أنّي جئت لأمر
+        <lb/>
+
+        وهو غير ما ترى فظهر منّي لك
+      </p>
+
+      <p n="Signs Suffice For The Intelligent">
+        والعاقل يكتفي من الرجل بالعلامات الظاهرة فيه من نظرة
+        <lb/>
+
+        وإشارته بيده فيعلم سرّ نفسه وما يضمر عليه قلبه
+      </p>
+
+      <p n="Friend Aware Of Burzoys Secret">
+        قال له الهنديّ إنّي وإن كنت لم أبدأك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="304"/>
+
+      <p n="Jackal's Foes Perhaps Hid Meat">
+        عن غير علم
+      </p>
+
+      <p n="Competition and Envy Are Universal">
+        ولم يزل أهل كلّ طبقة يتحاسدون عليها ويتنافسون
+        <lb/>
+
+        حتّى طير السماء وسباع الأرض
+      </p>
+
+      <p n="Kite's Booty Attracts Competitors">
+        فإنّ الحدأة إلى إذا أصابت
+        <lb/>
+
+        القطعة اللحم نافسها كثير من الطير
+      </p>
+
+      <p n="Dog's Bone Attracts Competitors">
+        والكلب إذا كان في
+        <lb/>
+
+        فيه العظم احتوشته الكلاب
+      </p>
+
+      <p n="Schemers Pursue Only Own Benefit">
+        فإن كان أعداء ابن آوى لم
+        <lb/>
+
+        ينظروا لك فيما يضرّك لما يريدوه من عاجل نفعهم
+      </p>
+
+      <p n="King Must Protect Himself">
+        فلا تطعهم
+        <lb/>
+
+        فيما يضرّك
+      </p>
+
+      <p n="Jackal does not Need Lion">
+        ولم يزل غناء ابن آوى عنك عظيمًا
+      </p>
+
+      <p n="Jackal Toiled for Lion">
+        مؤثرًا منفعتك
+        <lb/>
+
+        على نفسه ويشتري رضاك بسخط الأصحاب
+      </p>
+
+      <p n="Jackal Hid no Secrets from Lion">
+        ولم يكن يطوي
+        <lb/>
+
+        عنك سرًّا ولا يكتمك أمرًا
+      </p>
+
+      <p n="Such Advisors Are Like Family">
+        ومن يكن كذلك فهو بمنزلة الأب
+        <lb/>
+
+        والأخ والولد
+      </p>
+
+      <p n="Lion Is Convinced">
+        فلمّا سمع الأسد كلام أمّه كفّ عن ابن آوى وراجع
+        <lb/>
+
+        فيه رأيه ثمّ دعاه فقال له إنّي قد بلوت منك رأيًا وأمانة وإنّي
+        <lb/>
+
+        إلى تصديقك أقرب من تصديق غيرك عليك
+      </p>
+
+      <p n="Jackal Begins Defense">
+        قال ابن آوى أيّها
+        <lb/>
+
+        الملك إنّي لست خارجًا في أمري من المؤونة التي أنت جدير أن
+        <lb/>
+
+        تدفعها عن نفسك دون أن أظهر من أمري مخرجًا
+      </p>
+
+      <p n="Jackal Requests Investigation">
+        قال الأسد
+        <lb/>
+
+        وكيف التكشّف لذلك قال تدعو الذين اتّهموني فتسألهم
+        <lb/>
+
+        عن الأمر الذي أوجبوا به التهمة عليّ وإنّك أيّها الملك إن فتّشت
+        <lb/>
+
+        هؤلاء القوم وغلّظت عليهم القول رجوت أن يعترف أحد منهم
+        <lb/>
+
+        بذنبه حتّى تؤمّنه من سطوتك وتكفل له العفو عن جرمه إن صدقك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

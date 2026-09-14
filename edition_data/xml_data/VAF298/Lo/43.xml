@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>VAF298</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="43"/>
+
+      <p n="Lion's Overconfidence and Poor Judgment">
+        ضعيف الرأي
+      </p>
+
+      <p n="Lion's Reaction to Unfamiliar Sound">
+        وإنّ الأسد لمّا سمع خوار الثور ولم يكن رأى ثورًا قط ولا
+        <lb/>
+
+        سمع خواره فارتعب من ذلك
+      </p>
+
+      <p n="Concerned for Appearance, Lion Stays Immobile">
+        وكره أن يفطن بذلك جنده فأقام مكانه
+      </p>
+
+      <p n="Introduction of Kalila and Dimna">
+        وكان
+        <lb/>
+
+        معه من جنده ابني آوى يُدعى أحدهما كليلة والآخر دمنة
+      </p>
+
+      <p n="Kalila and Dimna's Characteristics">
+        وكان كلاهما ذات دهاء
+      </p>
+
+      <p n="Dimna's Ambitious Nature">
+        وكان دمنة أشرّهما نفسًا
+      </p>
+
+      <p n="Lion's Unfamiliarity with Kalila and Dimna">
+        ولم يكن الأسد عرفهما
+      </p>
+
+      <p n="Kalila and Dimna's Living Situation">
+        وكانا مقيمين في مكان
+        <lb/>
+
+        واحد
+      </p>
+
+      <p n="Dimna's Observation of Lion's Behavior">
+        فقال دمنة لكليلة يا أخي ما ترى هذا الأسد مقيمًا في مكان واحد
+        <lb/>
+
+        لا يبرح منه
+      </p>
+
+      <p n="Kalila's Caution about Meddling">
+        فقال له كليلة وما شأنك وشأن المسائلة عمّا لا يعنيك
+      </p>
+
+      <p n="Dimna's Perspective on Serving Kings">
+        أمّا نحن
+        <lb/>
+
+        فعلى حال صالحة نبات مكاننا ونجد ما نأكله ولسنا من أهل المرتبة التي
+        <lb/>
+
+        تناول أهلهما كلام الملوك وينظرون في أمورهم
+      </p>
+
+      <p n="Kalila's Warning and Monkey Parable">
+        فأمسك عن هذا
+        <lb/>
+
+        الكلام واعلم أنّه من تكلّف من القول والفعل ما ليس من شأنه أصابه مثل
+        <lb/>
+
+        ما أصاب القرد
+      </p>
+
+      <p n="Dimna's Inquiry about the Parable">
+        قال دمنة وما أصاب القرد
+      </p>
+
+      <p n="Second Subtale of Monkey of Carpenter">
+        قال كليلة زعموا أنّ قردًا رأى
+        <lb/>
+
+        نجّارًا ينجر خشبة علي وتديّن
+      </p>
+
+      <p n="Monkey's Misinterpretation">
+        وهو على الخشبة كالفارس على الفرس
+      </p>
+
+      <p n="Carpenter's Actions">
+        وإنّه كلّما
+        <lb/>
+
+        وتد وتدًا نزع الآخر
+      </p>
+
+      <p n="Monkey's Attempt to Imitate">
+        وإنّ النجّار قام لبعض شأنه فانطلق القرد يتكلّف ما
+        <lb/>
+
+        ليس يحسنه ولا من صناعته
+      </p>
+
+      <p n="Monkey's Positioning on Wood">
+        فركب على الخشبة وجعل ظهره من ناحية الخشبة
+        <lb/>
+
+        المشقوقة ووجهه قبل الوتد
+      </p>
+
+      <p n="Monkey's Predicament">
+        فتدلّت خصيتاه في شقّ الخشبة
+      </p>
+
+      <p n="Consequences of Monkey's Actions">
+        فلمّا نزع
+        <lb/>
+
+        الوتد ليفعل كما رأى النجّار يفعل انطبقت الخشبة على خصيتيه فخرّ
+        <lb/>
+
+        مغشيًا عليه
+      </p>
+
+      <p n="Carpenter's Return and Punishment">
+        وأقبل النجّار ونظر إلى القرد وما صنع بنفسه فعاقبه فكان
+        <lb/>
+
+        الذي ناله من العقوبة أشدّ عليه من الألم الذي أناله بنفسه
+      </p>
+
+      <p n="Dimna's Response and Ambition">
+        قال دمنة
+        <lb/>
+
+        قد فهمت قولك وسمعت مثلك ولكن ليس من يريد من الملوك تهمّه بطنه فإنّ
+        <lb/>
+
+        البطن لحسني بكلّ مكان
+      </p>
+
+      <p n="Superior People Approaching Kings">
+        ولكنّه يلتمس مسرّة الصديق وكبت العدوّ وقد رأيت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="198"/>
+
+      <p n="Two Benefits Of Guarding Secret">
+        فله من تحصينه إيّاه خلّتان إمّا الظفر بما يريد وإمّا السلامة
+        <lb/>
+
+        من العيب والضرر إن أخطأه الظفر
+      </p>
+
+      <p n="Kind Needs Confidant">
+        ولا بدّ لصاحب السرّ من
+        <lb/>
+
+        مستشار مؤتمن يفضي إليه بسرّه ويعاونه على رأيه وإن
+        <lb/>
+
+        كان المستشير أفضل من المستشار
+      </p>
+
+      <p n="Advice To King Like Fuel To Fire">
+        فإنّه يزداد به رأيًا كما تزداد
+        <lb/>
+
+        النار بالودك ضوءًا
+      </p>
+
+      <p n="How To Give Advice">
+        وعلى المستشار موافقة المستشير على صواب
+        <lb/>
+
+        ما يرى والرفق به في تبصيره خطأ ما يأتي منه وإحالة الرأي
+        <lb/>
+
+        فيما أشكل عليهما حتّى يستقيم لهما
+      </p>
+
+      <p n="Bad Advice Like Misdirected Curse">
+        فإن لم يكنْ المستشار كذلك فهو على
+        <lb/>
+
+        المستشير مع عدوّه كالرجل الذي يرقى الشيطان ليرسله على أحد
+        <lb/>
+
+        فإذا لم يحكمْ الرقية كان له بآخذ وبه يلتبس
+      </p>
+
+      <p n="Secritive Wise King Prospers">
+        وإذا كان الملك
+        <lb/>
+
+        محصّنًا للأسرار متخيّرًا لصالح الوزراء مهيبًا في أنفس العامّة بعيدًا
+        <lb/>
+
+        من أن يُعلم ما في نفسه لا يسلم منه ذو جرم ولا يضيع عنده بلاء مقدّرًا
+        <lb/>
+
+        لما ينفق وما يفيد كان خليقًا ألّا يُسلب صالح ما أُوتي
+      </p>
+
+      <p n="Ranks Of Secrets">
+        وللأسرار
+        <lb/>
+
+        منازل فمن السرّ ما يدخل فيه الرجلان ومنه ما يُستعان فيه
+        <lb/>
+
+        بالعدّة
+      </p>
+
+      <p n="Only King C And Spy To Know Secret">
+        ولا أرى لهذا السرّ على قدر منزلته أن يُشرك فيه
+        <lb/>
+
+        إلّا أذنان ولسانان
+      </p>
+
+      <p n="Question On Origin Of Enemity">
+        فنهض الملك وخلا به واستشاره فكان
+        <lb/>
+
+        أوّل ما سأل عنه أن قال هل تعلم بدء عداوة ما بيننا وبين
+        <lb/>
+
+        البوم
+      </p>
+
+      <p n="Words Of Crow Were Cause">
+        قال نعم كلمة تكلّم بها غراب
+      </p>
+
+      <p n="unassigned">
+        قال الملك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

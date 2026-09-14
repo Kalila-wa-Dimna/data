@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3478</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="418"/>
+
+      <p n="unassigned">
+        أتى به الكهف الذي بموضع كذا وكذا ثمّ إنّ المرزم رجع إلى
+        <lb/>
+
+        الأنثى وقال لها إنّي وجدت لك زوجًا مناسبًا فاخترتيه
+        <lb/>
+
+        بحالك في كمالك وجمالك وأدبك مع الحال بيني وبينك
+        <lb/>
+
+        والموضع الذي نحن فيه وحاجتك إلى الزوج فسألني
+        <lb/>
+
+        أن أسير بك إليه فأجبته إلى ذلك وطارا معًا حتّى انتهينا
+        <lb/>
+
+        إلى ذلك الموضع قال المرزم للأنثى هو في ذلك الكهف وإن لم
+        <lb/>
+
+        يكن الساعة هناك فما أسرع ما يأتي فأسرعت الأنثى
+        <lb/>
+
+        سبقًا إلى الموضع شوقًا منها إلي الزوج فوثب عليها
+        <lb/>
+
+        ابن آوى وكان كامنًا ورأى صخرة فاختطفها والله
+        <lb/>
+
+        تعالى أعلم بالصواب
+        <lb/>
+
+        فهذه مثل الشريك الواثق بمن لا ينبغي أن يُوثق به والسلام
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kw</chapter>
+  </chapter>
+</TEI>

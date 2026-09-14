@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M487</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="407"/>
+
+      <p n=". Crow Lost Original Walk">
+        يحسن الرجوع إليها فتحيّر في نفسه انتهى
+      </p>
+
+      <p n="Monk Motivates Story">
+        وما أخلقك أن يُصيبك مثل ذلك في كلامك ولسانك وأقبلت على
+        <lb/>
+
+        لسان العبرانيّة تريد أن تتكلّم
+      </p>
+
+      <p n="Dont Seek Foreign Things">
+        به وقد قيل أنّه يُعدّ جاهلًا من تكلّف من
+        <lb/>
+
+        العمل ما لا يطيقه وليس من أهله ولم يُذكر به آباؤه وأجداده ونقله بعدهم
+      </p>
+
+      <p n="Changing Governors Harm">
+        فذلك من الناس ألزم وأسوء حالًا وتدبيرًا في تركه لنقل أهل الطبقات
+        <lb/>
+
+        والمنازل بعضها إلى بعض لأنّ في ذلك فساد الناس وأهل الطبقة
+        <lb/>
+
+        العليا إلى الطبقة السفلى وانتشار أمورهم والله أعلم
+      </p>
+
+      <p n="unassigned">
+        الباب الثالث عشر
+        <lb/>
+
+        باب الصائغ والسائح
+        <lb/>
+
+        قال المَلك للفيلسوف قد فهمت هذا المثل فأخبرني بالذي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Tg</chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

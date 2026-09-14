@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="77"/>
+
+      <p n="Comment On Burglar's Credulity">
+        مهلكة عدت إلى طلب الأديان والتماس العدل منها فلم أجد عند أحد
+        <lb/>
+
+        ممّن كلّمته جوابًا فيما سألته عنه فيها ولم أر فيما كلّموني به شيئًا يحقّ
+        <lb/>
+
+        لي في عقلي أن أصدّق به ولا أن أتّبعه
+      </p>
+
+      <p n="Ancestral Religion Is No Option">
+        فقلت لمّا لم أجد ثقة آخذ منه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

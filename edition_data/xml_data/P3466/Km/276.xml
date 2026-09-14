@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="276"/>
+
+      <p n="The Third Vizier Rejects Self-Imposed Exile">
+        فعلى الحال ليس يمكن أن تفنى السنانير في السنة وينالنا
+        <lb/>
+
+        نحن في البرّيّة من الشقاء والبلاء ما ليس هو بدون فزعنا من
+        <lb/>
+
+        السنانير لأنّا لم نعتاد الشقاء قبل هذا
+      </p>
+
+      <p n="King R Asks for the Third Vizier's Plan">
+        قال له الملك
+        <lb/>
+
+        قل ما عندك أنت الآن
+      </p>
+
+      <p n="The Second Option Is to Make Dens in Houses">
+        قال الوزير لا أعرف شيئًا
+        <lb/>
+
+        في الباب إلّا حيلة واحدة وهو أن يحضر الملك أهل حضرته
+        <lb/>
+
+        وجميع الجرذان الذين في هذه المدينة وبجوارها وتأمرهم
+        <lb/>
+
+        أن يتّخذ كلّ واحد منهم في البيت الذي يأوي فيه ثقبًا يسع
+        <lb/>
+
+        جميع الجرذان ويعدّ فيه زادًا يكفيهم لعشرة أيّام ويفتح
+        <lb/>
+
+        للثقب سبعة أبواب ممّا يلي الحائط وثلاثة أبواب ممّا
+        <lb/>
+
+        يلي خزانة الرجل والثياب والفرش
+      </p>
+
+      <p n="The Vizier's Aim Is to Damage Household Items">
+        فإذا فعلوا هذا قمنا
+        <lb/>
+
+        بأجمعنا إلى دار بعض الموسرين ممّن يكون له في داره سنّور
+        <lb/>
+
+        واحد وأقمنا على كلّ باب من تلك الأبواب التي إلى خزانة المتاع
+        <lb/>
+
+        ولا نتعرّض لمتاع ولا مأكول ولكنّا نقصد إلى إفساد الكسوة
+        <lb/>
+
+        والفرش ولا نسرف في الفساد أيضًا
+      </p>
+
+      <p n="The House Owner Gets a Second Cat">
+        فإذا رأى صاحب المنزل
+        <lb/>
+
+        ما قد دهمه من إفساد الفأر فكّر وقال لعلّ هذا السنّور الواحد
+        <lb/>
+
+        لا يعلم بها فيحضر سنّورًا آخرًا
+      </p>
+
+      <p n="The Rats Increase the Damage">
+        فإذا فعل ذلك عدنا أيضًا وأفسدنا
+        <lb/>
+
+        أكثر من الفساد الأوّل
+      </p>
+
+      <p n="The House Owner Gets a Third Cat">
+        فإذا رأى ذلك صاحب المنزل
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

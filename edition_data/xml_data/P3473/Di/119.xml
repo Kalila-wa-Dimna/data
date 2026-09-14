@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="119"/>
+
+      <p n="Servant Tricks Woman">
+        منها وردّ الملاءة إلى أمّ المصوّر
+      </p>
+
+      <p n="Lover Realizes She Was Tricked">
+        ووافى المصوّر منزله في الليل
+        <lb/>
+
+        ولبس الملاءة وخرج فبصرت به امرأة التاجر وقالت قد
+        <lb/>
+
+        عاودت المرّة
+      </p>
+
+      <p n="The Lover's Servant Confesses">
+        فعاد نحو منزله وأدعى بجاريته وتواعدها
+        <lb/>
+
+        بالضرب فأخبرته بحقيقة الأمر فعمد المصوّر إلى الملاءة فقـ
+        <lb/>
+
+        فقطّعها
+      </p>
+
+      <p n="Dimna Opposes Acting Upon Doubt">
+        وإنّما ضربت لك هذا المثل لتعلم أنّ الشبهة كذبٌ وأنّ
+        <lb/>
+
+        الكذب مأثمةٌ لصاحبه
+      </p>
+
+      <p n="First Speaker Leaves Dejected/Is Silenced">
+        فلمّا رأى ذلك النمر خرج من عند
+        <lb/>
+
+        الأسد مستحيًا منكرًا
+      </p>
+
+      <p n="The Mother Is Amazed by Dimna's Verbosity">
+        فقالت أمّ الأسد لقد عجبت أيّها المحتال
+        <lb/>
+
+        من وقاحتك وقوّة صولتك وقبحك بالكلام وجوابك لكلّ من
+        <lb/>
+
+        يُكلّمك
+      </p>
+
+      <p n="Dimna Calls the Mother Biased">
+        قال دمنه لأمّ الأسد لأيّ شيءٍ تنظرين بعينٍ
+        <lb/>
+
+        واحدةٍ وتسمعين بإذنٍ واحدةٍ ومع ذلك إنّ شقاوة جدّي
+        <lb/>
+
+        غيّر عليّ كلّ شيءٍ وصار الناس أحياء لا ينظرون بالحقّ في
+        <lb/>
+
+        أمري وصار كلّ شيءٍ يدنو من الاثنين يُنظر بالنميمة
+      </p>
+
+      <p n="The Mother Chastises Dimna's Duplicity">
+        فقالت
+        <lb/>
+
+        أمّ الأسد انظروا هذا مع عظم ذنبه يجعل نفسه بريئًا كمن
+        <lb/>
+
+        لا ذنب له
+      </p>
+
+      <p n="Dimna Enumerates 5 Duplicitous Types">
+        قال دمنة إنّ الذين يعملون غير أعمالهم
+        <lb/>
+
+        ليسوا على شيءٍ كالرجل الذي يلبس لباس المرأة والمرأة التي
+        <lb/>
+
+        تلبس لباس الرجل والضيف الذي يظنّ أنّه صاحب البيت والذي
+        <lb/>
+
+        ينطق بين الجماعة بغير سؤالٍ
+      </p>
+
+      <p n="The Mother Condemns Dimna's Sweet-Talking and Hoping">
+        قالت أمّ الأسد
+        <lb/>
+
+        يا شقيّ لا تُخفِ سوء عملك وتعلم أنّك ليس بناجٍ منه
+      </p>
+
+      <p n="Dimna Defines the Ill-Wishing Person">
+        قال
+        <lb/>
+
+        دمنة إنّما الشقيّ من لا يعرف الأمور ولا الناس ولا يدفع
+        <lb/>
+
+        الضرر عنهم
+      </p>
+
+      <p n="The Mother Demands Dimna's Silence and Confession">
+        قالت أمّ الأسد أيّها الغادر المحتال أتحبّ
+        <lb/>
+
+        أنّك تخادع الملك بهذا الكلام
+      </p>
+
+      <p n="Dimna Defines as Traitor Who Is Ungrateful for Advice and Kills a Defeated Enemy">
+        قال دمنة إنّما الغدّار الذي يُؤمّن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

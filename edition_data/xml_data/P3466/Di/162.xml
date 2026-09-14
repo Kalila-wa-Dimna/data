@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="162"/>
+
+      <p n="Head of Court Deems Extant Facts Sufficient">
+        أهل المجلس الكلام فقال إنّه قد أتاني بخبرك الأمين الصادق
+        <lb/>
+
+        وليس ينبغي لنا أن نفحص عن شأنك أكثر من هذا
+      </p>
+
+      <p n="God Placed Signs of Truth in the World and Prophets to Explain Them">
+        لأنّ العلماء قد قالوا
+        <lb/>
+
+        إنّ الله تعالى جعل الدنيا سببًا ومصداقًا للآخرة لأنّها دار الرسل
+        <lb/>
+
+        والأنبياء الدالّين على الخير الهادين إلى الجنّة الدالّين إلى معرفة
+        <lb/>
+
+        الله وقد ثبت شأنك عندنا
+      </p>
+
+      <p n="King's Mercy Permitted Investigation Despite Convincing Testimony">
+        إلّا أنّ سيّدنا أمرنا للعود في أمرك
+        <lb/>
+
+        والفحص عن شأنك وإن كان بيّنًا عندنا
+      </p>
+
+      <p n="Dimna Accuses Head of Court of Ignoring Facts">
+        قال دمنة
+        <lb/>
+
+        أراك لم تتعوّد العدل في القضاء وليس في عدل الملوك الدفع
+        <lb/>
+
+        عن المظلومين ومن لاذنب له بل المخاصمة عنهم والذبّ
+      </p>
+
+      <p n="After Three Days Dimna's Guilt Is Unproven">
+        وكيف ترى أن أُقتل ولم أخاصم وتجعل ذاك موافقة لهواك
+        <lb/>
+
+        ولم تمض بعد ثلاثة أيّام
+      </p>
+
+      <p n="Who Acts Like Brahmins Acts Unjustly">
+        ولكن صدق الذي قال إنّ الذي
+        <lb/>
+
+        تعوّد عمل البرهميّين غلبه عمله وإن أضرّ به
+      </p>
+
+      <p n="A Judge Has the Authority to Punish and Reward">
+        قال القاضي
+        <lb/>
+
+        إنّا نجد في كُتُب الأوّلين أنّ القاضي العادل ينبغي له أن يعرف
+        <lb/>
+
+        عمل المحسنين والمسيئين ليجزي المحسن بإحسانه والمسيء بإساءته
+        <lb/>
+
+        فإذا هو قد أحسن إلى هذين لم يزداد المحسنون حرصًا على الإحسان
+        <lb/>
+
+        والمسيئون اجتنابًا للإساءة
+      </p>
+
+      <p n="Judge Enjoins Dimna to Confess">
+        والرأي لك يا دمنة أن تنظر الذي
+        <lb/>
+
+        وقعت فيه وتعترف بذنبك ثمّ تتوب
+      </p>
+
+      <p n="A Judge Must Not Pass Verdict Based on Uncertain Thoughts">
+        فأجابه دمنة بقوله
+        <lb/>
+
+        إنّ صالحي القضاة لا يقطعون بالظنّ ولا يعملون به لا في
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

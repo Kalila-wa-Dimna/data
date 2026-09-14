@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="41"/>
+
+      <p n="Analogy of Misplaced Ornaments">
+        رجليه حلية رأسه
+      </p>
+
+      <p n="Analogy of Comparing Precious Stones to Lead">
+        ومن قمع الياقوت والجواهر واللؤلؤ بالرصاص لكنّه جهل
+        <lb/>
+
+        وحمق ممّن يفعله
+      </p>
+
+      <p n="Advice against Associating with the Ignorant">
+        وقيل أيضًا لا ينبغي للرجل أن يصحب من لا يعرف مواقع يمينه وشماله
+      </p>
+
+      <p n="Importance of Associating with the Wise">
+        وإنّما يستخرج ما عند العقلاء والعلماء والحكماء ولاتهم والجند قوّادهم وما في الدين والتأويل
+        <lb/>
+
+        علماؤهم
+      </p>
+
+      <p n="Three Things with Varying Degrees of Excellence">
+        وقيل أيضًا في أشياء متفاوت وما بينهما فضل المقاتل على المقاتل وفضل القيل على
+        <lb/>
+
+        القيل وفضل العالم على العالم
+      </p>
+
+      <p n="Value of Quality over Quantity in Allies">
+        وكثرة الأعوان إذا لم يكونوا مجرّبين مضرّة بالعمل فإنّ العمل
+        <lb/>
+
+        ليس رجاؤه بكثرة الأعوان ولكن بصالح الأعوان وذوي الفضل منهم
+      </p>
+
+      <p n="Analogy of Carrying Heavy Stone vs. Valuable Gem">
+        كالرجل الذي يحمل
+        <lb/>
+
+        الحجر الثقيل لا يجد له ثمنًا وهو ينقله وحامل الياقوت وإن قلّ هو قادر على بيعه بالكثير من المال
+      </p>
+
+      <p n="Importance of Appropriate Tools for Tasks">
+        والعمل الذي يحتاج فيه الجزع لا يجزيه الغضب فإن كثر
+      </p>
+
+      <p n="Ruler's Duty to Recognize Merit Regardless of Status">
+        قالوا حقيق إذ لا تحقّر مروءة وجدت
+        <lb/>
+
+        عند أحد وإن كان صغير المنزلة وإنّ الصغير ربّما عظم
+      </p>
+
+      <p n="Analogy of Repurposing Animal Sinew for Royal Use">
+        كالعظم الذي يؤخذ من الميتة
+        <lb/>
+
+        فيصنع به وتر القوس فيحتاج إليه الملك في لهوه وبأسه
+      </p>
+
+      <p n="Dimna's Desire for Recognition Based on Merit">
+        قال وأحبّ دمنة أن يصيب الكرامة
+        <lb/>
+
+        عند الأسد والمنزلة منه
+      </p>
+
+      <p n="Dimna's Observation of the Lion's Behavior">
+        فلمّا فرغ من مقالته ازداد الأسد به إعجابًا فأحسن إليه الردّ
+        <lb/>
+
+        ولاين له في القول
+      </p>
+
+      <p n="Ruler Must Not Undervalue the Noble">
+        وقال لجلسائه ينبغي للسلطان أن لا يلحّ في حقّ ذوي الفضل والمروءة
+      </p>
+
+      <p n="Ruler Must Correct Former Neglect">
+        وأن يستدرك ما فاته من ذلك
+      </p>
+
+      <p n="A Neglected Person May Be Favoured Anew">
+        ولا يغرّه أنّه يرى من صاحبه الذي يفعل ذلك به رضى
+        <lb/>
+
+        وإقرارًا
+      </p>
+
+      <p n="A Viper Stepped on Once May Not Bite">
+        فإنّ الناس في ذلك رجل طبعه الشرارة فهو كالحيّة التي إن وطئها الواطئ
+        <lb/>
+
+        فلم تلدغْه ثمّ يكن جاهلًا إن يغرّه ذلك منها مرّة أخرى فتلدغه
+      </p>
+
+      <p n="Cool Sandalwood May Become Hot">
+        ورجل طبعه السهولة
+        <lb/>
+
+        فهو كالصندل البارد إذا أُفرط في حكّه صار حارًّا فيؤذي بحرارته
+      </p>
+
+      <p n="Dimna Asks about Lion's Immobility">
+        قال ثمّ إنّ دمنة
+        <lb/>
+
+        لمّا تأنّس بالأسد وخلا به قال له إنّي رأيت الملك منذ زمان بمكان واحد لا يبرح
+        <lb/>
+
+        منه ولأيّ شيء فعل ذلك
+      </p>
+
+      <p n="Lion's Hesitation to Appear Cowardly">
+        قال فكره الأسد أن يرى منه دمنة جبنًا أو هلعًا
+      </p>
+
+      <p n="Description of the Loud Bellowing Sound">
+        فبينما هو
+        <lb/>
+
+        في ذلك إذ خار الثور خوارًا شديدًا
+      </p>
+
+      <p n="Lion's Explanation of His Immobility">
+        فقال هذا الصوت الذي حبسني بمكاني هذا هذه
+        <lb/>
+
+        المدّة
+      </p>
+
+      <p n="Lion's Speculation About the Source's Size">
+        ولا أعلم ما هو غير أنّي أرى أنّ جثّة صاحبه على قدر الصوت
+      </p>
+
+      <p n="Lion's Concern About Territorial Safety">
+        فإن يكن كذلك فليس
+        <lb/>
+
+        لنا بمنزلنا مقام
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

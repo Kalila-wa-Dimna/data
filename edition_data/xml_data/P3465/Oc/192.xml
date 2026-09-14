@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="192"/>
+
+      <p n="Escape Should Not Be the First Choice">
+        عدوّنا بالأنانة مرّة وبالجلاد أخرى
+      </p>
+
+      <p n="Escape Is To Be Sought Only at Defeat">
+        حيث نصيب فرصتنا وبغيتنا وقد
+        <lb/>
+
+        ثنينا عدوّنا عنّا
+      </p>
+
+      <p n="The Crow King Asks the Third Crow">
+        ثمّ قال الملك للثالث ما رأيك أنت
+      </p>
+
+      <p n="The Crow Rejects Prior Input">
+        قال ما أرى ما
+        <lb/>
+
+        قالا رأيًا
+      </p>
+
+      <p n="Recourse Should be Made to Reconnaissance">
+        ولكن نبثّ العيون ونبعث الجواسيس ونرسل الطوالع بيننا وبين
+        <lb/>
+
+        عدوّنا
+      </p>
+
+      <p n="The Information Shall Determine a Truce or Tribute">
+        فنعلم هل يريد صلحنا أم لا أم يريد حربنا أم يريد الفدية
+      </p>
+
+      <p n="Truce for a Tribute Should Be Sought">
+        فإن رأينا
+        <lb/>
+
+        أمره أمر طامع في مال لم نكرهْ الصلح على خراج نؤدّيه إليه في كلّ سنة ندفع
+        <lb/>
+
+        به عن أنفسنا ونطمئنّ في أوطاننا
+      </p>
+
+      <p n="Peace Is Worth the Tribute">
+        فإنّ من آراء الملوك إذا اشتدّت شوكة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

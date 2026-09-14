@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="184"/>
+
+      <p n="Hesitating Queen Looks At Vizier">
+        له أيّها تأخذ
+      </p>
+
+      <p n="Vizier Shows Dress King Notices">
+        فأشار إيلاذ نحو الثياب فحانت من المَلك
+        <lb/>
+
+        التفاتة فرأى إيماء إيلاذ نحو الثياب
+      </p>
+
+      <p n="Queen Chooses Crown">
+        وحين فهمت إبرخت
+        <lb/>
+
+        ذلك تركت الثياب وأخذت الإكليل كيلا يظنّ بها المَلك
+        <lb/>
+
+        ظنّ السوء
+      </p>
+
+      <p n="Vizier Pretends To Be Cross Eyed">
+        وأقام إيلاذ بعد ذلك أربعين سنة إذا دخل
+        <lb/>
+
+        على المَلك كسر بعينه نحو الإيماء المتقدّم منه حتّى ظنّ المَلك
+        <lb/>
+
+        إنّ ذلك عادة منه وإنّه لم يكن اعتمد فيما تقدّم ذلك
+      </p>
+
+      <p n="King Alternates Nights With Women">
+        وكان المَلك يبيت ليلة عند إبرخت وليلة عند أمّ جوبر
+      </p>
+
+      <p n="Queen Serves Rice On Her Night">
+        فتاة فأتى إلى إبرخت في ليلتها فقدّمت له أرزًّا في صحيفة
+      </p>
+
+      <p n="Favorite Wears Dress Before King">
+        فدخلت أمّ جوبر وهو يطعم من ذلك الصحيفة الأرزّ وإبرخت
+        <lb/>
+
+        بين يديه وعلى أمّ جوبر تلك الثياب وقد أضاءت وهي
+        <lb/>
+
+        تشرق في ذلك الثياب كالشمس فغارت إبرخت منها
+        <lb/>
+
+        فلمّا رأى المَلك حسن أمّ جوبر وبهجة ثيابها اشتاق إليها
+      </p>
+
+      <p n="King Insults Queen">
+        وقال لإبرخت أكنت جاهلة حين تركت الكسوة وأخذت
+        <lb/>
+
+        الإكليل أو ليس في خزانتي لهذه الكسوة مثيل
+      </p>
+
+      <p n="Queen Pours Rice Over King">
+        فلمّا لمحت إبرخت
+        <lb/>
+
+        ذلك من المَلك وفهمت نحو كلامه داخلها الغضب وأخذت
+        <lb/>
+
+        الصحيفة من بين يدي المَلك وضربت بها على رأسه فسال
+        <lb/>
+
+        الأرزّ على وجه المَلك وثيابه وكان
+      </p>
+
+      <p n="Fulfillment Of Last Dream">
+        هذا تفسير
+        <lb/>
+
+        رؤياه الذي لم يفسّره الحكيم
+      </p>
+
+      <p n="King Expresses Anger To Vizier">
+        فغضب المَلك ودعا بإيلاذ
+        <lb/>
+
+        ثمّ قال له ألا ترى ما حلّ بي وأنا مَلك العالم وكيف
+        <lb/>
+
+        تجرّأت عليّ هذه المرأة بمثل هذه الفعلة
+      </p>
+
+      <p n="King Orders To Execute Queen">
+        فانطلق بها
+        <lb/>
+
+        واقتلها ولا ترحمها
+      </p>
+
+      <p n="Vizier Decides To Spare Queen">
+        فأخذ إيلاذ إبراخت وخرج بها من عند المَلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

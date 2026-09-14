@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>KWD-Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="1"/>
+
+      <p n="Chapter Title">
+        باب
+      </p>
+
+      <p n="unassigned">
+        الفحص عن امر دمنة
+      </p>
+
+      <p n="On Seeking One's Benefit by Others' Harm">
+        وهو باب من اراد منفعتهُ بضرّ غيره الى وما يزول اليه امره
+        <lb/>
+
+        قال الملك الفيلسوف : قد سمعتُ حديثك في محال المدوّ المحتال
+        <lb/>
+
+        كيف افسد اليقين بالشبهة حتى ازال المودّة وادخل المداوة .
+        <lb/>
+
+        فحدّثني ان رأيت كيف اطلم الاسد على ذنب دمنة حتى قتلهُ وكيف كانت
+        <lb/>
+
+        معاذيره ودفمهُ عن نفسه
+        <lb/>
+
+        قال
+      </p>
+
+      <p n="The King Asks about Dimna's Fate">
+        بيدبا الفيلسوف : أنّا وجدنا في كتب الاسد لمّا قتل
+        <lb/>
+
+        شتربة
+      </p>
+
+      <p n="Betrayals Lead to Perdition">
+        ندم على مماجلته بالقتل وتذكّر حرمتهُ . وكان من جنود الاسد
+        <lb/>
+
+        وقرابته
+      </p>
+
+      <p n="Kalila Predicts Dimna's Doom">
+        ثمّ كان من اكرم اصحابه عليه وانخصّهم عندهُ منزلةً واطولهم به
+        <lb/>
+
+        خلوة بالليل والنهار . وكان الاسد بعد قتله شتربة يطيل مسامرة اصحابه
+        <lb/>
+
+        ليقطع عنهُ يُحديثهم بعض ما قد داخلهُ من الكآبة والحزن بقتله الثور . وان
+        <lb/>
+
+        الثور لبث في سمره ذات ليلةٍ حتى مضت هدأةٌ من الليل ثم خرج من
+        <lb/>
+
+        عنده
+      </p>
+
+      <p n="Kalila's Accusation of Dimna">
+        منصرفًا الى منزله . وقد كان منزل كليلة ودمنة قرب منزل الاسد فدنا
+        <lb/>
+
+        الثور
+      </p>
+
+      <p n="unassigned">
+        من منزلها ليصيب قبسًا يستضيءُ به وكانا متراقبين
+        <lb/>
+
+        فسمع
+      </p>
+
+      <p n="The Leopard Confides in the Lion's Mother">
+        الثور محاورتهما ونصتَ لهما حتى سمع كلامها كلّهُ ووجد كليلة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

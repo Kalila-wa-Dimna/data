@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="114"/>
+
+      <p n="Chapter Title">
+        باب البوم والغربان
+      </p>
+
+      <p n="The King Understood Previous Chapter">
+        قال الملك للفيلسوف قد فهمت ما ذكرت من الأحوال وعظم المنفعة في ذلك
+      </p>
+
+      <p n="The King Asks If Foes Can Become a Friends">
+        فأخبرْني
+        <lb/>
+
+        عن العدوّ هل يصير صديقًا وهل يُوثق بشيء من أمره
+      </p>
+
+      <p n="The King Asks about Fawning Foes">
+        وكيف العداوة وما ضرّها وكيف ينبغي
+        <lb/>
+
+        للملك إذا أتاه أمرًا من عدوّه ويطلب الصلح في نفسه وهو غير آمن ولا هو حقيق بالطمأنينة
+        <lb/>
+
+        إليه وإن أبدى ودًّا وتضرّعًا
+      </p>
+
+      <p n="The Philosopher Answers, Foes Cannot be Trusted">
+        قال الفيلسوف ليس أحد بحقيق إذا أتاه أمرًا من عدوّه الذي
+        <lb/>
+
+        يتخوّفه عن نفسه وإن كان يلتمس الأمان والصلح ويُظهر له التودّد ولأصحابه الذي يُوثق بهم ولا
+        <lb/>
+
+        يطمئنّ إليهم ولا يسترسل إلى قولهم
+      </p>
+
+      <p n="Foes May Take Advantage">
+        وإن هم أبدوا ودًّا ونصحًا فإنّه يكون أشباه ذلك
+        <lb/>
+
+        ممّن يطلب النهزة والفرصة من عدوّه
+      </p>
+
+      <p n="The Parable of the Owls and the Crows">
+        ومن يسترسل إلى ذلك يصيبه ما أصاب البوم والغراب
+      </p>
+
+      <p n="The King Requests the Parable">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="The Crow Kingdom and the Owl Kingdom">
+        قال الفيلسوف زعموا أنّ أرضًا يُقال لها كذا وكذا وكان حولها
+        <lb/>
+
+        جبل محيط بها وكانت فيه شجرة عظيمة كثيرة الغصون كأعظم ما يكون من الشجر وكان فيها
+        <lb/>
+
+        وكر غراب وكان لهنّ ملك وكان في ذلك الجبل ألف من البوم ولهنّ ملك مثلهنّ
+      </p>
+
+      <p n="The Owls Attack the Crows">
+        قال فخرج
+        <lb/>
+
+        البوم ذات ليلة فوقعن في الغربان فأكثرن فيهنّ القتل والجراح لأمر كان بينهم
+      </p>
+
+      <p n="The Morning in the Battle Aftermath">
+        ولم يعلم
+        <lb/>
+
+        ملكهم بذلك حتّى إذا كان بالغداة رأى ما حلّ بجنده فاغتمّ لذلك ودعا عظماء أصحابه ووزرائه
+      </p>
+
+      <p n="The Crow King Evaluates the Damage">
+        فاستشارهم وذكر لهم كنه الذي أصابهم من البوم
+      </p>
+
+      <p n="The Crow King Fears Recurring Aggression">
+        وخاف من عودتهم إليهم
+      </p>
+
+      <p n="Input from the Five Wise Crows is Sought">
+        وكان فيهم
+        <lb/>
+
+        خمسة غربان ذوات رفق وتجربة بالأمور ومعرفة وذكاء فسألهم الملك عن رأيهم فيما
+        <lb/>
+
+        أصابهم والملك يسأل الخمسة الغربان عمّا يصنع في أمرهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

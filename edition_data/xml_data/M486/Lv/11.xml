@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M486</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="11"/>
+
+      <p n="Burzoy Hints At Secret">
+        لأمر وهو غير ما يُرى فظهر منّي لك
+      </p>
+
+      <p n="Signs Suffice For The Intelligent">
+        والعاقل يكتفي من الرجل بالعلامات الظاهرة
+        <lb/>
+
+        فيه من نظره وإشارته بيده فيعلم سرّ نفسه وما يضمر عليه قلبه فقال
+      </p>
+
+      <p n="Friend Aware Of Burzoys Secret">
+        له الهنديّ إنّي وإن كنت
+        <lb/>
+
+        لم أبدأك بضميرك ولم أخبرك بما له جئت وإيّاه تطلب وأنّك تكتم أمرًا وتظهر غيره وأنّه لم يكن ليخفى
+        <lb/>
+
+        عليّ
+      </p>
+
+      <p n="Friend Shuns Confrontation">
+        ولكنّي لرغبتي في إخائك نزهت بأن أواجهك بأن قد ظهر لي ما تكتم وأنّه قد استبان لي ما أنت
+        <lb/>
+
+        فيه وما تخفيه
+      </p>
+
+      <p n="Friend Infers Burzoys Secret">
+        فأمّا إذا افتتحت بالكلام فأنا مخبرك ومظهر لك سرائر أمرك ومعلمك حالك
+        <lb/>
+
+        الذي قدمت ﻷجله
+      </p>
+
+      <p n="Friend Guesses Burzoys Mission">
+        فإنّك قدمت بلادنا لتأخذ علومنا الرئيسة وكنوزنا النفيسة فتذهب
+        <lb/>
+
+        بها إلى بلادك ليسرّ بها ملكك وكان قدومك بالمكر ومصادقتك بالخديعة وإنّ الأمر الذي تطلبه
+        <lb/>
+
+        قد أذعر نفسي وأدخل عليّ الخوف
+      </p>
+
+      <p n="unassigned">
+        ولكن
+      </p>
+
+      <p n="Friend Stays Devoted To Burzoy">
+        لمّا رأيت صبرك ومواظبتك على طلب حاجتك وتحفّظك
+        <lb/>
+
+        أن تسقط في طول مكثك عندنا استدللت به على سريرة أمرك وازددت رغبة في عقلك أوجبت
+        <lb/>
+
+        إخاءك
+      </p>
+
+      <p n="Friend Distinguishes Burzoy">
+        فلا أعلم أنّي رأيت رجلًا أرزن منك عقلًا ولا أحسن أدبًا ولا أصبر على حاجة ولا أكتم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

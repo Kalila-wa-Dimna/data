@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3468</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="229"/>
+
+      <p n="One Could Consult the Wise or the Ignorant">
+        ورأيه ولكنّ الحكيم يميّز الأمور فيختار أوقعها ويصرف كلام
+        <lb/>
+
+        الجاهل إلى ما يليق
+      </p>
+
+      <p n="Consulting the Ignorant">
+        وإنّما يشاور الحكيم الجاهل لسببين
+        <lb/>
+
+        منها أنّه ربّما أبدى الجاهل سرّ غيره في ذلك الباب
+        <lb/>
+
+        فيستعين الحكيم على كتمه بمشاورته ليصيّره وربّما أنتجت
+        <lb/>
+
+        قريحة الجاهل شيئًا فيه بعض المؤنة
+      </p>
+
+      <p n="The Vizier Trusts the King Would Take the Advice">
+        والذي قلته في هذا
+        <lb/>
+
+        الباب إنّما أتّكل فيه على معرفة الملك وأنّه لا يغضب
+        <lb/>
+
+        عليّ بل يقبله منّي قبولًا حسنًا
+      </p>
+
+      <p n="King R Appreciates the Vizier's Candor">
+        قال الملك كلّ ما قلته في
+        <lb/>
+
+        غاية الحسن وهو على حقيقته إلّا الكلمة الواحدة التي قلت
+        <lb/>
+
+        إنّك ناقص المعرفة فما أنت عندي بناقصها وإنّك لذو
+        <lb/>
+
+        الفضيلة الكاملة عندي أفضّلك على كافّة جندي
+      </p>
+
+      <p n="The Vizier Values King R's Justice">
+        فلمّا سمع الوزير ذلك من الملك قال لا يشقّ الملك على
+        <lb/>
+
+        نفسه فجميع ما قاله فيّ إنّما هو من كبير رأفته وبرّه
+        <lb/>
+
+        وتربيته
+      </p>
+
+      <p n="King R Consults the Viziers in Reverse Order">
+        ثمّ إنّ الملك بدأ يشاور وزراءه الثلاثة بالعكس
+        <lb/>
+
+        يعني من أسفل إلى فوق
+      </p>
+
+      <p n="King R Asks the Youngest Vizier">
+        فقال للأدنى منهم ما تقول
+        <lb/>
+
+        أنت أيّها الوزير في هذا الأمر وما الذي يجب أن نصنع
+      </p>
+
+      <p n="The Youngest Viziers Proposes to Bell the Cats">
+        قال له ذلك الوزير الذي عندي من الرأي أن نحضر
+        <lb/>
+
+        جلاجلًا كثيرة ونعلّق كلّ جلجل منها في عنق سنّور
+        <lb/>
+
+        ليكون كلّما ذهب وجاز سمعنا صوت الجلجل فنحذر منه ونأوي
+        <lb/>
+
+        إلى أجحارنا
+      </p>
+
+      <p n="King R Runs the Idea by the Second Vizier">
+        قال الملك للوزير الثاني ما الذي عندك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

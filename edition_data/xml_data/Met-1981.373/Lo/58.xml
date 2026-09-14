@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="58"/>
+
+      <p n="The Lure">
+        وطار به فلم يزلْ يرتفع وينخفض والحليّ في منقاره إلى أن أتى جحر الأسود
+        <lb/>
+
+        فجعله فيه
+      </p>
+
+      <p n="The Plan Succeeds">
+        فلمّا أتوا الناس ليأخذوا الحليّ وجدوا الأسود نائمًا
+        <lb/>
+
+        على باب جحره فقتلوه وأخذوا الحليّ
+      </p>
+
+      <p n="The Moral: Cunning Triumphs">
+        وإنّما ضربت لك هذا لتعلم
+        <lb/>
+
+        أنّ الاحتيال يجري ما لا تجري القوّة
+      </p>
+
+      <p n="Kalila's Objection">
+        فقال كليلة إنّ شتربة
+        <lb/>
+
+        لو لم يجمعْ مع شدّته رأيًا كان ذلك ولكنّه أُعطي فضلًا ونبلًا
+        <lb/>
+
+        جسيمًا
+      </p>
+
+      <p n="The Rabbit and the Lion Parable">
+        فقال دمنة إنّ شتربة على ما وصفت ولكن سأصرعه كما
+        <lb/>
+
+        فعلت الأرنب بالأسد
+      </p>
+
+      <p n="Kalila Asks for the Story">
+        قال كليلة وكيف كان ذلك
+      </p>
+
+      <p n="The Tyrannical Lion">
+        قال
+        <lb/>
+
+        دمنة زعموا أنّ أسدًا كان في أرض مخصبة كثيرة الوحوش والماء
+        <lb/>
+
+        والمرعى وكانت تلك الوحوش لا تعيش في تلك الأرض إلّا متخوّفات
+      </p>
+
+      <p n="The Animals' Proposal">
+        فائتمرن
+        <lb/>
+
+        فيما بينهنّ وبينه وقلن له إنّك إنّي للأسد إنّك لن تصيب الدابّة
+        <lb/>
+
+        منّا إلّا بعد نصب وقد أجمعنا على أمر لك ولنا فيه صلاح إن أنت
+        <lb/>
+
+        آمنتنا
+      </p>
+
+      <p n="The Lion's Inquiry">
+        قال إنّي فاعل ذلك وما ذاك
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

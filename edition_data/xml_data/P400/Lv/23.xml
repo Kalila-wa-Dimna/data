@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="23"/>
+
+      <p n="Kisra Announces Reward">
+        فقرّ عينًا فإنّك قد استوجبت الشكر من جميع الخاصّة والعامّة
+        <lb/>
+
+        وعظيم المكافأة
+      </p>
+
+      <p n="Kisra Orders Rest">
+        ثمّ أمره أن يريح نفسه يمهله سبعة أيّام
+      </p>
+
+      <p n="Burzoy Rejoins Kisra">
+        فأمر بإحضاره فلمّا صار بين يدي الملك
+      </p>
+
+      <p n="Kisra Announces Reward">
+        قال له أبشر أيّها العبد الطائع
+        <lb/>
+
+        لمولاه الناصح له والباذل نفسه في مرضاته وستجني حلاوة ثمرة نصحك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

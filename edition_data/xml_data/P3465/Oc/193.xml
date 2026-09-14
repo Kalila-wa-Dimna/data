@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="193"/>
+
+      <p n="Peace Is Worth the Tribute">
+        عدوّهم فخافوه على أنفسهم وبلادهم أن يجعلوا الأموال جنّة البلاد والمُلك
+        <lb/>
+
+        والرعيّة
+      </p>
+
+      <p n="The Crow King Asks the Fourth Crow">
+        قال الملك للرابع ما رأيك في هذا الصلح
+      </p>
+
+      <p n="Recourse Is in Abandoning Home">
+        قال لا أراه رأيًا بل نذّل
+        <lb/>
+
+        ونفارق أوطاننا ونصبر على الغربة وشدّة المعيشة خير من أن نضيّع
+        <lb/>
+
+        أحسابنا ونخضع للعدوّ الذي نحن أشرف منه
+      </p>
+
+      <p n="The Owls Would Overdemand">
+        مع أنّ البوم لو عرضنا
+        <lb/>
+
+        ذلك عليهنّ لما رضين منّا إلّا بالشطط
+      </p>
+
+      <p n="Foes Should Be Kept at the Right Distance">
+        ويقال في الأمثال قاربْ عدوّك
+        <lb/>
+
+        لتنال حاجتك ولا تقاربه كلّ المقاربة فيجترئ عليك ويضعف
+        <lb/>
+
+        جندك ويذلّل نفسك
+      </p>
+
+      <p n="Gauging Distances Is Like Maximizing Shadows">
+        ومثل ذلك مثل الخشبة المنصوبة في الشمس إذا
+        <lb/>
+
+        أملتها قليلًا زاد ظلّها وإذا جاوزت بها الحدّ في إمالتها نقص الظلّ
+      </p>
+
+      <p n="The Owls Will Not Accept the Pact">
+        وليس عدوّنا راض منّا بالدون في المقاربة
+      </p>
+
+      <p n="Recourse Is in Fighting the War and Enduring">
+        فالرأي لنا ولك المحاربة
+      </p>
+
+      <p n="The Crow King Asks the Fifth Crow, a Spy">
+        قال
+        <lb/>
+
+        الملك للخامس ما تقول أنت وماذا ترى القتال أم الصلح أم الجلاء عن الوطن
+      </p>
+
+      <p n="The Spy Rejects Fighting">
+        قال أمّا القتال فلا سبيل للمرء إلى قتال من لا يقوى به
+      </p>
+
+      <p n="The Foolish Underestimate Their Foes">
+        وقد يقال فمن لا يعرف
+        <lb/>
+
+        نفسه وعدوّه وقاتل من لا يقوى به حمل نفسه على حتفها
+      </p>
+
+      <p n="The Intelligent Never Underestimate Their Foes">
+        مع أنّ العاقل
+        <lb/>
+
+        لا يستصغر عدوًّا فإنّ من استصغر عدوّه اغترّ به ومن اغترّ بعدوّه
+        <lb/>
+
+        لم يسلمْ منه
+      </p>
+
+      <p n="The Spy Expresses Fear">
+        وأنا للبوم شديد الهيبة وإن أضربن عن قتالنا وقد كنت
+        <lb/>
+
+        أهابها قبل ذلك
+      </p>
+
+      <p n="The Intelligent Is Never Free from Worry">
+        فإنّ الحازم لا يأمن عدوّه على كلّ حال إن كان بعيدًا لم يأمنْ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

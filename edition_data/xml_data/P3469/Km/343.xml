@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="343"/>
+
+      <p n="The Palace Is Near the Hole">
+        وبالقرب من ذلك النقب بيت في غاية حسن البناء لم يكن
+        <lb/>
+
+        له نظير في العالم كلّه وكان الملك وأسلافه من الملوك
+        <lb/>
+
+        يأوون إلى ذلك البيت وكان ربّما أبادتهم تلك الريّاح
+        <lb/>
+
+        وكانوا لا يقدرون على الارتحال من ذلك المكان لحسن
+        <lb/>
+
+        البناء وكثرة الثمار وحبّ الوطن
+      </p>
+
+      <p n="King W Consults with the Vizier On Wind Issue">
+        وكان لذلك الملك وزير
+        <lb/>
+
+        يشاوره في الأمور التي تعييه فاستشاره يومًا من الأيّام
+        <lb/>
+
+        في ذلك وقال له تعلم أنّا بما تقدّم من آبائنا في نعمة
+        <lb/>
+
+        مفيضة وهناءة ورغد عيش غير أنّ هذا البيت لولا
+        <lb/>
+
+        كثرة الرياح حوله لكان بسببها في بالجنّة
+      </p>
+
+      <p n="King W Wants to Block the Hole">
+        وكان سبيلنا
+        <lb/>
+
+        أن نجتهد فلعلّنا أن نملك حيلة في سدّ فم هذا النقب
+        <lb/>
+
+        الخارج إلينا منه هذا الأهوية والريّاح العواصف فإنّا إذا
+        <lb/>
+
+        أحكمنا ذلك أمنّا شرّ ما أصاب أسلافنا من سوء العاقبة
+        <lb/>
+
+        الناتية من هذه الرياح ونكون قد ورثنا الجنّة في الأرض
+        <lb/>
+
+        مع ما يكون لنا من الذكر الجميل والاسم والسمعة المؤبّدة
+        <lb/>
+
+        إلى آخر الدهر
+      </p>
+
+      <p n="The Vizier Is Willing to Execute">
+        قال الوزير أنا عبدك ومسارع إلى مطاوعتك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

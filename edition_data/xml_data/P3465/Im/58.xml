@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="58"/>
+
+      <p n="unassigned">
+        بنفسه فيؤدّبها بعلمه ولا تكون غايته اقتناؤه العلم لمعاونة غيره
+      </p>
+
+      <p n="Water-Spring Benefits Only Others">
+        فيكون كالعين التي يشرب الناس ماءها وليس لها في ذلك شيء من المنفعة
+      </p>
+
+      <p n="Silk Worm Benefits Only Others">
+        وكدودة القزّ التي تحكم صنعته ولا تنتفع به
+      </p>
+
+      <p n="Instructing Oneself Comes First">
+        فقد ينبغي لمن طلب العلم
+        <lb/>
+
+        أن يبدأ بعظة نفسه ثمّ عليه بعد ذلك أن يقبسه
+      </p>
+
+      <p n="Three Things Are Needed for Worldly Life">
+        فإنّ خلالًا ينبغي لصاحب الدنيا
+        <lb/>
+
+        أن يقتنيها ويقبسها منها العلم والمال ومنها اتّخاذ المعروف
+      </p>
+
+      <p n="One Should Not Condemn Faults in Others One Has">
+        وليس للعالم
+        <lb/>
+
+        أن يعيب امرءًا بشيء فيه مثله
+      </p>
+
+      <p n="Reader Is Like a Blind Blaming another Blind">
+        ويكون كالأعمى الذي يعيّر الأعمى
+        <lb/>
+
+        بعماه
+      </p>
+
+      <p n="One Must Know When to Halt Pursuit">
+        وينبغي لمن طلب أمرًا أن تكون له فيه غاية ونهاية ويعمل بها ويقف
+        <lb/>
+
+        عندها ولا يتمادى في الطلب
+      </p>
+
+      <p n="A Pursuit without a Clear Goal Is Treacherous">
+        فإنه يُقال من سار إلى غير نهاية فيوشك
+        <lb/>
+
+        أن يقطع به مطيّته
+      </p>
+
+      <p n="One Should Not Seek the Unattainable">
+        وأن كان حقيقًا ألاّ يعين نفسه على طلب ما لا حدّ له
+        <lb/>
+
+        وما لم ينله أحد قبله ولا يتأسّف عليه
+      </p>
+
+      <p n="The Here Is Not to Be Preferred Over the Hereafter">
+        ولا يكون لدنياه مؤثرًا على آخرته
+      </p>
+
+      <p n="Detachment Eases Death">
+        فإنّه من لم يعلق قلبه بالغايات قلّت حسرته عند مفارقتها
+      </p>
+
+      <p n="Two Things Suit Everyone">
+        وقد يقال
+        <lb/>
+
+        في أمرين يجملان بكلّ أحد أحدهما النسك والآخر المال
+      </p>
+
+      <p n="Two Things Do Not Suit Anyone">
+        وقد يقال في
+        <lb/>
+
+        أمرين لا يجملان بكلّ أحد الملك أن يشارك في ملكه والرجل أن يشارك في
+        <lb/>
+
+        زوجته
+      </p>
+
+      <p n="Fire Consumes Every Log">
+        فالخلّتان الاوليتان مثلها مثل النار التي تحرق كلّ حطب
+        <lb/>
+
+        يُُقذف فيها
+      </p>
+
+      <p n="Fire and Water Do Not Mix">
+        والخلّتان الأخريتان كالماء والنار الذي لا يمكن اجتماعهما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

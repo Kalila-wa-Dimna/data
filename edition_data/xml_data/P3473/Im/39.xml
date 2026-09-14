@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="39"/>
+
+      <p n="The Fourth Aim Is Directed at Philosophers">
+        الرابع وهو الغرض الأقصى إظهارًا لخفايا أسرار الحكمة وبدائع
+        <lb/>
+
+        الفلسفة وبالله التوفيق
+      </p>
+
+      <p n="Chapter Title Mission">
+        الباب الثاني ذكر برزويه المتطبّب
+        <lb/>
+
+        وما يتعلّق به من ترجمة بزرجمهر الحكيم
+      </p>
+
+      <p n="God Equipped Humans">
+        أمّا بعد
+        <lb/>
+
+        فإنّ الله تعالى خلق الخلق برحمته ومنّ على عباده بفضله فرزقهم
+        <lb/>
+
+        ما يقدرون به على معايشهم في الدنيا ويذكرون به استنقاذ
+        <lb/>
+
+        أرواحهم من العذاب في الآخرة
+      </p>
+
+      <p n="Reason Is Gods Best Gift">
+        ومن أفضل ما رزقهم ومنّ
+        <lb/>
+
+        عليهم به العقل الذي هو الدعامة لجميع الأشياء والذي لا
+        <lb/>
+
+        يقدر أحدًا في الدنيا على اصطلاح معيشته ولا تحصيل نفع
+        <lb/>
+
+        ولا دفع شرّ إلّا به وكذلك طلب الآخرة بالاجتهاد في العمل المنجّي
+        <lb/>
+
+        روحه فلا يقدر الإنسان على إتمام عمله وإكماله إلّا بالعقل
+      </p>
+
+      <p n="Reason Is Basis Of Every Good">
+        الذي
+        <lb/>
+
+        هو سبب كلّ خير ومفتاح كلّ سعادة فليس أحد يستغني عن العقل
+        <lb/>
+
+        والعقل مُكتسب بالتجارب والأدب
+      </p>
+
+      <p n="Reason Like Hidden Fire">
+        وله غريزة مكنونة في
+        <lb/>
+
+        الإنسان ككمون النار في الحجر الجلمود لا يُرى ولا يظهر حتّى يقدحها
+        <lb/>
+
+        قادح من الناس فإذا قدحها ظهر شعاعها وحريقها
+      </p>
+
+      <p n="Sugar Hidden In Grapes">
+        وككمون
+        <lb/>
+
+        السكّر في العنقود لا يتهيّأ إلّا بمباشرة الاعتصار والتخمّر
+      </p>
+
+      <p n="Adab And Experience Kindle Reason">
+        وكذلك العقل كامن في الإنسان لا يظهر حتّى يظهره الأدب
+        <lb/>
+
+        ويقوّيه التجارب
+      </p>
+
+      <p n="Reason Strengthens">
+        فإذا استحكم كان عمود التجارب والمقوّي
+        <lb/>
+
+        لكلّ أدب والمحسّن لجميع المنافع والدافع لكلّ المضارّ فليس شيء
+        <lb/>
+
+        أفضل من العقل إذا عانه الأدب وقوّته التجارب
+      </p>
+
+      <p n="Reason Brings Success">
+        ومن رُزق
+        <lb/>
+
+        العقل ومُنّ به عليه وأُعين بصدق قريحة على طلب الأدب والحرص
+        <lb/>
+
+        على العلم سعد جدّه وأدرك في الدارين قصده وكان من الفائزين
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

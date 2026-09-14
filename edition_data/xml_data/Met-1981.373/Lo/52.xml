@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="52"/>
+
+      <p n="Dimna's Jealousy of Ox's Favor">
+        فلمّا رأى دمنة أنّ الأسد قد اختصّ الثور دونه وجعله صاحب
+        <lb/>
+
+        رأيه ومؤاكلته اشتدّ عليه ذلك
+      </p>
+
+      <p n="Dimna Complains to Kalila">
+        فشكى ذلك إلى أخيه كليلة وما حلّ
+        <lb/>
+
+        به
+      </p>
+
+      <p n="Dimna's Lament">
+        وقال له ألا تنظر إلى عجز رأيي كيف نظرت فيما ينفع الأسد وإهمالي أمر
+        <lb/>
+
+        نفسي حين جلبت ثورًا غلبني على منزلتي
+      </p>
+
+      <p n="Kalila Introduces the Ascetic's Parable">
+        قال كليلة أصابك مثل ما
+        <lb/>
+
+        أصاب الناسك
+      </p>
+
+      <p n="Dimna Asks About the Ascetic">
+        مَثَل قال دمنة وكيف كان ذلك
+      </p>
+
+      <p n="Fourth Subtale of Ascetic and Thief">
+        قال كليلة
+        <lb/>
+
+        زعموا أنّ ناسكًا أصاب من بعض الملك الملوك كسوة مثمّنة فأبصرها
+        <lb/>
+
+        لصّ فرغب فيها وضرب الحيل لاستراقها
+      </p>
+
+      <p n="The Thief Deceives the Ascetic">
+        فأتاه فقال له إنّي أريد أن أصحبك
+        <lb/>
+
+        وأتعلّم منك وآخذ عنك
+      </p>
+
+      <p n="The Thief Gains the Ascetic's Trust">
+        فأجابه الناسك إلى ذلك ولطف به وأخلص
+        <lb/>
+
+        في خدمته حتّى ائتمنه ووثق به وفوّض إليه أمره
+      </p>
+
+      <p n="The Thief Steals the Garment">
+        فأخذ اللصّ الثياب فذهب بها
+      </p>
+
+      <p n="The Ascetic Pursues the Thief">
+        فلمّا فقد الناسك الثياب وفقد الرجل عرف أنّه صاحبها فتوجّه
+        <lb/>
+
+        في طلبها فنزل بمدينة يُقال لها صورات
+      </p>
+
+      <p n="The Fighting Rams">
+        فمرّ في طريقه على وعلين
+        <lb/>
+
+        ينتطحان وقد سالت بينهما الدماء لشدّة نطاحهما
+      </p>
+
+      <p n="The Fox and the Rams">
+        وجاء الثعلب فجعل يلغ في ذلك
+        <lb/>
+
+        الدم الذي سال منهما وهو مكبّ على ذلك إذ التقيا عليه أعني الوعلين
+        <lb/>
+
+        ينتطحان فقتلاه وصار ملقى تحت أرجلهما لا ناصر له ممّا أصابه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

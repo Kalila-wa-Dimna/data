@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="318"/>
+
+      <p n="King to Consider People's Ranks">
+        إيّاهم منازلهم واتّهامه بعضهم على بعض
+      </p>
+
+      <p n="People Scheme against Each Other">
+        فإنّهم إن وجد
+        <lb/>
+
+        بعضهم إلى هلاك بعض سبيلًا وإلى تهجين بلاء المسلمين
+        <lb/>
+
+        وإحسان المحسنين والتستّر على إساءة المسيئين لم يدعوا ذلك
+        <lb/>
+
+        ولم يكن لهم فيه رويّة ولا مراقبة وذلك سريع في ضياع الأمر
+        <lb/>
+
+        وانتشاره وجلب عظيم الضرورة والعيب
+      </p>
+
+      <p n="King to Be Aware of Schemes">
+        والملك حقيق أن يتعاهد
+        <lb/>
+
+        من ذلك ما يجب عليه لئلّا يركب من أحد منهم مأثمًا يحتمل فيه إصرًا
+        <lb/>
+
+        ووزرًا فينشر ذلك عنه ويتسامع به من ورائه فيدخل عليه منه
+        <lb/>
+
+        ما الجميل يغيّره
+      </p>
+
+      <p n="Lion Tested and Approved Jackal">
+        وقد كنت بلوت ابن آوى واختبرت أدبه ومروءته
+        <lb/>
+
+        قبل استعانتك به وتفويضك إليه فلم تزل عنه راضيًا تزيدك
+        <lb/>
+
+        الأيّام استصلاحًا إليه وفيه رغبة واسترسالًا
+      </p>
+
+      <p n="Jackal Has Shown Integrity">
+        فليس ينبغي
+        <lb/>
+
+        لك أيّها الملك بعد ارتضائك وائتمانك إيّاه ورضاك به
+        <lb/>
+
+        وأنّك لم تجد عليه عثرة إلى يومه هذا ولم تعرف منه إلّا الأمانة
+        <lb/>
+
+        والنصيحة
+      </p>
+
+      <p n="Lion Tested and Praised Jackal">
+        وبعد ما كان من ثنائك على رؤوس جندك عليه
+      </p>
+
+      <p n="Mother Finds Accusation Absurd">
+        وقد
+        <lb/>
+
+        عجبت من أمر الملك تقتل ابن آوى في طابق لحم بعد خبرته بأمره
+      </p>
+
+      <p n="Mother Warns of Conspiracy">
+        وعسى أصحابه يكونوا قد ألزموه من ذنبه باطلًا بحسدهم
+        <lb/>
+
+        وتعاونهم عليه وقد عرفت أيّها الملك خلقه وأمانته بعد خبرة
+        <lb/>
+
+        بأمره ولست حقيقًا بتهجينه وانتقامه عمّا كان عليه منه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

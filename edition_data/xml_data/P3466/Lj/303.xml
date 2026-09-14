@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="303"/>
+
+      <p n="Chain of Dependence up to King's Virtues">
+        والملوك بالتقوى والعقل
+      </p>
+
+      <p n="King to Consider People's Ranks">
+        ورأس الحزم للملك معرفة أصحابه
+        <lb/>
+
+        وإنزالهم منازلهم على طبقاتهم
+      </p>
+
+      <p n="Lion Tested and Approved Jackal">
+        وقد جرّبت ابن آوى وبلوت
+        <lb/>
+
+        رأيه وأمانته ومروءته ثمّ لم تزل مادحًا له راضيًا عنه
+      </p>
+
+      <p n="King Should Have Investigated">
+        ولم تكن
+        <lb/>
+
+        جديرًا أن تأمر بقتله على الظنّ والشبهة حتّى تبلغ أقصى ما يحمل
+        <lb/>
+
+        بك من الفحص
+      </p>
+
+      <p n="Jackal Eats no Meat">
+        لا سيّما وهو لا يأكل اللحم قبل صحبتك ومنذ
+        <lb/>
+
+        صحبك
+      </p>
+
+      <p n="Mother Warns of Conspiracy">
+        وعسى أن يكونوا أصحابك ألزموه من ذنبه باطلًا
+        <lb/>
+
+        لحسدهم له وتعاونهم عليه
+      </p>
+
+      <p n="King Must Investigate Now">
+        فلا تعجّلن أيّها الملك بالحكم حتّى
+        <lb/>
+
+        يصحّ لك موضعه وافحص عنه
+      </p>
+
+      <p n="The Inferior always Envy the Superior">
+        فإنّه لم يزل أراذل الناس ولئامهم
+        <lb/>
+
+        يحسدون أهل الفضل والمروءة
+      </p>
+
+      <p n="Jackal's Superiority Causes Envy">
+        وابن آوى ذو مروءة
+      </p>
+
+      <p n="Jackal's Foes Perhaps Hid Meat">
+        فعسى
+        <lb/>
+
+        أصحابك أن يكونوا حسدوه لذلك ودسّوا ذلك اللحم إلى منزله
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

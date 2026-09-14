@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="310"/>
+
+      <p n="King Must Choose Suitable People">
+        عن علمه أو عَلم من يأتمن به يستقبل به كلّ رجل هيّأ لكلّ عمل
+        <lb/>
+
+        من قد عرف نبله وعَلم أن عنده من الأمانة والنجدة والرأي
+        <lb/>
+
+        ما يستقبل بذلك العمل وأنّ الذي فيه من العيب لا يضرّ ذلك
+        <lb/>
+
+        العمل ويتحفّظ من أن يوجّه أحدًا وجهًا لا يحتاج فيه إلى مروءة
+        <lb/>
+
+        وإن كانت عنده ولا يأمن فيه ما يكره منه من عيوبه وعاقبة
+      </p>
+
+      <p n="King Must Reward and Punish">
+        ثمّ على الملك بعد ذلك تعاهد أعمالهم وتفقّد أمورهم
+        <lb/>
+
+        حتّى لا يخفى عليه إحسان محسن ولا إساءة مسيء ثمّ عليه
+        <lb/>
+
+        بعد ذلك أن لا يترك محسنًا بغير جزاء ولا يقرّ مسيئًا ولا عاجزًا
+        <lb/>
+
+        على ما هما عليه من ذلك
+      </p>
+
+      <p n="Lack of Assessment Damages">
+        فإن إن فعل ضيّع ذلك وتهاون المحسن
+        <lb/>
+
+        واجترأ المسيء ففسد الأمر وضاع العمل
+      </p>
+
+      <p n="Philosopher Mentions Parable">
+        وفي بعض الأمثال
+        <lb/>
+
+        لما سألت عنه تنبيه قال الملك
+      </p>
+
+      <p n="Philosopher Tells of Pious Jackal">
+        زعموا أنّه كان بأرض الهند
+        <lb/>
+
+        في موضع يُقال له طوايوطين ابن آوى وكان متألّهًا متعبّدًا
+        <lb/>
+
+        متعفّفًا وكان مع بنات آوى والثعالب والذئاب وسائر السباع
+        <lb/>
+
+        فلم يكن يصنع ما يصنعن ولا يغير كما يغيرون ولا يهرق دمًا ولا يأكل
+        <lb/>
+
+        لحمًا
+      </p>
+
+      <p n="Pack Denounces Jackal">
+        فخاصمته تلك السباع وقلن له إنّا لا نرضى سيرتك ولا رأيك
+        <lb/>
+
+        الذي أنت عليه ولا خير فيها مع أنّ تألّهك لا يغني عنك شيئًا
+        <lb/>
+
+        وأنت لا تستطيع إلّا أن تكون واحدًا منّا تصحبنا وتسعى معنا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

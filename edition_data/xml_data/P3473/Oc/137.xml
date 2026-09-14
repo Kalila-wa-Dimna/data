@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="137"/>
+
+      <p n="The Crow Kingdom and the Owl Kingdom">
+        بالقرب منه ملك من ملوك البوم تحت يده ألف بومة
+      </p>
+
+      <p n="The Owls Attack the Crows">
+        فخرج ذات يوم ملك البوم فأغار على مَلك الغربان فقتل
+        <lb/>
+
+        منهم خلقًا كثيرًا
+      </p>
+
+      <p n="The Morning in the Battle Aftermath">
+        فلمّا أصبح ملك الغربان جمع أصحابه إليه
+      </p>
+
+      <p n="The Crow King Evaluates the Damage">
+        وقال معاشر الغربان قد رأيتم ما حلّ بنا من البوم وكم قد أصبح
+        <lb/>
+
+        منكم قتيلًا وجريحًا
+      </p>
+
+      <p n="The Crow King Fears Recurring Aggression">
+        ولا أشكّ إنّهنّ يعلمن بكم وبحالكم وينلن
+        <lb/>
+
+        منكم أغراضهنّ فانظروا لأنفسكم قبل وقوع ما تكرهون
+      </p>
+
+      <p n="Input from the Five Wise Crows is Sought">
+        وكان فيهم خمس من الغربان المعروفين بالرأي والحزم وكان
+        <lb/>
+
+        ملكهم لم يزل يشاورهم ويفوّض الأمور إليهم
+      </p>
+
+      <p n="The Crow King Asks the First Crow">
+        فقال الملك
+        <lb/>
+
+        للأوّل منهم ما رأيك في هذا
+      </p>
+
+      <p n="Escape Should Be the Recourse">
+        قال رأيي في هذا ما قالت
+        <lb/>
+
+        الحكماء والعلماء قال الملك وما هو قال ليس للعدوّ الذي لا
+        <lb/>
+
+        يُطاق إلّا الهرب منهم منه
+      </p>
+
+      <p n="The Crow Kings Asks the Second Crow">
+        قال الملك للثاني وأنت فيما رأيك
+      </p>
+
+      <p n="Truce for a Tribute Should Be Sought">
+        قال رأيي أن نصالحهم على خراج نؤدّيه إليهم وندفع به عن
+        <lb/>
+
+        أنفسنا البلاء وفساد البلاد والخراب
+      </p>
+
+      <p n="The Crow King Asks the Third Crow">
+        قال الملك للثالث
+        <lb/>
+
+        فيما رأيك أنت
+      </p>
+
+      <p n="Recourse Is in Finding Allies and Fighting">
+        قال رأيي في ذلك القتال لهم والمظافرة عليهم
+        <lb/>
+
+        والاستظهار بمن ندخل عليه من الطير أو ليعيننا على محاربتهم
+      </p>
+
+      <p n="The Crow King Asks the Fourth Crow">
+        قال الملك للرابع فما رأيك أنت
+      </p>
+
+      <p n="Recourse Is in Abandoning Home">
+        قال لا نرى الصلح
+        <lb/>
+
+        رأيًا بل نرحل ونصبر على غصص الغربة ونبعد عن العدوّ
+        <lb/>
+
+        ونأمن من الخضوع للطير وننظر في أمورنا
+      </p>
+
+      <p n="The Crow King Asks the Fifth Crow, a Spy">
+        قال الملك
+        <lb/>
+
+        للخامس ما عندك من الرأي في ذلك قال
+      </p>
+
+      <p n="The Crow Should Scheme">
+        إذا كرهتم القتال
+        <lb/>
+
+        وضعفتم عنه
+      </p>
+
+      <p n="Opinion Counseling">
+        فاجمعوا رأيكم وتشاوروا
+      </p>
+
+      <p n="Advice Outweighs Armies">
+        فالملك الحازم
+        <lb/>
+
+        يزداد المشاورة والموازرة ما لا يزداد بالجنود وكثرة العدد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

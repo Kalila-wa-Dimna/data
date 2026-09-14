@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="21"/>
+
+      <p n="One Should Abide by God's Measures">
+        عنه لأنهما خالفا الحدّ جميعا
+      </p>
+
+      <p n="Striving for the Hereafter">
+        وينبغي أن يعلم أن كلّ إنسان ساعي فمن كان
+        <lb/>
+
+        سعيه لآخرته فحياته له
+      </p>
+
+      <p n="Striving for the Here and the Hereafter">
+        ومن كان لآخرته ودنياه فحياته له وعليه
+      </p>
+
+      <p n="Striving for the Here">
+        وإن كان سعيه لدنياه خاصة فحياته عليه
+      </p>
+
+      <p n="A Worldly Man Must Fix Three Things">
+        ويقال في ثلاثة أشياء يحقّ على
+        <lb/>
+
+        صاحب الدنيا إصلاحها والابتذال لنفسه فيها أمر دنياه وأمر معيشته وأمر
+        <lb/>
+
+        ما بينه وبين الناس
+      </p>
+
+      <p n="Three Things in a Man Engender Inefficiency">
+        وقد قيل في ستّة أمور من كانت فيه لم
+        <lb/>
+
+        يستقم له أمره منها التواني ومنها التضييع للفرص ومنها التصديق لكل
+        <lb/>
+
+        مُخْبر
+      </p>
+
+      <p n="Many Are Credulous">
+        ورُبّ رجل خُبِّر بالشيء لا يقبله عقله ولا يعرف استقامته فيصدّق به
+      </p>
+
+      <p n="The Types of Credulous Men">
+        ومن يفعل ذلك ثلاثة رجل يصدّق به لما جرب من تصديق غيره ممّن دأبه
+        <lb/>
+
+        ذلك <>
+      </p>
+
+      <p n="One Needs to Keep Desire in Check">
+        فالعاقل لا يزال لهواه متّهما وينبغي له أن لا يقبل من أحد وإن كان
+        <lb/>
+
+        صدوقا للأصدقاء
+      </p>
+
+      <p n="One Needs to Check the Veracity of Information">
+        وينبغي له أن لا يتمادى في الخطأ ولا يتوانى في النظر فيها
+        <lb/>
+
+        وينبغي له إن التبس عليه أمره أن لا يلج في شيء منه ولا يقدم عليه قبل أن
+        <lb/>
+
+        يستقرّ بالصواب منه
+      </p>
+
+      <p n="One Should Not Continue on the Wrong Path">
+        فيكون كالرجل الذي يجور عن الطريق فيسير
+        <lb/>
+
+        كما هو بالجور وعلى الاعوجاج ولا يزداد في المسير بعدًا إلّا ازداد في
+        <lb/>
+
+        الطريق بعدًا
+      </p>
+
+      <p n="Man Rubs Itchy Eye and Loses It">
+        وكان كالرجل يدخل في عينه القذى فلا يزال يدلّكها
+        <lb/>
+
+        ويحكّها حتى يعلوها البياض فتذهب
+      </p>
+
+      <p n="The Intelligent Should Believe in Fate">
+        وعلى العاقل أن يأخذ بالحزم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

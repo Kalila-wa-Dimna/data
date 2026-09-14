@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="42"/>
+
+      <p n="Dimna Provides Assurance to Ox">
+        فأعطاه الأمان وما وثق به
+      </p>
+
+      <p n="Dimna and Ox Approach Lion Together">
+        ثمّ أقبلا حتّى دخلا على الأسد
+      </p>
+
+      <p n="Lion's Welcoming Inquiry to Ox">
+        فأحسن الأسد مسألة الثور
+        <lb/>
+
+        وقال له متى قدمت هذه البلاد وما أقدمك لها
+      </p>
+
+      <p n="Ox Recounts His Story to Lion">
+        فقصّ عليه الثور وأثنى عليه وأقام معه
+      </p>
+
+      <p n="Lion's Growing Trust in Ox">
+        فقرّبه الأسد وأكرمه وفتّشه وعلم منه رأيًا وعقلًا
+      </p>
+
+      <p n="Lion's Increasing Favor Towards Ox">
+        فائتمنه على أسراره وجميع أموره
+        <lb/>
+
+        ولم يزده طول المقام عنده إلّا عجبًا به ورغبة فيه وتقاربًا منه حتّى صار أخصّ أصحابه
+        <lb/>
+
+        عنده منزلة
+      </p>
+
+      <p n="Dimna's Jealousy of Ox's Favor">
+        فلمّا رأى دمنة أنّ الأسد استخصّ الثور لنفسه دون أصحابه حسده
+        <lb/>
+
+        كلّ الحسد وبلغ منه كلّ مبلغ
+      </p>
+
+      <p n="Dimna Complains to Kalila">
+        فشكا ذلك إلى أخيه كليلة
+      </p>
+
+      <p n="Dimna's Lament">
+        فقال له ألا تعجب لضعف رأي
+        <lb/>
+
+        وضيعي بنفسي ونظري فيما ينفع الأسد وإغفالي نفسي وضوءها حين جلبت إليه من غلبني
+        <lb/>
+
+        على منزلتي
+      </p>
+
+      <p n="Kalila Introduces the Ascetic's Parable">
+        قال كليلة أصابك إذًا ما أصاب الناسك
+      </p>
+
+      <p n="Dimna Asks About the Ascetic">
+        قال دمنة وكيف كان
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="Fourth Subtale of Ascetic and Thief">
+        قال زعموا أنّ ناسكًا أصاب من بعض الملوك كسوة فاخرة فبصر به لصّ فرغب في
+        <lb/>
+
+        الكسوة
+      </p>
+
+      <p n="The Thief Deceives the Ascetic">
+        فانطلق إلى الناسك فقال له إنّي أريد أن أصحبك وأتعلّم منك وآخذ من أدبك
+      </p>
+
+      <p n="The Thief Gains the Ascetic's Trust">
+        فصحبه متشبّهًا بالنساك فكان يرفق بالناسك ويلطف به
+      </p>
+
+      <p n="The Thief Steals the Garment">
+        حتّى أصاب منه غفلة فاحتمل
+        <lb/>
+
+        تلك الكسوة ومضى
+      </p>
+
+      <p n="The Ascetic Pursues the Thief">
+        فلمّا فقد الناسك الثياب عرف أنّه صاحبها فطلبه في مكانه حتّى توجّه
+        <lb/>
+
+        في طلبه نحو مدينة من المدائن
+      </p>
+
+      <p n="The Fighting Rams">
+        فمرّ في طريقه على وعلين ينتطحان فطال انتطاحهما حتّى
+        <lb/>
+
+        سالت الدماء منهما
+      </p>
+
+      <p n="The Fox and the Rams">
+        فجاء ثعلب يلغ في تلك الدماء فبينما هو مكبّ عليها إذ التقيا عليه الوعلان
+        <lb/>
+
+        وهو غافل فقتلاه
+      </p>
+
+      <p n="The Ascetic Lodges with a Procuress">
+        ومضى الناسك حتّى انتهى إلى المدينة فأتاها ممسيًا فلم يجدْ مأوى ولا
+        <lb/>
+
+        مبيتًا إلّا بيت امرأة بغي صاحبه بغايا فنزل بها وكان لتلك المرأة جارية تؤاجرها
+      </p>
+
+      <p n="The Procuress's Problematic Slave Girl">
+        وكانت الجارية قد عشقت رجلًا فهي لا تودد غيره ففاض بالمرأة فيما كانت تصيب
+        <lb/>
+
+        من أجرها فاضطغنت على الرجل الذي عشقته الجارية
+      </p>
+
+      <p n="The Procuress's Plot">
+        فاختالت لقتله ليلة صادفها
+        <lb/>
+
+        الناسك
+      </p>
+
+      <p n="The Lover is Drugged">
+        وسقته من الخمر صرفًا حتّى غلب عليه السكر فنام ونامت الجارية معه
+      </p>
+
+      <p n="The Poisonous Reed Pipe">
+        فلمّا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

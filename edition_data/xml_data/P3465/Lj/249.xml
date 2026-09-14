@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="249"/>
+
+      <p n="unassigned">
+        ولا أمن ولا أمان لي عندك أيّها الملك ولا طمأنينة لي في جوارك ثمّ ودّع الملك
+        <lb/>
+
+        وطار فهذا مثل الأوتار الذي لا ينبغي لبعضهم أن يثق ببعض
+        <lb/>
+
+        انقضى باب الملك والطائر
+      </p>
+
+      <p n="Chapter Title">
+        باب الأسد وابن آوى
+      </p>
+
+      <p n="King Understood Previous Chapter">
+        قال ديشلم الملك لبيدبا الفيلسوف قد سمعت هذا المثل
+      </p>
+
+      <p n="King Asks about Reconciling a Courtier">
+        فاضربْ لي مثل
+        <lb/>
+
+        الملك الذي يراجع من أصابته منه جفوة أو عقوبة من غير جرم أو جفوة
+        <lb/>
+
+        من غير ذنب
+      </p>
+
+      <p n="Philosopher Supports Reconciliation of a Courtier">
+        قال الفيلسوف إنّ الملك لو لم يراجع من أصابته منه جفوة
+        <lb/>
+
+        عن ذنب أو غير ذنب ظلم أو لم يظلم لأضرّ ذلك بالأعمال
+      </p>
+
+      <p n="King to Consider Value of a Suspect">
+        ولكنّ الملك حقيق
+        <lb/>
+
+        أن ينظر في حال من ابتُلي بذلك ويَخبر ما عنده من المنافع
+      </p>
+
+      <p n="King to Reconcile the Reliable">
+        فإن كان ممّن
+        <lb/>
+
+        يُوثق به في رأيه وأمانته فإنّ الملك حقيق بالحرص على مراجعته
+      </p>
+
+      <p n="Aides Are Essential to Rule">
+        فإنّ المُلك
+        <lb/>
+
+        لا يُستطاع إلّا مع ذوي الرأي وهم الوزراء والأعوان ولا يُنتفع بالوزراء إلّا بالمودّة
+        <lb/>
+
+        لهم والنصيحة ولا مودّة إلّا لذوي الرأي والعفاف
+      </p>
+
+      <p n="Kings' Duties Are Many">
+        وأعمال السلطان كثيرة
+        <lb/>
+
+        والذين يُحتاج إليهم من العمّال والأعوان كثيرون ومن يجمع منهم ما ذكرت
+        <lb/>
+
+        من النصيحة والعفاف قليل
+      </p>
+
+      <p n="Philosopher Mentions Parable">
+        والمثل في ذلك مثل الأسد وابن آوى قال الملك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kb</chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

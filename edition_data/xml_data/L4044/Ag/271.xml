@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="271"/>
+
+      <p n="unassigned">
+        ربّما كان ضرّه مصروفًا عن ضرّ الناس لضرّ يصيبه كاللبؤة التي انصرفت لما
+        <lb/>
+
+        لقيت في شبليها حتّي تركت أكل اللحوم وتركت أكل الثمار لقول الشعهر
+        <lb/>
+
+        وأقبلت على العبادة والتنسّك فالناس أحقّ بالنظر في ذلك من غيرهم فإنّه قد
+        <lb/>
+
+        قيل ما لا ترضاه لنفسك لا ترضه لغيرك ولا تدلّه إليه فإذا هو العدل والعدل
+        <lb/>
+
+        رضا الله سبحانه وتعالى ورضى الناس انقضى باب اللبؤة والشعهر
+      </p>
+
+      <p n="Chapter Title">
+        باب الناسك وضيفه
+      </p>
+
+      <p n="King Understood Last Chapter">
+        قال ديشلم الملك لبيدبا الفيلسوف قد سمعت مقالتك
+      </p>
+
+      <p n="King Ask Seek Wrong Work">
+        فإذا رأيت أن
+        <lb/>
+
+        تحدّثني عمّن يدع عمله الذي يشاكله ويليق به فيتعدّى ذلك إلى غيره من
+        <lb/>
+
+        الأعمال فلا يدركه وينسى عمله الذي كان يحسنه فيصير حيرانًا
+      </p>
+
+      <p n="Story Ascetic Guest">
+        قال
+        <lb/>
+
+        بيدبا زعموا أنّه كان بأرض الكرخ ناسك فأضافه ضيف يومًا من الأيّام
+        <lb/>
+
+        فدعا الناسك لضيفه بتمر لطرفته عندهم فأكلا منه جميعًا
+      </p>
+
+      <p n="Guest Praise Dates">
+        فقال الضيف
+        <lb/>
+
+        للناسك ما أحلى هذا التمر وأطيبه
+      </p>
+
+      <p n="No Palm Trees At Home">
+        وليست أرضنا التي نسكنها بأرض نخل
+      </p>
+
+      <p n="Enough Good Fruit At Home">
+        مع
+        <lb/>
+
+        أنّه إذ لم يكن عندنا قد اكتفينا بغيره من الثمار فإنّه من يقدر على التين وغيره
+        <lb/>
+
+        من الثمار فما حاجته إلى التمر مع وخامته وفانه موافقته للجسد
+      </p>
+
+      <p n="Dont Seek Unattainable">
+        فقال له
+        <lb/>
+
+        الناسك إنّه لا يعدّ سعيدًا من احتاج إلى ما لا يجد ولا يقدر على الصبر عنه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lh</chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

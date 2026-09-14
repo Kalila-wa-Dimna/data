@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="73"/>
+
+      <p n="The Maxim of the Unknown Guest">
+        تأمنه أن يصل إليك منه سبب شرّ
+      </p>
+
+      <p n="Introducing the Tale of the Louse and the Flea">
+        كما أصاب القملة
+      </p>
+
+      <p n="The Lion Asks for the Tale of the Louse">
+        قال الأسد
+        <lb/>
+
+        وما أصاب القملة
+      </p>
+
+      <p n="The Story Begins: The Louse on the Rich Man's Bed">
+        قال دمنة زعموا أن قملة لزمت فراش رجل من
+        <lb/>
+
+        الأشراف زمانًا فكانت تصيب من دمه وهو نائم وتدبّ عليه دبيبًا
+        <lb/>
+
+        رفيقًا فسلمت بذلك
+      </p>
+
+      <p n="The Louse Invites a Flea to Stay">
+        حتًى استضافها برغوث ذات ليلة فقالت القملة
+        <lb/>
+
+        للبرغوث بت عندنا هذه الليلة في دم طيّب وعلى فراش ليّن
+      </p>
+
+      <p n="The Flea Bites the Man Sharply">
+        فأقام
+        <lb/>
+
+        البرغوث عندها حتى إذا أوى الرجل إلى فراشه وثب عليه البرغوث
+        <lb/>
+
+        فلدغه لدغة شديدة استيقظ الرجل من نومه
+      </p>
+
+      <p n="The Flea Escapes and the Louse is Killed">
+        فأمر بفراشه أن يُنظر
+        <lb/>
+
+        فيه فنظروا فيه وقد فُقد البرغوث وذهب فلم يجدوا إلا قملة فقتلوها
+      </p>
+
+      <p n="Dimna Applies the Parable's Moral: The Danger of Bad Company">
+        وإنّما ضربت لك هذا المثل ليعلم الملك أنّ صاحب الشرّ لا يسلم من شرّه
+        <lb/>
+
+        وإن هو ضعف عن ذلك جاء بسببه
+      </p>
+
+      <p n="Dimna Specifies the Threat from Incited Soldiers">
+        فإن كنت لا تخاف شتربة خفت غيره
+        <lb/>
+
+        من جندك الذين قد حملهم شتربة على عداوتك وجرّأهم عليك
+      </p>
+
+      <p n="Dimna Asserts Shatraba Will Not Act Directly">
+        مع أنّي
+        <lb/>
+
+        لو قد عرفت لا يريد مناظرتك ولا تكل أمرك إلى غيرك
+      </p>
+
+      <p n="The Lion is Convinced by Dimna">
+        فوقع في نفس
+        <lb/>
+
+        الأسد قول دمنة
+      </p>
+
+      <p n="The Lion Asks for Dimna's Counsel">
+        فقال ماذا ترى
+      </p>
+
+      <p n="Dimna's Advice: Remove the Threat Like a Bad Tooth">
+        قال دمنة إنّ صاحب الضرس المأكول
+        <lb/>
+
+        لا يزال صاحبه منه في أذى وألم حتّى يفارقه والطعام الذي غثيت منه
+        <lb/>
+
+        النفس فالراحة في قذفه والعدوّ المخوف دواؤه فقده
+      </p>
+
+      <p n="The Lion Decides to Confront Shatraba">
+        قال الأسد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

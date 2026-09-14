@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="357"/>
+
+      <p n="The King Enacts the Plan and the Cats Are Killed">
+        بالتجر بهم بسببهم فطفقوا بهم قتلًا ونفيًا وطردوهم بجملتهم
+        <lb/>
+
+        حتّى لم يبق في تلك المدينة سنّور واحد
+      </p>
+
+      <p n="The Damage Is Attributed to the Cats">
+        وتمرّن الناس
+        <lb/>
+
+        على إبعادهم حتّى إنّه متى رأى أحد قرض فأر في ثوبه
+        <lb/>
+
+        أو إزاره يقول انظروا لا يكون مرّ بمنزلي سنّور
+      </p>
+
+      <p n="Man Should Heed This Example">
+        فإذا كان هذا الحيوان الضعيف توصّل بالحيلة على
+        <lb/>
+
+        استئصال عدوّه حتّى تخلّص منه فما ظنّك بإنسان
+        <lb/>
+
+        وهو أشرف الحيوان وأميزهم بواسطة العلم والعقل
+        <lb/>
+
+        وإعمال الحيل فما يعذره
+      </p>
+
+      <p n="End of Chapter">
+        انقضى باب مهراز بن ملك
+        <lb/>
+
+        الجرذان
+      </p>
+
+      <p n="unassigned">
+        تمّ الكتاب المسمّى كليلة ودمنة بالتمام والكمال
+        <lb/>
+
+        ونعوذ بالله من الزيادة والنقصان
+        <lb/>
+
+        تمّ بحمد الله وعونه وحسن
+        <lb/>
+
+        توفيقه والحمد لله
+        <lb/>
+
+        وحده
+        <lb/>
+
+        وصلى الله
+        <lb/>
+
+        على
+        <lb/>
+
+        سيّدنا
+        <lb/>
+
+        محمّد
+        <lb/>
+
+        وآله
+        <lb/>
+
+        وسلّم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

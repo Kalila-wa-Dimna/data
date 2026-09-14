@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="186"/>
+
+      <p n="The Heron's Tale of Fishermen">
+        وقد رأيت اليوم صيّادين أتيا هذا المكان فقال أحدهما لصاحبه أرى ها هنا
+        <lb/>
+
+        سمكًا كثيرًا أفلا نصيده بمرّة واحدة فقال له صاحبه إنّي قد أعرف أمامنا مكانًا
+        <lb/>
+
+        فيه سمك فإنّي أحبّ أن نبدأ به فإذا فرغنا منه أقبلنا إلى ها هنا
+      </p>
+
+      <p n="The Feared Consequence">
+        فقد علمت أنّهما إذا
+        <lb/>
+
+        فرغا ممّا توجّها إليه قصدا هذه الأجمّة فلم يدعا فيها سمكة إلّا صاداها فإذا كان ذلك
+        <lb/>
+
+        كذلك فهو موتي
+      </p>
+
+      <p n="The Crab Warns the Fish">
+        فانطلق السرطان إلى جماعة السمك فأخبرهنّ بذلك
+      </p>
+
+      <p n="The Fish Seek Counsel">
+        فأقبلن إلى العلجوم
+      </p>
+
+      <p n="A Plea for Advice">
+        يستشيرونه وقلن له أتيناك لتشير علينا فإنّ ذا العقل لا يدع استشارة عدوّه
+        <lb/>
+
+        إذا كان ذا رأي في الأمر الذي تشركه فيه وأنت ذو رأي ولك في بقائنا صلاح فأشر
+        <lb/>
+
+        علينا برأيك
+      </p>
+
+      <p n="The Heron's Deceptive Offer">
+        قال العلجوم أمّا مكابرة الصيّاد وقتاله فلا أراه وليس ذلك عندنا ولا أعلم
+        <lb/>
+
+        لكم حيلة إلّا أنّي قد علمت مكان غدير فيه قصب وماء كثير فلو استطعتنّ النقلة
+        <lb/>
+
+        إلى ذلك الغدير كان فيه صلاحكنّ وخصبكنّ
+      </p>
+
+      <p n="The Fish Ask for Help">
+        قلن ومن يفخر يتفضّل بهذا علينا غيرك
+      </p>
+
+      <p n="The Heron's Promise">
+        فجعل
+        <lb/>
+
+        العلجوم
+      </p>
+
+      <p n="The Heron's Treachery">
+        يحمل في كلّ يوم سمكتين فينطلق بهما إلى بعض التلال فيأكلهنّ
+      </p>
+
+      <p n="The Crab's Request">
+        حتّى إذا كان ذات يوم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="39"/>
+
+      <p n="Man Jumping into the River and Rescue">
+        فحمله الخوف من الذئب على أن ألقى نفسه في الماء إذ لم يكن قنطرة تعدّيه
+        <lb/>
+
+        إلى الجانب الآخر فكاد أن يغرق فبصر به قوم من الجانب الآخر فأخرجوه
+        <lb/>
+
+        وهو مشرف على الهلاك
+      </p>
+
+      <p n="Man's Temporary Safety">
+        فلمّا وصل ذلك الجانب وأمن على نفسه
+        <lb/>
+
+        من الذئب
+      </p>
+
+      <p n="Man Entering an Isolated House">
+        رأى هناك بيتًا مفردًا فقال في نفسه أدخل هذا البيت
+        <lb/>
+
+        فأستريح ساعة ثمّ أنصرف فيما بعد إلى القرية
+      </p>
+
+      <p n="Encounter with Thieves in the House">
+        فلمّا دخل البيت وجد فيه
+        <lb/>
+
+        لصوصًا قد أخذوا تاجرًا فسلبوه ما كان معه وهم يناوشونه القتل
+        <lb/>
+
+        وقد أضجعوه ليقتلوه
+      </p>
+
+      <p n="Man Flees to Another Village">
+        فلمّا بصروا بالرجل همّوا به فرجع القهقرى
+        <lb/>
+
+        وقد كادت روحه أن تزهق فزعًا وخوفًا ممّا رأى فسار حتّى دخل
+        <lb/>
+
+        قرية أخرى
+      </p>
+
+      <p n="Man Resting Against a Wall">
+        ووصل إلى أوّل حائط فيها فأسند ظهره ليستريح ممّا مرّ
+        <lb/>
+
+        عليه من الفرق والإعياء
+      </p>
+
+      <p n="Wall Collapsing and Killing the Man">
+        فوقع الحائط عليه فقتله فمات وفات
+      </p>
+
+      <p n="Merchant Acknowledging the Story">
+        فقال
+        <lb/>
+
+        التاجر صدقت فقد بلغني هذا الحديث
+      </p>
+
+      <p n="Merchant's Acceptance of Ox's Fate">
+        واستخلف شتربة عند الله متعزّيًا
+        <lb/>
+
+        بما سمع من ذلك الرجل
+      </p>
+
+      <p n="Ox's Journey to a Lush Meadow">
+        ولمّا ترك الرجل شتربة وولّى انبعث الثور
+        <lb/>
+
+        من مكانه فلم يزل يرتاد ويدبّ قليلًا قليلًا حتّى انتهى إلى موضع
+        <lb/>
+
+        ذي مرج واسع مخصب كثير الماء والمرعى غزير العشب والكلأ
+      </p>
+
+      <p n="Ox Enjoying Abundant Food and Water">
+        فلمّا انتهى إليه أكثر به الأكل من ذلك العشب والشرب من بارد الماء
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

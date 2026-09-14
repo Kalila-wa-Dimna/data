@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="167"/>
+
+      <p n="Three Challenging Pursuits Requiring Courage">
+        السلطان وتجارة البحر ومناجزة العدوّ
+      </p>
+
+      <p n="Two Proper Places for Noble Man">
+        وقالت العلماء في الرجل الفاضل المروءة
+        <lb/>
+
+        إنّه لا ينبغي أن يُرى إلّا في مكانين ولا يليق به غيرهما إمّا مع الملوك مكرّمًا وإمّا مع
+        <lb/>
+
+        النسّاك متبتّلًا
+      </p>
+
+      <p n="Two Places for Elephant’s Splendor">
+        كالفيل الذي إنّما بهاؤه وجماله في مكانين إمّا في برّيّته وحشيًّا وإمّا
+        <lb/>
+
+        مركبًا للملوك
+      </p>
+
+      <p n="Kalila's Blessing for Dimna's Decision">
+        قال كليلة خار الله لك فيما قد عزمت عليه
+      </p>
+
+      <p n="Dimna Approaching the Lion">
+        ثمّ إنّ دمنة انطلق
+        <lb/>
+
+        نحو الأسد فسلّم عليه
+      </p>
+
+      <p n="Lion Inquiring About Dimna's Identity">
+        فقال الأسد لقرابته من هذا
+      </p>
+
+      <p n="Identification of Dimna">
+        قالوا فلان بن فلان
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+      </p>
+
+      <p n="Lion Recognizing Dimna's Father">
+        قال قد كنت أعرف أباه
+      </p>
+
+      <p n="Lion Questioning Dimna's Whereabouts">
+        ثمّ سأله أين يكون
+      </p>
+
+      <p n="Dimna's Response about His Loyalty">
+        قال لم أزلْ بباب الملك مرابطًا رجاء أن يحضر
+        <lb/>
+
+        الملك أمر أعينه فيه برأيي ونفسي
+      </p>
+
+      <p n="Dimna on the Value of Overlooked Individuals">
+        فإنّ باب الملك تكثر فيه الأمور حتّى ربّما احتيج فيها إلى من لا نباهة له ولا تصغر منزلة أحد عن أن تكون عنده منفعة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="355"/>
+
+      <p n="The Second Option Is to Make Dens in Houses">
+        وجميع الجراذين الذي في هذه المدينة ويأمرهم
+        <lb/>
+
+        أن يتّخذ كلّ واحد في البيت يأوي فيه نقب يسع
+        <lb/>
+
+        جميع الجرذان ويعدّ فيه زادًا يكفيهم عشرة أيّام
+        <lb/>
+
+        ويفتح للنقب سبعة أبواب من خارج الحائط وثلاثة
+        <lb/>
+
+        أبواب ممّا يلي خزانة الملك الرجل والفرش
+      </p>
+
+      <p n="The Vizier's Aim Is to Damage Household Items">
+        والقماش فإذا
+        <lb/>
+
+        فعلوا ذلك أقمنا بأجمعنا في دار بعض المياسير في
+        <lb/>
+
+        من يكون له في داره سنّور واحد وأقمنا كلّ واحد
+        <lb/>
+
+        منّا على باب من تلك الأبواب إلى خزانة المتاع ولا
+        <lb/>
+
+        نتعرّض إلى متاع ولا إلى مأكل ولكنّنا نقصد
+        <lb/>
+
+        في افساد الكسوة والفرش ولا نسرف في الفساد أيضًا
+      </p>
+
+      <p n="The House Owner Gets a Second Cat">
+        فإذا رأى صاحب المنزل ما قد دهمه من فسادنا نقول
+        <lb/>
+
+        لعلّ هذا السنّور الواحد لا يعرف بها ولأيّ الجراذين
+        <lb/>
+
+        فيحضر سنّورًا آخر فا
+      </p>
+
+      <p n="The Rats Increase the Damage">
+        فإذا فعل ذلك عدنا
+        <lb/>
+
+        أيضًا وزدنا على ما أخذناه من الفساد الأوّل
+      </p>
+
+      <p n="The House Owner Notices the Damage Increasing">
+        فإذا
+        <lb/>
+
+        رأى صاحب المنزل ذلك فكّر واحترص على تكبير
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

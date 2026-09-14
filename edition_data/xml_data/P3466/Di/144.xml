@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="144"/>
+
+      <p n="The Lion Misses the Ox and Regrets Killing Him">
+        وأقبل من مناصحته ندمت على قتله
+      </p>
+
+      <p n="Self-Accusation is the Most Damning">
+        قالت أمّ الأسد إنّ أشدّ
+        <lb/>
+
+        شيئًا شهادة المرء على نفسه وأصدق عدلًا شهادة القلب
+      </p>
+
+      <p n="Killing the Ox Was Wrong">
+        وكيف أقدمت على قتل الثور بغير علم ولا يقين إنّ هذا
+        <lb/>
+
+        من أشدّ الخطأ
+      </p>
+
+      <p n="The Mother Alludes to Her Secret Knowledge">
+        ولولا ما قالت العلماء في إذاعة الأشرار
+        <lb/>
+
+        وكراهة ما فيه من الإثم والشنار لذكرت لك وأخبرتك
+        <lb/>
+
+        بما علمت من أمر شتربة
+      </p>
+
+      <p n="Scholars Say Various Things">
+        قال الأسد إنّ أقوال العلماء
+        <lb/>
+
+        لها وجوه كثيرة ومعان مختلفة وإنّي لأعلم صواب ما تقولين
+      </p>
+
+      <p n="The Lion Asks for His Mother's Secret">
+        فإذا كان عندك سرّ فلا تطويه عنّي وإن كان
+        <lb/>
+
+        أسرّ إليك أحد سرًّا فأخبريني به وأطلعيني على
+        <lb/>
+
+        جملة الأمر فإن كان صالحًا حمدتك وإن كان
+        <lb/>
+
+        مذمومًا عذرتك
+      </p>
+
+      <p n="The Lion Does Not Insist on Knowing His Mother's Source">
+        وإن أنت لم تؤثري أن تخبريني
+        <lb/>
+
+        باسم المسرّ إليك فأخبريني بجملة القول
+      </p>
+
+      <p n="The Source Wants to Extricate Himself">
+        واعلمي
+        <lb/>
+
+        أنّ المسرّ إليك ذلك قد بَرِئ من عهدته وعلّق
+        <lb/>
+
+        الأمر في عنقك
+      </p>
+
+      <p n="Divulging Secrets Is a Punishable Sin">
+        قالت أمّ الأسد إنّي لم أجهل قول
+        <lb/>
+
+        العلماء في تعظيمهم العقوبة وتشديدها وما يدخل
+        <lb/>
+
+        على الرجل في إذاعة الأسرار وما في ذلك من
+        <lb/>
+
+        الإثم والشنار
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

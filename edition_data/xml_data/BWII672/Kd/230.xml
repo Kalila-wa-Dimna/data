@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="230"/>
+
+      <p n="Favorite Wears Dress Before King">
+        نفسه إليها
+      </p>
+
+      <p n="King Insults Queen">
+        ثم التفت إلى إبرخت وقال لها أنت كنت
+        <lb/>
+
+        جاهلة حين أخذت الإكليل وتركت الكسوة إذ
+        <lb/>
+
+        ليس في خزائننا مثل هذه الكسوة
+      </p>
+
+      <p n="Queen Pours Rice Over King">
+        فلمّا سمعت إبرخت
+        <lb/>
+
+        كلام المَلك ولمحت أنّ نفسه تاقت إليها وأخرى أنّها
+        <lb/>
+
+        غارت من أمّ جرير أخذها الغضب والصخب فأخذت
+        <lb/>
+
+        صحيفة الأرزّ وضربت بها رأس المَلك فسال الأرزّ
+        <lb/>
+
+        على جسده وأمتعته وجبهته
+      </p>
+
+      <p n="Fulfillment Of Last Dream">
+        وكان هذا تصديق
+        <lb/>
+
+        رؤياه الثامنة التي كان الحكيم بيّن له طرفًا منها ولم
+        <lb/>
+
+        يُفسّرها له وأوعده بتفسيرها
+      </p>
+
+      <p n="King Expresses Anger To Vizier">
+        فلمّا جرى من إبرخت
+        <lb/>
+
+        ما جرى أدعى المَلك بإيلاد وقال له أما ترى ما حلّ بي وأنا
+        <lb/>
+
+        مَلك العالَم كيف تجاسرت عليّ امرأة وفعلت بي ما تراه
+      </p>
+
+      <p n="King Orders To Execute Queen">
+        فانطلق بها واقتلها بالعجل من غير مهل ولا
+        <lb/>
+
+        ترحمها فهذا جزاؤها
+      </p>
+
+      <p n="Vizier Decides To Spare Queen">
+        فأخذ إيلاد لإبرخت وخرج بها
+        <lb/>
+
+        من عند المَلك وقال في نفسه ما أنا بقاتلها
+        <lb/>
+
+        فلا بدّ ما يسكن غضب المَلك فما له صبر عنها من شدّة
+        <lb/>
+
+        عقلها وكمالها
+      </p>
+
+      <p n="Vizier Praises Queen">
+        وما أظنّ لها عديل بين النساء
+        <lb/>
+
+        وكان خلاص المَلك على يدها ولولاها هلك المَلك
+        <lb/>
+
+        وعملها عمل أهل الصلاح
+      </p>
+
+      <p n="Vizier Fears Risk Of Rush">
+        أو إذا قال المَلك لمّا
+        <lb/>
+
+        أمرتك بقتلها لم لا راجعتني عنها فما يكون جوابي
+        <lb/>
+
+        له
+      </p>
+
+      <p n="Viziers Action Depends On King">
+        فأنا ليس بقاتلها حتّى أنظر رأي المَلك فيها
+      </p>
+
+      <p n="Vizier Reflects On Benefits">
+        فإن
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

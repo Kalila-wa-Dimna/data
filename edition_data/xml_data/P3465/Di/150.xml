@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="150"/>
+
+      <p n="Painter Suggests Black-and-White Coat to Woman">
+        الصوّر وتماثيل الصنعة فأنا ألبسها حين مجيئي إليك ومُتراءٍ لك فيها ثمّ إنّ
+        <lb/>
+
+        المصوّر لبس الملاءة وتراءى للمرأة فعلمت بمكانه فخرجت إليه وفرحت به
+        <lb/>
+
+        وتهيّأت له
+      </p>
+
+      <p n="The Woman's Servant Hears About Coat">
+        فبصر بهما في تلك الحالة عبد للمرأة فعجب من ذلك وتحيّر
+      </p>
+
+      <p n="Woman's Servant Borrows Coat In Painter's Absence">
+        وكان
+        <lb/>
+
+        هذا العبد لأمة المصوّر خليلًا فطلب الملاءة منها وسألها ذلك وقال
+        <lb/>
+
+        أريد أن أريها لصديق لي لأسرّه بذلك وأسرع الكرّة بردّها قبل أن يعلم مولاك
+        <lb/>
+
+        فأعطته أمة المصوّر الملاءة
+      </p>
+
+      <p n="Servant Tricks Woman">
+        فلبسها العبد وأتى سيّدته على نحو ما كان يأتيها
+        <lb/>
+
+        المصوّر فلمّا رأته لم تشكّ في مجيئه ولم ترتبْ به أنّه خليلها فأتت إليه وبذلت
+        <lb/>
+
+        له نفسها فقضي حاجته منها وبلغ غرضه ثمّ رجع بالملاءة إلى أمة
+        <lb/>
+
+        المصوّر فدفعها إليها فوضعتها موضعها
+      </p>
+
+      <p n="Lover Realizes She Was Tricked">
+        وكان المصوّر عن بيته غائبًا
+        <lb/>
+
+        فلمّا جنّ الليل عاد إلى منزله فلبس الملاءة على عادته وتراءى للمرأة فلمّا شاهدت
+        <lb/>
+
+        ذلك وثبت إليه وقالت لقد اسرعت الكرّة ألم تكنْ عندي وقد قضيت
+        <lb/>
+
+        حاجتك فماذا العود
+      </p>
+
+      <p n="The Lover's Servant Confesses">
+        فلمّا سمع المصوّر كلامها رجع إلى منزله فدعا جاريته
+        <lb/>
+
+        فتواعدها بالقتل أو النجدة بالحقيقة فأخبرته بالقصّة فأخذ الملاءة فأحرقها
+      </p>
+
+      <p n="Dimna Opposes Acting Upon Doubt">
+        وإنّما ضربت لك هذا المثل لتعلم أنّ النمر قد كذب وإنّ الكذب مأثمة
+        <lb/>
+
+        لصاحبه
+      </p>
+
+      <p n="First Speaker Leaves Dejected/Is Silenced">
+        فلمّا سمع النمر ذلك استحيا وقام فخرج منكسرًا من عند الأسد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

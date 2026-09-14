@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="47"/>
+
+      <p n="The Ascetic Intervenes">
+        فإنّ اللصّ ليس سرقني وإنّ الثعلب ليس الوعلان قتلاه وإنّ المرأة التي قتلها السمّ
+        <lb/>
+
+        ليس هو صحيح وإنّ امرأة الحجام ليس زوجها قطع أنفها بل نحن جميعًا فعلنا بأنفسنا
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="The Ascetic's Testimony">
+        قال وأخبره فسأله القاضي عن تفسير ذلك فأخبره الناسك بجميع ما جرى
+      </p>
+
+      <p n="Applying the Moral to Dimna">
+        قال دمنة
+        <lb/>
+
+        لكليلة قد فهمت ما ذكرت لي وهو شبيه بأمري ما ضرّني سوى نصيحتي ومحبّتي ولله
+        <lb/>
+
+        درّ القائل إذا المرء لم يرض ما أمكنه ولم يأت من أمره أحسنه
+        <lb/>
+
+        فدعه فقد ساء تدبيره سيضحك يومًا ويبكي سنة
+      </p>
+
+      <p n="Kalila Asks for Dimna's Plan">
+        قال له كليلة أخبرني عن رأيك ذلك وما دبّرت فيه
+      </p>
+
+      <p n="Dimna's Goal: Restoration">
+        قال له دمنة أمّا أنا فليس التمس
+        <lb/>
+
+        اليوم أن تزداد منزلتي عند الأسد فوق ما كانت عليه بل التمس أن أعود إلى منزلتي التي
+        <lb/>
+
+        كنت عليها
+      </p>
+
+      <p n="The Three Considerations of the Wise">
+        فإنّ ثلاث خصال الغافل حقيق بالظنّ فيها والاحتيال لها منها النظر فيما
+        <lb/>
+
+        مضى من الضرّ والنفع ويحترس من المكروه لئلّا يؤوب إليه ويرفق في طلب مراجعته وما
+        <lb/>
+
+        هو مقيم فيه من ذلك فيستوثق بما يوافقه ويترك ما يخالفه ومنها فيما ينتظر من الضرّ
+        <lb/>
+
+        والنفع ثمّ طلب الموت والنجاة من ذلك
+      </p>
+
+      <p n="Dimna Concludes the Bull Must Die">
+        وإنّي لمّا نظرت في أمري ودبّرته لم أجد شيئًا
+        <lb/>
+
+        أمثل لي من الاحتيال لشتربه حتّى يفارق الحياة
+      </p>
+
+      <p n="Justifying the Bull's Death">
+        وإنّي إن قدرت على ذلك عدّت على
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="75"/>
+
+      <p n="A Ladle Eventually Breaks">
+        في جدّتها لسخونة المرق فإذا انكسرت صارت وقودًا
+      </p>
+
+      <p n="Addressing the Soul: The Family Passes Away">
+        يا نفس لا يحملنّك
+        <lb/>
+
+        أهلك وأقاربك على جمع ما تهلكين فيه إرادة صلتهم
+      </p>
+
+      <p n="Incense Burns">
+        فإذا أنت كالدخنة
+        <lb/>
+
+        الأرجة التي تحترق ويذهب آخرون بريحها
+      </p>
+
+      <p n="Addressing the Soul: Not to Gamble with the Hereafter">
+        يا نفس لا يبعد عليك أمر الآخرة
+        <lb/>
+
+        فتميلي إلى العاجلة في استعجال القليل وبيع الكثير باليسير
+      </p>
+
+      <p n="The Seller of Sandalwood Below Its Price">
+        كالجو الخواجة
+        <lb/>
+
+        الذي كان له ملء بيت من الصندل فقال إن بعته موازنة طال عليّ
+        <lb/>
+
+        فباعه جزافًا بأبخس الثمن
+      </p>
+
+      <p n="Doubts All Religions">
+        فلمّا رأيت ذلك لم أجد إلى متابعة أحد منهم
+        <lb/>
+
+        سبيلًا وعرفت إن صدّقت أحدًا منهم لا علم لي بحاله كنت في ذلك
+      </p>
+
+      <p n="Deceived Credulous Burglar">
+        كالمصدّق
+        <lb/>
+
+        المخدوع الذي زعموا أنّ سارقًا علا ظهر بيت رجل من الأغنياء فاستيقظ
+        <lb/>
+
+        صاحب المنزل بوطئهم وكانوا معه جماعة فعرّف امرأته ذلك
+        <lb/>
+
+        وقال لها رويدًا إنّي لأحسّيت اللصوص علوا على البيت فأيقظيني بصوت يسمعه
+        <lb/>
+
+        اللصوص وقولي ألا تخبرني أيّها الرجل عن أموالك هذه الكثيرة وكنوزك العظيمة
+        <lb/>
+
+        فإذا نهيتك عن هذا السؤال فألحّي عليّ بالسؤال
+      </p>
+
+      <p n="Wife Asks About Wealth">
+        ففعلت المرأة ذلك وسألته
+        <lb/>
+
+        كما أمرها ونصت اللصوص إلى سماع قولهما قال لها الرجل أيّتها المرأة
+        <lb/>
+
+        قد ساقك القدر إلى رزق واسع كثير فكلي واسكتي ولا تسلي عن أمر
+        <lb/>
+
+        إن أخبرتك به لم يكن أن معه أحد فيكون في ذلك ما أكره وتكرهين
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

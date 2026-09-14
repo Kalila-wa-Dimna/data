@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="51"/>
+
+      <p n="Contents Of Bu Chapter">
+        ففعل ذلك ووصف برزجمهر برزويه من يوم
+        <lb/>
+
+        دفعه أبواه إلى المعلّم ومضيّه إلى بلاد الهند
+      </p>
+
+      <p n="Buzurgmihr Omits Nothing">
+        ولم يدع من فضائل برزويه وأخلاقه ومذهبه
+        <lb/>
+
+        أمرًا إلّا ونسبه وأتى به بأجود ما يكون من الشرح
+      </p>
+
+      <p n="Chapter Read Publicly">
+        ثمّ أعلم الملك بفراغه فجمع أنوشروان أشراف
+        <lb/>
+
+        قومه وأهل مملكته وأدخلهم إليه وأمر برزجمهر
+        <lb/>
+
+        بقراءة الكتاب وبرزويه قائم إلى جنب برزجمهر
+        <lb/>
+
+        وابتدأ يصف برزويه إلى أن انتهى إلى
+        <lb/>
+
+        آخره
+      </p>
+
+      <p n="Bu Chapter Well Received">
+        ففرح الملك بما أوتي به برزجمهر من
+        <lb/>
+
+        الحكمة
+      </p>
+
+      <p n="Kisra And Attendees Commend Buzurgmihr">
+        وأثنى عليه وجميع من حضر عند الملك فشكروا
+        <lb/>
+
+        برزجمهر على ما عمله وعلى سعايته في ما فعله
+        <lb/>
+
+        من اجتهاده في ذلك وجميع من حضر أثنى
+        <lb/>
+
+        عليه وشكروه
+      </p>
+
+      <p n="Kisra Rewards Buzrgmihr">
+        وأمر الملك أن يُعطى له مالًا جزيلًا
+        <lb/>
+
+        وجواهر عظيمة وكسوات مفتخرة وأكرمه إكرامًا
+        <lb/>
+
+        زائدًا وأجلسه على سرير من ذهب وشيّده
+        <lb/>
+
+        على أشراف المملكة وأمر له بمال
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

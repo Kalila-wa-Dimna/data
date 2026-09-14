@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3478</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="424"/>
+
+      <p n="unassigned">
+        أيّها الملك ولا حول ولا قوّة إلاّ بالله العليّ
+        <lb/>
+
+        العظيم وحسبنا الله ونعم الوكيل
+        <lb/>
+
+        تم ذلك بحمد الله وعونه وحسن
+        <lb/>
+
+        توفيقه تمّ بعون الله وحسن توفيقه
+        <lb/>
+
+        وهو حسبي ونعم الوكيل وصلّى
+        <lb/>
+
+        الله على سيدنا محمّد
+        <lb/>
+
+        وعلى آله وصحبه
+        <lb/>
+
+        وسلّم تسليمًا
+        <lb/>
+
+        كثيرًا والحمد لله
+        <lb/>
+
+        وحده
+        <lb/>
+
+        تمّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

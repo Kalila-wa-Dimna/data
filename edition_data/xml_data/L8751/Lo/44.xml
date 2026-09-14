@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="44"/>
+
+      <p n="The Wife's Feigned Prayer">
+        وتبتهلّ
+      </p>
+
+      <p n="A Prayer for a Miraculous Restoration">
+        وتقول إلهي إن كان زوجي ظلمني فأعد أنفي صحيحًا
+      </p>
+
+      <p n="The Wife Claims a Miracle">
+        فقال زوجها ما هذا
+        <lb/>
+
+        الكلام يا ساحرة
+      </p>
+
+      <p n="Only the Razor">
+        فقالت قم أيّها الظالم فانظر إلى عملك وتغيير الله عليك ورحمته
+        <lb/>
+
+        إيّاي قد أعاد أنفي صحيحًا
+      </p>
+
+      <p n="The Husband is Deceived">
+        فاغتفر ذنبه إلى ربّه واعتذر إلى امرأته وسألها أن
+        <lb/>
+
+        ترضى عنه
+      </p>
+
+      <p n="The Husband's Apology">
+        ولمّا رجعت امرأة الحجام المجذوعة إلى بيتها قلبت الحيل ظهرًا لبطن وقالت
+        <lb/>
+
+        ما عذري عند زوجي وعند الناس في جذع أنفي
+      </p>
+
+      <p n="The Barber's Wife's Dilemma">
+        واستيقظ زوجها عند السحر
+      </p>
+
+      <p n="The Barber Wakes">
+        فناداها أن أتيتني بمتاعي فإنّي أريد أن أخدم بعض الأشراف
+      </p>
+
+      <p n="The Barber Asks for His Tools">
+        فلم تأته من متاعه بشيء
+        <lb/>
+
+        إلّا الموس فأعاد عليها أن آتيني بمتاعي كلّه فلم تأته
+      </p>
+
+      <p n="The Barber's Wife's Ruse">
+        فغضب الحجام فرماها بالموس
+        <lb/>
+
+        في الظلمة فرمت بنفسها إلى الأرض وصرخت ولولت وقالت أنفي أنفي
+      </p>
+
+      <p n="Applying the Moral to Dimna">
+        ثمّ قال
+        <lb/>
+
+        كليلة لدمنة وأنت أيضًا فإنّما فعل بك ذلك نفسك
+      </p>
+
+      <p n="Dimna Seeks a New Plan">
+        قال دمنة قد سمعت هذا
+        <lb/>
+
+        المثل وهو شبيه بأمري ولعمري ما ضرّني أحد سوى نفسي ولكن كيف الحيلة
+        <lb/>
+
+        الآن
+      </p>
+
+      <p n="Kalila Asks for Dimna's Plan">
+        قال كليلة أخبرني عن رأيك في ذلك
+      </p>
+
+      <p n="Dimna's Goal: Restoration">
+        قال دمنة أمّا أنا فلست ألتمس
+        <lb/>
+
+        اليوم إلّا أن أعود إلى منزلي
+      </p>
+
+      <p n="The Three Considerations of the Wise">
+        فإنّ خلالًا ثلاثًا للعاقل حقيق بالنظر فيهن والاحتيال
+        <lb/>
+
+        لهنّ منهنّ النظر فيما مضى من الضرر والنفع فيحترس من الضرر الذي أصابه
+        <lb/>
+
+        أن يعود إليه ويعمل المثل النفع الذي وصل إليه ويختال لاستتمامه
+      </p>
+
+      <p n="Managing the Present">
+        ومنهنّ النظر
+        <lb/>
+
+        فيما هو مقيم عليه من المنافع والمضار فيعمل في اعتقاد ذ تلك المنافع والاستيثاق
+        <lb/>
+
+        منها ولا يزول عنه الخروج من تلك المضار بجهده
+      </p>
+
+      <p n="Anticipating the Future">
+        ومنهنّ النظر في في مستقبل
+        <lb/>
+
+        ما يرجوا من مقبل النفع وما يتخوّف من الضرّ ثمّ التأنّي لما يرجو لذلك والتوقّي لما
+        <lb/>
+
+        يخاف منه
+      </p>
+
+      <p n="Dimna Concludes the Bull Must Die">
+        وإنّما نظرت في هذ الأمر الذي أرجو أن تعود به منزلتي التي كنت
+        <lb/>
+
+        عليها ولن أجد في ذلك إلّا الاحتيال للثور حتّى يفارق الحياة
+      </p>
+
+      <p n="Justifying the Bull's Death">
+        فإنّ ذلك صلاح
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

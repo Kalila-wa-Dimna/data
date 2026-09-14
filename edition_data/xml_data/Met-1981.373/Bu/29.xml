@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="29"/>
+
+      <p n="Burzoy Defines Universal Religion">
+        فلمّا خفت ذلك رأيت أن لا أتعرّض وأن أقتصر على كلّ شيء تشهد العقول
+        <lb/>
+
+        أنّه يثق به أهل الأديان فكففت يدي عن الضرب والقتل والسرقة ونفسي عن
+        <lb/>
+
+        الغضب والكبر ولساني عن الكذب وعن ضرر كلّ أحد والتمست من قلبي أن
+        <lb/>
+
+        لا يتمنّى مال غيري وأن يوقن بالبعث والقيامة والثواب والعقاب
+      </p>
+
+      <p n="Burzoy Finds Nothing to Equate Good Works">
+        ورأيت
+        <lb/>
+
+        أن لا صاحب ولا قرين كالصلاح فمن أطاع الله ورسوله أصاب خيرًا في أهله وبركة
+        <lb/>
+
+        في الآباء والأمّهات ووجدته أي الصلاح إذا أُنفق منه لا ينقص بالإنفاق
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

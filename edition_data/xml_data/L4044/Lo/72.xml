@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="72"/>
+
+      <p n="Aphorisms on the 'Best of' Things">
+        على أفواه الأخيار وخير السلطان ما لم يخالطه بطر وخير النساء الموافقة
+        <lb/>
+
+        للبعل وأغنى الأغنياء من لم يكن للحرص أسيرًا وخير الأصدقاء من لم يخاصم
+        <lb/>
+
+        وخير الأخلاق أعونها على الورع
+      </p>
+
+      <p n="The Danger of a Treacherous Companion">
+        ثمّ قد قيل لو أنّ امرءا قد توسّد النار وافترش
+        <lb/>
+
+        الحيّات كان أحقّ أن يهنئه النوم عليها إذا أحسّ من صاحبه بعداوة
+        <lb/>
+
+        يريد بها نفسه ويغدو عليه بها ويروح
+      </p>
+
+      <p n="The Helpless King and the Rampaging Elephant">
+        وأعجز الملوك آخذهم بالهوينى
+        <lb/>
+
+        وأقلّهم نظرًا في مستقبل الأمور وأشبههم بالفيل المغتلم الذي لا يلتفت
+        <lb/>
+
+        على شيء فإن أحزنه أمر تهاون به وإن أضيع الأمور غضب الملك بقرابته
+      </p>
+
+      <p n="The Lion Accepts the Harsh Advice">
+        قال الأسد غلّظت في القول وغلظ قول الناصح محتمل
+      </p>
+
+      <p n="The Lion Dismisses the Threat: The Herbivore vs. the Carnivore">
+        ولكنّ
+        <lb/>
+
+        شتربة لو كان لي عدوًّا كما تقول لم يستطع لي ضرًّا وكيف يستطيع ذلك
+        <lb/>
+
+        منّي وهو آكل عشب وأنا آكل لحم وإنّما هو لي طعام
+      </p>
+
+      <p n="The Lion Believes His Trust and Honor Prevent Betrayal">
+        وليس عليّ منه خوف
+        <lb/>
+
+        وليس لي إلى الغدر به سبيلًا بعد الأمان الذي جعلت له وبعد إكرامي
+        <lb/>
+
+        إيّاه وثنائي عليه عند الجند
+      </p>
+
+      <p n="The Lion Fears Breaking His Oath to Shatraba">
+        فإنّي إن غيّرت ذلك وبدّلته جهلت على نفسي
+        <lb/>
+
+        وغدرت
+      </p>
+
+      <p n="Dimna Warns Shatraba May Use Others to Plot">
+        قال دمنة لا تغترّ بقولك هذا هو لي طعام وليس عليّ
+        <lb/>
+
+        منه خوف فإن شتربة إن هو لم يستطعك بنفسه احتال لك من قبل
+        <lb/>
+
+        غيره
+      </p>
+
+      <p n="The Maxim of the Unknown Guest">
+        وكان يُقال إن أضافك ضيف ساعة وأنت لا تعرف أخلاقه فلا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

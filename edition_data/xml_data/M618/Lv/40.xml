@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M618</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="40"/>
+
+      <p n="Kisra Reads Letter">
+        وقرأه علم أنّه قد بلغ من حاجته ما أحبّ فسرّ بذلك سرورًا شديدًا
+      </p>
+
+      <p n="Kisra Fears Fate">
+        فوقع في نفسه معاجلة
+        <lb/>
+
+        المقادير أن تنغّصه من فرحه بما استفاد له بروزيه
+      </p>
+
+      <p n="Kisra Praises Burzoys Achievement">
+        فبادر إليه بالكتاب من ساعته
+        <lb/>
+
+        يمدحه بمدحه في أوّله
+      </p>
+
+      <p n="Burzoy Confirmed His Excellence">
+        وإن كان فضله في المملكة قبل خروجه إلى الهند فاشيًا
+        <lb/>
+
+        وأنّه قد استتمّها له بما أصاب من هذا الكتاب النفيس الذي لم يمكن أن أخرجوه
+        <lb/>
+
+        على يدي أحد من الناس
+      </p>
+
+      <p n="Kisra And Subjects Thankful To God">
+        وأنّه قد شكر الله على ما أعان عليه ممّا أفاد على يديه
+        <lb/>
+
+        من هذا الكتاب وأنّه وأهل مملكته سيزدادوا له شكرًا
+      </p>
+
+      <p n="Kisra Calls Burzoy Back">
+        وأنا أرجو أن
+        <lb/>
+
+        يتمّ الله آمالنا فيك بما نصيب على يديك فإذا قرأت كتابي هذا فعجّل بالقدوم
+        <lb/>
+
+        ولا تتأخّر عنه ساعة واحدة وبادر الأجل فإنّي على وجل واعمل على رويّتك
+        <lb/>
+
+        وعقلك في ذلك
+      </p>
+
+      <p n="God Loves The Intelligent">
+        فإنّ الله إنّما يحبّ العقلاء
+      </p>
+
+      <p n="Experience Makes Reason Complete">
+        وإنّما هو قسم وحظوظ وتجربة فالتجربة
+        <lb/>
+
+        عمودها الحزم والاجتهاد ورأس الأمور الصبر
+      </p>
+
+      <p n="Kisra Dispatches Letter">
+        وختم الكتاب ووجّه به إليه
+        <lb/>
+
+        يطلبه
+      </p>
+
+      <p n="Burzoy Returns To Persia">
+        فلمّا انتهى الرسول إلى برزويه ودفع إليه كتاب أنوشروان وقرأه لم يلبث
+        <lb/>
+
+        أن توجّه نحو كسرى من ساعته ومعه الكتاب
+      </p>
+
+      <p n="Burzoy Rejoins Kisra">
+        حتّى إذا صار بباب أنوشروان
+        <lb/>
+
+        أمر بإدخاله إليه
+      </p>
+
+      <p n="Burzoys Exhaustion Shows">
+        فلمّا رأى أنواشروان ما قد مسّه من الشجون والتعب والنصب
+        <lb/>
+
+        وقد شابت لحيته ورأسه
+      </p>
+
+      <p n="Kisra Announces Reward">
+        قال له أيّها العبد الصالح الناصح الذي يأكل من ثمرة غرسه
+        <lb/>
+
+        أبشرْ وقرّ عينًا فإنّك قد استوجبت منّا الشكر ووجب لك علينا الأمر وإنّي
+        <lb/>
+
+        منطو على مكافأتك ومجازاتك ومشرّفك وبالغ فيك أفضل درجة وأكرم
+        <lb/>
+
+        منزلة وأعلى رتبة
+      </p>
+
+      <p n="Kisra Orders Rest">
+        وأمره أن يروح بين يديه عليه أسبوعًا ويروح بيته
+        <lb/>
+
+        ثمّ يعود إليه إذا استراح ليتولّى مكافأته
+      </p>
+
+      <p n="Kisra Holds K D Public Reading">
+        فلمّا كان في اليوم الخامس عشر أمر أنوشروان
+        <lb/>
+
+        أن يجمع العلماء والأشراف وسائر طبقات الناس فلمّا اجتمعوا بعث إلى برزويه فأقبل
+        <lb/>
+
+        ومعه الكتاب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

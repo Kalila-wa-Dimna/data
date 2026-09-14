@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="116"/>
+
+      <p n="Prominent Courtier Diagnoses Dimna as Traitor">
+        |فإنّهُ ذو حيلةٍ ومكرِ ### وشرُّهُ يغلِبُ كلَّ شرِّ
+        <lb/>
+
+        |وفيهِ مِن ذلك ما قد ذكروا ### هذا العَيانُ فانظروا لا الخَبَرُ
+      </p>
+
+      <p n="Bodily Marks Are Claimed to Predict Deeds">
+        |قال له دمنةُ أنتَ معجِبُ ### تظنُّ ذا العلمَ إليك يُنسَبُ
+        <lb/>
+
+        |لقد عرفْنا مِنهُ ما عَرَفْتا ### وفيك أضعافُ الذي وَصَفْتا
+      </p>
+
+      <p n="If the Physique Makes People Traitors, Dimna Is Innocent and Excused">
+        |وإنْ تكنْ في ما ذكرتَ صادِقا ### فإنّني لستُ لنفسي خالِقا
+        <lb/>
+
+        |وإنّما أفعلُ ما أفعلُهُ ### بأمرِ مولايَ الذي الأمرُ لهُ
+        <lb/>
+
+        |لأنّهُ خلقَني لذلِكا ### لستُ لشيءٍ مِن أموري مالِكا
+        <lb/>
+
+        |فلِمْ تلوموني إذا لم أكُنِ ### أسطيعُ تغييرًا لِما في بَدَني
+      </p>
+
+      <p n="Dimna's Third Subtale of Plower Who Told His Wife to Cover Herself First">
+        |قال امرؤٌ لعرسِهِ لا تَجْرَحي ### من كنتِ يومًا مثلَهُ تفتضِحي
+        <lb/>
+
+        |مَن يعِبِ الناسَ بمِثلِ ما فيهْ ### فنفسَهُ عابَ بغَيْرِ تَمْويهْ
+        <lb/>
+
+        |لا تَنْهَ عن شيءٍ وتأتي مِثَلُه ### كذاك لا شكَّ يكونُ الأَبلَهُ
+      </p>
+
+      <p n="A Man and His Two Wives Become War Captives">
+        |قد ذكروا في ما جرى مِن السِّيَرْ ### وأخبروا وإنّما الناسُ خَبَرْ
+        <lb/>
+
+        |أنّ جيوشًا هجموا على بَلَدْ ### فأكثروا الأَسْرَ وما أَبقَوْا أَحَدْ
+        <lb/>
+
+        |في جملةِ السَّبْيِ امرؤٌ وامْرأتاهْ ### وراحةُ الإخوانِ في المؤاتاهْ
+        <lb/>
+
+        |فلبثوا في إسْرِ غيرِ راحِمِ ### في فاقةٍ لعَدَمِ المطاعِمِ
+      </p>
+
+      <p n="One Wife Blames the Other for Being Naked">
+        |وإنّ إحدى الزوجتَيْنِ أبصرتْ ### خِريقةً باليةً فسَتَرَتْ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

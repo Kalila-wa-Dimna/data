@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="239"/>
+
+      <p n="The Cat Deems the Rat's Efforts Slow">
+        فإن كنت قد ظفرت بحاجتك فتغيّرت عمّا كنت عليه في حاجتي
+      </p>
+
+      <p n="The Noble Must Help">
+        فإنّ الكريم لا
+        <lb/>
+
+        يتوانى في حقّ صاحبه
+      </p>
+
+      <p n="The Cat States the Rat's Duty of Reciprocation">
+        وقد كان لك في سابق مودّتي من الفائدة والنفع
+        <lb/>
+
+        ما قد رأيت وأنت حقيق أن تكافئني بذلك
+      </p>
+
+      <p n="The Rat Should Forget Enmity">
+        ولا تذكر العداوة التي بيني وبينك
+        <lb/>
+
+        فالذي حدث بيننا يمحو ما سلف من الضغينة ويثني كلّ واحد عمّا وقر في
+        <lb/>
+
+        نفس صاحبه
+      </p>
+
+      <p n="The Punishment of Betrayal Comes Swiftly">
+        وأعجل عقوبة الكاذب الغدر ومن تُضرّع إليه وسُئل العفو
+        <lb/>
+
+        فلم يعف فقد غدر
+      </p>
+
+      <p n="The Two Kinds of Friends">
+        قال الجرذ إنّ الصديق صديقان طامع ومضطرّ وكلاهما
+        <lb/>
+
+        يلتمسان المنفعة ويحترسان من المضرّة فأمّا الطامع فيسترسل إلى الصديق
+        <lb/>
+
+        ويعمل له في جميع الأحوال
+      </p>
+
+      <p n="Forced Friendship Does Not Last">
+        وأمّا المضطرّ ففي بعض الأحوال يسترسل وفي
+        <lb/>
+
+        بعضها يتعزّز
+      </p>
+
+      <p n="The Intelligent Trades Favors">
+        ولا يزال العاقل يرمي بعض حاجاته ببعض لالتماس النفع الحاصل
+        <lb/>
+
+        منها
+      </p>
+
+      <p n="The Rat Resumes Cutting the Rope">
+        ثمّ أنّ الجرذ أخذ في قطع حبائل السنّور
+      </p>
+
+      <p n="The Huntsman Approaches">
+        فبينما هو كذلك
+        <lb/>
+
+        إذ وافى الصيّاد
+      </p>
+
+      <p n="The Cat Requests Fulfillment">
+        فقال له السنّور الآن جاء الجدّ في قطع حبائلي
+      </p>
+
+      <p n="The Rat Fulfills the Pact">
+        فأجهد
+        <lb/>
+
+        الجرذ نفسه في القرض حتّى إذا فرغ
+      </p>
+
+      <p n="The Cat and the Rat Escape">
+        وثب السنّور إلى الشجرة على دهش
+        <lb/>
+
+        من الصيّاد ودخل الجرذ بعض الأحجار وجاء الصيّاد فأخذ حباله مقطّعة
+        <lb/>
+
+        ثمّ انصرف خائبًا
+      </p>
+
+      <p n="The Cat Calls Back the Rat">
+        ثمّ أنّ الجرذ خرج بعد ذلك وكره أن يدنو من السنّور فناداه
+        <lb/>
+
+        السنّور أيّها الصديق الناصح ذو البلاء الحسن
+      </p>
+
+      <p n="The Cat Reminds the Rat of their Friendship">
+        ما منعك من الدنوّ إليّ لأجازيك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

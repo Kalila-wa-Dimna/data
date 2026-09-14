@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="21"/>
+
+      <p n="Burzoy Becomes Famous">
+        ولا فكره إلّا في طلب كتاب كليلة ودمنة
+      </p>
+
+      <p n="Burzoy Led To Books Owner">
+        فبينما هو ذات يوم في بعض مجالس
+        <lb/>
+
+        الهند إذ قيل له هذا صاحبك وموضع حاجتك الذي معه
+        <lb/>
+
+        الكتاب الذي تطلبه فتوسّل إليه واعرفه حقّ معرفتك
+        <lb/>
+
+        فإنّك تجد عنده ما تحبّ من حاجتك
+      </p>
+
+      <p n="Burzoy Approaches Books Owner">
+        فدنا برزويه
+        <lb/>
+
+        من الهنديّ فحيّاه بتحيّة راغب وشهر بذلك نفسه
+        <lb/>
+
+        فردّ عليه الهنديّ فضْل تحيَّته فقال له الرجل الهنديّ
+        <lb/>
+
+        مَنْ الرجل وما حاجتك وما أقدمك هذه البلاد
+        <lb/>
+
+        فردّ عليه برزويه قدمت في حاجة لي وأنا أريد رجلًا
+        <lb/>
+
+        استند إليه أمري وأخبره بحاجتي
+      </p>
+
+      <p n="Signs Suffice For The Intelligent">
+        والعاقل يكتفي من الكلام
+        <lb/>
+
+        بالقليل
+      </p>
+
+      <p n="Burzoy Befriends Books Owner">
+        فلمّا سمع الهنديّ كلام برزويه وما أعلمه من حاجته
+        <lb/>
+
+        أجابه الى ما يحبّ ووقعت بينه وبينه ملاطفة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

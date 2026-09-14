@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>JBE-Hebrew</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="35"/>
+
+      <p n="The Most Resolute Fish Escapes Immediately">
+        בהרמו. ויסנרו את מבוא המים. כי היו מי אפסים.
+      </p>
+
+      <p n="The Wise Fish Laments Her Delay but Resolves to Use Her Wits">
+        ויאמר הערום איך לא נשמרתי מן
+        <lb/>
+
+        הסער הזה ומן הזועם. חטאתי הפעם. הן ראיתי בכור מות לעיני. ולא הועילתני ערמתי
+        <lb/>
+
+        כי הבהילוני רעיוני. ועתה איה תבונתי. ותחבולות ערמתי.
+      </p>
+
+      <p n="The Wise Fish Escapes by Playing Dead">
+        ויעש נפשו כמת וישחה
+        <lb/>
+
+        סתום עינים. כאשר ינוד הקנה במים. ויחשבוהו מת ויקחוהו. ולשפת הנהר הוציאוהו.
+      </p>
+
+      <p n="unassigned">
+        ויניחוהו. אוי קם ומהר. לנפל במעמקי הנהר. וההי לו בערמתו תשועה. אבל בינועה.
+      </p>
+
+      <p n="The Helpless Fish is Caught">
+        והנה העצל הולך ושב עד נפלו בחרם המורה. בצעלתים ימך המקרה. ואתה
+      </p>
+
+      <p n="Dimna Applies the Parable's Moral to the Lion">
+        אדוני
+        <lb/>
+
+        המלך האכילהו לענה וראש. בטרם ישקד באחרית מי רוש.
+      </p>
+
+      <p n="The Lion Doubts Shatraba's Betrayal Due to His Kindness">
+        ויאמר האריה הבינותי
+        <lb/>
+
+        חידותיך. ולא הבינותי אל אחותך. אבל לא עלה על לבי. כי שנובה אחרי הטיבי
+        <lb/>
+
+        לו ירב בי. וזאת לא יעלה ברעה. הישלם תחת טובה רעה.
+      </p>
+
+      <p n="Dimna Argues Shatraba's Ambition Stems from His Promotion">
+        ויאמר דמנה לולי
+        <lb/>
+
+        הטיבך. לא היה אויבך. כי לא עזבת מעלה אשר לא הבאותו אליה. ולא ממשלה
+        <lb/>
+
+        אשר לא המשלתו עליה. ונחת לו נשק להלחם בך. בקשתך ובחרבך. ותשימהו
+        <lb/>
+
+        באוכלי פתבנך. לחת חרב בידו להרנך.
+      </p>
+
+      <p n="The Maxim of the Base Man's Ambition">
+        כי אם תשקיט נבל יחרידך. ואם תעלהו
+        <lb/>
+
+        יורידך. אם תכבדהו ינכלך. ואם תכינהו יחבלך. וכל מה שתוסיף לו מעלה נרולה.
+        <lb/>
+
+        יעלה עליך מעלה.
+      </p>
+
+      <p n="The Maxim of the Dog's Tail: A Base Man's True Nature">
+        והנבל לא ישרת המלך כי אם לעניותו וריישו. ואם יעשיר
+        <lb/>
+
+        ישוב לורעו ולשרשו. והוא בונב הכלב אשר בהיותו אסור יישר. וכי ינתק יעותו
+        <lb/>
+
+        כאילו נקשר.
+      </p>
+
+      <p n="The Parable of the Patient and the Doctor">
+        ודע אדוני המלך כי בל אשר לא ישמע לדברי אוהב ואל מצותו. לא
+        <lb/>
+
+        יועילנו טוב עצתו. ותצר לו משובתו. ויהיה כמו החולה אשר ימאס דברי הרופא
+        <lb/>
+
+        ורפואתו. ויאהב הכלי תאותו.
+      </p>
+
+      <p n="Aphorisms on the 'Best of' Things">
+        ומבחר הרעים אשר לא יחליק. ומבחר המעשים אשר
+        <lb/>
+
+        תטיב אחריתם. ומבחר השם אשר יעידון לו הישרים. ומבחר המלכים אשר לא
+        <lb/>
+
+        ישרתוהו רשעים. ומבחר העשירים אשר לא אך להעשיר. ומבחר הידידים אשר לא
+        <lb/>
+
+        ידין את חברו. ומבחר כל אשר יעטה ענוה.
+      </p>
+
+      <p n="The Danger of a Treacherous Companion">
+        ואמרו אילו שכב איש על מפרש
+        <lb/>
+
+        שכולם נחשים. וצפעונים מפרישים. לא באה בעיניו שנה. כן מפני רע לא ינום
+        <lb/>
+
+        ליראתו משטמה ושטנה.
+      </p>
+
+      <p n="The Lion Accepts the Harsh Advice">
+        ויאמר האריה דבריך מאד העתרת. ואיבתך לשנובה לא
+        <lb/>
+
+        הסתרת.
+      </p>
+
+      <p n="The Lion Dismisses the Threat: The Herbivore vs. the Carnivore">
+        ולו היה שנובה כדבריך אויבי. אין בו יכלת להלחם בי. הנה הוא אוכל
+        <lb/>
+
+        עשב ואיך יוכל לי. והוא מאכלי.
+      </p>
+
+      <p n="The Lion Believes His Trust and Honor Prevent Betrayal">
+        אף כי לא יוסיף על רצוני ולא ינרע. ולא מצאתי
+        <lb/>
+
+        בו מאומה רע. ולא אמצא להרע לו מקום בלבבי. ולבנד בו לא עלה במחשבי.
+        <lb/>
+
+        אחרי אשר כבדתיו. והגדלתיו. והעשרתיו. ולרע לקחתיו. ולמען בחרתיו. ולראשי
+        <lb/>
+
+        הגדוד הללתיו.
+      </p>
+
+      <p n="The Lion Fears Breaking His Oath to Shatraba">
+        ואיך אשוב לגדפו. ולהרע לו ולחרפו. ואיך נפשי אכזיב. חי נפשך
+        <lb/>
+
+        את דבריך לא אשמע ולא אקשיב.
+      </p>
+
+      <p n="Dimna Warns Shatraba May Use Others to Plot">
+        ויאמר דמנה אל תאמר כי הוא לך למאכל. כי
+        <lb/>
+
+        הוא יפתה וגם יוכל. כי שנובה לא יוכל לך בנפשו. כי אם בנכלו ובכחשו. הקהילו
+        <lb/>
+
+        אליך. נרודיך והיליך. ואמרו כי בא לך הילך הידע ולא יצרו.
+      </p>
+
+      <p n="Introducing the Tale of the Louse and the Flea">
+        אל תאמן
+        <lb/>
+
+        במאמרו. ואל תשען בדברו. והשמר פן יקרך אשר קרה אל הפרעוש.
+      </p>
+
+      <p n="The Lion Asks for the Tale of the Louse">
+        ויאמר האריה
+        <lb/>
+
+        איכה היה הדבר.
+      </p>
+
+      <p n="The Story Begins: The Louse on the Rich Man's Bed">
+        ויאמר דמנה אמרו כי כנם ישב במטת נשיא ימים רבים ויהי
+        <lb/>
+
+        בנדיליו השמלה נפשו טומן. והיה דשן ושמן. ויהי כל ימיו בשמחה ובמשתה. בשר
+        <lb/>
+
+        נבורים יאכל ודם נשיאי הארץ ישתה. כי היה הולך אליו בלט. ויאכל מבשרו
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

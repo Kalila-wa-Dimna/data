@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Cheikho</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="116"/>
+
+      <p n="Evil Sown Sprouts in Its Own Time">
+        البلاء لكنّ الزرع إنّما ينبت لأوانه وزمانه وإن تقدّم في زرعه وهذا أوان ما
+        <lb/>
+
+        زرعت لنفسي
+      </p>
+
+      <p n="Dimna Fears for Kalila">
+        وإنّما يشتدّ عليّ البلاء لخوفي أن يتهم تتّهم في أمري لما كان
+        <lb/>
+
+        بيني وبينك
+      </p>
+
+      <p n="Kalila Will Be Forced to Betray Dimna">
+        وأخاف مع ذلك إن يبسط عليك بالعقوبة أن تعترف بما
+        <lb/>
+
+        كنت اطّلعت عليه من أمري
+      </p>
+
+      <p n="Sincere Kalila Will Suffer by Association with Dimna">
+        وأمّا الأخرى فإنّك ممّن لا يتّهم في صدق
+        <lb/>
+
+        مقالته على البعيد فكيف من كانت منزلته مثل منزلتي
+      </p>
+
+      <p n="One Lies under Physical Pain">
+        قال كليلة قد عرفت وقد قالت العلماء إنّ الأجساد لا تصبر على العجلة
+        <lb/>
+
+        لعذابٍ ولا تمتنع عنده من القول بكلّ ما دفعت به عنها من حقٍّ أو باطلٍ
+      </p>
+
+      <p n="Kalila Advises Dimna to Confess">
+        وإنّي لا أراك إذ نزلت بك هذه النازلة أن تبوء بذنبك وتعترف بإساءتك
+        <lb/>
+
+        فتخرج نفسك من تبعة الآخرة بالتوبة ممّا صنعت فإنّك لا محالة هالكٌ فلا
+        <lb/>
+
+        تجمع على نفسك هلاك العاجل والآجل
+      </p>
+
+      <p n="Dimna Wants to Await the Verdict">
+        فقال دمنة قد صدقت ونصحت وأنا ذاكرٌ فيما ذكرت ولكنّ العمل
+        <lb/>
+
+        فيه شاقٌّ مهولٌ مفظعٌ ولكنّي غير مخبرٍ كلامًا حتّى يفرق كذا لهم الرأي
+        <lb/>
+
+        في أمري
+      </p>
+
+      <p n="Kalila Goes Home">
+        فانصرف كليلة إلى منزله مغمومًا يحدّث نفسه بكلّ بلاءٍ وشرٍّ
+      </p>
+
+      <p n="Kalila Dies">
+        فلم يزلْ كذلك حتّى هاج عليه بطنه فمات قبل أن يصبح
+      </p>
+
+      <p n="Prisoner Overhears Their Dialogue">
+        وكان في السجن
+        <lb/>
+
+        سبعٌ محبوسٌ كان نائمًا قريبًا من دمنة وكليلة حيث اجتمعا في السجن
+        <lb/>
+
+        فاستيقظ بكلامها فسمع جميع ما تراجعا به بينهما فحفظ ذلك وكتمه فلم
+        <lb/>
+
+        يذكرْه
+      </p>
+
+      <p n="The Mother Calls In Lion's Promise to Act">
+        فأصبحت أمّ الأسد فذكرت للأسد أمر دمنة وعذره
+      </p>
+
+      <p n="To Spare Criminals Is Like Killing the Innocent">
+        وقالت إنّ
+        <lb/>
+
+        استحياء الفجّار عديل قتل الأبرار وإنّ من استحيا فاجرًا شاركه في فجوره
+        <lb/>
+
+        أو برًّا شاركه في برّه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

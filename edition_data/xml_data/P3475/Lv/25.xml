@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="25"/>
+
+      <p n="Traits Of Secrecy And Speech">
+        الأخيار منزلة أحد بالغيبة والثامنة أن لا ينطق بالكذب
+        <lb/>
+
+        والخناء وأن يعرف ما يُلزمه من عيب ذلك ومضرّته ونفعه
+      </p>
+
+      <p n="Traits Ensure Safety">
+        فهذه الثماني خصال تزين ولا تشين وينفعن ولا يضرّون
+      </p>
+
+      <p n="Burzoy Has These Traits">
+        وأنت يا أخي مُظفّر فيك هذه الخصال المحمودة
+      </p>
+
+      <p n="Burzoy Deserves Help">
+        فلذلك
+        <lb/>
+
+        أوجزت في القول وأنت في الحاجة إليّ فيما قصدت
+        <lb/>
+
+        ولا بدّ من إسعافك بما طلبت
+      </p>
+
+      <p n="Friend Is Afraid">
+        فأنا أدفع إليك هذا الكتاب
+        <lb/>
+
+        في خطر عظيم وأخاف العطب على نفسي والهلاك
+      </p>
+
+      <p n="Friend Is Loyal Despite Deceit">
+        فلمّا
+        <lb/>
+
+        سمع برزويه هذه المقالة من الهنديّ
+      </p>
+
+      <p n="Burzoy Sure Of Success">
+        علم أنّه قد ظفر بحاجته
+        <lb/>
+
+        ونال بغيته
+      </p>
+
+      <p n="Burzoy Relied On Friends Acumen">
+        ثمّ أقبل عليه وقال إنّه لم تخطئ فراستي فيك
+        <lb/>
+
+        في أوّل ما رأيتك وإسماعي كلامك إنمّا رميتك بجملة كلامي
+        <lb/>
+
+        وإيجاز منطقي لمّا تكلّمت من غور فطنتك وبُعد مذاهبك
+        <lb/>
+
+        تعرّضًا عليّ معدن الفطنة ومظانّ التهمة فلذلك
+        <lb/>
+
+        وثقت منك بحفظ سرّي وقبول كلامي وإسعافي بحاجتي
+      </p>
+
+      <p n="Secrets Safe With Scholars">
+        فإنّ استيداع المرء أسراره من عقلاء الناس
+        <lb/>
+
+        وحلمائهم الثقة بهم والطمأنينة إليهم وهي أفضل
+        <lb/>
+
+        عدّة العلماء
+      </p>
+
+      <p n="Secret Keeper Like Immutable Object">
+        ولذلك شُبّهت العلماء بتوديع الأسرار
+        <lb/>
+
+        كالجبل الراسخ الشامخ الذي لا تزيله الرياح ولا يحرّكه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

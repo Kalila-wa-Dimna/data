@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="67"/>
+
+      <p n="unassigned">
+        سينسخ لاحقًا
+        <lb/>
+
+        سينسخ لاحقًا
+        <lb/>
+
+        سينسخ لاحقًا
+        <lb/>
+
+        سينسخ لاحقًا
+        <lb/>
+
+        سينسخ لاحقًا
+        <lb/>
+
+        سينسخ لاحقًا
+        <lb/>
+
+        سينسخ لاحقًا
+      </p>
+
+      <p n="Chapter Title">
+        باب الفحص عن أمر دمنة
+      </p>
+
+      <p n="The Philosopher Shows a Minor Animal to Sow Discord">
+        قال الفيلسوف فكان من صنيع دمنة على صغره وضعفه وهو من أرذل السباع
+        <lb/>
+
+        وأخبثها وأدبرها وكان ممّن شأنه ما قد سمعته وما صنع وما طرح بين الأسد
+        <lb/>
+
+        والثور وما شعث بينهما حتّى وثب كلّ واحد منهما على صاحبه حتّى قطع ودّهما
+      </p>
+
+      <p n="Dimna's Deed Makes the Intelligent Reflect">
+        وصنع العجائب بينهما ما تذهل عنه العقول وذوي والألباب وفيه عبرة لذوي العقول
+        <lb/>
+
+        في الاتقاء لأهل النميمة والنظر فيما يوردون من تعبهم ومكرهم وسعايتهم
+      </p>
+
+      <p n="The Intelligent Must Verify Statements">
+        فذووا
+        <lb/>
+
+        الألباب حقيقون أن يتحفّظوا عن الأشياء المذمومة ثمّ لا يقدموا على شيء من
+        <lb/>
+
+        أقاويلهم إلّا بعد التثبّت والنظر ويرفضوا من عرفهم على مثل ذلك من أهل السعاية
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

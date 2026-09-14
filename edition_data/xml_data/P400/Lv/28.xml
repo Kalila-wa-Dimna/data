@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="28"/>
+
+      <p n="Chapter Read Publicly">
+        العلماء والرؤساء والأشراف والسوقة فحضروا وحضر برزويه وأمر بزرجمهر
+        <lb/>
+
+        أن يقوم قائمًا فيقرأ ما صنع وألّف على كافّة من حضر فقام بزرجمهر على منبر
+        <lb/>
+
+        عال على الناس وقرأ عليهم باب برزويه
+      </p>
+
+      <p n="Bu Chapter Well Received">
+        فلمّا فرغ منه عجب الملك من ذلك وجميع
+        <lb/>
+
+        من حضر ممّا صنّف بزرجمهر من فضل وعقل وأدب وعلم وكمال وما اجتهد فيه من مدح برزويه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

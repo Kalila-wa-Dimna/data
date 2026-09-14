@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="198"/>
+
+      <p n="Wife Asks Him to Investigate">
+        مَن الفاجر الكذّاب واسألوا هذين الببّغاوين هل يعرفان
+        <lb/>
+
+        غير هذين الكلمتين
+      </p>
+
+      <p n="The Parrots Will Turn Out to Be Trained">
+        فإنّ هذا من تعليم غلامك الفاجر
+        <lb/>
+
+        الكذّاب الذي أرادني على نفسي فامتنعت عنه
+      </p>
+
+      <p n="Falconer's Training of Parrots Is Discovered">
+        فطلب
+        <lb/>
+
+        المرزبان من أضيافه أن يسألوا الببّغاوين فسألوهما فلم
+        <lb/>
+
+        يجدوهما يعرفان غير تلك الكلمتين فعرف المرزبان
+        <lb/>
+
+        والأضياف أنّ المرأة صادقة فيما ذكرت
+      </p>
+
+      <p n="Falcon Gouges Out His Eyes">
+        فدعا المرزبان
+        <lb/>
+
+        غلامه فدخل عليه ومعه بازي صعب فقالت له
+        <lb/>
+
+        ويلك أنت رأيت ما قذفتني به قال نعم قالت له أخذك
+        <lb/>
+
+        الله إن كنت كاذبًا فوثب البازي عن يديه إلى عينيه
+        <lb/>
+
+        بمخاليبه فانتزعهما جميعًا
+      </p>
+
+      <p n="Wife Interprets This As God Punishing False Testimony">
+        فقالت له المرأة قد عُجّلت
+        <lb/>
+
+        لك العقوبة بكذبك فإنّك زعمت أنّك رأيت ما لم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

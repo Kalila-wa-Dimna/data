@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="273"/>
+
+      <p n="Jackal's Foes Perhaps Hid Meat">
+        فإنّهم هم الذين ذهبوا باللحم إلى بيته وخبّؤوه فيه بغير علمه
+      </p>
+
+      <p n="Kite's Booty Attracts Competitors">
+        فإنّ الحدأة
+        <lb/>
+
+        إذا كان في مخالبها لحم قاتلها الطير عليه
+      </p>
+
+      <p n="Dog's Bone Attracts Competitors">
+        والكلب إذا كان في فيه لحم
+        <lb/>
+
+        فعل به مثل ذلك الكلاب
+      </p>
+
+      <p n="Schemers Pursue Only Own Benefit">
+        والذين بغوا على ابن آوى لم ينالون في
+        <lb/>
+
+        مضرّة ما يدخل عليك مع منفعة ذلك لهم
+      </p>
+
+      <p n="King Must Protect Himself">
+        فانظر لنفسك ولا تلتفت
+        <lb/>
+
+        إلى كلامهم فإنّ الناس عامّة والسلطان خاصّة
+      </p>
+
+      <p n="King Must not Forsake Good People">
+        فينبغي لهم أن يروا
+        <lb/>
+
+        ما عليهم في مفارقة أهل الصلاح والرفق والعلم
+      </p>
+
+      <p n="Lion Benefited from Jackal">
+        فإنّ قربهم منك كان
+        <lb/>
+
+        لك نافعًا
+      </p>
+
+      <p n="Jackal Toiled for Lion">
+        وكان مساءة أصحابك تهون عليه في مسرّتك وكان
+        <lb/>
+
+        محتملًا في منفعتك للمشقّة وفي راحتك للعناء وفي رضاك للسخط
+      </p>
+
+      <p n="Such Advisors Are Like Family">
+        ومثله
+        <lb/>
+
+        من الأصحاب عدل الأبوين
+      </p>
+
+      <p n="Courtier Exonerates Jackal">
+        فبينما أمّ الأسد تعظه إذ أتاه من
+        <lb/>
+
+        كان ظاهرًا على ابن آوى فأخبره ببراءته وأعلمه أنّه مبغيّ عليه
+      </p>
+
+      <p n="Mother Reaffirms Intrigue">
+        فلمّا استبان
+        <lb/>
+
+        لأمّ الأسد أنّه قد عرف ابن آوى وسلامته فيما رُمي به قالت أمّ الأسد
+        <lb/>
+
+        كيف رأيت في بغيهم
+      </p>
+
+      <p n="Grass Rope Ties Elephant">
+        فإنّ الكلام وإن كان لنا مثل الحشيش وإن كان لا قوّة له
+        <lb/>
+
+        فإنّه يُصنع منه مثل الحبل الذي يُوثق به الفيل المغتلم
+      </p>
+
+      <p n="Lion Should Reinstate Jackal">
+        فردّه إلى منزلة
+        <lb/>
+
+        منك وليكن صاحب مشورتك وسرّك ولا يمنعك ما كان منك من
+        <lb/>
+
+        الاستهاله وقولك قد أورا فييأس ويقطع رجاؤه من أن يعود إلى مكانه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

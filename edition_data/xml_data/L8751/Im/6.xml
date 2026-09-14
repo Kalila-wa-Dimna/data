@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="6"/>
+
+      <p n="unassigned">
+        بسم الله الرحمن الرحيم ربّ يسّر
+      </p>
+
+      <p n="Parables Originated with Scholars of India">
+        وهو مَّما وضعته الحكماء حكماء الهند من الأمثال والأحاديث التي التمسوا بها أبلغ ما
+        <lb/>
+
+        يجدون من القول في النحو الذي أرادوا
+      </p>
+
+      <p n="Scholars Desire to Be Understood">
+        ولم تزل العقلاء من أهل كلّ زمان
+        <lb/>
+
+        يلتمسون أن يُنقل عنهم
+      </p>
+
+      <p n="Scholars Put Knowledge in Book of Fables">
+        ويحتالون لذلك بصنوف الحيل ويطلبون في إخراج ما
+        <lb/>
+
+        عندهم به من العلل فدعاهم الي ذلك أن وضعوا هذا الكتاب ولخّصوا فيه من
+        <lb/>
+
+        بديع الكلام ومنفعته على أفواه البهائم والطير والسباع
+      </p>
+
+      <p n="Fables Facilitate Many Types of Discourse">
+        واجتمع لهم من ذلك
+        <lb/>
+
+        أمران أمّا هم فوجدوا متصرّفًا في القول <> فيها وأمّا هو فجمع لهوًا
+      </p>
+
+      <p n="unassigned">
+        وحكمة
+      </p>
+
+      <p n="Book Is Used for Wisdom, Pleasure, and Knowledge">
+        فاجتناه <> والسخفاء للهو أمّا المتعلّمون من الأحداث <> والعلمه وخفّ
+        <lb/>
+
+        عليهم حفظه
+      </p>
+
+      <p n="Acquired Knowledge Manifests in Adulthood">
+        فاذا احتيل <> مرّة وتاب إليه عقله يريد ما كان
+        <lb/>
+
+        حفظه ووعاه في قلبه وهو لا يدري ما عرف أنّه قد ظفر من ذلك بكنوز عظام
+      </p>
+
+      <p n="Bequeathed Treasure Suffices">
+        فكان كالرجل الذي يدرك حين يدرك فيجد آباءه قد كنزوا من الذهب والفضّة
+        <lb/>
+
+        واعتقدوا له من العقد ما استغنى به عن استقبال السعي والطلب
+      </p>
+
+      <p n="Knowledge Has Many Branches">
+        ولم يكن إذ
+        <lb/>
+
+        كثرت أصول العلم ثمّ قربت فروع كلّ صنف عليها بدّ من أن تصير إلى العلل التي تجري
+        <lb/>
+
+        على أقاويل أهل العلم
+      </p>
+
+      <p n="Reader Must Read Well and Reflect">
+        فأوّل ما ينبغي لمن طلب هذا الكتاب أن يبتدئ بجودة القراءة له
+        <lb/>
+
+        والتثبَّت فيه
+      </p>
+
+      <p n="Hasty Reader Benefits Nothing">
+        ولا يكون غايته منه بلوغ آخره دون الاحكام له فليس ينتفع بقراءته
+        <lb/>
+
+        ولا يفيد منه شيئًا
+      </p>
+
+      <p n="Voracious, Disoriented Reader">
+        وإنّما مثله مثل من اصاب شيئًا فطمحتا عيناه الى جميعه ولم يأخذ منه
+        <lb/>
+
+        ما صفا الأوّل
+      </p>
+
+      <p n="Treasure Discovered">
+        فإنّه خليق أن لا يصيب منه إلاّ كما أصاب الذى بلغنى أنّه رأى في
+        <lb/>
+
+        بعض الصحاري كنزًا فلمّا كشف عنه ونظر إليه رأى شيئًا عظيمًا لا عهد له بمثله
+      </p>
+
+      <p n="Discoverer Hires Help">
+        فقال في
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

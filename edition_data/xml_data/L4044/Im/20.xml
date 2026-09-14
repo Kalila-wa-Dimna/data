@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="20"/>
+
+      <p n="The Pauper Panics">
+        البرّ قد صبّه لينطلق به قال ليس لي عليّ هذا صبر يذهب ويجتمع علي
+        <lb/>
+
+        أمران الجوع والعري ولا يجتمعان إلا أهلكا
+      </p>
+
+      <p n="The Pauper Chases the Burglar Away, Keeps His Garb">
+        فصاح بالسارق فهرب من
+        <lb/>
+
+        من بين يديه فترك الملحفة فأخذها صاحب المنزل فلبسها وأعاد البرّ مكانه
+      </p>
+
+      <p n="The Intelligent Man Must Not Despair">
+        وليس لأحد أن ييأس من أن ينال أجرًا إن يطلب ما لا يُنال
+      </p>
+
+      <p n="One Should Not Abandon Hard Work">
+        وليس ينبغي له
+        <lb/>
+
+        أيضا أن يتكلّ هذا المثل فيدع الطلب ولا يدع جهدًا في الطلب على
+        <lb/>
+
+        معرفة
+      </p>
+
+      <p n="The Fortunate Few Are Not the Model">
+        فإنّ الفضل والرزق يأتيان من يطلبهما ويمتنعان ممّن يطلب الفاضات
+      </p>
+
+      <p n="The Striving Masses Are the Model">
+        <> من غير طلب فأصاب أكثر ممّن طلب فليكن حقيقًا أن يقتدى بذلك الواحد
+        <lb/>
+
+        لكنّه ينبغي أن يقتدي بالكثير الذين طلبوا فأصابوا ويحقّ عليه
+      </p>
+
+      <p n="One Should Benefit from Experience">
+        أن يكثر
+        <lb/>
+
+        المقايسة وينتفع بالتجارب فإذا أصابه الشيء فيه مضرة عليه وأشباهه وقاس
+        <lb/>
+
+        بعضه ببعض حتى يحذر الشيء بما لقي في غيره فإنّه إن لم يحذر إلّا التي لقي بعينها
+        <lb/>
+
+        لم يحكم التجارب في جميع أموره ولم يأتيه شيء لم يكن أتاه بعينه وينبغي
+        <lb/>
+
+        مع ذلك أن يحذر ما يصيب غيره من الضرر حتى يسلم هو أن يأتيه مثله
+      </p>
+
+      <p n="Dove Does Not Learn from Losing Her Chicks">
+        ولا
+        <lb/>
+
+        يكن مثله مثل الحمامة التي تؤخذ فراخها فتذبح وترى ذلك في
+        <lb/>
+
+        عشّها ولا يمنعها أن تقيم مكانها حتّى تؤخذ هي فتذبح
+      </p>
+
+      <p n="One Should Abide by God's Measures">
+        وينبغي له مع ذلك أن
+        <lb/>
+
+        يكون للأمور عنده حدّ لا يجوزه ولا ينقص عنه فإن جاوز الحدّ كان كمن قصّر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

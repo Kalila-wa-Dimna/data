@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M616</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="62"/>
+
+      <p n="unassigned">
+        قال برزويه الطبيب رأس أطبّاء فارس وهوّ الذي وليّ انتساخ هذا الكتاب
+        <lb/>
+
+        وترجمه في كتاب الهند أنّ أبي كان من المقاتلة وكانت أمّي من عظماء الزمازمة وكان
+        <lb/>
+
+        ممّا ابتدأني ربي من نعمه أني كنت أكرم ولدي أبويّ عليهما وكانا أشدّ افتنادًا
+        <lb/>
+
+        ديشليم وزيرًا له يقال له ينكربا وكان أعظم فلاسفته عنده قدرًا وحالًا في العلم
+        <lb/>
+
+        وأمره أن يجيبه فيها بابًا بابًا بجواب صحيح متْقن وأن يضرب لذلك الأمثال والأشياء
+        <lb/>
+
+        ليستدلّ على صحّة جوابه فيها وأن يجمع ذلك في كتاب صحيح ليتّخذه أدبًا لنفسه
+        <lb/>
+
+        ويرفعه في خزانته فيصير إرثًا لمن يكون بعده من الملوك فكان منه باب الأسد
+        <lb/>
+
+        والثور وهوّ بعد حديث برزويه الطبيب فأفهمه ذلك إن شاء الله ولا قوّة إلاّ بالله وحده
+        <lb/>
+
+        باب برزويه الطبيب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

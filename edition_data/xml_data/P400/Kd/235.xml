@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="235"/>
+
+      <p n="King Is Thankful">
+        ذلك الملك كبَّر بَيْن يَدَيْه وسجد له وَرَجع إلى مَنزلِه
+      </p>
+
+      <p n="Gifts Arrive Day By Day">
+        فجعلَت
+        <lb/>
+
+        الهدايا الذي وصف كىناىرون تدِبّ إليه كلّ يوم منها شيء
+        <lb/>
+
+        فلَمّا مَضَتْ سَبْعَة أيام استكمل الهدايا وجاءه كُلّمَا وَصَف لَه كينايرون
+      </p>
+
+      <p n="Kings Joy">
+        فاشتَدّ فَرح المَلك بذَلك
+      </p>
+
+      <p n="King Regrets Sharing Secret">
+        فَلَمّا مَضَتْ ولام نفسَه على اِفشاء سرِّه
+        <lb/>
+
+        إلى البرهميّين
+      </p>
+
+      <p n="King Thankful For Queens Advice">
+        وقال لولا أنّ الله رَحَمَني وتَداركَني
+        <lb/>
+
+        برأي إيلاذ لَضاع أمري وذَهَبَتْ دُنْيَاي
+      </p>
+
+      <p n="One Must Consult Right People">
+        فَلِذَلك يَنبغي للعاقل مُشاورة
+        <lb/>
+
+        أهل النصيحة
+      </p>
+
+      <p n="Queens Advice Saved King">
+        فإنّ إيلاذ أشَارتْ عَلَيّ بِخَير وَلَوْ أنّي قَتَلتُه <> وَثبّت الله مُلكي
+        <lb/>
+
+        بِرأي الأخِلّاء النُصَحَاء
+      </p>
+
+      <p n="King Appreciates Wise Man">
+        واستبَان لي عِلم كنايرون وصدق قولُه
+      </p>
+
+      <p n="Gift To Be Distributed To All Victims">
+        ثُمّ دَعَا
+        <lb/>
+
+        الملك إيلاذ وغيرَهَا ممّن كَان أشار عَليه بقتله فقال لهُم إنّي قَد رأيت أن
+        <lb/>
+
+        أقسَّم هذه الهدايا بينَكُم أيُّها المُوطّئون أنفسَهُم على الموت في سببي
+      </p>
+
+      <p n="Subjects Depend On King">
+        قال بَلار أيُّها الملك لا يَنبغي لك أنْ تَحمد أنفسَنَا على اِسلامنَا
+        <lb/>
+
+        إيّاها دُونَك لأنّ قوامَنا إنّما هُو بك
+      </p>
+
+      <p n="Vizier Rejects Gift">
+        فأَمّا الهدايا فإنّها ليس ممّا يَصلح
+        <lb/>
+
+        لنَا وإِنَّمَا هِي للملوك وإن لا تَصلُح إلّا لَهُم
+      </p>
+
+      <p n="King Instists Giving Gift">
+        فقال الملك فإنِّي أُريد أنْ تأكل
+        <lb/>
+
+        ثَمرة صبرِك وتوطينِك نفسِك على الهلاك دُونِي يا بَلار أنت وَمَنْ مَعَك
+        <lb/>
+
+        مِنْ أصحَابِك وَقَدْ آليت أنْ لا أُدْخِلْ هَذِه الألطاف خزائنَنا حتّى يَأخُذ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="82"/>
+
+      <p n="Explaining the Six Causes">
+        الشدّة
+      </p>
+
+      <p n="The Lion's Dangerous Infatuation">
+        وإنّ الأسد قد أغرم بالثور غرامًا شديدًا فهو خليق
+        <lb/>
+
+        أن يضرّه ويشينه
+      </p>
+
+      <p n="Kalila Questions Dimna's Plan">
+        قال كليلة وكيف تطيق الثور وهو
+        <lb/>
+
+        أقوى منك وأشدّ وأكرم على الأسد وأكثر أعوانًا
+      </p>
+
+      <p n="Cunning Over Strength">
+        قال
+        <lb/>
+
+        دمنة لا تنظر إلى صغري وضعفي فإنّ الأمور ليست بالضعف
+        <lb/>
+
+        والشدّة ورُبّ صغير ضعيف قد بلغ برأيه ودهائه
+        <lb/>
+
+        وحيلته ما يعجز عنه كبير قويّ شديد
+      </p>
+
+      <p n="The Crow and the Snake Parable">
+        أوما بلغك أنّ
+        <lb/>
+
+        غرابًا ضعيفًا احتال على حيّة مهيلة حتّى قتلها
+      </p>
+
+      <p n="Kalila Asks for the Story">
+        قال
+        <lb/>
+
+        كليلة وكيف كان ذلك
+      </p>
+
+      <p n="The Crow's Predicament">
+        قال دمنة زعموا أنّ غرابًا كان له
+        <lb/>
+
+        وكرًا في شجرة على جبل وكان بالقرب منه جحرًا فيه أسود فكان
+        <lb/>
+
+        إذا فرّخ الغراب عمد الأسود إلى فراخه فأكلها
+      </p>
+
+      <p n="The Crow Seeks Counsel">
+        فبلغ ذلك
+        <lb/>
+
+        من الغراب مبلغ كلّى وأحزنه فشكى ذلك إلى صديق كان له
+        <lb/>
+
+        من بني آوى فقال له إنّي أريد مشورتك في شيء قد همّت به
+        <lb/>
+
+        قال وما هو قال الغراب إنّي قد عزمت على الذهاب إلى
+        <lb/>
+
+        الأسود فإذا نام نقرت عينيه لعلّي أقلعهما فأستريح من
+        <lb/>
+
+        شرّه
+      </p>
+
+      <p n="The Jackal's Warning">
+        قال له ابن آوى بئست من الحيلة ما ذكرت ولكن
+        <lb/>
+
+        التمسْ أمرًا تصيب بغيتك من الأسود من غير أن تتلف نفسك
+        <lb/>
+
+        وتخاطر بها
+      </p>
+
+      <p n="The Heron and the Crab Parable">
+        وإيّاك أن يكون مثلك مثل العلجوم وهو الضفدع
+        <lb/>
+
+        الذكر الذي أراد قتل السرطان فقتل نفسه
+      </p>
+
+      <p n="The Crow Asks for the Story">
+        قال الغراب
+        <lb/>
+
+        وكيف كان ذلك
+      </p>
+
+      <p n="The Old Heron's Dilemma">
+        قال ابن آوى زعموا أنّ علجومًا كان في
+        <lb/>
+
+        أجمة بعيشة مخصبة كثيرة السمك فعاش بهناك ما عاش
+        <lb/>
+
+        حتّى هرم فصابه جوع وجهد شديد
+      </p>
+
+      <p n="The Crab Approaches the Heron">
+        فالتمس الحيلة لذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

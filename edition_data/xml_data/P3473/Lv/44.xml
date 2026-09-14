@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="44"/>
+
+      <p n="Traits Of Secrecy And Speech">
+        يندم عليه
+      </p>
+
+      <p n="Burzoy Has These Traits">
+        وقد جُمع ذلك فيك
+      </p>
+
+      <p n="Burzoy Came To Steal Indian Knowledge">
+        وإنّما صحبتك لي ومصادقتك
+        <lb/>
+
+        إيّاي إنّما هي لتسلبني رتبتي وفخري وعلمي وأدبي
+      </p>
+
+      <p n="Burzoy Deserves Help">
+        وإنّي أعلم
+        <lb/>
+
+        أنّك أهل أن تُسعف بحاجتك وتُساعد على طلبتك ونيل بغيتك
+      </p>
+
+      <p n="Friend Is Afraid">
+        ولكنّ حاجتك التي طلبتها ورغبت فيها قد ملأت قلبي رعبًا وأد
+        <lb/>
+
+        وأذعرت نفسي وأدخلت الخشية والفرق عليّ
+      </p>
+
+      <p n="Friend Is Loyal Despite Deceit">
+        فلمّا عرف برزوية
+        <lb/>
+
+        أنّ الهنديّ قد عرف وتحقّق أنّ صحبته إيّاه كانت مكرًا وخداعًا
+        <lb/>
+
+        وحيلة لطلب حاجته وأنّه قد أنزل به ذلك
+      </p>
+
+      <p n="Burzoy Had Prepared Argument">
+        قال اعلم يا أخي
+        <lb/>
+
+        أرشدك الله تعالى أنّي كنت قد هيّأت لهذا الأمر كلامًا كثيرًا ووضعت
+        <lb/>
+
+        له أصولًا وشعّبت له شعوبًا وأنشأت له مخارجًا وطرقًا
+      </p>
+
+      <p n="Friend Is Quick Minded">
+        فلمّا انتهى
+        <lb/>
+
+        الأمر إلى ما بدأتني به من الكلام من اطّلاعك على أمري والذي
+        <lb/>
+
+        قدمت ﻷجله ورغبتك على ما ألفيت من ذات نفسي وسرّها
+        <lb/>
+
+        اكتفيت باليسير من الخطاب معك وعرفت بالصغير والكبير واا
+      </p>
+
+      <p n="Friend Spares Burzoy Argument">
+        واستغنيت عن طويل الكلام واقتصرت به معك على الإيجاز في
+        <lb/>
+
+        الجواب ورأيت من إسعافك إيّاي بحاجتي ما دلّني على كرمك وحسن
+        <lb/>
+
+        رأيك
+      </p>
+
+      <p n="Secrets Safe With Scholars">
+        فإنّ الكلام إذا أُلقي إلى الفيلسوف والسرّ إذا استُودع
+        <lb/>
+
+        الفطن اللبيب فقد خصّصه وبلغ غاية أمل صاحبه
+      </p>
+
+      <p n="Friend Responds">
+        فقال
+        <lb/>
+
+        الهنديّ
+      </p>
+
+      <p n="Friends Share Everything">
+        لا شيء أفضل من المودّة ومن أخلصت مودّته كان
+        <lb/>
+
+        أهلّا أن يستخلصه الرجل لنفسه ولا يخفي عنه شيئًا ولا يكتمه
+        <lb/>
+
+        سرًّا
+      </p>
+
+      <p n="Discretion Is Vital For The Educated">
+        فإنّ رأس الأدب حفظ السرّ
+      </p>
+
+      <p n="Secret Better Remain Untold">
+        فإن كان مودعًا عند أمين
+        <lb/>
+
+        فقد احتُرز من التضييع على أنّ الأولى بصاحب السرّ أن لا يتكلّم
+        <lb/>
+
+        به بين اثنين
+      </p>
+
+      <p n="Shared Secret Spreads">
+        فإن فعل ذلك فلا بدّ من ثالث من جهة أحدهما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

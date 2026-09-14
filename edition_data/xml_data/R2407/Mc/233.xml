@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="233"/>
+
+      <p n="The Rat Begins to Cut the Rope">
+        فأخذ الجرذ في قرض أحبال السنّور
+      </p>
+
+      <p n="The Cat Deems the Rat's Efforts Slow">
+        فاستبطأه السنّور
+        <lb/>
+
+        وقال له ما أراك جادًّا في قطع أحبالي ورباطي
+        <lb/>
+
+        ولمّا ظفرت بحاجتك تبدّلت عمّا كنت عليه وتوانيت
+        <lb/>
+
+        في حاجتي
+      </p>
+
+      <p n="The Noble Must Help">
+        فليس هذا فعل الكريم الوفيّ ولا الخليل
+        <lb/>
+
+        الصادق يتوانى في حاجة صاحبه إذا قدر عليها
+      </p>
+
+      <p n="The Cat States the Rat's Duty of Reciprocation">
+        ولقد كان لك في عاجل مودّتي من الأمن والنفع والخلاص
+        <lb/>
+
+        من الهلكة ما قد رأيت ويجب تكافئني بذلك
+      </p>
+
+      <p n="The Rat Should Forget Enmity">
+        ولا
+        <lb/>
+
+        تذكر شيئًا من سالف عداوة بيني وبينك فإنّ ما
+        <lb/>
+
+        حدث بيننا من المودّة ينسيك ذلك
+      </p>
+
+      <p n="Good Deeds Erase Bad Deeds">
+        والكريم لا يكون
+        <lb/>
+
+        غير شكور ويكون غير حقود الخلّة الواحدة من الإحسان
+        <lb/>
+
+        تنسّيه الخلال الكثيرة من الإساءة
+      </p>
+
+      <p n="The Punishment of Betrayal Comes Swiftly">
+        وأعجل العقوبة
+        <lb/>
+
+        عقوبة الغدر واليمين الكاذبة ومن إذا سُئل وتُضرّع
+        <lb/>
+
+        إليه لم يعفو
+      </p>
+
+      <p n="The Two Kinds of Friends">
+        قال الجرذ إنّ الصديق صديقان صديق
+        <lb/>
+
+        طامع وصديق مضطرّ وكلاهما يلتمسوا النافع ويحترسوا
+        <lb/>
+
+        من الضارّ فأمّا الطامع فالمسترسَل إليه في كلّ حال
+      </p>
+
+      <p n="Forced Friendship Does Not Last">
+        وأمّا المضطرّ فله أحوال يُسترسل إليه فيها
+      </p>
+
+      <p n="The Rat Explains the Reasons for Self-Protection">
+        وأنا وافي لك
+        <lb/>
+
+        بما جعلت لك منّي ومحترس في ذلك أن يصيبني
+      </p>
+
+      <p n="Ill-Timed Harvest">
+        ما أصاب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

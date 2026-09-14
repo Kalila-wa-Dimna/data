@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="229"/>
+
+      <p n="The King Asks about Escaping Enemies">
+        من كلّ جانب وأشرف على الهلاك فالتمس
+        <lb/>
+
+        الخروج والخلاص من ذلك كلّه بموالاة بعض
+        <lb/>
+
+        الأعداء ومصالحته فسلم من الخوف وكيف يلتمس
+        <lb/>
+
+        ذلك
+      </p>
+
+      <p n="The Philosopher Responds that Emotions Change">
+        قال الفيلسوف إنّ العداوة والموالاة
+        <lb/>
+
+        والمودّة والبغض ليس كلّها تثبت وتدوم وكثير
+        <lb/>
+
+        محبّة تتحوّل بغضة وكثير بغض يتحوّل مودّة
+        <lb/>
+
+        عن حوادث العلل والأمور والتجارب
+      </p>
+
+      <p n="The Intelligent Adapts to Situations">
+        وذوي
+        <lb/>
+
+        الرأي لكلّ ما يحدث وإن كان من الطمع بما قِبل العداوة
+        <lb/>
+
+        التماس فيما عند الصديق
+      </p>
+
+      <p n="Enmity Must Not Stop One from Requesting Help">
+        ولا يمنع ذو العقل عداوة
+        <lb/>
+
+        كانت لنفسه نافعة مقارنة والتماس ذلك من العدوّ
+        <lb/>
+
+        إذا طمع منه في دفع مخوف أو حذر من خوف
+      </p>
+
+      <p n="The Resolute Attains His Need">
+        ومن
+        <lb/>
+
+        عمل في ذلك الحزم ظفر بحاجته
+      </p>
+
+      <p n="The Parable of the Cat and Rat Is Invoked">
+        ومن أمثال ذلك مثل
+        <lb/>
+
+        السنور والجرذ الذين اصطلحا حين وقعا في ورطة
+        <lb/>
+
+        وكان لهما رأي في خلاصهما جميعًا من الورطة
+        <lb/>
+
+        الشديدة
+      </p>
+
+      <p n="The King Requests the Full Parable">
+        قال الملك وكيف ذلك قال الفيلسوف
+      </p>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        زعموا أنّه كان في مكان كذا وكذا شجرة من التين
+        <lb/>
+
+        وكان في أصلها جحر لسنّور يُقال له روميّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

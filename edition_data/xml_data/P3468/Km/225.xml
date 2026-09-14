@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3468</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="225"/>
+
+      <p n="The Donkey's Owner Brings Him Home">
+        وشدّه وطرح له علفه وخرج عنه
+      </p>
+
+      <p n="The Donkey Plans an Escape">
+        والحمار قلبه مشغول
+        <lb/>
+
+        في الرجوع إلى الأريل فلم يتهنّ بالأكل وأخذ يفكّر ويحتال
+        <lb/>
+
+        وقال ينبغي أن أجعل هربي إليه في الليل
+      </p>
+
+      <p n="The Donkey Escapes to the Stag">
+        فلمّا كان الليل
+        <lb/>
+
+        ورقد صاحبه فكّ وتده ونازع الباب إلى أن خلعه
+        <lb/>
+
+        وخرج هاربًا حتّى جاء بيت الأريل
+      </p>
+
+      <p n="The Donkey Watches the Stag Overnight">
+        فلمّا انتهى إليه وجد
+        <lb/>
+
+        الباب قد غُلق عليه فاطّلع من شقّ الباب فرأى الأريل
+        <lb/>
+
+        مطلوقًا بغير رباط وخشي الحمار أن يراه الناس فربض
+        <lb/>
+
+        في زاوية إلى النهار
+      </p>
+
+      <p n="The Stag Is Returned to the River">
+        فانطلق صاحب الأريل إلى النهر
+        <lb/>
+
+        على عادته وهو يجرّه وراءه بحبل طويل
+      </p>
+
+      <p n="The Donkey Approaches the Stag">
+        فتقدّم الحمار
+        <lb/>
+
+        إلى الأريل وجعل يحدّثه بلغته ولم يكن الأريل يعرف
+        <lb/>
+
+        لغة الحمير فلمّا لم يفهم منه رمزه بقرنيه وأخذ يقاتله
+      </p>
+
+      <p n="The Stag's Owner Chases the Donkey Away">
+        فالتفت صاحب الأريل ووجد الحمار فقال لا بأس بأخذ
+        <lb/>
+
+        هذا الحمار ثمّ فكّر وقال إن أنا أخذته اقتتلا ولا أقدر على
+        <lb/>
+
+        ضبطهما معًا فردّ الحمار عن الأريل
+      </p>
+
+      <p n="The Donkey Approaches Again">
+        فراغ روغة ثمّ عاد
+        <lb/>
+
+        إلى الأريل يماشيه فالتفت صاحب الأريل ووجد الحمار قد
+        <lb/>
+
+        عاد فضربه بعصى كانت في يده فهرب ثمّ عاد وطرده
+        <lb/>
+
+        مرارًا وهو يعود إليه
+      </p>
+
+      <p n="The Donkey Bites the Stag's Owner">
+        ثمّ إنّ الحمار قال ما يمنعني من
+        <lb/>
+
+        مصاحبة الأريل والمشي معه إلّا هذا الرجل وما ثمّ
+        <lb/>
+
+        إلّا أن أقتله عنه ليرى الأريل فروسيّتي ويرغب في خدمتي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

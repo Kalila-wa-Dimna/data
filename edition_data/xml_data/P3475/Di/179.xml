@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="179"/>
+
+      <p n="Dimna Calls the Mother Biased">
+        دمنة علامَ تنظرين بعين واحدة وتسمعين بأذن واحدة أنّي
+        <lb/>
+
+        لشقاء جدّي أري كلّ شيء قد تغيّر وتنكّر فليس ينطق أحد بحقّ
+        <lb/>
+
+        ولا يقوم به ولا يتكلّم إلّا بالهوى
+      </p>
+
+      <p n="Dimna Finds Lion's Lenience Makes Courtiers Lie">
+        ومن بباب الملك لثقتهم بلينه
+        <lb/>
+
+        واطمئنانهم إليه وتعطّفه عليهم لا يتّقون أن يتكلموا بالهوى
+        <lb/>
+
+        فما وافق الحقّ أو خالفه لأنّه لا يغيّر عليهم ولا يتهدّدهم
+      </p>
+
+      <p n="The Mother Chastises Dimna's Duplicity">
+        قالت أمّ الأسد انظروا إلى هذا الغادر الفاجر الذي ركب
+        <lb/>
+
+        الأمر العظيم الذي يأخذ بأعين الناس ويبرأ نفسه
+      </p>
+
+      <p n="Dimna Enumerates 5 Duplicitous Types">
+        قال
+        <lb/>
+
+        دمنة أنّ صاحب ما ذكرت من يدفع الشرّ ولا يدفنه والرجل
+        <lb/>
+
+        الذي يلبس لباس المرأة والمرأة التي تلبس لباس الرجال
+        <lb/>
+
+        والضعيف الذي يزعم أنّه ربّ البيت ومن ينطق في المجمع عند
+        <lb/>
+
+        الملك بما لا يسأل عنه
+      </p>
+
+      <p n="The Mother Demands Dimna's Silence and Confession">
+        قالت أمّ الأسد أما تعلم سوء عملك
+        <lb/>
+
+        فيقصر من غرب قولك أو تتّقيه
+      </p>
+
+      <p n="Dimna Defines the Ill-Wishing Person">
+        قال دمنة إنّ الذي يرتكب
+        <lb/>
+
+        الشرّ لا يحبّ لأحد خيرًا ولا يدفع عنه سوءً
+      </p>
+
+      <p n="The Mother Condemns Dimna's Sweet-Talking and Hoping">
+        قالت أمّ الأسد
+        <lb/>
+
+        أيها الغادر الفاجر إنّك لتجترئ عليّ بمثل هذا القول عند
+        <lb/>
+
+        الملك عجبًا له كيف يتركك حيًّا
+      </p>
+
+      <p n="Dimna Defines as Traitor Who Is Ungrateful for Advice and Kills a Defeated Enemy">
+        قال دمنة أنّ الغادر الذي
+        <lb/>
+
+        يؤتى بالنصيحة ويتمكّن من عدوّه ثمّ لا يشكر ذلك ولا يعرفه
+        <lb/>
+
+        لمن آتاه ولكنّه يريد قتله على غير ذنب
+      </p>
+
+      <p n="The Mother Calls Dimna a Liar">
+        قالت أمّ الأسد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

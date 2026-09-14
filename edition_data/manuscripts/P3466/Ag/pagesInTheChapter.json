@@ -1,17 +1,1 @@
-[
-    {
-        "index": 330,
-        "page_number": 330,
-        "page_link": "/manuscripts/P3466/Ag/330"
-    },
-    {
-        "index": 331,
-        "page_number": 331,
-        "page_link": "/manuscripts/P3466/Ag/331"
-    },
-    {
-        "index": 332,
-        "page_number": 332,
-        "page_link": "/manuscripts/P3466/Ag/332"
-    }
-]
+[{"index":330,"page_number":330,"page_link":"/manuscripts/P3466/Ag/330","number":330,"foliation":null,"pagination":null,"image":"20761ea6-3b5c-4f05-8b70-dab22bfbb258.jpg","tags":["Lh","Ag"],"id":"12678d5d-87dc-4b9e-8dbb-76752e8d5643"},{"index":330,"page_number":331,"page_link":"/manuscripts/P3466/Ag/331","number":331,"foliation":null,"pagination":null,"image":"e7eb8a2e-2aad-4c79-ab11-7d25f2ef16fd.jpg","tags":["Ag"],"id":"9bd6ec62-ed8b-4973-8b6a-caadb90792c5"},{"index":330,"page_number":332,"page_link":"/manuscripts/P3466/Ag/332","number":332,"foliation":null,"pagination":null,"image":"834e04bd-f2c4-4bf4-9f07-5514574a5945.jpg","tags":["Ag","Tg"],"id":"2a6de148-1115-45ac-8a26-6d8cf70e01e8"}]

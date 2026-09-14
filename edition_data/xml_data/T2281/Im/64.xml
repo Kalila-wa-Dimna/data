@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>T2281</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="64"/>
+
+      <p n="Three Things Are Needed for Worldly Life">
+        غيره <> اتّخاذ المعروف
+      </p>
+
+      <p n="One Should Not Condemn Faults in Others One Has">
+        وليس لأحد أن يعتب على أحد في أمر
+        <lb/>
+
+        فيه مثله
+      </p>
+
+      <p n="Reader Is Like a Blind Blaming another Blind">
+        يكون كالأعمى الذي يعيّر غيره بعماه
+      </p>
+
+      <p n="Two Things Suit Everyone">
+        وقيل
+        <lb/>
+
+        أمرين لا يجتمعن بأحد السكر والمال
+      </p>
+
+      <p n="Two Things Do Not Suit Anyone">
+        يُقال أمران
+        <lb/>
+
+        لا يشارك فيهما الملك في ملكه والزوج في امرأته
+      </p>
+
+      <p n="Fire Consumes Every Log">
+        فالحالتان الأولتان مثلهما كمثل النار الذي تحرق كلّ
+        <lb/>
+
+        حطب يُقذف فيها
+      </p>
+
+      <p n="Fire and Water Do Not Mix">
+        والحالتان الأولتان كالماء والنار
+        <lb/>
+
+        اللتان لم يمكن اجتماعهما ومن رام موافقة هاذين فقد
+        <lb/>
+
+        رام عناء
+      </p>
+
+      <p n="One Should Abide by God's Measures">
+        وقيل إنّ الله عزّ وجلّ جعل لكلّ شيء حدًّا يوقف
+        <lb/>
+
+        عليه فمن يحاور في الأشياء ضدّها أوشك أن يلحقه
+        <lb/>
+
+        التقصير عن بلوغها
+      </p>
+
+      <p n="Striving for the Here and the Hereafter">
+        وقيل من كان سعيه لآخرته
+        <lb/>
+
+        ودنياه فحياته له وعليه
+      </p>
+
+      <p n="Striving for the Here">
+        ومن سعى لدنياه خاصّة فحياته
+        <lb/>
+
+        عليه لا له
+      </p>
+
+      <p n="Striving for the Hereafter">
+        ومن سعى لآخرته فذلك الذي أخذ بالعلم
+        <lb/>
+
+        كلّه وكفى أمر دنياه من قبل ربّه
+      </p>
+
+      <p n="A Worldly Man Must Fix Three Things">
+        وقيل ثلاثة أشياء
+        <lb/>
+
+        يجب لصاحب الدنيا إصلاحها وبذل نفسه لها منها
+        <lb/>
+
+        أمر معيشته والصدق فيما بينه وبين الناس واكتساب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

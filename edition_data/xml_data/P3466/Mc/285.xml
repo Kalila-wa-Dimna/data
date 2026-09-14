@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="285"/>
+
+      <p n="The Cat Expects to Die">
+        فلمّا رآه السنّور استشعر الهلكة
+      </p>
+
+      <p n="The Rat Resolves to Cut the Last Rope">
+        فقال الجرذ الآن جاء
+        <lb/>
+
+        مكان الجدّ في قطع ما بقي من حبائلك
+      </p>
+
+      <p n="The Rat Fulfills the Pact">
+        فلم يدنو الصيَّاد
+        <lb/>
+
+        حتّى فرغ الجرذ من قطع الحبائل على سوء ظنّ من السنّور ودهش منه
+      </p>
+
+      <p n="The Cat and the Rat Escape">
+        فلمّا فرغ عدا السنّور إلى الشجرة فصعدها وانجحر الجرذ
+        <lb/>
+
+        وأخذ الصيّاد حبائله وشبكته وانصرف خائبًا
+      </p>
+
+      <p n="The Cat Calls Back the Rat">
+        وخرج الجرذ
+        <lb/>
+
+        بعد ذلك من جحره فرأى السنّور من بعيد فكره أن يدنو منه
+        <lb/>
+
+        فناداه السنّور أيّها الصديق ذا البلاء الحسن عندي
+      </p>
+
+      <p n="The Cat Reminds the Rat of their Friendship">
+        ما
+        <lb/>
+
+        يمنعك من الدنوّ منّي لأجازيك بأحسن ما أبليتني هلمّ إليّ
+        <lb/>
+
+        ولا تقطع إخائي
+      </p>
+
+      <p n="If One Gives Up a Friend One Loses Out">
+        فإنّه من اتّخذ صديقًا وقطع أخاه حُرم
+        <lb/>
+
+        ثمرة الأصدقاء والإخاء وأيس من نفعه الإخوان والأصدقاء
+      </p>
+
+      <p n="The Cat Suggests a Reward">
+        وإنّ يدك عندي لا تُنسى وأنت حقيق أن تلتمس مكافأة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

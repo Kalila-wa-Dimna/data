@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="375"/>
+
+      <p n="Schemers Incite Lion's Suspicion">
+        حتّى أوقع ذلك في نفس الأسد الاتّهام
+      </p>
+
+      <p n="Lion Asks Jackal about Meat">
+        فدعا بابن آوى فقال له
+        <lb/>
+
+        ما صنعت باللحم الذي أمرتك بحفظه قال دفعته إلى فلان صاحب الطعام
+        <lb/>
+
+        ليقرّبه إلى الملك
+      </p>
+
+      <p n="Lion Asks Steward about Meat">
+        فدعا الملك بصاحب الطعام وسأله فأنكر خوفًا
+      </p>
+
+      <p n="Meat Is Found in Jackal's House">
+        فبعث الأسد إلى بيت ابن آوى من بعثه فوجدوا اللحم
+      </p>
+
+      <p n="Jackal Pleads Innocence">
+        فحلف ابن آوى
+        <lb/>
+
+        بالأيمان المغلّظة أنّه ما خبّأه ولا يعلم من تركه خوفًا
+      </p>
+
+      <p n="Mother Finds Accusation Absurd">
+        فقالت له أمّ الأسد
+        <lb/>
+
+        إنّ هذا كذب <> ومكر
+      </p>
+
+      <p n="King Should Have Investigated">
+        وقد كنت حقيقًا أن تنظر في أمر ابن آوى نظر
+        <lb/>
+
+        متثبّت
+      </p>
+
+      <p n="Jackal Eats no Meat">
+        فتعلم أنّه إذ لم يكن يأكل اللحم الذي كنت ربّما أمرت له بالكثير
+        <lb/>
+
+        منه
+      </p>
+
+      <p n="Jackal Gave Back Meat">
+        فيجعله في طعامك وطعام جندك
+      </p>
+
+      <p n="Jackal Is Unlikely to Steal Meat">
+        إنّه ليس بخليق بسرقة قليل
+        <lb/>
+
+        من اللحم أمرته بالاحتفاظ به
+      </p>
+
+      <p n="King Must Investigate Now">
+        فافحص عن أمره
+      </p>
+
+      <p n="The Inferior always Envy the Superior">
+        فإنّه لم تزل عادة الأراذل
+        <lb/>
+
+        والأنذال حسد أهل الفضل واستئصالهم
+      </p>
+
+      <p n="Jackal's Superiority Causes Envy">
+        ولابن آوى مروءة
+        <lb/>
+
+        ومودّة وفضل
+      </p>
+
+      <p n="Jackal's Foes Perhaps Hid Meat">
+        فعسى أعداؤه من أصحابك أن يكونوا لطفوا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

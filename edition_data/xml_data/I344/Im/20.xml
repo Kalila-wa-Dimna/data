@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="20"/>
+
+      <p n="Striving for the Here and the Hereafter">
+        سعيه لآخرته ودنياه كانت حياته له وعليه
+      </p>
+
+      <p n="A Worldly Man Must Fix Three Things">
+        وقد يُقال في ثلاثة أشياء يجب على صاحب
+        <lb/>
+
+        الدنيا صلاحها والإبذال لنفسه فيها بها
+        <lb/>
+
+        أمر دنياه ومنها أمر معيشته ومنها أمر
+        <lb/>
+
+        ما بينه وبين الناس
+      </p>
+
+      <p n="Three Things in a Man Engender Inefficiency">
+        وقد قيل في أمور من
+        <lb/>
+
+        كانت فيه لم يستقم له عقل منها التواني ومنها
+        <lb/>
+
+        تضييع الفرص ومنها التصديق لكلّ مخبر
+        <lb/>
+
+        ومنها التكذيب لكلّ عالم
+      </p>
+
+      <p n="One Needs to Keep Desire in Check">
+        وقد ينبغي للعاقل
+        <lb/>
+
+        أن يكون لرأيه متهمًّا
+      </p>
+
+      <p n="One Needs to Check the Veracity of Information">
+        ولا يقبل من أحد وإن
+        <lb/>
+
+        كان صدوقًا محقًّا ولا يتمادى في الخطأ
+        <lb/>
+
+        وإذا التبس عليه أمر أن لا يلج فيه ولا يُغرّر
+        <lb/>
+
+        حتّى يتيقّن بالصواب
+      </p>
+
+      <p n="One Should Not Continue on the Wrong Path">
+        ولا يكون كالرجل
+        <lb/>
+
+        الذي يتحوّل عن الطريق فيمرّ على الضلال
+        <lb/>
+
+        فلا يزال في السير جهدًا إلّا ازداد من
+        <lb/>
+
+        الغاية بعدًا
+      </p>
+
+      <p n="Man Rubs Itchy Eye and Loses It">
+        أو كالرجل الذي تقذي عينه
+        <lb/>
+
+        فلا يزال يحكّها حتّى يذهب بها
+      </p>
+
+      <p n="The Intelligent Should Believe in Fate">
+        وعلى العاقل أن
+        <lb/>
+
+        يصدّق بالقضاء ويأخذ بالحزم
+      </p>
+
+      <p n="Do unto Other as to Oneself">
+        ويحبّ للناس
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

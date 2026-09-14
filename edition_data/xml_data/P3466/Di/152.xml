@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="152"/>
+
+      <p n="Pious Acts and Curbing Sin Cannot Wait">
+        وقد قالت العلماء لا تتوانى في العمل بالتقوى ولا تُدافعْ بذنب الآثم
+      </p>
+
+      <p n="Mother Finds Dimna's Sins and Speech Equally Harmful">
+        وإنّي لا أعلم أَذَنْب دمنة أعظم أم كلامه بحضرتك أخطر
+      </p>
+
+      <p n="Lion Orders Leopard and Judge to Try Dimna">
+        فلمّا
+        <lb/>
+
+        سمع الأسد كلام أمّه أمر أن يُحضر النمر هو وصاحب القضاء فلمّا حضر
+        <lb/>
+
+        قال له ولحواص العادل اجلسا في مجلس الحكم وناديا في الجند صغيرهم
+        <lb/>
+
+        والكبير أن يحضروا وينظروا في حال دمنة ويبحثوا عن شأنه
+        <lb/>
+
+        ويفحصوا عن أمره ويكتبوا قوله في كُتُب القضاء ويرفعا قوله يومًا
+        <lb/>
+
+        فيومًا
+      </p>
+
+      <p n="Leopard and Judge Prepare the Trial">
+        فلمّا سمع النمر وجواس ذلك قالا سمعًا وطاعة لما أمر الملك
+        <lb/>
+
+        وخرجا من عنده فعملا مقتضى ما أمر به حتّى إذا ما مضى من يوم جلسوا
+        <lb/>
+
+        فيه ثلاث ساعات أمر القاضي أن يُؤتى بدمنة
+      </p>
+
+      <p n="Dimna Is Brought before Court">
+        فأُتي به فأُقيم بين
+        <lb/>
+
+        يديه والجماعة حضور
+      </p>
+
+      <p n="Leopard Recalls the Lion’s Sorrow for Killing the Ox">
+        فلمّا استقرّ به المكان نادى سيّد الجمع
+        <lb/>
+
+        بأعلى صوته أيّها الجمع إنّكم قد علمتم أنّ سيّد السباع لم يزل
+        <lb/>
+
+        منذ قتل شتربة حائر النفس كثير الهمّ والحزن يرى أنّه قتل
+        <lb/>
+
+        شتربة بغير جرم وأنّه أخذه بكذب دمنة ونميمته وقد أمرني
+        <lb/>
+
+        وهذا القاضي أن نجلس مجلس القضاء ونبحث عن شأن دمنة
+      </p>
+
+      <p n="Leopard Calls for Testimony">
+        فليقلْ
+        <lb/>
+
+        كلّ واحد منكم بما يعلم من أمر دمنة من خير أو شرّ وليتكلّم بذلك
+        <lb/>
+
+        على رؤوس الأشهاد
+      </p>
+
+      <p n="Due Process Will Be Followed">
+        ليكون القضاء في أمره بحسب ذلك
+        <lb/>
+
+        فإن استوجب القتل بالتثبّت في أمره لا بالعجلة والهوى ومتابعة
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

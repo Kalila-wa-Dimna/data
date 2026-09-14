@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P2789</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="337"/>
+
+      <p n="Discoverer Expects Success">
+        لهم
+      </p>
+
+      <p n="Helpers Take Treasure">
+        ثمّ إنّه جاء بالحمّالين فجعل كلّ واحد منهم يحمل ما طاق حمله
+        <lb/>
+
+        وانطلق الحمّال به إلى منزل نفسه وفاز به حتّى لم يبق من الكنز شيء
+        <lb/>
+
+        فانطلق خلف الأخير حتّى أتى منزله
+      </p>
+
+      <p n="Discoverer Loses Treasure">
+        فلم يجد فيه شيئًا من المال
+        <lb/>
+
+        لا قليل ولا كثيرًا وإذا كلّ واحد من الحمّالين قد فاز بما حمله
+        <lb/>
+
+        لنفسه ولم يكن له إلّا العناء فيه
+      </p>
+
+      <p n="Readers Should Look for Hidden Meaning">
+        وكذلك من قرأ هذا الكتاب ولم
+        <lb/>
+
+        يفهم ما فيه ولم يعلم غرضه ظاهرًا ولا باطنًا لم ينتفع بما بدا له
+      </p>
+
+      <p n="A Nut Has to Be Cracked">
+        كما أنّ رجلًا إذا قُدّم له جوز صحيح لم ينتفع به إلّا إذا كسره
+        <lb/>
+
+        ينتفع به
+      </p>
+
+      <p n="Man Acquires Yellow Folio">
+        وكان أيضًا يكون كالرجل الذي طلب علم الفصاحة من كلام
+        <lb/>
+
+        الناس فأتى صديقًا له من العلماء له علم بالفصاحة فرسم له صديقه في صحفة وضعها له فيها فصيح الكلام
+        <lb/>
+
+        وتصاريفة
+      </p>
+
+      <p n="Man Memorizes from Yellow Folio">
+        فانصرف المتعلّم إلى منزله وجعل يكثر قراءتها ولا
+        <lb/>
+
+        يقف على معانيها ولا يعرف ما فيها ثمّ جلس ذات يوم بين أهل
+        <lb/>
+
+        العلم والأدب والفطنة وهو يظنّ أنّه قد اكتفى ممّا قرأه من
+        <lb/>
+
+        تلك الصحيفة
+      </p>
+
+      <p n="Man Reads from Yellow Folio and Errs">
+        فأخذ في محاورتهن فجرت له كلمة أخطأ فيها
+        <lb/>
+
+        فقال له بعضهم أخطأت والوجه غير ما تكلّمت فقال
+        <lb/>
+
+        كيف أخطأت وقد قرأت الصحيفة الصفراء وهي في منزلي
+      </p>
+
+      <p n="Using the Yellow Folio Proved His Ignorance">
+        فكانت مقالته لهم أوجب الحجّة عليهم عند ظنّه وزاده ذلك
+        <lb/>
+
+        قربًا من الجهل وبعدًا من الأدب
+      </p>
+
+      <p n="Intelligent Readers Must Implement Knowledge">
+        ثمّ أنّ العاقل إذا فهم هذا الكتاب وعلمه
+        <lb/>
+
+        وبلغ نهاية عمله فيه ينبغي له أن يعمل بما علم منه لينتفع به ويجعله
+        <lb/>
+
+        مثالًا لا يجد عنه فإذا لم يعقل ذلك
+      </p>
+
+      <p n="Man Notices Burglar but Feigns Sleep">
+        كان مثله مثل الرجل الذي نزل
+        <lb/>
+
+        عليه سارق في منزله وهو نائم فقال والله لأسكتنّ حتّى أنظر
+        <lb/>
+
+        ماذا يصنع ولا أدعوه ولا أعلمه أنّني قد علمت به فإذا بلغ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

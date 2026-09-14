@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="281"/>
+
+      <p n="Dont Seek Unattainable">
+        حليمًا في طلب ما لا يجد
+      </p>
+
+      <p n="Be Satisfied With What You Have">
+        وإنك سعيد الجداد قنعت بالذي
+        <lb/>
+
+        تجد وزهدت فيما لا تجد
+      </p>
+
+      <p n="Guest Fancies Hebrew">
+        قال الضيف لو علّمتني بهذا
+        <lb/>
+
+        اللسان فإنّ لي فيه رغبة
+      </p>
+
+      <p n="Guest Tries To Learn Hebrew">
+        فتكلّف الضيف ان يتعلّمه وعالج
+        <lb/>
+
+        في ذلك نفسه أيّامًا
+      </p>
+
+      <p n="Mention Crow Story">
+        فقال الناسك لضيفه ما أخلقك أن
+        <lb/>
+
+        تقع فيما تركت من كلامك وتكلّفت من كلام العبرانيّة
+        <lb/>
+
+        كما وقع فيه الغراب
+      </p>
+
+      <p n="Guest Request Crow Story">
+        قال الضيف وكيف كان ذلك
+      </p>
+
+      <p n=". Crow Story Intro">
+        قال الناسك زعموا أنّ غرابًا رأى حجلة تدرج وتمشي فأعجبه
+        <lb/>
+
+        مشيها وطمع أن يتعلّمه فراض على ذلك نفسه فلم يقدر على
+        <lb/>
+
+        إحكامها وأيس منها
+      </p>
+
+      <p n=". Crow Lost Original Walk">
+        وأراد أن يعود الي مشيته التي
+        <lb/>
+
+        كان يحسن إليها فإذا هي قد اختلّت وتخلّع في مشيته
+      </p>
+
+      <p n=". Crow Ugly Gait">
+        وصار
+        <lb/>
+
+        أقبح الطير مشيًا ولم يحسن الحفظ لما كان فيه
+      </p>
+
+      <p n="Monk Motivates Story">
+        وإنّما ضربت
+        <lb/>
+
+        لك هذا المثل لما رأيت منك أنّك إن تركت وأقبلت
+        <lb/>
+
+        على العبرانيّة وهو لايشاكله وأخاف أن لا تدركه وتنسى
+        <lb/>
+
+        لسانك وترجع إلى أهلك وأنت أشرّهم لسانًا
+      </p>
+
+      <p n="Dont Seek Foreign Things">
+        فإنّه قد
+        <lb/>
+
+        إنّه قيل من يعدّ جاهلا الأمور ما لا يشاكله وليس من ولا
+        <lb/>
+
+        يوجد عليه آباؤه وأجداده ولا يعرف مثله
+      </p>
+
+      <p n="Chapter End">
+        انقضى باب الناسك والضيف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

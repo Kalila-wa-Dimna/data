@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="86"/>
+
+      <p n="Ox's Request for Assurance">
+        الرجعة إليه ليرى فيك رأيه
+      </p>
+
+      <p n="Ox Inquires about Lion's Identity">
+        قال شتربة ومن هذا الأسد
+        <lb/>
+
+        وأين هو
+      </p>
+
+      <p n="Dimna Describes Lion as King of Beasts">
+        قال هو ملك السباع ومعه منهم جند كثير منهم
+      </p>
+
+      <p n="Ox's Fear Upon Hearing of Lion">
+        فرغب
+        <lb/>
+
+        شتربة
+      </p>
+
+      <p n="Ox's Acceptance of Dimna's Offer">
+        ثمّ قال إن أنت جعلت لي الأمان أقبلت معك إليه
+      </p>
+
+      <p n="Dimna Provides Assurance to Ox">
+        فأعطاه دمنة ذمامه
+      </p>
+
+      <p n="Dimna and Ox Approach Lion Together">
+        وأخذه وسارا جميعًا ثمّ أقبلا على الأسد ودخلا
+        <lb/>
+
+        عليه
+      </p>
+
+      <p n="Ox's Greeting to Lion">
+        وسلّم شتربة
+      </p>
+
+      <p n="Lion's Welcoming Inquiry to Ox">
+        فأحسن وسُرّ به الأسد وأكرمه وأدناه وقال
+        <lb/>
+
+        متى قدمت هذه البلدة
+      </p>
+
+      <p n="Ox Recounts His Story to Lion">
+        فقصّ شتربة عليه القصّة
+      </p>
+
+      <p n="Lion Invites Ox to Stay">
+        فقال الأسد
+        <lb/>
+
+        الزمني فإنّي مكرمك ومحسن إليك فدعا له وأثنى عليه
+      </p>
+
+      <p n="Lion's Growing Trust in Ox">
+        وإنّ الأسد
+        <lb/>
+
+        قرّب شتربة ولاطفه وأدناه وأحسن به رأيًا وعقلًا
+      </p>
+
+      <p n="Lion's Increasing Favor Towards Ox">
+        فائتمنه
+        <lb/>
+
+        على أسراره وشاوره في أموره حتّى صار أخصّ أصحابه عنه
+      </p>
+
+      <p n="Dimna's Jealousy of Ox's Favor">
+        فلمّا رأى
+        <lb/>
+
+        ذلك دمنة وفضل إخصاصه بالأسد حسده حسدًا كثيرًا
+      </p>
+
+      <p n="Dimna Complains to Kalila">
+        وأتى أخاه
+        <lb/>
+
+        كليلة
+      </p>
+
+      <p n="Dimna's Lament">
+        وقال له ألا تعجب يا أخي من عجز صنيعي في نفسي فيما
+        <lb/>
+
+        نفع الأسد وإغفال أمر نفسي ونفعها حيث اجتلبت إلى الأسد
+        <lb/>
+
+        ثورًا غلبني على منزلتي ومكاني منه
+      </p>
+
+      <p n="Kalila Introduces the Ascetic's Parable">
+        قال كليلة أصابك ما أصاب
+        <lb/>
+
+        الناسك
+      </p>
+
+      <p n="Dimna Asks About the Ascetic">
+        قال دمنة وكيف كان ذلك
+      </p>
+
+      <p n="Fourth Subtale of Ascetic and Thief">
+        قال زعموا أنّ ناسكًا أصاب
+        <lb/>
+
+        من بعض الملوك كسوة فاخرة فتبصّر به سارق فطمع فيها
+      </p>
+
+      <p n="The Thief Deceives the Ascetic">
+        فأتاه وقال
+        <lb/>
+
+        إنّي أريد أن أصحبك وأتعلّم منك وآخذ عنك
+      </p>
+
+      <p n="The Thief Gains the Ascetic's Trust">
+        فأذن له صحبته فصحبه
+        <lb/>
+
+        متشبّهًا به
+      </p>
+
+      <p n="The Thief Steals the Garment">
+        فلمّا ظفر من الناسك بغفلة أخذ منه الثياب وذهب
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

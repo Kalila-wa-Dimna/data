@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="197"/>
+
+      <p n="unassigned">
+        ما جرى من الغدر ولم أفعل فعل من لا يشكر الحسنة ولا يكافئ بها فلمّا رجعت المرأة
+        <lb/>
+
+        ورأت زوجها يصنع ما يصنع قالت ما يبكيك وما شأن الأسود وابن عرس
+        <lb/>
+
+        مقتوًلا فأخبرها الخبر فقالت هذه ثمرة العجلة
+      </p>
+
+      <p n="Chapter Title">
+        باب السنّور والجرذ
+      </p>
+
+      <p n="Abstract">
+        وهو مثل رجل كثر عدوّه واحترس من كلّ جانب فأشفق على نفسه وأيقن
+        <lb/>
+
+        بالهلاك والتمس المخرج من ذلك بموالاة بعض العدوّ ومصالحته فسلم ممّا يتخوّف
+        <lb/>
+
+        ووفى لمن صالح
+      </p>
+
+      <p n="The King Asks about Escaping Enemies">
+        قال الملك للعالم قد سمعت مثل من يعجّل في الأمور ويعمل بغير
+        <lb/>
+
+        التثبّت فاضرب لي مثل الرجل الذي كثر أعداؤه واكتنفوه من كلّ جانب فأشرف على
+        <lb/>
+
+        الهلاك والتمس المخرج منه بموالاة بعض ذلك الأعداء ومسالمته فسلم ممّا تخوّف ووفى
+        <lb/>
+
+        لمن صالح فأخبرني عن الصلح كيف يُلتمس
+      </p>
+
+      <p n="The Philosopher Responds that Emotions Change">
+        قال العالم إنّ العداوة والولاية
+        <lb/>
+
+        ليس كلّها تدوم وكثير من المودّة يحول بغضًا وكثير من البغضاء يحول مودّة
+        <lb/>
+
+        عن حوادث الأمور والعلل
+      </p>
+
+      <p n="The Intelligent Adapts to Situations">
+        وذو الرأي يحدث لكلّ حدث من ذلك رأيه
+        <lb/>
+
+        من طمع فيما قِبل العدوّ ويأس ممّا عند
+      </p>
+
+      <p n="Enmity Must Not Stop One from Requesting Help">
+        الصديق ولا يمنع ذي العقل عداوة كانت
+        <lb/>
+
+        في نفسه لعدوّه من مقاربته والتماس ما عنده إذا طمع منه في دفع مخوف أو جرّ مرغوب
+        <lb/>
+
+        ولا يعبأ مع ذلك بإحداث الرأي في المواصلة والموادعة
+      </p>
+
+      <p n="The Resolute Attains His Need">
+        فمن أبصر الرأي في ذلك وأخذ فيه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Aw</chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="156"/>
+
+      <p n="Dimna’s Character is Visible in His Body">
+        إلى ذلك
+      </p>
+
+      <p n="Judge/Investigator/Audience Request Physiognomical Evaluation">
+        قال لسيّد الخنازير إنّي قد علمت وعلم الحاضرون
+        <lb/>
+
+        أنّك عارف بما في الصورة من علامات السوء ففسّر لنا من علامات
+        <lb/>
+
+        السوء ما تقول وأطلعنا على ما ترى من صورة هذا الشقيّ
+      </p>
+
+      <p n="Prominent Courtier Diagnoses Dimna as Traitor">
+        فأخذ سيّد
+        <lb/>
+
+        الخنازير بيد دمنة وقال إنّ العلماء قد كتبوا وأخبروا أنّه من
+        <lb/>
+
+        كانت عينه اليسرى أصغر من عينه اليمنى وهي لا تزال تختلج وكان أنفه
+        <lb/>
+
+        مائلًا إلى شقّه الأيمن وكان منبت شعره ثلثًا ثلثًا وعامّة مشيه
+        <lb/>
+
+        إذا مشى يُكثر الالتفات يمينًا وشمالًا فذلك يحدّث نفسه بالغدر
+        <lb/>
+
+        والخبث وقد عرفت بما ثبت عندي من هذه العلامات أنّ ذلك
+        <lb/>
+
+        كذلك وهذا رأيي وعليه عزمي
+      </p>
+
+      <p n="Dimna's Third Subtale of Plower Who Told His Wife to Cover Herself First">
+        فلمّا سمع دمنة ذلك قال لسيّد
+        <lb/>
+
+        الخنازير مثلك مثل رجل قال لامرأته أبصري عورتك ثمّ اطّلعي
+        <lb/>
+
+        في عورة غيرك
+      </p>
+
+      <p n="Prominent Courtier Requests Tale">
+        قال سيّد الخنازير وكيف كان ذلك
+      </p>
+
+      <p n="A Man and His Two Wives Become War Captives">
+        قال دمنة
+        <lb/>
+
+        زعموا أنّ مدينة أغار عليها العدوّ فقتل وسبا وغنم وانطلق إلى
+        <lb/>
+
+        بلاده بمن سبا واتّفق أن حصل مع رجل من جنده في قسمه رجل حرّاث
+        <lb/>
+
+        ومعه امرأتان له وكان هذا الجندي يسيء إليهما في الطعام والشراب
+        <lb/>
+
+        واللباس
+      </p>
+
+      <p n="One Wife Blames the Other for Being Naked">
+        وانطلق الحرّاث ذات يوم هو وامرأته ليحتطب
+        <lb/>
+
+        للجنديّ وهم عراة فأصابت إحديهما خرقة بالية في السباخ
+        <lb/>
+
+        فوضعتها على سوأتها فقالت الأخرى لزوجها ألا تنظر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="374"/>
+
+      <p n="Lion Commits to Conditions">
+        فإنّ ذلك لك
+      </p>
+
+      <p n="Jackal Excels in Position">
+        فولّاه خزانته واختصّه دون أصحابه في المشاورة والرأي
+        <lb/>
+
+        والمنزلة وازداد به على الأيّام عجبًا وكرامة
+      </p>
+
+      <p n="Jackal's Status Stirs Jealousy">
+        فثقل ذلك على من يطيف
+        <lb/>
+
+        بالأسد من قرابته وأصحابه وعمّاله وعادوه وحسدوه وائتمروا
+        <lb/>
+
+        ليحملوا عليه الأسد فيهلكوه
+      </p>
+
+      <p n="Schemers Frame Jackal">
+        فلمّا أجمعن على ذلك من كيدهم
+        <lb/>
+
+        دسّوا ذات يوم للحم كان الأسد استطرفه واستطابه فأمر بوضعه
+        <lb/>
+
+        في موضع طعامه ليُعاد عليه فسرقوه ثمّ أرسلوا به إلى بيت ابن
+        <lb/>
+
+        آوى فجنّوه في موضع لا يطّلع عليه أحد
+      </p>
+
+      <p n="Scheme Triggers Lion's Rage">
+        فلمّا كان من غد
+        <lb/>
+
+        دعا الأسد بغذائه وقعد ذلك اللحم فالتمسه فلم يجده وابن
+        <lb/>
+
+        آوى غائب والقوم اللذين أرادوا المكر به حضور فاحتشد
+        <lb/>
+
+        الأسد ولحّ في طلبه حتّى غضب فنظر بعضهم إلى بعض
+      </p>
+
+      <p n="Schemers to Impart Difficult News">
+        فقال
+        <lb/>
+
+        أحدهم لا بدّ لنا من أن نخبر الملك عن علمنا فيما يضرّه وينفعه
+        <lb/>
+
+        وإن شقّ ذلك على من يشقّ عليه إنّه
+      </p>
+
+      <p n="Schemers Accuse Jackal">
+        بلغني أنّ ابن آوى ذهب
+        <lb/>
+
+        باللحم إلى منزله قال الآخر إنّه كذلك
+      </p>
+
+      <p n="Schemers Say Trickery Is always Exposed">
+        وقال الآخر كذلك
+        <lb/>
+
+        من خاتل السلطان
+      </p>
+
+      <p n="Schemers Claim that Suspicions Are Confirmed">
+        وقال آخر أخبرني المخبر الصادق
+        <lb/>
+
+        عن ابن آوى بأمر عظيم
+      </p>
+
+      <p n="Schemers Say Jackal Is an Ungrateful Traitor">
+        وقال آخر إنّ هذه خيانة عظيمة
+      </p>
+
+      <p n="Schemers Urge Quick Investigation">
+        وقال آخر إن كان منزله يفتّش فالعجلة ليطّلع الملك على
+        <lb/>
+
+        أمره وخيانته وخبثه
+      </p>
+
+      <p n="Schemers Incite Lion's Suspicion">
+        فلم يزالوا بهذا الكلام وشبهه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

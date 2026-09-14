@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="307"/>
+
+      <p n="Lion Believed the Accusation">
+        إلى الجائحة قبل الإعذار فقد صيّرني ذلك إلى حدّ لا أثق بك
+        <lb/>
+
+        ولا تثق بي
+      </p>
+
+      <p n="King Must not Trust the Wrongfully Punished">
+        وليس ينبغي للملوك أن يثقوا بمن قارب هذه الأصناف
+        <lb/>
+
+        التي أنا ذاكرها من عوقب العقوبات الكثيرة من غير جرم
+        <lb/>
+
+        أو من قد ناله الضرر العظيم
+      </p>
+
+      <p n="King Must not Trust the Deposed">
+        أو من قد عُزل عن ولايته وعمل كان
+        <lb/>
+
+        في يده
+      </p>
+
+      <p n="King Must not Trust the Extorted">
+        أو من قد سُلب ماله
+      </p>
+
+      <p n="King Must not Trust the Unrewarded">
+        أو ذو المروءة والنبل إذا نُزّل في غير منزلته
+      </p>
+
+      <p n="Kind Must not Trust the Adversarial">
+        أو من يرجو المنفعة بما يضرّ السلطان
+      </p>
+
+      <p n="King Must not Trust the Humiliated">
+        أو من استُقبل بما يكره في
+        <lb/>
+
+        المحافل
+      </p>
+
+      <p n="King Must not Trust the Greedy and Unsatisfied">
+        والحريص القليل القنوع والمذنب الذي لا يخاف
+        <lb/>
+
+        العقوبة
+      </p>
+
+      <p n="King Must Consider the Untrustworthy as Foes">
+        كلّ هؤلاء أعداء الملك وهم أعدائي
+      </p>
+
+      <p n="Lion's Foes Were Able to Attack Jackal">
+        وقد صار لهم سبيل
+        <lb/>
+
+        إلى الاستخفاف والجرأة على الملك
+      </p>
+
+      <p n="Jackal Fears a Vulnerable Relationship with Lion">
+        ولم أقل ما قلت لأوقف
+        <lb/>
+
+        الملك على الإساءة في أمري ولا على الخطأ في حكمه ولكن قد
+        <lb/>
+
+        تخوّفت أن يجد أهل البغي مدخلًا فيما بيني وبينك
+      </p>
+
+      <p n="Lion Says He Tested Jackal">
+        قال الأسد
+        <lb/>
+
+        إنّي قد بلوت طباعك وأخلاقك وجرّبت أمانتك ووفاءك
+        <lb/>
+
+        وصدقك وعرفت كذب من محلك
+      </p>
+
+      <p n="Lion Confirms Jackal's Status">
+        وإنّي منزّلك من نفسي منزلة
+        <lb/>
+
+        الأخيار الكرماء
+      </p>
+
+      <p n="The Noble Forgives Misdeeds for One Good Deed">
+        والكريم تنسيه الخلّة الواحدة
+        <lb/>
+
+        الخلال الكثيرة من الإساءة
+      </p>
+
+      <p n="Lion Hopes for Renewed Mutual Trust">
+        وقد عدنا إلى الثقة بك
+        <lb/>
+
+        فعُدْ إلى الثقة بنا فإنّه كائن لنا ولك في ذلك غبطة
+        <lb/>
+
+        وسرور
+      </p>
+
+      <p n="Lion Reinstates Jackal">
+        فعاد ابن آوى إلى ولايته ما كان يلي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

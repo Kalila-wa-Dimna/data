@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="73"/>
+
+      <p n="unassigned">
+        أن قال يا بنيّ إنّ صاحب الدنيا يطلب ثلاثة أمور لا يدركها إلّا بأربعة
+        <lb/>
+
+        أشياء
+      </p>
+
+      <p n="Three Worldly Pursuits">
+        فالثلاثة التي تُطلب فالسعة في الرزق والمنزلة في الناس
+        <lb/>
+
+        والزاد إلى الآخرة
+      </p>
+
+      <p n="Four Necessities for Achieving Pursuits">
+        وأمّا الأربعة التي يحتاج إليها في طلب إدراك ذلك
+        <lb/>
+
+        فاكتساب المال من أحسن وجهه ثمّ حسن القيام على حسن ما اكتسبه
+        <lb/>
+
+        منه ثمّ التميّز له ثمّ إنفاقه فيما يصلح فيه المعيشة والأهل والإخوان
+        <lb/>
+
+        ويعود عليه في الآخرة نفعه
+      </p>
+
+      <p n="Failure to Achieve Goals Without Proper Management">
+        فمن أضاع شيئًا من هذه الخلال
+        <lb/>
+
+        الأربعة لم يدرك ما يريد لأنّه إن لم يكتسب لم يكن له مال يعيش به
+      </p>
+
+      <p n="Consequences of Poor Financial Management">
+        وإن كان ذا مال واكتساب ثمّ لم يحسن القيام أوشك أن يبقى
+        <lb/>
+
+        هو بغير مال
+      </p>
+
+      <p n="Rapid Depletion of Poorly Managed Wealth">
+        وإن أنفقه ولم يثمّره لم تمنعه قلّة الإنفاق من سرعة
+        <lb/>
+
+        النّفاد
+      </p>
+
+      <p n="Analogy of Rapidly Depleting Kohl">
+        كالكحل الذي لا يؤخذ منه إلا مثل الغبار وهو مع ذلك
+        <lb/>
+
+        إذا استُعمل سريع فناؤه
+      </p>
+
+      <p n="Consequences of Miserliness and Mismanagement">
+        ومن اكتسب مالًا ولم ينفق منه في
+        <lb/>
+
+        أبوابه ولا مواضعه كان ممّن يُعدّ فقيرًا لا مال له ثمّ لا يمنع ذلك ماله
+        <lb/>
+
+        من أن يفارقه ويذهب حيث لا يدرك منه شيئًا
+      </p>
+
+      <p n="Analogy of Overflowing Water Reservoir">
+        كحابس الماء الذي
+        <lb/>
+
+        لا تزال المياه تصبّ فيه فإذا لم يكن له مخرج ومفيض تخرج منه
+        <lb/>
+
+        بالقدر سال من نواحٍ كثيرة وربّما انبثق البثق العظيم فيذهب
+        <lb/>
+
+        الماء ضياعًا
+      </p>
+
+      <p n="Sons' Acceptance of Father's Advice">
+        ثمّ إنّ ابني التاجر انقطعوا عن البذخ وأخذوا برأي
+        <lb/>
+
+        أبيهم
+      </p>
+
+      <p n="Eldest Son's Journey and Ox Cart Incident">
+        وانطلق أكبرهم متوجّها نحو أرض يقال لها منون فأتى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

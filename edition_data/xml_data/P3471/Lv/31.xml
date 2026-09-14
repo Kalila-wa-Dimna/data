@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="31"/>
+
+      <p n="Kisra Searches Scholar">
+        عزمه ورأيه على البعثة بمن يرضى سأل أهل مملكته أن يبحثوا
+        <lb/>
+
+        ويطلبوا له في جميع مملكته رجلًا قد حوى هذه الخصال
+      </p>
+
+      <p n="Kisra Defines Envoy">
+        وأمر
+        <lb/>
+
+        أن يكون من أحد هذين الصنفين إمّا كاتبًا محرّرًا وإمّا طبيبًا
+        <lb/>
+
+        فيلسوفًا عارفًا بلسان فارس والهند
+      </p>
+
+      <p n="The Search For A Scholar">
+        فخرج أهل مشورته
+        <lb/>
+
+        وذوو الرأي الحميد يبحثوا على الرجل
+      </p>
+
+      <p n="Burzoy Is Selected">
+        حتّى أتوا به فإذا هو رجل
+        <lb/>
+
+        شابّ جميل ذي حسب وأدب صناعته الطبّ وكان عارفًا
+        <lb/>
+
+        بلسان الفرس والهند ويسمّى برزويه بن أدهر من رؤوس الأطبّاء
+        <lb/>
+
+        فارس وأبناء مرازبتهم
+      </p>
+
+      <p n="Burzoy Meets Kisra">
+        فلمّا أُدخل على كسرى ومثل بين يديه سجد
+        <lb/>
+
+        له ثمّ قام مُكفرًّا له
+      </p>
+
+      <p n="Kisra Explains Choosing Burzoy">
+        فقال له كسرى أنّي قد تخيّرتك لما بلغني من فضلك
+        <lb/>
+
+        وعقلك وأدبك وحرصك على طلب العلم حيث كان
+      </p>
+
+      <p n="Kisra Tells Of Mission">
+        وقد بلغني عن
+        <lb/>
+
+        كتاب بأرض الهند كيت كيت وقصّ قصّته وذكر رغبته فيه
+      </p>
+
+      <p n="Kisra Commissions Burzoy">
+        وأمره أن يحضر إلى هناك ويطلب الكتاب بعقله وحسن أدبه
+        <lb/>
+
+        حتّى يستخرجه من خزائنهم ويشرحه له فإنّه مكتوب بالهنديّه
+        <lb/>
+
+        ويفيده معرفته
+      </p>
+
+      <p n="Burzoy Given Ample Funds">
+        وقال له احمل من المال معك ما تشاء وإنّ نفد
+        <lb/>
+
+        ما معك بأرض الهند فابعث إليّ حتّى أمدّك بمال وعجّل ذلك ولا تقصّر
+        <lb/>
+
+        في طلب علم وإن عظمت فيه المؤنة وجميع ما في خزائني لك مبذول
+      </p>
+
+      <p n="Burzoy Accepts">
+        قال بزويه عشت أيّها الملك دهرًا سعيدًا مالكًا لسائر الأقاليم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

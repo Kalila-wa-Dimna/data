@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>IH</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="115"/>
+
+      <p n="Quack Confuses Drug with Poison">
+        |فحُملتْ أسفاطُ ذاك المَيْتِ ### ووُضعتْ لديه جوفَ بيتِ
+        <lb/>
+
+        |فمدَّ في الحالِ إلى تلكَ يَدَهْ ### مستخرجًا من بعضها ما وجده
+        <lb/>
+
+        |فكان سمًّا قاتلًا فخلطه
+      </p>
+
+      <p n="Quack Poisons Princess">
+        ### فشرِبتْ وَهْيَ بهِ مغتبِطَهْ
+        <lb/>
+
+        |فهلكتْ بغلطِ الغِرِّ الشقيِّ ###
+      </p>
+
+      <p n="King Has Quack Drink the Poison Too">
+        قال أبوها اسْقوهُ منها فسُقي
+        <lb/>
+
+        |فماتَ من ساعتِهِ
+      </p>
+
+      <p n="Speaking Ignorantly to Please Others Is Wrong">
+        وإنّما ### ضربتُ هذا مثلًا ليَعْلَما
+        <lb/>
+
+        |مَن ليس ذا علمٍ بما في الكَذِبِ ### مِن البلاءِ والشقاءِ المُعْطِبِ
+      </p>
+
+      <p n="Prominent Courtier/Head of Court Suggests Physiognomy">
+        | فقال للقومِ الحضورِ الخنزيرْ ### من تبِعَ الأشرارَ بلَّى التدبيرْ
+      </p>
+
+      <p n="Bodily Marks Are Proof of Character">
+        | قد جعلَ اللهُ لكُمْ عقولا ### أضحتْ لكُمْ إلى الهُدى سبيلا
+        <lb/>
+
+        |فأَعمِلوا الفطنةَ والكياسَهْ ### تستخرجوا بالزجرِ والفِراسَهْ
+        <lb/>
+
+        |ما غابَ من ذاك فغيرُ خافِ ### على العقولِ خائِنٌ ووافِ
+        <lb/>
+
+        |لكلِّ إنسانٍ من الناسِ سِمَهْ ### إذا رآها ذو الذكاءِ عَلِمَهْ
+        <lb/>
+
+        |قد ذكرَ الماضونَ في الأخبارِ ### دلائلَ الخِيارِ والشِّرارِ
+      </p>
+
+      <p n="Dimna’s Character is Visible in His Body">
+        |وإنّ في دمنةَ لو عرفتُمُ ### دلائلُ الشرِّ لِما وَقَفْتُمُ
+      </p>
+
+      <p n="Judge/Investigator/Audience Request Physiognomical Evaluation">
+        |فقال بعضُ القومِ ما نعرِفٍها ### فهلْ لديك خِبرةٌ تكشِفُها
+      </p>
+
+      <p n="Prominent Courtier Diagnoses Dimna as Traitor">
+        |فأخذَ الخبّازُ كفَّ دمنَهْ ### وقال للِه العظيمِ المنَّهْ
+        <lb/>
+
+        |مِن قولهم مَن صغُرتْ عيناهُ ### وطالَ منه الأنفُ إذ تَراهُ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

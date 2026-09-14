@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="43"/>
+
+      <p n="Friend Distinguishes Burzoy">
+        طلب العلم ولا أكتم بسرّه منك ولاسيّما في بلاد غربة ومملكة غير مملكتك
+        <lb/>
+
+        وعند قوم لا تعرف سنّتهم
+      </p>
+
+      <p n="Traits Of Prudence">
+        وإنّ عقل الرجل ليبين في ثمان خصال منهما
+        <lb/>
+
+        الرفق والثانية أن يعرف الرجل نفسه فيحفظها والثالثة طاعة
+        <lb/>
+
+        الملوك والتحرّي لما يسخطهم
+      </p>
+
+      <p n="Traits Of Secrecy And Speech">
+        والرابعة معرفة الرجل موضع سرّه
+        <lb/>
+
+        وكيف ينبغي أن يطّلع عليه صديقه والخامسة أن يكون على أبواب الملوك
+        <lb/>
+
+        أديبًا ملق اللسان والسادسة أن يكون لسرّه وسرّ غيره حافظًا
+        <lb/>
+
+        والسابعة أن يكون على لسانه قادرًا فلا يتكلّم إلّا بما يأمن تبعته
+        <lb/>
+
+        والثامنة إن كان في المحفل لا يتكلّم إلّا بما يُسأل عنه
+      </p>
+
+      <p n="Traits Ensure Safety">
+        فمن اجتمعت
+        <lb/>
+
+        فيه هذه الخِصال كان هو الداعي على الخير إلى نفسه
+      </p>
+
+      <p n="Burzoy Has These Traits">
+        وهذه الخصال كلّها قد
+        <lb/>
+
+        اجتمعت فيك وبانت لي منك
+      </p>
+
+      <p n="Burzoy Came To Steal Indian Knowledge">
+        فالله تعالى يحفظك ويعينك على ما قدمت
+        <lb/>
+
+        له بمصادقتك إيّاي ليسلبني كنزي وفخري وعلمي
+      </p>
+
+      <p n="Burzoy Deserves Help">
+        فإنّك أهلًا بأن تسعف بحاجتك
+        <lb/>
+
+        وتشفّع بطلبتك وتُعطى سؤلك
+      </p>
+
+      <p n="Burzoy Had Prepared Argument">
+        فقال له برزويه وإنّي قد كنت هيأت كلامًا كتابًا
+        <lb/>
+
+        وشعبت له شعوبًا وأنشأت له أصولًا وطرقًا
+      </p>
+
+      <p n="Friend Is Quick Minded">
+        فلمّا انتهيت إلى ما بدأتني به
+        <lb/>
+
+        من اطّلاعك إيّاه على أمري والذي قدمت له وألقيت عليّ من ذات نفسك ورغبتك
+        <lb/>
+
+        فيما ألقيت من القول اكتفيت باليسير من الخطاب معك وعرفت الكثير من أمورك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

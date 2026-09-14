@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="143"/>
+
+      <p n="Enmity Must Not Stop One from Requesting Help">
+        نفع مخوف أو جرّ مرغوب فيه ويعمل الرأي في إحداث المواصلة والموادعة
+      </p>
+
+      <p n="The Resolute Attains His Need">
+        ومن أبصر
+        <lb/>
+
+        الرأي في ذلك وأخذ فيه بالحرص ظفر بحاجته
+      </p>
+
+      <p n="The Parable of the Cat and Rat Is Invoked">
+        ومن أمثال ذلك مثل السنّور والجرذ
+        <lb/>
+
+        اللذّين اصطلحا فكان في ذلك صلاحهما جميعًا ونجاتهما من الورطة الشديدة
+      </p>
+
+      <p n="The King Requests the Full Parable">
+        قال الملك
+        <lb/>
+
+        وكيف كان ذلك
+      </p>
+
+      <p n="The Rat and the Cat Live Next to a Tree">
+        قال الفيلسوف زعموا أنّه كان بمكان كذا وكذا شجرة من
+        <lb/>
+
+        الدوح وفي أصلها جحر لسنّور يقال له روميّ وجحر لجرذ يقال له فرديون
+      </p>
+
+      <p n="The Cat Is Caught">
+        فكان
+        <lb/>
+
+        الصيادين ربّما التمسوا صيد الوحوش والطير قرب تلك الشجرة وإنّ صيادًا مرّة نصب
+        <lb/>
+
+        حبائلًا فوقع فيها روميّ
+      </p>
+
+      <p n="The Rat Seeks Food">
+        فخرج الجرذ ليبتغي ما يأكل وهو مع ذلك حذر يتلفّت وينظر
+        <lb/>
+
+        فرأى السنّور مقتنصًا في الحبال ففرح
+      </p>
+
+      <p n="Foes Surround the Rat">
+        ثمّ التفت خلفه فأبصر ابن عرس قد تبعه وكمن
+        <lb/>
+
+        له ونظر فوقه فإذا بومة على الشجرة ترصده فخاف إن انصرف راجعًا أن يثب عليه ابن
+        <lb/>
+
+        عرس وَإن ذهب يمينًا أو شمالًا أن تخطفه البومة وإن تقدّم فالسنّور أمامه
+      </p>
+
+      <p n="The Rat Weighs His Predicament">
+        فقال
+        <lb/>
+
+        هذا بلاء قد اكتنفني وشرور قد تظاهرت عليّ ولا مفزع إّلا إلى حيلتي فلا يكوننّ منّي
+        <lb/>
+
+        الدهش ولا يذهب قلبي شعاعًا
+      </p>
+
+      <p n="The Intelligent Always Keeps Alert">
+        فإنّ العاقل لا يتفرّق رأيه ولا يغرب عنه عقله على
+        <lb/>
+
+        حال
+      </p>
+
+      <p n="Intelligence Is Like the Sea">
+        وإنّما عقول ذوي الرأي كالبحر الذي لا يُدرك غوره
+      </p>
+
+      <p n="Situations Do Not Blind the Intelligent">
+        ولا يبلغ البلاء من ذي الرأي
+        <lb/>
+
+        مجهود عقله ولا الرجاء ينبغي له أن يبلغ منه مبلغًا ينظره ويشكره ويعمي عليه أمره
+      </p>
+
+      <p n="The Rat Decides on a Pact with the Cat">
+        ثمّ قال
+        <lb/>
+
+        لا حيلة أمثل من التماس صلح السنّور فإنّ السنّور قد نزل به بلاء ولعلّي أقدر على
+        <lb/>
+
+        خلاصه وإنّه لم يستمع منّي ما أكلّمه به من الكلام الصحيح الصادق الذي لا خداع فيه
+        <lb/>
+
+        أن يفهم عنّي ويطمع في معونتي ويسايس بذلك في صلحي ولعلّه يكون لي وله خلاص
+        <lb/>
+
+        في ذلك
+      </p>
+
+      <p n="The Rat Comes Up to the Cat">
+        ثمّ دنا من السنّور فقال كيف حالك
+      </p>
+
+      <p n="The Cat Acknowledges Being Trapped">
+        قال كالذي تهوى في الضيق والضنك
+      </p>
+
+      <p n="The Rat Points Out Their Common Problem">
+        قال الجرذ قد لعمري كنت وأنا ليسرّني ما ساءك وإنّ ما ضُيّق عليك سعة لي ولكنّي اليوم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Mc</chapter>
+  </chapter>
+</TEI>

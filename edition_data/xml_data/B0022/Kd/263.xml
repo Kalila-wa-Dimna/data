@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>B0022</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="263"/>
+
+      <p n="King Regrets Relating Dreams">
+        كوني قصصت رؤياي على البراهمة
+      </p>
+
+      <p n="King Thankful For Queens Advice">
+        ولو لم يداركني الله
+        <lb/>
+
+        بزوجتي ابزاخت السيّدة السعيدة حتّى شرحت صدري
+        <lb/>
+
+        ووجّهتني إلى الحكيم الفاضل وبشّرني بهذه الهدايا متّ
+        <lb/>
+
+        حزنًا وكمدًا
+      </p>
+
+      <p n="One Must Consult Right People">
+        والواجب على ذوي الألباب أن يشاوروا النصحاء
+        <lb/>
+
+        وأهل المشقّة من الأقرباء وعرفت قدر أهل مودّتي
+      </p>
+
+      <p n="King Appreciates Wise Man">
+        واستبان
+        <lb/>
+
+        لي فضل الحكيم الفاضل كبارايرون
+      </p>
+
+      <p n="Gift To Be Distributed To All Victims">
+        ثمّ استدعى الملك
+        <lb/>
+
+        ابنه حوّي وبلاذ وزيره وكاك الكاتب وقال إنّه لا ينبغي
+        <lb/>
+
+        لنا أن ندخل هذه الهدايا خزائننا ولكن نقسمها بينكم لأنّكم
+        <lb/>
+
+        أنتم الذين وطّنتم أنفسكم على الموت في سببي
+      </p>
+
+      <p n="Queen Is Especially Deserving">
+        ولا سيّما
+        <lb/>
+
+        إبزاخت التي جادت بنفسها وبذلت نصحها وهي التي كانت
+        <lb/>
+
+        السبب لبقاء ملكي
+      </p>
+
+      <p n="Subjects Dont Expect Reward">
+        قال بلاذ إنّا لا ينبغي معشر العبيد أن
+        <lb/>
+
+        نعجب بما كان منّا في ذلك
+      </p>
+
+      <p n="Subjects Must Sacrifice For King">
+        وأيّ عبد لا ينبغي أن يسلّم نفسه فداء
+        <lb/>
+
+        سيّده فإنّ الذي لا تطيب نفسه بالموت فداء سيّده ليس بكامل
+        <lb/>
+
+        الحلم فلا تعجبنّ أيها الملك إن أسلم عبد نفسه إلى الموت مكان
+        <lb/>
+
+        سيّده الذي شرّفه وكرّمه وفي بقائه بقاء نفسه وبقاء النعمة
+        <lb/>
+
+        عليه
+      </p>
+
+      <p n="Vizier Rejects Gift">
+        فأمّا هذه الهدايا العظيمة فإنّه لا ينبغي لنا معشر
+        <lb/>
+
+        العبيد أن ندنوا منها وأمّا حوي فإنّه خليق بها ولائق بها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

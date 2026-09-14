@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="178"/>
+
+      <p n="The Philosopher Answers, Foes Cannot be Trusted">
+        والصلح ويظهر المودّة لجنده والشناءة لأصحابه الذي لا يثق بهم ولا
+        <lb/>
+
+        اطمأنّ إليهم ولا يغترّ إلى قولهم
+      </p>
+
+      <p n="Foes May Take Advantage">
+        فإنّه قد كان أشباه ذلك ممّن طلب
+        <lb/>
+
+        النهزة والفرصة
+      </p>
+
+      <p n="The Parable of the Owls and the Crows">
+        ممّن يَسترسل إليه يصيبه ما أصاب البوم من
+        <lb/>
+
+        الغربان
+      </p>
+
+      <p n="The King Requests the Parable">
+        قال الملك وكيف كان ذلك
+      </p>
+
+      <p n="The Crow Kingdom and the Owl Kingdom">
+        قال
+        <lb/>
+
+        الفيلسوف زعموا أنّ أرضًا تُسمَّى كذا وكذا كان حولها جبلا محيطًا
+        <lb/>
+
+        وكان فيها شجرة عظيمة كثيرة الغصون شديدة الالتفات
+        <lb/>
+
+        وكان فيها وكر ألف غراب عليهم ملك منهم في ذلك الجبل
+        <lb/>
+
+        وكر ألف من البوم عليهم ملك منهم
+      </p>
+
+      <p n="The Owls Attack the Crows">
+        فخرج ملك البوم
+        <lb/>
+
+        بمن معه من جنده فأغار على الغربان
+        <lb/>
+
+        وأكثر فيهم القتل والجراح لكنّه
+        <lb/>
+
+        كانت منهنّ عليهنّ
+      </p>
+
+      <p n="The Morning in the Battle Aftermath">
+        ولم يعلم ملكهنّ بذلك
+        <lb/>
+
+        حتّى كان الغد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

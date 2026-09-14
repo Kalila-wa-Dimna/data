@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="192"/>
+
+      <p n="Dimna Has Ruzbeh Fetch Their Belongings">
+        فافعل فخرج روزبة مسرعًا إلى المكان الذي وصفه له دمنة
+        <lb/>
+
+        فاستخرج ما كان فيه ثمّ أتى به إلى دمنة فوضعه بين يديه
+        <lb/>
+
+        فعمد دمنة إلى شطر ذلك كلّه فدفعه إلى روزبة
+      </p>
+
+      <p n="Dimna Gives Ruzbeh Half, Asks Him to Put in Good Word with Lion and Mother and Report Their Words to Him">
+        وقال له
+        <lb/>
+
+        فرّغ نفسك للاهتمام بأمري واصرف إلى ذلك همّك وأعلمني
+        <lb/>
+
+        ما يكون من قول الأسد إذا رفع إليه ما كان من منطقي ومنطق
+        <lb/>
+
+        من حضرني من الجند وما تقول أمّ الأسد عند ذلك وألطف
+        <lb/>
+
+        لي نظرك فيما سألتك وما لم أسألك ممّا تعرض فيه ذكري
+        <lb/>
+
+        عند الملك ثمّ أعلمنيه
+      </p>
+
+      <p n="Dimna's Gift Is to Reward Ruzbeh's Friendship">
+        فأنا أحبّ أن تعلم هذا الشيء
+        <lb/>
+
+        الحقير اليسير الذي أعطيتك ليس لأن أكون مخصومًا
+        <lb/>
+
+        أو أكون أتخوّف من نفسي وهنًا أو أعرف لها ذنبًا ولكنّه
+        <lb/>
+
+        للإخاء والمودّة التي كانت بينك وبين كليلة وما وثقت
+        <lb/>
+
+        به من وفائك وصحتك وإنّي لم أر أحدًا ممّن خلف أولى
+        <lb/>
+
+        منك
+      </p>
+
+      <p n="Leopard &amp; Judge Bring Lion the Court Records Who Has Them Copied">
+        فلمّا كان من الغد في الساعة الثانية من أوّل النهار
+        <lb/>
+
+        استأذن النمر والقاضي والكاتب على الأسد فدخلوا
+        <lb/>
+
+        إليه ودفعوا إليه كتاب ما كان من عذر دمنة وكلام من
+        <lb/>
+
+        حضره من الجند فنظر فيه الأسد وأمر كاتبه أن
+        <lb/>
+
+        يأخذ نسخته ويردّ الكتاب على النمر
+      </p>
+
+      <p n="Judge Orders Leopard and Judge to Return Dimna Before Court">
+        وأمرهم أن يعودوا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

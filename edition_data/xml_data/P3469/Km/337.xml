@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3469</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="337"/>
+
+      <p n="unassigned">
+        أتيته بها فأودعها فب خزائنه فقال الملك ذكل موفر
+        <lb/>
+
+        عليك فلمّا انتهى المنطق بالملك والفيلسوف سكت الملك
+        <lb/>
+
+        فقال الفيلسوف عشت أيّها الملك ألف سنة وملكت
+        <lb/>
+
+        الأقاليم السبعة وملكت من كلّ شيء سببًا وبلغته في
+        <lb/>
+
+        سرور منك برعيّتك ورُزقت مساعدة القضاء والقدر
+        <lb/>
+
+        فإنّك قد كمل فيك الحلم والعلم وزكا منك العلم العقل والحفظ
+        <lb/>
+
+        وتمّ فيك البأس والجود واتفق منك العمل والقول
+        <lb/>
+
+        بعون الله ومشيئته والرحمة على آبائك الماضيين
+        <lb/>
+
+        ذوي الرأي والفضل وأقرّ النعمة بيديك وفاض الرحمة عليك
+        <lb/>
+
+        عليك
+      </p>
+
+      <p n="Chapter Title">
+        باب مهرزان ابن ملك الجرذان
+      </p>
+
+      <p n="The King Asks About Choosing a Vizier">
+        قال ديشلم الملك لبيدنا الحكيم الفيلسوف قد سمعت
+        <lb/>
+
+        هذا المثل ولكن أريد أن تعرّفني كيف ينبغي للإنسان
+        <lb/>
+
+        أن يلتمس له مشيرًا ناصحًا فأمّا الفائدة المستفادة
+        <lb/>
+
+        من المشير
+      </p>
+
+      <p n="The Philosopher Answers">
+        قال الفيلسوف من أحبّ أن يختار له
+        <lb/>
+
+        مشيرًا ناصحًا يتمسّك به عند الشدائد ويتخلّص به
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+    <chapter>Ks</chapter>
+  </chapter>
+</TEI>

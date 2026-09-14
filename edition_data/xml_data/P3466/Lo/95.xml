@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="95"/>
+
+      <p n="The Thief Deceives the Ascetic">
+        فأتى إلى الناسك وقال له أريد أصحبك وأتعلّم منك وأخدمك
+      </p>
+
+      <p n="The Thief Gains the Ascetic's Trust">
+        فأذن
+        <lb/>
+
+        له في صحبته فصحبه متشبّهًا بالناسك رفيقًا به في خدمته
+      </p>
+
+      <p n="The Thief Steals the Garment">
+        حتّى إذا
+        <lb/>
+
+        ظفر من الناسك بغفلة احتمل الثياب فذهب بها
+      </p>
+
+      <p n="The Ascetic Pursues the Thief">
+        فلمّا فقد الناسك الثياب والرجل عرف أنّه صاحبها فتوجّه في طلبه
+        <lb/>
+
+        نحو مدينة من المدائن
+      </p>
+
+      <p n="The Fighting Rams">
+        فمرّ في طريقه على وعلين يتناطحان
+        <lb/>
+
+        وقد طال انتطاحهما حتّى سالت منهما الدماء
+      </p>
+
+      <p n="The Fox and the Rams">
+        وجاء ثعلب
+        <lb/>
+
+        يلغ دماءهما فبينما هو على إكبابه على ذلك الدم إذ التقى عليه
+        <lb/>
+
+        الوعلان بانتطاحهما وهو غافل فقتلاه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

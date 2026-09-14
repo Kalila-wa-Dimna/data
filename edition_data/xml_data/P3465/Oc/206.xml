@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="206"/>
+
+      <p n="Old Man Rewards Thief">
+        قلب زوجتي على معانقتي
+      </p>
+
+      <p n="King O Asks Third Owl">
+        قال ملك البوم لوزير آخر من وزرائه ما تقول
+        <lb/>
+
+        في الغراب
+      </p>
+
+      <p n="Spy To Be Kept For Counsel">
+        قال أرى أن تستبقيه وتحسن إليه فإنّه خليق أن ينصحك
+      </p>
+
+      <p n="Dispute Between Foes Is Beneficial">
+        والعاقل
+        <lb/>
+
+        يرى معاداة بعض أعدائه بعضًا ظفرًا حسنًا واشتغال بعض العدوّ ببعض
+        <lb/>
+
+        ظفرًا حسنًا وخلاصًا ونجاة
+      </p>
+
+      <p n="Mention Thief Demon Story">
+        كنجاة الناسك من اللصّ والشيطان حين اختلفا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R3655</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="156"/>
+
+      <p n="Setting: Wealthy Merchant and His Sons">
+        ** ومن أمثال ذلك أنّه كان بأرض دفستاند تاجر مكثر له بنون
+      </p>
+
+      <p n="Sons' Mismanagement of Wealth">
+        فلمّا
+        <lb/>
+
+        أدركوا شرعوا في مال أبيهم ولم يحترفوا حرفة يكسبون منها مالًا فلامهم
+        <lb/>
+
+        أبوهم ووعظهم
+      </p>
+
+      <p n="Father's Advice: Three Pursuits and Four Necessities">
+        وكان فيما قال لهم يا بنيّ إنّ صاحب الدنيا يطلب ثلاثة أمور
+        <lb/>
+
+        لن يدركها إلّا بأربعة أشياء
+      </p>
+
+      <p n="Three Worldly Pursuits">
+        أمّا الثلاثة التي يطلبها فالسعة في المعيشة
+        <lb/>
+
+        والمنزلة في الناس والزاد إلى الأخرة
+      </p>
+
+      <p n="Four Necessities for Achieving Pursuits">
+        وأمّا الأربعة التي يحتاج إليها في
+        <lb/>
+
+        درك هذه الثلاثة فاكتساب المال من أحسن وجوهه وحسن القيام على ما اكتسب
+        <lb/>
+
+        منه ثمّ التثمير له
+      </p>
+
+      <p n="Consequence of Not Acquiring Wealth">
+        إن هو لم يكتسب لم يكن له مال
+      </p>
+
+      <p n="Consequences of Poor Financial Management">
+        وإن اكتسب ثمّ لم يحسن القيام عليه
+        <lb/>
+
+        أوشك أن يفنى ويبقى بلا مال
+      </p>
+
+      <p n="Proper Spending for Worldly and Afterlife Benefits">
+        إن هو أنفقه ثمّ إنفاقه فيما يصلح المعيشة
+        <lb/>
+
+        ويرضي الأهل والإخوان يعود في الآخرة نفعه ولم يمنعه بخله في إنفاقه
+      </p>
+
+      <p n="Failure to Achieve Goals Without Proper Management">
+        فمن
+        <lb/>
+
+        أضاع من هذه الخلال الأربع خلّة لم يدرك ما أراد
+      </p>
+
+      <p n="Rapid Depletion of Poorly Managed Wealth">
+        وإن هو أنفقه من غير نظر
+        <lb/>
+
+        وتدبير فما أسرع نفاده
+      </p>
+
+      <p n="Analogy of Rapidly Depleting Kohl">
+        كالكحل الذي لا يُؤخذ منه إلّا شبه الغبار ثمّ هو مع ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

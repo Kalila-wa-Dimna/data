@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="53"/>
+
+      <p n="Incense Burns">
+        تُحرق فيلتذّ بها من شمّها وتذهب الأرج منها فتضمحلّ
+      </p>
+
+      <p n="Addressing the Soul: Healing One Man Is Reward in Itself">
+        وأقبلي على مداواة المرضى وملاطفة الضعفاء ولا تقولي
+        <lb/>
+
+        إنّ الطبّ مؤنة شديدة والناس بها وبأهلها جاهلون
+        <lb/>
+
+        واعتبري بحال رجل فرّج عن رجل كربة واستنقذ
+        <lb/>
+
+        نفسًا من شدّة ولاطف ضعيفًا منقطعًا حتّى عادت
+        <lb/>
+
+        الصحّة إلى بدنه والقوّة إلى نفسه والبسط إلى خلقه أليس
+        <lb/>
+
+        قد حاز بذلك أجرًا وافرًا وثوابًا جزيلًا فإذا كان الذي يفعل
+        <lb/>
+
+        هذا برجل واحد ذلك
+      </p>
+
+      <p n="Addressing the Soul: Healing Many People Brings Divine Reward">
+        فكيف بالطبيب الذي يعالج في كلّ يوم
+        <lb/>
+
+        علل الجماعة التي لا تنحصر عدّتهم ابتغاء الآخرة وأجرها فيصيرون
+        <lb/>
+
+        بعد الأوجاع والأسقام الحائلة بينهم وبين الدنيا ولذّتها
+        <lb/>
+
+        ونعيمها وطعامها وشرابها وأزواجها وأولادها إلى أحسن ما
+        <lb/>
+
+        كانوا عليه من حال صحّتهم ولذّتهم إنّ هذا لجدير أن
+        <lb/>
+
+        يعظم أجره ويحسن ثوابه في الآخرة على عمله
+      </p>
+
+      <p n="The Soul Admits Defeat">
+        فلمّا سمعت النفس
+        <lb/>
+
+        ما ألقيت إليها من الخطاب وألممت بها من العتاب أضربت عمّا
+        <lb/>
+
+        خطر لها وانقادت طائعة للوعظ ولازمت ما كانت عليه من
+        <lb/>
+
+        الطبّ وفحصت عن أمر الدين
+      </p>
+
+      <p n="Religions Vary">
+        فلم أجد في كتب الطبّ للذين
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

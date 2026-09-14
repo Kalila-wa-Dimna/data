@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="11"/>
+
+      <p n="Burzoy Lavishes Gift On Friend">
+        في إلطاف الإخوان ومجالستهم على الطعام والشراب وطلب الثقات منهم بحاجته
+        <lb/>
+
+        والبلوغ إلى بغيته
+      </p>
+
+      <p n="Burzoy Opens Up To Friend">
+        فلم يطمئنّ إلى أحد ممّن واخاه ولم يسكن إلى أحد ممّن اصطفاه
+        <lb/>
+
+        إلّا إلى صديقه الهنديّ الذي ذكرناه
+      </p>
+
+      <p n="Process Of Vetting Friend">
+        قال فأمّا ما تكلّم به برزويه مع صديقه
+        <lb/>
+
+        الهنديّ وما ردّ عليه من وفور عقله حتّى وثق به واطمأنّ إليه بسرّه فهو أكثر ممّا يحصيه
+        <lb/>
+
+        أحد ويُكتب في كتاب
+      </p>
+
+      <p n="Burzoy Trusts Friend">
+        قال فلمّا وثق برزويه بصديقه الهنديّ واطمأنّ إليه
+      </p>
+
+      <p n="Burzoy Hints At Secret">
+        قال له
+        <lb/>
+
+        وهما خاليان يا أخي ما أراني أن أكتمك من أمري فوق ما كتمتك ولا أستر عنك فوق
+        <lb/>
+
+        ما سترت عنك إعلم أنّي جئت لأمر وهو غير ما ترى ممّا يظهر منّي
+      </p>
+
+      <p n="Signs Suffice For The Intelligent">
+        والعاقل يكتفي من
+        <lb/>
+
+        الرجل بالعلامات من نظره وإشارته فيعلم سرّ نفسه وما يضمر عليه قلبه
+      </p>
+
+      <p n="Friend Aware Of Burzoys Secret">
+        قال له
+        <lb/>
+
+        صديقه الهنديّ عند ذلك إنّي وإن لم تكن بدأتني بذلك فإجابتي بما له جئت وإيّاه تطلب
+        <lb/>
+
+        وإنّك تكتم أمرًا وأنت مظهر غيره فإنّه لم يخْف عنّي من ذلك ولا علمه
+      </p>
+
+      <p n="Friend Shuns Confrontation">
+        لكن لرغبتي في
+        <lb/>
+
+        إخائك كرهت أن أواجهك بذلك لأنّه قد ظهر لي ما تكتم وبان لي ما أنت له تخفي
+      </p>
+
+      <p n="Friend Infers Burzoys Secret">
+        فأمّا
+        <lb/>
+
+        إذ أفتحت الكلام فأنا مخبرك عن نفسك ومظهر لك سريرة أمرك وأعلمك عن سرّ
+        <lb/>
+
+        حاجتك التي قدمت لها ووصلت لأجلها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

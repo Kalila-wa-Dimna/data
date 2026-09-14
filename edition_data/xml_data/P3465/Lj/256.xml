@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="256"/>
+
+      <p n="Jackal Toiled for Lion">
+        تصل إليك ولكلّ عناء يكون لك فيه راحة
+      </p>
+
+      <p n="Jackal Hid no Secrets from Lion">
+        ولم يكن يطوي دونك
+        <lb/>
+
+        سرًّا
+      </p>
+
+      <p n="Courtier Exonerates Jackal">
+        فبينما أمّ الأسد تقصّ عليه هذه المقالة إذ دخل على الأسد بعض
+        <lb/>
+
+        ثقاته فأخبره ببراءة ابن آوى
+      </p>
+
+      <p n="Mother Reaffirms Intrigue">
+        فقالت أمّ الأسد بعد أن اطّلع الملك على براءة
+        <lb/>
+
+        ابن آوى
+      </p>
+
+      <p n="Lion Must not Tolerate Misdeeds">
+        فهو حقيق أن لا يرخّص لمن سعى به فيجترؤوا على ما هو أعظم من ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

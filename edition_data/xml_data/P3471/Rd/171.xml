@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="171"/>
+
+      <p n="unassigned">
+        والظبي بسم الله الرحمن الرحيم
+      </p>
+
+      <p n="Chapter Title">
+        باب البوم والغربان
+      </p>
+
+      <p n="Abstract">
+        وهو باب
+        <lb/>
+
+        المغترّ بالعدوّ والمبدي التضرّع والمَلَق يريد بهما المكر والخديعة
+        <lb/>
+
+        لعدوّه وما يصيبه من غرارة
+      </p>
+
+      <p n="The King Understood Previous Chapter">
+        قال الملك للفيلسوف قد فهمت
+        <lb/>
+
+        ما ذكرت من أمر الإخاء وعظم المنفعة
+      </p>
+
+      <p n="The King Asks If Foes Can Become a Friends">
+        فأخبرني عن العدوّ وهل
+        <lb/>
+
+        يصير صديقًا وهل يوثق بشيء منه
+      </p>
+
+      <p n="The King Asks about Fawning Foes">
+        وكيف تكون العداوة وما ضرّها
+        <lb/>
+
+        وكيف ينبغي للملك أن يصنع إذا أتاه أمر من أهل المنابذة له
+        <lb/>
+
+        يلتمس بالصلح وهو في نفسه غير آمن ولا موثوق به ولا حقيق
+        <lb/>
+
+        بالطمأنينة إليه
+      </p>
+
+      <p n="The Philosopher Answers, Foes Cannot be Trusted">
+        قال الفيلسوف ليس أحد حقيق إذا أتاه أمر
+        <lb/>
+
+        من عدوّه الذي يتخوّفه على نفسه وجنده وإن كان يلتمس الأمان
+        <lb/>
+
+        والصلح ويُظهر التودّد والسيادة لأصحابه أن يثق به ولا يطمئنّ إليه
+        <lb/>
+
+        ولا يغترّ إلى قوله
+      </p>
+
+      <p n="Foes May Take Advantage">
+        فإنّه قد يكون أشباه ذلك ممّن يطلب النزهة والفرصة
+      </p>
+
+      <p n="The Parable of the Owls and the Crows">
+        ومن استرسل إليه يصيبه ما أصاب البوم والغربان
+      </p>
+
+      <p n="The King Requests the Parable">
+        قال الملك
+        <lb/>
+
+        وكيف كان ذلك
+      </p>
+
+      <p n="The Crow Kingdom and the Owl Kingdom">
+        قال الفيلسوف زعموا أن أرضًا تسمّى كراكرا
+        <lb/>
+
+        وحولها جبل محيط بها وفي الجبل شجرة عظيمة شديدة الالتفات
+        <lb/>
+
+        يقال لها الشيروز وهي بالعربيّة العُنّاب وكان فيها وكر ألف غراب
+        <lb/>
+
+        وكان عليها ملك منها وكان في ذلك الجبل مكان فيه ألف من البوم ولهنّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Rd</chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

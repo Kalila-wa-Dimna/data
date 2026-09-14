@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="55"/>
+
+      <p n="unassigned">
+        الطبّ في ذلك محمودًا عند العقلاء
+      </p>
+
+      <p n="The Virtue of Practising Medicine">
+        ولم أجده مذمومًا عند أحد من
+        <lb/>
+
+        أهل الأديان والملك ووجدت في كُتُب الطبّ أنّ أفضل
+        <lb/>
+
+        الأطبّاء من واظب على طبّه لا يبتغي بذلك إلّا الآخرة فرأيت
+        <lb/>
+
+        أنّ من واظب على الطبّ ابتغاء الآخرة
+      </p>
+
+      <p n="Selling a Ruby for a Cheap Pearl">
+        كالتاجر الخاسر
+        <lb/>
+
+        الذي باع ياقوتة كان مصيبًا من ثمنها على الدهر بخرزة لا تساوي
+        <lb/>
+
+        شيئًا
+      </p>
+
+      <p n="The Profession of Medicine Benefits Both in This World and the Hereafter">
+        مع أنّي وجدت في كُتُب الأوّلين أنّ الطبيب الذي يبتغي
+        <lb/>
+
+        بطبّه أجر الآخرة لا ينقصه ذلك من حظّه في الدنيا
+      </p>
+
+      <p n="A Farmer Harvests Weeds Along with the Wheat">
+        فإنّ مثله
+        <lb/>
+
+        كمثل الزارع إنّما ينثر وينقّي أرضه ويعمّرها لابتغاء العشب
+      </p>
+
+      <p n="Burzoy Practices Medicine Without Pay or Envy of Colleagues">
+        فأقبلت على مداواة المرضى رجاء الآخرة فكم مريضًا أرجو له
+        <lb/>
+
+        البرء وكم مريض لا أرجو له إلّا أنّي لأطمع في خفّة الوجع والأذى
+        <lb/>
+
+        إلّا بالتعب في المداواة فمن أمكنني القيام عليه بنفسي أقمت عليه
+        <lb/>
+
+        ومن لم أقدر على القيام عليه وصفت له وأعطيته ما يتعالج به
+        <lb/>
+
+        من الدواء
+      </p>
+
+      <p n="Working Without Expecting Reward">
+        ولم أرد ممّن فعلت به ذلك جزاء ولم أغبط أحدًا من نظرائي
+        <lb/>
+
+        ممّن هو مثلي في العلم وفوقي في المال والجاه وغير ذلك ممّن
+        <lb/>
+
+        لا يعود إصلاح وحسن سيرة في الناس قولاً وعملاً
+      </p>
+
+      <p n="Addressing the Soul to Distinguish Its Benefits and Harms">
+        فلمّا تاقت
+        <lb/>
+
+        نفسي إلى ذلك ونازعتني إلى أن تغبطهم وتتمنّى مثل منازلهم
+        <lb/>
+
+        أبيت لها إلّا الخصومة فقلت يا نفس ألا تعرفين نفعك من ضررك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

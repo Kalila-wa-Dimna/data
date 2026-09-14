@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>KWD-Englisch</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="6"/>
+
+      <p n="unassigned">
+        CHAPTER 2
+        <lb/>
+
+        For falsehood indeed naturally tends to assume the form
+      </p>
+
+      <p n="The Philosopher Mentions Dimna's Trial Parable">
+        of
+        <lb/>
+
+        truth. But I do not spare myself because of my desire to
+      </p>
+
+      <p n="On Seeking One's Benefit by Others' Harm">
+        please the king." But one of the soldiers said to him in reply,
+        <lb/>
+
+        "You aren't saying this because you have a friendly attitude
+        <lb/>
+
+        toward the king, nor actually out of respect for him, but be-
+        <lb/>
+
+        cause you're defending yourself for the crimes you've com-
+        <lb/>
+
+        mitted.
+      </p>
+
+      <p n="The Philosopher Shows a Minor Animal to Sow Discord">
+        " Ichnelates said, "Don't you know, you fool, that
+        <lb/>
+
+        such an action would not be blameworthy What else is
+        <lb/>
+
+        more precious to a living creature than his own life For if
+        <lb/>
+
+        someone will not defend himself, he will hardly be protected
+        <lb/>
+
+        by anyone else. You've revealed the envy lurking within you,
+        <lb/>
+
+        and made it known to everyone that you're hostile and unre-
+        <lb/>
+
+        liable. so
+      </p>
+
+      <p n="unassigned">
+        you should give up loitering at the king's gate, for
+        <lb/>
+
+        someone like you isn't worthy to be anywhere near kings."
+      </p>
+
+      <p n="The King Requests the Parable">
+        When he had heard this, the soldier left, looking dejected.
+        <lb/>
+
+        The lion's mother said to Ichnelates "I am astonished at
+        <lb/>
+
+        your recklessness, Ichnelates, and how, after having dared to
+        <lb/>
+
+        do this, you're insulting us with such words." But Ichnelates
+        <lb/>
+
+        replied, "Why are you looking at me through one eye, my
+        <lb/>
+
+        lady Don't you know that the minds of good people are easily
+        <lb/>
+
+        swayed, according to poetry But I see that all according to
+        <lb/>
+
+        the prophet, have turned aside, together they have gone wrong
+        <lb/>
+
+        and
+      </p>
+
+      <p n="The Philosopher's Answer About the King's Killing">
+        there is no one who will welcome the truth, if the king,
+        <lb/>
+
+        out of an excess of goodness, neither terrifies nor punishes
+      </p>
+
+      <p n="Dimna Admits His Guilt">
+        anyone." And the lion's mother said, "Look how this most
+        <lb/>
+
+        wicked and impious creature, who has committed such of-
+        <lb/>
+
+        fenses and who is faced with serious charges, is trying to
+        <lb/>
+
+        twist the truth and deceive everyone with lies, or rather
+        <lb/>
+
+        with fallacious arguments." But Ichnelates said, Someone
+      </p>
+
+      <p n="unassigned">
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

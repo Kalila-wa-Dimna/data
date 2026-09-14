@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>C66947</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="170"/>
+
+      <p n="Schemers Suggest Searching Jackal's House">
+        فيكما فكلّ ما كان يُذكر لنا من عيوبه حقًّا وكلّ ما ذُكر عنه من عيب هو
+      </p>
+
+      <p n="Schemers Claim that Suspicions Are Confirmed">
+        صحيح قال آخر أخبرني
+        <lb/>
+
+        مخبّرًا عن ابن آوى بأمر عظيم فما وقع ذلك في نفسي حتّى سمعت كلامكم وقال
+        <lb/>
+
+        آخر قد قلت لكم مرارًا إنّ هذا المخادع لم يسلم من الحيلة ولا من الذنوب
+      </p>
+
+      <p n="Schemers Urge Quick Investigation">
+        وقال
+        <lb/>
+
+        آخر لو أرسل الملك إلى بيت ابن آوى ففتّشه لوجد اللحم فيه
+      </p>
+
+      <p n="Schemers Incite Lion's Suspicion">
+        وقال
+        <lb/>
+
+        آخر تتكلّموا بهذا الكلام لحتّى توقعوا في نفس الأسد الاتّهام لابن آوى
+        <lb/>
+
+        قال ولم يزالوا كذلك
+      </p>
+
+      <p n="Lion Asks Jackal about Meat">
+        حتّى حضر ابن آوى وما عنده بذلك من
+        <lb/>
+
+        علم فدعا به الأسد وقال له ما صنعت باللحم الذي أوصيتك به
+        <lb/>
+
+        ووكّدت عليك بسببه فقال ابن آوى دفعته إلى فلان صاحب الطعام
+      </p>
+
+      <p n="Lion Asks Steward about Meat">
+        وكان ممّن ساعدهم عليه فدعاه الأسد وسأله عن اللحم فقال ما أعطاني شيئًا
+      </p>
+
+      <p n="Meat Is Found in Jackal's House">
+        قال فأمر الأسد أن يمضوا لمنزل ابن آوى يفتّشوه ففتّشوه فوجدوا
+        <lb/>
+
+        اللحم في بيته فأتوا به إلى الأسد
+      </p>
+
+      <p n="Wolf Steps In">
+        فعند ذلك دنا الذئب من الأسد وما كان
+        <lb/>
+
+        تكلّم في شيء من ذلك لأنّه كان عدلًا ورضًى
+      </p>
+
+      <p n="Lion Must Punish Jackal">
+        فقال له قد اطّلع الملك أبقاه الله على
+        <lb/>
+
+        خيانة ابن آوى والخائن لا يُعفى عنه إن لم يفعل الملك في أمره شيء لم يقدّره
+        <lb/>
+
+        بعد ذلك أحد ولا يُعفى عن الخائن ولا ذنب المذنب
+      </p>
+
+      <p n="Lion Has Jackal Arrested">
+        فأمر الأسد عند
+        <lb/>
+
+        ذلك أن يُخرج ابن آوى من عنده وأن يُحتفظ به
+      </p>
+
+      <p n="Courtiers Are Amazed at Lion's Unawareness">
+        فقال بعض جلسائه إنّي
+        <lb/>
+
+        لا أعجب من رأي الملك في معرفته بالأمور كيف يخفى عليه حال ابن آوى هذا
+        <lb/>
+
+        الفاجر وخيانته وغدره ومخادعته
+      </p>
+
+      <p n="False Message and Death Sentence">
+        قال أرسل بعضهم إلى ابن آوى وسأله
+        <lb/>
+
+        كيف حاله وأمره فرجع إليه برسالة كذب فيها الرسول وغيره بخلاف ما قال
+        <lb/>
+
+        ابن آوى قال فغضب الأسد عند ذلك وأمر بقتله
+      </p>
+
+      <p n="Lion's Mother Delays Execution">
+        فلمّا سمعت أمّ الأسد
+        <lb/>
+
+        ذلك أرسلت إلى الذين أمرهم بقتله وأمرتهم بإبقائه
+      </p>
+
+      <p n="Mother Questions Lion">
+        ثمّ دخلت على الأسد
+        <lb/>
+
+        فقالت له يا ولدي بأيّ ذنب أمرت بقتل ابن آوى فقصّ عليها خبره فصلًا
+        <lb/>
+
+        فصلًا فقالت له لا تعجّل يا ولدي
+      </p>
+
+      <p n="The Intelligent Deliberates">
+        ذلك أنّ العاقل إنّما سُمّي عاقلًا إذا أخذ
+        <lb/>
+
+        الأمور بالصبر والحزم
+      </p>
+
+      <p n="Haste Causes Regret">
+        وإن عجل اجتنى ثمر الندامة أبدًا
+      </p>
+
+      <p n="Kings Need Deliberateness Most">
+        والملوك محتاجون إلى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

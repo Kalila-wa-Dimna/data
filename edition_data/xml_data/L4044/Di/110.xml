@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="110"/>
+
+      <p n="Dimna Asks for Unimpeachable Investigator">
+        إن كان في شكّ من أمري أن يأمر بالنظر فيه ويؤتي ذلك أمينًا مسلمًا لا
+        <lb/>
+
+        تأخذه في الحقّ لومة لائم ليس بصاحب هوادة ولا حيف
+      </p>
+
+      <p n="Dimna's Station Exposes Him to Jealousy">
+        فقد كانت لي منزلة
+        <lb/>
+
+        أُنافَس عليها ويُؤمر إليه أن يُكشف ويُرفع إليه في كلّ يوم ما يصحّ له من أمري
+        <lb/>
+
+        وما أدلي به من حجّتي فليرى الملك في ذلك رأيه ويقيس بعض أمري
+        <lb/>
+
+        ببعض ولا يعجّل في أمري بتشبيه أهل البغي والعداوة
+      </p>
+
+      <p n="Dimna Claims only Investigation Can Save Him">
+        فإنّه إن لم يفعل ذلك
+        <lb/>
+
+        واستحلّ منّي ما لا يحلّ فإنّه لا وزير لي ولا ملجأ إلّا الذي يعلم سرائر عباده وخفيّات
+        <lb/>
+
+        ضمائرهم
+      </p>
+
+      <p n="Doubt and Certainty Must Not Be Confused">
+        وقد قالت العلماء إنّه من صدّق بما ينبغي أن يشكّ فيه وكذّب بما
+        <lb/>
+
+        ينبغي أن يصدّق به
+      </p>
+
+      <p n="Dimna's First Subtale of the Woman Who Mistook Her Servant for Her Lover">
+        أصابه ما أصاب المرأة التي بذلت نفسها لعبدها حتّى
+        <lb/>
+
+        فضحها للاشتباه عليها
+      </p>
+
+      <p n="Lion's Question for Woman's Tale">
+        قال الأسد وكيف كان ذلك
+      </p>
+
+      <p n="A Merchant's Wife Had a Lover">
+        قال دمنة
+        <lb/>
+
+        زعموا أنّه كان بمدينة كذا تاجر وكان له امرأة لها حظّ وجمال وكان
+        <lb/>
+
+        إلى جنب بيتها مصوّر ماهر وكان لامرأة التاجر إلفًا
+      </p>
+
+      <p n="Woman Asks Lover to Create a Sign">
+        فقالت له إن استطعت
+        <lb/>
+
+        أن تحتال بصناعة أطّلع بها على مجيئك إذا جئتني بالليل من غير نداء ولا
+        <lb/>
+
+        رمي ولا شيء يُرتاب به كان ذلك أرفق بي وبك
+      </p>
+
+      <p n="Painter Suggests Black-and-White Coat to Woman">
+        قال المصوّر عندي من الحيل
+        <lb/>
+
+        في ذلك الذي يسرّك عندي ملاءة مصوّرة بتهاويل الصور وشبهًا بالبياض
+        <lb/>
+
+        يقق وشبهًا بالسواد حالك تتألّق ائتلاقًا فبياضها يدعوك في الليلة الظلماء
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

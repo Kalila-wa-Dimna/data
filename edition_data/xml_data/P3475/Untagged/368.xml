@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="368"/>
+
+      <p n="unassigned">
+        فإنّه يجزيه ويقضي عنه حاجته مع وخامته وقلّة موافقته
+        <lb/>
+
+        الجسد فقال الناسك إنّه ليُعدّ سعيدًا من احتاج إلى ما لا يجد
+        <lb/>
+
+        وليس بمقدور عليه فتنزّه لذلك ويقلّ عنه صبره ويصل
+        <lb/>
+
+        إليه من ثقل ذلك واغتمامه ما يُضَرّ ويُدخل المشقّة عليه
+        <lb/>
+
+        وأنّك أنت العظيم الجدّ الجزيل الحظّ حين قنعت بما رُزقت
+        <lb/>
+
+        وزهدت فيما لا تظفر به ولا تدرك طلبتك منه وكان الناسك
+        <lb/>
+
+        يتكلّم بالعبرانيّة فاستحسن الضيف كلامه وأعجبه قال
+        <lb/>
+
+        الضيف وُفّقت ورشدت فلقد سمعت منك كلامًا غريبًا
+        <lb/>
+
+        أعجبني وأنّي قد استحسنته فلو علّمتنيه فإنّ لي فيه رغبة
+        <lb/>
+
+        وعليه حرصًا فقال الناسك ما أخلقك أن تقع فيما تركت
+        <lb/>
+
+        من كلامك وتكلّفت من كلام العبرانيّة مثل ما أصاب الغراب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>JBE-Hebrew</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="1"/>
+
+      <p n="unassigned">
+        תחלת
+        <lb/>
+
+        ספר כלילה ודמנה
+        <lb/>
+
+        נעתק מלשון ערב לשפת עבר
+        <lb/>
+
+        על ידי
+        <lb/>
+
+        ר׳ יעקב בן אלעזר
+        <lb/>
+
+        LE COMMENCEMENT
+        <lb/>
+
+        DU
+        <lb/>
+
+        LIVRE DE KELÎLÂH ET DIMNÂH
+        <lb/>
+
+        TRADUIT DE L ' ARABE EN HÉBREU
+        <lb/>
+
+        PAR
+        <lb/>
+
+        R . JACOB BEN ELAZAR
+        <lb/>
+
+        <!-- empty line -->
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

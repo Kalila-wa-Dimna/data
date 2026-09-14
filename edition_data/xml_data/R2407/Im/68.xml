@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R2407</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="68"/>
+
+      <p n="One Should Not Abandon Hard Work">
+        وليس ينبغي للعاقل أن يركن إلى مثل هذا ويدع ما يجب
+        <lb/>
+
+        عليه من الجدّ في العمل والاجتهاد في الاكتساب
+      </p>
+
+      <p n="One Should Strive for Benefit Not Harm">
+        وينبغي
+        <lb/>
+
+        أن يكون حرصه على ما طلب مكسبه وحسن نفعه
+      </p>
+
+      <p n="Dove Does Not Learn from Losing Her Chicks">
+        فيكون كالحمامة التي تحسد الفراخ على الذبح ولا يمنعها
+        <lb/>
+
+        ذلك أن تعود تفرّخ في موضعها وتقيم بمكانها وتُؤخذ
+        <lb/>
+
+        الفراخ الثانية فتُذبح
+      </p>
+
+      <p n="Striving for the Here and the Hereafter">
+        وقد قيل من كان سعيه لأخرته
+        <lb/>
+
+        ودنياه فحياته له وعليه
+      </p>
+
+      <p n="Striving for the Here">
+        ومن كان سعيه لدنياه
+        <lb/>
+
+        خاصّة فحياته عليه لا له
+      </p>
+
+      <p n="A Worldly Man Must Fix Three Things">
+        وقيل ثلاثة أشياء يجب
+        <lb/>
+
+        على صاحب الدنيا إصلاحها الابتذال لنفسه فيها
+        <lb/>
+
+        من أمر معيشته ومنها ما بينه وبين الناس ومنها
+        <lb/>
+
+        التماس ما يكسبه الذكر الجميل بعده
+      </p>
+
+      <p n="Three Things in a Man Engender Inefficiency">
+        وقيل في أمور
+        <lb/>
+
+        من كنّ فيه لم يستقم له عمل منها التواني ومنها تضييع
+        <lb/>
+
+        الفكر ومنها تصديق كلّ مخبر
+      </p>
+
+      <p n="Many Are Credulous">
+        وربّ رجل يخبر بشيء
+        <lb/>
+
+        لا يقبله عقله فيصدّق به
+      </p>
+
+      <p n="One Needs to Keep Desire in Check">
+        وينبغي للعاقل أن يعرف
+        <lb/>
+
+        ذلك ويكون متيقّظًا
+      </p>
+
+      <p n="One Needs to Check the Veracity of Information">
+        ولا يغترّ بقول كلّ أحد ولا
+        <lb/>
+
+        يتهاون في الأمر إذا التبس عليه ولا ينهزم حتّى يتبيّن
+        <lb/>
+
+        الصواب ويستوضح الحقيقة
+      </p>
+
+      <p n="One Should Not Continue on the Wrong Path">
+        ويكون كالرجل الذي يقف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

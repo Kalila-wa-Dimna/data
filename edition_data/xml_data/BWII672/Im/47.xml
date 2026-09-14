@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="47"/>
+
+      <p n="Reader Must Decode Parables">
+        جرى فيه مؤلّفه عندما نسبه إلى البهائم وأضافه إلى غير مستمع
+        <lb/>
+
+        من الأفعال التي جعلها الله أمثالًا فإنّ قارئه إن تدبّر
+        <lb/>
+
+        عرف معانيه وإلّم يعيها يكون ما حصل النتيجة وأي نتيجة تحصل
+        <lb/>
+
+        للمرء من غير تفحّص
+      </p>
+
+      <p n="Reader Must Read Well and Reflect">
+        وإنّه إن قرأها ولم يتمعّنها أخذها
+        <lb/>
+
+        على أيّ وجه أراده كلّ كلمة وكلّ كتاب كذلك
+      </p>
+
+      <p n="Careful Reader Reaps the Most">
+        ولله درّ القائل حيث قال
+        <lb/>
+
+        وكم من عائب قولًا صحيحًا وآفته من الفهم السقيميّ وأمّا من
+        <lb/>
+
+        كان فيلسوف ماهر إذا قرأ كلّ كتاب كان تدبّره وأخذ نتيجته
+        <lb/>
+
+        وأخرج معانيه كما استملكها بعقله أو شرح الكتاب الذي
+        <lb/>
+
+        وعاه أو أفاد سامعه الغافل عن معانيه
+      </p>
+
+      <p n="Hasty Reader Benefits Nothing">
+        وإلّم يفعل ذلك لم
+        <lb/>
+
+        لم يفد منه شيئًا يعود إليه نفعه
+      </p>
+
+      <p n="Indiscriminate Reader Benefits Nothing">
+        لأن من قرأ العلوم النفيسة
+        <lb/>
+
+        من غير تفحّص عن معاني العلم الذي هو فيه فهو بهيم
+      </p>
+
+      <p n="Treasure Discovered">
+        ولا يصيب
+        <lb/>
+
+        منها إلّا ما أصاب الرجل زعموا أنّ رجل اجتاز في بعض المفائز
+        <lb/>
+
+        فظهر له آثار كنز فلم يزل يعالجه إلى أن ظهر له كنز عظيم له وقع
+      </p>
+
+      <p n="Discoverer Hires Help">
+        فقال في نفسه إن أنا أخذت في نقل هذا الكنز قليلًا قليلًا
+        <lb/>
+
+        طال عليّ المدى وقطعني الزمان عن لذّتي ولكن أنا أستأجر
+        <lb/>
+
+        قومًا ينقلوه لي إلى منزلي وأفضّي فكري بآن يسير
+      </p>
+
+      <p n="Helpers Take Treasure">
+        ففعل
+        <lb/>
+
+        ذلك وجاب الحمّالين وأشرطهم شيء معلوم فجعلوا كلّ واحد
+        <lb/>
+
+        منهم يحمل من ذلك المال ما يطيق حمله وينطلق به إلى منزله
+        <lb/>
+
+        ويختصّ به دونه حتّى لم يبقى في الكنز شيء فبعد ذلك
+        <lb/>
+
+        تبعهم
+      </p>
+
+      <p n="Discoverer Loses Treasure">
+        فلم يجد في منزله شيئًا لا كثيرًا ولا قليلًا ووجد
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

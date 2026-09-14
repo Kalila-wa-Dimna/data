@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="24"/>
+
+      <p n="Working Without Expecting Reward">
+        مكافأة ولم أغبط نظرائي ومن هو مثلي في العلم وفوقي في المال إلّا بصلاح
+        <lb/>
+
+        وحسن سيرة في الناس قولًا وعدلًا وعملًا
+      </p>
+
+      <p n="Addressing the Soul to Distinguish Its Benefits and Harms">
+        وكنت أقرّع نفسي إذا هي نازعتني
+        <lb/>
+
+        أن أغبط أولئك وأقول يا نفس ألا تعرفين نفعك من ضرّك ألا تنتهين
+        <lb/>
+
+        عن الرغبة فيما لم ينله أحد إلّا قلّ متاعه وكثر عناؤه فيه واشتدّت
+        <lb/>
+
+        بليّته عند فراقه إيّاه وعظمت المشقّة عليه فيه
+      </p>
+
+      <p n="Addressing the Soul to Be Ashamed of Its Greed for the Transient">
+        يا نفس أما تذكرين
+        <lb/>
+
+        ما أمامك فينسيك ما تشرهين إليه ممّا بين يديك أما تستحين من مشاركة
+        <lb/>
+
+        الفجرة الجهّال في حبّ هذه الفانية البائدة التي من في يده منها شيء فليس له
+        <lb/>
+
+        ثقة به ولا يألفها إلّا المغترّون
+      </p>
+
+      <p n="Addressing the Soul to Abandon Its Folly">
+        انصرفي يا نفس عن هذه السفاهة وما أنت عليه
+        <lb/>
+
+        من خطئك وخطل الرأي وأقبلي بقوّتك ووسعك في تقديم الخير وإيّاك
+        <lb/>
+
+        والتسويف والتواني
+      </p>
+
+      <p n="The Body Consists of Harmful Elements">
+        واعلمي أنّ لهذا الجسد آفات وأنّه مملوء أخلاطًا
+        <lb/>
+
+        فاسدة يجمعها أربعة أشياء متعادية عمادهنّ الحياة والحياة في نفاد
+      </p>
+
+      <p n="The Idol That Falls Apart">
+        كالصنم
+        <lb/>
+
+        المفصّل أعضاؤه إذا رُكّبت جميعها بمسمار واحد استمسك بعضها
+        <lb/>
+
+        إلى بعض فإذا نُزع ذلك المسمار تساقطت الأوصال
+      </p>
+
+      <p n="Addressing the Soul: The Friend Passes Away">
+        يا نفس لا تغترّين
+        <lb/>
+
+        بصحبة أحبّائك وأخلّائك ولا تحرصي على ذلك فإنّ الصحبة على ما فيها من السرور
+        <lb/>
+
+        والبهجة كثيرة الأذاء والمؤنات والأحزان ثمّ يُختم ذلك بقطع الفراق
+      </p>
+
+      <p n="A Ladle Eventually Breaks">
+        ومثل
+        <lb/>
+
+        ذلك مثل المغرفة التي تُستعمل في المرق السخن فإذا هي بليت وانكسرت صار
+        <lb/>
+
+        عاقبة أمرها أن تُحرق بالنار
+      </p>
+
+      <p n="Addressing the Soul: The Family Passes Away">
+        يا نفس لا تحملنّك صلة أحبابك
+        <lb/>
+
+        وأقاربك والتماس رضاهم على جمع ما تهلكين فيه
+      </p>
+
+      <p n="Incense Burns">
+        فتكونين كالدخنة
+        <lb/>
+
+        الطيّبة التي تحترق فيطيب بطيبها غيرها
+      </p>
+
+      <p n="Addressing the Soul: Wealth Passes Away">
+        يا نفس لا تغترّي بالغنى والمنزلة
+        <lb/>
+
+        ولا تطمئنّي إليهما فإنّهما إلى انقلاب وانتقال
+      </p>
+
+      <p n="Addressing the Soul: Healing One Man Is Reward in Itself">
+        ودومي على مداواة المرضى ولا
+        <lb/>
+
+        ينهاك عن ربّك أن تقولي وجدت للطبّ مؤنة شديدة والناس بمنافع
+        <lb/>
+
+        الطبّ جهّال ولكن اعتبري بمن يفرّج عن رجل كربة يستنقذه منها
+        <lb/>
+
+        ويصيّره الله على يديه إلى الراحة والنعمة فإنّه أهل لعظيم الأجر وحسن الجزاء
+        <lb/>
+
+        فكيف
+      </p>
+
+      <p n="Addressing the Soul: Healing Many People Brings Divine Reward">
+        من يفعل ذلك بالعدّة التي الله أعلم بها فيعودون بعد الأسقام
+        <lb/>
+
+        الممنعة والأوجاع الحائلة بينهم وبين لذّات أهل الدنيا ونعيمها وطعامها
+        <lb/>
+
+        وشرابها وأزواجها وأولادها إلى أحسن ما كانوا ليكونوا عليه من حالاتهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Bu</chapter>
+  </chapter>
+</TEI>

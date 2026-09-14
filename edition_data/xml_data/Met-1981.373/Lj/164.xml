@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="164"/>
+
+      <p n="Jackal Has Been Tested">
+        ممّن جرّبته واختبرت دينه وعقله
+      </p>
+
+      <p n="Lion Apologizes to Jackal">
+        فلمّا سمع الأسد كلام أمّه دعا ابن
+        <lb/>
+
+        آوى فاعتذر إليه ممّا كان صنع به ووعده خيرًا
+      </p>
+
+      <p n="Lion Wants to Reinstate Jackal">
+        وقال إنّي معيدك إلى
+        <lb/>
+
+        ما كنت فيه ومولّيك ما أنت أهله وجاعلك عندي بأفضل المنازل
+        <lb/>
+
+        فقد اتّضح الأمر فيك وذهب الشكّ عنك
+      </p>
+
+      <p n="Untrue Friends Seek Only Their Own Benefit">
+        فقال ابن آوى إنّ شرّ
+        <lb/>
+
+        الأخلّاء من التمس منفعة نفسه بضرّ أخيه وكان غير ناظرٍ له كنظره إلى نفسه
+      </p>
+
+      <p n="Whom One Must Trust">
+        وإنّما ينبغي للعاقل أن يودّ من تؤمن سريرته ويكتفى بمحضره عن مغيبه
+      </p>
+
+      <p n="Jackal Is Reluctant to Trust Lion Again">
+        وقد كان من الملك إليّ ما قد علم فلا يجدنّ في نفسه إن أخبرته أنّي غير
+        <lb/>
+
+        واثقٍ به
+      </p>
+
+      <p n="King Must not Trust the Wrongfully Punished">
+        ولا ينبغي للملوك أن يثقوا بمن عاقبوه من غير جرمٍ أتاه ولا سخطٍ استوجبه
+      </p>
+
+      <p n="King Must not Trust Someone Denied Honor">
+        ولا بمن كان مستحقًّا للكرامة واللطف فلم يُلطف به ولم يُكرم
+      </p>
+
+      <p n="King Must not Trust Someone Denied Justice">
+        ولا بمن ظلم واستبانت
+        <lb/>
+
+        مظلِمته فلم تُدفع عنه
+      </p>
+
+      <p n="Kind Must not Trust the Adversarial">
+        ولا بمن له في منفعة السلطان مضرّةٌ أو في مضرّته منفعة
+      </p>
+
+      <p n="King Must not Trust the Greedy and Unsatisfied">
+        ولا بالشرِه الحريص
+      </p>
+
+      <p n="King Must not Trust Someone Denied Pardon">
+        ولا بمن أجرم صغيرًا يحقّ على السلطان الصفح عنه فلم يفعلْ
+      </p>
+
+      <p n="King Must Consider the Untrustworthy as Foes">
+        فلا يظنّ بكلّ واحدٍ من هؤلاء أن يرجع إلى ما كان عليه من النصيحة بعد
+        <lb/>
+
+        أن فُعل به ما فُعل
+      </p>
+
+      <p n="Jackal Was Accused despite His Loyalty">
+        وإنّني أعتقد اليوم في نفسي أنّي عدوّ للملك وإن
+        <lb/>
+
+        كنت باقٍ على نصيحتي ومودّتي إيّاه فإنّه لم يطّلع على ما في نفسي
+      </p>
+
+      <p n="Jackal Fears Accusation of Holding Grudge">
+        فهو خليق بأن
+        <lb/>
+
+        يقع في نفسه التهمة لي ويقول لعلّ ابن آوى قد انطوى على الحقد لي لما
+        <lb/>
+
+        فعلته به فربّما نصب
+      </p>
+
+      <p n="Jackal Expects Follow Up Schemes">
+        لي الحبائل ومالأ عليّ الأعداء وأمّا أنا فلست بآمن
+        <lb/>
+
+        أيضًا أن يعود حسّادي لما قد سلف منهم من الكذب عليّ فإنّهم قد ازدادوا
+        <lb/>
+
+        عليّ حنقًا
+      </p>
+
+      <p n="Jackal Renounces Lion's Service">
+        فلْيَعْفُني الملك عن المراجعة وليزهد فيّ فإنّي زاهدٌ في عمله لما
+        <lb/>
+
+        قد لحقني منه
+      </p>
+
+      <p n="Lion Says He Tested Jackal">
+        فقال الأسد لقد جرّبناك
+      </p>
+
+      <p n="Lion Confirms Jackal's Status">
+        ونحن منزّلوك منزلة الأخيار
+        <lb/>
+
+        الصالحين
+      </p>
+
+      <p n="The Noble Forgives Misdeeds for One Good Deed">
+        والصالح يغفر ألف سيّئة في جنب حسنة واحدة
+      </p>
+
+      <p n="Lion Repents and Reconciles Jackal">
+        وسيظهر لك ما
+        <lb/>
+
+        أولّيك من نفسي بما أرجو أن تنسى ما كان منّي إليك وتغتفره فيلقى كلّ واحد
+        <lb/>
+
+        منّا صاحبه على أثبت مودّة وأوثق نصيحة
+      </p>
+
+      <p n="Jackal Insists on Refusal">
+        فقال ابن آوى أحبّ الأمرين إليّ
+        <lb/>
+
+        الإعفاء والتجافي عن تصييرك إيّاي في عملك
+      </p>
+
+      <p n="Lion Reinstates Jackal">
+        فقال الأسد لن ترى ما بقيت
+        <lb/>
+
+        شيئًا تكرهه فعاد ابن آوى إلى عمله وحسن رأي الملك فيه وزاد في إكرامه
+      </p>
+
+      <p n="Lion Is Pleased with Jackal">
+        ولم يقبلْ فيه بعدها قول حاسد ولم تزدْه الأيّام به إلّا عجبًا وضنًّا به
+      </p>
+
+      <p n="Gist Mistreated Is Reinstated">
+        فهذا مثل
+        <lb/>
+
+        الملوك ومن يراجعونه بعد العقوبة والجفوة لسعي بعض الحسدة والله أعلم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

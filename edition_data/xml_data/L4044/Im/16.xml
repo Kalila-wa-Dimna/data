@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="16"/>
+
+      <p n="Man Notices Burglar but Feigns Sleep">
+        علم ولم يستعمل ولم ينتفع به كالرجل الذي مثله مثل حديث الرجل والسارق
+        <lb/>
+
+        زعموا أن رجلًا دخل بيته سارق ليلًا وهو في منزله فاستيقظ صاحب المنزل
+        <lb/>
+
+        وقال لأسكتن حتّى أنظر ما يصنع ولأدعنّه حتّى إذا فرغ ممّا يأخذ قمت إليه
+        <lb/>
+
+        فنغّصته وكدّرته عليه فسكت وهو على فراشه
+      </p>
+
+      <p n="Burglar Steals and Gets Away">
+        وجعل السارق يطوف بالبيت
+        <lb/>
+
+        ويتردّد حتى غلب على الرجل النوم فنام ووافق ذلك فراغ السارق
+        <lb/>
+
+        ممّا أراد من جمع متاع البيت فانطلق
+      </p>
+
+      <p n="Man Discovers Mishap and Laments">
+        واستيقظ الرجل بعد ذهاب السارق
+        <lb/>
+
+        فلم ير في بيته شيئا فأقبل يلوم نفسه ويعاتبها وض وعلم أن علمه لم ينفعه شيئًا إذ لم
+        <lb/>
+
+        يستعمله
+      </p>
+
+      <p n="Knowledge Is Complete with Proper Implementation">
+        فالعلم لا يتم لامرئ إلّا بالعمل
+      </p>
+
+      <p n="Knowledge Is a Tree and Action Is the Fruit">
+        والعلم هو الشجرة والعمل هو الثمرة
+      </p>
+
+      <p n="Scholar Must Act">
+        وإنمّا يطلب الرجل العلم لينتفع به وإذا لم ينتفع به فليس له أن يطلبه
+      </p>
+
+      <p n="Man Hears about Traveller">
+        كمثل
+        <lb/>
+
+        رجل لو قيل له
+      </p>
+
+      <p n="Informed Traveller Takes Risky Road">
+        أن رجلًا كان عارفًا بطريق مخوف ثم ركبه فأصابه
+        <lb/>
+
+        فيه مكروه لتعجّب من جهله ولعلّ غيره أن يركب من الأمور ما يعرف منه
+        <lb/>
+
+        القبح والدناءة وسوء العاقبة فهو بذلك منه أشدّ استيقانًا من ذلك الرجل
+        <lb/>
+
+        الذي ركب جهله
+      </p>
+
+      <p n="Desire Impedes Judgement">
+        وحمله على ذلك هواه
+      </p>
+
+      <p n="Informed Patient Eats Bad Food">
+        وكالمريض العالم الذي يعرف
+        <lb/>
+
+        ثقيل الطعام وخفيفه ثم تحمله الشهوة والشره على أكل الثقيل منه
+      </p>
+
+      <p n="Those in the Know Have No Excuse">
+        فأقلّ
+        <lb/>
+
+        الناس عذرًا في ارتكاب قبيح من قد عرف قبحه وأقلّهم عذرًا في ترك الأعمال
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

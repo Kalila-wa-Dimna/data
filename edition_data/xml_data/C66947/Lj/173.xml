@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>C66947</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="173"/>
+
+      <p n="The Irascible Should Be Given Up">
+        الشره النفس الشديد الحرص التابع لشهوته وأهويته
+      </p>
+
+      <p n="The Irreconcilable Should Be Given Up">
+        المتمادي في غيّه ومكره
+        <lb/>
+
+        المعروف بالخديعة والخلابة
+      </p>
+
+      <p n="The Hedonistic Should Be Given Up">
+        ومنهم صاحب لذّة وشهوة ولعب وشرب
+        <lb/>
+
+        والمباعدة من أولئك أفضل في العاجل والآجل
+      </p>
+
+      <p n="unassigned">
+        ومنهم
+      </p>
+
+      <p n="The Faithful Should Be Kept">
+        أهل دين وعقل وصبر وشكر
+        <lb/>
+
+        ووفاء عهد وحسن خلق ولين
+        <lb/>
+
+        عريكة لا يبطرهم غنًى ولا يحوّلهم
+        <lb/>
+
+        فقر استقامت طريقتهم
+        <lb/>
+
+        وقلّ حقدهم وعرفوا حقّ الله
+        <lb/>
+
+        تعالى عليهم فاجتنبوا كلّ ما فيه
+        <lb/>
+
+        إثم
+      </p>
+
+      <p n="Keeping the Virtuous Is Beneficial">
+        فأولئك إخاؤهم رشيد
+        <lb/>
+
+        ومخالطتهم منهم تقتبس الخير وتلتمس ما عندهم
+      </p>
+
+      <p n="Jackal Has Been Tested">
+        وإنّ ابن آوى من أولئك وقد
+        <lb/>
+
+        جرّبت ذلك مرارًا واختبرته في ذلك زمانًا
+      </p>
+
+      <p n="Lion Apologizes to Jackal">
+        فلمّا سمع الأسد من كلام
+        <lb/>
+
+        أمّه ذلك أدعى الأسد بابن آوى فدخل عليه وسلّم فأحسن
+      </p>
+
+      <p n="Jackal Laments Mistreatment">
+        وقال أيّها الملك
+        <lb/>
+
+        أنت تعلم ما أنا لك من المحبّة والنصيحة وقد عملوا معي ما الله يكافئهم بذلك
+        <lb/>
+
+        وقد علم الله أنّني بريء ممّا رموني به
+      </p>
+
+      <p n="Lion Wants to Reinstate Jackal">
+        قال له الملك طب نفسًا وقرّ عينًا فإنّي
+        <lb/>
+
+        معيدك على ما أنت عليه ومعطيك ما أنت أهله وجاعلك في أعلى المراتب
+      </p>
+
+      <p n="Untrue Friends Seek Only Their Own Benefit">
+        قال ابن آوى وإنّ الأخلّاء من التمس نفع نفسه بضرّ صاحبه وكان
+        <lb/>
+
+        غير ناظر إليه وإلى مصالحه كنظره لنفسه وإن كان يريد أن يرضيه بخلاف
+        <lb/>
+
+        الحقّ واتّباع هواه فأولئك من الإخوان مردودون
+      </p>
+
+      <p n="Whom One Must Trust">
+        وإنّما ينبغي للمرء
+        <lb/>
+
+        أن يودّ من ائتمن سريرته وتُحمد عاقبته وعلانيته ويُكتفى برأيه ويُثنى عليه
+        <lb/>
+
+        عند إخوانه في غيبته أولئك الذين تكون الثقة بهم والطمأنينة إليهم
+      </p>
+
+      <p n="Jackal Is Reluctant to Trust Lion Again">
+        وقد
+        <lb/>
+
+        كان من أمر الملك ما كان فلا يحدّث الملك نفسه بما قد كان
+      </p>
+
+      <p n="King Must not Trust the Wrongfully Punished">
+        ولا يطمئنّ إلى من
+        <lb/>
+
+        عاقبته أشدّ العقوبة
+      </p>
+
+      <p n="King Must not Trust the Deposed">
+        من نزعه عن عمله
+      </p>
+
+      <p n="King Must not Trust the Extorted">
+        أو ممّن أخذ ماله من غير ذنب
+      </p>
+
+      <p n="King Must not Trust Someone Denied Honor">
+        إذ كان
+        <lb/>
+
+        للكرامات أهلًا وكان ممّن يوثَق به في الأمور أي يُحتاج فيها إلى مثله فلم يُعرف
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

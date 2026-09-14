@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="47"/>
+
+      <p n="Dimna Seizing the Opportunity to Impress">
+        فلمّا علم دمنة أنّ الأسد قد أعجب به ووافقه كلامه قال دمنة إنّ
+        <lb/>
+
+        رغبة العقلاء عند أبواب الملوك حذراء أن يفرّقوا ما عندهم من المروءة
+        <lb/>
+
+        والعلم وبذل النصيحة والمودّة وأن لا يضعوهم في منازلهم التي لهم
+        <lb/>
+
+        ويستحقّونها
+      </p>
+
+      <p n="Analogy of Hidden Crop's True Value">
+        كالزرع المدفون فإنّه لا يعرف فضله إلّا من شهده بعد
+        <lb/>
+
+        الظهور
+      </p>
+
+      <p n="Ruler's Responsibility to Recognize Merit">
+        فيتعيّن على الملك أن يرفع من قدر ذي الرأي بقدر رأيه وما
+        <lb/>
+
+        يجد من منفعته
+      </p>
+
+      <p n="Leaders Must Place Things Properly">
+        وقد قيل لا ينبغي لأحد وإن كان ملكًا أن
+        <lb/>
+
+        يضع شيئًا غير موضعه ولا يضيّع مكانة الرجال والحيلة
+      </p>
+
+      <p n="Analogy of Misplaced Ornaments">
+        فإنّه يُعدّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

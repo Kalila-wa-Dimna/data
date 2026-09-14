@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P2789</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="338"/>
+
+      <p n="Man Notices Burglar but Feigns Sleep">
+        مراده قمت إليه فنغّصت عليه ثمّ إنّه أمسك عنه
+      </p>
+
+      <p n="Burglar Steals and Gets Away">
+        وجعل السارق يطوف
+        <lb/>
+
+        وطال تردّده على الرجل في جمعه فغلبه النعاس فنام وفرغ اللصّ
+        <lb/>
+
+        بما أراده وأمكنه الذهاب
+      </p>
+
+      <p n="Man Discovers Mishap and Laments">
+        فاستيقظ الرجل فوجد اللصّ قد
+        <lb/>
+
+        فاز بما أخذه من المتاع فأقبل على نفسه يلومها وعرف أنّه لم يعلم
+        <lb/>
+
+        موضع اللّص إذا لم يعمل في أمره ما يجب
+      </p>
+
+      <p n="Knowledge Is Complete with Proper Implementation">
+        وقد قيل إنّ العلم لا يتمّ إلّا
+        <lb/>
+
+        بالعمل
+      </p>
+
+      <p n="Knowledge Is a Tree and Action Is the Fruit">
+        وإنّ العلم كالشجرة والعمل فيها كالثمرة
+      </p>
+
+      <p n="Scholar Must Act">
+        وإنّ صاحب العلم يعرض
+        <lb/>
+
+        بالعقل لينتفع به وإن لم يستعمل فليس ذلك يسمّى عالمًا
+      </p>
+
+      <p n="Informed Traveller Takes Risky Road">
+        ولو أنّ رجلًا
+        <lb/>
+
+        كان عالمًا بطريق مخوف ثمّ سلكه على علم به سُمّي جاهلًا لعلمه أن
+        <lb/>
+
+        يكون قد حاسب نفسه فوجدها قد تركت أشياء وهجمت به فيما
+        <lb/>
+
+        هو أعرف بضررها فيه وعاد بها من ذلك المسلك في الطريق
+        <lb/>
+
+        المخوف الذي قد عرفته
+      </p>
+
+      <p n="Desire Impedes Judgement">
+        ومن ركب هواه ورفض ما ينبغي له
+        <lb/>
+
+        أن يعمل بما جرّبه هو أو عمله غيره
+      </p>
+
+      <p n="Informed Patient Eats Bad Food">
+        كالمريض العالم برديء الطعام
+        <lb/>
+
+        وجيّده وخفيفه وثقيله ثمّ يحمله الشره على أكل رديئه وترك
+        <lb/>
+
+        استعمال ما هو أقرب إلى النجاة والتخلّص من علّته
+      </p>
+
+      <p n="Those in the Know Have No Excuse">
+        وأقلّ الناس
+        <lb/>
+
+        عذرًا في اجتناب محمود الأفعال وارتكاب مذمومها من أبصر
+        <lb/>
+
+        ذلك وعرف فضل بعضه على بعض
+      </p>
+
+      <p n="A Sighted and a Blind Fall into a Ditch">
+        كما أنّه لو أنّ رجلين أحدهما
+        <lb/>
+
+        بصير والآخر أعمى ساقهما الأجل إلى حفرة فوقعا فيها فكانا جميعًا
+        <lb/>
+
+        في قعرها بمنزلة واحدة في المهلكة
+      </p>
+
+      <p n="The Sighted Man Has No Excuse">
+        غير أنّ البصير أقلّ عذرًا
+        <lb/>
+
+        عند الناس من الضرير إذا كانت له عينان يبصر بهما وذلك
+        <lb/>
+
+        بما صار إليه جاهلًا غير عارف
+      </p>
+
+      <p n="Scholar Must Discipline Himself">
+        وعلى العالم أن يبدأ بنفسه
+        <lb/>
+
+        فيؤدّبها بعلمه ولا يكون غاية اقتنائه العلم لمعاونة غيره
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

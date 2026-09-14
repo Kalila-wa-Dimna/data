@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="25"/>
+
+      <p n="Burzoy Announces Request">
+        وأكملها وأجزلها قدرًا بعد رضاك عنّي فإن رأى الملك أن يسعف
+        <lb/>
+
+        بحاجتي ويجيب مسألتي وهي يسيرة على الملك عظيمة عندي
+      </p>
+
+      <p n="Kisra Welcomes Request">
+        فقال
+        <lb/>
+
+        أنوشروان اسألْ حاجتك واذكرْ ما أردت تُشفّع بحاجتك وتنال
+        <lb/>
+
+        طلبتك فإنّ قدرك عندنا جليل وفضلك جزيل وأمرك خطير
+        <lb/>
+
+        وحظّك كبير حتّى لو طلبت الشركة في المُلك لم نردّ طلبتك
+        <lb/>
+
+        فكيف فيما سوى ذلك فما تسل في شيء من جميع الأشياء إلّا وهو
+        <lb/>
+
+        مبذول لك
+      </p>
+
+      <p n="Burzoy Expects No Reward">
+        قال برزويه أكرم الله الملك
+        <lb/>
+
+        وبسط يده إنّي لست أتمنّى على الملك شيئًا بنصبي وعنائي
+      </p>
+
+      <p n="Burzoy Feels Favored By Kisra">
+        بل لك
+        <lb/>
+
+        الفضل عليّ ما عرضتني له وأشركتني في هذه الفائدة وكلّ
+        <lb/>
+
+        ذلك بفضل رأيه كافأني وأحسن إليّ
+      </p>
+
+      <p n="Burzoy Wants Bio Chapter">
+        فليعلم المنّة عند استتمام
+        <lb/>
+
+        النعمة إليه وإليّ بأن يأمر بزرجمهر بباب يجهد فيه نفسه وفي
+        <lb/>
+
+        وضعه ممّا يذكر فيه أمري وحالي
+      </p>
+
+      <p n="Buzurgmihr To Give His Best">
+        ويبالغ في ذلك بأفصح البيان
+        <lb/>
+
+        وأزين الذكر وأوضح البرهان
+      </p>
+
+      <p n="New Chapters Placement">
+        وأن يجعل ذلك الباب
+        <lb/>
+
+        في أوّل هذا الكتاب
+      </p>
+
+      <p n="Burzoy Wants Legacy">
+        فيُحيى به ذكري ما حييت وبعد وفاتي
+        <lb/>
+
+        إن فعل ذلك فقد شرّفني إلى آخر الأبد ما دام هذا الكتاب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

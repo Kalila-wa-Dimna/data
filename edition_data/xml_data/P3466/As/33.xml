@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="33"/>
+
+      <p n="Aw">
+        الباب العاشر
+        <lb/>
+
+        الناسك وابن عرس وهو مثل من يعمل الأمر بغير رويّة
+        <lb/>
+
+        ويستعجل فيها قبل البيان وكيف تكون عاقبة أمره
+      </p>
+
+      <p n="Lh">
+        الباب الحادي عشر
+        <lb/>
+
+        اللبوة والأسوار والشعهر وهو مثل من يترك
+        <lb/>
+
+        بضرّه ضرّ غيره وينصرف عن ذلك بما يتّعظ
+        <lb/>
+
+        به من ضرّه عن ضرّ الناس
+      </p>
+
+      <p n="Ag">
+        الباب الثاني عشر
+        <lb/>
+
+        الناسك والضيف فيه مثل من يترك عملًا يحسنه
+        <lb/>
+
+        ويتعاطى عملًا غيره فلا يتعلّمه ويرجع إلى عمله وقد نسيه
+      </p>
+
+      <p n="Tg">
+        الباب الثالث عشر
+        <lb/>
+
+        السائح والصائغ فيه مثل من يصنع الجميل مع
+        <lb/>
+
+        غير مستحقّه فيجازيه بالتقبيح والبلاء
+      </p>
+
+      <p n="Ks">
+        الباب الرابع عشر
+        <lb/>
+
+        ابن الملك وأصحابه فيه أمثال القضاء والقدر
+      </p>
+
+      <p n="unassigned">
+        وضمّن هذه الأبواب كلّها كتابًا واحدًا سمّاه كتاب كليلة ودمنة
+        <lb/>
+
+        وجعل كلامه على ألسن الحيوان وجعله ظاهرًا وباطنًا كرسم سائر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>As</chapter>
+  </chapter>
+</TEI>

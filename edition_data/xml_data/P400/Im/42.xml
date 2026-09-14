@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="42"/>
+
+      <p n="One Should Not Abandon Hard Work">
+        ويدع ما يجب عليه من الطلب والعمل في إصلاح شأنه ومعاشه
+      </p>
+
+      <p n="The Fortunate Few Are Not the Model">
+        ولا يقتدي
+        <lb/>
+
+        بمن تُساعده المقادير من غير التماس لذلك فأولئك في الناس قليل
+        <lb/>
+
+        وإنّما جمهور من يتعب نفسه في الطلب والسعي لما يصلح به أمره فينال بذلك
+        <lb/>
+
+        ما يريده
+      </p>
+
+      <p n="One Should Strive for Benefit Not Harm">
+        وليحرص كلّ ذي عقل أن يكون مكسبه مرضى مرضيًّا من أطيب
+        <lb/>
+
+        المكاسب وأن يجتنب كلّ ما عسر أو نكد أو جلب عليه
+      </p>
+
+      <p n="Dove Does Not Learn from Losing Her Chicks">
+        غمًّا ولا يكون
+        <lb/>
+
+        كالحمامة التي تُؤخذ فراخها فتُذبح ولا يمنع ذلك من أن تعود فتفرّخ
+        <lb/>
+
+        موضعها وتقيم مكانها فتُؤخذ ثانية فتُذبح
+      </p>
+
+      <p n="One Should Abide by God's Measures">
+        وقد يُقال إنّ الله تبارك
+        <lb/>
+
+        وتعالى جعل لكلّ شيء حدًّا يقف عليه فمن جاوز في الأشياء حدّها
+        <lb/>
+
+        كان كالمقصّر عنها
+      </p>
+
+      <p n="Striving for the Here and the Hereafter">
+        وقد يُقال من كان سعيه لآخرته ودنياه
+        <lb/>
+
+        كانت حياته عليه وله
+      </p>
+
+      <p n="A Worldly Man Must Fix Three Things">
+        وقد يُقال في ثلاثة أشياء يحقّ على صاحب
+        <lb/>
+
+        الدنيا إصلاحها والابتداء لنفسه فيها منها أمر دنياه ومنها
+        <lb/>
+
+        أمر معيشته فيما بينه وبين الناس
+      </p>
+
+      <p n="Three Things in a Man Engender Inefficiency">
+        وقد قيل في أمور من كانت
+        <lb/>
+
+        فيه لم يستقم له عقل منها التواني ومنها تضييع الحاجة ومنها
+        <lb/>
+
+        التصديق لكلّ مخبر ومنها التكذيب لكلّ عالم
+      </p>
+
+      <p n="One Needs to Keep Desire in Check">
+        وقد ينبغي لكلّ
+        <lb/>
+
+        للعاقل أن يكون لرأيه منه
+      </p>
+
+      <p n="One Needs to Check the Veracity of Information">
+        ولا يقبل من أحد وإن كان صدوقًا إلّا ما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

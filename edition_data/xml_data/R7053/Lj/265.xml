@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>R7053</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="265"/>
+
+      <p n="unassigned">
+        فترجع إلى غير شيء
+        <lb/>
+
+        لسانًا فإنّه قد قيل إنّه يُعدّ جــ
+        <lb/>
+
+        العلم ما لا يشاكله وليس هو من أهله ولا يؤدّبه
+        <lb/>
+
+        على طبع آبائه وأجداده واعلم أنّ الولاة
+        <lb/>
+
+        بقلّة تعاهدهم بذلك من الرعية وسوء
+        <lb/>
+
+        تدبيرهم وقلّة اقتفائهم وفهم الناس فينتقلون
+        <lb/>
+
+        من الطبقات والمنازل من بعضها إلى بعض إلى غير ذلك
+        <lb/>
+
+        ويضعفوا وتكثر أموال الرعايا وتجاراتهم ومعايشهم
+        <lb/>
+
+        وفي ذلك ضرر الأشراف والطبقات العليا لأنّ أهل
+        <lb/>
+
+        الطبقات السفلى ينتقلون إليها وينازعون أهلها مراتبهم
+        <lb/>
+
+        بترك منافعهم باب الإشوار واللبؤة
+        <lb/>
+
+        وهو مثل من يهيّج بإدخال الضرر على الناس
+        <lb/>
+
+        فيناله ضرر ووجع فينصرف بذلك الضرر الذي ناله
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+    <chapter>Lh</chapter>
+  </chapter>
+</TEI>

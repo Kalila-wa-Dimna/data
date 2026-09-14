@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3478</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="393"/>
+
+      <p n="unassigned">
+        قال الفيلسوف زعموا أنّه كان من الأقاليم التي على ساحل
+        <lb/>
+
+        البحر غدير تفترق إليه أنهار كثيرة تصبّ فيه الماء وأنّه
+        <lb/>
+
+        ثبت فيه قصب كثير وتولّد فيه سمك غزير وكان ذلك
+        <lb/>
+
+        الغدير نائيًا عن طريق الصيّادين وهو في موضع
+        <lb/>
+
+        لا يأتيه أحد من الناس وكانت الطير التي تأتي البحور
+        <lb/>
+
+        والآجام والغدران لا تأتيه ولا تقربه ولا تلتمس
+        <lb/>
+
+        ما فيه من الصيد دهرًا طويلًا لأنّ أوطانها وأوكارها
+        <lb/>
+
+        حسن الظنّ بشريكه من غير اختبار منه له لري من أن
+        <lb/>
+
+        يقذف به الاسترسال والإفراط في الثقة إلى بعض المكاره
+        <lb/>
+
+        ومن أمثال ذلك مثل العلجومين والمرزم قال الملك
+        <lb/>
+
+        وكيف كان ذلك وما مثلهما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kw</chapter>
+  </chapter>
+</TEI>

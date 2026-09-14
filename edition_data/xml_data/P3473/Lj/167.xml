@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3473</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="167"/>
+
+      <p n="Lion Asks Jackal about Meat">
+        الذي أمرتك بالاحتفاظ به قال دفعته إلى صاحب الطعام
+      </p>
+
+      <p n="Lion Asks Steward about Meat">
+        فاستدعى بصاحب الطعام وكان ممّن شايع وبايع مع
+        <lb/>
+
+        القوم على ابن آوى فقيل له أين اللحم فقال ما دفع لي
+        <lb/>
+
+        شيئًا
+      </p>
+
+      <p n="Meat Is Found in Jackal's House">
+        فعندها أرسل الأسد أمينًا وأمره أن يفتّش بيت
+        <lb/>
+
+        ابن آوى وسيّر أمينًا آخرًا فذهبوا وعاد الأمين ومعه
+        <lb/>
+
+        اللحم فطرحه بين يدي الأسد
+      </p>
+
+      <p n="Wolf Steps In">
+        فعند ذلك دنا منه ذئب
+        <lb/>
+
+        لم يكن تكلّم مع الجماعة في شيء وكان يظهر أنّه من العدول
+        <lb/>
+
+        الذين لا يتكلّمون حتّى يستبين لهم الحقّ
+      </p>
+
+      <p n="Lion Must Punish Jackal">
+        وقال إن اطّلع الملك
+        <lb/>
+
+        على خيانة ابن آوى فلا يعفو عنه فإنّه إن عفا عنه لم يطّلع
+        <lb/>
+
+        الملك على خيانة خائن ولا ذنب مذنب
+      </p>
+
+      <p n="Lion Has Jackal Arrested">
+        فأمر الملك أن
+        <lb/>
+
+        يُخرج ابن آوى من عنده ويُحتفظ به
+      </p>
+
+      <p n="Courtiers Are Amazed at Lion's Unawareness">
+        فقال بعض جلسائه
+        <lb/>
+
+        إنّي ﻷعجب من رأي الملك مع معرفته بالأمور كيف يخفى عليه
+        <lb/>
+
+        أمر هذا وخبثه ومخادعته
+      </p>
+
+      <p n="Courtiers Expect Jackal's Pardon">
+        وأعجب من ذلك أنّي أراه
+        <lb/>
+
+        سيصفح عنه بعد الأمر الذي ظهر منه
+      </p>
+
+      <p n="False Message and Death Sentence">
+        فعند ذلك أرسل
+        <lb/>
+
+        الأسد إلى ابن آوى يلتمس منه العذر فرجع الرسول عنه
+        <lb/>
+
+        برسالة كاذبة فغضب الأسد من ذلك وأمر بقتله
+      </p>
+
+      <p n="Lion's Mother Delays Execution">
+        فعرفت
+        <lb/>
+
+        أمّ الأسد أنّه قد عجل في أمره فأرسلت إلى المأمور بقتله أن
+        <lb/>
+
+        يؤخّره
+      </p>
+
+      <p n="Mother Questions Lion">
+        ثمّ دخلت على ابنها فقالت أي بنيّ أيّ ذنب وجب
+        <lb/>
+
+        قتل ابن آوى حين أمرت به فأخبرها بالأمر فقالت له
+        <lb/>
+
+        عجّلت
+      </p>
+
+      <p n="The Intelligent Deliberates">
+        وإنّما يسلم العاقل من الندامة بترك العجلة
+      </p>
+
+      <p n="Haste Causes Regret">
+        وإنّ صاحب
+        <lb/>
+
+        العجلة لا يزال يجني ثمر الندامة
+      </p>
+
+      <p n="Jackal Has Shown Integrity">
+        فليس ينبغي لك بعد ارتضائك له
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

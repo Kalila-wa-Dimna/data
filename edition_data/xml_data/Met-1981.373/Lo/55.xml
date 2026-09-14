@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Met-1981.373</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="55"/>
+
+      <p n="The Plot Backfires">
+        كلّ ذلك بعين الناسك
+      </p>
+
+      <p n="The Ascetic Seeks New Lodging">
+        ثمّ انطلق الناسك غاديًا في التماس مكان
+        <lb/>
+
+        غير مكانه ذلك
+      </p>
+
+      <p n="The Ascetic and the Shoemaker">
+        فأضافه رجل إسكاف وقال لامرأته أكرمي هذا
+        <lb/>
+
+        الرجل وأحسني العناية إليه فإنّه دعاني بعض أصحابي إلى منادمته ولست
+        <lb/>
+
+        أنصرف إلّا مساء
+      </p>
+
+      <p n="The Shoemaker's Adulterous Wife">
+        وكان لامرأته عشيقًا وكان الرسول الذي بينهما امرأة
+        <lb/>
+
+        حجّام
+      </p>
+
+      <p n="The Wife Summons Her Lover">
+        فأمرتها أن تأتي صديقها فتعلمه أنّ زوجها لا يأتي إلّا سكرانًا
+        <lb/>
+
+        فليأتنا مساء فيقعد بالباب حتّى يُؤذن له فيدخل
+      </p>
+
+      <p n="The Lover Waits">
+        ففعلت امرأة الحجّام
+        <lb/>
+
+        ذلك وأطاعها العشيق وأقبل حتّى قعد بالباب ينتظر الإذن
+      </p>
+
+      <p n="The Shoemaker's Suspicion">
+        وانصرف
+        <lb/>
+
+        الإسكاف من شغله يريد نديمه فمرّ بباب داره لأخذ مصلحة له من
+        <lb/>
+
+        الدار فرأى عشيق زوجته جالسًا بالباب وكان قد ارتاب منه قبل ذلك
+      </p>
+
+      <p n="The Wife is Beaten and Tied Up">
+        فغضب على امرأته ودخل إليها فضربها ضربًا موجعًا ثمّ أوثقها إلى سارية
+        <lb/>
+
+        في البيت
+      </p>
+
+      <p n="The Go-Between's Inquiry">
+        فلمّا نام الزوج وهدأت العيون جاءت امرأة الحجّام وقالت
+        <lb/>
+
+        قد أطال الرجل القعود فما تأمرين
+      </p>
+
+      <p n="The Wives Swap Places">
+        قالت امرأة الإسكاف إن شئت
+        <lb/>
+
+        أن تحسني إليّ فحلّيني حتّى أربطك مكاني ساعة وآتيه ثمّ أرجع إليك
+      </p>
+
+      <p n="The Swap is Made">
+        ففعلت امرأة الحجّام ذلك فحلّتها وربطت نفسها مكانها
+      </p>
+
+      <p n="The Shoemaker Wakes">
+        فاستيقظ
+        <lb/>
+
+        الإسكاف قبل أن تأتي امرأته من عشيقها فناداها فلم تجبْه
+      </p>
+
+      <p n="The Barber's Wife is Mutilated">
+        فغضب وقام
+        <lb/>
+
+        إليها بشفرة كانت معه فجدع أنفها وقال خذي أنفك معك فأعطيه
+        <lb/>
+
+        لخليلك
+      </p>
+
+      <p n="The Wives Swap Back">
+        ولمّا رجعت امراة الإسكاف ورأت ما بصاحبتها أطلقتها
+        <lb/>
+
+        وربطت نفسها مكانها
+      </p>
+
+      <p n="The Mutilated Go-Between Flees">
+        فأخذت امرأة الحجّام أنفها بيدها وانصرفت
+        <lb/>
+
+        إلى بيتها والناسك إلى ذلك
+      </p>
+
+      <p n="The Wife's Next Ploy">
+        ثمّ إنّ امرأة الإسكاف فكّرت وطلبت
+        <lb/>
+
+        المخرج ممّا وقعت فيه واتُّهمت به
+      </p>
+
+      <p n="A Prayer for a Miraculous Restoration">
+        فنادت يا ربّ قد ترى ضعفي وقلّة حيلتي
+        <lb/>
+
+        وما قد ركب منّي زوجي فإن كان اعتدى عليّ ظلمًا فأعدْ أنفي صحيحًا
+        <lb/>
+
+        وأظهرْ براءتي
+      </p>
+
+      <p n="Only the Razor">
+        ثمّ إنّها أمسكت ساعة وقالت لزوجها قمْ فانظرْ إلى فعل ربّك
+        <lb/>
+
+        وقضائه كيف أعاد أنفي عليّ صحيحًا كما كان سويًّا
+      </p>
+
+      <p n="The Wife Claims a Miracle">
+        فقال ما هذا الكلام
+        <lb/>
+
+        يا ساحرة ثمّ قام فأوقد نارًا فلمّا رأى أنفها صحيحًا
+      </p>
+
+      <p n="The Husband is Deceived">
+        ترضّاها واعتذر إليها
+      </p>
+
+      <p n="The Husband's Apology">
+        ولمّا انتهت امرأة الحجّام إلى بيتها ضربت الحيل ظهرًا لبطن
+      </p>
+
+      <p n="The Barber's Wife's Dilemma">
+        فلمّا كان
+        <lb/>
+
+        وقت السحَر وهي مفكّرة في جواب أهلها وزوجها عن جدع أنفها إذ ناداها زوجها
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

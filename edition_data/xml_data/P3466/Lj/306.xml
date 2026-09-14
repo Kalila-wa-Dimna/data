@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="306"/>
+
+      <p n="The Vile To Be Cut Off">
+        وأمّا من ينبغي تركه فهو من عُرف بالشرارة ولؤم العهد وقلّة
+        <lb/>
+
+        الشكر والوفاء والبعد من الرحمة والورع والجحود لثواب
+        <lb/>
+
+        الآخرة وعقابها
+      </p>
+
+      <p n="Jackal Has Been Tested">
+        وقد جرّبت ابن آوى وعرفته فارْدُدْه إلى
+        <lb/>
+
+        عمله
+      </p>
+
+      <p n="Lion Apologizes to Jackal">
+        فدعا الأسد بابن آوى فاعتذر إليه
+      </p>
+
+      <p n="Lion Wants to Reinstate Jackal">
+        وقال إنّي رادّك إلى
+        <lb/>
+
+        منزلتك التي كنت بها مؤتمنك من أمري على ما كنت ائتمنتك
+        <lb/>
+
+        عليه قبل اليوم
+      </p>
+
+      <p n="Jackal Announces Criticism">
+        قال ابن آوى إنّي قائل لك أيّها الملك قولًا فلا يغلظنّ
+        <lb/>
+
+        عليك
+      </p>
+
+      <p n="Lion Believed the Accusation">
+        إنّي قد أحدثت بك سوء ظنّ لما ظهر لي من سرعة استماعك
+        <lb/>
+
+        لأهل الكذب وإفساد الكثير الذي من حسن البلاء
+        <lb/>
+
+        الذي لا شكره بالقليل الحقير من القرف الذي لا تعرفه ومسارعتك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

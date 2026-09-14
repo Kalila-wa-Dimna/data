@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="137"/>
+
+      <p n="Dimna Has Ruzbeh Fetch Their Belongings">
+        فافعل فخرج روزبه مسرعًا إلى المكان فاستخرج ما كان فيه ثمّ حمله
+        <lb/>
+
+        فجاءه فوضعه بين يديه فعمد دمنة إلى شطره فدفعه إليه
+      </p>
+
+      <p n="Dimna Gives Ruzbeh Half, Asks Him to Put in Good Word with Lion and Mother and Report Their Words to Him">
+        وقال له فرّغ
+        <lb/>
+
+        نفسك للاهتمام بي وأعلمني ما يكون من قول الأسد إذا رُفع إليه
+        <lb/>
+
+        ما نطقت به وما نطق به الجند وما تقول أمّ الأسد ولطف نظرك
+        <lb/>
+
+        فيما سألتك وفيما يُعرض ويجري من ذكري عند الأسد فإنّك قادرٌ على
+        <lb/>
+
+        ذلك لقرب مجلسك واختصاصك ثم أعلمينه
+      </p>
+
+      <p n="Dimna's Gift Is to Reward Ruzbeh's Friendship">
+        وأنا أحبّ مع ذلك أن تعلم
+        <lb/>
+
+        هذا الشيء اليسير الحقير الذي أعطيتك ليس لأنّي أتخوّف أن أكون
+        <lb/>
+
+        مخصوصًا ولا لذنبٍ لي أتخوّف منه ولكنّه للإخاءة والمودّة التي كانت
+        <lb/>
+
+        بينك وبين كليله ولما وثقت له من وفائك ونصيحتك وإنّي لم أرى
+        <lb/>
+
+        أحدًا ممّن خُلق أحقّ بماله منك فأحببت أن تكون تركتُه لك
+      </p>
+
+      <p n="Ruzbeh Accepts Gift">
+        فقبل روزبه
+        <lb/>
+
+        الذي أعطاه دمنة وضمن له أن يقوم له بالذي سأله وأن يُعلمه ما يُسمع
+        <lb/>
+
+        عند الأسد من أمري ثمّ بعث بالذي خبّأه به إلى منزله فخبّأه وانطلق
+        <lb/>
+
+        إلى الأسد
+      </p>
+
+      <p n="Leopard &amp; Judge Bring Lion the Court Records Who Has Them Copied">
+        فلمّا أصبحوا من الغد وغدت من النهار ساعتان استأذن القاضي
+        <lb/>
+
+        والنمر والكاتب على الأسد فدخلوا عليه ووضعوا الكتاب الذي كتبوا بين
+        <lb/>
+
+        يديه فجمع الأسد بين قول أصحابه جميعًا وبين قول دمنة الذي قال في غدره
+        <lb/>
+
+        وقاس بعضه ببعض فأمر كاتبٌ من كتّابه أن يأخذ نسخته
+      </p>
+
+      <p n="Judge Orders Leopard and Judge to Return Dimna Before Court">
+        ثمّ يدفع الصحيفة
+        <lb/>
+
+        الذي فيها قولهم إلى النمر وقال لهما اصنعا اليوم كما صنعتما بالأمس
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

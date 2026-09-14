@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3471</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="32"/>
+
+      <p n="Burzoy Accepts">
+        في أرغد عيش وإنّما ذكر أنا عبد من عبيدك وسهم من سهامك
+        <lb/>
+
+        فليأمر بي الملك بي حيث شاء
+      </p>
+
+      <p n="Burzoy Requests Gathering">
+        بعد أن يأذن لي الملك في مجلس يكون
+        <lb/>
+
+        لي على رؤوس جنده أُعلم فيه أهل المملكة برفيع همّة الملك ونفاذ
+        <lb/>
+
+        قريحته وما ندبني له
+      </p>
+
+      <p n="Kisra Sets Up Gathering">
+        فأجابه الملك إلى ذلك ووعده يومًا جمع له فيه
+        <lb/>
+
+        أهلّ المملكة ونصب له فيها منبرًا مشرفًا فرقي برزويه عليه
+      </p>
+
+      <p n="Burzoy Begins Speech">
+        فحمد
+        <lb/>
+
+        الله عز ذكره وأثنى عليه ثمّ قال أمّا بعد
+      </p>
+
+      <p n="God Equipped Humans">
+        فإنّ الله تعالى خلق الخلق
+        <lb/>
+
+        برحمته ومنّ عليهم بفضله ورزقهم من العقل ما يعدون به على
+        <lb/>
+
+        إصلاح معايشهم وما يدركون به استنقاذ أرواحهم من العذاب
+        <lb/>
+
+        في الآخرة
+      </p>
+
+      <p n="Reason Is Gods Best Gift">
+        وأفضل ما رزقهم العقل الذي هو جميع الأشياء
+        <lb/>
+
+        ولا يقدر أحد على اصلاح معيشته ولا اجتلاب فضل ولا دفع
+        <lb/>
+
+        ضرر إلّا به وطالب الآخرة يجتهد في العلم لينجو به من الأهوال
+      </p>
+
+      <p n="Reason Is Basis Of Every Good">
+        والعقل هو سبب كلّ خير ومفتاح كلّ رغبة وليس لأحد
+        <lb/>
+
+        غنى عنه والعقل مكتسب بالتجارب والأدب
+      </p>
+
+      <p n="Reason Like Hidden Fire">
+        وغريزته
+        <lb/>
+
+        كائنة في الإنسان ككمون النار في العود لا يظهر حتّى يقدحها
+        <lb/>
+
+        قادح من غيرها فإذا قدحها ظهر ضوءها وحريقها
+      </p>
+
+      <p n="Adab And Experience Kindle Reason">
+        كذلك
+        <lb/>
+
+        كذلك العقل كامن في الإنسان لا يظهر حتّى يُظهره الأدب وتبديه
+        <lb/>
+
+        التجارب
+      </p>
+
+      <p n="Reason Strengthens">
+        فإذا استحكم كان السبب لكلّ خير الجالب لجميع المنافع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P5881</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="77"/>
+
+      <p n="The Mother Calls In Lion's Promise to Act">
+        قال ثمّ إنّ أمّ الأسد دخلت عليه وقالت له أنجزْ ما وعدته من قتل دمنة وليكنْ أمرك فيه
+        <lb/>
+
+        كأمر الملوك الحازمة
+      </p>
+
+      <p n="Pious Acts and Curbing Sin Cannot Wait">
+        فإنّي أحفظ من قولك إنّ العلماء قالوا لا تتوانى بعقوبة الفاجر ولا
+        <lb/>
+
+        تدعْ من يستوجب القتل بحضرتك حيًّا
+      </p>
+
+      <p n="Who Helps Sinners Becomes Their Accomplice">
+        وقد قالت العلماء إنّ المعين على عامل السيّئات
+        <lb/>
+
+        يوم القيامة يقاسمه في سيّئاته
+      </p>
+
+      <p n="Lion Orders Leopard and Judge to Try Dimna">
+        قال ثمّ إنّ الأسد سمع كلام أمّه فأمر النمر والقاضي أن يجلسا
+        <lb/>
+
+        ويُدعى دمنة على رؤوس الجند ثمّ يسألا عنه ويرفعا إليه الذي يذكره لهما وجوابه إيّاهم
+        <lb/>
+
+        ولا يُدع من ذلك شيئًا إلّا أنهياه إليه
+      </p>
+
+      <p n="Leopard and Judge Convene Trial">
+        قال فخرجا عند ذلك وجلسوا في مكان القضاء
+        <lb/>
+
+        ونادوا جميع العساكر والجند أن يجتمعوا وينظروا في شأن دمنة ويبحثوا عن أمره وما
+        <lb/>
+
+        كان من سعايته ومكره
+      </p>
+
+      <p n="Leopard and Judge Prepare the Trial">
+        قال فلمّا سمع النمر والجند والقاضي ما أمرهم به الأسد قالوا
+        <lb/>
+
+        السمع والطاعة لك أيّها الملك ثمّ خرجوا من عنده وفعلوا ما أمرهم به الملك
+      </p>
+
+      <p n="Herald Convokes People to Trial">
+        قال
+        <lb/>
+
+        فنادى المنادي في أجناس الوحوش كلّها إنّ الملك يأمركم بالاجتماع لتشهدوا بمناظرة
+        <lb/>
+
+        دمنة الخائن وما يكون من أمره فلا يتأخّر أحد عن هذا المجلس
+      </p>
+
+      <p n="Dimna Is Brought before Court">
+        قال ثمّ إنّ القاضي أمر
+        <lb/>
+
+        بإخراج دمنة من السجن وأتوا به وفي عنقه غلّ وفي رجليه قيد وأحضروه في وسط
+        <lb/>
+
+        المجلس على حالته
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

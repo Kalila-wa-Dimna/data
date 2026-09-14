@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="36"/>
+
+      <p n="unassigned">
+        وبعث برزويه حتّى أخرجه من بلاد الهند وجابه فصار في خزائن
+        <lb/>
+
+        الفرس انقضت مقدّمة يهوذا بن شجوان الفارسي
+      </p>
+
+      <p n="Chapter Title Mission">
+        باب بعثة برزويه
+        <lb/>
+
+        المتطبّب إلى بلاد الهند في انتساخ الكتاب
+      </p>
+
+      <p n="God Equipped Humans">
+        أمّا بعد فإنّ الله تبارك وتعالى خلق الخلق برحمته ومنّ على عباده
+        <lb/>
+
+        بفضله ورزقهم ما يقدرون به على صلاح معايشهم في الدنيا
+        <lb/>
+
+        ويدركون به استنقاذ أرواحهم من العذاب في الآخرة
+      </p>
+
+      <p n="Reason Is Gods Best Gift">
+        وأفضل ما
+        <lb/>
+
+        رزقهم الله ومنّ به عليهم العقل الذي هو الدعامة الكبرى
+        <lb/>
+
+        لجميع الأشياء والذي لا يقدر أحد في الدنيا على إصلاح معيشته
+        <lb/>
+
+        ولا على إحراز دفع شيء إلاّ به وكذلك طالب الآخرة المجتهد فى العمل
+        <lb/>
+
+        المنجّي روحه لا يقدر على إتمام عمله إلاّ بالعقل
+      </p>
+
+      <p n="Reason Is Basis Of Every Good">
+        وهو سبب كلّ خير ومفتاح
+        <lb/>
+
+        كلّ سعادة
+      </p>
+
+      <p n="Reason Like Hidden Fire">
+        وله غريزة مكنونة في الإنسان كامنة كمون النار
+        <lb/>
+
+        في الحجر لا تظهر ولا يُرى ضوؤها حتّى يقدحها قادح من الناس
+      </p>
+
+      <p n="Adab And Experience Kindle Reason">
+        وكذلك
+        <lb/>
+
+        العقل في الإنسان لا يظهر حتّى يظهره الأدب وتقوّيه التجارب
+      </p>
+
+      <p n="Reason Strengthens">
+        وإذا استحكم كان متولّي التجارب والمقوّي لكلّ ذي أدب والمجتني
+        <lb/>
+
+        لجميع المنافع والدافع لكلّ المضارّ إذ ليس شيء أجلّ من العقل
+      </p>
+
+      <p n="Kisra Most Learned King">
+        وقد رزق الله السعيد كسرى أنوشروان من العقل أفضل الحظّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>As</chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

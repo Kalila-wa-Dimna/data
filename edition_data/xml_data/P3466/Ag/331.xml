@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="331"/>
+
+      <p n="King Ask Seek Wrong Work">
+        فأخبرني عن من يدع عمله الذي يليق به ويشاكله ويبعد عنه إلى
+        <lb/>
+
+        غيره من الأعمال فلا يدركه وينسى عمله الذي كان
+        <lb/>
+
+        فيه فيبقى حيران
+      </p>
+
+      <p n="Story Ascetic Guest">
+        قال الفيلسوف زعموا أنّه كان بأرض
+        <lb/>
+
+        الكرخ رجل ناسك فنزل به ذات يوم ضيف فدعا الناسك
+        <lb/>
+
+        بتمر لطرفته عنده فأكلا جميعًا
+      </p>
+
+      <p n="Guest Praise Dates">
+        فقال ضيف الناسك ما أحلى
+        <lb/>
+
+        التمر وأطيبه
+      </p>
+
+      <p n="No Palm Trees At Home">
+        فليت أرضنا التي نسكنها أرض نخل وتمر
+      </p>
+
+      <p n="Enough Good Fruit At Home">
+        مع أنّه إن لم يكن فيها تمر فإنّ فيها من الثمار ما يغني عن
+        <lb/>
+
+        التمر فإنّه من لم يقدر على التين وغيره من الثمار فما حاجته
+        <lb/>
+
+        إلى التمر مع وخامته وثقله وقلّة موافقته للجسد
+      </p>
+
+      <p n="Be Satisfied With What You Have">
+        قال له
+        <lb/>
+
+        الناسك أنّك أنت سعيد حين قنعت بما تجد وزهدت فيما لا تجد
+        <lb/>
+
+        وصبّرت نفسك عنه ورضيت بما وجدت
+      </p>
+
+      <p n="Dont Seek Unattainable">
+        فإنّه لا يعدّ سعيدًا
+        <lb/>
+
+        حليمًا من طلب ما لا يجد فتشره لذلك نفسه ولا يقدر على
+        <lb/>
+
+        الصبر عنه فيرجع عليه من ذلك غمّه وهمه
+      </p>
+
+      <p n="Monk Spoke Hebrew">
+        وكان الناسك
+        <lb/>
+
+        يتكلّم بالعبرانيّه
+      </p>
+
+      <p n="Guest Fancies Hebrew">
+        فاستحسن الضيف كلامه وأعجبه
+      </p>
+
+      <p n="Guest Tries To Learn Hebrew">
+        فتكلّف
+        <lb/>
+
+        أن يتعلّمه وعالج على ذلك نفسه أيّامًا
+      </p>
+
+      <p n="Mention Crow Story">
+        فقال له الناسك ما
+        <lb/>
+
+        أخلقك أن تقع فيما تركت من كلامك وتكلّفت من كلام
+        <lb/>
+
+        العبرانيّة فيما وقع فيه غراب مرّة
+      </p>
+
+      <p n="Guest Request Crow Story">
+        قال الضيف وكيف كان ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

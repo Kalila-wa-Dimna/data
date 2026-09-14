@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="169"/>
+
+      <p n="Serious Crimes Do Not Allow Secrecy">
+        دم مظلوم
+      </p>
+
+      <p n="Hiding a Crime Is Complicity">
+        فإنّ الكاتم لذنب المجرم شريك المذنب
+      </p>
+
+      <p n="A Ruler Must Not Punish Based on Suspicion">
+        فإنّ السلطان لا ينبغي
+        <lb/>
+
+        له أن يعاقب على الظنّ والشبهة إلّا بالأمر المضيء البيّن فإنّ
+        <lb/>
+
+        الدم عظيم أمره عند الله
+      </p>
+
+      <p n="The Lion Wants to Avoid Killing Another Innocent">
+        وأنا وإن كنت أوطئت
+        <lb/>
+
+        عشوة في شتربة أكره أن أرتكب من دمنة قال ما ارتكبت من شتربة
+        <lb/>
+
+        بغير بيّنة ويقين وقد برئ إليك من بلّغك ما ذكرت ونزعه من
+        <lb/>
+
+        عنقه وقذفه في عنقك
+      </p>
+
+      <p n="The Mother Expects Her Word to Suffice">
+        قالت أم الأسد صدقت ولكنّي قد
+        <lb/>
+
+        كنت أظنّ أنّك ستكتفي بما حدّثتك وتصدّق به ولا تتّهمني
+        <lb/>
+
+        عليه
+      </p>
+
+      <p n="Without Blaming His Mother the Lion Is Curious">
+        قال الأسد ما أنت عندي متّهمة ولكن أحبّ أن يعلمني من هو
+        <lb/>
+
+        فيكون أشفى لصدري فإنّه لا مضرّة عليه فيه
+      </p>
+
+      <p n="The Mother Deems That Divulging Will Harm Her Credibility">
+        قالت بل مضرّته عليّ
+        <lb/>
+
+        في سقوطي في عين من استودعني سرّه وخيانتي أمانته
+      </p>
+
+      <p n="Mother Is Afraid to Lose People's Trust">
+        ومتى
+        <lb/>
+
+        أفعل ذلك لا يثق بي أحد ولا يطلعني على سرّه ولا يأمنني عليه
+      </p>
+
+      <p n="The Lion Assembles the Court and Summons Dimna">
+        فأمر
+        <lb/>
+
+        الأسد أن يؤتى بدمنة وحضر الجند
+      </p>
+
+      <p n="The Lion Lowers His Head in Shame">
+        فنظر الأسد إليهم
+        <lb/>
+
+        فنكّس رأسه مستحيًا ممّا ركب من شتربة
+      </p>
+
+      <p n="Dimna Inquires About the Lion's Dejection">
+        فلمّا رأي
+        <lb/>
+
+        دمنة الأسد منكبًّا مهمومًا مكتئبًا قال
+        <lb/>
+
+        هل حدث أمر جمعكم له
+      </p>
+
+      <p n="The Mother Declares Dimna Responsible">
+        فسمعته أم الأسد فقالت
+        <lb/>
+
+        اهتمامه وكآبته في تركه إيّاك حينًا إلى اليوم بعد
+        <lb/>
+
+        صنيعك به وحملك إيّاه بنميمتك كذلك وفجورك حتّى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

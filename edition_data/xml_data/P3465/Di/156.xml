@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="156"/>
+
+      <p n="Judge Calls for Testimony on Three Accounts">
+        ولا تكتموا ما عرفتم من أمره واحذروا في الستر عليه ثلاث خصالٍ
+      </p>
+
+      <p n="Consequences of Taking Evil Deeds Lightly">
+        أمّا
+        <lb/>
+
+        إحداهنّ وهي أفضلهنّ ألّا تزدروا فعله ولا تعدّوه تيسيرًا فمن أعظم
+        <lb/>
+
+        الخطايا قتل البريء الذي لا ذنب له بالكذب والنميمة ومن علم من
+        <lb/>
+
+        أمر هذا الكذّاب الذي أسلم البريء يكذبه ونميمته شيئًا تسرّ عليه
+        <lb/>
+
+        فهو شريكه في الإثم والعقوبة
+      </p>
+
+      <p n="Confession May Lead to Pardon">
+        والثانية إذا اعترف المذنب بذنبه كان
+        <lb/>
+
+        أسلم له أحرى بالملك وجنده أن يعفوا عنه ويصفحوا
+      </p>
+
+      <p n="Eliminating Criminals Benefits Society">
+        والثالثة
+        <lb/>
+
+        ترك مراعاة أهل الذمّ والفجور وقطع أسباب مرؤاتهم ومودّاتهم عن الخاصّة
+        <lb/>
+
+        والعامّة ومن ارتكب ذلك
+      </p>
+
+      <p n="Dimna's Second Subtale of Ignorant Physician">
+        أصابه ما أصاب الطبيب الذي قال لما
+        <lb/>
+
+        لا يعلمه إنّي أعلمه
+      </p>
+
+      <p n="Judge Request Tale">
+        فقالت الجماعة وكيف كان ذلك
+      </p>
+
+      <p n="Famous Physician Dies or Goes Blind">
+        قال القاضي
+        <lb/>
+
+        كان في بعض المدن طبيب له رفق وعلم وذو اخطار فيما يجري علي
+        <lb/>
+
+        من المعالجات فكبر ذلك الطبيب وضعيف بصره
+      </p>
+
+      <p n="Pregnant Princess Falls Sick">
+        وكان لملك
+        <lb/>
+
+        تلك المدينة ابنه قد زوّجها ابن أخ له فعرض لها ما يعرض للحوامل من الأوجاع
+      </p>
+
+      <p n="Blind Physician Prescribes Drug">
+        فجيء بهذا الطبيب فلمّا حضر سأل الجارية عن وجعها وما تجد فاخبرته فعرف داءها
+        <lb/>
+
+        ودواءها وقال لو كنت أبصر لجمعت الإخلاط علي معرفتي بأجناسها ولا
+        <lb/>
+
+        أثق بذلك أحدًا غيري
+      </p>
+
+      <p n="Quack Hears about Sick Princess">
+        وكان في المدينة رجل سفيه فبلغه الخبر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

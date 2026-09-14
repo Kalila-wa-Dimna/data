@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="10"/>
+
+      <p n="The Here Is Not to Be Preferred Over the Hereafter">
+        يكن لآخرته مؤثرًا على دنياه
+      </p>
+
+      <p n="Detachment Eases Death">
+        فإنّه من قلّ فعلته بالدنيا قلّت حسرته عند فراقها
+      </p>
+
+      <p n="One Should Not Despair from Attaining Goals">
+        وينبغي
+        <lb/>
+
+        له أن لا يأيس من أن يصيب ذلك وإن قسا قلبه
+      </p>
+
+      <p n="Two Things Suit Everyone">
+        فإنّه يقال في أمرين يجملا بكلّ أحد
+        <lb/>
+
+        النسك والمال
+      </p>
+
+      <p n="Fire Consumes Every Log">
+        وإنّما مثل ذلك النار المؤجّجه التي ليس من حطب يُقذف إليها إلاّ قبلته
+        <lb/>
+
+        وكان لها موافقًا
+      </p>
+
+      <p n="God's Blessings Arrive When Least Expected">
+        وربّما أصاب الرجل الشيء وهوّ غير راج له
+      </p>
+
+      <p n="Pauper Is in Terrible Hardship">
+        كما أصاب الرجل الذي بلغني
+        <lb/>
+
+        عنه أنّه كانت به حاجه شديدة وخلّة ظاهرة وفاقة ووحشة فعري وطلب إلى
+        <lb/>
+
+        معارفه وشكا إليهم وسألهم ثوبًا يلبسه فأعياه ذلك فطلب بجهده فلم يصب شيئًا
+        <lb/>
+
+        فلمّا أيس من ذلك رجع إلى منزله
+      </p>
+
+      <p n="A Burglar Breaks Into His House">
+        فبينما هو نائم على فراشه إذا بسارق قد دخل عليه في
+        <lb/>
+
+        منزله فلمّا رآه الرجل قال ما في منزلي شيء يستطيع هذا السارق أن يسرقه فليصنع
+        <lb/>
+
+        ما شاء وليجهد نفسه وإنّ السارق دار في ذلك البيت فطلب فلم يجد شيئًا يأخذه
+        <lb/>
+
+        فغاظه ذلك
+      </p>
+
+      <p n="The Burglar Attempts to Steal the Jar's Contents">
+        وقال في نفسه ما هاهنا شيئًا وما أحبّ أن يكون عنائي باطلا وانطلق
+        <lb/>
+
+        إلى خابية فيها شيء من برّ فقال ما أجد بدًّا من أخذ البرّ إذا لم أجد غيره فبسط ملحفة
+        <lb/>
+
+        كانت عليه وصبّ ذلك البرّ فيها
+      </p>
+
+      <p n="The Pauper Panics">
+        فلمّا أبصر الرجل أنّه قد صبّه في الملحفة لينطلق به قال
+        <lb/>
+
+        ليس على هذا صبر يذهب هذا البرّ ويجتمع عليّ أمران الجوع والعري ولا يجتمعان هذان
+        <lb/>
+
+        على أحد إلّا أهلكاه
+      </p>
+
+      <p n="The Pauper Chases the Burglar Away, Keeps His Garb">
+        ثمّ إنّه صاح بالسارق من بين يديه فهرب ونزل الملحفة فأخذها
+        <lb/>
+
+        صاحب المنزل فلبسها وأعاد البرّ مكانه
+      </p>
+
+      <p n="The Intelligent Man Must Not Despair">
+        فليس ينبغي لأحد أن يأيس من أن ينال ولا
+        <lb/>
+
+        يطلب ما لا يُنال
+      </p>
+
+      <p n="One Should Not Abandon Hard Work">
+        ولكن لا يدع جهدًا في الطلب على معرفة
+      </p>
+
+      <p n="The Fortunate Few Are Not the Model">
+        فإنّ الفضل والرزق يأتيان
+        <lb/>
+
+        من لا يطلبهما
+      </p>
+
+      <p n="The Striving Masses Are the Model">
+        ولكن إذا نظر في ذلك وجد من طلب على معرفة فأصاب ومن لم يطلب
+        <lb/>
+
+        أصاب بغير طلب لم يكن حقيقًا أن يقيّد بذلك الواحد ولكن ينبغي أن يقيّد بالكثير الذين
+        <lb/>
+
+        طلبوا فأصابوا
+      </p>
+
+      <p n="One Should Benefit from Experience">
+        وحقّ على المرء أن يكثر المقايسة وينتفع بالتجارب فإذا أصابه الشيء وفيه
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

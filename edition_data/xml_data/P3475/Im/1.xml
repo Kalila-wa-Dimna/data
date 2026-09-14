@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="1"/>
+
+      <p n="unassigned">
+        بسم الله الرحمن الرحيم
+        <lb/>
+
+        الحمدلله الذي بيده مفاتيح كلّ غيب وإليه منتهى كل
+        <lb/>
+
+        علم وغاية كلّ رجاء الدال على الخير المؤثر لكل فضيلة
+        <lb/>
+
+        الملهم لعبده كل ما يقرّبهم إليه من نوافل الخير
+        <lb/>
+
+        ودواعي الشكر وكان فيما ألهم الله عباده ودلّهم عليه
+        <lb/>
+
+        من الأمر وبحور الحكمة أمرهم بالشكر له ليستوجبوا
+        <lb/>
+
+        بذلك المزيد منه وليدلّهم على طلب العلم واقتناء
+        <lb/>
+
+        الأدب وليفهموا عن الله أمره ووصيّته ويسرعوا
+        <lb/>
+
+        فيما يرضيه عنهم وليجتنبوا معاصيه فتبارك
+        <lb/>
+
+        الله ربّ العالمين
+      </p>
+
+      <p n="Scholars Desire to Be Understood">
+        ثمّ إنّ الملوك الأوّلين والحكماء وأهل
+        <lb/>
+
+        العقول من أهل كلّ ملّة وأهل كلّ لسان لم يزالوا
+        <lb/>
+
+        يلتمسون إحياء العلم وتربية الحكمة
+      </p>
+
+      <p n="Scholars Commit to Debate and Prefer It">
+        ويُلزمون
+        <lb/>
+
+        أنفسهم التعب والاجتماع على مناقضة بعضهم
+        <lb/>
+
+        بعضًا ويؤثرونه على كلّ شيء أُشغل به الناس من الملاهي
+        <lb/>
+
+        واللذّات ولا يرون شيئًا ممّا شغلوا به أنفسهم أعظم
+        <lb/>
+
+        في القدر ولا أجزل في الأمر ممّا شغلوا به أنفسهم
+      </p>
+
+      <p n="Scholars Record Knowledge">
+        وأربوها
+        <lb/>
+
+        لهم من ذلك وبلغوه بطول أعمارهم وفكرهم وتجارتهم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

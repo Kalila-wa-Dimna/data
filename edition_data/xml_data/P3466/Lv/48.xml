@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="48"/>
+
+      <p n="Kisra Rewards Buzrgmihr">
+        وأمر له بمال عظيم وكسوة فاخرة فلم يقبل شيئًا غير الكسوة
+      </p>
+
+      <p n="Burzoy Thanks Buzurgmihr">
+        ثمّ
+        <lb/>
+
+        شكر له برزويه وقبّل رأسه ويديه
+      </p>
+
+      <p n="Burzoy Thanks Kisra For Chapter">
+        وأقبل برزوية على الملك وقال
+        <lb/>
+
+        له أدام الله لك السرور والكرامة فقد بلغت بي غاية الشرف
+        <lb/>
+
+        بما أمرت برزجمهر من صنعة هذا الكتاب في أمري وإبقاء ذكري
+      </p>
+
+      <p n="Chapter Title">
+        باب غرض الكتاب
+        <lb/>
+
+        ترجمه عبدالله بن المقفّع
+      </p>
+
+      <p n="Parables Originated with Scholars of India">
+        هذا كتاب كليلة ودمنة وهو ممّا وضعته علماء الهند من الأمثال
+        <lb/>
+
+        والأحاديث التي أُلهموا أن يُدخلوا فيها أبلغ ما وجدوا من القول في
+        <lb/>
+
+        النحو الذي أرادوا
+      </p>
+
+      <p n="Scholars Desire to Be Understood">
+        ولم تزل العلماء من أهل كلّ ملّة وكلّ لسان يلتمسون
+        <lb/>
+
+        أن يُعقل عنهم
+      </p>
+
+      <p n="Scholars Put Knowledge in Book of Fables">
+        ويحتالون لذلك بصنوف الحيل ويبتغون في إخراج
+        <lb/>
+
+        ما عندهم من العلل حتّى كان من تلك العلل وضع هذا الكتاب
+        <lb/>
+
+        على أفواه البهائم والطير
+      </p>
+
+      <p n="Fables Facilitate Many Types of Discourse">
+        فاجتمع لهم بذلك خلال بذلك فوجدوا
+        <lb/>
+
+        متصرفًا في القول وشعوبًا يأخذون فيها وأمّا هو فجمع أن يكون
+        <lb/>
+
+        لهوًا وحكمة
+      </p>
+
+      <p n="Book Is Used for Wisdom, Pleasure, and Knowledge">
+        فاجتباه الحكماء لحكمته والسخفاء للهوه
+        <lb/>
+
+        والمتعلّمون من الأحاديث فنشطوا لعلمه وخفّ عليهم حفظه
+      </p>
+
+      <p n="Reader Must Decode Parables">
+        فمن قرأ هذا الكتاب فليعرف الوجه الذي وضع له وإلى أيّ
+        <lb/>
+
+        غاية جرى فيه مؤلّفه عندما نسبه إلى البهائم وأضافه إلى غير
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

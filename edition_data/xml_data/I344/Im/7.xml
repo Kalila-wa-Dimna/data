@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="7"/>
+
+      <p n="Chapter Title">
+        بسم الله الرحمن الرحيم وبه ثقتي
+        <lb/>
+
+        هذا كتاب فيه كليلة ودمنة
+        <lb/>
+
+        الحمد الله ربّ العالمين والصلاة والسلام على سيّدنا
+        <lb/>
+
+        محمّد وعلى آله وصحبه وسلّم وبعد
+      </p>
+
+      <p n="Parables Originated with Scholars of India">
+        فهذا ممّا وضعه أهل الهند
+      </p>
+
+      <p n="Scholars Desire to Be Understood">
+        لأنّ الأوّلين من الملوك
+        <lb/>
+
+        والحكماء وأهل العقول من كلّ ملّة ولسان لم يزالوا
+        <lb/>
+
+        يلتمسون إحياء العلم وتربية الحكمة
+      </p>
+
+      <p n="Scholars Commit to Debate and Prefer It">
+        ويُلزمون
+        <lb/>
+
+        أنفسهم العناية بذلك والاجتماع له ومناقضة
+        <lb/>
+
+        بعضهم بعضًا فيه ويؤثرونه على كلّ ما شغل به الناس
+        <lb/>
+
+        أنفسهم من الملاهي واللذّات لا يرون شيئًا ممّا
+        <lb/>
+
+        يتشاغلون به أعظم من الأجر وأجزل في الثواب
+        <lb/>
+
+        ممّا شغلوا به أنفسهم
+      </p>
+
+      <p n="Scholars Record Knowledge">
+        وأدقّوها لهم من ذلك فوضعوا
+        <lb/>
+
+        لكلّ ما أدركوا من ذلك وبلغوه بطول أعمارهم وفكرتهم
+        <lb/>
+
+        وتجاربهم وشدّة عنايتهم ولما تنافعوا به من الأمثال
+        <lb/>
+
+        والأشباه والنظائر
+      </p>
+
+      <p n="Scholars Put Knowledge in Book of Fables">
+        واتّبعوا لإخراج ما أرادوا
+        <lb/>
+
+        منه أسبابًا وولّدوا له كلامًا محكمًا بحجج به صحيحه وأمور
+        <lb/>
+
+        ثابتة وثيقة ونسبوا أكثر أمثالهم في ذلك إلى
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

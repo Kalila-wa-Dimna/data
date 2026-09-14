@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>I344</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="268"/>
+
+      <p n="King Expresses Anger To Vizier">
+        فدعا المَلك بلاد وزيره فقال يا بلاد انظر ما فعلت
+        <lb/>
+
+        هذه المرأة وكيف استخفّت بي
+      </p>
+
+      <p n="King Orders To Execute Queen">
+        فانطلق بها فاضرب
+        <lb/>
+
+        عنقها ولا تراجعني في أمرها ولا تدخلنّ عليّ إلّا بعد قتلك
+        <lb/>
+
+        إيّاها
+      </p>
+
+      <p n="Vizier Decides To Spare Queen">
+        فخرج بلاد بهلبت من عند المَلك فقال في نفسه ما ينبغي
+        <lb/>
+
+        أن أقتلها حتّى يسكن غيظ المَلك
+      </p>
+
+      <p n="Vizier Praises Queen">
+        فإنّها امرأة عاقلة سعيدة
+        <lb/>
+
+        من الملك ليس لها شبه
+      </p>
+
+      <p n="King Will Miss Queen">
+        وليس المَلك صابرًا عنها وقد خلّص
+        <lb/>
+
+        الله بها إلى اليوم شرًّا كثيرًا من الموت ونحن نرجوها فيما بعد اليوم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

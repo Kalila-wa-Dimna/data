@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3475</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="195"/>
+
+      <p n="Dimna Agrees with Judge's Rationale">
+        الصالح نطقت وقلت مقالة الحقّ وقلت مقالة الحكماء
+      </p>
+
+      <p n="One Must Not Sacrifice Hereafter for Here">
+        لعمري إنّ من سعادة
+        <lb/>
+
+        المرئ أن لا يبيع آخرته بدنيا فانية ولا يشتري روحًا
+        <lb/>
+
+        يسيرًا بعذاب طويل باقي
+      </p>
+
+      <p n="Dimna, Being Innocent, Cannot Confess What He Did Not Do">
+        ولكنّي ممّا قُذفت به بريء
+        <lb/>
+
+        دع من أن آمر بقتل أحد أو أعين عليه لكنّي لم أكن لأتفوّه
+        <lb/>
+
+        لأحد بأمر يكرهه ولا أنطق بكذبة ولا يعرفني بذلك
+        <lb/>
+
+        أحد فكيف أقرّ على نفسي بما لم أعمله أو بذنب لم أذنبه
+        <lb/>
+
+        فأكون معينًا على نفسي وشريكًا لمن أراد قتلي وقد تعلم
+        <lb/>
+
+        عقاب من قتل نفسه في الآخرة
+      </p>
+
+      <p n="Killing Dimna Would Be Unjust">
+        وأنا بريء الساحة
+        <lb/>
+
+        بارز العذر فإن أرادوا قتلي ظالمين فإنّ الله ناصر
+        <lb/>
+
+        المظلوم
+      </p>
+
+      <p n="Dimna Want to Spare Court Sin and Regret in Hereafter">
+        وأنا أقول اليوم مقالي أمس وأذكر حساب
+        <lb/>
+
+        الآخرة وعقابها لكيلا تندموا غدًا حين لا تنفع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>

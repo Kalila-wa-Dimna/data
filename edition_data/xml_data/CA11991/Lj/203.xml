@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>CA11991</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="203"/>
+
+      <p n="Firefly Is Mistaken for Fire">
+        قبل لمسها بأنّها نار فإذا لمسها تبيّن له خطأ رأيه
+      </p>
+
+      <p n="King Should Have Investigated">
+        فقد كنت حقيقًا أن تنظر
+        <lb/>
+
+        في أمر ابن آوى نظر متثبّت
+      </p>
+
+      <p n="Jackal Eats no Meat">
+        لتعلم أنّه إذا لم يأكل اللحم الذي ربّما كنت قد أمرت
+        <lb/>
+
+        له بالشيء الكثير
+      </p>
+
+      <p n="Jackal Gave Back Meat">
+        بل جعله في طعامك وطعام جندك
+      </p>
+
+      <p n="Jackal Is Unlikely to Steal Meat">
+        فإنّه ليس بخليق أن يسرقه
+        <lb/>
+
+        وهو قليل لا سيّما إذا كنت أمرته أن يحتفظ به
+      </p>
+
+      <p n="King Must Investigate Now">
+        فافحص عن أمره
+      </p>
+
+      <p n="The Inferior always Envy the Superior">
+        فإنّه لم تزل عادة
+        <lb/>
+
+        الأراذل والأنذال الحسد لأهل المروءة والفضل
+      </p>
+
+      <p n="Jackal's Superiority Causes Envy">
+        ولابن آوى مروءة وفضل
+      </p>
+
+      <p n="Jackal's Foes Perhaps Hid Meat">
+        فعسى
+        <lb/>
+
+        أعداؤه من أصحابك أن يكونوا ألقوا ذلك اللحم في منزله من غير علم له بذلك
+      </p>
+
+      <p n="Kite's Booty Attracts Competitors">
+        فإنّ
+        <lb/>
+
+        العـ الحدأة إذا هي أصابت البضعة من اللحم نافسها كثير من الطير
+      </p>
+
+      <p n="Dog's Bone Attracts Competitors">
+        والكلب إذا كان
+        <lb/>
+
+        في فيه لحم تعاون عليه الكثير من الكلاب فإذ ألهمهم ذلك سكتوا عنه
+      </p>
+
+      <p n="Schemers Pursue Only Own Benefit">
+        فإنّ
+        <lb/>
+
+        أعداء ابن آوى <>
+      </p>
+
+      <p n="King Must Protect Himself">
+        فانظر أنت بنفسك ولا تنفذ لهم أمرًا فيما تدعوا به الضرر
+        <lb/>
+
+        إلى نفسك
+      </p>
+
+      <p n="Lack of Good Advisors Is Damaging">
+        فإنّ أعظم الأشياء على الناس عامّة وعلى الولاة خاصّة أمران أن
+        <lb/>
+
+        يُحرموا الملوك الأعوان والوزراء والإخوان يكون وزراؤهم وإخوانهم وأعوانهم
+        <lb/>
+
+        في غير مروءة ولا
+      </p>
+
+      <p n="Jackal does not Need Lion">
+        غناء ولم يزل غناء ابن آوى عاقلًا
+      </p>
+
+      <p n="Jackal Toiled for Lion">
+        متعفّفًا مؤثرًا منفعتك على
+        <lb/>
+
+        هواه ويشتري راحتك بتعبه ورضاك بسخط الأصحاب
+      </p>
+
+      <p n="Jackal Hid no Secrets from Lion">
+        لا يطوي عنك أمرًا
+        <lb/>
+
+        ولا يكتمك سرًّا ولم تر شيئًا احتمله لك أو بذله وإن عظم عظيمًا
+      </p>
+
+      <p n="Such Advisors Are Like Family">
+        فمن كان
+        <lb/>
+
+        من الأصحاب هذه وصفته فإنّما منزلته منزلة الآباء والأبناء والإخوان
+      </p>
+
+      <p n="Courtier Exonerates Jackal">
+        فبينا
+        <lb/>
+
+        أمّ الأسد في كلامها إذ دخل على الاسد بعض من كان مكر بابن آوى فأطلع
+        <lb/>
+
+        الأسد على أمره
+      </p>
+
+      <p n="Mother Reaffirms Intrigue">
+        فلمّا علمت أمّ الأسد أنّ الأسد قد اطّلع على براءة ابن آوى <> وجرأة
+        <lb/>
+
+        أصحابك وتعاونهم عليه
+      </p>
+
+      <p n="Lion Must not Tolerate Misdeeds">
+        فلا ترضى بذلك منهم
+      </p>
+
+      <p n="Lion Must Punish Plotters">
+        ولا تقول عن تشتيت ذات
+        <lb/>
+
+        بينهم حتّى تنقطع منك الشفقة عليهم لئلّا يتّخذوك مركبًا فتعوّدهم الاحتمال على
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3465</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="280"/>
+
+      <p n="Chapter Title">
+        باب الناسك والضيف
+      </p>
+
+      <p n="King Understood Last Chapter">
+        قال دبشليم الملك لبيدبا الفيلسوف قد سمعت
+        <lb/>
+
+        هذا المثل
+      </p>
+
+      <p n="King Ask Seek Wrong Work">
+        فاضرب لي مثل الذي يدع صنعه الذي يليق به
+        <lb/>
+
+        ويشاكله ويطلب غيره فلا يدركه فيبقى حيرانًا متردّدًا
+      </p>
+
+      <p n="Story Ascetic Guest">
+        قال
+        <lb/>
+
+        الفيلسوف زعموا أنّه كان بأرض الكرخ ناسكًا عابدًا مجتهدًا فنزل
+        <lb/>
+
+        به ضيف ذات يوم فدعا الناسك لضيفه بثمر لظرفته عندهم
+        <lb/>
+
+        فأكلا منه جميعًا
+      </p>
+
+      <p n="Guest Praise Dates">
+        ثم قال الضيف ما أحلى هذه الثمر وأطيبه
+      </p>
+
+      <p n="No Palm Trees At Home">
+        فليت
+        <lb/>
+
+        في بلادي التي أسكنها
+      </p>
+
+      <p n="Enough Good Fruit At Home">
+        مع أنّي لست راغبًا في الثمر وأن بلادنا
+        <lb/>
+
+        كثيرة الأثمار فما حاجة من كثرة ثمارها إلى الثمر مع وخامته
+        <lb/>
+
+        وقلّة موافقته للجسد
+      </p>
+
+      <p n="Dont Seek Unattainable">
+        فقال له الناسك إنّه لا يعدّ
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Ag</chapter>
+  </chapter>
+</TEI>

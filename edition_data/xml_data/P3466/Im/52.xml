@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="52"/>
+
+      <p n="One Should Abide by God's Measures">
+        عليه فمن تجاوز في الأشياء حدّها يوشك أن يلحقه التقصير عن بلوغها
+      </p>
+
+      <p n="Striving for the Here and the Hereafter">
+        ويُقال من أن كان سعيه لآخرته ودنياه فحياته له وعليه
+      </p>
+
+      <p n="Striving for the Here">
+        ومن
+        <lb/>
+
+        كان سعيه لدنياه خاصة فحياته عليه
+      </p>
+
+      <p n="A Worldly Man Must Fix Three Things">
+        ويُقال في ثلاثة أشياء يجب
+        <lb/>
+
+        على صاحب الدنيا إصلاحها والابتذال لنفسه فيها منها أمر
+        <lb/>
+
+        معيشته ومنها ما بينه وبين الناس ومنها ما يُكسبه الذكر الجميل
+      </p>
+
+      <p n="Three Things in a Man Engender Inefficiency">
+        وقد قيل في أمور من كانت فيه لم يستقم له عمل منها التواني
+        <lb/>
+
+        ومنها تضييع الفروض ومنها التصديق لكل مخبر
+      </p>
+
+      <p n="Many Are Credulous">
+        فربّ رجل
+        <lb/>
+
+        بالشيء لا يقبله عقله ولا يعرف فيصدّق به
+      </p>
+
+      <p n="One Needs to Keep Desire in Check">
+        وينبغي للعاقل أن
+        <lb/>
+
+        يكون لهوائه متهمًا
+      </p>
+
+      <p n="One Needs to Check the Veracity of Information">
+        ولا يقبل من كل واحد ولا يتمادى في الخطأ
+        <lb/>
+
+        إذا التبس عليه أمره
+      </p>
+
+      <p n="One Should Not Continue on the Wrong Path">
+        ولا يكون كالرجل الذي يجوز عن الطريق فيستمرّ
+        <lb/>
+
+        على الضلال ولا يزداد في السير جهدًا إلّا ازداد من القصد بعدًا
+      </p>
+
+      <p n="Man Rubs Itchy Eye and Loses It">
+        وكالرجل الذي تقذى عينه فلا يزال يحكّها حتّى أنّه ربّما أدّى الحكّ
+        <lb/>
+
+        إلى هلاكها
+      </p>
+
+      <p n="The Intelligent Should Believe in Fate">
+        ويجب على العاقل أن يصدّق بالقضاء والقدر ويأخذ
+        <lb/>
+
+        بالحزم
+      </p>
+
+      <p n="Do unto Other as to Oneself">
+        ويحبّ للناس ما يحبّه لنفسه ويكره لهم ما يكره ولا يلتمس صلاح
+        <lb/>
+
+        نفسه بإفساد غيره
+      </p>
+
+      <p n="A Merchant Steals from His Partner">
+        فإنّه من فعل ذلك كان خليقًا أن يصيبه ما
+        <lb/>
+
+        أصاب الرجل السارق من رفيقه فإنّه كان رجل تاجر وله
+        <lb/>
+
+        رفيقًا فاستأجرا حانوتًا وودعا متاعهما فيه وكان أحدهما قريب
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

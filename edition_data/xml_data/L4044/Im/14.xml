@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="14"/>
+
+      <p n="Hasty Reader Benefits Nothing">
+        فليس ينتفع بقراءته ولا يستفيد منه شيئًا
+      </p>
+
+      <p n="Voracious, Disoriented Reader">
+        فإنّه من أصاب شيئا فطمحت عيناه
+        <lb/>
+
+        إلى جمعه الأوّل فالأوّل
+      </p>
+
+      <p n="Treasure Discovered">
+        فهو خليق ألّا يصيب منه إلا كما أصاب الرجل
+        <lb/>
+
+        الذي أصاب الكنز ولم يحفظه حديث الرجل الذي أصاب الكنز
+        <lb/>
+
+        بلغني أنّه وجد في بعض الصحاري كنزًا فلمّا فتحه ونظر إليه رأى شيئًا عظيمًا
+        <lb/>
+
+        لا عهد له بمثله
+      </p>
+
+      <p n="Discoverer Hires Help">
+        فقال في نفسه إن أخذت في نقل ما ها هنا قليلًا قليلًا حمّلت
+        <lb/>
+
+        لنفسي شغلًا طويلًا ولم أحرز منه في الأيّام إلّا يسيرًا ولكنّي أستأجر رجالًا
+        <lb/>
+
+        ينقلوا إلى منزلي
+      </p>
+
+      <p n="Helpers Take Treasure">
+        ففعل ذلك وجاب الرجال فجعل يحمل كل رجل منهم ما
+        <lb/>
+
+        أطاق لينطلقوا به زعم إلى منزله فلم يزل دائبًا في ذلك حتّى فرغ منه
+        <lb/>
+
+        واستنفده ثم انطلق إلى منزله بعد الفراغ
+      </p>
+
+      <p n="Discoverer Loses Treasure">
+        فلم يجد منه في منزله شيئًا
+        <lb/>
+
+        ووجد كلّ رجل منهم قد حاز ما حمل لنفسه فلم يكن له منه إلّا العناء في
+        <lb/>
+
+        استخراجه
+      </p>
+
+      <p n="Readers Should Read Carefully and Reflect">
+        فكذلك الرجل ليس ينبغي له أن يجاوز شيئًا إلى غيره حتّى يُحكمه
+        <lb/>
+
+        ويثبت فيه ولا يطلب الآخر حتّى يُحكم الأول فإذا تثبّت في قراءته وأحكمه
+        <lb/>
+
+        فعليه بالفهم لما يقرأ والمعرفة له حتّى يضع كلّ شيء موضعه وينسبه إلى معناه
+      </p>
+
+      <p n="Readers Should Look for Hidden Meaning">
+        ولا يعرض في نفسه أن قد أحكم القراءة وعرف ظاهر القول فقد فرغ ممّا
+        <lb/>
+
+        ينبغي أن يعرف منه ولكن يعرف أنّ له باطنًا لم يعرفه فإذا لم يعرف ذلك
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

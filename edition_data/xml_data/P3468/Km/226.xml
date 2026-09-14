@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3468</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="226"/>
+
+      <p n="The Donkey Bites the Stag's Owner">
+        فحمل على الرجل وكدمه
+      </p>
+
+      <p n="The Stag's Owner Cuts the Donkey's Ears">
+        فضربه الرجل بالعصى ضربة وجيعة وقال
+        <lb/>
+
+        إن أنا أخذته لم آمن بليّة هيجانه ولكنّي أعلّم فيه علامة حتّى إذا
+        <lb/>
+
+        رأيته مع صاحبه طالبته بثأري فأخرج سكّينًا معه وقطع
+        <lb/>
+
+        بها أذني الحمار
+      </p>
+
+      <p n="The Donkey Is Punished upon Return">
+        فلمّا رأى ما حلّ به وكيف خسر ذلّ وفرّ من الرجل
+        <lb/>
+
+        هاربًا إلى دار صاحبه وكان الذي نزل به من صاحبه أشدّ
+        <lb/>
+
+        ممّا أصابه من قطع أذنيه
+      </p>
+
+      <p n="The Donkey Recognizes His Ancestors' Wisdom">
+        فجاش فِكر الحمار وقال لقد كان آبائي
+        <lb/>
+
+        أسبق إلى هذا الأمر ولكن خافوا من سوء عاقبته وصبروا
+        <lb/>
+
+        على ما صبروا عليه من المهنة وتحمّل المشقّة
+      </p>
+
+      <p n="King W Insists on a Solution">
+        قال الملك قد
+        <lb/>
+
+        سمعت هذا ولكن ما سبيلك أن تخاف هذا الأمر والعياذ
+        <lb/>
+
+        بالله تعالى إن لم يتمّ لنا ما نريده فلا بأس عليك وإنّا على كلّ حال
+        <lb/>
+
+        قادرون على خلاص أنفسنا
+      </p>
+
+      <p n="The Vizier Prays for the King">
+        فلمّا رأى الوزير أنّ الملك لا بدّ
+        <lb/>
+
+        له من إتمام ما سوّلت له النفس لم يعد يماريه فيما أراده
+      </p>
+
+      <p n="King W Orders Wood to Be Brought">
+        ثمّ
+        <lb/>
+
+        إنّ الملك أمر بالمناداة في جميع أعماله أن لا يبقى رجل شابّ
+        <lb/>
+
+        ومعتمل إلّا حضر اليوم الفلانّي إلى باب الملك ومعه حِمل
+        <lb/>
+
+        حطب من الجبل فامتثل الناس أمره وبادروا إلى طاعته
+      </p>
+
+      <p n="King W Knows When the Winds Subside">
+        وكان الملك عرف الوقت الذي ينقضّ فيه الريح
+      </p>
+
+      <p n="King W Orders the Hole to Be Blocked">
+        فلمّا كان
+        <lb/>
+
+        ذلك برز الملك وأمر الناس أن يحشوا الأحطاب في ذلك
+        <lb/>
+
+        الثقب وقدم على باب الثقب لوضع الأحطاب ناسًا معروفين
+        <lb/>
+
+        بالهندسة والعمارة ليعتمدوا سدّ الثقب بمقتضى الأحكام
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Km</chapter>
+  </chapter>
+</TEI>

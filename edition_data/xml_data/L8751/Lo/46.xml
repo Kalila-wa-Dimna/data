@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L8751</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="46"/>
+
+      <p n="The Crow Seeks Counsel">
+        به فإن رأيته فواطئني عليه فقال وما هو قال إنّي أريد أن آتي الأسود فأنقر
+        <lb/>
+
+        عينه وهو نائم فأفقأها
+      </p>
+
+      <p n="The Jackal's Warning">
+        قال ابن آوى بئس الحيلة احتلت فالتمس حيلة
+        <lb/>
+
+        تظفر بها من الأسود في غير إهلاك لنفسك ولا مخاطرة
+      </p>
+
+      <p n="The Heron and the Crab Parable">
+        وإيّاك أن يكون
+        <lb/>
+
+        مثلك مثل المكّاء الذي أراد قتل السرطان فقتل نفسه
+      </p>
+
+      <p n="The Crow Asks for the Story">
+        قال الغراب فكيف
+        <lb/>
+
+        كان ذلك
+      </p>
+
+      <p n="The Old Heron's Dilemma">
+        قال ابن آوى كان المكّاء الذي أراد قتل السرطان معشّشًا في أجمة
+        <lb/>
+
+        مخصّبة كثيرة السمك فعاش هنالك ما عاش ثمّ هرم فلم يستطيع الصيد
+        <lb/>
+
+        فأصابه جوع شديد وجهد
+      </p>
+
+      <p n="The Crab Approaches the Heron">
+        فالتمس الجبل فرآه سرطانًا من بعيد فدنا منه
+      </p>
+
+      <p n="The Crab's Inquiry">
+        فقال له مالي أراك قد علّتك كآبة
+      </p>
+
+      <p n="The Heron Explains His Sadness">
+        قال المكّاء وكيف لا أكون كذلك وإنّما كانت
+        <lb/>
+
+        معيشتي إلى اليوم ممّا كنت أصيد ممّا ها هنا من السمك كلّ يوم سمكة وسمكتين
+        <lb/>
+
+        فكنت أعيش بذلك وكان ذلك لا ينقص السمك لأنّه كان كثيرًا
+      </p>
+
+      <p n="The Heron's Tale of Fishermen">
+        وإني رأيت
+        <lb/>
+
+        اليوم صيّادين أتيا هذا الموضع فقال أحدهما لصاحبه أرى ها هنا سمكًا
+        <lb/>
+
+        كثيرًا أفلا نصيده بمرّه فقال صاحبه إنّي عرفت فيما أمامنا مكانًا فيه السمك
+        <lb/>
+
+        أكثر فإن أحببت أن نبدأ به فإذا فزعنا انصرفنا إلى ما ها هنا فأقمنا عليه
+        <lb/>
+
+        حتّى نفرغ منه
+      </p>
+
+      <p n="The Feared Consequence">
+        وقد علمت أنّهما لو رجعا ممّا توجّها له انصرفا إلينا فلم يدعا في هذه
+        <lb/>
+
+        الأجمة سمكة إلّا صاداها فإذا كان ذلك كذلك فهو موتي
+      </p>
+
+      <p n="The Crab Warns the Fish">
+        فانطلق السرطان
+        <lb/>
+
+        إلى جماعة من السمك فأخبرهنّ
+      </p>
+
+      <p n="The Fish Seek Counsel">
+        فأقبلن إلى المكاء يستشرنه
+      </p>
+
+      <p n="A Plea for Advice">
+        وقلن له إنّا جئناك نستشيرك
+        <lb/>
+
+        فأشر علين فإنّ ذا العقل لا يدع مشاورة عدوّه إذا كان أراد في الأمر الذي
+        <lb/>
+
+        يشتركان فيه نفعه وأنت ذو رأي ولك في بقائنا صلاحًا فأشر علينا
+      </p>
+
+      <p n="The Heron's Deceptive Offer">
+        قال
+        <lb/>
+
+        المكاء أمّا قتال الصيّاد ومكايدته فليس عندي ولا أعلم حيلة إلّا أنّي قد علمت
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lo</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P2789</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="343"/>
+
+      <p n="The Merchant Forfeits Trust">
+        بالفحشاء فقبل الرجل عذره وأضرب عن توبيخه ولم يغيّر الثقة
+        <lb/>
+
+        به وندم عندما عاين من سوء فعله وتقديم جهله
+      </p>
+
+      <p n="The Reader Should Examine the Parables Carefully">
+        وقد ينبغي
+        <lb/>
+
+        للعاقل الناظر في كتابنا أن لا يجعل غايته فيه التصفّح لورقه بل يتشرّف
+        <lb/>
+
+        على ما تضمّن من ضرب الأمثال حتّى يأتي على آخره
+      </p>
+
+      <p n="The Reader Should Discern the Aim">
+        ويقف عند كلّ
+        <lb/>
+
+        مثل وكلمة
+      </p>
+
+      <p n="Two Brothers Waste Bequeathed Wealth">
+        ويكون كالإخوة الثلاثة الذي خلّف لهم أبوهم المال
+        <lb/>
+
+        الكثير فتنازعوا بينهم فأمّا الكبيران فإنّهما قد أسرفا في إتلافه وإنفاقه
+        <lb/>
+
+        في غير وجهه
+      </p>
+
+      <p n="The Youngest Brother Weighs the Situation">
+        وأمّا الصغير فإنّه عندما نظر إلى ما صار أخواه إليه
+        <lb/>
+
+        من إسرافهما وضياع المال أقبل على نفسها يشاورها وفكّر في سوء
+        <lb/>
+
+        تصرّف الإخوان
+      </p>
+
+      <p n="The Youngest Reflects on Wealth">
+        فقال يا نفس إنّما المال يطلبه صاحبه ويجمعه
+        <lb/>
+
+        من كلّ وجه لبقاء حاله وصلاح دنياه وشرف منزلته في أعين
+        <lb/>
+
+        الناس واستغنائه عمّا في أيديهم وصرفه في وجهه من صلة الرحم
+        <lb/>
+
+        والإنفاق على الولد والإفضال على الإخوان إذ لم يبق لدة
+      </p>
+
+      <p n="Allocating Wealth Poorly is Poverty">
+        لمن كان
+        <lb/>
+
+        ذا مال ولم ينفقه في حقوقه كالذي يعدّ فقيرًا وإن كان موسرًا
+      </p>
+
+      <p n="A Wealth Well Spent Brings Praise">
+        وإن
+        <lb/>
+
+        هو أحسن إمساكه والقيام عليه لم يعدم الأمرين جميعًا في دنيا
+        <lb/>
+
+        تضاف إليه وحمد يبقى عليه
+      </p>
+
+      <p n="False Spending Brings Regret">
+        ومتى قصد بإنفاقه غير
+        <lb/>
+
+        الوجوه التي حدثت لم يلبث أن يتلفه وتبقى عليه حسرة
+        <lb/>
+
+        وندامة
+      </p>
+
+      <p n="The Youngest Brother Decides To Help">
+        ولكنّ الرأي في أن أمسك هذا المال فإنّي أرجو أن ينفعني الله
+        <lb/>
+
+        به ويغني إخوتي على أيدي فإنّما هو مال أبي وأمّهما وإنّ أولى
+        <lb/>
+
+        الإنفاق صلة الرحم وإن بعد النسب فكيف ببني أبي
+      </p>
+
+      <p n="The Youngest Brother Shares His Wealth">
+        ثم أسعفهما
+        <lb/>
+
+        بشيء من المال وبقي هو على قدم الانكماش
+      </p>
+
+      <p n="The Reader Must Always Come Back to the Book">
+        وكذلك يجب على قارئ
+        <lb/>
+
+        هذا الكتاب أن يديم النظر فيه
+      </p>
+
+      <p n="A Fisher Finds an Empty Shell">
+        فيكون مثله مثل الصيّاد الذي
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Im</chapter>
+  </chapter>
+</TEI>

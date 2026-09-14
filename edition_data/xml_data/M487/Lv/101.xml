@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>M487</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="101"/>
+
+      <p n="Burzoy Wants Immaterial Gift">
+        والكرامة الجليلة عنده
+      </p>
+
+      <p n="Kisra Urges Buzurgmihr To Excel">
+        وإنّي أحبّ أن تتكلّم في ذلك وتسعفه
+        <lb/>
+
+        بمقالته وما يحبّه
+        <lb/>
+
+        واعلم أنّ ذلك ممّا سررت به ولا تدع من الاجتهاد والمبالغة شيء ولا تترك
+        <lb/>
+
+        شيئًا إلّا بلغته ولو نالتك فيه مشقّة
+      </p>
+
+      <p n="Chapter To Match Others">
+        وهو أن تكتب بابًا مضاهيًا لتلك
+        <lb/>
+
+        الأبواب التي في الكتاب
+      </p>
+
+      <p n="Chapter To Extol Burzoy">
+        وتذكر فيه فضل برزويه وكيف كان ابتداء أمره
+        <lb/>
+
+        وشأنه وتنسبه إليه إلى نفسه وسياسته وأدبه ومحبّته للعلم وأهله
+        <lb/>
+
+        وتعرف له فيه بعثتنا له إلى بلاد الهند في طاعتنا وقد أفدنا عليه من
+        <lb/>
+
+        ذلك وشرّفنا به وفضّلنا على غيرنا وكيف كان حال برزويه في بلاد الهند
+        <lb/>
+
+        بأفضل ما تقدر عليه من التقريظ والإطناب
+      </p>
+
+      <p n="Buzurgmihr To Spare No Effort">
+        واجتهد في ذلك اجتهاد
+        <lb/>
+
+        فإنّ برزويه أهل لكلّ خير يؤتيه منّي ومن جميع أهل المملكة ومثّل أيضًا
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lv</chapter>
+  </chapter>
+</TEI>

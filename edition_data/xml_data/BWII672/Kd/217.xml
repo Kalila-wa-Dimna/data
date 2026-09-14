@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>BWII672</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="217"/>
+
+      <p n="Lion Says He Tested Jackal">
+        فأجابه الأسد إنّي قد وعيت أمانتك وعقلك ووفاءك
+        <lb/>
+
+        وعرفت كلّ من كان يحمّلني عليك
+      </p>
+
+      <p n="Lion Vows to Disregard Future Slander">
+        ولست متحمّلًا ولا
+        <lb/>
+
+        مصادقًا لمن عاداك
+      </p>
+
+      <p n="Lion Reinstates Jackal">
+        ثمّ أمر بردّه لمنزلته التي كان
+        <lb/>
+
+        عليها
+      </p>
+
+      <p n="Lion Is Pleased with Jackal">
+        ولم تزده الأيّام إلّا حبًّا وتقاربًا عنده
+      </p>
+
+      <p n="Lion Punishes Schemers">
+        وكبتوا
+        <lb/>
+
+        حسّاده وأعداءه
+      </p>
+
+      <p n="End of Chapter">
+        انتهى باب الأسد وابن آوى بالتمام
+      </p>
+
+      <p n="Chapter Title">
+        الباب العاشر
+        <lb/>
+
+        باب إيلاد وبيلاد وإبرخت
+      </p>
+
+      <p n="Abstract">
+        وهو مثل ما أحقّ الأشياء
+        <lb/>
+
+        بالمَلك أن يُلزم بها نفسه ويحفظ بها مُلكه
+      </p>
+
+      <p n="King Understood Previous Chapter">
+        قال المَلك ديشلم مَلك الهند لبيديا الفيلسوف قد
+        <lb/>
+
+        هد مثل الأسد وابن آوى وفهمت معناه
+      </p>
+
+      <p n="King Asks How To Preserve Rule">
+        فاضرب
+        <lb/>
+
+        لي مثل ما أحقّ الأشياء بالمَلك أن يُلزم بها نفسه
+        <lb/>
+
+        ويحفظ بها مُلكه
+      </p>
+
+      <p n="Philosopher Prioritizes Ḥilm">
+        قال الفيلسوف ينبغي للمَلك أن يُلزم
+        <lb/>
+
+        نفسه الحلم
+      </p>
+
+      <p n="Philosopher Adds Consultation">
+        ومشاورة العلماء وأهل الفضل وأنّ
+        <lb/>
+
+        أجود الأشياء لكل أحد الحلم ولا سيّما الملوك ذو القوّة
+        <lb/>
+
+        والقدرة والبطش
+      </p>
+
+      <p n="Philosopher Adds Good Wife">
+        <> على الرؤيا الصالحة
+      </p>
+
+      <p n="Without Advice One Fails">
+        ثمّ أنّ الرجل إذا
+        <lb/>
+
+        كان شجاعًا ولم يكن له حكيمًا يشاوره ويرفعه عن
+        <lb/>
+
+        منازل أهل النقص فإنّه ينهضه من أمر يزغ فيه بجهله
+        <lb/>
+
+        ويصير أمره إلى الندامة
+      </p>
+
+      <p n="Competent Vizier">
+        وينبغي أن يكون وزير المَلك
+        <lb/>
+
+        عاقلًا أمينًا على الأسرار ناصحًا للمَلك في سائر أمره
+        <lb/>
+
+        فيعطي المَلك الظفر والفرج مع من يخاصمه والغلبة على
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3478</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="413"/>
+
+      <p n="unassigned">
+        قد فهمت قولك وأنا مؤمّنك وجاعل لك عهدًا ألّا أعرض
+        <lb/>
+
+        لك رغبة منّي لما رغبت منّي من مواصلتي ومؤاخاتي غير أنّي
+        <lb/>
+
+        لا أحبّ أن أعطيك من نفسي ما لا يمكنني الوفاء به وذلك
+        <lb/>
+
+        أنّ الناسك قد ائتمنني على منزله واتّخذني لأكفيه
+        <lb/>
+
+        مؤنتك ومرتب غيرك ولست غادرًا به ولا مخالفًا ظنّه
+        <lb/>
+
+        فالتمس لنفسك مخرجًا إلى بعض الصحاري أو إلى بعض البيوت
+        <lb/>
+
+        التي حول بيت الناسك لأصير لك على ما تحبّ من المودّة
+        <lb/>
+
+        والإخاء وأحفظ معيبك ومشهدك وإن أنت لم تفعل فلا
+        <lb/>
+
+        عهد لك عليّ ولا ذمّة لأنّه لا بدّ لي من نصيحة سيّدي
+        <lb/>
+
+        وحسن الغني عنه في ما استكفاني من أمره قال له
+        <lb/>
+
+        الجرذ إنّي قد بدأتك بالرغبة إليك والخضوع لك
+        <lb/>
+
+        وقد يجب عليك إسعافي فافعل ذلك ولا تخيّبني
+        <lb/>
+
+        قال ابن العرس إنّه ليحقّ عليّ أن أوافقك وأسارع
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kw</chapter>
+  </chapter>
+</TEI>

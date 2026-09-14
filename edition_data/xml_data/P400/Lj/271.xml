@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P400</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="271"/>
+
+      <p n="Lion Has Jackal Arrested">
+        به الأسد أن يُخرج من عنده ويُحتفظ به
+      </p>
+
+      <p n="Courtiers Are Amazed at Lion's Unawareness">
+        فقال بعض جلساء الأسد إنّي ﻷعجب
+        <lb/>
+
+        من رأي الملك ومعرفته بالأمور كيف يخفى عليه أمر هذا وخبثه ومخادعته
+      </p>
+
+      <p n="Courtiers Expect Jackal's Pardon">
+        قال آخر عجبًا من ذلك إنّي لا أرى الأسد إلّا سيصفح عنه بعد الذي ظهر
+        <lb/>
+
+        عليه منه
+      </p>
+
+      <p n="False Message and Death Sentence">
+        ثمّ أرسل الأسد إلى ابن آوى يسأله عن أمره فسأله عن أمره فرجع إليه
+        <lb/>
+
+        الرسول برسالة فآذته فأمر الأسد به أن يُقتل
+      </p>
+
+      <p n="Lion's Mother Delays Execution">
+        فلمّا بلغ ذلك أمّ الأسد عرفت
+        <lb/>
+
+        أنّه مكذوب عليه فأرسلت إلى الذين أُمروا به فأُحضروا
+      </p>
+
+      <p n="Mother Questions Lion">
+        فدخلت على الأسد
+        <lb/>
+
+        وقالت له بأيّ ذنب أمرت بقتل ابن آوى فأخبرها فقالت عجلت يا بنيّ
+      </p>
+
+      <p n="The Intelligent Deliberates">
+        وإنّما يسلم
+        <lb/>
+
+        العاقل بالأخذ بالتواني
+      </p>
+
+      <p n="Haste Causes Regret">
+        والعجلة لا يزال صاحبها يجني ثمرة الندامة وضعف الرأي
+      </p>
+
+      <p n="Kings Need Deliberateness Most">
+        وليس أحد أحوج إلى المودّة والتثبّت من الملوك
+      </p>
+
+      <p n="Chain of Dependence up to King's Virtues">
+        فإنّ المرأة إنّما هي بزوجها والولد
+        <lb/>
+
+        بوالده والمتعلّم بمؤدّبه والجند بالقائد والعامّة بالملوك والملوك بالتقوى
+        <lb/>
+
+        والعقل بالتواني
+      </p>
+
+      <p n="King to Consider People's Ranks">
+        ورأس الحكم للملك معرفة أصحابه وإنزاله إيّاهم منازلهم
+        <lb/>
+
+        واتّهام بعضهم على بعض
+      </p>
+
+      <p n="People Scheme against Each Other">
+        فإنّه إن وُجد أحد منهم في تهجين بلاء المبتلين وإحسان
+        <lb/>
+
+        المحسنين والعصبة على إساءة المسيئين سبيلًا لم يكن له في ذلك رويّة ولا مراقبة
+      </p>
+
+      <p n="King to Be Aware of Schemes">
+        فالملك حقيقًا أن يتعاهد ومن ذلك ما يجب عليه لئلّا يركب من أحد منهم مأثمًا
+        <lb/>
+
+        يحتمل فيه إصرًا ووزرًا يكسر ذلك عنه ويتسامع به من ورائه فيدخل عليه منه ما
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Lj</chapter>
+  </chapter>
+</TEI>

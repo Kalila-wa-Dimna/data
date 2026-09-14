@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="240"/>
+
+      <p n="Queen Is Especially Deserving">
+        من الفرح والسرور
+      </p>
+
+      <p n="Subjects Dont Expect Reward">
+        قال بلاذ أنّه لا ينبغي لنا معشر العبيد
+        <lb/>
+
+        أن تعجب بما كان منّا في ذلك
+      </p>
+
+      <p n="Subjects Must Sacrifice For King">
+        وأي عبد لا ينبغي له أن يسلّم
+        <lb/>
+
+        نفسه فداء مليكه للموت فإنّ الّذى لا تطيب نفسه بالموت
+        <lb/>
+
+        فداء الاخلّاء ليس بكامل الحلم فلا تعجبن أيّها الملك إن أسلم
+        <lb/>
+
+        عبد نفسه إلى الموت مكان مليكه الّذى شرّفه وكرّمه
+        <lb/>
+
+        وفي بقائه بقاء النعمة عليه
+      </p>
+
+      <p n="Vizier Rejects Gift">
+        فأمّا هذه الهدايا العظيمة فإنّه
+        <lb/>
+
+        لا ينبغي لنا معشر العبيد أن ندنوا منها فأمّا جويز فإنّه
+        <lb/>
+
+        ولدكم فليأخذ ما أعطيتموه
+      </p>
+
+      <p n="King Instists Giving Gift">
+        فقال الملك أنّه قد
+        <lb/>
+
+        شاع لنا في هذا الأمر ذكر عظيم وفخر كثير فلا تحتشمنّ
+        <lb/>
+
+        يا بلاذ وخذ الّذي يصيبك فقرّ به عينًا
+      </p>
+
+      <p n="Vizier Accepts Gift">
+        قال بلاذ ليكن
+        <lb/>
+
+        من ذلك ما أحبّ الملك السعيد ولكن إن رأي الملك
+        <lb/>
+
+        أن يبدأ بأخذ ما يريد أولًا فليفعل
+      </p>
+
+      <p n="Men Receive Their Gifts">
+        فبدأ الملك فأخذ الفيل
+        <lb/>
+
+        الأبيض ثمّ أعطى ابنه جويز إحدى الفرسين وأعطى بلاذ
+        <lb/>
+
+        السيف الخالص الحديد وأعطى كاك الكاتب الفرس
+        <lb/>
+
+        الآخر وبعث إلى كناربزون بالثياب الكتّان التي
+        <lb/>
+
+        تلبس الملوك وأكرمه بكرامة جزيلة وأعطى البازين
+        <lb/>
+
+        ابن أخيه الكريم عليه
+      </p>
+
+      <p n="Queen Shall Choose Gift">
+        وقال أمّا الإكليل وسائر
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Kd</chapter>
+  </chapter>
+</TEI>

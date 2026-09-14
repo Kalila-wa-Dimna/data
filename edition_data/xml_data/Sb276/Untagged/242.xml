@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>Sb276</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="242"/>
+
+      <p n="unassigned">
+        للضّعيف في قرب القويّ من الأعداء ولا الذليل
+        <lb/>
+
+        من قرب العدوّ العزيز ولا أعلم أن ليّ بك حاجة
+        <lb/>
+
+        إلّا أن تريد أكليّ وإنّي قد عرفت أنّ الضعيف هو
+        <lb/>
+
+        أقرب أن يسلم من العدوّ والقويّ إذا اعتزّ بالضعيف
+        <lb/>
+
+        استرسل إليه والعاقل يصانع عدوّه اذا اضطرّ إليه
+        <lb/>
+
+        ويظهر له ودّه ويريه من نفسه الاسترسال إليه
+        <lb/>
+
+        اذا لم يجد به من ذلك ويعجّل الانصراف عنه إذا
+        <lb/>
+
+        وجد إلى ذلك سبيلًا واعلم أنّ سريع الاسترسال
+        <lb/>
+
+        لا يكاد يستقرّ صديقه والعاقل يفي بمّا عجّل لمن صالحه
+        <lb/>
+
+        ولا يتّقي لنفسه بمثل ذلك من أحد ولا يؤثر على البعد
+        <lb/>
+
+        من عدوّه ما استطاع فالبعد لك من الصيّاد أولى
+        <lb/>
+
+        والبعد لي منك أحزم الرأي وأنا أودّك من بعيد
+        <lb/>
+
+        ولا عليك أن تجازيني على صنيعي إذ لا
+        <lb/>
+
+        سبيل إلى الاجتماع والسبح
+        <lb/>
+
+        لله دائمًا إلى أبد
+        <lb/>
+
+        الآبدين
+        <lb/>
+
+        آمين
+        <lb/>
+
+        تم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Untagged</chapter>
+  </chapter>
+</TEI>

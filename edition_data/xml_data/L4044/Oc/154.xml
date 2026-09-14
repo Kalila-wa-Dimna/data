@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>L4044</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="154"/>
+
+      <p n="Gauging Distances Is Like Maximizing Shadows">
+        في إمالتها قصر ظلّها
+      </p>
+
+      <p n="The Owls Will Not Accept the Pact">
+        وليس عدوّنا يرضى منّا باليسير
+      </p>
+
+      <p n="Recourse Is in Fighting the War and Enduring">
+        والرأي لنا الصبر
+        <lb/>
+
+        والمحاربة
+      </p>
+
+      <p n="The Crow King Asks the Fifth Crow, a Spy">
+        قال الملك للخامس ما ترى القتال أم الصلح أم الجلاء
+      </p>
+
+      <p n="The Spy Rejects Fighting">
+        قال
+        <lb/>
+
+        أمّا القتال فلا سبيل إلى قتال من لا نقوى به
+      </p>
+
+      <p n="The Foolish Underestimate Their Foes">
+        وقد كان يقال من لم يعرفْ
+        <lb/>
+
+        قدر نفسه وقدر عدوّه وقاتل من لا قوّة له به فعلى نفسه جهل
+      </p>
+
+      <p n="The Intelligent Never Underestimate Their Foes">
+        مع أنّ العاقل
+        <lb/>
+
+        لا يستضعف عدوًّا فإنّ من فعل ذلك اغترّ ومن اغترّ عُطب
+      </p>
+
+      <p n="The Spy Expresses Fear">
+        وأنا شديد الهيبة
+        <lb/>
+
+        للبوم وإن أضربن عن قتالنا وقد كنت مستوحشًا منهنّ قبل إيقاعهم بنا
+      </p>
+
+      <p n="The Intelligent Is Never Free from Worry">
+        فإنّ
+        <lb/>
+
+        الحازم لا يأمن عدوّه على حال خوفًا لمواثبته إن قرب ولمعاودته ومنادهته
+        <lb/>
+
+        إن بعد ولكمونه إن تكشّف ولاستطراده إن ولّى ولمكره إن رآه وحيدًا
+      </p>
+
+      <p n="War Shoud be the Last Resort">
+        فأحزم
+        <lb/>
+
+        القوم وأكيسهم من كره القتال ما وجد عنه سبيلًا
+      </p>
+
+      <p n="War Brings Loss">
+        ليس القتال إنّما النفقة
+        <lb/>
+
+        من الأنفس وسائر المررّ به المنفقة فيها من الأموال والقول والعمل فلا يكوننّ
+        <lb/>
+
+        قتال البوم من رأيكم
+      </p>
+
+      <p n="An Elephant Should Not Be Kicked">
+        فإنّه من راكل الفيل راكل الجبن والبلاء
+      </p>
+
+      <p n="The Crow King Asks for Alternatives">
+        قال
+        <lb/>
+
+        الملك فإن كرهت القتال فماذا ترى
+      </p>
+
+      <p n="Opinion Counseling">
+        قال أيّها الملك نأتمر وننظر
+      </p>
+
+      <p n="Advice Outweighs Armies">
+        فإنّ
+        <lb/>
+
+        الملك المؤامر المشاور يصيب من مؤامرة النصحاء ذوي العقول من الظفر
+        <lb/>
+
+        ما لا يصيبه بالجنود الكثيرة
+      </p>
+
+      <p n="Advice To King Like Rivers To Sea">
+        والملك الحازم يزداد برأي الوزراء الحزمة
+        <lb/>
+
+        رأيًا وحزمًا كما يزداد البحر بموادّه من الأنهار
+      </p>
+
+      <p n="Resolute King Keeps Reflecting">
+        فليس يخفى على الحازم
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Oc</chapter>
+  </chapter>
+</TEI>

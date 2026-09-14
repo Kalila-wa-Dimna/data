@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kalila wa Dimna</title>
+      </titleStmt>
+
+      <sourceDesc>
+        <bibl>
+          <title>Kalila wa Dimna Manuscript</title>
+          <abbr>P3466</abbr>
+          <date>13th century</date>
+          <note>Arabic manuscript witness for textual comparison.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <pb n="150"/>
+
+      <p n="Silence in an Argument Means Approval">
+        للأسد إنّ العلماء قد قالوا من قصد صاحبه بقول في جماعة من الناس فلم يجبه
+        <lb/>
+
+        المقول فقد صدّق بسكوته قول صاحبه فيه ثمّ نهضت فخرجت
+      </p>
+
+      <p n="Lion Hands Dimna Over to Judge for Investigation">
+        فدفع
+        <lb/>
+
+        الأسد دمنة إلى القاضي فأمره بالفحص عن أمره وأن يلقى إليه ما يكون
+        <lb/>
+
+        من قوله وعذره
+      </p>
+
+      <p n="The Judge Has Dimna Taken to Prison">
+        فأخذه القاضي وأمر أن يُترك في عنقه جامعة
+        <lb/>
+
+        ويُنطلق به إلى السجن
+      </p>
+
+      <p n="Kalila Seeks out Dimna in Prison">
+        فلمّا انتصف الليل أخبر كليلة أنّ دمنة قد
+        <lb/>
+
+        انطُلق به إلى السجن فأتاه مستخفيًا
+      </p>
+
+      <p n="Kalila Weeps when Seeing Dimna">
+        فلمّا رأى ما هو فيه من ضيق القيود وحرج المكان بكى
+      </p>
+
+      <p n="Kalila Admits Having Been Harsh on Dimna">
+        وقال
+        <lb/>
+
+        له ما وصلت إلى ما وصلت من سوء الحال إلّا باستعمالك الغلظة
+        <lb/>
+
+        وإضرابك عن الاستماع للعظة ولكن لا بدّ لي من إنذارك والنصيحة
+        <lb/>
+
+        لك والمسارعة إليك في خلوص الرغبة
+      </p>
+
+      <p n="Withholding Advice Would Have Made Kalila Complicit">
+        فإنّ لكلّ مقام مقال
+      </p>
+
+
+    </body>
+  </text>
+  <chapter>
+    <chapter>Di</chapter>
+  </chapter>
+</TEI>
